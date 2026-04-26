@@ -1,0 +1,340 @@
+[
+  {
+    "id": 29640,
+    "date": "2002-06-13",
+    "title": "51. schůze, 9. hlasování , 13. června 2002, 10:30:00",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 102,
+      "no": 74,
+      "abstain": 19,
+      "absent": 0,
+      "not_logged": 5
+    }
+  },
+  {
+    "id": 29641,
+    "date": "2002-06-13",
+    "title": "51. schůze, 10. hlasování , 13. června 2002, 10:30:00",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 155,
+      "no": 12,
+      "abstain": 28,
+      "absent": 0,
+      "not_logged": 5
+    }
+  },
+  {
+    "id": 29642,
+    "date": "2002-06-13",
+    "title": "Návrh zákona o přechodu z majetku ČR do vlastnic",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 13,
+      "no": 47,
+      "abstain": 134,
+      "absent": 0,
+      "not_logged": 6
+    }
+  },
+  {
+    "id": 29643,
+    "date": "2002-06-13",
+    "title": "Návrh zákona o přechodu z majetku ČR do vlastnic",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 28,
+      "no": 108,
+      "abstain": 59,
+      "absent": 0,
+      "not_logged": 5
+    }
+  },
+  {
+    "id": 29644,
+    "date": "2002-06-13",
+    "title": "Vl. návrh zák. o úvěrů na letadla JAS 39 Gripen",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 95,
+      "no": 94,
+      "abstain": 6,
+      "absent": 0,
+      "not_logged": 5
+    }
+  },
+  {
+    "id": 29645,
+    "date": "2002-06-13",
+    "title": "Vl. návrh zák. o úvěrů na letadla JAS 39 Gripen",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 100,
+      "no": 94,
+      "abstain": 1,
+      "absent": 0,
+      "not_logged": 5
+    }
+  },
+  {
+    "id": 29646,
+    "date": "2002-06-13",
+    "title": "Vl. návrh zák. o spořitelních a úvěrních družstv",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 42,
+      "no": 98,
+      "abstain": 57,
+      "absent": 0,
+      "not_logged": 3
+    }
+  },
+  {
+    "id": 29647,
+    "date": "2002-06-13",
+    "title": "Vládní návrh zák. o Komisi pro cenné papíry - EU",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 95,
+      "no": 67,
+      "abstain": 17,
+      "absent": 0,
+      "not_logged": 21
+    }
+  },
+  {
+    "id": 29648,
+    "date": "2002-06-13",
+    "title": "Vl. z. o přech. věcí, práv a závazků ČR na kraje",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 91,
+      "no": 80,
+      "abstain": 17,
+      "absent": 0,
+      "not_logged": 12
+    }
+  },
+  {
+    "id": 29649,
+    "date": "2002-06-13",
+    "title": "Vl. z. o přech. věcí, práv a závazků ČR na kraje",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 108,
+      "no": 65,
+      "abstain": 15,
+      "absent": 0,
+      "not_logged": 12
+    }
+  },
+  {
+    "id": 29650,
+    "date": "2002-06-13",
+    "title": "Vl. n. zák. souv. s přijetím služebního zákona",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 95,
+      "no": 52,
+      "abstain": 24,
+      "absent": 0,
+      "not_logged": 29
+    }
+  },
+  {
+    "id": 29651,
+    "date": "2002-06-13",
+    "title": "Návrh novely zákona o utajovaných skutečnostech",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 76,
+      "no": 98,
+      "abstain": 8,
+      "absent": 0,
+      "not_logged": 18
+    }
+  },
+  {
+    "id": 29652,
+    "date": "2002-06-13",
+    "title": "Návrh novely zákona o utajovaných skutečnostech",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 161,
+      "no": 18,
+      "abstain": 3,
+      "absent": 0,
+      "not_logged": 18
+    }
+  },
+  {
+    "id": 29653,
+    "date": "2002-06-13",
+    "title": "Vládní návrh zákona o obcích",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 97,
+      "no": 66,
+      "abstain": 10,
+      "absent": 0,
+      "not_logged": 27
+    }
+  },
+  {
+    "id": 29654,
+    "date": "2002-06-13",
+    "title": "51. schůze, 23. hlasování , 13. června 2002, 12:41:00",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 56,
+      "no": 78,
+      "abstain": 47,
+      "absent": 0,
+      "not_logged": 19
+    }
+  },
+  {
+    "id": 29655,
+    "date": "2002-06-13",
+    "title": "V. zák. o stan. obcí s pověřeným obecním úřadem",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 102,
+      "no": 58,
+      "abstain": 23,
+      "absent": 0,
+      "not_logged": 17
+    }
+  },
+  {
+    "id": 29656,
+    "date": "2002-06-13",
+    "title": "V. zák. o ukončením činnosti okresních úřadů",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 102,
+      "no": 77,
+      "abstain": 9,
+      "absent": 0,
+      "not_logged": 12
+    }
+  },
+  {
+    "id": 29657,
+    "date": "2002-06-13",
+    "title": "V. zák. o úřednících územních samospráv. celků",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 97,
+      "no": 70,
+      "abstain": 8,
+      "absent": 0,
+      "not_logged": 25
+    }
+  },
+  {
+    "id": 29658,
+    "date": "2002-06-13",
+    "title": "Návrh zákona o regulaci reklamy",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 21,
+      "no": 116,
+      "abstain": 44,
+      "absent": 0,
+      "not_logged": 19
+    }
+  },
+  {
+    "id": 29659,
+    "date": "2002-06-13",
+    "title": "Návrh zákona o regulaci reklamy",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 93,
+      "no": 68,
+      "abstain": 21,
+      "absent": 0,
+      "not_logged": 18
+    }
+  },
+  {
+    "id": 29660,
+    "date": "2002-06-13",
+    "title": "N. zák. o zm. zák. v oblasti živnost. podnikání",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 93,
+      "no": 87,
+      "abstain": 2,
+      "absent": 0,
+      "not_logged": 18
+    }
+  },
+  {
+    "id": 29661,
+    "date": "2002-06-13",
+    "title": "N. zák. o zm. zák. v oblasti živnost. podnikání",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 132,
+      "no": 7,
+      "abstain": 46,
+      "absent": 0,
+      "not_logged": 15
+    }
+  },
+  {
+    "id": 29662,
+    "date": "2002-06-13",
+    "title": "N. zák. o zm. zák. v oblasti živnost. podnikání",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 93,
+      "no": 89,
+      "abstain": 2,
+      "absent": 0,
+      "not_logged": 16
+    }
+  },
+  {
+    "id": 29663,
+    "date": "2002-06-13",
+    "title": "Návrh zákona o obecní policii",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 131,
+      "no": 22,
+      "abstain": 31,
+      "absent": 0,
+      "not_logged": 16
+    }
+  },
+  {
+    "id": 29664,
+    "date": "2002-06-13",
+    "title": "Doplnění fin. zpráv pol. stran",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 106,
+      "no": 0,
+      "abstain": 8,
+      "absent": 0,
+      "not_logged": 86
+    }
+  },
+  {
+    "id": 29665,
+    "date": "2002-06-13",
+    "title": "odpovědi na pís.interpel.",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 10,
+      "no": 4,
+      "abstain": 70,
+      "absent": 0,
+      "not_logged": 116
+    }
+  }
+]

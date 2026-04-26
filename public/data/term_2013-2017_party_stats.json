@@ -1,0 +1,74 @@
+[
+  {
+    "party_id": "ods",
+    "mps_count": 16,
+    "avg_attendance": 74.02,
+    "unity_score": 0.924,
+    "total_eligible_votes": 129714,
+    "total_attended": 96978
+  },
+  {
+    "party_id": "cssd",
+    "mps_count": 54,
+    "avg_attendance": 76.15,
+    "unity_score": 0.856,
+    "total_eligible_votes": 426723,
+    "total_attended": 326264
+  },
+  {
+    "party_id": "kscm",
+    "mps_count": 33,
+    "avg_attendance": 84.82,
+    "unity_score": 0.916,
+    "total_eligible_votes": 278624,
+    "total_attended": 236880
+  },
+  {
+    "party_id": "top09-s",
+    "mps_count": 27,
+    "avg_attendance": 69.09,
+    "unity_score": 0.9,
+    "total_eligible_votes": 226382,
+    "total_attended": 157759
+  },
+  {
+    "party_id": "ano",
+    "mps_count": 52,
+    "avg_attendance": 71.88,
+    "unity_score": 0.91,
+    "total_eligible_votes": 409274,
+    "total_attended": 307145
+  },
+  {
+    "party_id": "nezaraz",
+    "mps_count": 8,
+    "avg_attendance": 69.89,
+    "unity_score": null,
+    "total_eligible_votes": 61960,
+    "total_attended": 45693
+  },
+  {
+    "party_id": "kdu-csl",
+    "mps_count": 15,
+    "avg_attendance": 76.34,
+    "unity_score": 0.883,
+    "total_eligible_votes": 121898,
+    "total_attended": 92480
+  },
+  {
+    "party_id": "usvit",
+    "mps_count": 6,
+    "avg_attendance": 74.73,
+    "unity_score": 0.896,
+    "total_eligible_votes": 52242,
+    "total_attended": 39041
+  },
+  {
+    "party_id": "Nezařaz",
+    "mps_count": 0,
+    "avg_attendance": 0,
+    "unity_score": 0.812,
+    "total_eligible_votes": 0,
+    "total_attended": 0
+  }
+]

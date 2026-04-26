@@ -1,0 +1,107 @@
+[
+  {
+    "id": "Nezařaz",
+    "name": "NEZAŘAZ",
+    "color": "#CCCCCC"
+  },
+  {
+    "id": "Nezařazení",
+    "name": "NEZAŘAZENÍ",
+    "color": "#CCCCCC"
+  },
+  {
+    "id": "ano",
+    "name": "ANO",
+    "color": "#2C2E83"
+  },
+  {
+    "id": "cssd",
+    "name": "CSSD",
+    "color": "#EC5800"
+  },
+  {
+    "id": "kdu-csl",
+    "name": "KDU-CSL",
+    "color": "#8B7500"
+  },
+  {
+    "id": "kscm",
+    "name": "KSCM",
+    "color": "#BF0200"
+  },
+  {
+    "id": "ms",
+    "name": "MS",
+    "color": "#FF8C00"
+  },
+  {
+    "id": "nez-sz",
+    "name": "NEZ-SZ",
+    "color": "#00FF7F"
+  },
+  {
+    "id": "oda",
+    "name": "ODA",
+    "color": "#00008B"
+  },
+  {
+    "id": "ods",
+    "name": "ODS",
+    "color": "#034785"
+  },
+  {
+    "id": "pirati",
+    "name": "PIRATI",
+    "color": "#000000"
+  },
+  {
+    "id": "spd",
+    "name": "SPD",
+    "color": "#1074BC"
+  },
+  {
+    "id": "spr-rsc",
+    "name": "SPR-RSC",
+    "color": "#8B4513"
+  },
+  {
+    "id": "stan",
+    "name": "STAN",
+    "color": "#6AA100"
+  },
+  {
+    "id": "sz",
+    "name": "SZ",
+    "color": "#008000"
+  },
+  {
+    "id": "top09",
+    "name": "TOP09",
+    "color": "#6B0241"
+  },
+  {
+    "id": "top09-s",
+    "name": "TOP09-S",
+    "color": "#CCCCCC"
+  },
+  {
+    "id": "us",
+    "name": "US",
+    "color": "#FFD700"
+  },
+  {
+    "id": "us-deu",
+    "name": "US-DEU",
+    "color": "#FFD700"
+  },
+  {
+    "id": "usvit",
+    "name": "USVIT",
+    "color": "#1E90FF"
+  },
+  {
+    "id": "vv",
+    "name": "VV",
+    "color": "#FF0000"
+  }
+]

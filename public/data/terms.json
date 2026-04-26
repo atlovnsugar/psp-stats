@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1992-1996",
+    "name": "1. volební období",
+    "start": "1992-06-06",
+    "end": "1996-06-01",
+    "active": false
+  },
+  {
+    "id": "1996-1998",
+    "name": "2. volební období",
+    "start": "1996-06-01",
+    "end": "1998-06-20",
+    "active": false
+  },
+  {
+    "id": "1998-2002",
+    "name": "3. volební období",
+    "start": "1998-06-20",
+    "end": "2002-06-15",
+    "active": false
+  },
+  {
+    "id": "2002-2006",
+    "name": "4. volební období",
+    "start": "2002-06-15",
+    "end": "2006-06-03",
+    "active": false
+  },
+  {
+    "id": "2006-2010",
+    "name": "5. volební období",
+    "start": "2006-06-03",
+    "end": "2010-05-29",
+    "active": false
+  },
+  {
+    "id": "2010-2013",
+    "name": "6. volební období",
+    "start": "2010-05-29",
+    "end": "2013-08-28",
+    "active": false
+  },
+  {
+    "id": "2013-2017",
+    "name": "7. volební období",
+    "start": "2013-10-26",
+    "end": "2017-10-21",
+    "active": false
+  },
+  {
+    "id": "2017-2021",
+    "name": "8. volební období",
+    "start": "2017-10-21",
+    "end": "2021-10-09",
+    "active": false
+  },
+  {
+    "id": "2021-2025",
+    "name": "9. volební období",
+    "start": "2021-10-09",
+    "end": "2025-10-11",
+    "active": false
+  },
+  {
+    "id": "2025-now",
+    "name": "10. volební období",
+    "start": "2025-10-11",
+    "end": null,
+    "active": true
+  }
+]
