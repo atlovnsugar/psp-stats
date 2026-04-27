@@ -3,15 +3,35 @@ import { Link } from 'react-router-dom';
 import { useTerm } from '../context/TermContext';
 import { fetchJSON } from '../utils/dataCache';
 
-// Normalizace data na čistý řetězec YYYY-MM-DD (imunní vůči časovým pásmům)
+// Normalizace data na čistý řetězec YYYY-MM-DD (imunní vůči časovým pásmům a formátům)
 const normalizeDate = (dateStr) => {
   if (!dateStr) return '';
   const str = String(dateStr).trim();
   if (str.includes('.')) {
-    const [d, m, y] = str.split('.').map(s => s.trim().padStart(2, '0'));
-    return `${y}-${m}-${d}`;
+    const [d, m, y] = str.split('.').map(s => s.trim());
+    return `${y}-${m.padStart(2, '0')}-${d.padStart(2, '0')}`;
   }
   return str.split('T')[0].split(' ')[0];
+};
+
+// Flexibilní porovnání období (řeší mismatch mezi '2025-now' a číselným ID v JSON)
+const matchesTerm = (votingTerm, selectedTerm) => {
+  if (!selectedTerm || selectedTerm === 'all') return true;
+  if (votingTerm == null) return false;
+  
+  const vStr = String(votingTerm).trim();
+  const sStr = String(selectedTerm).trim();
+  if (vStr === sStr) return true;
+
+  // Mapování UI labelů na číselná ID volebních období PSP
+  const termMap = {
+    '2025-now': '10',
+    '2021-2025': '9',
+    '2017-2021': '8',
+    '2013-2017': '7',
+    '2010-2013': '6'
+  };
+  return vStr === (termMap[sStr] || sStr);
 };
 
 export default function VotingList() {
@@ -26,95 +46,103 @@ export default function VotingList() {
   const [filterDateFrom, setFilterDateFrom] = useState('');
   const [filterDateTo, setFilterDateTo] = useState('');
 
-  const loadPage = useCallback(async (pageNum) => {
-    setLoading(true);
+  // Načtení jedné stránky
+  const fetchPage = useCallback(async (pageNum) => {
     try {
       const data = await fetchJSON(`/data/votings_list_page${pageNum}.json`);
       if (!data || data.length === 0) {
         setHasMore(false);
-      } else {
-        setVotings(prev => [...prev, ...data]);
+        return [];
       }
+      return data;
     } catch (e) {
-      console.error('Chyba při načítání hlasování:', e);
+      console.error(`Chyba při načítání stránky ${pageNum}:`, e);
       setHasMore(false);
-    } finally {
-      setLoading(false);
+      return [];
     }
   }, []);
 
-  // Reset při změně období
-  useEffect(() => {
+  // 🔁 Filter-Aware Initial Load: Načítá stránky dokud nenajde shodu s filtry/obdobím
+  const loadInitialData = useCallback(async () => {
+    setLoading(true);
     setVotings([]);
     setPage(1);
     setHasMore(true);
-    loadPage(1);
-  }, [selectedTerm, loadPage]);
 
-  // Načítání dalších stránek
+    let currentPage = 1;
+    let accumulated = [];
+    let foundMatches = false;
+
+    try {
+      // Bezpečný limit 8 stránek pro inicializaci (cca 400-800 záznamů)
+      while (currentPage <= 8 && !foundMatches && hasMore !== false) {
+        const pageData = await fetchPage(currentPage);
+        if (pageData.length === 0) break;
+
+        accumulated = [...accumulated, ...pageData];
+
+        // Kontrola, zda aktuální batch obsahuje data odpovídající filtrům
+        const hasMatch = pageData.some(v =>
+          matchesTerm(v.term_id ?? v.term, selectedTerm) &&
+          (!filterResult || v.result === filterResult) &&
+          (!filterDateFrom || normalizeDate(v.date) >= filterDateFrom) &&
+          (!filterDateTo || normalizeDate(v.date) <= filterDateTo)
+        );
+
+        if (hasMatch) foundMatches = true;
+        currentPage++;
+      }
+
+      setVotings(accumulated);
+      setPage(currentPage - 1);
+    } catch (e) {
+      console.error('Chyba při načítání hlasování:', e);
+    } finally {
+      setLoading(false);
+    }
+  }, [selectedTerm, filterResult, filterDateFrom, filterDateTo, fetchPage, hasMore]);
+
+  // Spustí načítání při změně období nebo filtrů
   useEffect(() => {
-    if (page === 1) return;
-    loadPage(page);
-  }, [page, loadPage]);
+    loadInitialData();
+  }, [loadInitialData]);
 
-  // Infinite scroll
+  // Infinite scroll pro ruční načítání dalších stránek
   useEffect(() => {
     if (!hasMore || loading) return;
     const observer = new IntersectionObserver(
       (entries) => {
         if (entries[0].isIntersecting) {
-          setPage(prev => prev + 1);
+          setLoading(true);
+          fetchPage(page + 1).then(newData => {
+            if (newData.length > 0) {
+              setVotings(prev => [...prev, ...newData]);
+              setPage(prev => prev + 1);
+            }
+            setLoading(false);
+          });
         }
       },
       { threshold: 0.1 }
     );
     if (loaderDiv.current) observer.observe(loaderDiv.current);
     return () => observer.disconnect();
-  }, [hasMore, loading]);
+  }, [hasMore, loading, page, fetchPage]);
 
-  // Filtrace dat
+  // Klientská filtrace již načtených dat
   const filteredVotings = useMemo(() => {
     return votings.filter(v => {
-      // 1. Filtr podle období (ošetřeno pro string/number mismatch)
-      const vTerm = v.term_id ?? v.term;
-      if (selectedTerm && vTerm != null) {
-        if (String(vTerm).trim() !== String(selectedTerm).trim()) {
-          return false;
-        }
-      }
-
-      // 2. Filtr podle výsledku
+      if (!matchesTerm(v.term_id ?? v.term, selectedTerm)) return false;
       if (filterResult && v.result !== filterResult) return false;
-
-      // 3. Filtr podle data (lexikografické porovnání YYYY-MM-DD je bezpečné)
-      const vDateNorm = normalizeDate(v.date);
-      if (filterDateFrom && vDateNorm < filterDateFrom) return false;
-      if (filterDateTo && vDateNorm > filterDateTo) return false;
-
+      const vDate = normalizeDate(v.date);
+      if (filterDateFrom && vDate < filterDateFrom) return false;
+      if (filterDateTo && vDate > filterDateTo) return false;
       return true;
     });
   }, [votings, selectedTerm, filterResult, filterDateFrom, filterDateTo]);
 
-  // Auto-fetch: pokud filtr vrací 0 výsledků, načítej další stránky na pozadí
-  useEffect(() => {
-    if (filteredVotings.length === 0 && hasMore && !loading) {
-      const timer = setTimeout(() => setPage(prev => prev + 1), 300);
-      return () => clearTimeout(timer);
-    }
-  }, [filteredVotings.length, hasMore, loading]);
-
-  // 🔍 DEBUG: Vytiskne strukturu dat do konzole (po ověření lze smazat)
-  useEffect(() => {
-    if (votings.length > 0) {
-      console.log('📊 Loaded voting sample:', votings[0]);
-      console.log('🏛️ Selected term:', selectedTerm, '| Type:', typeof selectedTerm);
-    }
-  }, [votings, selectedTerm]);
-
-  const isSearching = filteredVotings.length === 0 && hasMore && !loading;
-
   return (
-    <div className="p-4 max-w-6xl mx-auto">
+    <div className="p-4 max-w-6xl mx-auto text-left">
       <h1 className="text-2xl font-bold mb-2">Hlasování</h1>
       <p className="text-gray-500 mb-4">Období: {selectedTerm}</p>
 
@@ -177,7 +205,7 @@ export default function VotingList() {
                 </td>
               </tr>
             ))}
-            {filteredVotings.length === 0 && !isSearching && !loading && (
+            {filteredVotings.length === 0 && !loading && (
               <tr>
                 <td colSpan="4" className="text-center py-8 text-gray-400">
                   Žádná hlasování nevyhovují filtrům
@@ -189,9 +217,8 @@ export default function VotingList() {
       </div>
 
       <div ref={loaderDiv} className="py-4 text-center text-sm text-gray-500">
-        {loading && 'Načítám další hlasování…'}
-        {isSearching && 'Hledám data pro vybrané období a filtry…'}
-        {!hasMore && filteredVotings.length > 0 && 'Všechna hlasování načtena'}
+        {loading ? 'Načítám další hlasování…' : ''}
+        {!hasMore && filteredVotings.length > 0 ? 'Všechna hlasování načtena' : ''}
       </div>
     </div>
   );
