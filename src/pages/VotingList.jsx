@@ -3,17 +3,6 @@ import { Link } from 'react-router-dom';
 import { useTerm } from '../context/TermContext';
 import { fetchJSON } from '../utils/dataCache';
 
-// Bezpečná normalizace data na řetězec YYYY-MM-DD (bez časových pásem)
-const normalizeDate = (dateStr) => {
-  if (!dateStr) return '';
-  const str = String(dateStr).trim();
-  if (str.includes('.')) {
-    const [d, m, y] = str.split('.').map(s => s.trim());
-    return `${y}-${m.padStart(2, '0')}-${d.padStart(2, '0')}`;
-  }
-  return str.split('T')[0]; // YYYY-MM-DD nebo ISO
-};
-
 export default function VotingList() {
   const { selectedTerm } = useTerm();
   const [votings, setVotings] = useState([]);
@@ -44,7 +33,7 @@ export default function VotingList() {
     }
   }, []);
 
-  // Reset při změně období
+  // Reset stavu při změně volebního období
   useEffect(() => {
     setVotings([]);
     setPage(1);
@@ -73,10 +62,10 @@ export default function VotingList() {
     return () => observer.disconnect();
   }, [hasMore, loading]);
 
-  // Filtrace dat
+  // Filtrace dat (memoizováno pro výkon)
   const filteredVotings = useMemo(() => {
     return votings.filter(v => {
-      // 1. Filtr podle období
+      // 1. Filtr podle volebního období
       const vTerm = v.term_id ?? v.term;
       if (selectedTerm && vTerm != null && String(vTerm) !== String(selectedTerm)) {
         return false;
@@ -85,10 +74,10 @@ export default function VotingList() {
       // 2. Filtr podle výsledku
       if (filterResult && v.result !== filterResult) return false;
 
-      // 3. Filtr podle data (řetězcové porovnání YYYY-MM-DD je bezpečné a rychlé)
-      const vDateNorm = normalizeDate(v.date);
-      if (filterDateFrom && vDateNorm < filterDateFrom) return false;
-      if (filterDateTo && vDateNorm > filterDateTo) return false;
+      // 3. Filtr podle data (čisté řetězcové porovnání YYYY-MM-DD)
+      const vDate = v.date ? String(v.date).split('T')[0] : '';
+      if (filterDateFrom && vDate < filterDateFrom) return false;
+      if (filterDateTo && vDate > filterDateTo) return false;
 
       return true;
     });
@@ -98,7 +87,7 @@ export default function VotingList() {
   // automaticky načítej dál, dokud nenarazíš na shodu nebo konec dat.
   useEffect(() => {
     if (filteredVotings.length === 0 && hasMore && !loading) {
-      const timer = setTimeout(() => setPage(prev => prev + 1), 250);
+      const timer = setTimeout(() => setPage(prev => prev + 1), 300);
       return () => clearTimeout(timer);
     }
   }, [filteredVotings.length, hasMore, loading]);
