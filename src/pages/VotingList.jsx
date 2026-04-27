@@ -1,7 +1,18 @@
-import { useEffect, useState, useRef, useCallback } from 'react';
+import { useEffect, useState, useRef, useCallback, useMemo } from 'react';
 import { Link } from 'react-router-dom';
 import { useTerm } from '../context/TermContext';
 import { fetchJSON } from '../utils/dataCache';
+
+// Bezpečná normalizace data na řetězec YYYY-MM-DD (bez časových pásem)
+const normalizeDate = (dateStr) => {
+  if (!dateStr) return '';
+  const str = String(dateStr).trim();
+  if (str.includes('.')) {
+    const [d, m, y] = str.split('.').map(s => s.trim());
+    return `${y}-${m.padStart(2, '0')}-${d.padStart(2, '0')}`;
+  }
+  return str.split('T')[0]; // YYYY-MM-DD nebo ISO
+};
 
 export default function VotingList() {
   const { selectedTerm } = useTerm();
@@ -11,6 +22,11 @@ export default function VotingList() {
   const [loading, setLoading] = useState(false);
   const loaderDiv = useRef(null);
 
+  const [filterResult, setFilterResult] = useState('');
+  const [filterDateFrom, setFilterDateFrom] = useState('');
+  const [filterDateTo, setFilterDateTo] = useState('');
+
+  // Načtení stránky
   const loadPage = useCallback(async (pageNum) => {
     setLoading(true);
     try {
@@ -28,13 +44,19 @@ export default function VotingList() {
     }
   }, []);
 
-  // Reset paginace a dat při změně volebního období
+  // Reset při změně období
   useEffect(() => {
     setVotings([]);
     setPage(1);
     setHasMore(true);
     loadPage(1);
   }, [selectedTerm, loadPage]);
+
+  // Načtení další stránky při změně page
+  useEffect(() => {
+    if (page === 1) return;
+    loadPage(page);
+  }, [page, loadPage]);
 
   // Intersection Observer pro infinite scroll
   useEffect(() => {
@@ -51,60 +73,42 @@ export default function VotingList() {
     return () => observer.disconnect();
   }, [hasMore, loading]);
 
-  // Načtení další stránky při změně page
+  // Filtrace dat
+  const filteredVotings = useMemo(() => {
+    return votings.filter(v => {
+      // 1. Filtr podle období
+      const vTerm = v.term_id ?? v.term;
+      if (selectedTerm && vTerm != null && String(vTerm) !== String(selectedTerm)) {
+        return false;
+      }
+
+      // 2. Filtr podle výsledku
+      if (filterResult && v.result !== filterResult) return false;
+
+      // 3. Filtr podle data (řetězcové porovnání YYYY-MM-DD je bezpečné a rychlé)
+      const vDateNorm = normalizeDate(v.date);
+      if (filterDateFrom && vDateNorm < filterDateFrom) return false;
+      if (filterDateTo && vDateNorm > filterDateTo) return false;
+
+      return true;
+    });
+  }, [votings, selectedTerm, filterResult, filterDateFrom, filterDateTo]);
+
+  // 🔁 AUTO-FETCH: Pokud filtr vrací 0 výsledků, ale existují další stránky,
+  // automaticky načítej dál, dokud nenarazíš na shodu nebo konec dat.
   useEffect(() => {
-    if (page === 1) return;
-    loadPage(page);
-  }, [page, loadPage]);
-
-  const [filterResult, setFilterResult] = useState('');
-  const [filterDateFrom, setFilterDateFrom] = useState('');
-  const [filterDateTo, setFilterDateTo] = useState('');
-
-  // Bezpečné parsování data (podporuje YYYY-MM-DD i DD.MM.YYYY)
-  const parseDate = (dateStr) => {
-    if (!dateStr) return null;
-    if (typeof dateStr === 'string' && dateStr.includes('.')) {
-      const [d, m, y] = dateStr.split('.').map(s => s.trim());
-      return new Date(`${y}-${m.padStart(2, '0')}-${d.padStart(2, '0')}`);
+    if (filteredVotings.length === 0 && hasMore && !loading) {
+      const timer = setTimeout(() => setPage(prev => prev + 1), 250);
+      return () => clearTimeout(timer);
     }
-    return new Date(dateStr);
-  };
+  }, [filteredVotings.length, hasMore, loading]);
 
-  const filteredVotings = votings.filter(v => {
-    // 1. Filtr podle volebního období
-    const vTerm = v.term_id ?? v.term;
-    if (selectedTerm && vTerm != null && String(vTerm) !== String(selectedTerm)) {
-      return false;
-    }
-
-    // 2. Filtr podle výsledku
-    if (filterResult && v.result !== filterResult) return false;
-
-    // 3. Filtr podle data
-    if (filterDateFrom || filterDateTo) {
-      const vDate = parseDate(v.date);
-      if (!vDate || isNaN(vDate.getTime())) return true; // Pokud nelze parsovat, necháme projít
-
-      if (filterDateFrom) {
-        const from = new Date(filterDateFrom);
-        from.setHours(0, 0, 0, 0);
-        if (vDate < from) return false;
-      }
-      if (filterDateTo) {
-        const to = new Date(filterDateTo);
-        to.setHours(23, 59, 59, 999); // Inkluzivně do konce vybraného dne
-        if (vDate > to) return false;
-      }
-    }
-
-    return true;
-  });
+  const isSearching = filteredVotings.length === 0 && hasMore && !loading;
 
   return (
     <div className="p-4 max-w-6xl mx-auto">
       <h1 className="text-2xl font-bold mb-2">Hlasování</h1>
-      <p className="text-gray-500 mb-4">Období {selectedTerm}</p>
+      <p className="text-gray-500 mb-4">Období: {selectedTerm}</p>
 
       <div className="flex flex-wrap gap-3 mb-4">
         <select
@@ -165,16 +169,20 @@ export default function VotingList() {
                 </td>
               </tr>
             ))}
-            {filteredVotings.length === 0 && !loading && (
+            {filteredVotings.length === 0 && !isSearching && !loading && (
               <tr>
-                <td colSpan="4" className="text-center py-8 text-gray-400">Žádná hlasování nevyhovují filtrům</td>
+                <td colSpan="4" className="text-center py-8 text-gray-400">
+                  Žádná hlasování nevyhovují filtrům
+                </td>
               </tr>
             )}
           </tbody>
         </table>
       </div>
+
       <div ref={loaderDiv} className="py-4 text-center text-sm text-gray-500">
         {loading && 'Načítám další hlasování…'}
+        {isSearching && 'Hledám data pro vybrané období a filtry…'}
         {!hasMore && filteredVotings.length > 0 && 'Všechna hlasování načtena'}
       </div>
     </div>
