@@ -3,6 +3,17 @@ import { Link } from 'react-router-dom';
 import { useTerm } from '../context/TermContext';
 import { fetchJSON } from '../utils/dataCache';
 
+// Normalizace data na čistý řetězec YYYY-MM-DD (imunní vůči časovým pásmům)
+const normalizeDate = (dateStr) => {
+  if (!dateStr) return '';
+  const str = String(dateStr).trim();
+  if (str.includes('.')) {
+    const [d, m, y] = str.split('.').map(s => s.trim().padStart(2, '0'));
+    return `${y}-${m}-${d}`;
+  }
+  return str.split('T')[0].split(' ')[0];
+};
+
 export default function VotingList() {
   const { selectedTerm } = useTerm();
   const [votings, setVotings] = useState([]);
@@ -15,7 +26,6 @@ export default function VotingList() {
   const [filterDateFrom, setFilterDateFrom] = useState('');
   const [filterDateTo, setFilterDateTo] = useState('');
 
-  // Načtení stránky
   const loadPage = useCallback(async (pageNum) => {
     setLoading(true);
     try {
@@ -33,7 +43,7 @@ export default function VotingList() {
     }
   }, []);
 
-  // Reset stavu při změně volebního období
+  // Reset při změně období
   useEffect(() => {
     setVotings([]);
     setPage(1);
@@ -41,17 +51,17 @@ export default function VotingList() {
     loadPage(1);
   }, [selectedTerm, loadPage]);
 
-  // Načtení další stránky při změně page
+  // Načítání dalších stránek
   useEffect(() => {
     if (page === 1) return;
     loadPage(page);
   }, [page, loadPage]);
 
-  // Intersection Observer pro infinite scroll
+  // Infinite scroll
   useEffect(() => {
     if (!hasMore || loading) return;
     const observer = new IntersectionObserver(
-      entries => {
+      (entries) => {
         if (entries[0].isIntersecting) {
           setPage(prev => prev + 1);
         }
@@ -62,35 +72,44 @@ export default function VotingList() {
     return () => observer.disconnect();
   }, [hasMore, loading]);
 
-  // Filtrace dat (memoizováno pro výkon)
+  // Filtrace dat
   const filteredVotings = useMemo(() => {
     return votings.filter(v => {
-      // 1. Filtr podle volebního období
+      // 1. Filtr podle období (ošetřeno pro string/number mismatch)
       const vTerm = v.term_id ?? v.term;
-      if (selectedTerm && vTerm != null && String(vTerm) !== String(selectedTerm)) {
-        return false;
+      if (selectedTerm && vTerm != null) {
+        if (String(vTerm).trim() !== String(selectedTerm).trim()) {
+          return false;
+        }
       }
 
       // 2. Filtr podle výsledku
       if (filterResult && v.result !== filterResult) return false;
 
-      // 3. Filtr podle data (čisté řetězcové porovnání YYYY-MM-DD)
-      const vDate = v.date ? String(v.date).split('T')[0] : '';
-      if (filterDateFrom && vDate < filterDateFrom) return false;
-      if (filterDateTo && vDate > filterDateTo) return false;
+      // 3. Filtr podle data (lexikografické porovnání YYYY-MM-DD je bezpečné)
+      const vDateNorm = normalizeDate(v.date);
+      if (filterDateFrom && vDateNorm < filterDateFrom) return false;
+      if (filterDateTo && vDateNorm > filterDateTo) return false;
 
       return true;
     });
   }, [votings, selectedTerm, filterResult, filterDateFrom, filterDateTo]);
 
-  // 🔁 AUTO-FETCH: Pokud filtr vrací 0 výsledků, ale existují další stránky,
-  // automaticky načítej dál, dokud nenarazíš na shodu nebo konec dat.
+  // Auto-fetch: pokud filtr vrací 0 výsledků, načítej další stránky na pozadí
   useEffect(() => {
     if (filteredVotings.length === 0 && hasMore && !loading) {
       const timer = setTimeout(() => setPage(prev => prev + 1), 300);
       return () => clearTimeout(timer);
     }
   }, [filteredVotings.length, hasMore, loading]);
+
+  // 🔍 DEBUG: Vytiskne strukturu dat do konzole (po ověření lze smazat)
+  useEffect(() => {
+    if (votings.length > 0) {
+      console.log('📊 Loaded voting sample:', votings[0]);
+      console.log('🏛️ Selected term:', selectedTerm, '| Type:', typeof selectedTerm);
+    }
+  }, [votings, selectedTerm]);
 
   const isSearching = filteredVotings.length === 0 && hasMore && !loading;
 
@@ -102,7 +121,7 @@ export default function VotingList() {
       <div className="flex flex-wrap gap-3 mb-4">
         <select
           value={filterResult}
-          onChange={e => setFilterResult(e.target.value)}
+          onChange={(e) => setFilterResult(e.target.value)}
           className="border border-gray-300 rounded-md px-3 py-1.5 text-sm bg-white"
         >
           <option value="">Všechny výsledky</option>
@@ -114,14 +133,14 @@ export default function VotingList() {
           <input
             type="date"
             value={filterDateFrom}
-            onChange={e => setFilterDateFrom(e.target.value)}
+            onChange={(e) => setFilterDateFrom(e.target.value)}
             className="border border-gray-300 rounded-md px-2 py-1 text-sm"
           />
           <span>Do:</span>
           <input
             type="date"
             value={filterDateTo}
-            onChange={e => setFilterDateTo(e.target.value)}
+            onChange={(e) => setFilterDateTo(e.target.value)}
             className="border border-gray-300 rounded-md px-2 py-1 text-sm"
           />
         </div>
@@ -138,7 +157,7 @@ export default function VotingList() {
             </tr>
           </thead>
           <tbody className="divide-y divide-gray-100">
-            {filteredVotings.map(v => (
+            {filteredVotings.map((v) => (
               <tr key={v.id} className="hover:bg-indigo-50 transition-colors">
                 <td className="px-3 py-2 text-sm whitespace-nowrap text-gray-600">{v.date}</td>
                 <td className="px-3 py-2 text-sm">
