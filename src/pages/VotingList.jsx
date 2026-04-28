@@ -14,39 +14,38 @@ export default function VotingList() {
   const loadPage = useCallback(async (pageNum) => {
     setLoading(true);
     try {
-      // OPRAVA 1: Zahrnutí selectedTerm do URL. 
-      // POZNÁMKA: Tuto URL uprav podle toho, jak máš soubory reálně pojmenované.
-      // Pokud máš např. složky podle období: `/data/${selectedTerm}/votings_list_page${pageNum}.json`
-      // Pokud máš název v souboru: `/data/votings_list_${selectedTerm}_page${pageNum}.json`
-      const data = await fetchJSON(`/data/${selectedTerm}/votings_list_page${pageNum}.json`);
+      // OPRAVA CESTY: Odpovídá formátu votings_list_1998-2002_p8.json
+      const url = `/data/votings_list_${selectedTerm}_p${pageNum}.json`;
+      const data = await fetchJSON(url);
       
-      if (data.length === 0) {
+      if (!data || data.length === 0) {
         setHasMore(false);
       } else {
         setVotings(prev => [...prev, ...data]);
+        setHasMore(true);
       }
     } catch (e) {
+      console.error("Chyba při načítání dat:", e);
       setHasMore(false);
     } finally {
       setLoading(false);
     }
-  }, [selectedTerm]); // OPRAVA 1: Přidáno selectedTerm do závislostí!
+  }, [selectedTerm]);
 
-  // Resetování seznamu a stránkování při změně volebního období
+  // Restart při změně volebního období
   useEffect(() => {
     setVotings([]);
     setPage(1);
     setHasMore(true);
-    // Nevoláme loadPage(1) přímo zde, odchytí to useEffect pro změnu 'page' níže,
-    // ale pokud chceme instantní načtení:
     loadPage(1);
   }, [selectedTerm, loadPage]);
 
+  // Infinite scroll logika
   useEffect(() => {
     if (!hasMore || loading) return;
     const observer = new IntersectionObserver(
       entries => {
-        if (entries[0].isIntersecting) {
+        if (entries[0].isIntersecting && hasMore) {
           setPage(prev => prev + 1);
         }
       },
@@ -56,62 +55,61 @@ export default function VotingList() {
     return () => observer.disconnect();
   }, [hasMore, loading]);
 
+  // Načítání dalších stránek
   useEffect(() => {
-    if (page === 1) return;
-    loadPage(page);
+    if (page > 1) {
+      loadPage(page);
+    }
   }, [page, loadPage]);
 
   const [filterResult, setFilterResult] = useState('');
   const [filterDateFrom, setFilterDateFrom] = useState('');
   const [filterDateTo, setFilterDateTo] = useState('');
 
-  // OPRAVA 2: Bezpečnější filtrování pomocí Date objektů
+  // FILTROVÁNÍ: Protože JSON i Input používají YYYY-MM-DD, stačí string porovnání
   const filteredVotings = votings.filter(v => {
     if (filterResult && v.result !== filterResult) return false;
-
-    if (filterDateFrom || filterDateTo) {
-      // Předpoklad: v.date v JSONu je v rozumném formátu (ISO, "YYYY-MM-DD", atd.)
-      // Pokud je v JSONu cokoliv jako "15. 3. 1996", je nutné string nejprve rozdělit a poskládat
-      const itemDate = new Date(v.date);
-
-      if (filterDateFrom) {
-        const fromDate = new Date(filterDateFrom);
-        if (itemDate < fromDate) return false;
-      }
-
-      if (filterDateTo) {
-        const toDate = new Date(filterDateTo);
-        // Posuneme čas na konec daného dne, aby filtr bral i hlasování v tento den
-        toDate.setHours(23, 59, 59, 999);
-        if (itemDate > toDate) return false;
-      }
-    }
-
+    if (filterDateFrom && v.date < filterDateFrom) return false;
+    if (filterDateTo && v.date > filterDateTo) return false;
     return true;
   });
 
   return (
     <div>
       <h1 className="text-2xl font-bold mb-4 text-gray-800">Hlasování</h1>
-      <p className="text-sm text-gray-500 mb-4">Období {selectedTerm}</p>
+      <p className="text-sm text-gray-500 mb-4">Období: {selectedTerm}</p>
 
+      {/* Filtry */}
       <div className="flex flex-wrap gap-3 mb-4">
-        <select value={filterResult} onChange={e => setFilterResult(e.target.value)}
-                className="border border-gray-300 rounded-md px-3 py-1.5 text-sm bg-white">
+        <select 
+          value={filterResult} 
+          onChange={e => setFilterResult(e.target.value)}
+          className="border border-gray-300 rounded-md px-3 py-1.5 text-sm bg-white"
+        >
           <option value="">Všechny výsledky</option>
           <option value="prijato">Přijato</option>
           <option value="zamitnuto">Zamítnuto</option>
         </select>
+        
         <div className="flex items-center gap-2 text-sm text-gray-600">
           <span>Od:</span>
-          <input type="date" value={filterDateFrom} onChange={e => setFilterDateFrom(e.target.value)}
-                 className="border border-gray-300 rounded-md px-2 py-1 text-sm" />
+          <input 
+            type="date" 
+            value={filterDateFrom} 
+            onChange={e => setFilterDateFrom(e.target.value)}
+            className="border border-gray-300 rounded-md px-2 py-1 text-sm" 
+          />
           <span>Do:</span>
-          <input type="date" value={filterDateTo} onChange={e => setFilterDateTo(e.target.value)}
-                 className="border border-gray-300 rounded-md px-2 py-1 text-sm" />
+          <input 
+            type="date" 
+            value={filterDateTo} 
+            onChange={e => setFilterDateTo(e.target.value)}
+            className="border border-gray-300 rounded-md px-2 py-1 text-sm" 
+          />
         </div>
       </div>
 
+      {/* Tabulka */}
       <div className="bg-white rounded-lg shadow-sm border border-gray-100 overflow-hidden">
         <table className="min-w-full divide-y divide-gray-200">
           <thead className="bg-gray-50">
@@ -143,15 +141,18 @@ export default function VotingList() {
                 </td>
               </tr>
             ))}
-            {filteredVotings.length === 0 && !loading && (
-              <tr><td colSpan="4" className="text-center py-8 text-gray-400">Žádná hlasování nevyhovují</td></tr>
-            )}
           </tbody>
         </table>
+
+        {/* Stavová hlášení uvnitř tabulky pro lepší UX */}
+        {filteredVotings.length === 0 && !loading && (
+          <div className="text-center py-8 text-gray-400">Žádná hlasování nevyhovují filtrům</div>
+        )}
       </div>
+
+      {/* Indikátor načítání (Intersection Observer cíl) */}
       <div ref={loaderDiv} className="py-4 text-center text-sm text-gray-500">
-        {loading && 'Načítám další hlasování…'}
-        {!hasMore && 'Všechna hlasování načtena'}
+        {loading ? 'Načítám další data…' : (!hasMore && votings.length > 0 ? 'Všechna data načtena' : '')}
       </div>
     </div>
   );
