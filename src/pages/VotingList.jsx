@@ -11,52 +11,37 @@ export default function VotingList() {
   const [loading, setLoading] = useState(false);
   const loaderDiv = useRef(null);
 
-  // Filtry
-  const [filterResult, setFilterResult] = useState('');
-  const [filterDateFrom, setFilterDateFrom] = useState('');
-  const [filterDateTo, setFilterDateTo] = useState('');
-
-  // Pomocná funkce pro převod data z JSONu (DD.MM.YYYY) na porovnatelný objekt Date
-  const parseDate = (dateStr) => {
-    if (!dateStr) return null;
-    if (dateStr.includes('.')) {
-      const [d, m, y] = dateStr.split('.');
-      return new Date(y, m - 1, d);
-    }
-    return new Date(dateStr); // Pro případ, že by v JSONu byl ISO formát
-  };
-
-  const loadPage = useCallback(async (pageNum, term) => {
-    if (!term) return;
+  const loadPage = useCallback(async (pageNum) => {
     setLoading(true);
     try {
-      // OPRAVA 1: Cesta k datům nyní dynamicky reflektuje vybrané období
-      // Předpokládám strukturu /data/term[číslo]/votings_list_page[strana].json
-      const data = await fetchJSON(`/data/term${term}/votings_list_page${pageNum}.json`);
+      // OPRAVA 1: Zahrnutí selectedTerm do URL. 
+      // POZNÁMKA: Tuto URL uprav podle toho, jak máš soubory reálně pojmenované.
+      // Pokud máš např. složky podle období: `/data/${selectedTerm}/votings_list_page${pageNum}.json`
+      // Pokud máš název v souboru: `/data/votings_list_${selectedTerm}_page${pageNum}.json`
+      const data = await fetchJSON(`/data/${selectedTerm}/votings_list_page${pageNum}.json`);
       
-      if (!data || data.length === 0) {
+      if (data.length === 0) {
         setHasMore(false);
       } else {
-        // Pokud načítáme první stránku nového období, nahradíme stará data (prev => data)
-        setVotings(prev => pageNum === 1 ? data : [...prev, ...data]);
+        setVotings(prev => [...prev, ...data]);
       }
     } catch (e) {
-      console.error("Chyba při načítání dat:", e);
       setHasMore(false);
     } finally {
       setLoading(false);
     }
-  }, []);
+  }, [selectedTerm]); // OPRAVA 1: Přidáno selectedTerm do závislostí!
 
-  // Efekt pro reset při změně volebního období (selectedTerm)
+  // Resetování seznamu a stránkování při změně volebního období
   useEffect(() => {
     setVotings([]);
     setPage(1);
     setHasMore(true);
-    loadPage(1, selectedTerm);
+    // Nevoláme loadPage(1) přímo zde, odchytí to useEffect pro změnu 'page' níže,
+    // ale pokud chceme instantní načtení:
+    loadPage(1);
   }, [selectedTerm, loadPage]);
 
-  // Infinite scroll
   useEffect(() => {
     if (!hasMore || loading) return;
     const observer = new IntersectionObserver(
@@ -71,32 +56,37 @@ export default function VotingList() {
     return () => observer.disconnect();
   }, [hasMore, loading]);
 
-  // Načtení další stránky při inkrementaci 'page'
   useEffect(() => {
-    if (page > 1) {
-      loadPage(page, selectedTerm);
-    }
-  }, [page, selectedTerm, loadPage]);
+    if (page === 1) return;
+    loadPage(page);
+  }, [page, loadPage]);
 
-  // OPRAVA 2: Logika filtrování s korektním porovnáváním dat
+  const [filterResult, setFilterResult] = useState('');
+  const [filterDateFrom, setFilterDateFrom] = useState('');
+  const [filterDateTo, setFilterDateTo] = useState('');
+
+  // OPRAVA 2: Bezpečnější filtrování pomocí Date objektů
   const filteredVotings = votings.filter(v => {
     if (filterResult && v.result !== filterResult) return false;
-    
-    const vDate = parseDate(v.date);
-    if (!vDate) return true;
 
-    if (filterDateFrom) {
-      const fromDate = new Date(filterDateFrom);
-      fromDate.setHours(0, 0, 0, 0);
-      if (vDate < fromDate) return false;
+    if (filterDateFrom || filterDateTo) {
+      // Předpoklad: v.date v JSONu je v rozumném formátu (ISO, "YYYY-MM-DD", atd.)
+      // Pokud je v JSONu cokoliv jako "15. 3. 1996", je nutné string nejprve rozdělit a poskládat
+      const itemDate = new Date(v.date);
+
+      if (filterDateFrom) {
+        const fromDate = new Date(filterDateFrom);
+        if (itemDate < fromDate) return false;
+      }
+
+      if (filterDateTo) {
+        const toDate = new Date(filterDateTo);
+        // Posuneme čas na konec daného dne, aby filtr bral i hlasování v tento den
+        toDate.setHours(23, 59, 59, 999);
+        if (itemDate > toDate) return false;
+      }
     }
-    
-    if (filterDateTo) {
-      const toDate = new Date(filterDateTo);
-      toDate.setHours(23, 59, 59, 999);
-      if (vDate > toDate) return false;
-    }
-    
+
     return true;
   });
 
