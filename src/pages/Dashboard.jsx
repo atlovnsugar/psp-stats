@@ -6,68 +6,101 @@ import { useMpsMap, useVotingsIndex } from '../context/DataContext';
 import { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer, Cell } from 'recharts';
 import MpModal from '../components/MpModal';
 
-// TODO: [2026-04-15] Migrace na React Query by vyřešila některé problémy s loading stavy
-// Ale pro teď to zůstává takhle kvůli deadline a kompatibilitě s existujícím kódem
+// Mapping pro názvy stran - podle skutečných politických stran v ČR
+const PARTY_NAME_MAP = {
+  'KDU-CSL': 'KDU-ČSL',
+  'CSSD': 'ČSSD',
+  'ANO': 'ANO 2011',
+  'TOP09': 'TOP 09',
+  'SPD': 'SPD',
+  'ODS': 'ODS',
+  'STAN': 'STAN',
+  'ZEL': 'Zelení',
+  'KSČM': 'KSČM',
+  'SPOLU': 'SPOLU',
+  'JINÉ': 'Jiné',
+  'NEZAŘAZENÍ': 'Nezařazení',
+  'ZMĚNA 21': 'Změna 21',
+  'Piráti': 'Piráti',
+  'ČSSD': 'ČSSD',
+  'KDU-ČSL': 'KDU-ČSL',
+  'ČSSD': 'ČSSD',
+  'ČSSD': 'ČSSD',
+  'ČSSD': 'ČSSD',
+};
+
+// TODO: [2026-04-22] Přidat další strany do mappingu podle nových dat
+// TODO: [2026-04-25] Implementovat možnost konfigurace mappingu přes API
+
+// Barevné schéma pro strany - používáme barvy z původního design systému
+const PARTY_COLORS = {
+  'ODS': '#005EB8',
+  'ČSSD': '#E1001F',
+  'ANO': '#FAA019',
+  'KDU-ČSL': '#009933',
+  'TOP 09': '#00A19A',
+  'SPD': '#103A6B',
+  'STAN': '#FFCC00',
+  'Zelení': '#66B246',
+  'KSČM': '#D21F1B',
+  'SPOLU': '#005EB8',
+  'Jiné': '#64748b',
+  'Nezařazení': '#94a3b8',
+  'Změna 21': '#FF6B6B',
+  'Piráti': '#FF69B4'
+};
+
+// Formátovací funkce pro názvy stran
+const formatPartyName = (partyId) => {
+  if (!partyId) return 'Nezařazení';
+  
+  const normalized = partyId
+    .replace(/CSL/g, 'ČSL')
+    .replace(/CSSD/g, 'ČSSD')
+    .replace(/-/g, ' ')
+    .trim();
+  
+  return PARTY_NAME_MAP[normalized] || normalized;
+};
+
+// TODO: [2026-04-20] Přidat fallback pro neznámé strany s ikonkou otazníku
+// TODO: [2026-04-22] Implementovat lokalizované názvy pro různá volební období
+
 export default function Dashboard() {
   const { selectedTerm } = useTerm();
   const [mpStats, setMpStats] = useState([]);
   const [partyStats, setPartyStats] = useState([]);
   const [votingsCount, setVotingsCount] = useState(0);
   const [loading, setLoading] = useState(true);
-  // Rozdělení loading stavu pro lepší UX
   const [partyLoading, setPartyLoading] = useState(true);
   const [mpsLoading, setMpsLoading] = useState(true);
   const [selectedMpId, setSelectedMpId] = useState(null);
-  
-  // Přidání error stavů pro lepší debuggování
   const [partyError, setPartyError] = useState(null);
   const [mpsError, setMpsError] = useState(null);
   
   const mpsMap = useMpsMap();
   const votingsIndex = useVotingsIndex();
 
-  // Vylepšený loading pro lepší UX
   const overallLoading = loading || partyLoading || mpsLoading;
 
-  // Přidání memoizace pro výkon
+  // Memoizace pro lepší výkon
   const avgOverallAttendance = useMemo(() => {
     if (!mpStats.length) return 0;
-    
     const total = mpStats.reduce((sum, mp) => sum + mp.attendance_pct, 0);
     return (total / mpStats.length).toFixed(1);
   }, [mpStats]);
 
-  // Přidání formátování čísel pro česky lokalizované výstupy
   const formatNumber = (num) => {
     return new Intl.NumberFormat('cs-CZ').format(num);
   };
 
-  // Přidání barev pro strany - realistické řešení s fallbacky
-  const PARTY_COLORS = {
-    'ODS': '#005EB8',
-    'CSSD': '#E1001F',
-    'ANO': '#FAA019',
-    'KDU-ČSL': '#009933',
-    'TOP09': '#00A19A',
-    'SPD': '#103A6B',
-    'STAN': '#FFCC00',
-    'ČSSD': '#E1001F',
-    'ZEL': '#66B246',
-    'KSČM': '#D21F1B',
-    'SPOLU': '#005EB8',
-    'JINÉ': '#64748b'
-  };
-
-  // Přidání fallbacku pro neznámé strany
+  // Získání barvy pro stranu
   const getPartyColor = (partyId) => {
-    if (!partyId) return PARTY_COLORS['JINÉ'];
-    const normalized = partyId.toUpperCase();
-    return PARTY_COLORS[normalized] || PARTY_COLORS['JINÉ'];
+    const name = formatPartyName(partyId);
+    return PARTY_COLORS[name] || PARTY_COLORS['Jiné'];
   };
 
   useEffect(() => {
-    // V reálném projektu bych použil React Query, ale kvůli kompatibilitě s existujícím kódem
-    // zůstává fetch v useEffect - tohle bych poznamenal pro tým v komentáři
     let isMounted = true;
     
     async function loadPartyStats() {
@@ -134,13 +167,11 @@ export default function Dashboard() {
     };
   }, [selectedTerm]);
 
-  // Přidání helperu pro lepší čitelnost
   const getPartyAvg = (partyId) => {
     const party = partyStats.find(p => p.party_id === partyId);
     return party ? party.avg_attendance : 0;
   };
 
-  // Přidání memoizace pro výkon při řazení
   const topMps = useMemo(() => {
     if (!mpStats.length) return [];
     
@@ -150,21 +181,28 @@ export default function Dashboard() {
       .map(stat => {
         const mpInfo = mpsMap.get(stat.mp_id) || {};
         const partyAvg = getPartyAvg(stat.party_id);
+        const formattedPartyName = formatPartyName(stat.party_id);
         
         return {
           ...stat,
           name: mpInfo.name || `Poslanec #${stat.mp_id}`,
-          party_name: stat.party_id ? stat.party_id.toUpperCase() : 'Nezařazený',
+          party_name: formattedPartyName,
           diffFromAvg: (stat.attendance_pct - avgOverallAttendance).toFixed(1),
           diffFromParty: (stat.attendance_pct - partyAvg).toFixed(1)
         };
       });
   }, [mpStats, mpsMap, avgOverallAttendance]);
 
-  // Přidání fallbacku pro případ, kdy nejsou data k dispozici
   if (overallLoading && !mpStats.length && !partyStats.length) {
     return (
       <div className="app-layout">
+        {/* Background animation z původního designu */}
+        <div className="bg-animation">
+          <div className="orb"></div>
+          <div className="orb"></div>
+          <div className="orb"></div>
+        </div>
+        
         <div className="loading-skeleton">
           <div className="skeleton-header"></div>
           <div className="skeleton-grid">
@@ -179,16 +217,25 @@ export default function Dashboard() {
     );
   }
 
-  // Přidání sekce pro chyby - realističtější řešení než jen jednoduchý loader
   const hasErrors = mpsError || partyError;
   if (hasErrors) {
     return (
       <div className="app-layout">
+        <div className="bg-animation">
+          <div className="orb"></div>
+          <div className="orb"></div>
+          <div className="orb"></div>
+        </div>
+        
         <div className="card error-section">
-          <h2>Chyba při načítání dat</h2>
-          {mpsError && <p className="error-message text-danger">⚠️ {mpsError}</p>}
-          {partyError && <p className="error-message text-warning">⚠️ {partyError}</p>}
-          <button className="btn btn-primary mt-4" onClick={() => window.location.reload()}>
+          <h2 className="text-2xl font-bold mb-4">Chyba při načítání dat</h2>
+          {mpsError && <p className="error-message text-warning mb-2">⚠️ {mpsError}</p>}
+          {partyError && <p className="error-message text-warning mb-4">⚠️ {partyError}</p>}
+          <button 
+            className="btn btn-primary mt-4" 
+            onClick={() => window.location.reload()}
+            aria-label="Znovu načíst stránku"
+          >
             Zkusit znovu
           </button>
         </div>
@@ -197,16 +244,23 @@ export default function Dashboard() {
   }
 
   return (
-    <div className="app-layout">
-      <header className="dashboard-header mb-6">
-        <h1 className="text-2xl font-bold">Přehled období {selectedTerm}</h1>
+    <div className="app-layout relative">
+      {/* Background animation z původního designu */}
+      <div className="bg-animation">
+        <div className="orb"></div>
+        <div className="orb"></div>
+        <div className="orb"></div>
+      </div>
+      
+      <header className="dashboard-header mb-6 relative z-10">
+        <h1 className="text-2xl font-bold mb-2">Přehled období {selectedTerm}</h1>
         <p className="text-muted">
           Aktuální data z {formatNumber(votingsCount)} hlasování s účastí {formatNumber(mpStats.length)} poslanců
         </p>
       </header>
 
-      {/* Summary cards - přidán grid layout */}
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
+      {/* Summary cards */}
+      <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8 relative z-10">
         <SummaryCard 
           title="Hlasování" 
           value={formatNumber(votingsCount)}
@@ -231,7 +285,7 @@ export default function Dashboard() {
         />
       </div>
 
-      <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
+      <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 relative z-10">
         {/* Party comparison */}
         <section className="party-section">
           <div className="card h-full">
@@ -249,7 +303,7 @@ export default function Dashboard() {
                 <ResponsiveContainer width="100%" height="100%">
                   <BarChart 
                     data={partyStats.map(p => ({
-                      name: p.party_id?.toUpperCase() || 'Nezařazení',
+                      name: formatPartyName(p.party_id),
                       prumernaUcast: p.avg_attendance,
                       celkovaUcast: p.total_eligible_votes ? 
                         ((p.total_attended / p.total_eligible_votes) * 100).toFixed(1) : 0
@@ -347,7 +401,11 @@ export default function Dashboard() {
                         <td>
                           <span 
                             className="party-badge inline-block px-2 py-1 rounded text-xs font-semibold"
-                            style={{ backgroundColor: `${getPartyColor(mp.party_id)}20`, color: getPartyColor(mp.party_id) }}
+                            style={{ 
+                              backgroundColor: `${getPartyColor(mp.party_id)}20`, 
+                              color: getPartyColor(mp.party_id),
+                              border: `1px solid ${getPartyColor(mp.party_id)}40`
+                            }}
                           >
                             {mp.party_name}
                           </span>
@@ -373,7 +431,6 @@ export default function Dashboard() {
         </section>
       </div>
 
-      {/* Detail modal */}
       {selectedMpId && (
         <div 
           className="modal-overlay" 
@@ -406,7 +463,6 @@ export default function Dashboard() {
   );
 }
 
-// Přidání pomocné komponenty pro lepší strukturu
 const SummaryCard = ({ title, value, description, icon, loading, highlight = false }) => {
   if (loading) {
     return (
@@ -423,11 +479,11 @@ const SummaryCard = ({ title, value, description, icon, loading, highlight = fal
   }
 
   return (
-    <div className={`card transition-all ${highlight ? 'border-2 border-primary shadow-lg' : ''}`}>
+    <div className={`card transition-all ${highlight ? 'border-2 border-accent-1 shadow-lg' : ''}`}>
       <div className="flex items-start justify-between">
         <div>
           <div className="text-sm text-muted mb-1">{title}</div>
-          <div className={`text-3xl font-bold ${highlight ? 'text-primary' : 'text-primary'}`}>
+          <div className={`text-3xl font-bold ${highlight ? 'text-accent-1' : 'text-accent-1'}`}>
             {value}
           </div>
         </div>
