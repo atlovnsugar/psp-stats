@@ -2,6 +2,18 @@ import { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
 import { useTerm } from '../context/TermContext';
 import { fetchJSON } from '../utils/dataCache';
+import { 
+  ChevronLeft, 
+  ChevronRight, 
+  ChevronsLeft, 
+  ChevronsRight, 
+  Search, 
+  Calendar, 
+  Filter, 
+  Inbox, 
+  Loader2,
+  X
+} from 'lucide-react';
 
 export default function VotingList() {
   const { selectedTerm } = useTerm();
@@ -16,6 +28,7 @@ export default function VotingList() {
   const [filterResult, setFilterResult] = useState('');
   const [filterDateFrom, setFilterDateFrom] = useState('');
   const [filterDateTo, setFilterDateTo] = useState('');
+  const [searchQuery, setSearchQuery] = useState('');
 
   // 1. Postupné načítání všech dat pro dané období
   useEffect(() => {
@@ -31,208 +44,255 @@ export default function VotingList() {
           const url = `/data/votings_list_${selectedTerm}_p${pageNum}.json`;
           const data = await fetchJSON(url);
           
-          if (!data || data.length === 0) {
-            break; // Narazili jsme na konec dat
-          }
+          if (!data || data.length === 0) break;
 
           accumulated = [...accumulated, ...data];
-          
-          if (isActive) {
-            setVotings(accumulated); // Okamžitý update UI po každém souboru
-          }
-          
+          if (isActive) setVotings([...accumulated]);
           pageNum++;
         } catch (e) {
-          // Očekávaná chyba (404), když už nejsou další _pX.json soubory
           break;
         }
       }
-      
-      if (isActive) {
-        setLoading(false);
-      }
+      if (isActive) setLoading(false);
     };
 
-    // Reset před načítáním nového období
     setVotings([]);
     setPage(1);
-    fetchAllData();
+    if (selectedTerm) fetchAllData();
 
-    // Úklid, pokud uživatel přepne období dřív, než se vše načte
-    return () => {
-      isActive = false;
-    };
+    return () => { isActive = false; };
   }, [selectedTerm]);
 
-  // 2. Reset stránky na první, když se změní jakýkoliv filtr
-  useEffect(() => {
-    setPage(1);
-  }, [filterResult, filterDateFrom, filterDateTo, itemsPerPage]);
-
-  // 3. Filtrace (probíhá nad všemi dosud načtenými daty)
+  // 2. Filtrace (nad načtenými daty) - včetně hledání
   const filteredVotings = votings.filter(v => {
-    if (filterResult && v.result !== filterResult) return false;
-    if (filterDateFrom && v.date < filterDateFrom) return false;
-    if (filterDateTo && v.date > filterDateTo) return false;
-    return true;
+    const matchResult = !filterResult || v.result === filterResult;
+    const matchDateFrom = !filterDateFrom || v.date >= filterDateFrom;
+    const matchDateTo = !filterDateTo || v.date <= filterDateTo;
+    const matchSearch = !searchQuery || 
+      (v.title && v.title.toLowerCase().includes(searchQuery.toLowerCase())) ||
+      v.id.toString().includes(searchQuery);
+
+    return matchResult && matchDateFrom && matchDateTo && matchSearch;
   });
 
-  // 4. Výpočet paginace
+  // 3. Výpočet paginace
   const totalItems = filteredVotings.length;
   const totalPages = Math.ceil(totalItems / itemsPerPage) || 1;
-  const startIndex = (page - 1) * itemsPerPage;
+  const safePage = Math.min(page, totalPages);
+  const startIndex = (safePage - 1) * itemsPerPage;
   const currentVotings = filteredVotings.slice(startIndex, startIndex + itemsPerPage);
 
-  // Zajištění, abychom nebyli na neexistující stránce
-  if (page > totalPages && totalPages > 0) {
-    setPage(totalPages);
-  }
+  const goToPage = (p) => {
+    const target = Math.max(1, Math.min(p, totalPages));
+    setPage(target);
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  };
 
-  // UI Komponenta pro navigaci (aby se kód neopakoval)
-  const PaginationControls = () => (
-    <div className="flex flex-col sm:flex-row items-center justify-between gap-4 py-3">
-      <div className="text-sm text-gray-500">
-        Zobrazeno <span className="font-medium text-gray-900">{totalItems === 0 ? 0 : startIndex + 1}</span> až{' '}
-        <span className="font-medium text-gray-900">{Math.min(startIndex + itemsPerPage, totalItems)}</span> z{' '}
-        <span className="font-medium text-gray-900">{totalItems}</span> výsledků
-      </div>
-      <div className="flex items-center gap-2">
-        <button
-          onClick={() => { setPage(p => Math.max(1, p - 1)); window.scrollTo({ top: 0 }); }}
-          disabled={page === 1}
-          className="px-3 py-1.5 text-sm font-medium text-gray-700 bg-white border border-gray-300 rounded-md hover:bg-gray-50 disabled:opacity-40 disabled:hover:bg-white transition-colors"
-        >
-          Předchozí
-        </button>
-        <div className="text-sm font-medium text-gray-700 px-2">
-          {page} / {totalPages}
+  // Komponenta paginace s čísly stránek
+  const Pagination = () => {
+    if (totalPages <= 1) return null;
+
+    const pages = [];
+    const maxVisible = 5;
+    let start = Math.max(1, safePage - 2);
+    let end = Math.min(totalPages, start + maxVisible - 1);
+
+    if (end - start < maxVisible - 1) {
+      start = Math.max(1, end - maxVisible + 1);
+    }
+
+    for (let i = start; i <= end; i++) pages.push(i);
+
+    return (
+      <div className="flex flex-col md:flex-row items-center justify-between gap-6 py-8">
+        <div className="text-sm font-medium text-slate-500 order-2 md:order-1">
+          Zobrazeno <span className="text-slate-900 dark:text-white font-bold">{totalItems === 0 ? 0 : startIndex + 1}</span> až{' '}
+          <span className="text-slate-900 dark:text-white font-bold">{Math.min(startIndex + itemsPerPage, totalItems)}</span> z{' '}
+          <span className="text-slate-900 dark:text-white font-bold">{totalItems}</span> záznamů
         </div>
-        <button
-          onClick={() => { setPage(p => Math.min(totalPages, p + 1)); window.scrollTo({ top: 0 }); }}
-          disabled={page === totalPages}
-          className="px-3 py-1.5 text-sm font-medium text-gray-700 bg-white border border-gray-300 rounded-md hover:bg-gray-50 disabled:opacity-40 disabled:hover:bg-white transition-colors"
-        >
-          Další
-        </button>
+        
+        <div className="flex items-center gap-1 p-1.5 bg-white dark:bg-slate-800 rounded-2xl shadow-sm border border-slate-200 dark:border-slate-700 order-1 md:order-2">
+          <button onClick={() => goToPage(1)} disabled={safePage === 1} className="p-2 rounded-lg hover:bg-slate-100 dark:hover:bg-slate-700 disabled:opacity-20 transition-all text-slate-900 dark:text-slate-100"><ChevronsLeft size={18} /></button>
+          <button onClick={() => goToPage(safePage - 1)} disabled={safePage === 1} className="p-2 rounded-lg hover:bg-slate-100 dark:hover:bg-slate-700 disabled:opacity-20 transition-all text-slate-900 dark:text-slate-100"><ChevronLeft size={18} /></button>
+          
+          <div className="flex items-center gap-1 mx-2">
+            {pages.map(p => (
+              <button
+                key={p}
+                onClick={() => goToPage(p)}
+                className={`w-9 h-9 rounded-xl text-xs font-bold transition-all ${
+                  safePage === p 
+                    ? 'bg-blue-600 text-white shadow-lg shadow-blue-500/30' 
+                    : 'text-slate-500 hover:bg-slate-100 dark:hover:bg-slate-700'
+                }`}
+              >
+                {p}
+              </button>
+            ))}
+          </div>
+
+          <button onClick={() => goToPage(safePage + 1)} disabled={safePage === totalPages} className="p-2 rounded-lg hover:bg-slate-100 dark:hover:bg-slate-700 disabled:opacity-20 transition-all text-slate-900 dark:text-slate-100"><ChevronRight size={18} /></button>
+          <button onClick={() => goToPage(totalPages)} disabled={safePage === totalPages} className="p-2 rounded-lg hover:bg-slate-100 dark:hover:bg-slate-700 disabled:opacity-20 transition-all text-slate-900 dark:text-slate-100"><ChevronsRight size={18} /></button>
+        </div>
       </div>
-    </div>
-  );
+    );
+  };
 
   return (
-    <div className="max-w-7xl mx-auto pb-10">
-      <div className="flex flex-col md:flex-row justify-between items-start md:items-end mb-6 gap-4">
-        <div>
-          <h1 className="text-3xl font-bold text-gray-900 tracking-tight">Hlasování</h1>
-          <div className="flex items-center gap-2 mt-1">
-            <span className="text-sm text-gray-500 font-medium">Období: {selectedTerm}</span>
+    <div className="max-w-6xl mx-auto px-4 py-8 space-y-8 animate-in fade-in duration-500">
+      {/* Nadpis a Vyhledávání */}
+      <div className="flex flex-col lg:flex-row lg:items-end justify-between gap-6">
+        <div className="space-y-2">
+          <div className="flex items-center gap-3">
+            <h1 className="text-3xl font-black tracking-tight text-slate-900 dark:text-white">
+              Hlasování
+            </h1>
             {loading && (
-              <span className="inline-flex items-center gap-1.5 text-xs text-indigo-600 bg-indigo-50 px-2 py-0.5 rounded-full font-medium animate-pulse">
-                <svg className="w-3 h-3 animate-spin" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
-                </svg>
-                Načítám archiv...
-              </span>
+              <div className="flex items-center gap-2 px-3 py-1 bg-blue-50 dark:bg-blue-900/30 text-blue-600 dark:text-blue-400 rounded-full border border-blue-100 dark:border-blue-800">
+                <Loader2 size={14} className="animate-spin" />
+                <span className="text-[10px] font-black uppercase tracking-widest">Aktualizace...</span>
+              </div>
             )}
           </div>
+          <p className="text-slate-500 dark:text-slate-400 text-sm font-medium">
+            Období: <span className="text-blue-600 dark:text-blue-400 font-bold">{selectedTerm}</span>
+          </p>
         </div>
 
-        <div className="flex items-center gap-2">
-          <label className="text-sm text-gray-500 font-medium">Položek na stránku:</label>
-          <select 
-            value={itemsPerPage} 
-            onChange={e => setItemsPerPage(Number(e.target.value))}
-            className="border-gray-300 rounded-md text-sm py-1.5 pl-3 pr-8 focus:border-indigo-500 focus:ring-indigo-500 shadow-sm"
-          >
-            <option value={20}>20</option>
-            <option value={50}>50</option>
-            <option value={100}>100</option>
-            <option value={200}>200</option>
-          </select>
+        <div className="relative w-full lg:w-96 group">
+          <Search className="absolute left-4 top-1/2 -translate-y-1/2 text-slate-400 group-focus-within:text-blue-500 transition-colors" size={18} />
+          <input 
+            type="text"
+            placeholder="Hledat bod nebo ID..."
+            className="w-full pl-12 pr-4 py-3 bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-2xl shadow-sm focus:ring-4 focus:ring-blue-500/10 focus:border-blue-500 outline-none transition-all text-sm text-slate-900 dark:text-slate-100"
+            value={searchQuery}
+            onChange={(e) => { setSearchQuery(e.target.value); setPage(1); }}
+          />
         </div>
       </div>
 
-      {/* Ovládací panel filtrů */}
-      <div className="bg-white p-4 rounded-xl shadow-sm border border-gray-200 mb-6 flex flex-col sm:flex-row flex-wrap gap-4 items-end">
-        <div className="flex flex-col gap-1 w-full sm:w-auto flex-1 min-w-[200px]">
-          <label className="text-xs font-semibold text-gray-500 uppercase tracking-wider">Výsledek hlasování</label>
+      {/* Filtry */}
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 bg-slate-50 dark:bg-slate-900/50 p-5 rounded-3xl border border-slate-100 dark:border-slate-800 shadow-inner">
+        <div className="space-y-2">
+          <label className="text-[10px] font-black text-slate-400 uppercase tracking-widest flex items-center gap-2 px-1">
+            <Filter size={12} /> Výsledek
+          </label>
           <select 
-            value={filterResult} 
-            onChange={e => setFilterResult(e.target.value)}
-            className="w-full border-gray-300 rounded-md shadow-sm text-sm py-2 focus:ring-indigo-500 focus:border-indigo-500"
+            value={filterResult}
+            onChange={(e) => { setFilterResult(e.target.value); setPage(1); }}
+            className="w-full p-3 bg-white dark:bg-slate-800 border-none rounded-xl text-sm font-bold shadow-sm focus:ring-2 focus:ring-blue-500 cursor-pointer text-slate-900 dark:text-slate-100"
           >
-            <option value="">Všechny výsledky</option>
+            <option value="">Všechny</option>
             <option value="prijato">Přijato</option>
             <option value="zamitnuto">Zamítnuto</option>
           </select>
         </div>
-        
-        <div className="flex flex-col gap-1 w-full sm:w-auto">
-          <label className="text-xs font-semibold text-gray-500 uppercase tracking-wider">Datum od</label>
+
+        <div className="space-y-2">
+          <label className="text-[10px] font-black text-slate-400 uppercase tracking-widest flex items-center gap-2 px-1">
+            <Calendar size={12} /> Od data
+          </label>
           <input 
-            type="date" 
-            value={filterDateFrom} 
-            onChange={e => setFilterDateFrom(e.target.value)}
-            className="w-full border-gray-300 rounded-md shadow-sm text-sm py-2 focus:ring-indigo-500 focus:border-indigo-500" 
+            type="date"
+            value={filterDateFrom}
+            onChange={(e) => { setFilterDateFrom(e.target.value); setPage(1); }}
+            className="w-full p-3 bg-white dark:bg-slate-800 border-none rounded-xl text-sm font-bold shadow-sm focus:ring-2 focus:ring-blue-500 text-slate-900 dark:text-slate-100"
           />
         </div>
 
-        <div className="flex flex-col gap-1 w-full sm:w-auto">
-          <label className="text-xs font-semibold text-gray-500 uppercase tracking-wider">Datum do</label>
+        <div className="space-y-2">
+          <label className="text-[10px] font-black text-slate-400 uppercase tracking-widest flex items-center gap-2 px-1">
+            <Calendar size={12} /> Do data
+          </label>
           <input 
-            type="date" 
-            value={filterDateTo} 
-            onChange={e => setFilterDateTo(e.target.value)}
-            className="w-full border-gray-300 rounded-md shadow-sm text-sm py-2 focus:ring-indigo-500 focus:border-indigo-500" 
+            type="date"
+            value={filterDateTo}
+            onChange={(e) => { setFilterDateTo(e.target.value); setPage(1); }}
+            className="w-full p-3 bg-white dark:bg-slate-800 border-none rounded-xl text-sm font-bold shadow-sm focus:ring-2 focus:ring-blue-500 text-slate-900 dark:text-slate-100"
           />
         </div>
-        
-        {/* Resetovací tlačítko filtrů (zobrazí se jen když jsou aktivní) */}
-        {(filterResult || filterDateFrom || filterDateTo) && (
-          <button 
-            onClick={() => { setFilterResult(''); setFilterDateFrom(''); setFilterDateTo(''); }}
-            className="text-sm text-indigo-600 font-medium hover:text-indigo-800 py-2 px-2 transition-colors"
-          >
-            Smazat filtry
-          </button>
-        )}
+
+        <div className="space-y-2">
+          <label className="text-[10px] font-black text-slate-400 uppercase tracking-widest flex items-center gap-2 px-1">
+            Stránkování
+          </label>
+          <div className="grid grid-cols-4 gap-1 bg-white dark:bg-slate-800 p-1 rounded-xl shadow-sm">
+            {[20, 50, 100, 200].map(n => (
+              <button
+                key={n}
+                onClick={() => { setItemsPerPage(n); setPage(1); }}
+                className={`py-2 text-[10px] font-black rounded-lg transition-all ${
+                  itemsPerPage === n 
+                    ? 'bg-blue-600 text-white shadow-md' 
+                    : 'text-slate-400 hover:bg-slate-50 dark:hover:bg-slate-700'
+                }`}
+              >
+                {n}
+              </button>
+            ))}
+          </div>
+        </div>
       </div>
 
-      <PaginationControls />
+      {(filterResult || filterDateFrom || filterDateTo || searchQuery) && (
+        <button 
+          onClick={() => { setFilterResult(''); setFilterDateFrom(''); setFilterDateTo(''); setSearchQuery(''); setPage(1); }}
+          className="flex items-center gap-2 text-xs font-bold text-blue-600 hover:text-blue-800 transition-colors px-2"
+        >
+          <X size={14} /> Zrušit všechny filtry
+        </button>
+      )}
 
       {/* Tabulka */}
-      <div className="bg-white rounded-xl shadow-sm border border-gray-200 overflow-hidden mb-4">
+      <div className="bg-white dark:bg-slate-800 rounded-3xl shadow-xl shadow-slate-200/40 dark:shadow-none border border-slate-200 dark:border-slate-700 overflow-hidden">
         <div className="overflow-x-auto">
-          <table className="min-w-full divide-y divide-gray-200">
-            <thead className="bg-gray-50/80">
-              <tr>
-                <th scope="col" className="px-5 py-4 text-left text-xs font-semibold text-gray-500 uppercase tracking-wider w-32">Datum</th>
-                <th scope="col" className="px-5 py-4 text-left text-xs font-semibold text-gray-500 uppercase tracking-wider">Název hlasování</th>
-                <th scope="col" className="px-5 py-4 text-center text-xs font-semibold text-gray-500 uppercase tracking-wider w-32">Výsledek</th>
-                <th scope="col" className="px-5 py-4 text-center text-xs font-semibold text-gray-500 uppercase tracking-wider w-40">Ano / Ne / Zdrž</th>
+          <table className="w-full text-left border-collapse">
+            <thead>
+              <tr className="bg-slate-50/50 dark:bg-slate-900/30 text-slate-400 text-[10px] font-black uppercase tracking-[0.2em] border-b border-slate-100 dark:border-slate-700">
+                <th className="py-5 px-8">ID & Datum</th>
+                <th className="py-5 px-6">Bod jednání</th>
+                <th className="py-5 px-6 text-center">Výsledek</th>
+                <th className="py-5 px-8 text-right">Poměr hlasů</th>
               </tr>
             </thead>
-            <tbody className="divide-y divide-gray-100 bg-white">
+            <tbody className="divide-y divide-slate-50 dark:divide-slate-700">
               {currentVotings.map(v => (
-                <tr key={v.id} className="hover:bg-gray-50/80 transition-colors">
-                  <td className="px-5 py-3.5 text-sm whitespace-nowrap text-gray-600 font-medium">{v.date}</td>
-                  <td className="px-5 py-3.5 text-sm">
-                    <Link to={`/hlasovani/${v.id}?term=${selectedTerm}`} className="text-indigo-600 hover:text-indigo-900 font-medium hover:underline">
+                <tr key={v.id} className="group hover:bg-slate-50/80 dark:hover:bg-slate-700/40 transition-all">
+                  <td className="py-5 px-8 whitespace-nowrap">
+                    <div className="font-mono text-[10px] text-blue-500 font-bold mb-1 opacity-70">#{v.id}</div>
+                    <div className="font-bold text-slate-900 dark:text-slate-200 text-sm">
+                      {v.date}
+                    </div>
+                  </td>
+                  <td className="py-5 px-6">
+                    <Link 
+                      to={`/hlasovani/${v.id}?term=${selectedTerm}`}
+                      className="text-sm font-bold text-slate-700 dark:text-slate-300 group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors leading-relaxed block max-w-lg"
+                    >
                       {v.title}
                     </Link>
                   </td>
-                  <td className="px-5 py-3.5 text-sm text-center">
-                    <span className={`inline-flex items-center justify-center px-2.5 py-1 rounded-md text-xs font-bold uppercase tracking-wide w-full max-w-[90px] ${
-                      v.result === 'prijato' ? 'bg-emerald-50 text-emerald-700 border border-emerald-200' : 'bg-rose-50 text-rose-700 border border-rose-200'
+                  <td className="py-5 px-6 text-center">
+                    <span className={`inline-flex items-center px-3 py-1 rounded-lg text-[10px] font-black uppercase tracking-widest ${
+                      v.result === 'prijato' 
+                        ? 'bg-emerald-100 text-emerald-700 dark:bg-emerald-500/10 dark:text-emerald-400' 
+                        : 'bg-rose-100 text-rose-700 dark:bg-rose-500/10 dark:text-rose-400'
                     }`}>
                       {v.result === 'prijato' ? 'Přijato' : 'Zamítnuto'}
                     </span>
                   </td>
-                  <td className="px-5 py-3.5 text-sm text-center font-medium">
-                    <span className="text-emerald-600">{v.vote_summary.yes}</span>
-                    <span className="mx-1 text-gray-300">/</span>
-                    <span className="text-rose-600">{v.vote_summary.no}</span>
-                    <span className="mx-1 text-gray-300">/</span>
-                    <span className="text-gray-400">{v.vote_summary.abstain}</span>
+                  <td className="py-5 px-8 text-right">
+                    <div className="flex items-center justify-end gap-1.5 font-mono text-xs mb-1.5">
+                      <span className="text-emerald-600 dark:text-emerald-400 font-bold">{v.vote_summary.yes}</span>
+                      <span className="text-slate-300 dark:text-slate-600">/</span>
+                      <span className="text-rose-600 dark:text-rose-400 font-bold">{v.vote_summary.no}</span>
+                      <span className="text-slate-300 dark:text-slate-600">/</span>
+                      <span className="text-slate-400 font-bold">{v.vote_summary.abstain}</span>
+                    </div>
+                    <div className="w-24 h-1.5 bg-slate-100 dark:bg-slate-700 rounded-full ml-auto overflow-hidden flex">
+                      <div className="h-full bg-emerald-500" style={{ width: `${(v.vote_summary.yes / Math.max(1, v.vote_summary.yes + v.vote_summary.no + v.vote_summary.abstain)) * 100}%` }} />
+                      <div className="h-full bg-rose-500" style={{ width: `${(v.vote_summary.no / Math.max(1, v.vote_summary.yes + v.vote_summary.no + v.vote_summary.abstain)) * 100}%` }} />
+                    </div>
                   </td>
                 </tr>
               ))}
@@ -240,25 +300,20 @@ export default function VotingList() {
           </table>
         </div>
 
-        {/* Stavová hlášení */}
         {currentVotings.length === 0 && (
-          <div className="flex flex-col items-center justify-center py-16 px-4 text-center">
-            {loading ? (
-              <p className="text-gray-500 text-sm">Zatím nebyly načteny záznamy odpovídající filtrům. Pokračuji v hledání...</p>
-            ) : (
-              <>
-                <svg className="w-12 h-12 text-gray-300 mb-3" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M21 21l-5.197-5.197m0 0A7.5 7.5 0 105.196 5.196a7.5 7.5 0 0010.607 10.607z" />
-                </svg>
-                <h3 className="text-base font-semibold text-gray-900 mb-1">Žádné výsledky</h3>
-                <p className="text-gray-500 text-sm">Zkuste upravit filtry nebo zvolit širší časové období.</p>
-              </>
-            )}
+          <div className="flex flex-col items-center justify-center py-24 px-6 text-center bg-slate-50/30 dark:bg-slate-900/10">
+            <div className="w-20 h-20 bg-white dark:bg-slate-800 rounded-3xl shadow-sm flex items-center justify-center mb-6 text-slate-300">
+              <Inbox size={40} />
+            </div>
+            <h3 className="text-xl font-black text-slate-900 dark:text-white mb-2">Nic jsme nenašli</h3>
+            <p className="text-slate-500 dark:text-slate-400 text-sm max-w-xs">
+              {loading ? "Pracujeme na tom, stahujeme další stránky z archivu..." : "Zkuste změnit filtry nebo hledaný výraz."}
+            </p>
           </div>
         )}
       </div>
 
-      {totalItems > 0 && <PaginationControls />}
+      <Pagination />
     </div>
   );
 }
