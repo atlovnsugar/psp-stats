@@ -51,6 +51,35 @@ const PARTY_COLORS = {
   'Piráti': '#696969'
 };
 
+const chartData = useMemo(() => {
+  if (!partyStats.length) return [];
+
+  const groups = partyStats.reduce((acc, p) => {
+    const name = formatPartyName(p.party_id);
+    
+    if (!acc[name]) {
+      acc[name] = {
+        name: name,
+        // Pro barvu použijeme původní party_id, nebo jméno
+        original_id: p.party_id, 
+        prumernaUcast: p.avg_attendance,
+        total_attended: p.total_attended || 0,
+        total_eligible: p.total_eligible_votes || 0,
+        count: 1
+      };
+    } else {
+      // Pokud už jméno existuje (např. podruhé Nezařazení), data sloučíme
+      // Průměrujeme účast z obou záznamů
+      acc[name].prumernaUcast = (acc[name].prumernaUcast + p.avg_attendance) / 2;
+      acc[name].total_attended += (p.total_attended || 0);
+      acc[name].total_eligible += (p.total_eligible_votes || 0);
+    }
+    return acc;
+  }, {});
+
+  return Object.values(groups);
+}, [partyStats]);
+
 // Formátovací funkce pro názvy stran
 const formatPartyName = (partyId) => {
   if (!partyId) return 'Nezařazení';
@@ -302,15 +331,10 @@ export default function Dashboard() {
             ) : partyStats.length > 0 ? (
               <div className="chart-container h-[300px]">
                 <ResponsiveContainer width="100%" height="100%">
-                  <BarChart 
-                    data={partyStats.map(p => ({
-                      name: formatPartyName(p.party_id),
-                      prumernaUcast: p.avg_attendance,
-                      celkovaUcast: p.total_eligible_votes ? 
-                        ((p.total_attended / p.total_eligible_votes) * 100).toFixed(1) : 0
-                    }))}
-                    margin={{ top: 5, right: 0, left: -15, bottom: 5 }}
-                  >
+                <BarChart 
+                data={chartData} // Použijte nově vytvořená zmergovaná data
+                margin={{ top: 5, right: 0, left: -15, bottom: 5 }}
+                >
                     <XAxis 
                       dataKey="name" 
                       stroke="var(--text-secondary)" 
@@ -326,10 +350,10 @@ export default function Dashboard() {
                       tickFormatter={(value) => `${value}%`}
                     />
                     <Tooltip 
-                      formatter={(value, name) => [
-                        `${value.toFixed(1)}%`,
-                        name === 'prumernaUcast' ? 'Průměrná účast' : 'Celková účast'
-                      ]}
+        formatter={(value, name, props) => [
+        `${Number(value).toFixed(1)}%`,
+        name === 'prumernaUcast' ? 'Průměrná účast' : 'Celková účast'
+        ]}
                       labelStyle={{ color: 'var(--text-primary)' }}
                       contentStyle={{ 
                         backgroundColor: 'var(--bg-secondary)', 
@@ -338,16 +362,17 @@ export default function Dashboard() {
                       }}
                     />
                     <Bar 
-                      dataKey="prumernaUcast" 
-                      radius={[4, 4, 0, 0]}
-                      isAnimationActive={false}
+                        dataKey="prumernaUcast" 
+                        radius={[4, 4, 0, 0]}
+                        isAnimationActive={false}
                     >
-                      {partyStats.map((entry, index) => (
+                        {/* DŮLEŽITÉ: Mapujte přes chartData, aby barvy odpovídaly sloupcům */}
+                        {chartData.map((entry, index) => (
                         <Cell 
-                          key={`cell-${index}`} 
-                          fill={getPartyColor(entry.party_id)} 
+                            key={`cell-${index}`} 
+                            fill={getPartyColor(entry.original_id)} 
                         />
-                      ))}
+                        ))}
                     </Bar>
                   </BarChart>
                 </ResponsiveContainer>
