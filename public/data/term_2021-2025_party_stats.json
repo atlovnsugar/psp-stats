@@ -1,11 +1,11 @@
 [
   {
     "party_id": "ano",
-    "mps_count": 76,
-    "avg_attendance": 80.12,
+    "mps_count": 78,
+    "avg_attendance": 79.6,
     "unity_score": 0.948,
-    "total_eligible_votes": 624308,
-    "total_attended": 500192
+    "total_eligible_votes": 642328,
+    "total_attended": 511324
   },
   {
     "party_id": "kdu-csl",
@@ -17,11 +17,11 @@
   },
   {
     "party_id": "ods",
-    "mps_count": 34,
-    "avg_attendance": 76.65,
+    "mps_count": 35,
+    "avg_attendance": 77.02,
     "unity_score": 0.923,
-    "total_eligible_votes": 299910,
-    "total_attended": 229884
+    "total_eligible_votes": 308920,
+    "total_attended": 237921
   },
   {
     "party_id": "pirati",
@@ -49,11 +49,11 @@
   },
   {
     "party_id": "top09",
-    "mps_count": 14,
-    "avg_attendance": 83.1,
+    "mps_count": 15,
+    "avg_attendance": 82.59,
     "unity_score": 0.939,
-    "total_eligible_votes": 117133,
-    "total_attended": 97340
+    "total_eligible_votes": 126143,
+    "total_attended": 104180
   },
   {
     "party_id": "Nezařaz",

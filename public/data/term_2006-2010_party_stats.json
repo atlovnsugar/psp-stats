@@ -1,11 +1,11 @@
 [
   {
     "party_id": "cssd",
-    "mps_count": 88,
-    "avg_attendance": 80.24,
+    "mps_count": 89,
+    "avg_attendance": 80.21,
     "unity_score": 0.874,
-    "total_eligible_votes": 597815,
-    "total_attended": 479700
+    "total_eligible_votes": 606335,
+    "total_attended": 486331
   },
   {
     "party_id": "ods",
@@ -17,19 +17,19 @@
   },
   {
     "party_id": "kscm",
-    "mps_count": 26,
-    "avg_attendance": 87.95,
+    "mps_count": 27,
+    "avg_attendance": 87.77,
     "unity_score": 0.907,
-    "total_eligible_votes": 217214,
-    "total_attended": 191049
+    "total_eligible_votes": 221520,
+    "total_attended": 194427
   },
   {
     "party_id": "kdu-csl",
-    "mps_count": 14,
-    "avg_attendance": 74.24,
+    "mps_count": 15,
+    "avg_attendance": 73.07,
     "unity_score": 0.821,
-    "total_eligible_votes": 96114,
-    "total_attended": 71353
+    "total_eligible_votes": 104634,
+    "total_attended": 76454
   },
   {
     "party_id": "nez-sz",

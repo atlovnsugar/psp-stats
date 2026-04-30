@@ -1,19 +1,19 @@
 [
   {
     "party_id": "cssd",
-    "mps_count": 65,
-    "avg_attendance": 74.44,
+    "mps_count": 66,
+    "avg_attendance": 74.51,
     "unity_score": 0.839,
-    "total_eligible_votes": 319192,
-    "total_attended": 237617
+    "total_eligible_votes": 325120,
+    "total_attended": 242232
   },
   {
     "party_id": "ods",
-    "mps_count": 57,
-    "avg_attendance": 75.27,
+    "mps_count": 58,
+    "avg_attendance": 75.55,
     "unity_score": 0.89,
-    "total_eligible_votes": 300521,
-    "total_attended": 226194
+    "total_eligible_votes": 306449,
+    "total_attended": 231536
   },
   {
     "party_id": "top09-s",
@@ -25,27 +25,27 @@
   },
   {
     "party_id": "kscm",
-    "mps_count": 25,
-    "avg_attendance": 86.28,
+    "mps_count": 26,
+    "avg_attendance": 85.55,
     "unity_score": 0.906,
-    "total_eligible_votes": 148200,
-    "total_attended": 127874
+    "total_eligible_votes": 154128,
+    "total_attended": 131856
   },
   {
     "party_id": "vv",
-    "mps_count": 24,
-    "avg_attendance": 75.52,
+    "mps_count": 25,
+    "avg_attendance": 75.92,
     "unity_score": 0.899,
-    "total_eligible_votes": 100360,
-    "total_attended": 75795
+    "total_eligible_votes": 103786,
+    "total_attended": 78793
   },
   {
     "party_id": "Nezařazení",
-    "mps_count": 23,
-    "avg_attendance": 63.95,
+    "mps_count": 24,
+    "avg_attendance": 65.57,
     "unity_score": 0.826,
-    "total_eligible_votes": 50029,
-    "total_attended": 31994
+    "total_eligible_votes": 52531,
+    "total_attended": 34445
   },
   {
     "party_id": "nezaraz",

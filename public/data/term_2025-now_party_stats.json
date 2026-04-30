@@ -1,19 +1,19 @@
 [
   {
     "party_id": "ano",
-    "mps_count": 82,
-    "avg_attendance": 90.57,
+    "mps_count": 83,
+    "avg_attendance": 90.67,
     "unity_score": 0.954,
-    "total_eligible_votes": 61389,
-    "total_attended": 55599
+    "total_eligible_votes": 62166,
+    "total_attended": 56369
   },
   {
     "party_id": "ods",
-    "mps_count": 26,
-    "avg_attendance": 79.31,
+    "mps_count": 27,
+    "avg_attendance": 79.58,
     "unity_score": 0.919,
-    "total_eligible_votes": 20202,
-    "total_attended": 16023
+    "total_eligible_votes": 20979,
+    "total_attended": 16696
   },
   {
     "party_id": "stan",
@@ -25,11 +25,11 @@
   },
   {
     "party_id": "pirati",
-    "mps_count": 18,
-    "avg_attendance": 87.36,
+    "mps_count": 19,
+    "avg_attendance": 87.65,
     "unity_score": 0.951,
-    "total_eligible_votes": 13227,
-    "total_attended": 11555
+    "total_eligible_votes": 14004,
+    "total_attended": 12274
   },
   {
     "party_id": "kdu-csl",
@@ -41,11 +41,11 @@
   },
   {
     "party_id": "spd",
-    "mps_count": 15,
-    "avg_attendance": 87.4,
+    "mps_count": 16,
+    "avg_attendance": 87.96,
     "unity_score": 0.945,
-    "total_eligible_votes": 11021,
-    "total_attended": 9632
+    "total_eligible_votes": 11798,
+    "total_attended": 10378
   },
   {
     "party_id": "ms",

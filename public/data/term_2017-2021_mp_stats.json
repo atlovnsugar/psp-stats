@@ -504,6 +504,18 @@
     "additional_stats": {}
   },
   {
+    "mp_id": 6149,
+    "eligible_votes": 10242,
+    "attended": 8125,
+    "attendance_pct": 79.33,
+    "voted_yes": 3793,
+    "voted_no": 1616,
+    "abstained": 2716,
+    "party_loyalty": 0.88,
+    "party_id": "kscm",
+    "additional_stats": {}
+  },
+  {
     "mp_id": 6150,
     "eligible_votes": 10242,
     "attended": 2202,
@@ -536,6 +548,18 @@
     "voted_no": 1806,
     "abstained": 1376,
     "party_loyalty": 0.936,
+    "party_id": "ano",
+    "additional_stats": {}
+  },
+  {
+    "mp_id": 6165,
+    "eligible_votes": 10242,
+    "attended": 7268,
+    "attendance_pct": 70.96,
+    "voted_yes": 3257,
+    "voted_no": 1578,
+    "abstained": 2433,
+    "party_loyalty": 0.823,
     "party_id": "ano",
     "additional_stats": {}
   },
@@ -2348,6 +2372,30 @@
     "voted_no": 770,
     "abstained": 1236,
     "party_loyalty": 0.95,
+    "party_id": "ods",
+    "additional_stats": {}
+  },
+  {
+    "mp_id": 6254,
+    "eligible_votes": 10242,
+    "attended": 8181,
+    "attendance_pct": 79.88,
+    "voted_yes": 4038,
+    "voted_no": 1788,
+    "abstained": 2355,
+    "party_loyalty": 0.893,
+    "party_id": "ano",
+    "additional_stats": {}
+  },
+  {
+    "mp_id": 5700,
+    "eligible_votes": 10242,
+    "attended": 6530,
+    "attendance_pct": 63.76,
+    "voted_yes": 4679,
+    "voted_no": 799,
+    "abstained": 1052,
+    "party_loyalty": 0.949,
     "party_id": "ods",
     "additional_stats": {}
   },

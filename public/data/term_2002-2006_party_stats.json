@@ -1,35 +1,35 @@
 [
   {
     "party_id": "cssd",
-    "mps_count": 89,
-    "avg_attendance": 83.58,
+    "mps_count": 90,
+    "avg_attendance": 83.62,
     "unity_score": 0.873,
-    "total_eligible_votes": 976925,
-    "total_attended": 816478
+    "total_eligible_votes": 991073,
+    "total_attended": 828743
   },
   {
     "party_id": "ods",
-    "mps_count": 64,
-    "avg_attendance": 78.98,
+    "mps_count": 66,
+    "avg_attendance": 78.71,
     "unity_score": 0.844,
-    "total_eligible_votes": 788722,
-    "total_attended": 622899
+    "total_eligible_votes": 809599,
+    "total_attended": 637251
   },
   {
     "party_id": "kscm",
-    "mps_count": 45,
-    "avg_attendance": 87.63,
+    "mps_count": 46,
+    "avg_attendance": 87.78,
     "unity_score": 0.895,
-    "total_eligible_votes": 565953,
-    "total_attended": 495930
+    "total_eligible_votes": 580101,
+    "total_attended": 509227
   },
   {
     "party_id": "kdu-csl",
-    "mps_count": 21,
-    "avg_attendance": 85.29,
+    "mps_count": 22,
+    "avg_attendance": 84.15,
     "unity_score": 0.867,
-    "total_eligible_votes": 282960,
-    "total_attended": 241340
+    "total_eligible_votes": 297108,
+    "total_attended": 250027
   },
   {
     "party_id": "us-deu",

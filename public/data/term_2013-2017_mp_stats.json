@@ -456,6 +456,18 @@
     "additional_stats": {}
   },
   {
+    "mp_id": 5462,
+    "eligible_votes": 8694,
+    "attended": 4543,
+    "attendance_pct": 52.25,
+    "voted_yes": 2176,
+    "voted_no": 1196,
+    "abstained": 1171,
+    "party_loyalty": 0.771,
+    "party_id": "cssd",
+    "additional_stats": {}
+  },
+  {
     "mp_id": 5476,
     "eligible_votes": 8707,
     "attended": 7104,
@@ -2349,6 +2361,42 @@
     "abstained": 974,
     "party_loyalty": 0.851,
     "party_id": "top09-s",
+    "additional_stats": {}
+  },
+  {
+    "mp_id": 5700,
+    "eligible_votes": 8694,
+    "attended": 6133,
+    "attendance_pct": 70.54,
+    "voted_yes": 4015,
+    "voted_no": 1209,
+    "abstained": 909,
+    "party_loyalty": 0.944,
+    "party_id": "ods",
+    "additional_stats": {}
+  },
+  {
+    "mp_id": 5768,
+    "eligible_votes": 8694,
+    "attended": 5741,
+    "attendance_pct": 66.03,
+    "voted_yes": 3600,
+    "voted_no": 501,
+    "abstained": 1640,
+    "party_loyalty": 0.878,
+    "party_id": "kscm",
+    "additional_stats": {}
+  },
+  {
+    "mp_id": 6146,
+    "eligible_votes": 8694,
+    "attended": 6877,
+    "attendance_pct": 79.1,
+    "voted_yes": 3994,
+    "voted_no": 844,
+    "abstained": 2039,
+    "party_loyalty": 0.809,
+    "party_id": "Nezařaz",
     "additional_stats": {}
   },
   {

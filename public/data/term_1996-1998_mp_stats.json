@@ -2364,6 +2364,42 @@
     "additional_stats": {}
   },
   {
+    "mp_id": 295,
+    "eligible_votes": 5000,
+    "attended": 4170,
+    "attendance_pct": 83.4,
+    "voted_yes": 2068,
+    "voted_no": 1529,
+    "abstained": 573,
+    "party_loyalty": 0.886,
+    "party_id": "kdu-csl",
+    "additional_stats": {}
+  },
+  {
+    "mp_id": 255,
+    "eligible_votes": 5000,
+    "attended": 4059,
+    "attendance_pct": 81.18,
+    "voted_yes": 1975,
+    "voted_no": 1527,
+    "abstained": 557,
+    "party_loyalty": 0.908,
+    "party_id": "ods",
+    "additional_stats": {}
+  },
+  {
+    "mp_id": 256,
+    "eligible_votes": 5000,
+    "attended": 4471,
+    "attendance_pct": 89.42,
+    "voted_yes": 2091,
+    "voted_no": 1649,
+    "abstained": 731,
+    "party_loyalty": 0.867,
+    "party_id": "ods",
+    "additional_stats": {}
+  },
+  {
     "mp_id": 333,
     "eligible_votes": 4507,
     "attended": 4305,

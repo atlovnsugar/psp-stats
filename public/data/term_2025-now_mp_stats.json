@@ -156,6 +156,18 @@
     "additional_stats": {}
   },
   {
+    "mp_id": 6105,
+    "eligible_votes": 777,
+    "attended": 746,
+    "attendance_pct": 96.01,
+    "voted_yes": 368,
+    "voted_no": 257,
+    "abstained": 121,
+    "party_loyalty": 0.956,
+    "party_id": "spd",
+    "additional_stats": {}
+  },
+  {
     "mp_id": 6150,
     "eligible_votes": 777,
     "attended": 449,
@@ -2385,6 +2397,42 @@
     "abstained": 85,
     "party_loyalty": 0.982,
     "party_id": "ano",
+    "additional_stats": {}
+  },
+  {
+    "mp_id": 6254,
+    "eligible_votes": 777,
+    "attended": 770,
+    "attendance_pct": 99.1,
+    "voted_yes": 383,
+    "voted_no": 295,
+    "abstained": 92,
+    "party_loyalty": 0.971,
+    "party_id": "ano",
+    "additional_stats": {}
+  },
+  {
+    "mp_id": 5700,
+    "eligible_votes": 777,
+    "attended": 673,
+    "attendance_pct": 86.62,
+    "voted_yes": 459,
+    "voted_no": 44,
+    "abstained": 170,
+    "party_loyalty": 0.931,
+    "party_id": "ods",
+    "additional_stats": {}
+  },
+  {
+    "mp_id": 6986,
+    "eligible_votes": 777,
+    "attended": 719,
+    "attendance_pct": 92.54,
+    "voted_yes": 599,
+    "voted_no": 46,
+    "abstained": 74,
+    "party_loyalty": 0.982,
+    "party_id": "pirati",
     "additional_stats": {}
   },
   {
