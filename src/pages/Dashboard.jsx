@@ -8,25 +8,26 @@ import MpModal from '../components/MpModal';
 
 // Mapping pro názvy stran - podle skutečných politických stran v ČR
 const PARTY_NAME_MAP = {
-  'KDU-CSL': 'KDU-ČSL',
-  'CSSD': 'ČSSD',
-  'ANO': 'ANO 2011',
-  'TOP09': 'TOP 09',
-  'SPD': 'SPD',
-  'ODS': 'ODS',
-  'STAN': 'STAN',
-  'ZEL': 'Zelení',
-  'KSČM': 'KSČM',
-  'SPOLU': 'SPOLU',
-  'JINÉ': 'Jiné',
-  'NEZAŘAZENÍ': 'Nezařazení',
-  'ZMĚNA 21': 'Změna 21',
-  'Piráti': 'Piráti',
-  'ČSSD': 'ČSSD',
-  'KDU-ČSL': 'KDU-ČSL',
-  'ČSSD': 'ČSSD',
-  'ČSSD': 'ČSSD',
-  'ČSSD': 'ČSSD',
+  'kdu csl': 'KDU-ČSL',
+    'ods': 'ODS',
+    'ms': 'Motoristé',
+    'cssd': 'ČSSD',
+    'nezaraz': 'Nezařazení',
+    'spd': 'SPD',
+    'top09': 'TOP 09',
+    'stan': 'STAN',
+    'pirati': 'Piráti',
+    'ano': 'ANO',
+    'kscm': 'KSČM',
+    'usvit': 'Úsvit',
+    'top09 s': 'TOP 09-STAN',
+    'vv': 'VV',
+    'sz': 'Zelení',
+    'nez sz': 'Nezařazení (SZ)',
+    'us deu': 'US-DEU',
+    'us': 'US',
+    'spr rsc': 'SPR-RSČ',
+    'oda': 'ODA'
 };
 
 // TODO: [2026-04-22] Přidat další strany do mappingu podle nových dat
@@ -35,19 +36,19 @@ const PARTY_NAME_MAP = {
 // Barevné schéma pro strany - používáme barvy z původního design systému
 const PARTY_COLORS = {
   'ODS': '#005EB8',
-  'ČSSD': '#E1001F',
-  'ANO': '#FAA019',
-  'KDU-ČSL': '#009933',
-  'TOP 09': '#00A19A',
+  'ČSSD': '#e17800',
+  'ANO': '#19d8fa',
+  'KDU-ČSL': '#f3f02b',
+  'TOP 09': '#6600a1',
   'SPD': '#103A6B',
-  'STAN': '#FFCC00',
+  'STAN': '#7c7c7c',
   'Zelení': '#66B246',
   'KSČM': '#D21F1B',
   'SPOLU': '#005EB8',
   'Jiné': '#64748b',
-  'Nezařazení': '#94a3b8',
+  'Nezařazení': '#4f92f0',
   'Změna 21': '#FF6B6B',
-  'Piráti': '#FF69B4'
+  'Piráti': '#696969'
 };
 
 // Formátovací funkce pro názvy stran
