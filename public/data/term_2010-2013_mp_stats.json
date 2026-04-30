@@ -272,7 +272,7 @@
     "voted_no": 623,
     "abstained": 848,
     "party_loyalty": 0.746,
-    "party_id": "nezaraz",
+    "party_id": "Nezařazení",
     "additional_stats": {}
   },
   {
@@ -324,18 +324,6 @@
     "additional_stats": {}
   },
   {
-    "mp_id": 410,
-    "eligible_votes": 2806,
-    "attended": 1824,
-    "attendance_pct": 65.0,
-    "voted_yes": 1060,
-    "voted_no": 325,
-    "abstained": 439,
-    "party_loyalty": 0.788,
-    "party_id": "cssd",
-    "additional_stats": {}
-  },
-  {
     "mp_id": 415,
     "eligible_votes": 5928,
     "attended": 4190,
@@ -356,18 +344,6 @@
     "voted_no": 539,
     "abstained": 1139,
     "party_loyalty": 0.808,
-    "party_id": "cssd",
-    "additional_stats": {}
-  },
-  {
-    "mp_id": 1016,
-    "eligible_votes": 39,
-    "attended": 0,
-    "attendance_pct": 0.0,
-    "voted_yes": 0,
-    "voted_no": 0,
-    "abstained": 0,
-    "party_loyalty": null,
     "party_id": "cssd",
     "additional_stats": {}
   },
@@ -393,18 +369,6 @@
     "abstained": 1189,
     "party_loyalty": 0.916,
     "party_id": "kscm",
-    "additional_stats": {}
-  },
-  {
-    "mp_id": 5255,
-    "eligible_votes": 4829,
-    "attended": 3229,
-    "attendance_pct": 66.87,
-    "voted_yes": 1849,
-    "voted_no": 711,
-    "abstained": 669,
-    "party_loyalty": 0.779,
-    "party_id": "cssd",
     "additional_stats": {}
   },
   {
@@ -524,18 +488,6 @@
     "voted_no": 745,
     "abstained": 812,
     "party_loyalty": 0.862,
-    "party_id": "cssd",
-    "additional_stats": {}
-  },
-  {
-    "mp_id": 5294,
-    "eligible_votes": 1642,
-    "attended": 1332,
-    "attendance_pct": 81.12,
-    "voted_yes": 729,
-    "voted_no": 231,
-    "abstained": 372,
-    "party_loyalty": 0.758,
     "party_id": "cssd",
     "additional_stats": {}
   },
@@ -684,18 +636,6 @@
     "additional_stats": {}
   },
   {
-    "mp_id": 5375,
-    "eligible_votes": 578,
-    "attended": 290,
-    "attendance_pct": 50.17,
-    "voted_yes": 197,
-    "voted_no": 55,
-    "abstained": 38,
-    "party_loyalty": 0.899,
-    "party_id": "ods",
-    "additional_stats": {}
-  },
-  {
     "mp_id": 5376,
     "eligible_votes": 4439,
     "attended": 3098,
@@ -740,7 +680,7 @@
     "voted_no": 663,
     "abstained": 985,
     "party_loyalty": 0.596,
-    "party_id": "nezaraz",
+    "party_id": "Nezařazení",
     "additional_stats": {}
   },
   {
@@ -764,7 +704,7 @@
     "voted_no": 413,
     "abstained": 355,
     "party_loyalty": 0.706,
-    "party_id": "nezaraz",
+    "party_id": "cssd",
     "additional_stats": {}
   },
   {
@@ -828,18 +768,6 @@
     "additional_stats": {}
   },
   {
-    "mp_id": 5446,
-    "eligible_votes": 1522,
-    "attended": 1221,
-    "attendance_pct": 80.22,
-    "voted_yes": 888,
-    "voted_no": 237,
-    "abstained": 96,
-    "party_loyalty": 0.953,
-    "party_id": "ods",
-    "additional_stats": {}
-  },
-  {
     "mp_id": 5447,
     "eligible_votes": 5928,
     "attended": 4208,
@@ -884,7 +812,7 @@
     "voted_no": 948,
     "abstained": 611,
     "party_loyalty": 0.857,
-    "party_id": "nezaraz",
+    "party_id": "ods",
     "additional_stats": {}
   },
   {
@@ -920,18 +848,6 @@
     "voted_no": 734,
     "abstained": 783,
     "party_loyalty": 0.794,
-    "party_id": "cssd",
-    "additional_stats": {}
-  },
-  {
-    "mp_id": 5469,
-    "eligible_votes": 578,
-    "attended": 529,
-    "attendance_pct": 91.52,
-    "voted_yes": 321,
-    "voted_no": 88,
-    "abstained": 120,
-    "party_loyalty": 0.893,
     "party_id": "cssd",
     "additional_stats": {}
   },
@@ -1104,18 +1020,6 @@
     "additional_stats": {}
   },
   {
-    "mp_id": 5508,
-    "eligible_votes": 552,
-    "attended": 410,
-    "attendance_pct": 74.28,
-    "voted_yes": 274,
-    "voted_no": 112,
-    "abstained": 24,
-    "party_loyalty": 0.849,
-    "party_id": "cssd",
-    "additional_stats": {}
-  },
-  {
     "mp_id": 5512,
     "eligible_votes": 5928,
     "attended": 3656,
@@ -1148,7 +1052,7 @@
     "voted_no": 996,
     "abstained": 644,
     "party_loyalty": 0.856,
-    "party_id": "nezaraz",
+    "party_id": "ods",
     "additional_stats": {}
   },
   {
@@ -1255,7 +1159,7 @@
     "voted_yes": 1600,
     "voted_no": 715,
     "abstained": 1186,
-    "party_loyalty": 0.632,
+    "party_loyalty": 0.629,
     "party_id": "vv",
     "additional_stats": {}
   },
@@ -1387,8 +1291,8 @@
     "voted_yes": 1372,
     "voted_no": 508,
     "abstained": 562,
-    "party_loyalty": 0.762,
-    "party_id": "nezaraz",
+    "party_loyalty": 0.768,
+    "party_id": "vv",
     "additional_stats": {}
   },
   {
@@ -1460,7 +1364,7 @@
     "voted_no": 985,
     "abstained": 717,
     "party_loyalty": 0.843,
-    "party_id": "nezaraz",
+    "party_id": "ods",
     "additional_stats": {}
   },
   {
@@ -1591,7 +1495,7 @@
     "voted_yes": 2703,
     "voted_no": 744,
     "abstained": 1122,
-    "party_loyalty": 0.808,
+    "party_loyalty": 0.807,
     "party_id": "cssd",
     "additional_stats": {}
   },
@@ -1771,8 +1675,8 @@
     "voted_yes": 2815,
     "voted_no": 641,
     "abstained": 1030,
-    "party_loyalty": 0.746,
-    "party_id": "nezaraz",
+    "party_loyalty": 0.741,
+    "party_id": "Nezařazení",
     "additional_stats": {}
   },
   {
@@ -1892,7 +1796,7 @@
     "voted_no": 1376,
     "abstained": 345,
     "party_loyalty": 0.945,
-    "party_id": "nezaraz",
+    "party_id": "vv",
     "additional_stats": {}
   },
   {
@@ -1964,7 +1868,7 @@
     "voted_no": 1462,
     "abstained": 314,
     "party_loyalty": 0.951,
-    "party_id": "nezaraz",
+    "party_id": "vv",
     "additional_stats": {}
   },
   {
@@ -1988,7 +1892,7 @@
     "voted_no": 1166,
     "abstained": 276,
     "party_loyalty": 0.937,
-    "party_id": "nezaraz",
+    "party_id": "vv",
     "additional_stats": {}
   },
   {
@@ -2180,7 +2084,7 @@
     "voted_no": 1204,
     "abstained": 320,
     "party_loyalty": 0.94,
-    "party_id": "nezaraz",
+    "party_id": "vv",
     "additional_stats": {}
   },
   {
@@ -2215,8 +2119,8 @@
     "voted_yes": 2204,
     "voted_no": 652,
     "abstained": 937,
-    "party_loyalty": 0.814,
-    "party_id": "nezaraz",
+    "party_loyalty": 0.807,
+    "party_id": "Nezařazení",
     "additional_stats": {}
   },
   {
@@ -2228,7 +2132,7 @@
     "voted_no": 593,
     "abstained": 842,
     "party_loyalty": 0.66,
-    "party_id": "nezaraz",
+    "party_id": "Nezařazení",
     "additional_stats": {}
   },
   {
@@ -2251,8 +2155,8 @@
     "voted_yes": 3011,
     "voted_no": 1002,
     "abstained": 467,
-    "party_loyalty": 0.855,
-    "party_id": "top09-s",
+    "party_loyalty": 0.856,
+    "party_id": "vv",
     "additional_stats": {}
   },
   {
@@ -2276,7 +2180,7 @@
     "voted_no": 980,
     "abstained": 374,
     "party_loyalty": 0.901,
-    "party_id": "nezaraz",
+    "party_id": "vv",
     "additional_stats": {}
   },
   {
@@ -2336,7 +2240,7 @@
     "voted_no": 1228,
     "abstained": 178,
     "party_loyalty": 0.972,
-    "party_id": "nezaraz",
+    "party_id": "vv",
     "additional_stats": {}
   },
   {
@@ -2444,7 +2348,7 @@
     "voted_no": 1343,
     "abstained": 356,
     "party_loyalty": 0.95,
-    "party_id": "nezaraz",
+    "party_id": "vv",
     "additional_stats": {}
   },
   {
@@ -2484,6 +2388,66 @@
     "additional_stats": {}
   },
   {
+    "mp_id": 1016,
+    "eligible_votes": 39,
+    "attended": 0,
+    "attendance_pct": 0.0,
+    "voted_yes": 0,
+    "voted_no": 0,
+    "abstained": 0,
+    "party_loyalty": null,
+    "party_id": "cssd",
+    "additional_stats": {}
+  },
+  {
+    "mp_id": 5255,
+    "eligible_votes": 4829,
+    "attended": 3229,
+    "attendance_pct": 66.87,
+    "voted_yes": 1849,
+    "voted_no": 711,
+    "abstained": 669,
+    "party_loyalty": 0.779,
+    "party_id": "cssd",
+    "additional_stats": {}
+  },
+  {
+    "mp_id": 410,
+    "eligible_votes": 2806,
+    "attended": 1824,
+    "attendance_pct": 65.0,
+    "voted_yes": 1060,
+    "voted_no": 325,
+    "abstained": 439,
+    "party_loyalty": 0.788,
+    "party_id": "cssd",
+    "additional_stats": {}
+  },
+  {
+    "mp_id": 5294,
+    "eligible_votes": 1642,
+    "attended": 1332,
+    "attendance_pct": 81.12,
+    "voted_yes": 729,
+    "voted_no": 231,
+    "abstained": 372,
+    "party_loyalty": 0.758,
+    "party_id": "cssd",
+    "additional_stats": {}
+  },
+  {
+    "mp_id": 5508,
+    "eligible_votes": 552,
+    "attended": 410,
+    "attendance_pct": 74.28,
+    "voted_yes": 274,
+    "voted_no": 112,
+    "abstained": 24,
+    "party_loyalty": 0.849,
+    "party_id": "cssd",
+    "additional_stats": {}
+  },
+  {
     "mp_id": 6095,
     "eligible_votes": 1642,
     "attended": 1600,
@@ -2508,6 +2472,18 @@
     "additional_stats": {}
   },
   {
+    "mp_id": 5446,
+    "eligible_votes": 1522,
+    "attended": 1221,
+    "attendance_pct": 80.22,
+    "voted_yes": 888,
+    "voted_no": 237,
+    "abstained": 96,
+    "party_loyalty": 0.953,
+    "party_id": "ods",
+    "additional_stats": {}
+  },
+  {
     "mp_id": 6097,
     "eligible_votes": 1522,
     "attended": 310,
@@ -2516,7 +2492,7 @@
     "voted_no": 70,
     "abstained": 20,
     "party_loyalty": 0.944,
-    "party_id": "nezaraz",
+    "party_id": "Nezařazení",
     "additional_stats": {}
   },
   {
@@ -2544,15 +2520,27 @@
     "additional_stats": {}
   },
   {
-    "mp_id": 6120,
-    "eligible_votes": 0,
-    "attended": 0,
-    "attendance_pct": 0,
-    "voted_yes": 0,
-    "voted_no": 0,
-    "abstained": 0,
-    "party_loyalty": null,
+    "mp_id": 5375,
+    "eligible_votes": 578,
+    "attended": 290,
+    "attendance_pct": 50.17,
+    "voted_yes": 197,
+    "voted_no": 55,
+    "abstained": 38,
+    "party_loyalty": 0.899,
     "party_id": "ods",
+    "additional_stats": {}
+  },
+  {
+    "mp_id": 5469,
+    "eligible_votes": 578,
+    "attended": 529,
+    "attendance_pct": 91.52,
+    "voted_yes": 321,
+    "voted_no": 88,
+    "abstained": 120,
+    "party_loyalty": 0.893,
+    "party_id": "cssd",
     "additional_stats": {}
   },
   {
@@ -2564,7 +2552,7 @@
     "voted_no": 4,
     "abstained": 69,
     "party_loyalty": 0.235,
-    "party_id": "nezaraz",
+    "party_id": "Nezařazení",
     "additional_stats": {}
   }
 ]

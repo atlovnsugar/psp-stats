@@ -1,19 +1,27 @@
 [
   {
-    "party_id": "ods",
-    "mps_count": 53,
-    "avg_attendance": 73.4,
-    "unity_score": 0.89,
-    "total_eligible_votes": 283121,
-    "total_attended": 213337
+    "party_id": "cssd",
+    "mps_count": 65,
+    "avg_attendance": 74.44,
+    "unity_score": 0.839,
+    "total_eligible_votes": 319192,
+    "total_attended": 237617
   },
   {
-    "party_id": "cssd",
-    "mps_count": 62,
-    "avg_attendance": 73.75,
-    "unity_score": 0.839,
-    "total_eligible_votes": 314269,
-    "total_attended": 235571
+    "party_id": "ods",
+    "mps_count": 57,
+    "avg_attendance": 75.27,
+    "unity_score": 0.89,
+    "total_eligible_votes": 300521,
+    "total_attended": 226194
+  },
+  {
+    "party_id": "top09-s",
+    "mps_count": 43,
+    "avg_attendance": 82.96,
+    "unity_score": 0.922,
+    "total_eligible_votes": 243626,
+    "total_attended": 202124
   },
   {
     "party_id": "kscm",
@@ -24,35 +32,27 @@
     "total_attended": 127874
   },
   {
-    "party_id": "top09-s",
-    "mps_count": 43,
-    "avg_attendance": 83.13,
-    "unity_score": 0.922,
-    "total_eligible_votes": 248976,
-    "total_attended": 206099
-  },
-  {
-    "party_id": "nezaraz",
-    "mps_count": 19,
-    "avg_attendance": 63.39,
-    "unity_score": null,
-    "total_eligible_votes": 102299,
-    "total_attended": 68700
-  },
-  {
     "party_id": "vv",
-    "mps_count": 12,
-    "avg_attendance": 75.49,
+    "mps_count": 24,
+    "avg_attendance": 75.52,
     "unity_score": 0.899,
-    "total_eligible_votes": 65208,
-    "total_attended": 50017
+    "total_eligible_votes": 100360,
+    "total_attended": 75795
   },
   {
     "party_id": "Nezařazení",
-    "mps_count": 0,
-    "avg_attendance": 0,
+    "mps_count": 23,
+    "avg_attendance": 63.95,
     "unity_score": 0.826,
-    "total_eligible_votes": 0,
+    "total_eligible_votes": 50029,
+    "total_attended": 31994
+  },
+  {
+    "party_id": "nezaraz",
+    "mps_count": 17,
+    "avg_attendance": 0.0,
+    "unity_score": null,
+    "total_eligible_votes": 145,
     "total_attended": 0
   }
 ]

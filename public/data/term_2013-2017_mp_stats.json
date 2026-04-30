@@ -259,8 +259,8 @@
     "voted_yes": 259,
     "voted_no": 57,
     "abstained": 77,
-    "party_loyalty": 0.85,
-    "party_id": "nezaraz",
+    "party_loyalty": 0.837,
+    "party_id": "Nezařaz",
     "additional_stats": {}
   },
   {
@@ -420,18 +420,6 @@
     "additional_stats": {}
   },
   {
-    "mp_id": 5447,
-    "eligible_votes": 8133,
-    "attended": 6244,
-    "attendance_pct": 76.77,
-    "voted_yes": 3393,
-    "voted_no": 1964,
-    "abstained": 887,
-    "party_loyalty": 0.88,
-    "party_id": "cssd",
-    "additional_stats": {}
-  },
-  {
     "mp_id": 5456,
     "eligible_votes": 8707,
     "attended": 7361,
@@ -452,7 +440,7 @@
     "voted_no": 477,
     "abstained": 1633,
     "party_loyalty": 0.897,
-    "party_id": "nezaraz",
+    "party_id": "Nezařaz",
     "additional_stats": {}
   },
   {
@@ -549,18 +537,6 @@
     "abstained": 2332,
     "party_loyalty": 0.745,
     "party_id": "cssd",
-    "additional_stats": {}
-  },
-  {
-    "mp_id": 5520,
-    "eligible_votes": 7780,
-    "attended": 6470,
-    "attendance_pct": 83.16,
-    "voted_yes": 4282,
-    "voted_no": 1356,
-    "abstained": 832,
-    "party_loyalty": 0.958,
-    "party_id": "ods",
     "additional_stats": {}
   },
   {
@@ -1099,8 +1075,8 @@
     "voted_yes": 4042,
     "voted_no": 664,
     "abstained": 1868,
-    "party_loyalty": 0.913,
-    "party_id": "nezaraz",
+    "party_loyalty": 0.912,
+    "party_id": "Nezařaz",
     "additional_stats": {}
   },
   {
@@ -1243,8 +1219,8 @@
     "voted_yes": 2186,
     "voted_no": 650,
     "abstained": 2237,
-    "party_loyalty": 0.697,
-    "party_id": "nezaraz",
+    "party_loyalty": 0.696,
+    "party_id": "Nezařaz",
     "additional_stats": {}
   },
   {
@@ -1363,8 +1339,8 @@
     "voted_yes": 2909,
     "voted_no": 1193,
     "abstained": 571,
-    "party_loyalty": 0.875,
-    "party_id": "top09-s",
+    "party_loyalty": 0.873,
+    "party_id": "ano",
     "additional_stats": {}
   },
   {
@@ -1784,7 +1760,7 @@
     "voted_no": 837,
     "abstained": 1980,
     "party_loyalty": 0.857,
-    "party_id": "nezaraz",
+    "party_id": "usvit",
     "additional_stats": {}
   },
   {
@@ -1831,8 +1807,8 @@
     "voted_yes": 5157,
     "voted_no": 892,
     "abstained": 1101,
-    "party_loyalty": 0.943,
-    "party_id": "nezaraz",
+    "party_loyalty": 0.941,
+    "party_id": "usvit",
     "additional_stats": {}
   },
   {
@@ -1867,8 +1843,8 @@
     "voted_yes": 4269,
     "voted_no": 639,
     "abstained": 2682,
-    "party_loyalty": 0.861,
-    "party_id": "nezaraz",
+    "party_loyalty": 0.86,
+    "party_id": "Nezařaz",
     "additional_stats": {}
   },
   {
@@ -2035,7 +2011,7 @@
     "voted_yes": 4511,
     "voted_no": 1529,
     "abstained": 1304,
-    "party_loyalty": 0.862,
+    "party_loyalty": 0.861,
     "party_id": "cssd",
     "additional_stats": {}
   },
@@ -2299,8 +2275,8 @@
     "voted_yes": 3480,
     "voted_no": 1415,
     "abstained": 1529,
-    "party_loyalty": 0.77,
-    "party_id": "nezaraz",
+    "party_loyalty": 0.769,
+    "party_id": "Nezařaz",
     "additional_stats": {}
   },
   {
@@ -2371,8 +2347,8 @@
     "voted_yes": 3209,
     "voted_no": 1548,
     "abstained": 974,
-    "party_loyalty": 0.85,
-    "party_id": "ano",
+    "party_loyalty": 0.851,
+    "party_id": "top09-s",
     "additional_stats": {}
   },
   {
@@ -2400,6 +2376,18 @@
     "additional_stats": {}
   },
   {
+    "mp_id": 5447,
+    "eligible_votes": 8133,
+    "attended": 6244,
+    "attendance_pct": 76.77,
+    "voted_yes": 3393,
+    "voted_no": 1964,
+    "abstained": 887,
+    "party_loyalty": 0.88,
+    "party_id": "cssd",
+    "additional_stats": {}
+  },
+  {
     "mp_id": 6268,
     "eligible_votes": 8107,
     "attended": 4976,
@@ -2409,6 +2397,18 @@
     "abstained": 828,
     "party_loyalty": 0.873,
     "party_id": "cssd",
+    "additional_stats": {}
+  },
+  {
+    "mp_id": 5520,
+    "eligible_votes": 7780,
+    "attended": 6470,
+    "attendance_pct": 83.16,
+    "voted_yes": 4282,
+    "voted_no": 1356,
+    "abstained": 832,
+    "party_loyalty": 0.958,
+    "party_id": "ods",
     "additional_stats": {}
   },
   {

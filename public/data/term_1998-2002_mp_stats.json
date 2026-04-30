@@ -1831,7 +1831,7 @@
     "voted_yes": 6702,
     "voted_no": 2494,
     "abstained": 1900,
-    "party_loyalty": 0.848,
+    "party_loyalty": 0.847,
     "party_id": "us",
     "additional_stats": {}
   },
@@ -1891,8 +1891,8 @@
     "voted_yes": 3588,
     "voted_no": 1230,
     "abstained": 2207,
-    "party_loyalty": 0.929,
-    "party_id": "nezaraz",
+    "party_loyalty": 0.922,
+    "party_id": "Nezařazení",
     "additional_stats": {}
   },
   {
@@ -2059,8 +2059,8 @@
     "voted_yes": 5765,
     "voted_no": 2569,
     "abstained": 987,
-    "party_loyalty": 0.927,
-    "party_id": "nezaraz",
+    "party_loyalty": 0.917,
+    "party_id": "us",
     "additional_stats": {}
   },
   {

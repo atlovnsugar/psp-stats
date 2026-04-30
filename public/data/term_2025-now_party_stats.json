@@ -1,51 +1,19 @@
 [
   {
-    "party_id": "ods",
-    "mps_count": 26,
-    "avg_attendance": 80.28,
-    "unity_score": 0.919,
-    "total_eligible_votes": 20202,
-    "total_attended": 16219
-  },
-  {
-    "party_id": "nezaraz",
-    "mps_count": 2,
-    "avg_attendance": 71.75,
-    "unity_score": null,
-    "total_eligible_votes": 1554,
-    "total_attended": 1115
-  },
-  {
-    "party_id": "spd",
-    "mps_count": 14,
-    "avg_attendance": 85.43,
-    "unity_score": 0.945,
-    "total_eligible_votes": 10244,
-    "total_attended": 9049
-  },
-  {
-    "party_id": "top09",
-    "mps_count": 8,
-    "avg_attendance": 77.9,
-    "unity_score": 0.938,
-    "total_eligible_votes": 6216,
-    "total_attended": 4842
-  },
-  {
     "party_id": "ano",
     "mps_count": 82,
-    "avg_attendance": 87.26,
+    "avg_attendance": 90.57,
     "unity_score": 0.954,
     "total_eligible_votes": 61389,
     "total_attended": 55599
   },
   {
-    "party_id": "kdu-csl",
-    "mps_count": 16,
-    "avg_attendance": 85.26,
-    "unity_score": 0.931,
-    "total_eligible_votes": 12432,
-    "total_attended": 10600
+    "party_id": "ods",
+    "mps_count": 26,
+    "avg_attendance": 79.31,
+    "unity_score": 0.919,
+    "total_eligible_votes": 20202,
+    "total_attended": 16023
   },
   {
     "party_id": "stan",
@@ -57,18 +25,42 @@
   },
   {
     "party_id": "pirati",
-    "mps_count": 19,
-    "avg_attendance": 81.78,
+    "mps_count": 18,
+    "avg_attendance": 87.36,
     "unity_score": 0.951,
-    "total_eligible_votes": 14004,
-    "total_attended": 12071
+    "total_eligible_votes": 13227,
+    "total_attended": 11555
+  },
+  {
+    "party_id": "kdu-csl",
+    "mps_count": 16,
+    "avg_attendance": 85.26,
+    "unity_score": 0.931,
+    "total_eligible_votes": 12432,
+    "total_attended": 10600
+  },
+  {
+    "party_id": "spd",
+    "mps_count": 15,
+    "avg_attendance": 87.4,
+    "unity_score": 0.945,
+    "total_eligible_votes": 11021,
+    "total_attended": 9632
   },
   {
     "party_id": "ms",
-    "mps_count": 12,
-    "avg_attendance": 84.83,
+    "mps_count": 13,
+    "avg_attendance": 85.36,
     "unity_score": 0.956,
-    "total_eligible_votes": 9324,
-    "total_attended": 7910
+    "total_eligible_votes": 10101,
+    "total_attended": 8622
+  },
+  {
+    "party_id": "top09",
+    "mps_count": 9,
+    "avg_attendance": 76.85,
+    "unity_score": 0.938,
+    "total_eligible_votes": 6993,
+    "total_attended": 5374
   }
 ]

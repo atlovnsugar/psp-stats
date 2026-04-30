@@ -180,18 +180,6 @@
     "additional_stats": {}
   },
   {
-    "mp_id": 5931,
-    "eligible_votes": 2580,
-    "attended": 1756,
-    "attendance_pct": 68.06,
-    "voted_yes": 1014,
-    "voted_no": 592,
-    "abstained": 150,
-    "party_loyalty": 0.92,
-    "party_id": "ods",
-    "additional_stats": {}
-  },
-  {
     "mp_id": 5943,
     "eligible_votes": 9010,
     "attended": 6725,
@@ -381,18 +369,6 @@
     "abstained": 1284,
     "party_loyalty": 0.913,
     "party_id": "kdu-csl",
-    "additional_stats": {}
-  },
-  {
-    "mp_id": 6177,
-    "eligible_votes": 9008,
-    "attended": 7154,
-    "attendance_pct": 79.42,
-    "voted_yes": 5384,
-    "voted_no": 794,
-    "abstained": 976,
-    "party_loyalty": 0.942,
-    "party_id": "ano",
     "additional_stats": {}
   },
   {
@@ -907,7 +883,7 @@
     "voted_yes": 4101,
     "voted_no": 2193,
     "abstained": 1741,
-    "party_loyalty": 0.927,
+    "party_loyalty": 0.926,
     "party_id": "pirati",
     "additional_stats": {}
   },
@@ -943,7 +919,7 @@
     "voted_yes": 3476,
     "voted_no": 2377,
     "abstained": 1555,
-    "party_loyalty": 0.911,
+    "party_loyalty": 0.91,
     "party_id": "pirati",
     "additional_stats": {}
   },
@@ -1027,8 +1003,8 @@
     "voted_yes": 2790,
     "voted_no": 1232,
     "abstained": 875,
-    "party_loyalty": 0.864,
-    "party_id": "nezaraz",
+    "party_loyalty": 0.863,
+    "party_id": "Nezařaz",
     "additional_stats": {}
   },
   {
@@ -1341,18 +1317,6 @@
     "abstained": 676,
     "party_loyalty": 0.969,
     "party_id": "top09",
-    "additional_stats": {}
-  },
-  {
-    "mp_id": 6688,
-    "eligible_votes": 2862,
-    "attended": 2689,
-    "attendance_pct": 93.96,
-    "voted_yes": 1915,
-    "voted_no": 436,
-    "abstained": 338,
-    "party_loyalty": 0.983,
-    "party_id": "ano",
     "additional_stats": {}
   },
   {
@@ -2388,6 +2352,18 @@
     "additional_stats": {}
   },
   {
+    "mp_id": 6177,
+    "eligible_votes": 9008,
+    "attended": 7154,
+    "attendance_pct": 79.42,
+    "voted_yes": 5384,
+    "voted_no": 794,
+    "abstained": 976,
+    "party_loyalty": 0.942,
+    "party_id": "ano",
+    "additional_stats": {}
+  },
+  {
     "mp_id": 6809,
     "eligible_votes": 8692,
     "attended": 7582,
@@ -2424,6 +2400,18 @@
     "additional_stats": {}
   },
   {
+    "mp_id": 6688,
+    "eligible_votes": 2862,
+    "attended": 2689,
+    "attendance_pct": 93.96,
+    "voted_yes": 1915,
+    "voted_no": 436,
+    "abstained": 338,
+    "party_loyalty": 0.983,
+    "party_id": "ano",
+    "additional_stats": {}
+  },
+  {
     "mp_id": 6939,
     "eligible_votes": 2862,
     "attended": 2743,
@@ -2445,6 +2433,18 @@
     "abstained": 301,
     "party_loyalty": 0.981,
     "party_id": "ano",
+    "additional_stats": {}
+  },
+  {
+    "mp_id": 5931,
+    "eligible_votes": 2580,
+    "attended": 1756,
+    "attendance_pct": 68.06,
+    "voted_yes": 1014,
+    "voted_no": 592,
+    "abstained": 150,
+    "party_loyalty": 0.92,
+    "party_id": "ods",
     "additional_stats": {}
   },
   {

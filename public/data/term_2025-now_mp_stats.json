@@ -44,7 +44,7 @@
     "voted_no": 21,
     "abstained": 99,
     "party_loyalty": 0.924,
-    "party_id": "nezaraz",
+    "party_id": "top09",
     "additional_stats": {}
   },
   {
@@ -80,7 +80,7 @@
     "voted_no": 282,
     "abstained": 78,
     "party_loyalty": 0.956,
-    "party_id": "ods",
+    "party_id": "ms",
     "additional_stats": {}
   },
   {
@@ -536,7 +536,7 @@
     "voted_no": 182,
     "abstained": 125,
     "party_loyalty": 0.941,
-    "party_id": "nezaraz",
+    "party_id": "spd",
     "additional_stats": {}
   },
   {
@@ -836,7 +836,7 @@
     "voted_no": 38,
     "abstained": 100,
     "party_loyalty": 0.939,
-    "party_id": "pirati",
+    "party_id": "ods",
     "additional_stats": {}
   },
   {
@@ -945,18 +945,6 @@
     "abstained": 136,
     "party_loyalty": 0.871,
     "party_id": "ano",
-    "additional_stats": {}
-  },
-  {
-    "mp_id": 6664,
-    "eligible_votes": 278,
-    "attended": 92,
-    "attendance_pct": 33.09,
-    "voted_yes": 33,
-    "voted_no": 52,
-    "abstained": 7,
-    "party_loyalty": 0.978,
-    "party_id": "spd",
     "additional_stats": {}
   },
   {
@@ -2364,18 +2352,6 @@
     "additional_stats": {}
   },
   {
-    "mp_id": 7065,
-    "eligible_votes": 775,
-    "attended": 698,
-    "attendance_pct": 90.06,
-    "voted_yes": 559,
-    "voted_no": 62,
-    "abstained": 77,
-    "party_loyalty": 0.931,
-    "party_id": "pirati",
-    "additional_stats": {}
-  },
-  {
     "mp_id": 7066,
     "eligible_votes": 777,
     "attended": 771,
@@ -2409,6 +2385,30 @@
     "abstained": 85,
     "party_loyalty": 0.982,
     "party_id": "ano",
+    "additional_stats": {}
+  },
+  {
+    "mp_id": 7065,
+    "eligible_votes": 775,
+    "attended": 698,
+    "attendance_pct": 90.06,
+    "voted_yes": 559,
+    "voted_no": 62,
+    "abstained": 77,
+    "party_loyalty": 0.931,
+    "party_id": "pirati",
+    "additional_stats": {}
+  },
+  {
+    "mp_id": 6664,
+    "eligible_votes": 278,
+    "attended": 92,
+    "attendance_pct": 33.09,
+    "voted_yes": 33,
+    "voted_no": 52,
+    "abstained": 7,
+    "party_loyalty": 0.978,
+    "party_id": "spd",
     "additional_stats": {}
   }
 ]

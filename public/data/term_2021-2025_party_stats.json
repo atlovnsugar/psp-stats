@@ -1,51 +1,27 @@
 [
   {
-    "party_id": "ods",
-    "mps_count": 34,
-    "avg_attendance": 76.47,
-    "unity_score": 0.923,
-    "total_eligible_votes": 299910,
-    "total_attended": 229884
-  },
-  {
-    "party_id": "spd",
-    "mps_count": 21,
-    "avg_attendance": 74.68,
-    "unity_score": 0.978,
-    "total_eligible_votes": 180200,
-    "total_attended": 135585
+    "party_id": "ano",
+    "mps_count": 76,
+    "avg_attendance": 80.12,
+    "unity_score": 0.948,
+    "total_eligible_votes": 624308,
+    "total_attended": 500192
   },
   {
     "party_id": "kdu-csl",
     "mps_count": 23,
-    "avg_attendance": 80.88,
+    "avg_attendance": 80.95,
     "unity_score": 0.92,
     "total_eligible_votes": 204650,
     "total_attended": 165673
   },
   {
-    "party_id": "stan",
-    "mps_count": 35,
-    "avg_attendance": 80.31,
-    "unity_score": 0.939,
-    "total_eligible_votes": 297336,
-    "total_attended": 240527
-  },
-  {
-    "party_id": "top09",
-    "mps_count": 14,
-    "avg_attendance": 82.88,
-    "unity_score": 0.939,
-    "total_eligible_votes": 117133,
-    "total_attended": 97340
-  },
-  {
-    "party_id": "ano",
-    "mps_count": 75,
-    "avg_attendance": 80.61,
-    "unity_score": 0.948,
-    "total_eligible_votes": 621869,
-    "total_attended": 498792
+    "party_id": "ods",
+    "mps_count": 34,
+    "avg_attendance": 76.65,
+    "unity_score": 0.923,
+    "total_eligible_votes": 299910,
+    "total_attended": 229884
   },
   {
     "party_id": "pirati",
@@ -56,11 +32,35 @@
     "total_attended": 30112
   },
   {
-    "party_id": "nezaraz",
+    "party_id": "spd",
+    "mps_count": 21,
+    "avg_attendance": 75.24,
+    "unity_score": 0.978,
+    "total_eligible_votes": 180200,
+    "total_attended": 135585
+  },
+  {
+    "party_id": "stan",
+    "mps_count": 35,
+    "avg_attendance": 80.89,
+    "unity_score": 0.939,
+    "total_eligible_votes": 297336,
+    "total_attended": 240527
+  },
+  {
+    "party_id": "top09",
+    "mps_count": 14,
+    "avg_attendance": 83.1,
+    "unity_score": 0.939,
+    "total_eligible_votes": 117133,
+    "total_attended": 97340
+  },
+  {
+    "party_id": "Nezařaz",
     "mps_count": 1,
-    "avg_attendance": 54.35,
+    "avg_attendance": 53.22,
     "unity_score": null,
-    "total_eligible_votes": 9010,
-    "total_attended": 4897
+    "total_eligible_votes": 6571,
+    "total_attended": 3497
   }
 ]
