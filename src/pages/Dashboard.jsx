@@ -1,4 +1,36 @@
-// Barevné schéma pro strany - používáme barvy z původního design systému
+// src/pages/Dashboard.jsx
+import { useEffect, useState, useMemo, useCallback } from 'react';
+import { useTerm } from '../context/TermContext';
+import { fetchJSON } from '../utils/dataCache';
+import { useMpsMap, useVotingsIndex } from '../context/DataContext';
+import { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer, Cell } from 'recharts';
+import MpModal from '../components/MpModal';
+
+// Mapping pro názvy stran - podle skutečných politických stran v ČR
+const PARTY_NAME_MAP = {
+  'kdu csl': 'KDU-ČSL',
+  'ods': 'ODS',
+  'ms': 'Motoristé',
+  'cssd': 'ČSSD',
+  'nezaraz': 'Nezařazení',
+  'spd': 'SPD',
+  'top09': 'TOP 09',
+  'stan': 'STAN',
+  'pirati': 'Piráti',
+  'ano': 'ANO',
+  'kscm': 'KSČM',
+  'usvit': 'Úsvit',
+  'top09 s': 'TOP 09-STAN',
+  'vv': 'VV',
+  'sz': 'Zelení',
+  'nez sz': 'Nezařazení (SZ)',
+  'us deu': 'US-DEU',
+  'us': 'US',
+  'spr rsc': 'SPR-RSČ',
+  'oda': 'ODA'
+};
+
+// Barevné schéma pro strany
 const PARTY_COLORS = {
   'ODS': '#005EB8',
   'ČSSD': '#e17800',
@@ -29,12 +61,6 @@ const formatPartyName = (partyId) => {
   return PARTY_NAME_MAP[normalized] || normalized;
 };
 
-// Získání barvy pro stranu
-const getPartyColor = (partyId) => {
-  const name = formatPartyName(partyId);
-  return PARTY_COLORS[name] || PARTY_COLORS['Jiné'];
-};
-
 export default function Dashboard() {
   const { selectedTerm } = useTerm();
   const [mpStats, setMpStats] = useState([]);
@@ -47,10 +73,10 @@ export default function Dashboard() {
   const [partyError, setPartyError] = useState(null);
   const [mpsError, setMpsError] = useState(null);
 
-  // Stav pro filtry žebříčku
-  const [leaderboardType, setLeaderboardType] = useState('top'); // 'top', 'bottom'
-  const [leaderboardLimit, setLeaderboardLimit] = useState(20); // Počet položek
-  const [selectedParty, setSelectedParty] = useState('all'); // 'all', nebo ID strany
+  // Stav pro filtraci žebříčku poslanců
+  const [leaderboardView, setLeaderboardView] = useState('top'); // 'top', 'bottom'
+  const [leaderboardLimit, setLeaderboardLimit] = useState(10);
+  const [selectedPartyFilter, setSelectedPartyFilter] = useState('all'); // 'all' nebo party_id
 
   const mpsMap = useMpsMap();
   const votingsIndex = useVotingsIndex();
@@ -64,9 +90,15 @@ export default function Dashboard() {
     return (total / mpStats.length).toFixed(1);
   }, [mpStats]);
 
-  const formatNumber = useCallback((num) => {
+  const formatNumber = (num) => {
     return new Intl.NumberFormat('cs-CZ').format(num);
-  }, []);
+  };
+
+  // Získání barvy pro stranu
+  const getPartyColor = (partyId) => {
+    const name = formatPartyName(partyId);
+    return PARTY_COLORS[name] || PARTY_COLORS['Jiné'];
+  };
 
   useEffect(() => {
     let isMounted = true;
@@ -129,14 +161,6 @@ export default function Dashboard() {
             setLoading(false);
           }
         });
-    } else {
-      // Pokud není vybrané období, vynuluj data
-      setMpStats([]);
-      setPartyStats([]);
-      setVotingsCount(0);
-      setMpsLoading(false);
-      setPartyLoading(false);
-      setLoading(false);
     }
 
     return () => {
@@ -144,31 +168,33 @@ export default function Dashboard() {
     };
   }, [selectedTerm]);
 
-  const getPartyAvg = useCallback((partyId) => {
+  const getPartyAvg = (partyId) => {
     const party = partyStats.find(p => p.party_id === partyId);
     return party ? party.avg_attendance : 0;
-  }, [partyStats]);
+  };
 
-  // Memoizace dat pro žebříček
-  const leaderboardData = useMemo(() => {
+  // Memoizace seznamu poslanců pro žebříček s ohledem na filtry
+  const leaderboardMps = useMemo(() => {
     if (!mpStats.length) return [];
 
-    let filteredStats = mpStats;
-    // Filtrovat podle strany, pokud je vybrána
-    if (selectedParty !== 'all') {
-      filteredStats = mpStats.filter(mp => mp.party_id === selectedParty);
+    // 1. Seřazení podle účasti
+    let sortedMps = [...mpStats];
+    if (leaderboardView === 'top') {
+      sortedMps.sort((a, b) => b.attendance_pct - a.attendance_pct);
+    } else { // bottom
+      sortedMps.sort((a, b) => a.attendance_pct - b.attendance_pct);
     }
 
-    // Seřadit podle účasti
-    let sortedStats = [...filteredStats].sort((a, b) => b.attendance_pct - a.attendance_pct);
-
-    // Pokud je vybrán Bottom, převrátit pořadí
-    if (leaderboardType === 'bottom') {
-      sortedStats.reverse();
+    // 2. Filtrování podle strany
+    if (selectedPartyFilter !== 'all') {
+      sortedMps = sortedMps.filter(mp => mp.party_id === selectedPartyFilter);
     }
 
-    // Omezit počet položek
-    return sortedStats.slice(0, leaderboardLimit).map(stat => {
+    // 3. Omezení počtu
+    const limitedMps = sortedMps.slice(0, leaderboardLimit);
+
+    // 4. Přidání dalších informací
+    return limitedMps.map(stat => {
       const mpInfo = mpsMap.get(stat.mp_id) || {};
       const partyAvg = getPartyAvg(stat.party_id);
       const formattedPartyName = formatPartyName(stat.party_id);
@@ -177,22 +203,22 @@ export default function Dashboard() {
         ...stat,
         name: mpInfo.name || `Poslanec #${stat.mp_id}`,
         party_name: formattedPartyName,
-        party_id: stat.party_id, // Pro potřeby filtrování
         diffFromAvg: (stat.attendance_pct - avgOverallAttendance).toFixed(1),
         diffFromParty: (stat.attendance_pct - partyAvg).toFixed(1)
       };
     });
-  }, [mpStats, mpsMap, avgOverallAttendance, getPartyAvg, leaderboardType, leaderboardLimit, selectedParty]);
+  }, [mpStats, mpsMap, avgOverallAttendance, leaderboardView, leaderboardLimit, selectedPartyFilter]);
 
-  // Seznam unikátních stran pro filtr
+  // Memoizace unikátních stran pro filtr
   const uniqueParties = useMemo(() => {
+    if (!mpStats.length) return [];
     const partiesSet = new Set();
     mpStats.forEach(mp => {
       if (mp.party_id) {
         partiesSet.add(mp.party_id);
       }
     });
-    return Array.from(partiesSet);
+    return Array.from(partiesSet).sort();
   }, [mpStats]);
 
   if (overallLoading && !mpStats.length && !partyStats.length) {
@@ -246,7 +272,6 @@ export default function Dashboard() {
 
   return (
     <div className="app-layout relative">
-      {/* Background animation z původního designu */}
       <div className="bg-animation">
         <div className="orb"></div>
         <div className="orb"></div>
@@ -261,7 +286,7 @@ export default function Dashboard() {
       </header>
 
       {/* Summary cards - vedle sebe */}
-      <div className="stats-grid summary-cards-grid"> {/* Použijeme existující grid styl, případně upravíme */}
+      <div className="stats-grid summary-cards relative z-10"> {/* Používáme existující grid styl z global.css */}
         <SummaryCard
           title="Hlasování"
           value={formatNumber(votingsCount)}
@@ -286,182 +311,196 @@ export default function Dashboard() {
         />
       </div>
 
-      <div className="dashboard-content-grid"> {/* Vytvoříme nový grid pro hlavní obsah */}
+      {/* Party comparison a Leaderboard vedle sebe */}
+      <div className="stats-grid dashboard-grid relative z-10"> {/* Používáme existující grid styl z global.css */}
         {/* Party comparison */}
-        <section className="card party-section">
-          <div className="panel-header">
-            <h2>Účast podle stran</h2>
-            <span className="text-sm text-muted">
-              {partyStats.length} {partyStats.length === 1 ? 'strana' : 'strany'}
-            </span>
-          </div>
+        <section className="party-section">
+          <div className="card h-full">
+            <div className="panel-header"> {/* Používáme existující styl z global.css */}
+              <h2>Účast podle stran</h2>
+              <span className="text-muted">
+                {partyStats.length} {partyStats.length === 1 ? 'strana' : 'strany'}
+              </span>
+            </div>
 
-          {partyLoading ? (
-            <div className="chart-skeleton h-[300px]"></div>
-          ) : partyStats.length > 0 ? (
-            <div className="chart-wrapper">
-              <ResponsiveContainer width="100%" height={300}>
-                <BarChart
-                  data={partyStats.map(p => ({
-                    name: formatPartyName(p.party_id),
-                    prumernaUcast: p.avg_attendance,
-                    celkovaUcast: p.total_eligible_votes ?
-                      ((p.total_attended / p.total_eligible_votes) * 100).toFixed(1) : 0
-                  }))}
-                  margin={{ top: 5, right: 0, left: -15, bottom: 5 }}
-                >
-                  <XAxis
-                    dataKey="name"
-                    stroke="var(--text-secondary)"
-                    fontSize={12}
-                    interval={0}
-                    tickLine={false}
-                  />
-                  <YAxis
-                    unit="%"
-                    stroke="var(--text-secondary)"
-                    fontSize={12}
-                    domain={[0, 100]}
-                    tickFormatter={(value) => `${value}%`}
-                  />
-                  <Tooltip
-                    formatter={(value, name) => [
-                      `${value.toFixed(1)}%`,
-                      name === 'prumernaUcast' ? 'Průměrná účast' : 'Celková účast'
-                    ]}
-                    labelStyle={{ color: 'var(--text-primary)' }}
-                    contentStyle={{
-                      backgroundColor: 'var(--bg-secondary)',
-                      border: '1px solid var(--border-color)',
-                      borderRadius: 'var(--radius)'
-                    }}
-                  />
-                  <Bar
-                    dataKey="prumernaUcast"
-                    radius={[4, 4, 0, 0]}
-                    isAnimationActive={false}
+            {partyLoading ? (
+              <div className="chart-container skeleton-chart"></div> // Použijeme existující styl pro skeleton
+            ) : partyStats.length > 0 ? (
+              <div className="chart-container">
+                <ResponsiveContainer width="100%" height="100%">
+                  <BarChart
+                    data={partyStats.map(p => ({
+                      name: formatPartyName(p.party_id),
+                      prumernaUcast: p.avg_attendance,
+                      celkovaUcast: p.total_eligible_votes ?
+                        ((p.total_attended / p.total_eligible_votes) * 100).toFixed(1) : 0
+                    }))}
+                    margin={{ top: 5, right: 0, left: -15, bottom: 5 }}
                   >
-                    {partyStats.map((entry, index) => (
-                      <Cell
-                        key={`cell-${index}`}
-                        fill={getPartyColor(entry.party_id)}
-                      />
-                    ))}
-                  </Bar>
-                </BarChart>
-              </ResponsiveContainer>
-            </div>
-          ) : (
-            <div className="text-center py-8 text-muted">
-              <p>Žádná data o stranách pro toto období</p>
-            </div>
-          )}
+                    <XAxis
+                      dataKey="name"
+                      stroke="var(--text-secondary)"
+                      fontSize={12}
+                      interval={0}
+                      tickLine={false}
+                    />
+                    <YAxis
+                      unit="%"
+                      stroke="var(--text-secondary)"
+                      fontSize={12}
+                      domain={[0, 100]}
+                      tickFormatter={(value) => `${value}%`}
+                    />
+                    <Tooltip
+                      formatter={(value, name) => [
+                        `${value.toFixed(1)}%`,
+                        name === 'prumernaUcast' ? 'Průměrná účast' : 'Celková účast'
+                      ]}
+                      labelStyle={{ color: 'var(--text-primary)' }}
+                      contentStyle={{
+                        backgroundColor: 'var(--bg-secondary)',
+                        border: '1px solid var(--border-color)',
+                        borderRadius: 'var(--radius)'
+                      }}
+                    />
+                    <Bar
+                      dataKey="prumernaUcast"
+                      radius={[4, 4, 0, 0]}
+                      isAnimationActive={false}
+                    >
+                      {partyStats.map((entry, index) => (
+                        <Cell
+                          key={`cell-${index}`}
+                          fill={getPartyColor(entry.party_id)}
+                        />
+                      ))}
+                    </Bar>
+                  </BarChart>
+                </ResponsiveContainer>
+              </div>
+            ) : (
+              <div className="text-center py-8 text-muted">
+                <p>Žádná data o stranách pro toto období</p>
+              </div>
+            )}
+          </div>
         </section>
 
-        {/* Top MPs - s filtry a rozšířeným žebříčkem */}
-        <section className="card leaderboard-section">
-          <div className="panel-header">
-            <h2>Nejaktivnější poslanci</h2>
-            <div className="leaderboard-controls">
-              <select
-                value={leaderboardType}
-                onChange={(e) => setLeaderboardType(e.target.value)}
-                className="filter-select"
-              >
-                <option value="top">Top</option>
-                <option value="bottom">Bottom</option>
-              </select>
-              <select
-                value={leaderboardLimit}
-                onChange={(e) => setLeaderboardLimit(Number(e.target.value))}
-                className="filter-select"
-              >
-                <option value={20}>20</option>
-                <option value={50}>50</option>
-                <option value={100}>100</option>
-                <option value={mpStats.length}>Všichni</option>
-              </select>
-              <select
-                value={selectedParty}
-                onChange={(e) => setSelectedParty(e.target.value)}
-                className="filter-select"
-              >
-                <option value="all">Všechny strany</option>
-                {uniqueParties.map(partyId => (
-                  <option key={partyId} value={partyId}>{formatPartyName(partyId)}</option>
-                ))}
-              </select>
+        {/* Top MPs - interaktivní */}
+        <section className="top-mps-section">
+          <div className="card h-full">
+            <div className="panel-header"> {/* Používáme existující styl z global.css */}
+              <h2>Nejaktivnější poslanci</h2>
+              <div className="leaderboard-controls">
+                <select
+                  value={leaderboardView}
+                  onChange={(e) => setLeaderboardView(e.target.value)}
+                  className="filter-select" // Používáme existující styl pro select z global.css
+                >
+                  <option value="top">Top</option>
+                  <option value="bottom">Bottom</option>
+                </select>
+                <select
+                  value={leaderboardLimit}
+                  onChange={(e) => setLeaderboardLimit(Number(e.target.value))}
+                  className="filter-select" // Používáme existující styl pro select z global.css
+                >
+                  <option value={10}>10</option>
+                  <option value={20}>20</option>
+                  <option value={50}>50</option>
+                  <option value={100}>100</option>
+                </select>
+                <select
+                  value={selectedPartyFilter}
+                  onChange={(e) => setSelectedPartyFilter(e.target.value)}
+                  className="filter-select" // Používáme existující styl pro select z global.css
+                >
+                  <option value="all">Všechny strany</option>
+                  {uniqueParties.map(partyId => (
+                    <option key={partyId} value={partyId}>{formatPartyName(partyId)}</option>
+                  ))}
+                </select>
+              </div>
             </div>
+
+            {mpsLoading ? (
+              <div className="table-wrapper">
+                 <table className="data-table">
+                   <thead>
+                     <tr>
+                       <th className="w-12">#</th>
+                       <th>Jméno</th>
+                       <th className="w-24">Strana</th>
+                       <th className="w-24">Účast</th>
+                       <th className="w-32">Rozdíl od průměru</th>
+                       <th className="w-32">Rozdíl od strany</th>
+                     </tr>
+                   </thead>
+                 </table>
+                <div className="table-skeleton">
+                  {[...Array(leaderboardLimit)].map((_, i) => (
+                    <div key={i} className="skeleton-row mb-3"></div>
+                  ))}
+                </div>
+              </div>
+            ) : leaderboardMps.length > 0 ? (
+              <div className="table-wrapper">
+                <table className="data-table">
+                  <thead>
+                    <tr>
+                      <th className="w-12">#</th>
+                      <th>Jméno</th>
+                      <th className="w-24">Strana</th>
+                      <th className="w-24">Účast</th>
+                      <th className="w-32">Rozdíl od průměru</th>
+                      <th className="w-32">Rozdíl od strany</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {leaderboardMps.map((mp, originalIdx) => {
+                      // Spočítáme skutečné pořadí v rámci filtrovaného/zobrazeného seznamu
+                      const displayRank = leaderboardView === 'top' ? originalIdx + 1 : `-${originalIdx + 1}`;
+                      return (
+                        <tr
+                          key={mp.mp_id}
+                          onClick={() => setSelectedMpId(mp.mp_id)}
+                          className="cursor-pointer"
+                        >
+                          <td className="font-bold text-center">{displayRank}</td>
+                          <td>
+                            <div className="font-bold">{mp.name}</div>
+                          </td>
+                          <td>
+                            <span
+                              className="party-badge timeline-badge" // Používáme existující badge styl z global.css
+                              style={{
+                                backgroundColor: `${getPartyColor(mp.party_id)}20`,
+                                color: getPartyColor(mp.party_id),
+                                border: `1px solid ${getPartyColor(mp.party_id)}40`
+                              }}
+                            >
+                              {mp.party_name}
+                            </span>
+                          </td>
+                          <td className="font-mono text-center">{mp.attendance_pct}%</td>
+                          <td className={`text-center ${mp.diffFromAvg >= 0 ? 'text-success' : 'text-danger'}`}>
+                            {mp.diffFromAvg > 0 ? '+' : ''}{mp.diffFromAvg}%
+                          </td>
+                          <td className={`text-center ${mp.diffFromParty >= 0 ? 'text-success' : 'text-danger'}`}>
+                            {mp.diffFromParty > 0 ? '+' : ''}{mp.diffFromParty}%
+                          </td>
+                        </tr>
+                      );
+                    })}
+                  </tbody>
+                </table>
+              </div>
+            ) : (
+              <div className="text-center py-8 text-muted">
+                <p>Žádní poslanci neodpovídají filtrům.</p>
+              </div>
+            )}
           </div>
-
-          {mpsLoading ? (
-            <div className="table-skeleton">
-              {[...Array(leaderboardLimit)].map((_, i) => (
-                <div key={i} className="skeleton-row mb-3"></div>
-              ))}
-            </div>
-          ) : leaderboardData.length > 0 ? (
-            <div className="table-wrapper">
-              <table className="data-table leaderboard-table">
-                <thead>
-                  <tr>
-                    <th className="rank-header">#</th>
-                    <th className="name-header">Jméno</th>
-                    <th className="party-header">Strana</th>
-                    <th className="attendance-header">Účast</th>
-                    <th className="diff-overall-header">Rozdíl od průměru</th>
-                    <th className="diff-party-header">Rozdíl od strany</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  {leaderboardData.map((mp, idx) => {
-                    // Vypočítáme skutečné pořadí v rámci filtrovaného seznamu
-                    // (např. pokud je Top 10 z celkového pořadí, první bude 1, atd.)
-                    // Pokud je Bottom 10, první bude např. 100, druhý 99...
-                    // Pro jednoduchost použijeme index v aktuálním seznamu
-                    // Pokud je Top, index + 1, pokud Bottom, počet všech - index
-                    const trueRank = leaderboardType === 'top' ? idx + 1 : mpStats.length - idx;
-
-                    return (
-                      <tr
-                        key={mp.mp_id}
-                        onClick={() => setSelectedMpId(mp.mp_id)}
-                        className="leaderboard-row cursor-pointer"
-                      >
-                        <td className="rank-cell text-center">{trueRank}</td>
-                        <td className="name-cell">
-                          <div className="font-bold">{mp.name}</div>
-                        </td>
-                        <td className="party-cell">
-                          <span
-                            className="party-badge inline-block px-2 py-1 rounded text-xs font-semibold"
-                            style={{
-                              backgroundColor: `${getPartyColor(mp.party_id)}20`,
-                              color: getPartyColor(mp.party_id),
-                              border: `1px solid ${getPartyColor(mp.party_id)}40`
-                            }}
-                          >
-                            {mp.party_name}
-                          </span>
-                        </td>
-                        <td className="attendance-cell font-mono text-center">{mp.attendance_pct}%</td>
-                        <td className={`diff-overall-cell text-center ${mp.diffFromAvg >= 0 ? 'text-success' : 'text-danger'}`}>
-                          {mp.diffFromAvg > 0 ? '+' : ''}{mp.diffFromAvg}%
-                        </td>
-                        <td className={`diff-party-cell text-center ${mp.diffFromParty >= 0 ? 'text-success' : 'text-danger'}`}>
-                          {mp.diffFromParty > 0 ? '+' : ''}{mp.diffFromParty}%
-                        </td>
-                      </tr>
-                    );
-                  })}
-                </tbody>
-              </table>
-            </div>
-          ) : (
-            <div className="text-center py-8 text-muted">
-              <p>Žádní poslanci neodpovídají výběru.</p>
-            </div>
-          )}
         </section>
       </div>
 
@@ -500,7 +539,7 @@ export default function Dashboard() {
 const SummaryCard = ({ title, value, description, icon, loading, highlight = false }) => {
   if (loading) {
     return (
-      <div className="card animate-pulse">
+      <div className="card skeleton-card"> {/* Používáme existující styl pro skeleton card z global.css */}
         <div className="flex flex-col h-full justify-between">
           <div>
             <div className="h-4 bg-surface-2 rounded w-3/4 mb-2"></div>
@@ -513,7 +552,7 @@ const SummaryCard = ({ title, value, description, icon, loading, highlight = fal
   }
 
   return (
-    <div className={`card transition-all ${highlight ? 'border-2 border-accent-1 shadow-lg' : ''}`}>
+    <div className={`card ${highlight ? 'border-2 border-accent-1 shadow-lg' : ''}`}> {/* Používáme existující styl card z global.css */}
       <div className="flex items-start justify-between">
         <div>
           <div className="text-sm text-muted mb-1">{title}</div>
