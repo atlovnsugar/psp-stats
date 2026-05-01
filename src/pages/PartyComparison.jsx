@@ -1,8 +1,53 @@
-// PartyComparison.jsx
+// src/pages/PartyComparison.jsx
 import { useEffect, useState } from 'react';
 import { useTerm } from '../context/TermContext';
 import { fetchJSON } from '../utils/dataCache';
 import { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer, Cell } from 'recharts';
+
+// Mapping pro názvy stran - podle skutečných politických stran v ČR
+const PARTY_NAME_MAP = {
+  'kdu csl': 'KDU-ČSL',
+  'ods': 'ODS',
+  'ms': 'Motoristé',
+  'cssd': 'ČSSD',
+  'nezaraz': 'Nezařazení',
+  'spd': 'SPD',
+  'top09': 'TOP 09',
+  'stan': 'STAN',
+  'pirati': 'Piráti',
+  'ano': 'ANO',
+  'kscm': 'KSČM',
+  'usvit': 'Úsvit',
+  'top09 s': 'TOP 09-STAN',
+  'vv': 'VV',
+  'sz': 'Zelení',
+  'nez sz': 'Nezařazení (SZ)',
+  'us deu': 'US-DEU',
+  'us': 'US',
+  'spr rsc': 'SPR-RSČ',
+  'oda': 'ODA'
+};
+
+// Barevné schéma pro strany - používáme barvy z původního design systému
+const PARTY_COLORS = {
+  'ODS': '#005EB8',
+  'ČSSD': '#e17800',
+  'ANO': '#19d8fa',
+  'KDU-ČSL': '#f3f02b',
+  'TOP 09': '#6600a1',
+  'SPD': '#103A6B',
+  'STAN': '#7c7c7c',
+  'Zelení': '#66B246',
+  'KSČM': '#D21F1B',
+  'SPOLU': '#005EB8',
+  'Jiné': '#64748b',
+  'Nezařazení': '#4f92f0',
+  'Změna 21': '#FF6B6B',
+  'Piráti': '#696969'
+};
+
+// Základní fallback pro neznámé strany
+const DEFAULT_PARTY_COLOR = 'var(--surface-3)'; // Použijeme barvu z globálního systému
 
 export default function PartyComparison() {
   const { selectedTerm } = useTerm();
@@ -15,21 +60,27 @@ export default function PartyComparison() {
 
     async function load() {
       if (!selectedTerm) return;
-      
+
       setLoading(true);
       setError(null);
-      
+
       try {
         const url = `/data/term_${selectedTerm}_party_stats.json`;
         const data = await fetchJSON(url);
-        
+
         if (!Array.isArray(data)) {
           throw new Error('Data pro vybrané období nejsou ve správném formátu.');
         }
-        
+
         if (isMounted) {
           // OPRAVA: Kopie pole před řazením, aby nedocházelo k chybám u read-only dat (immutable cache)
-          const sortedData = [...data].sort((a, b) => b.mps_count - a.mps_count);
+          // Zároveň přidáme zobrazený název a barvu
+          const processedData = data.map(item => ({
+            ...item,
+            displayName: PARTY_NAME_MAP[item.party_id.toLowerCase()] || item.party_id.toUpperCase(),
+            color: PARTY_COLORS[item.party_id.toUpperCase()] || DEFAULT_PARTY_COLOR
+          }));
+          const sortedData = processedData.sort((a, b) => b.mps_count - a.mps_count);
           setStats(sortedData);
         }
       } catch (e) {
@@ -53,80 +104,89 @@ export default function PartyComparison() {
   }, [selectedTerm]);
 
   if (loading) return (
-    <div className="flex justify-center items-center p-12">
+    <div className="loader-container">
       <div className="loader">Načítám data o stranách...</div>
     </div>
   );
 
   if (error) {
     return (
-      <div className="card text-center border-red-200 bg-red-50 p-6" style={{ margin: '1rem' }}>
-        <p className="text-red-600 font-bold">{error}</p>
-        <p className="text-muted text-sm mt-2">Zkuste vybrat jiné volební období v navigaci.</p>
+      <div className="error-state">
+        <h3>Chyba</h3>
+        <p>{error}</p>
+        <p className="text-muted">Zkuste vybrat jiné volební období v navigaci.</p>
       </div>
     );
   }
 
   if (!stats || stats.length === 0) {
     return (
-      <div className="card text-center text-muted p-12" style={{ margin: '1rem' }}>
-        Pro období {selectedTerm} nebyly nalezeny žádné statistiky stran.
+      <div className="error-state">
+        <h3>Žádná data</h3>
+        <p>Pro období {selectedTerm} nebyly nalezeny žádné statistiky stran.</p>
       </div>
     );
   }
 
+  // Vlastní tooltip pro Recharts
+  const CustomTooltip = ({ active, payload, label }) => {
+    if (active && payload && payload.length) {
+      const data = payload[0].payload;
+      return (
+        <div className="custom-tooltip">
+          <p className="tooltip-label">{data.displayName}</p>
+          <p className="tooltip-item" style={{ color: data.color }}>
+            Průměrná účast: {data.avg_attendance.toFixed(2)}%
+          </p>
+        </div>
+      );
+    }
+    return null;
+  };
+
   return (
-    <div className="space-y-6" style={{ padding: '1rem' }}>
-      <header className="card text-center mb-4">
-        <h2 className="text-xl font-bold">Porovnání politických stran</h2>
+    <div className="app-container">
+      <header className="card party-comparison-header">
+        <h2>Porovnání politických stran</h2>
         <p className="text-muted">Volební období: {selectedTerm}</p>
       </header>
 
-      <div className="card mb-4" style={{ minHeight: '450px' }}>
-        <h3 className="text-lg font-semibold mb-4 text-center">Průměrná účast v hlasování (%)</h3>
-        
-        {/* OPRAVA: Kontejner s pevnou výškou zajistí, že se ResponsiveContainer v Canvasu vykreslí */}
-        <div style={{ width: '100%', height: '350px', position: 'relative' }}>
-          <ResponsiveContainer width="100%" height="100%">
-            <BarChart 
-              data={stats} 
+      <div className="card chart-card">
+        <div className="panel-header">
+          <h3>Průměrná účast v hlasování (%)</h3>
+        </div>
+        <div className="chart-wrapper">
+          <ResponsiveContainer width="100%" height={350}>
+            <BarChart
+              data={stats}
               margin={{ top: 20, right: 30, left: 0, bottom: 60 }}
             >
-              <XAxis 
-                dataKey="party_id" 
-                stroke="#888888" 
+              <XAxis
+                dataKey="displayName" // Použijeme displayName místo party_id
+                stroke="var(--text-secondary)" // Použijeme barvu z globálního systému
                 fontSize={12}
-                tickFormatter={id => id.toUpperCase()}
+                tickFormatter={id => id} // DisplayName je už formátovaný
                 interval={0}
                 angle={-45}
                 textAnchor="end"
                 height={60}
               />
-              <YAxis 
-                unit="%" 
-                stroke="#888888" 
+              <YAxis
+                unit="%"
+                stroke="var(--text-secondary)" // Použijeme barvu z globálního systému
                 fontSize={12}
-                domain={[0, 100]} 
+                domain={[0, 100]}
               />
-              <Tooltip 
-                cursor={{ fill: '#f3f4f6' }}
-                contentStyle={{ 
-                  borderRadius: '8px', 
-                  border: 'none', 
-                  boxShadow: '0 4px 12px rgba(0,0,0,0.1)' 
-                }}
-                formatter={(v) => [`${v}%`, 'Průměrná účast']} 
-              />
-              <Bar 
-                dataKey="avg_attendance" 
-                fill="#2563eb" 
+              <Tooltip content={<CustomTooltip />} />
+              <Bar
+                dataKey="avg_attendance"
                 radius={[4, 4, 0, 0]}
                 animationDuration={800}
               >
                 {stats.map((entry, index) => (
-                  <Cell 
-                    key={`cell-${index}`} 
-                    fill={entry.avg_attendance > 85 ? '#1d4ed8' : '#3b82f6'} 
+                  <Cell
+                    key={`cell-${index}`}
+                    fill={entry.color} // Použijeme specifickou barvu pro stranu
                   />
                 ))}
               </Bar>
@@ -135,36 +195,41 @@ export default function PartyComparison() {
         </div>
       </div>
 
-      <div className="card overflow-x-auto">
-        <h3 className="text-lg font-semibold mb-4">Statistiky podle stran</h3>
-        <table className="data-table w-full text-left">
-          <thead>
-            <tr className="border-b" style={{ background: '#f8fafc' }}>
-              <th className="py-3 px-4 font-semibold uppercase text-xs text-gray-500">Strana</th>
-              <th className="py-3 px-4 text-right font-semibold uppercase text-xs text-gray-500">Poslanců</th>
-              <th className="py-3 px-4 text-right font-semibold uppercase text-xs text-gray-500">Účast</th>
-              <th className="py-3 px-4 text-right font-semibold uppercase text-xs text-gray-500">Jednotnost</th>
-            </tr>
-          </thead>
-          <tbody className="divide-y">
-            {stats.map(s => (
-              <tr key={s.party_id} className="hover:bg-gray-50 transition-colors">
-                <td className="py-3 px-4 font-bold text-gray-800">{s.party_id.toUpperCase()}</td>
-                <td className="py-3 px-4 text-right text-gray-600">{s.mps_count}</td>
-                <td className="py-3 px-4 text-right">
-                  <span className={`inline-block px-2 py-1 rounded text-xs font-bold ${
-                    s.avg_attendance > 85 ? 'bg-green-100 text-green-700' : 'bg-blue-100 text-blue-700'
-                  }`}>
-                    {s.avg_attendance}%
-                  </span>
-                </td>
-                <td className="py-3 px-4 text-right text-gray-600">
-                  {s.unity_score != null ? (s.unity_score * 100).toFixed(1) + '%' : '—'}
-                </td>
+      <div className="card table-card">
+        <div className="panel-header">
+          <h3>Statistiky podle stran</h3>
+        </div>
+        <div className="table-wrapper">
+          <table className="data-table party-stats-table">
+            <thead>
+              <tr>
+                <th>Strana</th>
+                <th>Poslanců</th>
+                <th>Účast</th>
+                <th>Jednotnost</th>
               </tr>
-            ))}
-          </tbody>
-        </table>
+            </thead>
+            <tbody>
+              {stats.map(s => (
+                <tr key={s.party_id}>
+                  <td className="party-name-cell">
+                    <span className="party-color-dot" style={{ backgroundColor: s.color }}></span>
+                    {s.displayName}
+                  </td>
+                  <td className="text-right">{s.mps_count}</td>
+                  <td className="text-right">
+                    <span className={`attendance-badge ${s.avg_attendance > 85 ? 'high-attendance' : 'medium-attendance'}`}>
+                      {s.avg_attendance.toFixed(2)}%
+                    </span>
+                  </td>
+                  <td className="text-right">
+                    {s.unity_score != null ? (s.unity_score * 100).toFixed(1) + '%' : '—'}
+                  </td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
       </div>
     </div>
   );

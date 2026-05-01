@@ -976,3 +976,150 @@ select option:checked { /* V některých prohlížečích lze stylovat */
 /* --- Konec sekce pro Attendance Leaderboard --- */
 
 /* ... zbytek obsahu global.css ... */
+
+
+/* src/styles/global.css */
+
+/* --- Přidané/aktualizované sekce pro Party Comparison --- */
+
+/* Hlavička stránky */
+.party-comparison-header {
+  text-align: center;
+  margin-bottom: 20px; /* Oddělení od další karty */
+  /* Používáme základní styly pro .card z globálního souboru */
+}
+
+.party-comparison-header h2 {
+  /* Může být stejné jako .panel-header h2 */
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-bottom: 4px;
+  color: var(--text-primary);
+}
+
+.party-comparison-header p {
+  /* Může být stejné jako .text-muted */
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+}
+
+/* Karta s grafem */
+.chart-card {
+  /* Používáme základní styly pro .card z globálního souboru */
+  min-height: 450px; /* Zajišťuje minimální výšku */
+}
+
+/* Wrapper pro graf */
+.chart-wrapper {
+  width: 100%;
+  height: 350px; /* Pevná výška pro kontejner grafu */
+  position: relative; /* Nutné pro správné fungování ResponsiveContainer */
+}
+
+/* Karta s tabulkou */
+.table-card {
+  /* Používáme základní styly pro .card z globálního souboru */
+  /* Může být potřeba přidat overflow-x pokud se tabulka nevejde */
+  overflow-x: auto; /* Povolí horizontální posuvník */
+}
+
+/* Tabulka */
+.party-stats-table {
+  /* Používáme základní styly pro .data-table z globálního souboru */
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9rem;
+}
+
+.party-stats-table th,
+.party-stats-table td {
+  /* Používáme základní styly z .data-table */
+  padding: 10px 12px;
+  text-align: left; /* Výchozí zarovnání */
+  border-bottom: 1px solid var(--border-color);
+}
+
+.party-stats-table th {
+  /* Používáme základní styly z .data-table */
+  background: var(--surface-1);
+  font-weight: 600;
+  color: var(--text-secondary);
+  position: sticky; /* Záhlaví zůstane při scrollování */
+  top: 0;
+  z-index: 1;
+}
+
+.party-stats-table tbody tr:hover {
+  /* Používáme základní styly z .data-table */
+  background: var(--surface-1);
+}
+
+/* Sloupec s názvem strany */
+.party-name-cell {
+  display: flex;
+  align-items: center;
+  gap: 8px; /* Mezera mezi tečkou a názvem */
+  font-weight: 500;
+}
+
+/* Tečka pro barvu strany */
+.party-color-dot {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  display: inline-block;
+  flex-shrink: 0; /* Zabrání zmenšení tečky */
+}
+
+/* Sloupce zarovnané doprava */
+.text-right {
+  text-align: right;
+}
+
+/* Badge pro účast */
+.attendance-badge {
+  padding: 4px 10px;
+  border-radius: 20px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  display: inline-block;
+  /* Barvy budou řízeny pomocí dalších tříd */
+}
+
+.high-attendance {
+  background: rgba(16, 185, 129, 0.15); /* var(--vote-yes) s nízkou neprůhledností */
+  color: var(--vote-yes); /* var(--vote-yes) */
+}
+
+.medium-attendance {
+  background: rgba(59, 130, 246, 0.15); /* var(--primary) s nízkou neprůhodností */
+  color: var(--primary); /* var(--primary) */
+}
+
+/* Vlastní tooltip pro Recharts */
+.custom-tooltip {
+  background: var(--bg-secondary); /* Použijeme tmavší barvu z globálního stylu */
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-xs);
+  padding: 8px 12px;
+  box-shadow: var(--shadow); /* Použijeme globální stín */
+  color: var(--text-primary); /* Barva textu */
+  font-size: 0.85rem;
+  font-family: var(--font-main); /* Použijeme globální font */
+  pointer-events: none; /* Tooltip sám o sobě neblokuje interakce */
+}
+
+.tooltip-label {
+  font-weight: 600;
+  margin-bottom: 4px;
+  color: var(--text-secondary);
+}
+
+.tooltip-item {
+  margin: 2px 0;
+  /* Barva se nastavuje přes inline style=color v JSX */
+}
+
+/* --- Konec sekce pro Party Comparison --- */
+
+/* ... zbytek obsahu global.css ... */
