@@ -852,90 +852,127 @@ select option:checked { /* V některých prohlížečích lze stylovat */
 
 /* --- End of Voting Detail Styles --- */
 
-/* src/styles/global.css - sekce pro Attendance Leaderboard */
+/* src/styles/global.css */
 
-/* Styl pro shrnutí statistik */
-.stats-summary-content {
-  font-size: 1rem;
+/* --- Přidané/aktualizované sekce pro Attendance Leaderboard --- */
+
+/* Titulek stránky */
+.leaderboard-title {
+  text-align: center;
+  margin-bottom: 16px; /* Oddělení od další karty */
+  /* Tento styl může být stejný jako h2.card h2 */
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  padding-bottom: 12px;
+  border-bottom: 1px solid var(--border-color);
+}
+
+/* Karta s průměrnou účastí */
+.avg-overall-card {
+  margin-bottom: 20px; /* Oddělení od hlavní tabulky */
+  text-align: center; /* Centrování textu */
+  /* Používáme základní styly pro .card z globálního souboru */
+}
+
+.avg-overall-text {
+  margin: 0; /* Odebrání výchozího marginu od p */
+  font-size: 1rem; /* Přizpůsobení velikosti */
   color: var(--text-primary);
 }
 
-.stats-summary-content strong {
-  color: var(--accent-3); /* Nebo var(--text-primary), podle preference */
-  font-weight: 600;
+.avg-overall-value {
+  font-weight: 600; /* Zvýraznění hodnoty */
+  color: var(--accent-3); /* Použití akcentní barvy */
 }
 
-/* Styl pro tabulku žebříčku */
-.leaderboard-table-card .data-table th,
-.leaderboard-table-card .data-table td {
-  /* Použijeme základní styly z .data-table */
-  /* Můžeme je případně upravit */
-  padding: 12px 10px; /* Mírně upraveno */
+/* Hlavní karta s tabulkou */
+.leaderboard-table-card {
+  /* Používáme základní styly pro .card z globálního souboru */
 }
 
-/* Zvýraznění řádku při hoveru */
-.clickable-row:hover {
-  background: var(--bg-card-hover); /* Použije barvu z globálního stylu */
-  /* transform: translateY(-1px); /* Může být zbytečné u tabulek */
-  /* box-shadow: var(--shadow); /* Může být zbytečné u tabulek */
+/* Tabulka */
+.leaderboard-table {
+  /* Používáme základní styly pro .data-table z globálního souboru */
+  /* Můžeme přidat specifické vylepšení */
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9rem; /* Mírně menší písmo pro více dat */
 }
 
-/* Buňka s pořadím */
-.rank-cell {
-  text-align: center; /* Vycentruje pořadí */
+.leaderboard-table th,
+.leaderboard-table td {
+  /* Používáme základní styly z .data-table */
+  /* Padding a zarovnání lze upravit */
+  padding: 10px 12px;
+  text-align: left;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.leaderboard-table th {
+  /* Používáme základní styly z .data-table */
+  background: var(--surface-1);
   font-weight: 600;
   color: var(--text-secondary);
-  width: 40px; /* Pevná šířka pro pořadí */
+  position: sticky; /* Záhlaví zůstane při scrollování */
+  top: 0;
+  z-index: 1;
 }
 
-/* Buňka s účastí */
+.leaderboard-table tbody tr:hover {
+  /* Používáme základní styly z .data-table */
+  background: var(--surface-1);
+  cursor: pointer; /* Indikace, že řádek je kliknutelný */
+}
+
+/* Styly pro jednotlivé buňky */
+.rank-header,
+.name-header,
+.party-header,
+.attendance-header,
+.diff-overall-header,
+.diff-party-header {
+  /* Může být stejné jako .data-table th */
+}
+
+.rank-cell,
+.name-cell,
+.party-cell,
+.attendance-cell,
+.diff-overall-cell,
+.diff-party-cell {
+  /* Může být stejné jako .data-table td */
+  vertical-align: middle; /* Vertikální zarovnání obsahu */
+}
+
+/* Buňka s procenty účasti */
 .attendance-cell {
-  font-family: var(--font-main); /* Použije hlavní font místo monospace */
-  font-weight: 600;
-  color: var(--emerald-2); /* Zvýraznění procent účasti */
+  text-align: center; /* Může být vhodné centrovat procenta */
 }
 
 .attendance-pct {
-  /* Můžeš přidat více stylů, např. zaoblení nebo pozadí */
+  font-family: var(--font-main); /* Použití hlavního fontu */
+  font-weight: 500; /* Mírné zvýraznění */
 }
 
 /* Buňky s rozdíly */
 .diff-cell {
-  font-family: var(--font-main);
-  font-weight: 500;
-  display: flex;
-  align-items: center; /* Vertikálně zarovná obsah */
-  justify-content: flex-end; /* Zarovná text doprava */
+  font-family: var(--font-main); /* Použití hlavního fontu */
+  font-weight: 500; /* Mírné zvýraznění */
+  text-align: center; /* Může být vhodné centrovat rozdíly */
 }
 
-.diff-cell.positive-diff .diff-value {
-  color: var(--vote-yes); /* Použije globální barvu pro ano */
+/* Kladný a záporný rozdíl */
+.positive-diff {
+  color: var(--vote-yes); /* Barva pro "Ano", obvykle zelená */
+  /* Můžeš použít i var(--success) */
 }
 
-.diff-cell.negative-diff .diff-value {
-  color: var(--vote-no);  /* Použije globální barvu pro ne */
+.negative-diff {
+  color: var(--vote-no); /* Barva pro "Ne", obvykle červená */
+  /* Můžeš použít i var(--danger) */
 }
 
-.diff-cell.positive-diff .diff-sign {
-  color: var(--vote-yes);
-}
+/* --- Konec sekce pro Attendance Leaderboard --- */
 
-.diff-cell.negative-diff .diff-sign {
-  color: var(--vote-no);
-}
-
-/* Buňka s názvem poslance */
-.name-cell {
-  /* Můžeš přidat specifické styly pro jméno */
-}
-
-/* Buňka se stranou */
-.party-cell {
-  /* Můžeš přidat specifické styly pro stranu */
-  text-transform: uppercase; /* Výchozí styl pro název strany */
-  font-size: 0.85rem;
-  letter-spacing: 0.5px;
-  color: var(--text-secondary);
-}
-
-/* --- End of Attendance Leaderboard Styles --- */
+/* ... zbytek obsahu global.css ... */
