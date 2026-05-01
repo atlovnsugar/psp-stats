@@ -851,3 +851,91 @@ select option:checked { /* V některých prohlížečích lze stylovat */
 }
 
 /* --- End of Voting Detail Styles --- */
+
+/* src/styles/global.css - sekce pro Attendance Leaderboard */
+
+/* Styl pro shrnutí statistik */
+.stats-summary-content {
+  font-size: 1rem;
+  color: var(--text-primary);
+}
+
+.stats-summary-content strong {
+  color: var(--accent-3); /* Nebo var(--text-primary), podle preference */
+  font-weight: 600;
+}
+
+/* Styl pro tabulku žebříčku */
+.leaderboard-table-card .data-table th,
+.leaderboard-table-card .data-table td {
+  /* Použijeme základní styly z .data-table */
+  /* Můžeme je případně upravit */
+  padding: 12px 10px; /* Mírně upraveno */
+}
+
+/* Zvýraznění řádku při hoveru */
+.clickable-row:hover {
+  background: var(--bg-card-hover); /* Použije barvu z globálního stylu */
+  /* transform: translateY(-1px); /* Může být zbytečné u tabulek */
+  /* box-shadow: var(--shadow); /* Může být zbytečné u tabulek */
+}
+
+/* Buňka s pořadím */
+.rank-cell {
+  text-align: center; /* Vycentruje pořadí */
+  font-weight: 600;
+  color: var(--text-secondary);
+  width: 40px; /* Pevná šířka pro pořadí */
+}
+
+/* Buňka s účastí */
+.attendance-cell {
+  font-family: var(--font-main); /* Použije hlavní font místo monospace */
+  font-weight: 600;
+  color: var(--emerald-2); /* Zvýraznění procent účasti */
+}
+
+.attendance-pct {
+  /* Můžeš přidat více stylů, např. zaoblení nebo pozadí */
+}
+
+/* Buňky s rozdíly */
+.diff-cell {
+  font-family: var(--font-main);
+  font-weight: 500;
+  display: flex;
+  align-items: center; /* Vertikálně zarovná obsah */
+  justify-content: flex-end; /* Zarovná text doprava */
+}
+
+.diff-cell.positive-diff .diff-value {
+  color: var(--vote-yes); /* Použije globální barvu pro ano */
+}
+
+.diff-cell.negative-diff .diff-value {
+  color: var(--vote-no);  /* Použije globální barvu pro ne */
+}
+
+.diff-cell.positive-diff .diff-sign {
+  color: var(--vote-yes);
+}
+
+.diff-cell.negative-diff .diff-sign {
+  color: var(--vote-no);
+}
+
+/* Buňka s názvem poslance */
+.name-cell {
+  /* Můžeš přidat specifické styly pro jméno */
+}
+
+/* Buňka se stranou */
+.party-cell {
+  /* Můžeš přidat specifické styly pro stranu */
+  text-transform: uppercase; /* Výchozí styl pro název strany */
+  font-size: 0.85rem;
+  letter-spacing: 0.5px;
+  color: var(--text-secondary);
+}
+
+/* --- End of Attendance Leaderboard Styles --- */

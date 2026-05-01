@@ -1,3 +1,4 @@
+// src/pages/AttendanceLeaderboard.jsx
 import { useEffect, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { useTerm } from '../context/TermContext';
@@ -21,12 +22,16 @@ export default function AttendanceLeaderboard() {
           fetchJSON(`/data/term_${selectedTerm}_mp_stats.json`),
           fetchJSON(`/data/term_${selectedTerm}_party_stats.json`).catch(() => [])
         ]);
+
         const overall = mpStats.length
-          ? mpStats.reduce((s,m) => s + m.attendance_pct, 0) / mpStats.length
+          ? mpStats.reduce((sum, mpStat) => sum + mpStat.attendance_pct, 0) / mpStats.length
           : 0;
         setAvgOverall(overall.toFixed(1));
+
         const pAvgs = {};
-        partyStats.forEach(p => { pAvgs[p.party_id] = p.avg_attendance; });
+        partyStats.forEach(p => {
+          pAvgs[p.party_id] = p.avg_attendance;
+        });
         setPartyAvgs(pAvgs);
 
         const combined = mpStats.map(stat => ({
@@ -36,10 +41,11 @@ export default function AttendanceLeaderboard() {
           diffOverall: (stat.attendance_pct - overall).toFixed(1),
           diffParty: (stat.attendance_pct - (pAvgs[stat.party_id] || 0)).toFixed(1)
         }));
-        combined.sort((a,b) => b.attendance_pct - a.attendance_pct);
+
+        combined.sort((a, b) => b.attendance_pct - a.attendance_pct);
         setLeaders(combined);
       } catch (e) {
-        console.error(e);
+        console.error("Chyba při načítání dat pro žebříček účasti:", e);
       } finally {
         setLoading(false);
       }
@@ -47,38 +53,69 @@ export default function AttendanceLeaderboard() {
     if (selectedTerm) load();
   }, [selectedTerm, mpsMap]);
 
-  if (loading) return <div className="loader"></div>;
+  if (loading) return <div className="loader-container"><div className="loader">Načítání žebříčku…</div></div>;
 
   return (
-    <div>
-      <h2 className="card" style={{textAlign:'center'}}>Účast poslanců ({selectedTerm})</h2>
-      <div className="card" style={{marginBottom:'10px'}}>
-        Průměrná účast celkem: <strong>{avgOverall}%</strong>
+    <div className="app-container">
+      <div className="app-header">
+        <div>
+          <h1>Účast poslanců</h1>
+          <p>Období: <span className="term-highlight">{selectedTerm}</span></p>
+        </div>
       </div>
-      <div className="card">
-        <table className="data-table">
-          <thead>
-            <tr>
-              <th>#</th><th>Jméno</th><th>Strana</th><th>Účast</th><th>Rozdíl od průměru</th><th>Rozdíl od strany</th>
-            </tr>
-          </thead>
-          <tbody>
-            {leaders.map((mp, idx) => (
-              <tr key={mp.mp_id} onClick={() => navigate(`/poslanci/${mp.mp_id}`)} style={{cursor:'pointer'}}>
-                <td>{idx+1}</td>
-                <td>{mp.name}</td>
-                <td>{mp.party_name}</td>
-                <td className="font-mono">{mp.attendance_pct}%</td>
-                <td className={mp.diffOverall >= 0 ? 'text-success' : 'text-danger'}>
-                  {mp.diffOverall > 0 ? '+' : ''}{mp.diffOverall}%
-                </td>
-                <td className={mp.diffParty >= 0 ? 'text-success' : 'text-danger'}>
-                  {mp.diffParty > 0 ? '+' : ''}{mp.diffParty}%
-                </td>
+
+      <div className="card stats-summary-card">
+        <div className="panel-header">
+          <h2>Statistiky</h2>
+        </div>
+        <div className="stats-summary-content">
+          <p>Průměrná účast celkem: <strong>{avgOverall}%</strong></p>
+        </div>
+      </div>
+
+      <div className="card leaderboard-table-card">
+        <div className="panel-header">
+          <h2>Žebříček</h2>
+        </div>
+        <div className="table-wrapper">
+          <table className="data-table">
+            <thead>
+              <tr>
+                <th>#</th>
+                <th>Jméno</th>
+                <th>Strana</th>
+                <th>Účast</th>
+                <th>Rozdíl od průměru</th>
+                <th>Rozdíl od strany</th>
               </tr>
-            ))}
-          </tbody>
-        </table>
+            </thead>
+            <tbody>
+              {leaders.map((mp, idx) => (
+                <tr
+                  key={mp.mp_id}
+                  onClick={() => navigate(`/poslanci/${mp.mp_id}?term=${selectedTerm}`)} // Přidán parametr term
+                  className="clickable-row" // Přidána třída pro efekt
+                  style={{ cursor: 'pointer' }} // Inline styl pro kurzor zůstává
+                >
+                  <td className="rank-cell">{idx + 1}</td>
+                  <td className="name-cell">{mp.name}</td>
+                  <td className="party-cell">{mp.party_name}</td>
+                  <td className="attendance-cell">
+                    <span className="attendance-pct">{mp.attendance_pct}%</span>
+                  </td>
+                  <td className={`diff-cell ${mp.diffOverall >= 0 ? 'positive-diff' : 'negative-diff'}`}>
+                    <span className="diff-sign">{mp.diffOverall > 0 ? '+' : ''}</span>
+                    <span className="diff-value">{mp.diffOverall}%</span>
+                  </td>
+                  <td className={`diff-cell ${mp.diffParty >= 0 ? 'positive-diff' : 'negative-diff'}`}>
+                    <span className="diff-sign">{mp.diffParty > 0 ? '+' : ''}</span>
+                    <span className="diff-value">{mp.diffParty}%</span>
+                  </td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
       </div>
     </div>
   );
