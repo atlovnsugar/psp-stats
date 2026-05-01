@@ -713,3 +713,141 @@ select option:checked { /* V některých prohlížečích lze stylovat */
 }
 
 /* --- End of Voting List Styles --- */
+
+/* src/styles/global.css - přidej tyto sekce na konec nebo za existující definice */
+
+/* --- Voting Detail Page Specific Styles --- */
+
+/* Meta informace pod nadpisem */
+.voting-meta-info {
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+  margin-bottom: 16px; /* Oddělení od nadpisu a dalšího obsahu */
+}
+
+.voting-result-badge {
+  padding: 4px 10px;
+  border-radius: 20px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  display: inline-block; /* Zajistí, že padding a border-radius fungují správně */
+  /* Barvy budou řízeny pomocí dalších tříd */
+}
+
+/* Styl pro tabulku poslanců */
+.voters-table th,
+.voters-table td {
+  padding: 10px 12px; /* Může být stejné jako u .data-table */
+  text-align: left; /* Může být stejné jako u .data-table */
+  border-bottom: 1px solid var(--border-color); /* Může být stejné jako u .data-table */
+}
+
+.voters-table th {
+  background: var(--surface-1); /* Může být stejné jako u .data-table */
+  font-weight: 600; /* Může být stejné jako u .data-table */
+  color: var(--text-secondary); /* Může být stejné jako u .data-table */
+  position: sticky;
+  top: 0; /* Záhlaví tabulky zůstane při scrollování */
+  z-index: 1;
+}
+
+.voters-table tbody tr:hover {
+  background: var(--surface-1); /* Může být stejné jako u .data-table */
+}
+
+.voter-name-cell {
+  /* Možná budete chtít přizpůsobit šířku nebo zarovnání */
+}
+
+.voter-link {
+  color: var(--accent-3); /* Použijeme akcentní barvu z nového systému */
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.2s;
+}
+
+.voter-link:hover {
+  color: var(--accent-1); /* Ztmavší odstín při hoveru */
+  text-decoration: underline;
+}
+
+.voter-vote-cell {
+  text-align: center; /* Vycentruje obsah buňky s hlasem */
+  vertical-align: middle; /* Zarovná vertikálně doprostřed */
+}
+
+/* Styl pro vlastní tooltip Recharts */
+.custom-tooltip {
+  background: var(--bg-secondary); /* Použijeme tmavší barvu z globálního stylu */
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-xs);
+  padding: 8px 12px;
+  box-shadow: var(--shadow); /* Použijeme globální stín */
+  color: var(--text-primary); /* Barva textu */
+  font-size: 0.85rem;
+  font-family: var(--font-main); /* Použijeme globální font */
+  pointer-events: none; /* Tooltip sám o sobě neblokuje interakce */
+}
+
+.tooltip-label {
+  font-weight: 600;
+  margin-bottom: 4px;
+  color: var(--text-secondary);
+}
+
+.tooltip-item {
+  margin: 2px 0;
+  /* Barva se nastavuje přes inline style=color v JSX */
+}
+
+/* Styl pro vlastní legendu Recharts */
+.custom-legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  justify-content: center;
+  padding: 0;
+  margin: 12px 0 0 0;
+  list-style: none;
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.8rem;
+  color: var(--text-secondary);
+}
+
+.legend-color {
+  width: 10px;
+  height: 10px;
+  border-radius: 2px;
+  /* Barva se nastavuje přes inline style=backgroundColor v JSX */
+}
+
+.legend-label {
+  /* Font a barva jsou výše v .legend-item */
+}
+
+/* Styly pro karty s grafy */
+.chart-card, .voters-table-card {
+  /* .card už má základní styly z globálního souboru */
+  /* Můžeme přidat specifické vlastnosti */
+  display: flex;
+  flex-direction: column; /* Sloupec pro hlavičku a obsah */
+}
+
+.chart-wrapper {
+  flex: 1; /* Graf zabere dostupný prostor */
+  min-height: 300px; /* Zajistí minimální výšku */
+  /* Můžeš přidat padding nebo jiné styly, pokud je potřeba */
+}
+
+/* Zajistí, že ResponsiveContainer funguje správně */
+.recharts-responsive-container {
+  width: 100% !important; /* Přepíše potenciální pevné šířky */
+  height: 100% !important; /* Přepíše potenciální pevné výšky */
+}
+
+/* --- End of Voting Detail Styles --- */
