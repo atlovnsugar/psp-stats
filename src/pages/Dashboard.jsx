@@ -270,6 +270,23 @@ export default function Dashboard() {
     );
   }
 
+  // Vlastní Tooltip komponenta pro Recharts
+  const CustomizedTooltip = ({ active, payload, label }) => {
+    if (active && payload && payload.length) {
+      return (
+        <div className="custom-tooltip"> {/* Tato třída bude mít styly z global.css nebo style.css */}
+          <p className="tooltip-label">{label}</p>
+          {payload.map((entry, index) => (
+            <p key={`item-${index}`} className="tooltip-item" style={{ color: entry.color }}>
+              {entry.name}: {entry.value.toFixed(1)}%
+            </p>
+          ))}
+        </div>
+      );
+    }
+    return null;
+  };
+
   return (
     <div className="app-layout relative">
       <div className="bg-animation">
@@ -352,16 +369,8 @@ export default function Dashboard() {
                       tickFormatter={(value) => `${value}%`}
                     />
                     <Tooltip
-                      formatter={(value, name) => [
-                        `${value.toFixed(1)}%`,
-                        name === 'prumernaUcast' ? 'Průměrná účast' : 'Celková účast'
-                      ]}
-                      labelStyle={{ color: 'var(--text-primary)' }}
-                      contentStyle={{
-                        backgroundColor: 'var(--bg-secondary)',
-                        border: '1px solid var(--border-color)',
-                        borderRadius: 'var(--radius)'
-                      }}
+                      content={<CustomizedTooltip />} // Použijeme vlastní tooltip komponentu
+                      // Odebíráme původní formatter, labelStyle, contentStyle, protože je to nyní řízeno v CustomizedTooltip a CSS
                     />
                     <Bar
                       dataKey="prumernaUcast"

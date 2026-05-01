@@ -1328,3 +1328,64 @@ select option:checked { /* V některých prohlížečích lze stylovat */
 /* ... zbytek obsahu global.css ... */
 
 /* ... zbytek obsahu global.css ... */
+/* src/styles/global.css */
+
+/* --- Přidané/upravené sekce pro Dashboard --- */
+
+/* Grid pro hlavní souhrnné karty */
+.summary-cards {
+  /* Používáme základní .stats-grid z globálního souboru */
+  /* grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); - Toto je v .stats-grid */
+  /* gap: 16px; - Toto je v .stats-grid */
+  margin-bottom: 20px; /* Oddělení od dalšího bloku */
+}
+
+/* Grid pro sekce grafu a žebříčku */
+.dashboard-grid {
+  /* Používáme základní .stats-grid z globálního souboru */
+  /* grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); - Toto je v .stats-grid */
+  /* gap: 16px; - Toto je v .stats-grid */
+  /* Na větších obrazovkách můžeme vynutit 2 sloupce */
+  @media (min-width: 1024px) {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+/* Ovládací prvky pro žebříček */
+.leaderboard-controls {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  flex-wrap: wrap; /* Umožní zalamování na menších obrazovkách */
+}
+
+/* Styl pro vlastní tooltip Recharts */
+.custom-tooltip {
+  background: var(--bg-secondary); /* Použijeme tmavší barvu z globálního stylu */
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-xs);
+  padding: 8px 12px;
+  box-shadow: var(--shadow); /* Použijeme globální stín */
+  color: var(--text-primary); /* Barva textu - BÍLÁ/SVĚTLÁ */
+  font-size: 0.85rem;
+  font-family: var(--font-main); /* Použijeme globální font */
+  pointer-events: none; /* Tooltip sám o sobě neblokuje interakce */
+  /* Zajistí, že tooltip nebude mít tmavý text na tmavém pozadí */
+  /* Pokud by byl text tmavý, bylo by potřeba explicitně nastavit color */
+}
+
+.tooltip-label {
+  font-weight: 600;
+  margin-bottom: 4px;
+  color: var(--text-secondary); /* Barva popisku */
+}
+
+.tooltip-item {
+  margin: 2px 0;
+  /* Barva se nastavuje přes inline style=color v JSX, který by měl být z BARVY SLUPCE */
+  /* Např. color: #005EB8; */
+}
+
+/* --- Konec sekce pro Dashboard --- */
+
+/* ... zbytek obsahu global.css ... */
