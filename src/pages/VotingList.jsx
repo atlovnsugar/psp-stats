@@ -165,14 +165,15 @@ export default function VotingList() {
   };
 
   // Funkce pro získání barvy progress baru
-  const getProgressStyle = (yes, no, abstain) => {
-    const total = yes + no + abstain;
-    if (total === 0) return { yes: 0, no: 0 }; // Vynecháme zdržel se pro jednoduchost
-    return {
-      yes: (yes / total) * 100,
-      no: (no / total) * 100,
-    };
+const getProgressStyle = (yes, no, abstain) => {
+  const total = yes + no + abstain;
+  if (total === 0) return { yes: 0, no: 0, abstain: 0 }; // Pokud nikdo neglasoval, vše je 0%
+  return {
+    yes: (yes / total) * 100,
+    no: (no / total) * 100,
+    abstain: (abstain / total) * 100, // Přidán výpočet pro abstain
   };
+};
 
   return (
     <div className="app-container">
@@ -322,6 +323,10 @@ export default function VotingList() {
                             className="progress-fill no"
                             style={{ width: `${progress.no}%` }}
                           ></div>
+                          <div
+                            className="progress-fill abstain"
+                            style={{ width: `${progress.abstain}%` }}
+                            ></div>
                         </div>
                       </td>
                     </tr>
