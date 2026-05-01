@@ -190,3 +190,442 @@ select:focus, input:focus { outline: none; border-color: var(--primary); box-sha
 .loader { display: flex; justify-content: center; padding: 40px; }
 .loader::after { content: ''; width: 40px; height: 40px; border: 3px solid var(--surface-2); border-top-color: var(--primary); border-radius: 50%; animation: spin 1s linear infinite; }
 @keyframes spin { to { transform: rotate(360deg); } }
+
+/* src/styles/global.css - přidej tyto sekce na konec nebo za existující definice */
+
+/* --- Voting List Page Specific Styles --- */
+
+.list-header {
+  display: flex;
+  flex-direction: column; /* Na mobilu stack */
+  gap: 16px;
+  align-items: flex-start; /* Zarovnání obsahu v hlavičce */
+  margin-bottom: 20px;
+}
+
+@media (min-width: 1024px) {
+  .list-header {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between; /* Na desktopu mezi sebou */
+  }
+}
+
+.header-title-section {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.title-and-loader {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.loading-indicator {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  padding: 4px 8px;
+  background: rgba(59, 130, 246, 0.1); /* --primary s nízkou neprůhledností */
+  border-radius: var(--radius-xs);
+  font-size: 0.7rem;
+  font-weight: 600;
+  color: var(--accent-3); /* Nebo --primary */
+}
+
+.loader-spinner-icon {
+  animation: spin 1s linear infinite;
+}
+
+.term-info {
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+}
+
+.term-highlight {
+  font-weight: 600;
+  color: var(--accent-3); /* Nebo --primary */
+}
+
+.search-wrapper {
+  position: relative;
+  width: 100%;
+}
+
+@media (min-width: 1024px) {
+  .search-wrapper {
+    width: 384px; /* ~lg:w-96 */
+  }
+}
+
+.search-icon {
+  position: absolute;
+  left: 12px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: var(--text-muted);
+  pointer-events: none; /* Ikona neovlivní klikání na input */
+}
+
+.search-input {
+  width: 100%;
+  padding: 12px 12px 12px 40px; /* Levý padding pro ikonu */
+  background: var(--bg-secondary); /* Stejné jako selecty/inputy */
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius);
+  color: var(--text-primary);
+  font-size: 0.95rem;
+  transition: all 0.2s;
+  font-family: var(--font-main); /* Použijeme hlavní font */
+}
+
+.search-input:focus {
+  outline: none;
+  border-color: var(--accent-1); /* --primary */
+  box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.25); /* --primary s neprůhledností */
+}
+
+/* Filtry */
+.filters-row {
+  display: grid;
+  grid-template-columns: 1fr; /* Výchozí na mobilu */
+  gap: 16px;
+  background: rgba(255,255,255,0.04); /* --bg-card */
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-sm);
+  padding: 20px;
+  margin-bottom: 16px;
+}
+
+@media (min-width: 768px) {
+  .filters-row {
+    grid-template-columns: repeat(2, 1fr); /* Na md 2 sloupce */
+  }
+}
+@media (min-width: 1024px) {
+  .filters-row {
+    grid-template-columns: repeat(4, 1fr); /* Na lg 4 sloupce */
+  }
+}
+
+.filter-group {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.filter-group label {
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--text-secondary);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.filter-select,
+.filter-input {
+  background: rgba(255,255,255,0.06); /* --control-bg */
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-xs);
+  padding: 10px 12px;
+  color: var(--text-primary);
+  font-family: var(--font-main);
+  font-size: 0.95rem;
+  outline: none;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+.filter-select:focus,
+.filter-input:focus {
+  border-color: var(--accent-1);
+  box-shadow: 0 0 0 3px rgba(99,102,241,0.15);
+}
+
+.filter-select {
+  cursor: pointer;
+  appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 24 24' fill='none' stroke='%2394a3b8' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpolyline points='6 9 12 15 18 9'%3E%3C/polyline%3E%3C/svg%3E"); /* Stejný obrázek jako v style.css */
+  background-repeat: no-repeat;
+  background-position: right 10px center;
+  padding-right: 32px;
+}
+
+.pagination-controls label {
+  /* Opět uppercase, bold, atd. */
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--text-secondary);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.items-per-page-selector {
+  display: grid; /* Grid pro tlačítka */
+  grid-template-columns: repeat(4, 1fr); /* 4 sloupce */
+  gap: 4px;
+}
+
+.items-per-page-btn {
+  padding: 8px 10px; /* Menší padding */
+  background: rgba(255,255,255,0.06);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-xs);
+  color: var(--text-secondary);
+  font-family: var(--font-main);
+  font-size: 0.8rem; /* Menší font */
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.items-per-page-btn:hover:not(.active) {
+  background: rgba(255,255,255,0.1);
+  color: var(--text-primary);
+}
+
+.items-per-page-btn.active {
+  background: var(--accent-1);
+  color: white;
+  border-color: transparent;
+  box-shadow: 0 4px 12px rgba(99,102,241,0.3);
+}
+
+.clear-filters-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  color: var(--accent-3);
+  text-decoration: none;
+  font-size: 0.85rem;
+  margin-bottom: 16px;
+  transition: color 0.2s;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  font-family: var(--font-main);
+}
+
+.clear-filters-btn:hover {
+  color: var(--accent-1);
+}
+
+/* Tabulka */
+.table-wrapper {
+  overflow-x: auto; /* Posuvník při potřebě */
+}
+
+.data-table th {
+  /* Základní styly z globálního souboru */
+  /* background: var(--surface-1); - Toto ještě přidáme */
+  font-weight: 600;
+  color: var(--text-secondary);
+  position: sticky;
+  top: 0; /* Záhlaví zůstane při scrollování */
+  background: var(--bg-secondary); /* Použijeme barvu pozadí karty */
+  z-index: 1; /* Zajistí, že záhlaví je nad ostatními řádky při scrollování */
+}
+
+.data-table tr:hover {
+  /* Základní hover efekt z globálního souboru */
+  /* background: var(--surface-1); - Toto ještě přidáme */
+  /* Změníme barvu pro lepší kontrast v tmavém motivu */
+  background: rgba(255, 255, 255, 0.06);
+}
+
+/* Detaily buněk */
+.voting-id-date {
+  white-space: nowrap;
+  vertical-align: top; /* Zarovná obsah buňky nahoru */
+}
+
+.id-tag {
+  font-family: var(--font-main);
+  font-size: 0.8rem;
+  color: var(--accent-3); /* Nebo jiná vhodná barva */
+  font-weight: 500;
+  opacity: 0.7;
+  display: block;
+  margin-bottom: 2px;
+}
+
+.date-text {
+  font-weight: 600;
+  color: var(--text-primary);
+}
+
+.voting-title a {
+  color: var(--text-primary);
+  font-weight: 500;
+  transition: color 0.2s;
+  display: block;
+  max-width: 500px; /* Omezení šířky pro dlouhé titulky */
+  word-break: break-word; /* Zalamování slov */
+}
+
+.voting-title a:hover {
+  color: var(--accent-1); /* --primary */
+}
+
+.voting-result {
+  text-align: center; /* Vycentruje obsah buňky */
+  vertical-align: top;
+}
+
+.voting-ratio {
+  text-align: right; /* Zarovná obsah doprava */
+  vertical-align: top;
+}
+
+.ratio-numbers {
+  display: flex;
+  justify-content: flex-end;
+  gap: 2px; /* Mezera mezi čísly */
+  font-family: var(--font-main);
+  font-size: 0.85rem;
+  margin-bottom: 4px;
+}
+
+.ratio-numbers span:first-child { color: var(--emerald-2); font-weight: 600; } /* Yes */
+.ratio-numbers span:nth-child(2),
+.ratio-numbers span:nth-child(4) { color: var(--text-muted); } /* Lomítka */
+.ratio-numbers span:nth-child(3) { color: var(--gold-2); font-weight: 600; } /* No */
+.ratio-numbers span:nth-child(5) { color: var(--text-muted); font-weight: 500; } /* Abstain */
+
+.ratio-progress-bar {
+  width: 100px; /* Šířka progress baru */
+  height: 6px;
+  background: var(--surface-2); /* Pozadí baru */
+  border-radius: 3px;
+  overflow: hidden;
+  margin-left: auto; /* Zarovná doprava */
+}
+
+.progress-fill.yes { background: var(--emerald-2); }
+.progress-fill.no { background: var(--gold-2); }
+
+/* Paginace */
+.pagination-container {
+  margin-top: 24px; /* Oddělení od tabulky */
+  padding-top: 16px;
+  border-top: 1px solid var(--border-color); /* Oddělovací čára */
+}
+
+.pagination-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  flex-wrap: wrap;
+  margin-bottom: 12px; /* Oddělení od info */
+}
+
+.pagination-btn,
+.pagination-page {
+  padding: 6px 10px; /* Menší padding */
+  background: rgba(255,255,255,0.06);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-xs);
+  color: var(--text-primary);
+  font-size: 0.85rem; /* Menší font */
+  transition: all 0.2s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.pagination-btn:hover:not(:disabled) {
+  background: rgba(255,255,255,0.1);
+  border-color: var(--accent-1);
+}
+
+.pagination-page:hover:not(.active) {
+  background: rgba(255,255,255,0.1);
+  border-color: var(--accent-1);
+}
+
+.pagination-btn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.pagination-page.active {
+  background: var(--accent-1);
+  border-color: var(--accent-1);
+  color: white;
+  font-weight: 600;
+}
+
+.pagination-ellipsis {
+  color: var(--text-muted);
+  padding: 0 6px;
+}
+
+.pagination-info {
+  text-align: center;
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+}
+
+/* Prázdný stav */
+.empty-state {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 40px 20px;
+  text-align: center;
+  background: rgba(255, 255, 255, 0.02); /* Lehké pozadí pro odlišení */
+}
+
+.empty-icon {
+  width: 64px; /* Větší ikona */
+  height: 64px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--text-muted);
+  margin-bottom: 16px;
+  background: var(--bg-secondary); /* Pozadí pro ikonu */
+  border-radius: var(--radius-sm);
+}
+
+.empty-state h3 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-bottom: 8px;
+  color: var(--text-primary);
+}
+
+.empty-state p {
+  color: var(--text-secondary);
+  max-width: 300px;
+}
+
+/* --- Global Table Style Adjustments (Apply to existing rules if needed) --- */
+/* Např. pokud chceš, aby se tabulka chovala jinak v této sekci */
+/* Card už má padding, takže padding v tabulce může být menší */
+.data-table th, .data-table td {
+  padding: 10px 8px; /* Snížený padding */
+}
+
+/* Přidání pozadí pro záhlaví */
+.data-table th {
+  background: var(--bg-secondary); /* Stejné jako pozadí karty */
+  color: var(--text-secondary); /* Barva textu */
+  font-weight: 600; /* Tučný text */
+  border-bottom: 1px solid var(--border-color); /* Oddělovací čára */
+}
+
+/* Přidání pozadí pro řádky */
+.data-table tbody tr:nth-child(even) {
+  background: rgba(255, 255, 255, 0.02); /* Velmi světlé pozadí každého sudého řádku */
+}
+
+/* --- End of Voting List Styles --- */
