@@ -1,15 +1,19 @@
 /* src/styles/global.css */
+
+/* Nové proměnné z style.css */
 :root {
-  --bg-primary: #0f172a;
-  --bg-secondary: #1e293b;
-  --surface-1: #334155;
+  --bg-primary: #0a0e1a;
+  --bg-secondary: #111827;
+  --surface-1: #334155; /* Stále se používá v některých komponentách */
   --surface-2: #475569;
   --surface-3: #64748b;
+  --bg-card: rgba(255,255,255,0.04);
+  --bg-card-hover: rgba(255,255,255,0.07);
+  --border-color: rgba(255,255,255,0.08); /* Použijeme průhlednější variantu z style.css */
   --text-primary: #f1f5f9;
   --text-secondary: #94a3b8;
   --text-muted: #64748b;
-  --border-color: #334155;
-  --primary: #3b82f6;
+  --primary: #3b82f6; /* Mapujeme staré proměnné na nové nebo ponecháme pro kompatibilitu */
   --primary-hover: #2563eb;
   --success: #10b981;
   --warning: #f59e0b;
@@ -18,16 +22,63 @@
   --vote-no: #ef4444;
   --vote-abstain: #f59e0b;
   --vote-absent: #64748b;
-  --shadow: 0 4px 6px -1px rgba(0,0,0,0.1), 0 2px 4px -1px rgba(0,0,0,0.06);
-  --shadow-lg: 0 10px 15px -3px rgba(0,0,0,0.1), 0 4px 6px -2px rgba(0,0,0,0.05);
-  --radius: 8px;
-  --radius-lg: 12px;
+  --accent-1: #6366f1;
+  --accent-2: #8b5cf6;
+  --accent-3: #a78bfa;
+  --gold-1: #f59e0b;
+  --gold-2: #fbbf24;
+  --gold-3: #fde68a;
+  --platinum-1: #64748b;
+  --platinum-2: #94a3b8;
+  --platinum-3: #cbd5e1;
+  --emerald-1: #10b981;
+  --emerald-2: #34d399;
+  --emerald-3: #a7f3d0;
+  --shadow: 0 4px 24px rgba(0,0,0,0.3);
+  --shadow-lg: 0 8px 48px rgba(0,0,0,0.4);
+  --radius: 8px; /* Zachováno z původního global.css */
+  --radius-xs: 6px;
+  --radius-lg: 12px; /* Zachováno z původního global.css */
+  --radius-sm: 10px; /* Přidáno z style.css */
   --transition: all 0.2s ease;
+  --font-main: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif; /* Přidáno z style.css */
 }
 
-* { box-sizing: border-box; margin: 0; padding: 0; }
-html, body { height: 100%; font-family: system-ui, -apple-system, sans-serif; background: var(--bg-primary); color: var(--text-primary); line-height: 1.5; }
-#root { min-height: 100vh; display: flex; flex-direction: column; }
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+/* Aktualizované základní styly podle style.css */
+html { scroll-behavior: smooth; } /* Přidáno z style.css */
+body {
+  font-family: var(--font-main); /* Použití nového fontu */
+  background: var(--bg-primary);
+  color: var(--text-primary);
+  min-height: 100vh; /* Použití základního stylu z body v style.css */
+  line-height: 1.6; /* Použití z body v style.css */
+  overflow-x: hidden; /* Použití z body v style.css */
+  /* Odstraněno: height: 100%; z původního html, body */
+}
+
+/* #root už nemusí mít height: 100vh, protože to dělá teď body */
+#root {
+  /* min-height: 100vh; -> Odstraněno, protože to dělá teď body */
+  display: flex;
+  flex-direction: column;
+  /* Zkontroluj, zda tato šířka a zarovnání jsou požadovaná vzhledem k #root v index.css */
+  /* Možná budeš muset upravit index.css, aby se layout správně vycentroval */
+  /* Např. můžeš odstranit width: 1126px; a border-inline z index.css, pokud chceš plnou šířku */
+  /* A nebo přidat width: 100%; max-width: 1200px; margin: 0 auto; zde do #root */
+  /* Prozatím ponecháme původní chování z index.css, ale můžeš to přizpůsobit */
+  /* width: 100%; max-width: 1200px; margin: 0 auto; */ /* Např. možnost pro centrování */
+  /* text-align: center; */ /* Závisí na layoutu, možná není potřeba */
+  /* border-inline: 1px solid var(--border-color); */ /* Závisí na layoutu */
+  /* box-sizing: border-box; */ /* Obvykle není nutné opakovat */
+  position: relative; /* Přidáno pro z-index */
+  z-index: 1;        /* Přidáno pro z-index */
+  background: var(--bg-primary); /* Zajistí, že obsah má pozadí přesahující okraj border */
+  color: var(--text-primary);     /* Zajistí, že text je správně barevný */
+  /* border-inline: 1px solid var(--border-color); */ /* Nahrazeno novou proměnnou */
+}
+
 a { color: var(--primary); text-decoration: none; }
 a:hover { text-decoration: underline; }
 
@@ -40,19 +91,55 @@ a:hover { text-decoration: underline; }
 .app-header nav a.active, .app-header nav a:hover { background: var(--surface-1); color: var(--text-primary); }
 
 /* Cards */
-.card { background: var(--bg-secondary); border: 1px solid var(--border-color); border-radius: var(--radius-lg); padding: 20px; box-shadow: var(--shadow); margin-bottom: 20px; }
+.card {
+    background: var(--bg-card);
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-lg); /* Můžeš použít i var(--radius) nebo var(--radius-sm) podle potřeby */
+    padding: 28px;
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    transition: all 0.3s;
+    position: relative;
+    overflow: hidden;
+}
+.card:hover {
+    background: var(--bg-card-hover);
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-lg);
+}
 .card h2 { font-size: 1.25rem; margin-bottom: 16px; padding-bottom: 12px; border-bottom: 1px solid var(--border-color); }
 .card h3 { font-size: 1.1rem; margin-bottom: 12px; color: var(--text-secondary); }
 
 /* Buttons */
-.btn { padding: 8px 16px; border-radius: var(--radius); font-weight: 500; transition: var(--transition); border: none; cursor: pointer; }
-.btn-primary { background: var(--primary); color: white; }
-.btn-primary:hover { background: var(--primary-hover); }
+.btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    padding: 14px 24px; /* Původní hodnoty z nového stylu */
+    border: none;
+    border-radius: var(--radius-sm); /* Použití nové proměnné */
+    font-family: var(--font-main); /* Použití nového fontu */
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.2s;
+    text-decoration: none;
+}
+.btn-primary {
+    background: linear-gradient(135deg, var(--accent-1), var(--accent-2));
+    color: white;
+    box-shadow: 0 4px 16px rgba(99,102,241,0.3); /* Použije nové proměnné */
+}
+.btn-primary:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 6px 24px rgba(99,102,241,0.4); /* Použije nové proměnné */
+}
 .btn-secondary { background: var(--surface-1); color: var(--text-primary); border: 1px solid var(--border-color); }
 .btn-secondary:hover { background: var(--surface-2); }
 
 /* Form elements */
-select, input { padding: 8px 12px; background: var(--surface-1); border: 1px solid var(--border-color); border-radius: var(--radius); color: var(--text-primary); font-size: 1rem; }
+select, input { padding: 8px 12px; background: var(--surface-1); border: 1px solid var(--border-color); border-radius: var(--radius); color: var(--text-primary); font-size: 1rem; font-family: var(--font-main); /* Přidáno pro konzistenci fontu */ }
 select:focus, input:focus { outline: none; border-color: var(--primary); box-shadow: 0 0 0 3px rgba(59,130,246,0.2); }
 
 /* Tables */
@@ -79,6 +166,25 @@ select:focus, input:focus { outline: none; border-color: var(--primary); box-sha
 .modal { background: var(--bg-secondary); border: 1px solid var(--border-color); border-radius: var(--radius-lg); padding: 24px; max-width: 600px; width: 90%; max-height: 90vh; overflow-y: auto; }
 .modal h2 { margin-bottom: 16px; }
 .close-btn { position: absolute; top: 12px; right: 16px; background: none; border: none; font-size: 1.5rem; color: var(--text-muted); cursor: pointer; }
+
+/* Do src/styles/global.css přidej: */
+.bg-animation {
+  position: fixed; top: 0; left: 0; right: 0; bottom: 0;
+  z-index: 0; overflow: hidden; pointer-events: none;
+}
+.bg-animation .orb {
+  position: absolute; border-radius: 50%; filter: blur(80px); /* Upozornění: blur může být náročné */
+  opacity: 0.15; animation: float 20s ease-in-out infinite;
+}
+.bg-animation .orb:nth-child(1) { width: 600px; height: 600px; background: var(--accent-1); top: -200px; left: -100px; }
+.bg-animation .orb:nth-child(2) { width: 500px; height: 500px; background: var(--accent-2); bottom: -150px; right: -100px; animation-delay: -7s; }
+.bg-animation .orb:nth-child(3) { width: 400px; height: 400px; background: #ec4899; top: 50%; left: 50%; transform: translate(-50%, -50%); animation-delay: -14s; }
+@keyframes float {
+  0%, 100% { transform: translate(0, 0) scale(1); }
+  25% { transform: translate(50px, -50px) scale(1.1); }
+  50% { transform: translate(-30px, 30px) scale(0.95); }
+  75% { transform: translate(40px, 20px) scale(1.05); }
+}
 
 /* Loader */
 .loader { display: flex; justify-content: center; padding: 40px; }
