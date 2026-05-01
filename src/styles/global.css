@@ -491,24 +491,58 @@ select:focus, input:focus { outline: none; border-color: var(--primary); box-sha
   margin-bottom: 4px;
 }
 
-.ratio-numbers span:first-child { color: var(--emerald-2); font-weight: 600; } /* Yes */
+.ratio-numbers span:first-child { color: var(--vote-yes); font-weight: 600; } /* Yes */
 .ratio-numbers span:nth-child(2),
 .ratio-numbers span:nth-child(4) { color: var(--text-muted); } /* Lomítka */
-.ratio-numbers span:nth-child(3) { color: var(--gold-2); font-weight: 600; } /* No */
-.ratio-numbers span:nth-child(5) { color: var(--text-muted); font-weight: 500; } /* Abstain */
+.ratio-numbers span:nth-child(3) { color: var(--vote-no); font-weight: 600; } /* No */
+.ratio-numbers span:nth-child(5) { color: var(--vote-abstain); font-weight: 500; } /* Abstain */
 
+/* Progress bar - Upraveno pro správné zobrazení více segmentů */
 .ratio-progress-bar {
   width: 100px; /* Šířka progress baru */
   height: 6px;
-  background: var(--surface-2); /* Pozadí baru */
+  background: var(--surface-2); /* Pozadí celého baru */
   border-radius: 3px;
-  overflow: hidden;
+  overflow: hidden; /* Skryje případné přebytečné části */
   margin-left: auto; /* Zarovná doprava */
+  display: flex; /* DŮLEŽITÉ: Flexbox pro výplně */
+  position: relative; /* Zůstává pro případné budoucí potřeby, ale není striktně nutné s flex */
 }
 
-.progress-fill.yes { background: var(--emerald-2); }
-.progress-fill.no { background: var(--gold-2); }
+/* Obecný styl pro výplň */
+.progress-fill {
+  height: 100%; /* Výplň zabírá celou výšku kontejneru */
+  /* Šíře se nastavují přes inline 'style' v JSX */
+  /* Minimální šířka pro lepší viditelnost i při malém podílu */
+  min-width: 2px;
+  /* Přidání přechodu pro plynulé změny */
+  transition: width 0.3s ease;
+}
 
+/* Specifické barvy pro jednotlivé typy hlasů */
+.progress-fill.yes {
+  background: var(--vote-yes); /* Používá globální barvu pro ANO */
+  /* Pokud preferuješ odstín z emerald palety jako v předchozím příkladu: */
+  /* background: var(--emerald-2); */
+}
+
+.progress-fill.no {
+  background: var(--vote-no); /* Používá globální barvu pro NE */
+  /* Pokud preferuješ odstín z gold palety jako v předchozím příkladu: */
+  /* background: var(--gold-2); */
+}
+
+/* Pokud chceš i zdržení, můžeš přidat */
+.progress-fill.abstain {
+  background: var(--vote-abstain); /* Používá globální barvu pro ZDRŽEL SE */
+  /* Pokud preferuješ odstín z text-muted nebo platinum: */
+  /* background: var(--text-muted); */
+}
+
+/* Volitelně: Pokud se používá i NEPŘÍTOMEN, můžeš přidat */
+.progress-fill.absent {
+  background: var(--vote-absent);
+}
 /* Paginace */
 .pagination-container {
   margin-top: 24px; /* Oddělení od tabulky */
