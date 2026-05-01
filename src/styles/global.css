@@ -1165,4 +1165,166 @@ select option:checked { /* V některých prohlížečích lze stylovat */
 
 /* --- Konec sekce pro Dashboard --- */
 
+/* src/styles/global.css */
+
+/* --- Přidané/aktualizované sekce pro MpDetail --- */
+
+/* Titulek stránky */
+.mp-detail-title {
+  /* Může být stejné jako h1.card h1 */
+  font-size: 2rem;
+  margin-top: 8px;
+  margin-bottom: 16px;
+  /* Zbytek stylu z globálního h1 */
+}
+
+/* Karta s informacemi o poslanci */
+.mp-info-card {
+  /* Používáme základní styly pro .card z globálního souboru */
+  display: flex; /* Rozloží sekce vedle sebe */
+  flex-wrap: wrap; /* Povolí zalamování na menších obrazovkách */
+  gap: 20px; /* Mezera mezi sekcemi */
+}
+
+.mp-info-section {
+  flex: 1; /* Každá sekce zabere stejný prostor */
+  min-width: 250px; /* Zajistí minimální šířku před zalamováním */
+}
+
+.mp-info-list {
+  list-style: none; /* Odebereme výchozí odrážky */
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 4px; /* Mezera mezi položkami */
+}
+
+.mp-info-item {
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+}
+
+/* Karta se statistikami */
+.mp-stats-card {
+  /* Používáme základní styly pro .card z globálního souboru */
+}
+
+.mp-stats-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); /* Automatické přizpůsobení počtu sloupců */
+  gap: 12px; /* Mezera mezi položkami */
+  align-items: center; /* Vertikálně zarovná položky */
+}
+
+.mp-stat-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 0;
+  border-bottom: 1px solid var(--border-color); /* Oddělovač mezi položkami */
+}
+
+.mp-stat-item:last-child {
+  border-bottom: none; /* Odebereme oddělovač u poslední položky */
+}
+
+.stat-label {
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+}
+
+.stat-value {
+  font-size: 1rem;
+  font-weight: 500;
+  color: var(--text-primary);
+  /* Barvy rozdílů budou řízeny pomocí dalších tříd */
+}
+
+.positive-diff {
+  color: var(--vote-yes); /* Barva pro kladný rozdíl */
+}
+
+.negative-diff {
+  color: var(--vote-no); /* Barva pro záporný rozdíl */
+}
+
+/* Styly pro karty s grafy */
+.chart-card {
+  /* .card už má základní styly z globálního souboru */
+  /* Můžeme přidat specifické vlastnosti */
+  display: flex;
+  flex-direction: column; /* Sloupec pro hlavičku a obsah */
+}
+
+.chart-wrapper {
+  flex: 1; /* Graf zabere dostupný prostor */
+  min-height: 300px; /* Zajistí minimální výšku */
+  /* Můžeš přidat padding nebo jiné styly, pokud je potřeba */
+}
+
+/* Zajistí, že ResponsiveContainer funguje správně */
+.recharts-responsive-container {
+  width: 100% !important; /* Přepíše potenciální pevné šířky */
+  height: 100% !important; /* Přepíše potenciální pevné výšky */
+}
+
+/* Styl pro vlastní tooltip Recharts */
+.custom-tooltip {
+  background: var(--bg-secondary); /* Použijeme tmavší barvu z globálního stylu */
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-xs);
+  padding: 8px 12px;
+  box-shadow: var(--shadow); /* Použijeme globální stín */
+  color: var(--text-primary); /* Barva textu */
+  font-size: 0.85rem;
+  font-family: var(--font-main); /* Použijeme globální font */
+  pointer-events: none; /* Tooltip sám o sobě neblokuje interakce */
+}
+
+.tooltip-label {
+  font-weight: 600;
+  margin-bottom: 4px;
+  color: var(--text-secondary);
+}
+
+.tooltip-item {
+  margin: 2px 0;
+  /* Barva se nastavuje přes inline style=color v JSX */
+}
+
+/* Styl pro vlastní legendu Recharts */
+.custom-legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  justify-content: center;
+  padding: 0;
+  margin: 12px 0 0 0;
+  list-style: none;
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.8rem;
+  color: var(--text-secondary);
+}
+
+.legend-color {
+  width: 10px;
+  height: 10px;
+  border-radius: 2px;
+  /* Barva se nastavuje přes inline style=backgroundColor v JSX */
+}
+
+.legend-label {
+  /* Font a barva jsou výše v .legend-item */
+}
+
+/* --- End of MpDetail Styles --- */
+
+/* ... zbytek obsahu global.css ... */
+
 /* ... zbytek obsahu global.css ... */

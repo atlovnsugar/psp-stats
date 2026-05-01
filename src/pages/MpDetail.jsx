@@ -1,3 +1,4 @@
+// src/pages/MpDetail.jsx
 import { useEffect, useState } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { useTerm } from '../context/TermContext';
@@ -5,7 +6,14 @@ import { fetchJSON } from '../utils/dataCache';
 import { useVotingsIndex } from '../context/DataContext';
 import { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer, PieChart, Pie, Cell, Legend } from 'recharts';
 
-const VOTE_COLORS = { yes: '#22c55e', no: '#ef4444', abstain: '#eab308', absent: '#6b7280', not_logged: '#9ca3af' };
+// Použijeme globální proměnné pro barvy, pokud existují, jinak fallback
+const VOTE_COLORS = { 
+  yes: 'var(--vote-yes, #22c55e)', 
+  no: 'var(--vote-no, #ef4444)', 
+  abstain: 'var(--vote-abstain, #eab308)', 
+  absent: 'var(--vote-absent, #6b7280)', 
+  not_logged: 'var(--text-muted, #9ca3af)' 
+};
 
 export default function MpDetail() {
   const { mpId } = useParams();
@@ -42,7 +50,7 @@ export default function MpDetail() {
           }
         }
       } catch (e) {
-        console.error(e);
+        console.error("Chyba při načítání detailu poslance:", e);
       } finally {
         setLoading(false);
       }
@@ -50,8 +58,8 @@ export default function MpDetail() {
     if (mpId) load();
   }, [mpId, selectedTerm]);
 
-  if (loading) return <div className="loader"></div>;
-  if (!mpData) return <div className="card text-center">Poslanec nenalezen.</div>;
+  if (loading) return <div className="loader-container"><div className="loader">Načítám detail poslance...</div></div>;
+  if (!mpData) return <div className="error-state"><h3>Poslanec nenalezen.</h3><p>ID: {mpId}</p></div>;
 
   const prepareMonthlyAttendance = () => {
     if (!votesData || !votingsIndexMap) return [];
@@ -89,58 +97,98 @@ export default function MpDetail() {
   const monthlyData = prepareMonthlyAttendance();
   const pieData = prepareVotePie();
 
-  return (
-    <div>
-      <Link to={`/poslanci?term=${selectedTerm}`} className="text-muted">&larr; zpět na žebříček</Link>
-      <h1 className="font-bold" style={{fontSize:'2rem', marginTop:'8px'}}>{mpData.name}</h1>
+  // Vlastní Tooltip pro Recharts - používá globální styly
+  const CustomizedTooltip = ({ active, payload, label }) => {
+    if (active && payload && payload.length) {
+      return (
+        <div className="custom-tooltip">
+          <p className="tooltip-label">{label}</p>
+          {payload.map((entry, index) => (
+            <p key={`${entry.dataKey}-${index}`} className="tooltip-item" style={{ color: entry.color }}>
+              {entry.name}: {entry.value}
+            </p>
+          ))}
+        </div>
+      );
+    }
+    return null;
+  };
 
-      <div className="card flex-wrap" style={{gap:'20px'}}>
-        <div>
+  return (
+    <div className="app-container">
+      <Link to={`/poslanci?term=${selectedTerm}`} className="back-link">&larr; zpět na žebříček</Link>
+      
+      <h1 className="mp-detail-title">{mpData.name}</h1> {/* H1 je v globálním stylu */}
+
+      <div className="card mp-info-card">
+        <div className="mp-info-section">
           <h3>Mandáty</h3>
-          <ul>
+          <ul className="mp-info-list">
             {mpData.mandate_periods.map((p,i) => (
-              <li key={i}>{p.term_id}: {p.from} – {p.to || 'dosud'}</li>
+              <li key={`mandate-${i}`} className="mp-info-item">
+                {p.term_id}: {p.from} – {p.to || 'dosud'}
+              </li>
             ))}
           </ul>
         </div>
-        <div>
+        <div className="mp-info-section">
           <h3>Stranická příslušnost</h3>
-          <ul>
+          <ul className="mp-info-list">
             {mpData.party_timeline.map((t,i) => (
-              <li key={i}>{t.party_id.toUpperCase()}: {t.from} – {t.to || 'dosud'}</li>
+              <li key={`party-${i}`} className="mp-info-item">
+                {t.party_id.toUpperCase()}: {t.from} – {t.to || 'dosud'}
+              </li>
             ))}
           </ul>
         </div>
       </div>
 
       {termStats && (
-        <div className="card">
-          <h3>Statistiky pro {selectedTerm}</h3>
-          <div className="flex-wrap" style={{justifyContent:'space-between'}}>
-            <div>Účast: <strong>{termStats.attendance_pct}%</strong></div>
-            <div>Rozdíl od průměru: <strong className={termStats.attendance_pct - avgOverall >= 0 ? 'text-success' : 'text-danger'}>
-              {(termStats.attendance_pct - avgOverall).toFixed(1)}%
-            </strong></div>
+        <div className="card mp-stats-card">
+          <div className="panel-header">
+            <h3>Statistiky pro {selectedTerm}</h3>
+          </div>
+          <div className="mp-stats-grid">
+            <div className="mp-stat-item">
+              <span className="stat-label">Účast:</span>
+              <span className="stat-value">{termStats.attendance_pct}%</span>
+            </div>
+            <div className="mp-stat-item">
+              <span className="stat-label">Rozdíl od průměru:</span>
+              <span className={`stat-value ${termStats.attendance_pct - avgOverall >= 0 ? 'positive-diff' : 'negative-diff'}`}>
+                {(termStats.attendance_pct - avgOverall).toFixed(1)}%
+              </span>
+            </div>
             {avgParty > 0 && (
-              <div>Rozdíl od strany: <strong className={termStats.attendance_pct - avgParty >= 0 ? 'text-success' : 'text-danger'}>
-                {(termStats.attendance_pct - avgParty).toFixed(1)}%
-              </strong></div>
+              <div className="mp-stat-item">
+                <span className="stat-label">Rozdíl od strany:</span>
+                <span className={`stat-value ${termStats.attendance_pct - avgParty >= 0 ? 'positive-diff' : 'negative-diff'}`}>
+                  {(termStats.attendance_pct - avgParty).toFixed(1)}%
+                </span>
+              </div>
             )}
-            <div>Loajalita: <strong>{termStats.party_loyalty != null ? (termStats.party_loyalty*100).toFixed(1)+'%' : 'N/A'}</strong></div>
+            <div className="mp-stat-item">
+              <span className="stat-label">Loajalita:</span>
+              <span className="stat-value">
+                {termStats.party_loyalty != null ? (termStats.party_loyalty*100).toFixed(1)+'%' : 'N/A'}
+              </span>
+            </div>
           </div>
         </div>
       )}
 
       {monthlyData.length > 0 && (
-        <div className="card">
-          <h3>Vývoj účasti</h3>
-          <div className="chart-container">
-            <ResponsiveContainer>
+        <div className="card chart-card">
+          <div className="panel-header">
+            <h3>Vývoj účasti</h3>
+          </div>
+          <div className="chart-wrapper">
+            <ResponsiveContainer width="100%" height={300}>
               <BarChart data={monthlyData}>
                 <XAxis dataKey="month" stroke="var(--text-secondary)" />
                 <YAxis unit="%" domain={[0,100]} stroke="var(--text-secondary)" />
-                <Tooltip formatter={v=>`${v}%`} />
-                <Bar dataKey="attendance_pct" fill="var(--primary)" radius={[4,4,0,0]} />
+                <Tooltip content={<CustomizedTooltip />} />
+                <Bar dataKey="attendance_pct" fill="var(--accent-1)" radius={[4,4,0,0]} />
               </BarChart>
             </ResponsiveContainer>
           </div>
@@ -148,16 +196,18 @@ export default function MpDetail() {
       )}
 
       {pieData.length > 0 && (
-        <div className="card">
-          <h3>Rozložení hlasů</h3>
-          <div className="chart-container">
-            <ResponsiveContainer>
+        <div className="card chart-card">
+          <div className="panel-header">
+            <h3>Rozložení hlasů</h3>
+          </div>
+          <div className="chart-wrapper">
+            <ResponsiveContainer width="100%" height={300}>
               <PieChart>
                 <Pie data={pieData} dataKey="value" nameKey="name" cx="50%" cy="50%" outerRadius={100} label>
-                  {pieData.map((entry,i) => <Cell key={i} fill={entry.color} />)}
+                  {pieData.map((entry, index) => <Cell key={`pie-${index}`} fill={entry.color} />)}
                 </Pie>
-                <Tooltip />
-                <Legend />
+                <Tooltip content={<CustomizedTooltip />} />
+                <Legend content={<CustomizedLegend />} />
               </PieChart>
             </ResponsiveContainer>
           </div>
@@ -166,3 +216,18 @@ export default function MpDetail() {
     </div>
   );
 }
+
+// Vlastní legenda pro Recharts - používá globální styly a barvy
+const CustomizedLegend = (props) => {
+  const { payload } = props;
+  return (
+    <ul className="custom-legend">
+      {payload.map((entry, index) => (
+        <li key={`item-${index}`} className="legend-item">
+          <span className="legend-color" style={{ backgroundColor: entry.color }}></span>
+          <span className="legend-label">{entry.value}</span>
+        </li>
+      ))}
+    </ul>
+  );
+};
