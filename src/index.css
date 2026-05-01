@@ -58,15 +58,20 @@ body {
 }
 
 #root {
-  width: 1126px;
+  width: 1126px; /* Můžeš toto odstranit nebo ponechat podle potřeby */
   max-width: 100%;
   margin: 0 auto;
   text-align: center;
-  border-inline: 1px solid var(--border);
+  border-inline: 1px solid var(--border); /* Tato barva (--border) teď není definována v novém globálním souboru */
   min-height: 100svh;
   display: flex;
   flex-direction: column;
   box-sizing: border-box;
+  position: relative; /* Přidáno kvůli z-index */
+  z-index: 1;        /* Přidáno kvůli z-index */
+  background: var(--bg-primary); /* Zajistí, že obsah má pozadí přesahující okraj border */
+  color: var(--text-primary);     /* Zajistí, že text je správně barevný */
+  border-inline: 1px solid var(--border-color); /* Nahrazeno novou proměnnou */
 }
 
 h1,
