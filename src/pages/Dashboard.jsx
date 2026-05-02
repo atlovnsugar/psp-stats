@@ -404,9 +404,13 @@ export default function Dashboard() {
                 // 3. Vykreslení grafu s čistými daty
                 return (
                   <>
-                    <div className="text-right text-muted text-sm mb-2 mt-[-20px]">
-                      {mergedChartData.length} {mergedChartData.length === 1 ? 'strana' : 'strany'}
-                    </div>
+                  <div className="text-right text-muted text-sm mb-2 mt-[-20px]">
+                        {mergedChartData.length} {
+                          mergedChartData.length === 1 
+                            ? 'strana' 
+                            : (mergedChartData.length >= 2 && mergedChartData.length <= 4 ? 'strany' : 'stran')
+                        }
+                      </div>
                     <div className="chart-container">
                       <ResponsiveContainer width="100%" height="100%">
                         <BarChart
