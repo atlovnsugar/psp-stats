@@ -482,7 +482,7 @@ export default function Dashboard() {
                       <th className="w-32 text-center">Rozdíl od politické strany poslance</th>
                     </tr>
                   </thead>
-                  <tbody>
+<tbody>
                     {leaderboardMps.map((mp, originalIdx) => {
                       const displayRank = leaderboardView === 'top' ? originalIdx + 1 : `-${originalIdx + 1}`;
                       return (
@@ -495,17 +495,15 @@ export default function Dashboard() {
                           <td>
                             <div className="font-bold">{mp.name}</div>
                           </td>
+                          {/* Upravený sloupec "Strana" */}
                           <td>
-                            <span
-                              className="party-badge timeline-badge" 
-                              style={{
-                                backgroundColor: `${getPartyColor(mp.party_id)}20`,
-                                color: getPartyColor(mp.party_id),
-                                border: `1px solid ${getPartyColor(mp.party_id)}40`
-                              }}
-                            >
-                              {mp.party_name}
-                            </span>
+                            <div className="party-name-cell">
+                              <span 
+                                className="party-color-dot" 
+                                style={{ backgroundColor: getPartyColor(mp.party_id) }}
+                              ></span>
+                              <span>{mp.party_name}</span>
+                            </div>
                           </td>
                           <td className="font-mono text-center">{mp.attendance_pct}%</td>
                           <td className={`text-center ${mp.diffFromAvg >= 0 ? 'text-success' : 'text-danger'}`}>
