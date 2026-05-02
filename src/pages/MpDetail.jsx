@@ -152,16 +152,26 @@ export default function MpDetail() {
   const pieData = prepareVotePie();
 
   // Vlastní Tooltip pro Recharts - používá globální styly
+// Vlastní Tooltip pro Recharts - používá globální styly
   const CustomizedTooltip = ({ active, payload, label }) => {
     if (active && payload && payload.length) {
       return (
         <div className="custom-tooltip">
           <p className="tooltip-label">{label}</p>
-          {payload.map((entry, index) => (
-            <p key={`${entry.dataKey}-${index}`} className="tooltip-item" style={{ color: entry.color }}>
-              {entry.name}: {entry.value}
-            </p>
-          ))}
+          {payload.map((entry, index) => {
+            // Zjištění, zda jde o graf účasti (kde je dataKey 'attendance_pct')
+            const isAttendance = entry.dataKey === 'attendance_pct';
+            
+            // Přizpůsobení textu a formátu hodnoty
+            const displayName = isAttendance ? 'Účast na hlasováních' : entry.name;
+            const displayValue = isAttendance ? `${entry.value}%` : entry.value;
+
+            return (
+              <p key={`${entry.dataKey}-${index}`} className="tooltip-item" style={{ color: entry.color }}>
+                {displayName}: {displayValue}
+              </p>
+            );
+          })}
         </div>
       );
     }
