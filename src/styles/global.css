@@ -1163,6 +1163,23 @@ select option:checked { /* V některých prohlížečích lze stylovat */
   /* transform: translateX(2px); */
 }
 
+/* Globální Grid pro statistiky */
+.stats-grid {
+  display: grid;
+  grid-template-columns: 1fr; /* Na mobilech pod sebou */
+  gap: 16px;
+  margin-bottom: 24px;
+}
+
+/* Na obrazovkách širších než 768px se rozdělí do 3 sloupců */
+@media (min-width: 768px) {
+  .stats-grid.summary-cards {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+
+
 /* --- Konec sekce pro Dashboard --- */
 
 /* src/styles/global.css */

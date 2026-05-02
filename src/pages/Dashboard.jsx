@@ -425,10 +425,10 @@ export default function Dashboard() {
                   onChange={(e) => setLeaderboardLimit(Number(e.target.value))}
                   className="filter-select"
                 >
-                  <option value={10}>Zobrazit 10</option>
-                  <option value={20}>Zobrazit 20</option>
-                  <option value={50}>Zobrazit 50</option>
-                  <option value={100}>Zobrazit 100</option>
+                  <option value={10}>10</option>
+                  <option value={20}>20</option>
+                  <option value={50}>50</option>
+                  <option value={100}>100</option>
                 </select>
               </div>
 
@@ -455,8 +455,8 @@ export default function Dashboard() {
                      <tr>
                        <th className="w-12 text-center">#</th>
                        <th>Jméno</th>
-                       <th className="w-24">Strana</th>
-                       <th className="w-24 text-center">Účast na hlasováních</th>
+                       <th className="w-32">Strana</th>
+                       <th className="w-32 text-center">Účast na hlasováních</th>
                        <th className="w-32 text-center">Rozdíl od průměru Sněmovny</th>
                        <th className="w-32 text-center">Rozdíl od politické strany poslance</th>
                      </tr>
