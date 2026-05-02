@@ -274,72 +274,82 @@ const formatTermName = (termId) => {
 };
 
 // Komponenta pro časovou osu// Komponenta pro časovou osu
+// Komponenta pro časovou osu
 const TimelineTrack = ({ mpData }) => {
   const { mandate_periods, party_timeline } = mpData;
 
   // 0. Pomocná funkce pro normalizaci party_id, aby se "nezaraz" a "Nezařazení" braly jako stejná věc
   const getNormalizedPartyId = (partyId) => {
     if (!partyId) return 'Nezařazení';
-    // Převedeme vše na stejný sjednocený název podle tvé stávající logiky z formatPartyName
     const normalized = partyId
       .replace(/CSL/g, 'ČSL')
       .replace(/CSSD/g, 'ČSSD')
       .replace(/-/g, ' ')
-      .replace(/nezaraz/i, 'Nezařazení') // Explicitní záchrana pro různé varianty nezařazení
+      .replace(/nezaraz/i, 'Nezařazení') 
       .replace(/nezařaz/i, 'Nezařazení')
       .trim();
     
-    // Pokud je to v mapě, vrátíme sjednocený název (např. 'Nezařazení'), jinak původní upravený tvar
     return PARTY_NAME_MAP[normalized] || normalized;
   };
 
-  // 1. Předzpracování dat: Normalizace ID, seřazení a sloučení překrývajících se bloků
+  // 1. Předzpracování dat a sloučení PŘEKRÝVAJÍCÍCH SE intervalů PRO KAŽDOU STRANU ZVLÁŠŤ
   const normalizedParties = party_timeline.map(party => ({
     ...party,
     normalized_party_id: getNormalizedPartyId(party.party_id)
   }));
 
-  // Nejdříve seřadíme podle data začátku
-  const sortedParties = [...normalizedParties].sort((a, b) => new Date(a.from) - new Date(b.from));
+  // Seskupíme záznamy podle normalizovaného ID
+  const partiesGrouped = {};
+  normalizedParties.forEach(party => {
+    const id = party.normalized_party_id;
+    if (!partiesGrouped[id]) partiesGrouped[id] = [];
+    partiesGrouped[id].push(party);
+  });
+
   const mergedParties = [];
 
-  sortedParties.forEach((currentParty) => {
-    if (mergedParties.length === 0) {
-      mergedParties.push({ ...currentParty });
-      return;
-    }
-    const lastParty = mergedParties[mergedParties.length - 1];
+  // Pro každou stranu projdeme její intervaly a sloučíme ty, které se překrývají
+  Object.keys(partiesGrouped).forEach(partyId => {
+    // Seřadíme intervaly dané strany podle počátečního data
+    const intervals = partiesGrouped[partyId].sort((a, b) => new Date(a.from) - new Date(b.from));
+    
+    let currentMerged = null;
 
-    // Porovnáváme normalizované ID
-    if (lastParty.normalized_party_id === currentParty.normalized_party_id) {
-      // Pokud mají stejnou stranu, kontrolujeme, zda se časově PŘEKRÝVAJÍ nebo NAVAZUJÍ
-      const lastEndDate = lastParty.to ? new Date(lastParty.to) : new Date('2099-12-31'); // 'dosud' je hodně v budoucnu
-      const currentStartDate = new Date(currentParty.from);
-      
-      // Pokud aktuální začíná PŘEDTÍM, než předchozí skončil, nebo přesně v ten den (navazuje)
-      if (currentStartDate <= lastEndDate) {
-        // Musíme případně prodloužit konec
-        if (lastParty.to !== null) { // Pokud už předchozí není "dosud"
-          if (currentParty.to === null) {
-            lastParty.to = null; // Nový blok je "dosud", takže celý spojený je "dosud"
+    intervals.forEach(interval => {
+      if (!currentMerged) {
+        currentMerged = { ...interval };
+        return;
+      }
+
+      const mergedEndDate = currentMerged.to ? new Date(currentMerged.to) : new Date('2099-12-31');
+      const nextStartDate = new Date(interval.from);
+
+      // Pokud se intervaly překrývají (nebo navazují)
+      if (nextStartDate <= mergedEndDate) {
+        // Prodloužíme konec, pokud je to potřeba
+        if (currentMerged.to !== null) {
+          if (interval.to === null) {
+            currentMerged.to = null; 
           } else {
-            const currentEndDate = new Date(currentParty.to);
-            if (currentEndDate > lastEndDate) {
-              lastParty.to = currentParty.to; // Prodloužíme konec
+            const nextEndDate = new Date(interval.to);
+            if (nextEndDate > mergedEndDate) {
+              currentMerged.to = interval.to; 
             }
           }
         }
-        // Pokud se překrývají, ale neznamená to prodloužení, prostě aktuální blok ignorujeme (je už obsažen)
       } else {
-        // Strana je sice stejná, ale je tam mezera - takže přidáme jako nový blok
-        mergedParties.push({ ...currentParty });
+        // Intervaly se nepřekrývají, uložíme ten předchozí a začneme nový
+        mergedParties.push({ ...currentMerged });
+        currentMerged = { ...interval };
       }
-    } else {
-      // Jde o jinou stranu, přidáme jako nový blok
-      mergedParties.push({ ...currentParty });
+    });
+
+    if (currentMerged) {
+      mergedParties.push(currentMerged);
     }
   });
 
+  // Vytvoříme finální události pro osu
   const timelineEvents = mergedParties.map((entry) => ({
     type: 'party_change',
     party_id: entry.normalized_party_id, 
@@ -364,12 +374,11 @@ const TimelineTrack = ({ mpData }) => {
 
   const hasOpenEnded = allEndDates.some(e => e === null);
   if (hasOpenEnded) {
-    // Pro aktuální bloky přidáme jako konečnou hranici dnešní datum + malou rezervu
     const today = new Date();
     if (maxDate < today) {
        maxDate.setTime(today.getTime());
     }
-    maxDate.setMonth(maxDate.getMonth() + 6); // Přidáme půl roku rezervu místo celého roku pro lepší proporce
+    maxDate.setMonth(maxDate.getMonth() + 6); 
   }
 
   const totalDurationMs = maxDate - minDate;
@@ -393,7 +402,6 @@ const TimelineTrack = ({ mpData }) => {
             const startPercentage = ((startDate - minDate) / totalDurationMs) * 100;
             const widthPercentage = (durationMs / totalDurationMs) * 100;
 
-            // Zjištění, zda jde o poslední období (aktuální)
             const isLastPeriod = index === mandate_periods.length - 1;
 
             return (
@@ -407,7 +415,6 @@ const TimelineTrack = ({ mpData }) => {
                   borderLeft: '1px dashed var(--text-muted)',
                   borderRight: period.to ? '1px dashed var(--text-muted)' : 'none',
                   display: 'flex',
-                  // U posledního období (aktuálního) zarovnáme text na začátek, aby nepřetékal doprava
                   justifyContent: isLastPeriod ? 'flex-start' : 'center',
                   alignItems: 'flex-start',
                   pointerEvents: 'none',
@@ -423,9 +430,7 @@ const TimelineTrack = ({ mpData }) => {
                   backgroundColor: 'var(--bg-card)',
                   borderRadius: '4px',
                   marginTop: '-4px',
-                  // Přidáme posun, pokud je text zarovnaný vlevo, aby nelepil přímo na čáru
                   marginLeft: isLastPeriod ? '4px' : '0',
-                  // Zajistíme, že text může přesahovat hranice rodičovského divu
                   overflow: 'visible' 
                 }}>
                   {formatTermName(period.term_id)}
@@ -478,7 +483,6 @@ const TimelineTrack = ({ mpData }) => {
     </div>
   );
 };
-
 // Vlastní legenda pro Recharts - používá globální styly a barvy
 const CustomizedLegend = (props) => {
   const { payload } = props;
