@@ -406,8 +406,8 @@ export default function Dashboard() {
                   onChange={(e) => setLeaderboardView(e.target.value)}
                   className="filter-select" // Používáme existující styl pro select z global.css
                 >
-                  <option value="top">Top</option>
-                  <option value="bottom">Bottom</option>
+                  <option value="top">Nejlepší účast na hlasováních</option>
+                  <option value="bottom">Nejhorší účast na hlasováních</option>
                 </select>
                 <select
                   value={leaderboardLimit}
@@ -440,9 +440,9 @@ export default function Dashboard() {
                        <th className="w-12">#</th>
                        <th>Jméno</th>
                        <th className="w-24">Strana</th>
-                       <th className="w-24">Účast</th>
-                       <th className="w-32">Rozdíl od průměru</th>
-                       <th className="w-32">Rozdíl od strany</th>
+                       <th className="w-24">Účast na hlasováních</th>
+                       <th className="w-32">Rozdíl od průměru Sněmovny</th>
+                       <th className="w-32">Rozdíl od politické strany poslance</th>
                      </tr>
                    </thead>
                  </table>
@@ -460,9 +460,9 @@ export default function Dashboard() {
                       <th className="w-12">#</th>
                       <th>Jméno</th>
                       <th className="w-24">Strana</th>
-                      <th className="w-24">Účast</th>
-                      <th className="w-32">Rozdíl od průměru</th>
-                      <th className="w-32">Rozdíl od strany</th>
+                      <th className="w-24">Účast na hlasováních</th>
+                      <th className="w-32">Rozdíl od průměru Sněmovny</th>
+                      <th className="w-32">Rozdíl od politické strany poslance</th>
                     </tr>
                   </thead>
                   <tbody>
