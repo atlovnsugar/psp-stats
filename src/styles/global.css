@@ -1389,106 +1389,132 @@ select option:checked { /* V některých prohlížečích lze stylovat */
 /* --- Konec sekce pro Dashboard --- */
 
 /* ... zbytek obsahu global.css ... */
+
+
 /* src/styles/global.css */
 
-/* --- Přidané/aktualizované sekce pro MpDetail (Timeline) --- */
+/* --- Přidané/aktualizované sekce pro MpDetail --- */
 
-/* Karta s časovou osou */
-.mp-timeline-card {
+/* Karta s informacemi o poslanci */
+.mp-info-card {
   /* Používáme základní styly pro .card z globálního souboru */
-  /* Může být potřeba přizpůsobit padding */
-  padding: 16px; /* Méně paddingu pro více místa na osu */
+  /* display: flex; - Zrušíme, protože teď máme jednu sekci s časovou osou */
+  /* gap: 20px; - Nepotřebujeme */
 }
 
-/* Kontejner pro celou časovou osu */
+.mp-info-section {
+  /* width: 100%; - Implicitně */
+  /* min-width: 250px; - Zbytečné */
+}
+
+.mp-info-list {
+  list-style: none; /* Odebereme výchozí odrážky */
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 4px; /* Mezera mezi položkami */
+}
+
+.mp-info-item {
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+}
+
+/* --- Časová osa --- */
 .timeline-container {
   min-height: 200px;
-  max-height: 500px; /* Omezení výšky s možností scrollování */
+  max-height: 500px;
   overflow-y: auto;
-  overflow-x: hidden; /* Zamezí horizontálnímu scrollování kvůli řádkům */
+  overflow-x: hidden; /* Důležité pro časovou osu */
   position: relative;
   padding-right: 12px; /* Místo pro scrollbar */
-  /* Používáme existující proměnné */
-  color: var(--text-primary);
+  background: var(--bg-secondary); /* Lehce odlišné pozadí pro osu */
+  border-radius: var(--radius-xs);
+  padding: 16px;
+}
+
+.timeline-track.vertical {
+  position: relative;
+  /* padding-left: 24px; - Zrušíme pro flexibilní šířku */
+  min-width: 100%; /* Zajistí, že track zabere dostatek místa */
+  height: 100%;
+}
+
+/* Hlavičky osy */
+.timeline-header {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-bottom: 16px;
+  position: sticky; /* Lehce přilepíme k hornímu okraji při scrollování */
+  top: 0;
+  background: var(--bg-secondary); /* Pozadí hlavičky */
+  padding: 8px 0;
+  z-index: 20;
+}
+
+.timeline-periods,
+.timeline-years {
+  display: flex;
+  justify-content: flex-start;
+  gap: 10px; /* Mezera mezi popisky */
+  font-size: 0.75rem;
+  color: var(--text-muted);
+}
+
+.timeline-period-label,
+.timeline-year-label {
+  flex-shrink: 0; /* Zabráníme zmenšování popisků */
+  min-width: 80px; /* Přibližná šířka pro každý popisek */
+  text-align: center;
+}
+
+.timeline-period-label {
+  color: var(--accent-3); /* Odlišný odstín pro období */
+  font-weight: 600;
+}
+
+/* Jednotlivé položky na časové ose */
+.timeline-item {
+  position: absolute; /* Absolutní pozice v rámci .timeline-track */
+  border-radius: 4px;
+  border: 1px solid var(--bg-primary); /* Ohraničení pro lepší odlišení */
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.7rem;
+  font-weight: 500;
+  color: white; /* Bílý text pro lepší čitelnost */
+  text-align: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  transition: transform 0.2s, box-shadow 0.2s; /* Plynulý efekt při hoveru */
+}
+
+.timeline-item:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 8px rgba(255, 255, 255, 0.2);
+  z-index: 15; /* Zvýšíme z-index při hoveru */
+}
+
+.timeline-party-item {
+  /* Barva se nastavuje přes inline style=backgroundColor v JSX */
+}
+
+.timeline-mandate-item {
+  background: var(--text-muted); /* Barva pro mandáty */
 }
 
 .timeline-empty {
   text-align: center;
   color: var(--text-muted);
   padding: 40px 20px;
+  font-style: italic;
 }
 
-/* Svislý pruh časové osy */
-.timeline-track.vertical {
-  position: relative;
-  padding-left: 24px; /* Místo pro tečku a datum */
-}
-
-.timeline-track.vertical::before {
-  content: '';
-  position: absolute;
-  left: 8px; /* Poloha tečky */
-  top: 0;
-  bottom: 0;
-  width: 2px;
-  background: var(--border-color);
-}
-
-/* Jednotlivé položky na ose */
-.timeline-item {
-  position: relative;
-  padding-left: 24px; /* Místo pro tečku */
-  padding-bottom: 16px; /* Oddělení položek */
-  display: flex; /* Flexbox pro rozložení obsahu a čáry */
-  align-items: flex-start; /* Zarovnání obsahu nahoru */
-  gap: 12px; /* Mezera mezi datem/obdobím a čárami */
-  cursor: default; /* Není kliknutelné */
-  transition: var(--transition);
-}
-
-.timeline-item:hover {
-  /* transform: translateX(4px); - Může být rušivé u časové osy */
-}
-
-/* Tečka na ose */
-.timeline-dot {
-  position: absolute;
-  left: -1px; /* Zarovnáno s proužek */
-  width: 18px;
-  height: 18px;
-  border-radius: 50%;
-  border: 3px solid var(--bg-secondary); /* Ohraničení tečky */
-  background: var(--surface-3); /* Výchozí barva tečky */
-  flex-shrink: 0; /* Zabrání zmenšení tečky */
-  transition: var(--transition);
-  z-index: 1; /* Tečka nad čarami */
-}
-
-/* Kontejner pro čáry jednotlivých úrovní v daném roce */
-.party-lines-container {
-  display: flex;
-  flex-direction: column;
-  gap: 4px; /* Malá mezera mezi řádky */
-  width: 100%; /* Šířka pro čáry */
-  /* Výška je dynamicky nastavena v JSX */
-}
-
-/* Segment čáry pro jedno členství */
-.party-line-segment {
-  height: 16px; /* Výška jednotlivého segmentu */
-  border-radius: 8px; /* Zaoblené konce */
-  opacity: 0.85; /* Mírně průhledné pro lepší přehlednost */
-  transition: opacity 0.2s ease;
-  position: relative;
-  overflow: hidden;
-}
-
-.party-line-segment:hover {
-  opacity: 1; /* Zvýraznění při najetí myší */
-  cursor: help; /* Ukazatel, že je to interaktivní (title tooltip) */
-}
-
-/* --- Konec sekce pro MpDetail Timeline --- */
+/* --- End of MpDetail Styles --- */
 
 /* ... zbytek obsahu global.css ... */
-
