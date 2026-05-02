@@ -1390,21 +1390,20 @@ select option:checked { /* V některých prohlížečích lze stylovat */
 
 /* ... zbytek obsahu global.css ... */
 
+/* src/styles/global.css */
 
-/* src/styles/global.css - sekce pro Timeline Visualization (pokud chybí nebo je třeba upravit) */
+/* --- Přidané/aktualizované sekce pro MpDetail a Timeline --- */
 
-.timeline-card {
-  /* Používáme základní .card styl */
-  /* Může být potřeba přizpůsobit padding nebo jiné vlastnosti */
-}
+/* ... ostatní styly ... */
 
+/* Timeline */
 .timeline-container {
  min-height: 200px;
  max-height: 500px;
  overflow-y: auto;
  overflow-x: hidden;
  position: relative;
- padding-right: 12px; /* Pro scrollbar */
+ padding-right: 12px; /* Místo pro scrollbar */
 }
 
 .timeline-empty {
@@ -1421,90 +1420,98 @@ select option:checked { /* V některých prohlížečích lze stylovat */
 .timeline-track.vertical::before {
  content: '';
  position: absolute;
- left: 8px; /* Umístění čáry */
+ left: 8px; /* Poloha čáry */
  top: 0;
  bottom: 0;
  width: 2px;
- background: var(--border-color);
-}
-
-.timeline-term-block {
- /* Volitelně: Styly pro seskupení položek jednoho období */
- margin-bottom: 12px;
+ background: var(--border-color); /* Barva čáry */
 }
 
 .timeline-item {
  position: relative;
- padding-left: 24px; /* Odsazení od čáry */
- padding-bottom: 16px; /* Mezery mezi položkami */
+ padding-left: 24px; /* Odsazení obsahu od čáry */
+ padding-bottom: 16px; /* Odstup mezi položkami */
  display: flex;
- align-items: flex-start;
+ align-items: flex-start; /* Zarovnání obsahu k hornímu okraji */
  gap: 12px; /* Mezera mezi tečkou a obsahem */
- cursor: default; /* Časová osa není klikatelná jako timeline položky */
- transition: var(--transition);
+ cursor: pointer; /* Možná interaktivita v budoucnu */
+ transition: var(--transition); /* Plynulý přechod */
 }
 
 .timeline-item:hover {
- /* Můžeš přidat efekt, např. zvýraznění pozadí */
- /* transform: translateX(4px); - například z předchozí verze */
+ transform: translateX(4px); /* Malý efekt při najetí */
 }
 
 .timeline-dot {
  position: absolute;
- left: -1px; /* Přesně na čáru */
+ left: -1px; /* Zarovnání tečky ke středu čáry */
  width: 18px;
  height: 18px;
  border-radius: 50%;
  border: 3px solid var(--bg-secondary); /* Ohraničení tečky */
- background: var(--surface-3); /* Výchozí barva */
- flex-shrink: 0; /* Tečka se neroztahuje */
- transition: var(--transition);
+ background: var(--surface-3); /* Výchozí barva tečky */
+ flex-shrink: 0; /* Tečka se nesmí zmenšovat */
+ transition: var(--transition); /* Plynulý přechod barvy */
 }
 
-/* Tečka pro označení období (např. tučnější nebo jiná barva) */
-.timeline-term-dot {
- background: var(--accent-1); /* Např. barva z design systému */
- border-color: var(--bg-secondary);
-}
+/* Příklady barev pro různé typy událostí (můžeš upravit podle potřeby) */
+/* timeline-dot nemá přímé třídy pro vote-yes/no/abstain v tomto případě, ale můžeš je přidat */
+/* .timeline-dot.vote-yes { background: var(--vote-yes); } */
+/* .timeline-dot.vote-no { background: var(--vote-no); } */
+/* .timeline-dot.vote-abstain { background: var(--vote-abstain); } */
 
 .timeline-item-content {
- flex: 1; /* Obsah zabere zbývající místo */
+ flex: 1; /* Položka zabere zbývající prostor */
  display: flex;
- justify-content: space-between; /* Obsah vlevo, badge vpravo */
- align-items: center;
- gap: 12px;
+ justify-content: space-between; /* Obsah na kraje */
+ align-items: center; /* Vertikální zarovnání */
+ gap: 12px; /* Mezera mezi levou a pravou částí */
 }
 
 .timeline-item-left {
  display: flex;
- flex-direction: column;
- gap: 2px; /* Malá mezera mezi datem a obdobím */
+ flex-direction: column; /* Sloupec pro datum a relaci */
+ gap: 2px; /* Malá mezera mezi nimi */
 }
 
 .timeline-date {
  font-weight: 500;
  font-size: 0.95rem;
- color: var(--text-primary); /* Zajistí čitelnost */
+ color: var(--text-primary); /* Barva data */
 }
 
 .timeline-session {
  font-size: 0.85rem;
- color: var(--text-secondary); /* Zajistí čitelnost */
+ color: var(--text-secondary); /* Barva popisku relace/strany */
 }
 
 .timeline-item-right {
- flex-shrink: 0; /* Pravá strana (badge) se neroztahuje */
- margin-right: 4px; /* Malé odsazení */
+ flex-shrink: 0; /* Pravá část se nesmí zmenšovat */
+ margin-right: 4px; /* Malý okraj */
 }
 
-/* Badge pro stranu - používáme existující .timeline-badge nebo .party-badge */
 .timeline-badge {
  padding: 4px 10px;
  border-radius: 20px;
  font-size: 0.8rem;
  font-weight: 600;
- /* Barvy jsou nastaveny inline pomocí style={{...}} */
- /* Např. background: rgba(255, 255, 255, 0.1); */
- /* color: #fff; */
- /* border: 1px solid rgba(255, 255, 255, 0.2); */
 }
+
+.timeline-badge.vote-yes {
+ background: rgba(16, 185, 129, 0.15); /* var(--vote-yes) s neprůhledností */
+ color: var(--vote-yes);
+}
+
+.timeline-badge.vote-no {
+ background: rgba(239, 68, 68, 0.15); /* var(--vote-no) s neprůhledností */
+ color: var(--vote-no);
+}
+
+.timeline-badge.vote-abstain {
+ background: rgba(245, 158, 11, 0.15); /* var(--vote-abstain) s neprůhledností */
+ color: var(--vote-abstain);
+}
+
+/* --- Konec sekce pro Timeline --- */
+
+/* ... zbytek obsahu global.css ... */

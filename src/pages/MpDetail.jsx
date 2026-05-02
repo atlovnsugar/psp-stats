@@ -15,191 +15,108 @@ const VOTE_COLORS = {
   not_logged: 'var(--text-muted, #9ca3af)' 
 };
 
-// Barevné schéma pro strany - použijeme globální nebo vytvoříme nové specifické pro časovou osu
-// Pokud existují globální proměnné pro barvy stran, použijeme je.
-// Jinak můžeme definovat lokální mapování.
-// Např. z globálního dashboardu:
-const PARTY_NAME_MAP = {
-  'kdu csl': 'KDU-ČSL',
-  'ods': 'ODS',
-  'ms': 'Motoristé',
-  'cssd': 'ČSSD',
-  'nezaraz': 'Nezařazení',
-  'spd': 'SPD',
-  'top09': 'TOP 09',
-  'stan': 'STAN',
-  'pirati': 'Piráti',
-  'ano': 'ANO',
-  'kscm': 'KSČM',
-  'usvit': 'Úsvit',
-  'top09 s': 'TOP 09-STAN',
-  'vv': 'VV',
-  'sz': 'Zelení',
-  'nez sz': 'Nezařazení (SZ)',
-  'us deu': 'US-DEU',
-  'us': 'US',
-  'spr rsc': 'SPR-RSČ',
-  'oda': 'ODA'
-};
+// --- NOVÁ KOMPONENTA PRO ČASOVOU OSU ---
+const TimelineComponent = ({ mandatePeriods, partyTimeline }) => {
+  // Pomocná funkce pro porovnání dat
+  const compareDates = (a, b) => new Date(a) - new Date(b);
 
-// Příklad barev pro časovou osu (může být jiné než v grafu)
-const PARTY_TIMELINE_COLORS = {
-  'ODS': '#005EB8',
-  'ČSSD': '#e17800',
-  'ANO': '#19d8fa',
-  'KDU-ČSL': '#f3f02b',
-  'TOP 09': '#6600a1',
-  'SPD': '#103A6B',
-  'STAN': '#7c7c7c',
-  'Zelení': '#66B246',
-  'KSČM': '#D21F1B',
-  'SPOLU': '#005EB8',
-  'Jiné': '#64748b',
-  'Nezařazení': '#4f92f0',
-  'Změna 21': '#FF6B6B',
-  'Piráti': '#696969',
-  // Přidáme i další, které se mohou objevit
-  'Nezařazení (SZ)': '#4f92f0',
-  'US-DEU': '#64748b',
-  'US': '#64748b',
-  'VV': '#64748b',
-  'ODA': '#64748b',
-  'SPR-RSČ': '#64748b',
-  'Úsvit': '#64748b',
-  'TOP 09-STAN': '#6600a1',
-  'Motoristé': '#64748b'
-};
+  // 1. Zpracování mandatePeriods - přidání "type"
+  const mandates = mandatePeriods.map(m => ({
+    ...m,
+    type: 'mandate',
+    start: new Date(m.from),
+    end: m.to ? new Date(m.to) : new Date('2099-12-31') // Upravíme "dosud" na vzdálené datum
+  }));
 
-// Základní fallback pro neznámé strany
-const DEFAULT_PARTY_COLOR = 'var(--surface-3)'; // Použijeme barvu z globálního systému
+  // 2. Zpracování partyTimeline - přidání "type" a úprava "to"
+  const parties = partyTimeline.map(p => ({
+    ...p,
+    type: 'party',
+    start: new Date(p.from),
+    end: p.to ? new Date(p.to) : new Date('2099-12-31') // Upravíme "dosud" na vzdálené datum
+  }));
 
+  // 3. Sloučení a seřazení všech událostí podle data začátku
+  const allEvents = [...mandates, ...parties].sort((a, b) => compareDates(a.start, b.start));
 
-// Pomocná funkce pro formátování názvů stran
-const formatPartyName = (partyId) => {
-  if (!partyId) return 'Nezařazení';
-  const normalized = partyId
-    .replace(/CSL/g, 'ČSL')
-    .replace(/CSSD/g, 'ČSSD')
-    .replace(/-/g, ' ')
-    .trim();
-  return PARTY_NAME_MAP[normalized] || normalized.toUpperCase();
-};
+  // 4. Sloučení duplicitních záznamů ve stejném období
+  const mergedParties = [];
+  const seenTerms = new Set(); // Pro sledování zpracovaných období
 
-// Pomocná funkce pro získání barvy strany
-const getPartyColor = (partyId) => {
-  const name = formatPartyName(partyId);
-  return PARTY_TIMELINE_COLORS[name] || DEFAULT_PARTY_COLOR;
-};
+  for (const event of allEvents) {
+    if (event.type === 'party') {
+      const termId = event.term_id; // Předpokládáme, že event obsahuje term_id
+      const partyId = event.party_id;
 
-// Pomocná funkce pro sloučení změn strany v rámci jednoho období
-const mergePartyTimelineWithinTerms = (partyTimeline, mandatePeriods) => {
-  if (!partyTimeline || partyTimeline.length === 0) return [];
+      // Pokud je toto období již zpracováno pro tuto stranu, přeskočíme
+      const key = `${termId}_${partyId}`;
+      if (seenTerms.has(key)) {
+        continue;
+      }
 
-  const mergedTimeline = [];
-  let currentTerm = null;
-  let currentParty = null;
-  let currentStart = null;
+      // Najdeme všechny záznamy pro stejné období a stejnou stranu
+      const sameTermSameParty = parties.filter(p => p.term_id === termId && p.party_id === partyId);
 
-  // Projdeme timeline chronologicky
-  [...partyTimeline].sort((a, b) => new Date(a.from) - new Date(b.from)).forEach(timelineEntry => {
-    const entryStart = new Date(timelineEntry.from);
-    // Najdeme, do kterého mandátu patří
-    const term = mandatePeriods.find(m => new Date(m.from) <= entryStart && (!m.to || new Date(m.to) >= entryStart));
-
-    if (!term) {
-      // Pokud neodpovídá žádnému známému mandátu, přidáme jako samostatný záznam
-      mergedTimeline.push({
-        party_id: timelineEntry.party_id,
-        from: timelineEntry.from,
-        to: timelineEntry.to || null,
-        term_id: 'Neznámé období'
-      });
-      return;
-    }
-
-    const termId = term.term_id;
-
-    // Pokud jsme v novém období
-    if (termId !== currentTerm) {
-      // Pokud byl předchozí záznam aktivní, uzavřeme ho
-      if (currentTerm && currentParty && currentStart) {
-        mergedTimeline.push({
-          party_id: currentParty,
-          from: currentStart,
-          to: null, // Zatím neuzavřeno, bude uzavřeno při přechodu na novou stranu nebo období
-          term_id: currentTerm
+      if (sameTermSameParty.length > 1) {
+        // Sloučíme do jednoho intervalu
+        const start = new Date(Math.min(...sameTermSameParty.map(p => new Date(p.start))));
+        const end = new Date(Math.max(...sameTermSameParty.map(p => new Date(p.end))));
+        mergedParties.push({
+          ...sameTermSameParty[0], // Použijeme data z prvního záznamu
+          start,
+          end,
         });
+      } else {
+        // Pokud je jen jeden záznam, přidáme ho přímo
+        mergedParties.push(event);
       }
-      // Resetujeme pro nové období
-      currentTerm = termId;
-      currentParty = timelineEntry.party_id;
-      currentStart = timelineEntry.from;
-    } else {
-      // Jsme ve stejném období
-      // Pokud se změnila strana
-      if (timelineEntry.party_id !== currentParty) {
-        // Uzavřeme předchozí záznam na den před začátkem nového
-        // POZNÁMKA: Pro přesnost by bylo lepší mít `to` záznamu, který končí, ale pokud není, uzavřeme ho na datum nového začátku.
-        // Zjednodušíme: uzavřeme na den před začátek nového záznamu, pokud je to možné, jinak stejný den.
-        // Nejjednodušší způsob je uzavřít na 'from' nového záznamu a začít nový.
-        if (currentParty && currentStart) {
-            mergedTimeline.push({
-              party_id: currentParty,
-              from: currentStart,
-              to: timelineEntry.from, // Uzavřeme na začátek nového období
-              term_id: currentTerm
-            });
-        }
-        // Začneme nový záznam
-        currentParty = timelineEntry.party_id;
-        currentStart = timelineEntry.from;
-      }
-      // Pokud se strana nezměnila, neděláme nic, jen pokračujeme
-    }
-  });
 
-  // Uzavřeme poslední záznam
-  if (currentTerm && currentParty && currentStart) {
-    mergedTimeline.push({
-      party_id: currentParty,
-      from: currentStart,
-      to: null, // Zůstane null, pokud je to poslední záznam a 'dosud'
-      term_id: currentTerm
-    });
+      // Označíme období jako zpracované pro tuto stranu
+      seenTerms.add(key);
+    } else {
+      // Mandáty přidáme přímo
+      mergedParties.push(event);
+    }
   }
 
-  // Teď provedeme sloučení stejných stran v rámci stejného období
-  const finalMerged = [];
-  mergedTimeline.forEach(entry => {
-    const lastEntry = finalMerged[finalMerged.length - 1];
-    if (lastEntry && lastEntry.term_id === entry.term_id && lastEntry.party_id === entry.party_id) {
-      // Sloučíme: rozšíříme `to` posledního záznamu
-      // Pokud má nový záznam `to`, použijeme jeho `to`, pokud je pozdější
-      if (entry.to && (!lastEntry.to || new Date(entry.to) > new Date(lastEntry.to))) {
-          lastEntry.to = entry.to;
-      }
-      // Pokud nový záznam nemá `to` (dosud), a poslední také nemá, nebo má dříve, aktualizujeme
-      if (!entry.to && (!lastEntry.to || new Date(lastEntry.to) < new Date(entry.from))) {
-          // V tomto případě, pokud předchozí měl `to`, ale aktuální nemá a začíná později, je to chyba nebo mezera.
-          // Zjednodušíme: pokud aktuální nemá `to`, znamená to, že je to poslední známý stav v období.
-          // Takže pokud je aktuální `from` po posledním `to`, je to nový interval.
-          // Ale pokud aktuální `from` je stejný nebo blízko posledního `to`, můžeme sloučit.
-          // Nejbezpečnější způsob je: Pokud se strana shoduje a období je stejné, ponecháme `to` posledního záznamu nebo jej aktualizujeme na null, pokud aktuální nemá `to`.
-          // Zjednodušíme: Pokud aktuální nemá `to`, ponecháme `to` posledního, pokud tam bylo. Pokud neměl ani poslední `to`, necháme tak.
-          // Pokud aktuální nemá `to`, znamená to, že je to poslední známý stav. Pokud poslední měl `to`, aktualizujeme na null.
-          if (lastEntry.to) {
-              lastEntry.to = null; // Poslední záznam v řadě stejné strany v období nemá `to` = dosud
-          }
-      }
-    } else {
-      // Jinak přidáme nový záznam
-      finalMerged.push({...entry});
-    }
-  });
+  // 5. Seřazení sloučených záznamů
+  const sortedTimeline = mergedParties.sort((a, b) => compareDates(a.start, b.start));
 
-  return finalMerged;
+  // 6. Vykreslení časové osy
+  if (sortedTimeline.length === 0) {
+    return <div className="timeline-empty">Není dostupná žádná historická data.</div>;
+  }
+
+  return (
+    <div className="timeline-container">
+      <div className="timeline-track vertical">
+        {sortedTimeline.map((item, index) => {
+          const startDate = item.start.toLocaleDateString('cs-CZ', { year: 'numeric', month: 'short' }).replace(' ', ' ');
+          const endDate = item.end.getFullYear() < 2099 ? item.end.toLocaleDateString('cs-CZ', { year: 'numeric', month: 'short' }).replace(' ', ' ') : 'dosud';
+          const partyOrTermLabel = item.type === 'party' ? item.party_id.toUpperCase() : `Mandát: ${item.term_id}`;
+
+          return (
+            <div key={index} className="timeline-item">
+              <div className="timeline-dot"></div>
+              <div className="timeline-item-content">
+                <div className="timeline-item-left">
+                  <div className="timeline-date">{startDate} – {endDate}</div>
+                  <div className="timeline-session">{partyOrTermLabel}</div>
+                </div>
+                <div className="timeline-item-right">
+                  <span className={`timeline-badge ${item.type === 'party' ? 'vote-abstain' : 'vote-yes'}`}>
+                    {item.type === 'party' ? 'Strana' : 'Mandát'}
+                  </span>
+                </div>
+              </div>
+            </div>
+          );
+        })}
+      </div>
+    </div>
+  );
 };
-
+// --- KONEC NOVÉ KOMPONENTY ---
 
 export default function MpDetail() {
   const { mpId } = useParams();
@@ -300,21 +217,18 @@ export default function MpDetail() {
     return null;
   };
 
-  // Výpočet sloučené časové osy
-  const mergedTimeline = mpData.party_timeline ? mergePartyTimelineWithinTerms(mpData.party_timeline, mpData.mandate_periods) : [];
-
   return (
     <div className="app-container">
       <Link to={`/poslanci?term=${selectedTerm}`} className="back-link">&larr; zpět na žebříček</Link>
       
       <h1 className="mp-detail-title">{mpData.name}</h1> {/* H1 je v globálním stylu */}
 
-      {/* Nahrazení mp-info-card časovou osou */}
-      <div className="card timeline-card">
+      {/* Nahrazení původního mp-info-card časovou osou */}
+      <div className="card">
         <div className="panel-header">
-          <h2>Politická kariéra</h2>
+          <h2>Historie Mandátů a Stranické Příslušnosti</h2>
         </div>
-        <TimelineVisualization timelineData={mergedTimeline} mandateData={mpData.mandate_periods} />
+        <TimelineComponent mandatePeriods={mpData.mandate_periods} partyTimeline={mpData.party_timeline} />
       </div>
 
       {termStats && (
@@ -403,72 +317,5 @@ const CustomizedLegend = (props) => {
         </li>
       ))}
     </ul>
-  );
-};
-
-// Komponenta pro vizualizaci časové osy
-const TimelineVisualization = ({ timelineData, mandateData }) => {
-  if (!timelineData || timelineData.length === 0) {
-    return (
-      <div className="timeline-container">
-        <div className="timeline-empty">Žádná historická data o příslušnosti k politickým stranám.</div>
-      </div>
-    );
-  }
-
-  // Seznam všech unikátních volebních období, seřazených chronologicky
-  const uniqueMandates = [...new Set(mandateData.map(m => m.term_id))].sort(); // Předpokládá, že term_id lze seřadit lexikograficky
-
-  // Vytvoříme strukturu pro každé období
-  const timelineStructure = uniqueMandates.map(termId => {
-    const termInfo = mandateData.find(m => m.term_id === termId);
-    const periodsInTerm = timelineData.filter(t => t.term_id === termId);
-    return { termId, period: termInfo, entries: periodsInTerm };
-  });
-
-  return (
-    <div className="timeline-container">
-      <div className="timeline-track vertical">
-        {timelineStructure.map((termStruct, termIndex) => (
-          <div key={`term-${termStruct.termId}`} className="timeline-term-block">
-            {/* Oddělovač pro období */}
-            <div className="timeline-item">
-              <div className="timeline-dot timeline-term-dot"></div>
-              <div className="timeline-item-content">
-                <div className="timeline-item-left">
-                  <div className="timeline-date">{termStruct.termId}</div>
-                  <div className="timeline-session">({termStruct.period?.from} – {termStruct.period?.to || 'dosud'})</div>
-                </div>
-              </div>
-            </div>
-
-            {/* Položky pro jednotlivé období */}
-            {termStruct.entries.map((entry, entryIndex) => {
-              const startDate = entry.from ? new Date(entry.from).toLocaleDateString('cs-CZ', { year: 'numeric', month: 'short' }).replace('~', '') : 'Datum neznámo';
-              const endDate = entry.to ? new Date(entry.to).toLocaleDateString('cs-CZ', { year: 'numeric', month: 'short' }).replace('~', '') : 'dosud';
-              const partyName = formatPartyName(entry.party_id);
-              const partyColor = getPartyColor(entry.party_id);
-
-              return (
-                <div key={`entry-${termIndex}-${entryIndex}`} className="timeline-item">
-                  <div className="timeline-dot" style={{ backgroundColor: partyColor }}></div>
-                  <div className="timeline-item-content">
-                    <div className="timeline-item-left">
-                      <div className="timeline-date">{startDate} – {endDate}</div>
-                      <div className="timeline-session">Volební období: {entry.term_id}</div>
-                    </div>
-                    <div className="timeline-item-right">
-                      <span className="timeline-badge" style={{ backgroundColor: `${partyColor}20`, color: partyColor, border: `1px solid ${partyColor}40` }}>
-                        {partyName}
-                      </span>
-                    </div>
-                  </div>
-                </div>
-              );
-            })}
-          </div>
-        ))}
-      </div>
-    </div>
   );
 };
