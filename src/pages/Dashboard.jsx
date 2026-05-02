@@ -314,7 +314,7 @@ export default function Dashboard() {
         <SummaryCard
           title="Hlasování"
           value={formatNumber(votingsCount)}
-          description="Celkem v tomto volebním období"
+          description="Celkový počet hlasování v tomto volebním období"
           icon={
             <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="text-accent-3">
               <path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"></path>
@@ -327,7 +327,7 @@ export default function Dashboard() {
         <SummaryCard
           title="Poslanci"
           value={formatNumber(mpStats.length)}
-          description="Aktivních poslanců v období"
+          description="Aktivních poslanců v tomto volebním období"
           icon={
             <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="text-accent-3">
               <path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path>
@@ -339,9 +339,9 @@ export default function Dashboard() {
           loading={mpsLoading}
         />
         <SummaryCard
-          title="Prům. účast"
+          title="Průměrná účast"
           value={`${avgOverallAttendance}%`}
-          description="Celková průměrná účast"
+          description="Průměrná účast všech poslanců na hlasováních"
           icon={
             <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="text-accent-1">
               <line x1="18" y1="20" x2="18" y2="10"></line>
