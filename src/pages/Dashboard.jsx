@@ -274,13 +274,20 @@ export default function Dashboard() {
   const CustomizedTooltip = ({ active, payload, label }) => {
     if (active && payload && payload.length) {
       return (
-        <div className="custom-tooltip"> {/* Tato třída bude mít styly z global.css nebo style.css */}
+        <div className="custom-tooltip">
           <p className="tooltip-label">{label}</p>
-          {payload.map((entry, index) => (
-            <p key={`item-${index}`} className="tooltip-item" style={{ color: entry.color }}>
-              {entry.name}: {entry.value.toFixed(1)}%
-            </p>
-          ))}
+          {payload.map((entry, index) => {
+            // Přizpůsobení textu pro klíč 'prumernaUcast'
+            const displayName = entry.dataKey === 'prumernaUcast' 
+              ? 'Průměrná účast na hlasováních' 
+              : entry.name;
+              
+            return (
+              <p key={`item-${index}`} className="tooltip-item" style={{ color: entry.color }}>
+                {displayName}: {entry.value.toFixed(1)}%
+              </p>
+            );
+          })}
         </div>
       );
     }
@@ -476,8 +483,8 @@ export default function Dashboard() {
                       {/* Přidáno text-center tam, kde chceme zarovnání doprostřed */}
                       <th className="w-12 text-center">#</th>
                       <th>Jméno</th>
-                      <th className="w-24">Strana</th>
-                      <th className="w-24 text-center">Účast na hlasováních</th>
+                      <th className="w-32">Strana</th>
+                      <th className="w-32 text-center">Účast na hlasováních</th>
                       <th className="w-32 text-center">Rozdíl od průměru Sněmovny</th>
                       <th className="w-32 text-center">Rozdíl od politické strany poslance</th>
                     </tr>
