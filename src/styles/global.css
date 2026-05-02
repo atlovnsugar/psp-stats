@@ -1163,21 +1163,20 @@ select option:checked { /* V některých prohlížečích lze stylovat */
   /* transform: translateX(2px); */
 }
 
-/* Globální Grid pro statistiky */
+/* Globální základ pro gridy */
 .stats-grid {
   display: grid;
-  grid-template-columns: 1fr; /* Na mobilech pod sebou */
+  grid-template-columns: 1fr; /* Defaultně vše pod sebou na mobilu */
   gap: 16px;
   margin-bottom: 24px;
 }
 
-/* Na obrazovkách širších než 768px se rozdělí do 3 sloupců */
+/* 1. Horní Summary karty - VEDLE SEBE (na desktopech) */
 @media (min-width: 768px) {
   .stats-grid.summary-cards {
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(3, 1fr); /* 3 sloupce vedle sebe */
   }
 }
-
 
 
 /* --- Konec sekce pro Dashboard --- */
@@ -1357,14 +1356,17 @@ select option:checked { /* V některých prohlížečích lze stylovat */
   margin-bottom: 20px; /* Oddělení od dalšího bloku */
 }
 
-/* Grid pro sekce grafu a žebříčku */
+/* 2. Hlavní tělo dashboardu (Graf a Tabulka) - POD SEBOU */
 .dashboard-grid {
-  /* Používáme základní .stats-grid z globálního souboru */
-  /* grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); - Toto je v .stats-grid */
-  /* gap: 16px; - Toto je v .stats-grid */
-  /* Na větších obrazovkách můžeme vynutit 2 sloupce */
-  @media (min-width: 1024px) {
-    grid-template-columns: 1fr 1fr;
+  display: flex; /* Flex-col místo gridu zajistí 100% šířku pod sebou */
+  flex-direction: column;
+  gap: 24px; /* Mírně větší mezera mezi grafem a tabulkou */
+}
+
+/* 3. Volitelné: Omezení max-výšky grafu na desktopu, aby tabulka nebyla moc nízko */
+@media (min-width: 1024px) {
+  .party-section .chart-container {
+    height: 400px; 
   }
 }
 
