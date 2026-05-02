@@ -15,108 +15,59 @@ const VOTE_COLORS = {
   not_logged: 'var(--text-muted, #9ca3af)' 
 };
 
-// --- NOVÁ KOMPONENTA PRO ČASOVOU OSU ---
-const TimelineComponent = ({ mandatePeriods, partyTimeline }) => {
-  // Pomocná funkce pro porovnání dat
-  const compareDates = (a, b) => new Date(a) - new Date(b);
-
-  // 1. Zpracování mandatePeriods - přidání "type"
-  const mandates = mandatePeriods.map(m => ({
-    ...m,
-    type: 'mandate',
-    start: new Date(m.from),
-    end: m.to ? new Date(m.to) : new Date('2099-12-31') // Upravíme "dosud" na vzdálené datum
-  }));
-
-  // 2. Zpracování partyTimeline - přidání "type" a úprava "to"
-  const parties = partyTimeline.map(p => ({
-    ...p,
-    type: 'party',
-    start: new Date(p.from),
-    end: p.to ? new Date(p.to) : new Date('2099-12-31') // Upravíme "dosud" na vzdálené datum
-  }));
-
-  // 3. Sloučení a seřazení všech událostí podle data začátku
-  const allEvents = [...mandates, ...parties].sort((a, b) => compareDates(a.start, b.start));
-
-  // 4. Sloučení duplicitních záznamů ve stejném období
-  const mergedParties = [];
-  const seenTerms = new Set(); // Pro sledování zpracovaných období
-
-  for (const event of allEvents) {
-    if (event.type === 'party') {
-      const termId = event.term_id; // Předpokládáme, že event obsahuje term_id
-      const partyId = event.party_id;
-
-      // Pokud je toto období již zpracováno pro tuto stranu, přeskočíme
-      const key = `${termId}_${partyId}`;
-      if (seenTerms.has(key)) {
-        continue;
-      }
-
-      // Najdeme všechny záznamy pro stejné období a stejnou stranu
-      const sameTermSameParty = parties.filter(p => p.term_id === termId && p.party_id === partyId);
-
-      if (sameTermSameParty.length > 1) {
-        // Sloučíme do jednoho intervalu
-        const start = new Date(Math.min(...sameTermSameParty.map(p => new Date(p.start))));
-        const end = new Date(Math.max(...sameTermSameParty.map(p => new Date(p.end))));
-        mergedParties.push({
-          ...sameTermSameParty[0], // Použijeme data z prvního záznamu
-          start,
-          end,
-        });
-      } else {
-        // Pokud je jen jeden záznam, přidáme ho přímo
-        mergedParties.push(event);
-      }
-
-      // Označíme období jako zpracované pro tuto stranu
-      seenTerms.add(key);
-    } else {
-      // Mandáty přidáme přímo
-      mergedParties.push(event);
-    }
-  }
-
-  // 5. Seřazení sloučených záznamů
-  const sortedTimeline = mergedParties.sort((a, b) => compareDates(a.start, b.start));
-
-  // 6. Vykreslení časové osy
-  if (sortedTimeline.length === 0) {
-    return <div className="timeline-empty">Není dostupná žádná historická data.</div>;
-  }
-
-  return (
-    <div className="timeline-container">
-      <div className="timeline-track vertical">
-        {sortedTimeline.map((item, index) => {
-          const startDate = item.start.toLocaleDateString('cs-CZ', { year: 'numeric', month: 'short' }).replace(' ', ' ');
-          const endDate = item.end.getFullYear() < 2099 ? item.end.toLocaleDateString('cs-CZ', { year: 'numeric', month: 'short' }).replace(' ', ' ') : 'dosud';
-          const partyOrTermLabel = item.type === 'party' ? item.party_id.toUpperCase() : `Mandát: ${item.term_id}`;
-
-          return (
-            <div key={index} className="timeline-item">
-              <div className="timeline-dot"></div>
-              <div className="timeline-item-content">
-                <div className="timeline-item-left">
-                  <div className="timeline-date">{startDate} – {endDate}</div>
-                  <div className="timeline-session">{partyOrTermLabel}</div>
-                </div>
-                <div className="timeline-item-right">
-                  <span className={`timeline-badge ${item.type === 'party' ? 'vote-abstain' : 'vote-yes'}`}>
-                    {item.type === 'party' ? 'Strana' : 'Mandát'}
-                  </span>
-                </div>
-              </div>
-            </div>
-          );
-        })}
-      </div>
-    </div>
-  );
+// Barevné schéma pro strany - používáme stejné jako v Dashboardu
+const PARTY_NAME_MAP = {
+  'kdu csl': 'KDU-ČSL',
+  'ods': 'ODS',
+  'ms': 'Motoristé',
+  'cssd': 'ČSSD',
+  'nezaraz': 'Nezařazení',
+  'spd': 'SPD',
+  'top09': 'TOP 09',
+  'stan': 'STAN',
+  'pirati': 'Piráti',
+  'ano': 'ANO',
+  'kscm': 'KSČM',
+  'usvit': 'Úsvit',
+  'top09 s': 'TOP 09-STAN',
+  'vv': 'VV',
+  'sz': 'Zelení',
+  'nez sz': 'Nezařazení (SZ)',
+  'us deu': 'US-DEU',
+  'us': 'US',
+  'spr rsc': 'SPR-RSČ',
+  'oda': 'ODA'
 };
-// --- KONEC NOVÉ KOMPONENTY ---
+
+const PARTY_COLORS = {
+  'ODS': '#005EB8',
+  'ČSSD': '#e17800',
+  'ANO': '#19d8fa',
+  'KDU-ČSL': '#f3f02b',
+  'TOP 09': '#6600a1',
+  'SPD': '#103A6B',
+  'STAN': '#7c7c7c',
+  'Zelení': '#66B246',
+  'KSČM': '#D21F1B',
+  'SPOLU': '#005EB8',
+  'Jiné': '#64748b',
+  'Nezařazení': '#4f92f0',
+  'Změna 21': '#FF6B6B',
+  'Piráti': '#696969'
+};
+
+// Formátovací funkce pro názvy stran
+const formatPartyName = (partyId) => {
+  if (!partyId) return 'Nezařazení';
+
+  const normalized = partyId
+    .replace(/CSL/g, 'ČSL')
+    .replace(/CSSD/g, 'ČSSD')
+    .replace(/-/g, ' ')
+    .trim();
+
+  return PARTY_NAME_MAP[normalized] || normalized;
+};
 
 export default function MpDetail() {
   const { mpId } = useParams();
@@ -223,12 +174,12 @@ export default function MpDetail() {
       
       <h1 className="mp-detail-title">{mpData.name}</h1> {/* H1 je v globálním stylu */}
 
-      {/* Nahrazení původního mp-info-card časovou osou */}
+      {/* Timeline místo mp-info-card */}
       <div className="card">
         <div className="panel-header">
-          <h2>Historie Mandátů a Stranické Příslušnosti</h2>
+          <h3>Historie mandátů a příslušnosti</h3>
         </div>
-        <TimelineComponent mandatePeriods={mpData.mandate_periods} partyTimeline={mpData.party_timeline} />
+        <TimelineTrack mpData={mpData} />
       </div>
 
       {termStats && (
@@ -304,6 +255,123 @@ export default function MpDetail() {
     </div>
   );
 }
+
+// Komponenta pro časovou osu
+const TimelineTrack = ({ mpData }) => {
+  const { mandate_periods, party_timeline } = mpData;
+
+  // Připravíme data pro osu - spojení mandátů a změn stran
+  const timelineEvents = [];
+
+  // Přidáme mandáty jako události
+  mandate_periods.forEach(period => {
+    timelineEvents.push({
+      type: 'mandate',
+      term_id: period.term_id,
+      from: period.from,
+      to: period.to || null, // null znamená "dosud"
+      startDate: new Date(period.from),
+      endDate: period.to ? new Date(period.to) : null, // null znamená "dosud"
+    });
+  });
+
+  // Přidáme změny stran jako události
+  party_timeline.forEach(timelineEntry => {
+    timelineEvents.push({
+      type: 'party_change',
+      party_id: timelineEntry.party_id,
+      from: timelineEntry.from,
+      to: timelineEntry.to || null,
+      startDate: new Date(timelineEntry.from),
+      endDate: timelineEntry.to ? new Date(timelineEntry.to) : null,
+    });
+  });
+
+  // Seřadíme podle počátečního data
+  timelineEvents.sort((a, b) => a.startDate - b.startDate);
+
+  // Zjistíme celkový časový rozsah
+  const allStartDates = timelineEvents.map(e => e.startDate);
+  const allEndDates = timelineEvents.map(e => e.endDate).filter(d => d !== null); // Odfiltrujeme null (dosud)
+  const minDate = new Date(Math.min(...allStartDates));
+  const maxDate = new Date(Math.max(...allEndDates, ...allStartDates)); // Pokud je nějaké "dosud", použije se aktuální datum jako horní hranice
+
+  // Přidáme "dosud" jako aktuální datum, pokud je v datech nějaké "dosud"
+  const hasOpenEnded = timelineEvents.some(e => e.endDate === null);
+  if (hasOpenEnded) {
+    maxDate.setFullYear(maxDate.getFullYear() + 1); // Přidáme rok jako rezervu pro "dosud"
+  }
+
+  // Generování roků pro osu X
+  const years = [];
+  for (let y = minDate.getFullYear(); y <= maxDate.getFullYear(); y++) {
+    years.push(y);
+  }
+
+  return (
+    <div className="timeline-container">
+      <div className="timeline-track horizontal">
+        {/* Popisky roků (spodní) */}
+        <div className="timeline-axis-bottom">
+          {years.map(year => (
+            <span key={year} className="timeline-axis-label-bottom">{year}</span>
+          ))}
+        </div>
+        {/* Časová osa */}
+        <div className="timeline-line">
+          {timelineEvents.map((event, index) => {
+            const isCurrent = event.endDate === null; // Značí "dosud"
+            const endDateForCalculation = isCurrent ? new Date() : event.endDate; // Pro výpočet délky použijeme aktuální datum
+            const durationMs = endDateForCalculation - event.startDate;
+            const totalDurationMs = maxDate - minDate;
+            const widthPercentage = (durationMs / totalDurationMs) * 100;
+            const startPercentage = ((event.startDate - minDate) / totalDurationMs) * 100;
+
+            let label, color;
+            if (event.type === 'mandate') {
+              label = `Mandát (${event.term_id})`;
+              color = 'var(--text-muted)'; // Neutrální barva pro mandát
+            } else { // party_change
+              label = formatPartyName(event.party_id);
+              color = PARTY_COLORS[event.party_id.toUpperCase()] || PARTY_COLORS['Jiné'];
+            }
+
+            return (
+              <div
+                key={`${event.type}-${index}`}
+                className={`timeline-segment ${event.type === 'party_change' ? 'party-segment' : 'mandate-segment'}`}
+                style={{
+                  left: `${startPercentage}%`,
+                  width: `${widthPercentage}%`,
+                  backgroundColor: color,
+                  opacity: isCurrent ? 1.0 : 0.8, // Aktuální segment může být plnější
+                }}
+                title={`${label}: ${event.from} – ${event.to || 'dosud'}`}
+              >
+                <span className="segment-label">{label}</span>
+              </div>
+            );
+          })}
+        </div>
+        {/* Popisky volebních období (horní) */}
+        <div className="timeline-axis-top">
+          {years.map(year => {
+            // Najdeme odpovídající mandát pro daný rok
+            const correspondingMandate = mandate_periods.find(m =>
+              year >= new Date(m.from).getFullYear() && (m.to ? year <= new Date(m.to).getFullYear() : true)
+            );
+            return (
+              <span key={year} className="timeline-axis-label-top">
+                {correspondingMandate ? correspondingMandate.term_id : ''}
+              </span>
+            );
+          })}
+        </div>
+      </div>
+    </div>
+  );
+};
+
 
 // Vlastní legenda pro Recharts - používá globální styly a barvy
 const CustomizedLegend = (props) => {
