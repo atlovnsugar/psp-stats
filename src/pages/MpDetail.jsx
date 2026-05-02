@@ -273,8 +273,7 @@ const formatTermName = (termId) => {
   return termMap[termId] || termId;
 };
 
-// Komponenta pro časovou osu
-// Komponenta pro časovou osu
+// Komponenta pro časovou osu// Komponenta pro časovou osu
 const TimelineTrack = ({ mpData }) => {
   const { mandate_periods, party_timeline } = mpData;
 
@@ -286,19 +285,21 @@ const TimelineTrack = ({ mpData }) => {
       .replace(/CSL/g, 'ČSL')
       .replace(/CSSD/g, 'ČSSD')
       .replace(/-/g, ' ')
+      .replace(/nezaraz/i, 'Nezařazení') // Explicitní záchrana pro různé varianty nezařazení
+      .replace(/nezařaz/i, 'Nezařazení')
       .trim();
     
     // Pokud je to v mapě, vrátíme sjednocený název (např. 'Nezařazení'), jinak původní upravený tvar
     return PARTY_NAME_MAP[normalized] || normalized;
   };
 
-  // 1. Předzpracování dat: Normalizace ID, seřazení a sloučení bloků členství ve stranách
-  // Vytvoříme kopii s normalizovaným party_id
+  // 1. Předzpracování dat: Normalizace ID, seřazení a sloučení překrývajících se bloků
   const normalizedParties = party_timeline.map(party => ({
     ...party,
     normalized_party_id: getNormalizedPartyId(party.party_id)
   }));
 
+  // Nejdříve seřadíme podle data začátku
   const sortedParties = [...normalizedParties].sort((a, b) => new Date(a.from) - new Date(b.from));
   const mergedParties = [];
 
@@ -309,27 +310,39 @@ const TimelineTrack = ({ mpData }) => {
     }
     const lastParty = mergedParties[mergedParties.length - 1];
 
-    // Nyní porovnáváme pomocí normalizovaného ID
+    // Porovnáváme normalizované ID
     if (lastParty.normalized_party_id === currentParty.normalized_party_id) {
-      if (lastParty.to !== null) {
-        if (currentParty.to === null) {
-          lastParty.to = null; 
-        } else {
-          const lastEndDate = new Date(lastParty.to);
-          const currentEndDate = new Date(currentParty.to);
-          if (currentEndDate > lastEndDate) {
-            lastParty.to = currentParty.to;
+      // Pokud mají stejnou stranu, kontrolujeme, zda se časově PŘEKRÝVAJÍ nebo NAVAZUJÍ
+      const lastEndDate = lastParty.to ? new Date(lastParty.to) : new Date('2099-12-31'); // 'dosud' je hodně v budoucnu
+      const currentStartDate = new Date(currentParty.from);
+      
+      // Pokud aktuální začíná PŘEDTÍM, než předchozí skončil, nebo přesně v ten den (navazuje)
+      if (currentStartDate <= lastEndDate) {
+        // Musíme případně prodloužit konec
+        if (lastParty.to !== null) { // Pokud už předchozí není "dosud"
+          if (currentParty.to === null) {
+            lastParty.to = null; // Nový blok je "dosud", takže celý spojený je "dosud"
+          } else {
+            const currentEndDate = new Date(currentParty.to);
+            if (currentEndDate > lastEndDate) {
+              lastParty.to = currentParty.to; // Prodloužíme konec
+            }
           }
         }
+        // Pokud se překrývají, ale neznamená to prodloužení, prostě aktuální blok ignorujeme (je už obsažen)
+      } else {
+        // Strana je sice stejná, ale je tam mezera - takže přidáme jako nový blok
+        mergedParties.push({ ...currentParty });
       }
     } else {
+      // Jde o jinou stranu, přidáme jako nový blok
       mergedParties.push({ ...currentParty });
     }
   });
 
   const timelineEvents = mergedParties.map((entry) => ({
     type: 'party_change',
-    party_id: entry.normalized_party_id, // Použijeme už normalizované jméno
+    party_id: entry.normalized_party_id, 
     from: entry.from,
     to: entry.to || null,
     startDate: new Date(entry.from),
@@ -351,7 +364,12 @@ const TimelineTrack = ({ mpData }) => {
 
   const hasOpenEnded = allEndDates.some(e => e === null);
   if (hasOpenEnded) {
-    maxDate.setFullYear(maxDate.getFullYear() + 1);
+    // Pro aktuální bloky přidáme jako konečnou hranici dnešní datum + malou rezervu
+    const today = new Date();
+    if (maxDate < today) {
+       maxDate.setTime(today.getTime());
+    }
+    maxDate.setMonth(maxDate.getMonth() + 6); // Přidáme půl roku rezervu místo celého roku pro lepší proporce
   }
 
   const totalDurationMs = maxDate - minDate;
@@ -363,7 +381,7 @@ const TimelineTrack = ({ mpData }) => {
 
   return (
     <div className="timeline-container">
-      <div className="timeline-track horizontal">
+      <div className="timeline-track horizontal" style={{ overflow: 'visible' }}> 
         
         {/* 1. Indikátory volebních období (nad osou) */}
         <div className="timeline-terms-track" style={{ position: 'relative', height: '24px', marginBottom: '6px' }}>
@@ -374,6 +392,9 @@ const TimelineTrack = ({ mpData }) => {
             
             const startPercentage = ((startDate - minDate) / totalDurationMs) * 100;
             const widthPercentage = (durationMs / totalDurationMs) * 100;
+
+            // Zjištění, zda jde o poslední období (aktuální)
+            const isLastPeriod = index === mandate_periods.length - 1;
 
             return (
               <div
@@ -386,7 +407,8 @@ const TimelineTrack = ({ mpData }) => {
                   borderLeft: '1px dashed var(--text-muted)',
                   borderRight: period.to ? '1px dashed var(--text-muted)' : 'none',
                   display: 'flex',
-                  justifyContent: 'center',
+                  // U posledního období (aktuálního) zarovnáme text na začátek, aby nepřetékal doprava
+                  justifyContent: isLastPeriod ? 'flex-start' : 'center',
                   alignItems: 'flex-start',
                   pointerEvents: 'none',
                   boxSizing: 'border-box'
@@ -400,7 +422,11 @@ const TimelineTrack = ({ mpData }) => {
                   padding: '0 4px',
                   backgroundColor: 'var(--bg-card)',
                   borderRadius: '4px',
-                  marginTop: '-4px'
+                  marginTop: '-4px',
+                  // Přidáme posun, pokud je text zarovnaný vlevo, aby nelepil přímo na čáru
+                  marginLeft: isLastPeriod ? '4px' : '0',
+                  // Zajistíme, že text může přesahovat hranice rodičovského divu
+                  overflow: 'visible' 
                 }}>
                   {formatTermName(period.term_id)}
                 </span>
@@ -418,11 +444,8 @@ const TimelineTrack = ({ mpData }) => {
             const widthPercentage = (durationMs / totalDurationMs) * 100;
             const startPercentage = ((event.startDate - minDate) / totalDurationMs) * 100;
 
-            // Zde už máme event.party_id v hezkém tvaru (např. "Nezařazení") díky normalizaci výše
             const label = event.party_id; 
             
-            // Pro barvu se pokusíme najít přesnou shodu s klíčem v PARTY_COLORS
-            // Pokud PARTY_COLORS používá jako klíče zobrazené názvy (jako "Nezařazení")
             const colorKey = Object.keys(PARTY_COLORS).find(key => key.toUpperCase() === label.toUpperCase());
             const color = colorKey ? PARTY_COLORS[colorKey] : (PARTY_COLORS['Jiné'] || '#64748b');
 
