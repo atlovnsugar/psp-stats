@@ -396,33 +396,48 @@ export default function Dashboard() {
         </section>
 
         {/* Top MPs - interaktivní */}
-        <section className="top-mps-section">
+{/* Top MPs - interaktivní */}
+        <section className="top-mps-section mt-8">
           <div className="card h-full">
-            <div className="panel-header"> {/* Používáme existující styl z global.css */}
+            <div className="panel-header" style={{ marginBottom: '20px' }}> {/* Větší odstup od filtrů */}
               <h2>Nejaktivnější poslanci</h2>
-              <div className="leaderboard-controls">
+            </div>
+            
+            {/* Přepracované filtry pomocí grid layoutu definovaného v global.css */}
+            <div className="filters-row mb-6"> 
+              
+              <div className="filter-group">
+                <label>Zobrazení</label>
                 <select
                   value={leaderboardView}
                   onChange={(e) => setLeaderboardView(e.target.value)}
-                  className="filter-select" // Používáme existující styl pro select z global.css
+                  className="filter-select"
                 >
-                  <option value="top">Nejlepší účast na hlasováních</option>
-                  <option value="bottom">Nejhorší účast na hlasováních</option>
+                  <option value="top">Nejlepší účast</option>
+                  <option value="bottom">Nejhorší účast</option>
                 </select>
+              </div>
+              
+              <div className="filter-group">
+                <label>Počet poslanců</label>
                 <select
                   value={leaderboardLimit}
                   onChange={(e) => setLeaderboardLimit(Number(e.target.value))}
-                  className="filter-select" // Používáme existující styl pro select z global.css
+                  className="filter-select"
                 >
-                  <option value={10}>10</option>
-                  <option value={20}>20</option>
-                  <option value={50}>50</option>
-                  <option value={100}>100</option>
+                  <option value={10}>Zobrazit 10</option>
+                  <option value={20}>Zobrazit 20</option>
+                  <option value={50}>Zobrazit 50</option>
+                  <option value={100}>Zobrazit 100</option>
                 </select>
+              </div>
+
+              <div className="filter-group">
+                <label>Strana</label>
                 <select
                   value={selectedPartyFilter}
                   onChange={(e) => setSelectedPartyFilter(e.target.value)}
-                  className="filter-select" // Používáme existující styl pro select z global.css
+                  className="filter-select"
                 >
                   <option value="all">Všechny strany</option>
                   {uniqueParties.map(partyId => (
@@ -430,6 +445,7 @@ export default function Dashboard() {
                   ))}
                 </select>
               </div>
+
             </div>
 
             {mpsLoading ? (
@@ -437,12 +453,12 @@ export default function Dashboard() {
                  <table className="data-table">
                    <thead>
                      <tr>
-                       <th className="w-12">#</th>
+                       <th className="w-12 text-center">#</th>
                        <th>Jméno</th>
                        <th className="w-24">Strana</th>
-                       <th className="w-24">Účast na hlasováních</th>
-                       <th className="w-32">Rozdíl od průměru Sněmovny</th>
-                       <th className="w-32">Rozdíl od politické strany poslance</th>
+                       <th className="w-24 text-center">Účast na hlasováních</th>
+                       <th className="w-32 text-center">Rozdíl od průměru Sněmovny</th>
+                       <th className="w-32 text-center">Rozdíl od politické strany poslance</th>
                      </tr>
                    </thead>
                  </table>
@@ -457,17 +473,17 @@ export default function Dashboard() {
                 <table className="data-table">
                   <thead>
                     <tr>
-                      <th className="w-12">#</th>
+                      {/* Přidáno text-center tam, kde chceme zarovnání doprostřed */}
+                      <th className="w-12 text-center">#</th>
                       <th>Jméno</th>
                       <th className="w-24">Strana</th>
-                      <th className="w-24">Účast na hlasováních</th>
-                      <th className="w-32">Rozdíl od průměru Sněmovny</th>
-                      <th className="w-32">Rozdíl od politické strany poslance</th>
+                      <th className="w-24 text-center">Účast na hlasováních</th>
+                      <th className="w-32 text-center">Rozdíl od průměru Sněmovny</th>
+                      <th className="w-32 text-center">Rozdíl od politické strany poslance</th>
                     </tr>
                   </thead>
                   <tbody>
                     {leaderboardMps.map((mp, originalIdx) => {
-                      // Spočítáme skutečné pořadí v rámci filtrovaného/zobrazeného seznamu
                       const displayRank = leaderboardView === 'top' ? originalIdx + 1 : `-${originalIdx + 1}`;
                       return (
                         <tr
@@ -481,7 +497,7 @@ export default function Dashboard() {
                           </td>
                           <td>
                             <span
-                              className="party-badge timeline-badge" // Používáme existující badge styl z global.css
+                              className="party-badge timeline-badge" 
                               style={{
                                 backgroundColor: `${getPartyColor(mp.party_id)}20`,
                                 color: getPartyColor(mp.party_id),
