@@ -257,52 +257,75 @@ export default function MpDetail() {
 }
 
 // Komponenta pro časovou osu
+// Komponenta pro časovou osu
 const TimelineTrack = ({ mpData }) => {
   const { mandate_periods, party_timeline } = mpData;
 
-  // Připravíme data pro osu - spojení mandátů a změn stran
-  const timelineEvents = [];
+  // 1. Seřazení a sloučení bloků členství ve stranách
+  // Data si nejdříve chronologicky seřadíme
+  const sortedParties = [...party_timeline].sort((a, b) => new Date(a.from) - new Date(b.from));
+  const mergedParties = [];
 
-  // Přidáme mandáty jako události
-  mandate_periods.forEach(period => {
-    timelineEvents.push({
-      type: 'mandate',
-      term_id: period.term_id,
-      from: period.from,
-      to: period.to || null, // null znamená "dosud"
-      startDate: new Date(period.from),
-      endDate: period.to ? new Date(period.to) : null, // null znamená "dosud"
-    });
+  sortedParties.forEach((currentParty) => {
+    if (mergedParties.length === 0) {
+      mergedParties.push({ ...currentParty });
+      return;
+    }
+
+    const lastParty = mergedParties[mergedParties.length - 1];
+
+    // Pokud jde o stejnou stranu jdoucí po sobě, úseky sloučíme do jednoho bloku
+    if (lastParty.party_id === currentParty.party_id) {
+      // Pokud předchozí blok nemá stanovený konec (null = trvá dosud), už pokrývá vše a nemusíme 'to' posouvat
+      if (lastParty.to !== null) {
+        if (currentParty.to === null) {
+          lastParty.to = null; // Pokud aktuální záznam trvá dosud, nastavíme to i pro sloučený blok
+        } else {
+          // Pokud obě data existují, vybereme to pozdější a posuneme konec spojeného bloku
+          const lastEndDate = new Date(lastParty.to);
+          const currentEndDate = new Date(currentParty.to);
+          if (currentEndDate > lastEndDate) {
+            lastParty.to = currentParty.to;
+          }
+        }
+      }
+    } else {
+      mergedParties.push({ ...currentParty });
+    }
   });
 
-  // Přidáme změny stran jako události
-  party_timeline.forEach(timelineEntry => {
-    timelineEvents.push({
-      type: 'party_change',
-      party_id: timelineEntry.party_id,
-      from: timelineEntry.from,
-      to: timelineEntry.to || null,
-      startDate: new Date(timelineEntry.from),
-      endDate: timelineEntry.to ? new Date(timelineEntry.to) : null,
-    });
-  });
+  // 2. Vytvoření událostí pro timeline pouze ze sloučených stran
+  const timelineEvents = mergedParties.map((entry) => ({
+    type: 'party_change',
+    party_id: entry.party_id,
+    from: entry.from,
+    to: entry.to || null,
+    startDate: new Date(entry.from),
+    endDate: entry.to ? new Date(entry.to) : null,
+  }));
 
-  // Seřadíme podle počátečního data
-  timelineEvents.sort((a, b) => a.startDate - b.startDate);
+  // Zjistíme celkový časový rozsah - do hraničních dat nadále zahrnujeme i mandáty,
+  // aby časová osa vizuálně nepůsobila useknutě
+  const allStartDates = [
+    ...timelineEvents.map(e => e.startDate),
+    ...mandate_periods.map(m => new Date(m.from))
+  ];
+  const allEndDates = [
+    ...timelineEvents.map(e => e.endDate),
+    ...mandate_periods.map(m => m.to ? new Date(m.to) : null)
+  ];
 
-  // Zjistíme celkový časový rozsah
-  const allStartDates = timelineEvents.map(e => e.startDate);
-  const allEndDates = timelineEvents.map(e => e.endDate).filter(d => d !== null); // Odfiltrujeme null (dosud)
   const minDate = new Date(Math.min(...allStartDates));
-  const maxDate = new Date(Math.max(...allEndDates, ...allStartDates)); // Pokud je nějaké "dosud", použije se aktuální datum jako horní hranice
+  const validEndDates = allEndDates.filter(d => d !== null);
+  const maxDate = new Date(Math.max(...validEndDates, ...allStartDates));
 
-  // Přidáme "dosud" jako aktuální datum, pokud je v datech nějaké "dosud"
-  const hasOpenEnded = timelineEvents.some(e => e.endDate === null);
+  // Přidáme "dosud" jako aktuální datum, pokud je v datech nějaké "dosud"[cite: 1]
+  const hasOpenEnded = allEndDates.some(e => e === null);
   if (hasOpenEnded) {
-    maxDate.setFullYear(maxDate.getFullYear() + 1); // Přidáme rok jako rezervu pro "dosud"
+    maxDate.setFullYear(maxDate.getFullYear() + 1); // Přidáme rok jako rezervu pro "dosud"[cite: 1]
   }
 
-  // Generování roků pro osu X
+  // Generování roků pro osu X[cite: 1]
   const years = [];
   for (let y = minDate.getFullYear(); y <= maxDate.getFullYear(); y++) {
     years.push(y);
@@ -311,40 +334,35 @@ const TimelineTrack = ({ mpData }) => {
   return (
     <div className="timeline-container">
       <div className="timeline-track horizontal">
-        {/* Popisky roků (spodní) */}
+        {/* Popisky roků (spodní)[cite: 1] */}
         <div className="timeline-axis-bottom">
           {years.map(year => (
             <span key={year} className="timeline-axis-label-bottom">{year}</span>
           ))}
         </div>
-        {/* Časová osa */}
+        
+        {/* Časová osa - nyní renderuje pouze sloučené bloky stran */}
         <div className="timeline-line">
           {timelineEvents.map((event, index) => {
-            const isCurrent = event.endDate === null; // Značí "dosud"
-            const endDateForCalculation = isCurrent ? new Date() : event.endDate; // Pro výpočet délky použijeme aktuální datum
+            const isCurrent = event.endDate === null;
+            const endDateForCalculation = isCurrent ? new Date() : event.endDate;
             const durationMs = endDateForCalculation - event.startDate;
             const totalDurationMs = maxDate - minDate;
             const widthPercentage = (durationMs / totalDurationMs) * 100;
             const startPercentage = ((event.startDate - minDate) / totalDurationMs) * 100;
 
-            let label, color;
-            if (event.type === 'mandate') {
-              label = `Mandát (${event.term_id})`;
-              color = 'var(--text-muted)'; // Neutrální barva pro mandát
-            } else { // party_change
-              label = formatPartyName(event.party_id);
-              color = PARTY_COLORS[event.party_id.toUpperCase()] || PARTY_COLORS['Jiné'];
-            }
+            const label = formatPartyName(event.party_id);
+            const color = PARTY_COLORS[event.party_id.toUpperCase()] || PARTY_COLORS['Jiné'];
 
             return (
               <div
                 key={`${event.type}-${index}`}
-                className={`timeline-segment ${event.type === 'party_change' ? 'party-segment' : 'mandate-segment'}`}
+                className="timeline-segment party-segment"
                 style={{
                   left: `${startPercentage}%`,
                   width: `${widthPercentage}%`,
                   backgroundColor: color,
-                  opacity: isCurrent ? 1.0 : 0.8, // Aktuální segment může být plnější
+                  opacity: isCurrent ? 1.0 : 0.8,
                 }}
                 title={`${label}: ${event.from} – ${event.to || 'dosud'}`}
               >
@@ -353,10 +371,10 @@ const TimelineTrack = ({ mpData }) => {
             );
           })}
         </div>
-        {/* Popisky volebních období (horní) */}
+        
+        {/* Popisky volebních období (horní) - necháváme z původního kódu jako kontext osy[cite: 1] */}
         <div className="timeline-axis-top">
           {years.map(year => {
-            // Najdeme odpovídající mandát pro daný rok
             const correspondingMandate = mandate_periods.find(m =>
               year >= new Date(m.from).getFullYear() && (m.to ? year <= new Date(m.to).getFullYear() : true)
             );
