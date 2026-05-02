@@ -1,5 +1,5 @@
 // src/pages/MpDetail.jsx
-import { useEffect, useState, useMemo } from 'react';
+import { useEffect, useState } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { useTerm } from '../context/TermContext';
 import { fetchJSON } from '../utils/dataCache';
@@ -15,31 +15,7 @@ const VOTE_COLORS = {
   not_logged: 'var(--text-muted, #9ca3af)' 
 };
 
-// Mapping pro názvy stran - použijeme stejné jako v jiných komponentách
-const PARTY_NAME_MAP = {
-  'kdu csl': 'KDU-ČSL',
-  'ods': 'ODS',
-  'ms': 'Motoristé',
-  'cssd': 'ČSSD',
-  'nezaraz': 'Nezařazení',
-  'spd': 'SPD',
-  'top09': 'TOP 09',
-  'stan': 'STAN',
-  'pirati': 'Piráti',
-  'ano': 'ANO',
-  'kscm': 'KSČM',
-  'usvit': 'Úsvit',
-  'top09 s': 'TOP 09-STAN',
-  'vv': 'VV',
-  'sz': 'Zelení',
-  'nez sz': 'Nezařazení (SZ)',
-  'us deu': 'US-DEU',
-  'us': 'US',
-  'spr rsc': 'SPR-RSČ',
-  'oda': 'ODA'
-};
-
-// Barevné schéma pro strany - použijeme stejné jako v jiných komponentách
+// Barevné schéma pro strany - používáme globální nebo fallbacky
 const PARTY_COLORS = {
   'ODS': '#005EB8',
   'ČSSD': '#e17800',
@@ -51,30 +27,42 @@ const PARTY_COLORS = {
   'Zelení': '#66B246',
   'KSČM': '#D21F1B',
   'SPOLU': '#005EB8',
-  'Jiné': '#64748b',
-  'Nezařazení': '#4f92f0',
+  'Jiné': 'var(--text-muted)', // Použijeme globální proměnnou
+  'Nezařazení': 'var(--text-secondary)',
   'Změna 21': '#FF6B6B',
-  'Piráti': '#696969'
+  'Piráti': '#696969',
+  // Přidej více barev podle potřeby
 };
 
-// Základní fallback pro neznámé strany
-const DEFAULT_PARTY_COLOR = 'var(--surface-3)';
+const DEFAULT_PARTY_COLOR = 'var(--surface-3)'; // Fallback barva
 
 // Pomocná funkce pro formátování názvu strany
 const formatPartyName = (partyId) => {
   if (!partyId) return 'Nezařazení';
-  const normalized = partyId
-    .replace(/CSL/g, 'ČSL')
-    .replace(/CSSD/g, 'ČSSD')
-    .replace(/-/g, ' ')
-    .trim();
-  return PARTY_NAME_MAP[normalized] || normalized;
-};
-
-// Pomocná funkce pro získání barvy strany
-const getPartyColor = (partyId) => {
-  const name = formatPartyName(partyId);
-  return PARTY_COLORS[name] || DEFAULT_PARTY_COLOR;
+  const normalized = partyId.replace(/CSL/g, 'ČSL').replace(/CSSD/g, 'ČSSD').replace(/-/g, ' ').trim();
+  const mapping = {
+    'kdu csl': 'KDU-ČSL',
+    'ods': 'ODS',
+    'ms': 'Motoristé',
+    'cssd': 'ČSSD',
+    'nezaraz': 'Nezařazení',
+    'spd': 'SPD',
+    'top09': 'TOP 09',
+    'stan': 'STAN',
+    'pirati': 'Piráti',
+    'ano': 'ANO',
+    'kscm': 'KSČM',
+    'usvit': 'Úsvit',
+    'top09 s': 'TOP 09-STAN',
+    'vv': 'VV',
+    'sz': 'Zelení',
+    'nez sz': 'Nezařazení (SZ)',
+    'us deu': 'US-DEU',
+    'us': 'US',
+    'spr rsc': 'SPR-RSČ',
+    'oda': 'ODA'
+  };
+  return mapping[normalized.toLowerCase()] || normalized.toUpperCase();
 };
 
 export default function MpDetail() {
@@ -123,76 +111,6 @@ export default function MpDetail() {
   if (loading) return <div className="loader-container"><div className="loader">Načítám detail poslance...</div></div>;
   if (!mpData) return <div className="error-state"><h3>Poslanec nenalezen.</h3><p>ID: {mpId}</p></div>;
 
-  // Memoizace zpracovaných dat pro časovou osu
-  const timelineData = useMemo(() => {
-    if (!mpData || !mpData.party_timeline || !mpData.mandate_periods) return [];
-
-    // Kombinujeme party_timeline a mandate_periods
-    // Nejprve zpracujeme party_timeline
-    let timelineEvents = [...mpData.party_timeline].map(t => ({
-      type: 'party',
-      party_id: t.party_id,
-      from: t.from,
-      to: t.to || '2026-05-02' // Použijeme aktuální datum jako "dosud"
-    }));
-
-    // Pak přidáme mandate_periods jako události
-    const mandateEvents = mpData.mandate_periods.map(m => ({
-      type: 'mandate',
-      term_id: m.term_id,
-      from: m.from,
-      to: m.to || '2026-05-02'
-    }));
-
-    timelineEvents = [...timelineEvents, ...mandateEvents];
-
-    // Seřadíme všechny události podle data 'from'
-    timelineEvents.sort((a, b) => new Date(a.from) - new Date(b.from));
-
-    // Zjednodušíme data v rámci stejného term_id a party_id, pokud se překrývají nebo jdou bezprostředně za sebou
-    const simplifiedTimeline = [];
-    timelineEvents.forEach(event => {
-      const lastEvent = simplifiedTimeline[simplifiedTimeline.length - 1];
-      if (lastEvent &&
-          lastEvent.type === event.type &&
-          lastEvent.party_id === event.party_id && // Pro party
-          lastEvent.term_id === event.term_id && // Pro mandate
-          new Date(lastEvent.to) >= new Date(event.from)) {
-        // Sloučíme - prodloužíme 'to' poslední události
-        lastEvent.to = event.to > lastEvent.to ? event.to : lastEvent.to;
-      } else {
-        simplifiedTimeline.push({...event});
-      }
-    });
-
-    // Nyní seskupíme podle typu a v rámci typu podle party_id/term_id a přidáme úroveň (level)
-    const grouped = { party: [], mandate: [] };
-    simplifiedTimeline.forEach(event => {
-        const key = event.type === 'party' ? event.party_id : event.term_id;
-        if (!grouped[event.type][key]) {
-            grouped[event.type][key] = [];
-        }
-        grouped[event.type][key].push(event);
-    });
-
-    // Přiřadíme úroveň (level) každé události v rámci její skupiny
-    const finalTimeline = [];
-    Object.keys(grouped).forEach(type => {
-        Object.keys(grouped[type]).forEach(key => {
-            const eventsForGroup = grouped[type][key];
-            eventsForGroup.forEach((event, index) => {
-                finalTimeline.push({
-                    ...event,
-                    level: index // Každá změna ve skupině dostane vyšší level
-                });
-            });
-        });
-    });
-
-    // Seřadíme finálně podle data 'from'
-    return finalTimeline.sort((a, b) => new Date(a.from) - new Date(b.from));
-  }, [mpData]);
-
   const prepareMonthlyAttendance = () => {
     if (!votesData || !votingsIndexMap) return [];
     const termVotes = votesData.terms[selectedTerm] || [];
@@ -226,6 +144,123 @@ export default function MpDetail() {
     }));
   };
 
+  // --- NOVÁ LOGIKA PRO ČASOVOU OSU ---
+  const prepareTimelineData = () => {
+    if (!mpData || !mpData.mandate_periods || !mpData.party_timeline) return [];
+
+    // 1. Získání všech unikátních term_id z mandate_periods a party_timeline
+    const allTerms = new Set();
+    mpData.mandate_periods.forEach(m => allTerms.add(m.term_id));
+    mpData.party_timeline.forEach(p => allTerms.add(p.term_id));
+    const sortedTerms = Array.from(allTerms).sort(); // Seřazení podle ID (předpokládáme formát YYYY-YYYY)
+
+    // 2. Zpracování mandate_periods
+    const mandates = mpData.mandate_periods.map(m => ({
+      type: 'mandate',
+      term_id: m.term_id,
+      from: m.from,
+      to: m.to || 'dosud',
+      party: null // Mandát sám o sobě nemá stranu
+    }));
+
+    // 3. Zpracování party_timeline a spojení opakujících se stran v rámci jednoho term_id
+    const processedParties = [];
+    const partyTimeline = [...mpData.party_timeline].sort((a, b) => a.from.localeCompare(b.from)); // Seřazení podle data
+
+    let currentTerm = null;
+    let currentParty = null;
+    let currentFrom = null;
+    let currentTo = null;
+
+    partyTimeline.forEach(pt => {
+      const termId = pt.term_id;
+      const partyId = pt.party_id || 'nezaraz'; // Předpokládáme 'nezaraz' pro nezařazené
+
+      if (termId === currentTerm && partyId === currentParty) {
+        // Pokračujeme ve stejném období a stejné straně, aktualizujeme 'to'
+        currentTo = pt.to || 'dosud';
+      } else {
+        // Ukončili jsme předchozí úsek (pokud existoval)
+        if (currentTerm !== null) {
+          processedParties.push({
+            type: 'party',
+            term_id: currentTerm,
+            from: currentFrom,
+            to: currentTo,
+            party: currentParty
+          });
+        }
+        // Začínáme nový úsek
+        currentTerm = termId;
+        currentParty = partyId;
+        currentFrom = pt.from;
+        currentTo = pt.to || 'dosud';
+      }
+    });
+
+    // Nezapomeňte na poslední úsek
+    if (currentTerm !== null) {
+      processedParties.push({
+        type: 'party',
+        term_id: currentTerm,
+        from: currentFrom,
+        to: currentTo,
+        party: currentParty
+      });
+    }
+
+    // 4. Spojení mandate a party dat a seřazení podle data
+    const allEvents = [...mandates, ...processedParties];
+    allEvents.sort((a, b) => {
+      // Nejprve podle term_id
+      if (a.term_id < b.term_id) return -1;
+      if (a.term_id > b.term_id) return 1;
+      // Pak podle data od
+      if (a.from < b.from) return -1;
+      if (a.from > b.from) return 1;
+      // Nakonec party před mandate, pokud jsou ve stejném čase
+      if (a.type === 'party' && b.type === 'mandate') return -1;
+      return 1;
+    });
+
+    // 5. Určení vertikálních úrovní
+    const timelineData = [];
+    const levels = {}; // { term_id: [ { from: '', to: '', party: '', type: '' }, ... ] }
+
+    allEvents.forEach(event => {
+      const termId = event.term_id;
+      if (!levels[termId]) {
+        levels[termId] = [];
+      }
+
+      // Najdi první volnou úroveň pro tento term_id a časový úsek
+      let levelIndex = 0;
+      while (levels[termId][levelIndex]) {
+        const existingEvent = levels[termId][levelIndex];
+        // Pokud se překrývají, přeskoč na další úroveň
+        if (!(event.to < existingEvent.from || event.from > existingEvent.to.replace('dosud', '9999'))) {
+          levelIndex++;
+        } else {
+          break;
+        }
+      }
+
+      // Přiřaď úroveň a přidej do dat
+      const itemWithLevel = { ...event, level: levelIndex };
+      levels[termId][levelIndex] = { from: event.from, to: event.to };
+      timelineData.push(itemWithLevel);
+    });
+
+    // 6. Přidání informací o termínu pro osu (pouze pro zobrazení)
+    const timelineWithTerms = timelineData.map(item => ({
+      ...item,
+      termLabel: item.term_id
+    }));
+
+    return timelineWithTerms;
+  };
+
+  const timelineData = prepareTimelineData();
   const monthlyData = prepareMonthlyAttendance();
   const pieData = prepareVotePie();
 
@@ -246,115 +281,20 @@ export default function MpDetail() {
     return null;
   };
 
-  // Vlastní legenda pro Recharts - používá globální styly a barvy
-  const CustomizedLegend = (props) => {
-    const { payload } = props;
-    return (
-      <ul className="custom-legend">
-        {payload.map((entry, index) => (
-          <li key={`item-${index}`} className="legend-item">
-            <span className="legend-color" style={{ backgroundColor: entry.color }}></span>
-            <span className="legend-label">{entry.value}</span>
-          </li>
-        ))}
-      </ul>
-    );
-  };
-
-  // Vykreslení časové osy
-  const renderTimeline = () => {
-    if (!timelineData || timelineData.length === 0) {
-      return <div className="timeline-empty">Není dostupná žádná historická data.</div>;
-    }
-
-    // Určíme minimální a maximální datum pro škálování osy
-    const dates = timelineData.flatMap(event => [new Date(event.from), new Date(event.to)]);
-    const minDate = new Date(Math.min(...dates));
-    const maxDate = new Date(Math.max(...dates));
-    const totalMonths = (maxDate.getFullYear() - minDate.getFullYear()) * 12 + (maxDate.getMonth() - minDate.getMonth());
-
-    // Určíme počet unikátních úrovní (levels) pro vertikální řazení
-    const maxLevel = Math.max(...timelineData.map(e => e.level), 0);
-
-    return (
-      <div className="timeline-container">
-        <div className="timeline-track vertical">
-          {/* Vykreslení hlaviček pro období a roky */}
-          <div className="timeline-header">
-            <div className="timeline-periods">
-              {/* Tady by mohl být dynamický seznam období, zatím pevně daný */}
-              {/* Například extrahujeme všechna unikátní období z timelineData */}
-              {Array.from(new Set(timelineData.filter(e => e.type === 'mandate').map(e => e.term_id))).sort().map(term => (
-                <span key={term} className="timeline-period-label">{term}</span>
-              ))}
-            </div>
-            <div className="timeline-years">
-              {/* Dynamicky vygenerujeme roky mezi min a max datem */}
-              {Array.from({ length: maxDate.getFullYear() - minDate.getFullYear() + 1 }, (_, i) => minDate.getFullYear() + i).map(year => (
-                <span key={year} className="timeline-year-label">{year}</span>
-              ))}
-            </div>
-          </div>
-
-          {/* Vykreslení událostí */}
-          {timelineData.map((event, index) => {
-            const startDate = new Date(event.from);
-            const endDate = new Date(event.to);
-            const startMonthOffset = (startDate.getFullYear() - minDate.getFullYear()) * 12 + (startDate.getMonth() - minDate.getMonth());
-            const durationMonths = (endDate.getFullYear() - startDate.getFullYear()) * 12 + (endDate.getMonth() - startDate.getMonth()) + 1; // +1 pro inkluzivní konec
-
-            const leftPercent = (startMonthOffset / totalMonths) * 100;
-            const widthPercent = (durationMonths / totalMonths) * 100;
-            const topPercent = (event.level / (maxLevel + 1)) * 100; // +1 aby nebyl 0 při jedné úrovni
-
-            return (
-              <div
-                key={index}
-                className={`timeline-item ${event.type === 'party' ? 'timeline-party-item' : 'timeline-mandate-item'}`}
-                style={{
-                  left: `${leftPercent}%`,
-                  width: `${widthPercent}%`,
-                  top: `${topPercent}%`,
-                  height: '20px', // Pevná výška pro každý segment
-                  position: 'absolute',
-                  backgroundColor: event.type === 'party' ? getPartyColor(event.party_id) : 'var(--text-muted)',
-                  borderRadius: '4px',
-                  border: '1px solid var(--bg-primary)', // Ohraničení pro lepší odlišení
-                  zIndex: 10,
-                  display: 'flex',
-                  alignItems: 'center',
-                  justifyContent: 'center',
-                  fontSize: '0.7rem',
-                  fontWeight: 500,
-                  color: 'white', // Bílý text pro lepší čitelnost
-                  textAlign: 'center',
-                  overflow: 'hidden',
-                  textOverflow: 'ellipsis',
-                  whiteSpace: 'nowrap',
-                }}
-              >
-                {event.type === 'party' ? formatPartyName(event.party_id) : event.term_id}
-              </div>
-            );
-          })}
-        </div>
-      </div>
-    );
-  };
-
-
   return (
     <div className="app-container">
       <Link to={`/poslanci?term=${selectedTerm}`} className="back-link">&larr; zpět na žebříček</Link>
       
-      <h1 className="mp-detail-title">{mpData.name}</h1>
+      <h1 className="mp-detail-title">{mpData.name}</h1> {/* H1 je v globálním stylu */}
 
+      {/* NOVÝ BLOK PRO ČASOVOU OSU */}
       <div className="card mp-info-card">
-        <div className="mp-info-section">
-          <h3>Historie Mandátů a Stranické Příslušnosti</h3>
-          {renderTimeline()}
+        <div className="panel-header"> {/* Používáme existující styl z global.css */}
+          <h3>Historie mandátu a stranické příslušnosti</h3>
         </div>
+        <TimelineTrack data={timelineData} />
       </div>
+      {/* KONEC NOVÉHO BLOKU */}
 
       {termStats && (
         <div className="card mp-stats-card">
@@ -393,7 +333,7 @@ export default function MpDetail() {
       {monthlyData.length > 0 && (
         <div className="card chart-card">
           <div className="panel-header">
-            <h3>Vývoj Účasti</h3>
+            <h3>Vývoj účasti</h3>
           </div>
           <div className="chart-wrapper">
             <ResponsiveContainer width="100%" height={300}>
@@ -411,7 +351,7 @@ export default function MpDetail() {
       {pieData.length > 0 && (
         <div className="card chart-card">
           <div className="panel-header">
-            <h3>Rozložení Hlasů</h3>
+            <h3>Rozložení hlasů</h3>
           </div>
           <div className="chart-wrapper">
             <ResponsiveContainer width="100%" height={300}>
@@ -420,7 +360,7 @@ export default function MpDetail() {
                   {pieData.map((entry, index) => <Cell key={`pie-${index}`} fill={entry.color} />)}
                 </Pie>
                 <Tooltip content={<CustomizedTooltip />} />
-                <Legend content={CustomizedLegend} />
+                <Legend content={<CustomizedLegend />} />
               </PieChart>
             </ResponsiveContainer>
           </div>
@@ -429,3 +369,140 @@ export default function MpDetail() {
     </div>
   );
 }
+
+// NOVÁ KOMPONENTA PRO ČASOVOU OSU
+const TimelineTrack = ({ data }) => {
+  if (!data || data.length === 0) {
+    return <div className="timeline-empty">Nenalezena žádná historická data.</div>;
+  }
+
+  // Získání unikátních term_id pro horní osu a letopočtů pro spodní osu
+  const terms = [...new Set(data.map(d => d.termLabel))].sort();
+  const yearsSet = new Set();
+  data.forEach(d => {
+    const startYear = d.from.split('-')[0];
+    const endYear = (d.to === 'dosud' ? new Date().getFullYear().toString() : d.to.split('-')[0]);
+    for (let y = parseInt(startYear); y <= parseInt(endYear); y++) {
+      yearsSet.add(y.toString());
+    }
+  });
+  const years = Array.from(yearsSet).sort();
+
+  // Výpočet šířky pro každý rok (přibližně)
+  const yearWidth = 40; // Např. 40px na rok
+  const totalWidth = years.length * yearWidth;
+
+  // Pomocná funkce pro převod data na pozici (v procentech relativně k celkové šířce)
+  const getDatePosition = (dateStr) => {
+    const year = dateStr.split('-')[0];
+    const yearIndex = years.indexOf(year);
+    if (yearIndex === -1) return 0; // Nebo vhodná chyba
+    return (yearIndex * yearWidth / totalWidth) * 100;
+  };
+
+  // Pomocná funkce pro výpočet délky segmentu
+  const getSegmentWidth = (from, to) => {
+    const fromYear = from.split('-')[0];
+    const toYear = (to === 'dosud' ? new Date().getFullYear().toString() : to.split('-')[0]);
+    const fromIndex = years.indexOf(fromYear);
+    const toIndex = years.indexOf(toYear);
+
+    if (fromIndex === -1 || toIndex === -1) return 0;
+    return ((toIndex - fromIndex + 1) * yearWidth / totalWidth) * 100;
+  };
+
+  // Seskupení dat podle term_id a úrovně pro vykreslení oddělených řádků
+  const groupedData = data.reduce((acc, item) => {
+    const key = `${item.term_id}_${item.level}`;
+    if (!acc[key]) acc[key] = [];
+    acc[key].push(item);
+    return acc;
+  }, {});
+
+  return (
+    <div className="timeline-container">
+      {/* Horní osa - Volební období */}
+      <div className="timeline-term-axis" style={{ width: `${totalWidth}px` }}>
+        {terms.map(term => (
+          <div key={term} className="axis-label-term" style={{ minWidth: `${(years.length / terms.length) * yearWidth}px` }}>
+            {term}
+          </div>
+        ))}
+      </div>
+
+      {/* Samotná časová osa s položkami */}
+      <div className="timeline-track vertical" style={{ width: `${totalWidth}px` }}>
+        {Object.entries(groupedData).map(([key, items]) => {
+          const [termId, level] = key.split('_');
+          const topOffset = (parseInt(level) * 60) + 20; // Přibližný offset pro každý řádek (60px výška + 20px mezeru)
+
+          return (
+            <div key={key} className="timeline-level" style={{ marginTop: `${topOffset}px` }}>
+              {items.map((item, idx) => {
+                const left = getDatePosition(item.from);
+                const width = getSegmentWidth(item.from, item.to);
+                const isMandate = item.type === 'mandate';
+                const partyName = isMandate ? 'Mandát' : formatPartyName(item.party);
+                const bgColor = isMandate ? 'var(--surface-2)' : (PARTY_COLORS[formatPartyName(item.party)] || DEFAULT_PARTY_COLOR);
+
+                return (
+                  <div
+                    key={`${item.term_id}-${item.from}-${item.party}-${idx}`}
+                    className="timeline-item"
+                    style={{
+                      position: 'absolute',
+                      left: `${left}%`,
+                      width: `${width}%`,
+                      height: '40px',
+                      backgroundColor: bgColor,
+                      border: `1px solid ${isMandate ? 'var(--border-color)' : 'transparent'}`,
+                      borderRadius: 'var(--radius-xs)',
+                      display: 'flex',
+                      alignItems: 'center',
+                      justifyContent: 'center',
+                      fontSize: '0.75rem',
+                      fontWeight: '500',
+                      color: 'var(--text-primary)',
+                      zIndex: 10,
+                      overflow: 'hidden',
+                      textOverflow: 'ellipsis',
+                      whiteSpace: 'nowrap',
+                      cursor: 'default' // Nepoužíváme interakci
+                    }}
+                    title={`${partyName}: ${item.from} – ${item.to}`} // Tooltip při najetí
+                  >
+                    {partyName}
+                  </div>
+                );
+              })}
+            </div>
+          );
+        })}
+      </div>
+
+      {/* Spodní osa - Roky */}
+      <div className="timeline-year-axis" style={{ width: `${totalWidth}px` }}>
+        {years.map(year => (
+          <div key={year} className="axis-label-year" style={{ minWidth: `${yearWidth}px` }}>
+            {year}
+          </div>
+        ))}
+      </div>
+    </div>
+  );
+};
+
+// Vlastní legenda pro Recharts - používá globální styly a barvy
+const CustomizedLegend = (props) => {
+  const { payload } = props;
+  return (
+    <ul className="custom-legend">
+      {payload.map((entry, index) => (
+        <li key={`item-${index}`} className="legend-item">
+          <span className="legend-color" style={{ backgroundColor: entry.color }}></span>
+          <span className="legend-label">{entry.value}</span>
+        </li>
+      ))}
+    </ul>
+  );
+};
