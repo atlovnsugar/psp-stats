@@ -1394,124 +1394,217 @@ select option:checked { /* V některých prohlížečích lze stylovat */
 
 /* --- Přidané/aktualizované sekce pro MpDetail a Timeline --- */
 
-/* ... ostatní styly ... */
+/* Titulek stránky */
+.mp-detail-title {
+  /* Může být stejné jako h1.card h1 */
+  font-size: 2rem;
+  margin-top: 8px;
+  margin-bottom: 16px;
+  /* Zbytek stylu z globálního h1 */
+}
 
-/* Timeline */
+/* Karta se statistikami */
+.mp-stats-card {
+  /* Používáme základní styly pro .card z globálního souboru */
+}
+
+.mp-stats-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); /* Automatické přizpůsobení počtu sloupců */
+  gap: 12px; /* Mezera mezi položkami */
+  align-items: center; /* Vertikálně zarovná položky */
+}
+
+.mp-stat-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 0;
+  border-bottom: 1px solid var(--border-color); /* Oddělovač mezi položkami */
+}
+
+.mp-stat-item:last-child {
+  border-bottom: none; /* Odebereme oddělovač u poslední položky */
+}
+
+.stat-label {
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+}
+
+.stat-value {
+  font-size: 1rem;
+  font-weight: 500;
+  color: var(--text-primary);
+  /* Barvy rozdílů budou řízeny pomocí dalších tříd */
+}
+
+.positive-diff {
+  color: var(--vote-yes); /* Barva pro kladný rozdíl */
+}
+
+.negative-diff {
+  color: var(--vote-no); /* Barva pro záporný rozdíl */
+}
+
+/* Styly pro karty s grafy */
+.chart-card {
+  /* .card už má základní styly z globálního souboru */
+  /* Můžeme přidat specifické vlastnosti */
+  display: flex;
+  flex-direction: column; /* Sloupec pro hlavičku a obsah */
+}
+
+.chart-wrapper {
+  flex: 1; /* Graf zabere dostupný prostor */
+  min-height: 300px; /* Zajistí minimální výšku */
+  /* Můžeš přidat padding nebo jiné styly, pokud je potřeba */
+}
+
+/* Zajistí, že ResponsiveContainer funguje správně */
+.recharts-responsive-container {
+  width: 100% !important; /* Přepíše potenciální pevné šířky */
+  height: 100% !important; /* Přepíše potenciální pevné výšky */
+}
+
+/* Styl pro vlastní tooltip Recharts */
+.custom-tooltip {
+  background: var(--bg-secondary); /* Použijeme tmavší barvu z globálního stylu */
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-xs);
+  padding: 8px 12px;
+  box-shadow: var(--shadow); /* Použijeme globální stín */
+  color: var(--text-primary); /* Barva textu */
+  font-size: 0.85rem;
+  font-family: var(--font-main); /* Použijeme globální font */
+  pointer-events: none; /* Tooltip sám o sobě neblokuje interakce */
+}
+
+.tooltip-label {
+  font-weight: 600;
+  margin-bottom: 4px;
+  color: var(--text-secondary);
+}
+
+.tooltip-item {
+  margin: 2px 0;
+  /* Barva se nastavuje přes inline style=color v JSX */
+}
+
+/* Styl pro vlastní legendu Recharts */
+.custom-legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  justify-content: center;
+  padding: 0;
+  margin: 12px 0 0 0;
+  list-style: none;
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.8rem;
+  color: var(--text-secondary);
+}
+
+.legend-color {
+  width: 10px;
+  height: 10px;
+  border-radius: 2px;
+  /* Barva se nastavuje přes inline style=backgroundColor v JSX */
+}
+
+.legend-label {
+  /* Font a barva jsou výše v .legend-item */
+}
+
+/* --- Timeline Track Styling --- */
 .timeline-container {
- min-height: 200px;
- max-height: 500px;
- overflow-y: auto;
- overflow-x: hidden;
- position: relative;
- padding-right: 12px; /* Místo pro scrollbar */
+  min-height: 100px; /* Minimální výška kontejneru */
+  max-height: 300px; /* Maximální výška, umožní scroll */
+  overflow-y: auto; /* Vertikální scroll, pokud je potřeba */
+  overflow-x: hidden; /* Horizontální scroll by neměl být potřeba */
+  position: relative;
+  padding: 10px 0; /* Malý vnitřní odstup */
+  /* background: var(--bg-secondary); */ /* Volitelně pozadí */
 }
 
-.timeline-empty {
- text-align: center;
- color: var(--text-muted);
- padding: 40px 20px;
+.timeline-track.horizontal {
+  position: relative;
+  width: 100%;
+  min-width: fit-content; /* Umožní šířce narůstat podle obsahu (osy) */
+  padding: 10px 0; /* Odstupy nad a pod osou */
 }
 
-.timeline-track.vertical {
- position: relative;
- padding-left: 24px; /* Místo pro tečky */
+.timeline-axis-bottom,
+.timeline-axis-top {
+  display: flex;
+  width: 100%;
+  justify-content: space-between; /* Rovnoměrné rozložení popisků */
+  font-size: 0.75rem; /* Menší písmo pro popisky */
+  color: var(--text-muted);
+  margin-bottom: 5px; /* Odstup od osy */
+  padding: 0 2px; /* Malý odstup od kraje */
 }
 
-.timeline-track.vertical::before {
- content: '';
- position: absolute;
- left: 8px; /* Poloha čáry */
- top: 0;
- bottom: 0;
- width: 2px;
- background: var(--border-color); /* Barva čáry */
+.timeline-axis-top {
+  margin-bottom: 10px; /* Větší odstup pro horní popisky */
+  margin-top: -5px; /* Přibližuje k ose */
 }
 
-.timeline-item {
- position: relative;
- padding-left: 24px; /* Odsazení obsahu od čáry */
- padding-bottom: 16px; /* Odstup mezi položkami */
- display: flex;
- align-items: flex-start; /* Zarovnání obsahu k hornímu okraji */
- gap: 12px; /* Mezera mezi tečkou a obsahem */
- cursor: pointer; /* Možná interaktivita v budoucnu */
- transition: var(--transition); /* Plynulý přechod */
+.timeline-axis-label-bottom,
+.timeline-axis-label-top {
+  flex: 1; /* Každý popisek zabírá stejný prostor */
+  text-align: center;
+  white-space: nowrap; /* Nedělit text na více řádků */
+  overflow: hidden; /* Skrýt přebytečný text */
+  text-overflow: ellipsis; /* Zobrazit ... pokud nevejde */
 }
 
-.timeline-item:hover {
- transform: translateX(4px); /* Malý efekt při najetí */
+.timeline-line {
+  position: relative;
+  height: 20px;
+  background: var(--surface-2); /* Tmavší barva pro pozadí osy */
+  border-radius: 10px;
+  overflow: hidden; /* Zajistí, že segmenty nebudou přetékat */
+  margin: 0 2px; /* Malý odstup od kraje */
 }
 
-.timeline-dot {
- position: absolute;
- left: -1px; /* Zarovnání tečky ke středu čáry */
- width: 18px;
- height: 18px;
- border-radius: 50%;
- border: 3px solid var(--bg-secondary); /* Ohraničení tečky */
- background: var(--surface-3); /* Výchozí barva tečky */
- flex-shrink: 0; /* Tečka se nesmí zmenšovat */
- transition: var(--transition); /* Plynulý přechod barvy */
+.timeline-segment {
+  position: absolute;
+  height: 100%;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 30px; /* Zajistí viditelnost i krátkých segmentů */
+  transition: opacity 0.2s ease; /* Plynulý přechod pro hover */
 }
 
-/* Příklady barev pro různé typy událostí (můžeš upravit podle potřeby) */
-/* timeline-dot nemá přímé třídy pro vote-yes/no/abstain v tomto případě, ale můžeš je přidat */
-/* .timeline-dot.vote-yes { background: var(--vote-yes); } */
-/* .timeline-dot.vote-no { background: var(--vote-no); } */
-/* .timeline-dot.vote-abstain { background: var(--vote-abstain); } */
-
-.timeline-item-content {
- flex: 1; /* Položka zabere zbývající prostor */
- display: flex;
- justify-content: space-between; /* Obsah na kraje */
- align-items: center; /* Vertikální zarovnání */
- gap: 12px; /* Mezera mezi levou a pravou částí */
+.timeline-segment:hover {
+  opacity: 1 !important; /* Zvýraznění při najetí */
+  z-index: 10; /* Zajistí, že hover bude nad ostatními */
+  box-shadow: 0 0 8px rgba(255, 255, 255, 0.2); /* Jemný stín */
 }
 
-.timeline-item-left {
- display: flex;
- flex-direction: column; /* Sloupec pro datum a relaci */
- gap: 2px; /* Malá mezera mezi nimi */
+.segment-label {
+  font-size: 0.7rem;
+  font-weight: 600;
+  color: white; /* Bílý text pro lepší kontrast */
+  text-align: center;
+  padding: 0 4px; /* Malý vnitřní odstup */
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.5); /* Stín pro lepší čitelnost */
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 100%;
 }
 
-.timeline-date {
- font-weight: 500;
- font-size: 0.95rem;
- color: var(--text-primary); /* Barva data */
-}
+/* --- End of Timeline Styles --- */
 
-.timeline-session {
- font-size: 0.85rem;
- color: var(--text-secondary); /* Barva popisku relace/strany */
-}
-
-.timeline-item-right {
- flex-shrink: 0; /* Pravá část se nesmí zmenšovat */
- margin-right: 4px; /* Malý okraj */
-}
-
-.timeline-badge {
- padding: 4px 10px;
- border-radius: 20px;
- font-size: 0.8rem;
- font-weight: 600;
-}
-
-.timeline-badge.vote-yes {
- background: rgba(16, 185, 129, 0.15); /* var(--vote-yes) s neprůhledností */
- color: var(--vote-yes);
-}
-
-.timeline-badge.vote-no {
- background: rgba(239, 68, 68, 0.15); /* var(--vote-no) s neprůhledností */
- color: var(--vote-no);
-}
-
-.timeline-badge.vote-abstain {
- background: rgba(245, 158, 11, 0.15); /* var(--vote-abstain) s neprůhledností */
- color: var(--vote-abstain);
-}
-
-/* --- Konec sekce pro Timeline --- */
+/* --- End of MpDetail Styles --- */
 
 /* ... zbytek obsahu global.css ... */
