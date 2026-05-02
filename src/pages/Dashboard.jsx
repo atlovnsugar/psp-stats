@@ -338,62 +338,121 @@ export default function Dashboard() {
       {/* Party comparison a Leaderboard vedle sebe */}
       <div className="stats-grid dashboard-grid relative z-10"> {/* Používáme existující grid styl z global.css */}
         {/* Party comparison */}
+{/* Party comparison */}
         <section className="party-section">
           <div className="card h-full">
-            <div className="panel-header"> {/* Používáme existující styl z global.css */}
+            <div className="panel-header"> 
               <h2>Účast podle stran</h2>
-              <span className="text-muted">
-                {partyStats.length} {partyStats.length === 1 ? 'strana' : 'strany'}
-              </span>
+              {/* Obalíme span s počtem stran do podmínky, abychom zamezili chybám, než se data načtou */}
+              {!partyLoading && (
+                <span className="text-muted">
+                  {/* Počet unikátních stran spočítáme až po normalizaci a sloučení (viz níže) */}
+                </span>
+              )}
             </div>
 
             {partyLoading ? (
-              <div className="chart-container skeleton-chart"></div> // Použijeme existující styl pro skeleton
+              <div className="chart-container skeleton-chart"></div> 
             ) : partyStats.length > 0 ? (
-              <div className="chart-container">
-                <ResponsiveContainer width="100%" height="100%">
-                  <BarChart
-                    data={partyStats.map(p => ({
-                      name: formatPartyName(p.party_id),
-                      prumernaUcast: p.avg_attendance,
-                      celkovaUcast: p.total_eligible_votes ?
-                        ((p.total_attended / p.total_eligible_votes) * 100).toFixed(1) : 0
-                    }))}
-                    margin={{ top: 5, right: 0, left: -15, bottom: 5 }}
-                  >
-                    <XAxis
-                      dataKey="name"
-                      stroke="var(--text-secondary)"
-                      fontSize={12}
-                      interval={0}
-                      tickLine={false}
-                    />
-                    <YAxis
-                      unit="%"
-                      stroke="var(--text-secondary)"
-                      fontSize={12}
-                      domain={[0, 100]}
-                      tickFormatter={(value) => `${value}%`}
-                    />
-                    <Tooltip
-                      content={<CustomizedTooltip />} // Použijeme vlastní tooltip komponentu
-                      // Odebíráme původní formatter, labelStyle, contentStyle, protože je to nyní řízeno v CustomizedTooltip a CSS
-                    />
-                    <Bar
-                      dataKey="prumernaUcast"
-                      radius={[4, 4, 0, 0]}
-                      isAnimationActive={false}
-                    >
-                      {partyStats.map((entry, index) => (
-                        <Cell
-                          key={`cell-${index}`}
-                          fill={getPartyColor(entry.party_id)}
-                        />
-                      ))}
-                    </Bar>
-                  </BarChart>
-                </ResponsiveContainer>
-              </div>
+              (() => {
+                // 1. Normalizace a sloučení dat stran
+                const groupedPartyStats = {};
+                
+                partyStats.forEach(p => {
+                  const normalizedName = formatPartyName(p.party_id);
+                  
+                  if (!groupedPartyStats[normalizedName]) {
+                    // Inicializace nové skupiny (strany)
+                    groupedPartyStats[normalizedName] = {
+                      name: normalizedName,
+                      original_party_ids: [p.party_id], // Jen pro přehled
+                      total_attended: p.total_attended || 0,
+                      total_eligible_votes: p.total_eligible_votes || 0,
+                      // Pokud má záznam 'avg_attendance', uložíme ho pro případ, že chybí absolutní čísla
+                      fallback_avg: p.avg_attendance || 0,
+                      count: 1
+                    };
+                  } else {
+                    // Přičtení hodnot k existující skupině
+                    groupedPartyStats[normalizedName].total_attended += (p.total_attended || 0);
+                    groupedPartyStats[normalizedName].total_eligible_votes += (p.total_eligible_votes || 0);
+                    groupedPartyStats[normalizedName].fallback_avg += (p.avg_attendance || 0);
+                    groupedPartyStats[normalizedName].count += 1;
+                    groupedPartyStats[normalizedName].original_party_ids.push(p.party_id);
+                  }
+                });
+
+                // 2. Převod sloučeného objektu zpět na pole a výpočet finálních průměrů
+                const mergedChartData = Object.values(groupedPartyStats).map(group => {
+                  let finalAvg = 0;
+                  // Pokud máme k dispozici absolutní čísla hlasů, spočítáme přesný vážený průměr
+                  if (group.total_eligible_votes > 0) {
+                    finalAvg = (group.total_attended / group.total_eligible_votes) * 100;
+                  } else {
+                    // Pokud absolutní čísla chybí (fallback), uděláme prostý průměr procent (méně přesné, ale bezpečné)
+                    finalAvg = group.fallback_avg / group.count;
+                  }
+                  
+                  return {
+                    name: group.name,
+                    prumernaUcast: finalAvg,
+                    // Zachováváme pro zpětnou kompatibilitu, pokud by to někde bylo potřeba
+                    celkovaUcast: finalAvg.toFixed(1) 
+                  };
+                });
+
+                // 3. Vykreslení grafu s čistými daty
+                return (
+                  <>
+                    <div className="text-right text-muted text-sm mb-2 mt-[-20px]">
+                      {mergedChartData.length} {mergedChartData.length === 1 ? 'strana' : 'strany'}
+                    </div>
+                    <div className="chart-container">
+                      <ResponsiveContainer width="100%" height="100%">
+                        <BarChart
+                          data={mergedChartData}
+                          margin={{ top: 5, right: 0, left: -15, bottom: 5 }}
+                        >
+                          <XAxis
+                            dataKey="name"
+                            stroke="var(--text-secondary)"
+                            fontSize={12}
+                            interval={0}
+                            tickLine={false}
+                          />
+                          <YAxis
+                            unit="%"
+                            stroke="var(--text-secondary)"
+                            fontSize={12}
+                            domain={[0, 100]}
+                            tickFormatter={(value) => `${value}%`}
+                          />
+                          <Tooltip content={<CustomizedTooltip />} />
+                          <Bar
+                            dataKey="prumernaUcast"
+                            radius={[4, 4, 0, 0]}
+                            isAnimationActive={false}
+                          >
+                            {mergedChartData.map((entry, index) => {
+                              // Najdeme původní ID pro získání správné barvy
+                              // Vezmeme původní ID z první shody v našem setu
+                              const originalPartyMatch = partyStats.find(p => formatPartyName(p.party_id) === entry.name);
+                              const partyIdForColor = originalPartyMatch ? originalPartyMatch.party_id : entry.name;
+                              
+                              return (
+                                <Cell
+                                  key={`cell-${index}`}
+                                  fill={getPartyColor(partyIdForColor)}
+                                />
+                              );
+                            })}
+                          </Bar>
+                        </BarChart>
+                      </ResponsiveContainer>
+                    </div>
+                  </>
+                );
+              })()
             ) : (
               <div className="text-center py-8 text-muted">
                 <p>Žádná data o stranách pro toto období</p>
