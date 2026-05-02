@@ -256,13 +256,28 @@ export default function MpDetail() {
   );
 }
 
-// Komponenta pro časovou osu
+// Mapovací funkce pro názvy volebních období
+const formatTermName = (termId) => {
+  const termMap = {
+    '1992-1996': '1. volební období',
+    '1996-1998': '2. volební období',
+    '1998-2002': '3. volební období',
+    '2002-2006': '4. volební období',
+    '2006-2010': '5. volební období',
+    '2010-2013': '6. volební období',
+    '2013-2017': '7. volební období',
+    '2017-2021': '8. volební období',
+    '2021-2025': '9. volební období',
+    '2021-now': '9. volební období',
+  };
+  return termMap[termId] || termId;
+};
+
 // Komponenta pro časovou osu
 const TimelineTrack = ({ mpData }) => {
   const { mandate_periods, party_timeline } = mpData;
 
   // 1. Seřazení a sloučení bloků členství ve stranách
-  // Data si nejdříve chronologicky seřadíme
   const sortedParties = [...party_timeline].sort((a, b) => new Date(a.from) - new Date(b.from));
   const mergedParties = [];
 
@@ -271,17 +286,13 @@ const TimelineTrack = ({ mpData }) => {
       mergedParties.push({ ...currentParty });
       return;
     }
-
     const lastParty = mergedParties[mergedParties.length - 1];
 
-    // Pokud jde o stejnou stranu jdoucí po sobě, úseky sloučíme do jednoho bloku
     if (lastParty.party_id === currentParty.party_id) {
-      // Pokud předchozí blok nemá stanovený konec (null = trvá dosud), už pokrývá vše a nemusíme 'to' posouvat
       if (lastParty.to !== null) {
         if (currentParty.to === null) {
-          lastParty.to = null; // Pokud aktuální záznam trvá dosud, nastavíme to i pro sloučený blok
+          lastParty.to = null; 
         } else {
-          // Pokud obě data existují, vybereme to pozdější a posuneme konec spojeného bloku
           const lastEndDate = new Date(lastParty.to);
           const currentEndDate = new Date(currentParty.to);
           if (currentEndDate > lastEndDate) {
@@ -294,7 +305,6 @@ const TimelineTrack = ({ mpData }) => {
     }
   });
 
-  // 2. Vytvoření událostí pro timeline pouze ze sloučených stran
   const timelineEvents = mergedParties.map((entry) => ({
     type: 'party_change',
     party_id: entry.party_id,
@@ -304,8 +314,6 @@ const TimelineTrack = ({ mpData }) => {
     endDate: entry.to ? new Date(entry.to) : null,
   }));
 
-  // Zjistíme celkový časový rozsah - do hraničních dat nadále zahrnujeme i mandáty,
-  // aby časová osa vizuálně nepůsobila useknutě
   const allStartDates = [
     ...timelineEvents.map(e => e.startDate),
     ...mandate_periods.map(m => new Date(m.from))
@@ -319,13 +327,13 @@ const TimelineTrack = ({ mpData }) => {
   const validEndDates = allEndDates.filter(d => d !== null);
   const maxDate = new Date(Math.max(...validEndDates, ...allStartDates));
 
-  // Přidáme "dosud" jako aktuální datum, pokud je v datech nějaké "dosud"[cite: 1]
   const hasOpenEnded = allEndDates.some(e => e === null);
   if (hasOpenEnded) {
-    maxDate.setFullYear(maxDate.getFullYear() + 1); // Přidáme rok jako rezervu pro "dosud"[cite: 1]
+    maxDate.setFullYear(maxDate.getFullYear() + 1);
   }
 
-  // Generování roků pro osu X[cite: 1]
+  const totalDurationMs = maxDate - minDate;
+
   const years = [];
   for (let y = minDate.getFullYear(); y <= maxDate.getFullYear(); y++) {
     years.push(y);
@@ -334,20 +342,57 @@ const TimelineTrack = ({ mpData }) => {
   return (
     <div className="timeline-container">
       <div className="timeline-track horizontal">
-        {/* Popisky roků (spodní)[cite: 1] */}
-        <div className="timeline-axis-bottom">
-          {years.map(year => (
-            <span key={year} className="timeline-axis-label-bottom">{year}</span>
-          ))}
-        </div>
         
-        {/* Časová osa - nyní renderuje pouze sloučené bloky stran */}
+        {/* 1. Indikátory volebních období (nad osou) */}
+        <div className="timeline-terms-track" style={{ position: 'relative', height: '24px', marginBottom: '6px' }}>
+          {mandate_periods.map((period, index) => {
+            const startDate = new Date(period.from);
+            const endDate = period.to ? new Date(period.to) : new Date();
+            const durationMs = endDate - startDate;
+            
+            const startPercentage = ((startDate - minDate) / totalDurationMs) * 100;
+            const widthPercentage = (durationMs / totalDurationMs) * 100;
+
+            return (
+              <div
+                key={`term-${index}`}
+                style={{
+                  position: 'absolute',
+                  left: `${startPercentage}%`,
+                  width: `${widthPercentage}%`,
+                  height: '50px', // Protažení výšky tak, aby okraje (čáry) zasahovaly dolů přes barevnou osu
+                  borderLeft: '1px dashed var(--text-muted)', // Levé ohraničení období
+                  borderRight: period.to ? '1px dashed var(--text-muted)' : 'none', // Pravé ohraničení (pokud nekončí)
+                  display: 'flex',
+                  justifyContent: 'center',
+                  alignItems: 'flex-start',
+                  pointerEvents: 'none', // Propouští kliknutí na tooltip
+                  boxSizing: 'border-box'
+                }}
+              >
+                <span style={{ 
+                  fontSize: '0.75rem', 
+                  color: 'var(--text-secondary)', 
+                  fontWeight: '600',
+                  whiteSpace: 'nowrap',
+                  padding: '0 4px',
+                  backgroundColor: 'var(--bg-card)', // Zabrání prosvítání čar pod textem
+                  borderRadius: '4px',
+                  marginTop: '-4px'
+                }}>
+                  {formatTermName(period.term_id)}
+                </span>
+              </div>
+            );
+          })}
+        </div>
+
+        {/* 2. Časová osa (samotné grafické bloky členství) */}
         <div className="timeline-line">
           {timelineEvents.map((event, index) => {
             const isCurrent = event.endDate === null;
             const endDateForCalculation = isCurrent ? new Date() : event.endDate;
             const durationMs = endDateForCalculation - event.startDate;
-            const totalDurationMs = maxDate - minDate;
             const widthPercentage = (durationMs / totalDurationMs) * 100;
             const startPercentage = ((event.startDate - minDate) / totalDurationMs) * 100;
 
@@ -372,24 +417,17 @@ const TimelineTrack = ({ mpData }) => {
           })}
         </div>
         
-        {/* Popisky volebních období (horní) - necháváme z původního kódu jako kontext osy[cite: 1] */}
-        <div className="timeline-axis-top">
-          {years.map(year => {
-            const correspondingMandate = mandate_periods.find(m =>
-              year >= new Date(m.from).getFullYear() && (m.to ? year <= new Date(m.to).getFullYear() : true)
-            );
-            return (
-              <span key={year} className="timeline-axis-label-top">
-                {correspondingMandate ? correspondingMandate.term_id : ''}
-              </span>
-            );
-          })}
+        {/* 3. Popisky roků (spodní) */}
+        <div className="timeline-axis-bottom" style={{ marginTop: '8px' }}>
+          {years.map(year => (
+            <span key={year} className="timeline-axis-label-bottom">{year}</span>
+          ))}
         </div>
+
       </div>
     </div>
   );
 };
-
 
 // Vlastní legenda pro Recharts - používá globální styly a barvy
 const CustomizedLegend = (props) => {
