@@ -275,90 +275,100 @@ const formatTermName = (termId) => {
 
 // Komponenta pro časovou osu// Komponenta pro časovou osu
 // Komponenta pro časovou osu
+// Komponenta pro časovou osu
 const TimelineTrack = ({ mpData }) => {
   const { mandate_periods, party_timeline } = mpData;
 
-  // 0. Pomocná funkce pro normalizaci party_id, aby se "nezaraz" a "Nezařazení" braly jako stejná věc
+  // 0. Agresivní normalizace party_id, která chytí všechny varianty "Nezařazení"
   const getNormalizedPartyId = (partyId) => {
     if (!partyId) return 'Nezařazení';
+    
+    // Extrémně jednoduchá a silná normalizace pro Nezařazení
+    if (partyId.toLowerCase().includes('nezaraz') || partyId.toLowerCase().includes('nezař')) {
+      return 'Nezařazení';
+    }
+
+    // Pro zbytek stran (ODS, ČSSD atd.)
     const normalized = partyId
       .replace(/CSL/g, 'ČSL')
       .replace(/CSSD/g, 'ČSSD')
       .replace(/-/g, ' ')
-      .replace(/nezaraz/i, 'Nezařazení') 
-      .replace(/nezařaz/i, 'Nezařazení')
       .trim();
     
     return PARTY_NAME_MAP[normalized] || normalized;
   };
 
-  // 1. Předzpracování dat a sloučení PŘEKRÝVAJÍCÍCH SE intervalů PRO KAŽDOU STRANU ZVLÁŠŤ
+  // 1. Zploštění a hrubé seskupení: Všechny datumové intervaly převedeme na pole časů a seřadíme
   const normalizedParties = party_timeline.map(party => ({
-    ...party,
-    normalized_party_id: getNormalizedPartyId(party.party_id)
+    party_id: getNormalizedPartyId(party.party_id),
+    from: new Date(party.from).getTime(),
+    to: party.to ? new Date(party.to).getTime() : new Date('2099-12-31').getTime(), // "dosud" hodíme do daleké budoucnosti
+    originalFrom: party.from, // Uchováme si stringy pro tooltipy
+    originalTo: party.to
   }));
 
-  // Seskupíme záznamy podle normalizovaného ID
+  // Seskupíme podle názvu strany
   const partiesGrouped = {};
   normalizedParties.forEach(party => {
-    const id = party.normalized_party_id;
+    const id = party.party_id;
     if (!partiesGrouped[id]) partiesGrouped[id] = [];
     partiesGrouped[id].push(party);
   });
 
-  const mergedParties = [];
+  const mergedEvents = [];
 
-  // Pro každou stranu projdeme její intervaly a sloučíme ty, které se překrývají
+  // 2. Matematické sloučení intervalů pro každou stranu zvlášť
   Object.keys(partiesGrouped).forEach(partyId => {
-    // Seřadíme intervaly dané strany podle počátečního data
-    const intervals = partiesGrouped[partyId].sort((a, b) => new Date(a.from) - new Date(b.from));
+    const intervals = partiesGrouped[partyId].sort((a, b) => a.from - b.from);
     
-    let currentMerged = null;
+    let currentStart = intervals[0].from;
+    let currentEnd = intervals[0].to;
+    let originalFromStr = intervals[0].originalFrom;
+    let originalToStr = intervals[0].originalTo;
 
-    intervals.forEach(interval => {
-      if (!currentMerged) {
-        currentMerged = { ...interval };
-        return;
-      }
-
-      const mergedEndDate = currentMerged.to ? new Date(currentMerged.to) : new Date('2099-12-31');
-      const nextStartDate = new Date(interval.from);
-
-      // Pokud se intervaly překrývají (nebo navazují)
-      if (nextStartDate <= mergedEndDate) {
-        // Prodloužíme konec, pokud je to potřeba
-        if (currentMerged.to !== null) {
-          if (interval.to === null) {
-            currentMerged.to = null; 
-          } else {
-            const nextEndDate = new Date(interval.to);
-            if (nextEndDate > mergedEndDate) {
-              currentMerged.to = interval.to; 
-            }
-          }
+    for (let i = 1; i < intervals.length; i++) {
+      const next = intervals[i];
+      
+      // Pokud se intervaly PŘEKRÝVAJÍ nebo na sebe přesně NAVAZUJÍ
+      if (next.from <= currentEnd) {
+        // Natáhneme konec spojeného intervalu
+        if (next.to > currentEnd) {
+          currentEnd = next.to;
+          originalToStr = next.originalTo; // Aktualizujeme text pro tooltip, pokud jsme to natáhli
         }
       } else {
-        // Intervaly se nepřekrývají, uložíme ten předchozí a začneme nový
-        mergedParties.push({ ...currentMerged });
-        currentMerged = { ...interval };
+        // Mezera mezi členstvími - uložíme současný blok a začneme nový
+        mergedEvents.push({
+          type: 'party_change',
+          party_id: partyId,
+          startDate: new Date(currentStart),
+          endDate: currentEnd === new Date('2099-12-31').getTime() ? null : new Date(currentEnd),
+          from: originalFromStr,
+          to: originalToStr
+        });
+        
+        currentStart = next.from;
+        currentEnd = next.to;
+        originalFromStr = next.originalFrom;
+        originalToStr = next.originalTo;
       }
-    });
-
-    if (currentMerged) {
-      mergedParties.push(currentMerged);
     }
+    
+    // Uložíme poslední blok, který zbyl po iteraci
+    mergedEvents.push({
+      type: 'party_change',
+      party_id: partyId,
+      startDate: new Date(currentStart),
+      endDate: currentEnd === new Date('2099-12-31').getTime() ? null : new Date(currentEnd),
+      from: originalFromStr,
+      to: originalToStr
+    });
   });
 
-  // Vytvoříme finální události pro osu
-  const timelineEvents = mergedParties.map((entry) => ({
-    type: 'party_change',
-    party_id: entry.normalized_party_id, 
-    from: entry.from,
-    to: entry.to || null,
-    startDate: new Date(entry.from),
-    endDate: entry.to ? new Date(entry.to) : null,
-  }));
+  // Nakonec je seřadíme pro vykreslení
+  const timelineEvents = mergedEvents.sort((a, b) => a.startDate - b.startDate);
 
+  // Zjistíme rozsah osy (úplně stejně jako předtím)
   const allStartDates = [
     ...timelineEvents.map(e => e.startDate),
     ...mandate_periods.map(m => new Date(m.from))
@@ -392,7 +402,6 @@ const TimelineTrack = ({ mpData }) => {
     <div className="timeline-container">
       <div className="timeline-track horizontal" style={{ overflow: 'visible' }}> 
         
-        {/* 1. Indikátory volebních období (nad osou) */}
         <div className="timeline-terms-track" style={{ position: 'relative', height: '24px', marginBottom: '6px' }}>
           {mandate_periods.map((period, index) => {
             const startDate = new Date(period.from);
@@ -440,7 +449,6 @@ const TimelineTrack = ({ mpData }) => {
           })}
         </div>
 
-        {/* 2. Časová osa (samotné grafické bloky členství) */}
         <div className="timeline-line">
           {timelineEvents.map((event, index) => {
             const isCurrent = event.endDate === null;
@@ -472,7 +480,6 @@ const TimelineTrack = ({ mpData }) => {
           })}
         </div>
         
-        {/* 3. Popisky roků (spodní) */}
         <div className="timeline-axis-bottom" style={{ marginTop: '8px' }}>
           {years.map(year => (
             <span key={year} className="timeline-axis-label-bottom">{year}</span>
