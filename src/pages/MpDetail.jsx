@@ -257,120 +257,120 @@ export default function MpDetail() {
 }
 
 // Komponenta pro časovou osu
+// src/pages/MpDetail.jsx (komponenta TimelineTrack je upravena)
+
+// ... (ostatní importy a části komponenty MpDetail.js zůstávají stejné) ...
+
+// Komponenta pro časovou osu - UKÁZKA POUZE ZMĚNY STRANICKÉ PŘÍSLUŠNOSTI
 const TimelineTrack = ({ mpData }) => {
-  const { mandate_periods, party_timeline } = mpData;
+  const { party_timeline } = mpData;
 
-  // Připravíme data pro osu - spojení mandátů a změn stran
-  const timelineEvents = [];
-
-  // Přidáme mandáty jako události
-  mandate_periods.forEach(period => {
-    timelineEvents.push({
-      type: 'mandate',
-      term_id: period.term_id,
-      from: period.from,
-      to: period.to || null, // null znamená "dosud"
-      startDate: new Date(period.from),
-      endDate: period.to ? new Date(period.to) : null, // null znamená "dosud"
-    });
-  });
-
-  // Přidáme změny stran jako události
-  party_timeline.forEach(timelineEntry => {
-    timelineEvents.push({
-      type: 'party_change',
-      party_id: timelineEntry.party_id,
-      from: timelineEntry.from,
-      to: timelineEntry.to || null,
-      startDate: new Date(timelineEntry.from),
-      endDate: timelineEntry.to ? new Date(timelineEntry.to) : null,
-    });
-  });
-
-  // Seřadíme podle počátečního data
-  timelineEvents.sort((a, b) => a.startDate - b.startDate);
-
-  // Zjistíme celkový časový rozsah
-  const allStartDates = timelineEvents.map(e => e.startDate);
-  const allEndDates = timelineEvents.map(e => e.endDate).filter(d => d !== null); // Odfiltrujeme null (dosud)
-  const minDate = new Date(Math.min(...allStartDates));
-  const maxDate = new Date(Math.max(...allEndDates, ...allStartDates)); // Pokud je nějaké "dosud", použije se aktuální datum jako horní hranice
-
-  // Přidáme "dosud" jako aktuální datum, pokud je v datech nějaké "dosud"
-  const hasOpenEnded = timelineEvents.some(e => e.endDate === null);
-  if (hasOpenEnded) {
-    maxDate.setFullYear(maxDate.getFullYear() + 1); // Přidáme rok jako rezervu pro "dosud"
+  if (!party_timeline || party_timeline.length === 0) {
+    return <div className="text-center py-4 text-muted">Nejsou k dispozici data o stranické příslušnosti.</div>;
   }
 
-  // Generování roků pro osu X
+  // Zjistíme celkový časový rozsah z party_timeline
+  const allStartDates = party_timeline.map(t => new Date(t.from));
+  const allEndDates = party_timeline.map(t => t.to ? new Date(t.to) : null); // null znamená "dosud"
+
+  const minDate = new Date(Math.min(...allStartDates));
+  // Pro maximální datum: pokud je nějaké období "dosud", použijeme aktuální datum, jinak největší 'to'
+  const openEndedExists = allEndDates.includes(null);
+  const maxDate = openEndedExists ? new Date() : new Date(Math.max(...allEndDates));
+
+  // Pokud je nějaké období "dosud", přidej trochu rezervy pro zobrazení (např. +1 rok)
+  if (openEndedExists) {
+    const futureDate = new Date(maxDate);
+    futureDate.setFullYear(futureDate.getFullYear() + 1);
+    // Pro výpočet procent použijeme maxDate jako aktuální datum, ale pro osu můžeme mít rezervu
+    // Použijeme futureDate jako referenci pro škálování, ale maxDate pro poslední segment
+  }
+  const scaleMaxDate = openEndedExists ? new Date(maxDate.getFullYear() + 1, 0, 1) : maxDate; // Použijeme jako referenci pro škálování osy
+
+
+  // Generování roků pro osu X (od minDate do scaleMaxDate)
   const years = [];
-  for (let y = minDate.getFullYear(); y <= maxDate.getFullYear(); y++) {
+  for (let y = minDate.getFullYear(); y <= scaleMaxDate.getFullYear(); y++) {
     years.push(y);
   }
 
+  // Pomocná funkce pro formátování data
+  const formatDate = (dateString) => {
+    if (!dateString) return 'dosud';
+    const date = new Date(dateString);
+    if (isNaN(date.getTime())) return dateString;
+    return date.toLocaleDateString('cs-CZ', { year: 'numeric', month: 'short' }).replace(' ', ' ');
+  };
+
   return (
     <div className="timeline-container">
+      {/* Horní popiska - volební období (odvozeno od let) */}
+      {/* Jednoduchý příklad: předpokládejme období jako 2017-2021, 2021-2025, atd. */}
+      {/* Můžeš chtít přidat statický mapping nebo načíst z externího zdroje */}
+      {/* Prozatím ukážeme roky jako proxy pro období */}
+      <div className="timeline-axis-labels-top">
+        {years.map(year => {
+          // Příklad: přiřazení volebního období na základě roku
+          // Toto je zjednodušení, můžeš to upravit podle potřeby
+          let termLabel = '';
+          if (year >= 2013 && year <= 2017) termLabel = '2013-2017';
+          else if (year >= 2017 && year <= 2021) termLabel = '2017-2021';
+          else if (year >= 2021 && year <= 2025) termLabel = '2021-2025';
+          else if (year >= 2025 && year <= 2029) termLabel = '2025-2029';
+          else termLabel = `${year}-${year+4}`; // Obecné generování, pokud není specifikováno
+          return (
+            <span key={`top-${year}`} className="timeline-term-label" style={{ flex: 1 }}>
+              {termLabel}
+            </span>
+          );
+        })}
+      </div>
+
+      {/* Časová osa */}
       <div className="timeline-track horizontal">
-        {/* Popisky roků (spodní) */}
-        <div className="timeline-axis-bottom">
-          {years.map(year => (
-            <span key={year} className="timeline-axis-label-bottom">{year}</span>
-          ))}
-        </div>
-        {/* Časová osa */}
-        <div className="timeline-line">
-          {timelineEvents.map((event, index) => {
-            const isCurrent = event.endDate === null; // Značí "dosud"
-            const endDateForCalculation = isCurrent ? new Date() : event.endDate; // Pro výpočet délky použijeme aktuální datum
-            const durationMs = endDateForCalculation - event.startDate;
-            const totalDurationMs = maxDate - minDate;
-            const widthPercentage = (durationMs / totalDurationMs) * 100;
-            const startPercentage = ((event.startDate - minDate) / totalDurationMs) * 100;
+        <div className="timeline-axis-line"></div> {/* Základní čára osy */}
+        {party_timeline.map((entry, index) => {
+          const startDate = new Date(entry.from);
+          const endDate = entry.to ? new Date(entry.to) : new Date(); // Pro "dosud" použijeme aktuální datum
+          const durationMs = endDate - startDate;
+          const totalDurationMs = scaleMaxDate - minDate; // Použijeme scaleMaxDate pro škálování
+          const widthPercentage = (durationMs / totalDurationMs) * 100;
+          const startPercentage = ((startDate - minDate) / totalDurationMs) * 100;
 
-            let label, color;
-            if (event.type === 'mandate') {
-              label = `Mandát (${event.term_id})`;
-              color = 'var(--text-muted)'; // Neutrální barva pro mandát
-            } else { // party_change
-              label = formatPartyName(event.party_id);
-              color = PARTY_COLORS[event.party_id.toUpperCase()] || PARTY_COLORS['Jiné'];
-            }
+          const displayName = PARTY_NAME_MAP[entry.party_id.toLowerCase()] || entry.party_id.toUpperCase();
+          const color = PARTY_COLORS[displayName] || 'var(--surface-3)'; // Fallback barva
 
-            return (
-              <div
-                key={`${event.type}-${index}`}
-                className={`timeline-segment ${event.type === 'party_change' ? 'party-segment' : 'mandate-segment'}`}
-                style={{
-                  left: `${startPercentage}%`,
-                  width: `${widthPercentage}%`,
-                  backgroundColor: color,
-                  opacity: isCurrent ? 1.0 : 0.8, // Aktuální segment může být plnější
-                }}
-                title={`${label}: ${event.from} – ${event.to || 'dosud'}`}
-              >
-                <span className="segment-label">{label}</span>
-              </div>
-            );
-          })}
-        </div>
-        {/* Popisky volebních období (horní) */}
-        <div className="timeline-axis-top">
-          {years.map(year => {
-            // Najdeme odpovídající mandát pro daný rok
-            const correspondingMandate = mandate_periods.find(m =>
-              year >= new Date(m.from).getFullYear() && (m.to ? year <= new Date(m.to).getFullYear() : true)
-            );
-            return (
-              <span key={year} className="timeline-axis-label-top">
-                {correspondingMandate ? correspondingMandate.term_id : ''}
-              </span>
-            );
-          })}
-        </div>
+          return (
+            <div
+              key={`party-${index}`}
+              className="timeline-segment"
+              style={{
+                left: `${startPercentage}%`,
+                width: `${widthPercentage}%`,
+                backgroundColor: color,
+                opacity: 0.85,
+              }}
+              title={`${displayName}: ${formatDate(entry.from)} – ${formatDate(entry.to)}`}
+            >
+              <span className="timeline-segment-label">{displayName}</span>
+            </div>
+          );
+        })}
+      </div>
+
+      {/* Dolní popiska - roky */}
+      <div className="timeline-axis-labels-bottom">
+        {years.map(year => (
+          <span key={`bottom-${year}`} className="timeline-year-label" style={{ flex: 1 }}>
+            {year}
+          </span>
+        ))}
       </div>
     </div>
   );
 };
+
+// ... (ostatní části komponenty MpDetail.js zůstávají stejné) ...
 
 
 // Vlastní legenda pro Recharts - používá globální styly a barvy
