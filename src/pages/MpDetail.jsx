@@ -276,6 +276,7 @@ const formatTermName = (termId) => {
 // Komponenta pro časovou osu// Komponenta pro časovou osu
 // Komponenta pro časovou osu
 // Komponenta pro časovou osu
+// Komponenta pro časovou osu
 const TimelineTrack = ({ mpData }) => {
   const { mandate_periods, party_timeline } = mpData;
 
@@ -298,16 +299,15 @@ const TimelineTrack = ({ mpData }) => {
     return PARTY_NAME_MAP[normalized] || normalized;
   };
 
-  // 1. Zploštění a hrubé seskupení: Všechny datumové intervaly převedeme na pole časů a seřadíme
+  // 1. Zploštění a hrubé seskupení
   const normalizedParties = party_timeline.map(party => ({
     party_id: getNormalizedPartyId(party.party_id),
     from: new Date(party.from).getTime(),
-    to: party.to ? new Date(party.to).getTime() : new Date('2099-12-31').getTime(), // "dosud" hodíme do daleké budoucnosti
-    originalFrom: party.from, // Uchováme si stringy pro tooltipy
+    to: party.to ? new Date(party.to).getTime() : new Date('2099-12-31').getTime(),
+    originalFrom: party.from,
     originalTo: party.to
   }));
 
-  // Seskupíme podle názvu strany
   const partiesGrouped = {};
   normalizedParties.forEach(party => {
     const id = party.party_id;
@@ -317,7 +317,7 @@ const TimelineTrack = ({ mpData }) => {
 
   const mergedEvents = [];
 
-  // 2. Matematické sloučení intervalů pro každou stranu zvlášť
+  // 2. Matematické sloučení intervalů
   Object.keys(partiesGrouped).forEach(partyId => {
     const intervals = partiesGrouped[partyId].sort((a, b) => a.from - b.from);
     
@@ -328,16 +328,12 @@ const TimelineTrack = ({ mpData }) => {
 
     for (let i = 1; i < intervals.length; i++) {
       const next = intervals[i];
-      
-      // Pokud se intervaly PŘEKRÝVAJÍ nebo na sebe přesně NAVAZUJÍ
       if (next.from <= currentEnd) {
-        // Natáhneme konec spojeného intervalu
         if (next.to > currentEnd) {
           currentEnd = next.to;
-          originalToStr = next.originalTo; // Aktualizujeme text pro tooltip, pokud jsme to natáhli
+          originalToStr = next.originalTo;
         }
       } else {
-        // Mezera mezi členstvími - uložíme současný blok a začneme nový
         mergedEvents.push({
           type: 'party_change',
           party_id: partyId,
@@ -354,7 +350,6 @@ const TimelineTrack = ({ mpData }) => {
       }
     }
     
-    // Uložíme poslední blok, který zbyl po iteraci
     mergedEvents.push({
       type: 'party_change',
       party_id: partyId,
@@ -365,10 +360,9 @@ const TimelineTrack = ({ mpData }) => {
     });
   });
 
-  // Nakonec je seřadíme pro vykreslení
   const timelineEvents = mergedEvents.sort((a, b) => a.startDate - b.startDate);
 
-  // Zjistíme rozsah osy (úplně stejně jako předtím)
+  // 3. Výpočet hranic osy
   const allStartDates = [
     ...timelineEvents.map(e => e.startDate),
     ...mandate_periods.map(m => new Date(m.from))
@@ -392,16 +386,32 @@ const TimelineTrack = ({ mpData }) => {
   }
 
   const totalDurationMs = maxDate - minDate;
+  
+  // -- DYNAMICKÁ LOGIKA PRO POPISKY --
+  // Zjistíme, kolik let osa pokrývá
+  const totalYearsSpan = maxDate.getFullYear() - minDate.getFullYear();
+  
+  // Určíme krok pro popisky roků: 
+  // Pokud je to < 8 let, ukazujeme každý rok (1). Pokud 8-15 let, každý druhý rok (2). Nad 15 let každý čtvrtý (4) atd.
+  let yearStep = 1;
+  if (totalYearsSpan > 20) yearStep = 5;
+  else if (totalYearsSpan > 12) yearStep = 4;
+  else if (totalYearsSpan > 7) yearStep = 2;
 
   const years = [];
-  for (let y = minDate.getFullYear(); y <= maxDate.getFullYear(); y++) {
+  for (let y = minDate.getFullYear(); y <= maxDate.getFullYear(); y += yearStep) {
     years.push(y);
   }
+  
+  // Zjistíme, zda schovat text popisků volebních období (nečáry!), pokud je jich příliš mnoho
+  // Pokud je průměrná délka zobrazeného období na ose menší než určitá šířka, raději text schováme (ukážeme ho jako tooltip)
+  const showTermLabels = mandate_periods.length <= 5; // Nad 5 období text obvykle překáží
 
   return (
     <div className="timeline-container">
       <div className="timeline-track horizontal" style={{ overflow: 'visible' }}> 
         
+        {/* Indikátory volebních období (nad osou) */}
         <div className="timeline-terms-track" style={{ position: 'relative', height: '24px', marginBottom: '6px' }}>
           {mandate_periods.map((period, index) => {
             const startDate = new Date(period.from);
@@ -416,6 +426,8 @@ const TimelineTrack = ({ mpData }) => {
             return (
               <div
                 key={`term-${index}`}
+                className="timeline-term-block"
+                title={`${formatTermName(period.term_id)} (${startDate.getFullYear()} - ${endDate.getFullYear()})`}
                 style={{
                   position: 'absolute',
                   left: `${startPercentage}%`,
@@ -426,29 +438,34 @@ const TimelineTrack = ({ mpData }) => {
                   display: 'flex',
                   justifyContent: isLastPeriod ? 'flex-start' : 'center',
                   alignItems: 'flex-start',
-                  pointerEvents: 'none',
-                  boxSizing: 'border-box'
+                  boxSizing: 'border-box',
+                  // Přidáme jemný hover efekt na samotný ohraničující blok
+                  cursor: 'help'
                 }}
               >
-                <span style={{ 
-                  fontSize: '0.75rem', 
-                  color: 'var(--text-secondary)', 
-                  fontWeight: '600',
-                  whiteSpace: 'nowrap',
-                  padding: '0 4px',
-                  backgroundColor: 'var(--bg-card)',
-                  borderRadius: '4px',
-                  marginTop: '-4px',
-                  marginLeft: isLastPeriod ? '4px' : '0',
-                  overflow: 'visible' 
-                }}>
-                  {formatTermName(period.term_id)}
-                </span>
+                {/* Text období vykreslíme jen, pokud jich není moc, abychom zamezili překrývání */}
+                {showTermLabels && (
+                  <span className="term-label-text" style={{ 
+                    fontSize: '0.70rem', 
+                    color: 'var(--text-secondary)', 
+                    fontWeight: '600',
+                    whiteSpace: 'nowrap',
+                    padding: '0 4px',
+                    backgroundColor: 'var(--bg-card)',
+                    borderRadius: '4px',
+                    marginTop: '-4px',
+                    marginLeft: isLastPeriod ? '4px' : '0',
+                    overflow: 'visible' 
+                  }}>
+                    {formatTermName(period.term_id)}
+                  </span>
+                )}
               </div>
             );
           })}
         </div>
 
+        {/* Časová osa (samotné grafické bloky členství) */}
         <div className="timeline-line">
           {timelineEvents.map((event, index) => {
             const isCurrent = event.endDate === null;
@@ -462,6 +479,9 @@ const TimelineTrack = ({ mpData }) => {
             const colorKey = Object.keys(PARTY_COLORS).find(key => key.toUpperCase() === label.toUpperCase());
             const color = colorKey ? PARTY_COLORS[colorKey] : (PARTY_COLORS['Jiné'] || '#64748b');
 
+            // Pokud je blok velmi úzký (např. < 5% šířky), schováme text uvnitř bloku, aby nelezl ven
+            const showSegmentLabel = widthPercentage > 5;
+
             return (
               <div
                 key={`${event.type}-${index}`}
@@ -474,16 +494,36 @@ const TimelineTrack = ({ mpData }) => {
                 }}
                 title={`${label}: ${event.from} – ${event.to || 'dosud'}`}
               >
-                <span className="segment-label">{label}</span>
+                {showSegmentLabel && <span className="segment-label">{label}</span>}
               </div>
             );
           })}
         </div>
         
+        {/* Popisky roků (spodní) */}
         <div className="timeline-axis-bottom" style={{ marginTop: '8px' }}>
-          {years.map(year => (
-            <span key={year} className="timeline-axis-label-bottom">{year}</span>
-          ))}
+          {years.map(year => {
+             // Výpočet pozice popisku roku (aby nebyl jen v obyčejném flex kontejneru, ale seděl přesně na daném roce)
+             const yearDate = new Date(`${year}-01-01`);
+             const posPercentage = ((yearDate - minDate) / totalDurationMs) * 100;
+             
+             // Nevykreslujeme roky, které by 'vypadly' z osy doleva/doprava
+             if (posPercentage < 0 || posPercentage > 100) return null;
+
+             return (
+              <span 
+                key={year} 
+                className="timeline-axis-label-bottom"
+                style={{
+                  position: 'absolute',
+                  left: `${posPercentage}%`,
+                  transform: 'translateX(-50%)' // Vycentrování na samotnou 'tečku' roku
+                }}
+              >
+                {year}
+              </span>
+            );
+          })}
         </div>
 
       </div>

@@ -1539,7 +1539,22 @@ select option:checked { /* V některých prohlížečích lze stylovat */
   padding: 10px 0; /* Odstupy nad a pod osou */
 }
 
-.timeline-axis-bottom,
+.timeline-axis-bottom {
+  position: relative; /* Přidáno: Nutné pro absolutní pozicování dětí */
+  height: 20px; /* Přidáno: Vyhrazení místa na výšku pro absolutní elementy */
+  width: 100%;
+  font-size: 0.75rem; 
+  color: var(--text-muted);
+  margin-bottom: 5px; 
+  padding: 0; /* Změněno: Už nepoužíváme flex-box, padding by rozhodil absolutní % */
+}
+
+/* Pokud chceš, aby zobrazené texty volebních období trochu mizely při scrollování nebo menším rozlišení */
+.timeline-term-block:hover .term-label-text {
+  color: var(--text-primary) !important;
+  z-index: 20;
+}
+
 .timeline-axis-top {
   display: flex;
   width: 100%;
