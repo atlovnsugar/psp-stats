@@ -268,17 +268,38 @@ const formatTermName = (termId) => {
     '2013-2017': '7. volební období',
     '2017-2021': '8. volební období',
     '2021-2025': '9. volební období',
-    '2021-now': '9. volební období',
+    '2025-now': '10. volební období',
   };
   return termMap[termId] || termId;
 };
 
 // Komponenta pro časovou osu
+// Komponenta pro časovou osu
 const TimelineTrack = ({ mpData }) => {
   const { mandate_periods, party_timeline } = mpData;
 
-  // 1. Seřazení a sloučení bloků členství ve stranách
-  const sortedParties = [...party_timeline].sort((a, b) => new Date(a.from) - new Date(b.from));
+  // 0. Pomocná funkce pro normalizaci party_id, aby se "nezaraz" a "Nezařazení" braly jako stejná věc
+  const getNormalizedPartyId = (partyId) => {
+    if (!partyId) return 'Nezařazení';
+    // Převedeme vše na stejný sjednocený název podle tvé stávající logiky z formatPartyName
+    const normalized = partyId
+      .replace(/CSL/g, 'ČSL')
+      .replace(/CSSD/g, 'ČSSD')
+      .replace(/-/g, ' ')
+      .trim();
+    
+    // Pokud je to v mapě, vrátíme sjednocený název (např. 'Nezařazení'), jinak původní upravený tvar
+    return PARTY_NAME_MAP[normalized] || normalized;
+  };
+
+  // 1. Předzpracování dat: Normalizace ID, seřazení a sloučení bloků členství ve stranách
+  // Vytvoříme kopii s normalizovaným party_id
+  const normalizedParties = party_timeline.map(party => ({
+    ...party,
+    normalized_party_id: getNormalizedPartyId(party.party_id)
+  }));
+
+  const sortedParties = [...normalizedParties].sort((a, b) => new Date(a.from) - new Date(b.from));
   const mergedParties = [];
 
   sortedParties.forEach((currentParty) => {
@@ -288,7 +309,8 @@ const TimelineTrack = ({ mpData }) => {
     }
     const lastParty = mergedParties[mergedParties.length - 1];
 
-    if (lastParty.party_id === currentParty.party_id) {
+    // Nyní porovnáváme pomocí normalizovaného ID
+    if (lastParty.normalized_party_id === currentParty.normalized_party_id) {
       if (lastParty.to !== null) {
         if (currentParty.to === null) {
           lastParty.to = null; 
@@ -307,7 +329,7 @@ const TimelineTrack = ({ mpData }) => {
 
   const timelineEvents = mergedParties.map((entry) => ({
     type: 'party_change',
-    party_id: entry.party_id,
+    party_id: entry.normalized_party_id, // Použijeme už normalizované jméno
     from: entry.from,
     to: entry.to || null,
     startDate: new Date(entry.from),
@@ -360,13 +382,13 @@ const TimelineTrack = ({ mpData }) => {
                   position: 'absolute',
                   left: `${startPercentage}%`,
                   width: `${widthPercentage}%`,
-                  height: '50px', // Protažení výšky tak, aby okraje (čáry) zasahovaly dolů přes barevnou osu
-                  borderLeft: '1px dashed var(--text-muted)', // Levé ohraničení období
-                  borderRight: period.to ? '1px dashed var(--text-muted)' : 'none', // Pravé ohraničení (pokud nekončí)
+                  height: '50px',
+                  borderLeft: '1px dashed var(--text-muted)',
+                  borderRight: period.to ? '1px dashed var(--text-muted)' : 'none',
                   display: 'flex',
                   justifyContent: 'center',
                   alignItems: 'flex-start',
-                  pointerEvents: 'none', // Propouští kliknutí na tooltip
+                  pointerEvents: 'none',
                   boxSizing: 'border-box'
                 }}
               >
@@ -376,7 +398,7 @@ const TimelineTrack = ({ mpData }) => {
                   fontWeight: '600',
                   whiteSpace: 'nowrap',
                   padding: '0 4px',
-                  backgroundColor: 'var(--bg-card)', // Zabrání prosvítání čar pod textem
+                  backgroundColor: 'var(--bg-card)',
                   borderRadius: '4px',
                   marginTop: '-4px'
                 }}>
@@ -396,8 +418,13 @@ const TimelineTrack = ({ mpData }) => {
             const widthPercentage = (durationMs / totalDurationMs) * 100;
             const startPercentage = ((event.startDate - minDate) / totalDurationMs) * 100;
 
-            const label = formatPartyName(event.party_id);
-            const color = PARTY_COLORS[event.party_id.toUpperCase()] || PARTY_COLORS['Jiné'];
+            // Zde už máme event.party_id v hezkém tvaru (např. "Nezařazení") díky normalizaci výše
+            const label = event.party_id; 
+            
+            // Pro barvu se pokusíme najít přesnou shodu s klíčem v PARTY_COLORS
+            // Pokud PARTY_COLORS používá jako klíče zobrazené názvy (jako "Nezařazení")
+            const colorKey = Object.keys(PARTY_COLORS).find(key => key.toUpperCase() === label.toUpperCase());
+            const color = colorKey ? PARTY_COLORS[colorKey] : (PARTY_COLORS['Jiné'] || '#64748b');
 
             return (
               <div
