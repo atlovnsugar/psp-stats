@@ -86,7 +86,7 @@ export default function VotingList() {
   const startIndex = (safePage - 1) * itemsPerPage;
   const currentVotings = filteredVotings.slice(startIndex, startIndex + itemsPerPage);
 
-const goToPage = (p) => {
+  const goToPage = (p) => {
     const target = Math.max(1, Math.min(p, totalPages));
     setPage(target);
     // Odstraněno: window.scrollTo({ top: 0, behavior: 'smooth' });
@@ -171,193 +171,203 @@ const getProgressStyle = (yes, no, abstain) => {
 };
 
   return (
-    <div className="app-container">
-      {/* Nadpis a Vyhledávání */}
-      <div className="list-header">
-        <div className="header-title-section">
-          <div className="title-and-loader">
-            <h1>Hlasování</h1>
-            {loading && (
-              <div className="loading-indicator">
-                <Loader2 size={14} className="loader-spinner-icon" />
-                <span>Aktualizace...</span>
-              </div>
-            )}
-          </div>
-          <p className="term-info">
-            Období: <span className="term-highlight">{selectedTerm}</span>
-          </p>
-        </div>
-
-        <div className="search-wrapper">
-          <div className="search-icon">
-            <Search size={18} />
-          </div>
-          <input
-            type="text"
-            placeholder="Hledat bod nebo ID..."
-            className="search-input"
-            value={searchQuery}
-            onChange={(e) => { setSearchQuery(e.target.value); setPage(1); }}
-          />
-        </div>
+    <div className="app-layout relative">
+      {/* PŘIDÁNO: Animované pozadí */}
+      <div className="bg-animation">
+        <div className="orb"></div>
+        <div className="orb"></div>
+        <div className="orb"></div>
       </div>
 
-      {/* Filtry */}
-      <div className="filters-row">
-        <div className="filter-group">
-          <label>
-            <Filter size={12} /> Výsledek
-          </label>
-          <select
-            value={filterResult}
-            onChange={(e) => { setFilterResult(e.target.value); setPage(1); }}
-            className="filter-select"
-          >
-            <option value="">Všechny</option>
-            <option value="prijato">Přijato</option>
-            <option value="zamitnuto">Zamítnuto</option>
-          </select>
-        </div>
-
-        <div className="filter-group">
-          <label>
-            <Calendar size={12} /> Od data
-          </label>
-          <input
-            type="date"
-            value={filterDateFrom}
-            onChange={(e) => { setFilterDateFrom(e.target.value); setPage(1); }}
-            className="filter-input"
-          />
-        </div>
-
-        <div className="filter-group">
-          <label>
-            <Calendar size={12} /> Do data
-          </label>
-          <input
-            type="date"
-            value={filterDateTo}
-            onChange={(e) => { setFilterDateTo(e.target.value); setPage(1); }}
-            className="filter-input"
-          />
-        </div>
-
-        <div className="filter-group pagination-controls">
-          <label>Stránkování</label>
-          <div className="items-per-page-selector">
-            {[20, 50, 100, 200].map(n => (
-              <button
-                key={n}
-                onClick={() => { setItemsPerPage(n); setPage(1); }}
-                className={`items-per-page-btn ${itemsPerPage === n ? 'active' : ''}`}
-              >
-                {n}
-              </button>
-            ))}
-          </div>
-        </div>
-      </div>
-
-      {(filterResult || filterDateFrom || filterDateTo || searchQuery) && (
-        <button
-          onClick={() => { setFilterResult(''); setFilterDateFrom(''); setFilterDateTo(''); setSearchQuery(''); setPage(1); }}
-          className="clear-filters-btn"
-        >
-          <X size={14} /> Zrušit všechny filtry
-        </button>
-      )}
-
-      {/* Tabulka */}
-      <div className="card">
-        <div className="table-wrapper">
-          <table className="data-table">
-            <thead>
-              <tr>
-                <th>ID & Datum</th>
-                <th>Bod jednání</th>
-                <th>Výsledek</th>
-                <th>Poměr hlasů</th>
-              </tr>
-            </thead>
-            <tbody>
-              {currentVotings.length > 0 ? (
-                currentVotings.map(v => {
-                  const progress = getProgressStyle(v.vote_summary.yes, v.vote_summary.no, v.vote_summary.abstain);
-                  return (
-                    <tr key={v.id}>
-                      <td className="voting-id-date">
-                        <a 
-                          href={`https://www.psp.cz/sqw/hlasy.sqw?G=${v.id}`} 
-                          target="_blank" 
-                          rel="noopener noreferrer"
-                          className="id-tag hover:text-primary transition-colors cursor-pointer"
-                          title="Zobrazit na psp.cz"
-                        >
-                          #{v.id}
-                        </a>
-                        <span className="date-text">
-                          {v.date.split('-').reverse().join('. ')}
-                        </span>
-                      </td>
-                      <td className="voting-title">
-                        <Link to={`/hlasovani/${v.id}?term=${selectedTerm}`}>
-                          {v.title}
-                        </Link>
-                      </td>
-                      <td className="voting-result">
-                        <span className={getResultBadgeClass(v.result)}>
-                          {v.result === 'prijato' ? 'Přijato' : 'Zamítnuto'}
-                        </span>
-                      </td>
-                      <td className="voting-ratio">
-                        <div className="ratio-numbers">
-                          <span className="yes-count">{v.vote_summary.yes}</span>
-                          <span>/</span>
-                          <span className="no-count">{v.vote_summary.no}</span>
-                          <span>/</span>
-                          <span className="abstain-count">{v.vote_summary.abstain}</span>
-                        </div>
-                        <div className="ratio-progress-bar">
-                          <div
-                            className="progress-fill yes"
-                            style={{ width: `${progress.yes}%` }}
-                          ></div>
-                          <div
-                            className="progress-fill no"
-                            style={{ width: `${progress.no}%` }}
-                          ></div>
-                          <div
-                            className="progress-fill abstain"
-                            style={{ width: `${progress.abstain}%` }}
-                            ></div>
-                        </div>
-                      </td>
-                    </tr>
-                  );
-                })
-              ) : (
-                <tr>
-                  <td colSpan="4">
-                    <div className="empty-state">
-                      <div className="empty-icon">
-                        <Inbox size={40} />
-                      </div>
-                      <h3>Nic jsme nenašli</h3>
-                      <p>
-                        {loading ? "Pracujeme na tom, stahujeme další stránky z archivu..." : "Zkuste změnit filtry nebo hledaný výraz."}
-                      </p>
-                    </div>
-                  </td>
-                </tr>
+      {/* PŘIDÁNO: Obalíme obsah, aby byl nad pozadím (z-index) */}
+      <div className="relative z-10">
+        {/* Nadpis a Vyhledávání */}
+        <div className="list-header">
+          <div className="header-title-section">
+            <div className="title-and-loader">
+              <h1>Hlasování</h1>
+              {loading && (
+                <div className="loading-indicator">
+                  <Loader2 size={14} className="loader-spinner-icon" />
+                  <span>Aktualizace...</span>
+                </div>
               )}
-            </tbody>
-          </table>
-        </div>
-      </div>
+            </div>
+            <p className="term-info">
+              Období: <span className="term-highlight">{selectedTerm}</span>
+            </p>
+          </div>
 
-      <Pagination />
+          <div className="search-wrapper">
+            <div className="search-icon">
+              <Search size={18} />
+            </div>
+            <input
+              type="text"
+              placeholder="Hledat bod nebo ID..."
+              className="search-input"
+              value={searchQuery}
+              onChange={(e) => { setSearchQuery(e.target.value); setPage(1); }}
+            />
+          </div>
+        </div>
+
+        {/* Filtry */}
+        <div className="filters-row">
+          <div className="filter-group">
+            <label>
+              <Filter size={12} /> Výsledek
+            </label>
+            <select
+              value={filterResult}
+              onChange={(e) => { setFilterResult(e.target.value); setPage(1); }}
+              className="filter-select"
+            >
+              <option value="">Všechny</option>
+              <option value="prijato">Přijato</option>
+              <option value="zamitnuto">Zamítnuto</option>
+            </select>
+          </div>
+
+          <div className="filter-group">
+            <label>
+              <Calendar size={12} /> Od data
+            </label>
+            <input
+              type="date"
+              value={filterDateFrom}
+              onChange={(e) => { setFilterDateFrom(e.target.value); setPage(1); }}
+              className="filter-input"
+            />
+          </div>
+
+          <div className="filter-group">
+            <label>
+              <Calendar size={12} /> Do data
+            </label>
+            <input
+              type="date"
+              value={filterDateTo}
+              onChange={(e) => { setFilterDateTo(e.target.value); setPage(1); }}
+              className="filter-input"
+            />
+          </div>
+
+          <div className="filter-group pagination-controls">
+            <label>Stránkování</label>
+            <div className="items-per-page-selector">
+              {[20, 50, 100, 200].map(n => (
+                <button
+                  key={n}
+                  onClick={() => { setItemsPerPage(n); setPage(1); }}
+                  className={`items-per-page-btn ${itemsPerPage === n ? 'active' : ''}`}
+                >
+                  {n}
+                </button>
+              ))}
+            </div>
+          </div>
+        </div>
+
+        {(filterResult || filterDateFrom || filterDateTo || searchQuery) && (
+          <button
+            onClick={() => { setFilterResult(''); setFilterDateFrom(''); setFilterDateTo(''); setSearchQuery(''); setPage(1); }}
+            className="clear-filters-btn"
+          >
+            <X size={14} /> Zrušit všechny filtry
+          </button>
+        )}
+
+        {/* Tabulka */}
+        <div className="card">
+          <div className="table-wrapper">
+            <table className="data-table">
+              <thead>
+                <tr>
+                  <th>ID & Datum</th>
+                  <th>Bod jednání</th>
+                  <th>Výsledek</th>
+                  <th>Poměr hlasů</th>
+                </tr>
+              </thead>
+              <tbody>
+                {currentVotings.length > 0 ? (
+                  currentVotings.map(v => {
+                    const progress = getProgressStyle(v.vote_summary.yes, v.vote_summary.no, v.vote_summary.abstain);
+                    return (
+                      <tr key={v.id}>
+                        <td className="voting-id-date">
+                          <a 
+                            href={`https://www.psp.cz/sqw/hlasy.sqw?G=${v.id}`} 
+                            target="_blank" 
+                            rel="noopener noreferrer"
+                            className="id-tag hover:text-primary transition-colors cursor-pointer"
+                            title="Zobrazit na psp.cz"
+                          >
+                            #{v.id}
+                          </a>
+                          <span className="date-text">
+                            {v.date.split('-').reverse().join('. ')}
+                          </span>
+                        </td>
+                        <td className="voting-title">
+                          <Link to={`/hlasovani/${v.id}?term=${selectedTerm}`}>
+                            {v.title}
+                          </Link>
+                        </td>
+                        <td className="voting-result">
+                          <span className={getResultBadgeClass(v.result)}>
+                            {v.result === 'prijato' ? 'Přijato' : 'Zamítnuto'}
+                          </span>
+                        </td>
+                        <td className="voting-ratio">
+                          <div className="ratio-numbers">
+                            <span className="yes-count">{v.vote_summary.yes}</span>
+                            <span>/</span>
+                            <span className="no-count">{v.vote_summary.no}</span>
+                            <span>/</span>
+                            <span className="abstain-count">{v.vote_summary.abstain}</span>
+                          </div>
+                          <div className="ratio-progress-bar">
+                            <div
+                              className="progress-fill yes"
+                              style={{ width: `${progress.yes}%` }}
+                            ></div>
+                            <div
+                              className="progress-fill no"
+                              style={{ width: `${progress.no}%` }}
+                            ></div>
+                            <div
+                              className="progress-fill abstain"
+                              style={{ width: `${progress.abstain}%` }}
+                              ></div>
+                          </div>
+                        </td>
+                      </tr>
+                    );
+                  })
+                ) : (
+                  <tr>
+                    <td colSpan="4">
+                      <div className="empty-state">
+                        <div className="empty-icon">
+                          <Inbox size={40} />
+                        </div>
+                        <h3>Nic jsme nenašli</h3>
+                        <p>
+                          {loading ? "Pracujeme na tom, stahujeme další stránky z archivu..." : "Zkuste změnit filtry nebo hledaný výraz."}
+                        </p>
+                      </div>
+                    </td>
+                  </tr>
+                )}
+              </tbody>
+            </table>
+          </div>
+        </div>
+
+        <Pagination />
+      </div>
     </div>
   );
 }

@@ -41,8 +41,30 @@ export default function VotingDetail() {
     load();
   }, [votingId]);
 
-  if (loading) return <div className="loader-container"><div className="loader">Načítám detail…</div></div>;
-  if (!voting) return <div className="error-state"><h2>Hlasování nenalezeno.</h2><p>ID: {votingId}</p></div>;
+  if (loading) return (
+    <div className="app-layout relative">
+      <div className="bg-animation">
+        <div className="orb"></div>
+        <div className="orb"></div>
+        <div className="orb"></div>
+      </div>
+      <div className="loader-container relative z-10"><div className="loader">Načítám detail…</div></div>
+    </div>
+  );
+
+  if (!voting) return (
+    <div className="app-layout relative">
+      <div className="bg-animation">
+        <div className="orb"></div>
+        <div className="orb"></div>
+        <div className="orb"></div>
+      </div>
+      <div className="error-state relative z-10">
+        <h2>Hlasování nenalezeno.</h2>
+        <p>ID: {votingId}</p>
+      </div>
+    </div>
+  );
 
   const pieData = Object.entries(voting.vote_summary).map(([key, value]) => ({ name: VOTE_LABELS[key], value, color: VOTE_COLORS[key] }));
 
@@ -69,86 +91,95 @@ export default function VotingDetail() {
   };
 
   return (
-    <div className="app-container">
-      <Link to={`/hlasovani?term=${selectedTerm}`} className="back-link">&larr; zpět na seznam</Link>
-      
-      <h1>{voting.title}</h1> {/* H1 je v globálním stylu */}
-      <p className="voting-meta-info">
-        {voting.date} · Výsledek: <strong className={`voting-result-badge ${voting.result === 'prijato' ? 'vote-yes' : 'vote-no'}`}>
-          {voting.result === 'prijato' ? 'Přijato' : 'Zamítnuto'}
-        </strong>
-      </p>
-
-      <div className="stats-grid detail-stats"> {/* Použijeme existující grid styl, případně upravíme */}
-        <div className="card chart-card">
-          <div className="panel-header">
-            <h2>Celkový výsledek</h2>
-          </div>
-          <div className="chart-wrapper">
-            <ResponsiveContainer width="100%" height={300}>
-              <PieChart>
-                <Pie data={pieData} dataKey="value" nameKey="name" cx="50%" cy="50%" outerRadius={100} label>
-                  {pieData.map((entry, index) => <Cell key={index} fill={entry.color} />)}
-                </Pie>
-                <CustomizedTooltip />
-                {/* Legendu lze přizpůsobit, nebo použít vlastní komponentu */}
-              </PieChart>
-            </ResponsiveContainer>
-          </div>
-        </div>
-
-        <div className="card chart-card">
-          <div className="panel-header">
-            <h2>Hlasování podle stran</h2>
-          </div>
-          <div className="chart-wrapper">
-            <ResponsiveContainer width="100%" height={300}>
-              <BarChart data={barData}>
-                <XAxis dataKey="party" tick={{ fill: 'var(--text-secondary)' }} />
-                <YAxis tick={{ fill: 'var(--text-secondary)' }} />
-                <CustomizedTooltip />
-                <Legend content={<CustomizedLegend />} />
-                <Bar dataKey="yes" fill={VOTE_COLORS.yes} name="Ano" />
-                <Bar dataKey="no" fill={VOTE_COLORS.no} name="Ne" />
-                <Bar dataKey="abstain" fill={VOTE_COLORS.abstain} name="Zdržel se" />
-              </BarChart>
-            </ResponsiveContainer>
-          </div>
-        </div>
+    <div className="app-layout relative">
+      {/* PŘIDÁNO: Animované pozadí */}
+      <div className="bg-animation">
+        <div className="orb"></div>
+        <div className="orb"></div>
+        <div className="orb"></div>
       </div>
 
-      <div className="card voters-table-card">
-        <div className="panel-header">
-          <h2>Poslanci</h2>
+      {/* PŘIDÁNO: Z-index a relative positioning pro obsah nad pozadím */}
+      <div className="relative z-10">
+        <Link to={`/hlasovani?term=${selectedTerm}`} className="back-link">&larr; zpět na seznam</Link>
+        
+        <h1 className="mb-2 mt-4">{voting.title}</h1>
+        <p className="voting-meta-info">
+          {voting.date} · Výsledek: <strong className={`voting-result-badge ${voting.result === 'prijato' ? 'vote-yes' : 'vote-no'}`}>
+            {voting.result === 'prijato' ? 'Přijato' : 'Zamítnuto'}
+          </strong>
+        </p>
+
+        <div className="stats-grid detail-stats"> 
+          <div className="card chart-card">
+            <div className="panel-header">
+              <h2>Celkový výsledek</h2>
+            </div>
+            <div className="chart-wrapper">
+              <ResponsiveContainer width="100%" height={300}>
+                <PieChart>
+                  <Pie data={pieData} dataKey="value" nameKey="name" cx="50%" cy="50%" outerRadius={100} label>
+                    {pieData.map((entry, index) => <Cell key={index} fill={entry.color} />)}
+                  </Pie>
+                  <CustomizedTooltip />
+                </PieChart>
+              </ResponsiveContainer>
+            </div>
+          </div>
+
+          <div className="card chart-card">
+            <div className="panel-header">
+              <h2>Hlasování podle stran</h2>
+            </div>
+            <div className="chart-wrapper">
+              <ResponsiveContainer width="100%" height={300}>
+                <BarChart data={barData}>
+                  <XAxis dataKey="party" tick={{ fill: 'var(--text-secondary)' }} />
+                  <YAxis tick={{ fill: 'var(--text-secondary)' }} />
+                  <CustomizedTooltip />
+                  <Legend content={<CustomizedLegend />} />
+                  <Bar dataKey="yes" fill={VOTE_COLORS.yes} name="Ano" />
+                  <Bar dataKey="no" fill={VOTE_COLORS.no} name="Ne" />
+                  <Bar dataKey="abstain" fill={VOTE_COLORS.abstain} name="Zdržel se" />
+                </BarChart>
+              </ResponsiveContainer>
+            </div>
+          </div>
         </div>
-        <div className="table-wrapper">
-          <table className="data-table voters-table"> {/* Přidáme konkrétní třídu pro tento typ tabulky */}
-            <thead>
-              <tr>
-                <th>Poslanec</th>
-                <th>Hlas</th>
-              </tr>
-            </thead>
-            <tbody>
-              {voting.mps.map(mp => {
-                const mpInfo = mpsMap.get(mp.mp_id) || { name: `ID: ${mp.mp_id}` };
-                return (
-                  <tr key={mp.mp_id}>
-                    <td className="voter-name-cell">
-                      <Link to={`/poslanci/${mp.mp_id}?term=${selectedTerm}`} className="voter-link">
-                        {mpInfo.name}
-                      </Link>
-                    </td>
-                    <td className="voter-vote-cell">
-                      <span className={`timeline-badge vote-${mp.vote}`}>
-                        {VOTE_LABELS[mp.vote]}
-                      </span>
-                    </td>
-                  </tr>
-                );
-              })}
-            </tbody>
-          </table>
+
+        <div className="card voters-table-card mt-6">
+          <div className="panel-header">
+            <h2>Poslanci</h2>
+          </div>
+          <div className="table-wrapper">
+            <table className="data-table voters-table"> 
+              <thead>
+                <tr>
+                  <th>Poslanec</th>
+                  <th className="text-center">Hlas</th>
+                </tr>
+              </thead>
+              <tbody>
+                {voting.mps.map(mp => {
+                  const mpInfo = mpsMap.get(mp.mp_id) || { name: `ID: ${mp.mp_id}` };
+                  return (
+                    <tr key={mp.mp_id}>
+                      <td className="voter-name-cell font-bold">
+                        <Link to={`/poslanci/${mp.mp_id}?term=${selectedTerm}`} className="voter-link">
+                          {mpInfo.name}
+                        </Link>
+                      </td>
+                      <td className="voter-vote-cell text-center">
+                        <span className={`timeline-badge vote-${mp.vote}`}>
+                          {VOTE_LABELS[mp.vote]}
+                        </span>
+                      </td>
+                    </tr>
+                  );
+                })}
+              </tbody>
+            </table>
+          </div>
         </div>
       </div>
     </div>
