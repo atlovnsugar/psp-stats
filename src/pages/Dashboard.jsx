@@ -444,7 +444,6 @@ export default function Dashboard() {
                             tickLine={false}
                           />
                           <YAxis
-                            unit="%"
                             stroke="var(--text-secondary)"
                             fontSize={12}
                             domain={[0, 100]}
