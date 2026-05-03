@@ -86,10 +86,10 @@ export default function VotingList() {
   const startIndex = (safePage - 1) * itemsPerPage;
   const currentVotings = filteredVotings.slice(startIndex, startIndex + itemsPerPage);
 
-  const goToPage = (p) => {
+const goToPage = (p) => {
     const target = Math.max(1, Math.min(p, totalPages));
     setPage(target);
-    window.scrollTo({ top: 0, behavior: 'smooth' });
+    // Odstraněno: window.scrollTo({ top: 0, behavior: 'smooth' });
   };
 
   // Komponenta paginace s čísly stránek
@@ -104,26 +104,26 @@ export default function VotingList() {
     if (end - start < maxVisible - 1) {
       start = Math.max(1, end - maxVisible + 1);
     }
+    
+    // Vygenerujeme pole stránek
+    for (let i = start; i <= end; i++) {
+      pages.push(i);
+    }
 
     return (
       <div className="pagination-container">
-        <div className="pagination-wrapper">
+        <div className="pagination-wrapper glow-pagination">
+          {/* Úplně na začátek */}
           <button onClick={() => goToPage(1)} disabled={safePage === 1} className="pagination-btn">
             <ChevronsLeft size={16} />
           </button>
+          
+          {/* O jednu zpět */}
           <button onClick={() => goToPage(safePage - 1)} disabled={safePage === 1} className="pagination-btn">
             <ChevronLeft size={16} />
           </button>
 
-          {start > 1 && (
-            <>
-              <span className="pagination-ellipsis">...</span>
-              <button onClick={() => goToPage(1)} className="pagination-page">
-                1
-              </button>
-            </>
-          )}
-
+          {/* Čísla stránek */}
           {pages.map(p => (
             <button
               key={p}
@@ -134,22 +134,17 @@ export default function VotingList() {
             </button>
           ))}
 
-          {end < totalPages && (
-            <>
-              <button onClick={() => goToPage(totalPages)} className="pagination-page">
-                {totalPages}
-              </button>
-              <span className="pagination-ellipsis">...</span>
-            </>
-          )}
-
+          {/* O jednu vpřed */}
           <button onClick={() => goToPage(safePage + 1)} disabled={safePage === totalPages} className="pagination-btn">
             <ChevronRight size={16} />
           </button>
+          
+          {/* Úplně na konec */}
           <button onClick={() => goToPage(totalPages)} disabled={safePage === totalPages} className="pagination-btn">
             <ChevronsRight size={16} />
           </button>
         </div>
+        
         <div className="pagination-info">
           Zobrazeno <strong>{totalItems === 0 ? 0 : startIndex + 1}</strong> až{' '}
           <strong>{Math.min(startIndex + itemsPerPage, totalItems)}</strong> z{' '}
@@ -302,7 +297,9 @@ const getProgressStyle = (yes, no, abstain) => {
                         >
                           #{v.id}
                         </a>
-                        <span className="date-text">{v.date}</span>
+                        <span className="date-text">
+                          {v.date.split('-').reverse().join('. ')}
+                        </span>
                       </td>
                       <td className="voting-title">
                         <Link to={`/hlasovani/${v.id}?term=${selectedTerm}`}>
