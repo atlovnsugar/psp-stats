@@ -293,7 +293,15 @@ const getProgressStyle = (yes, no, abstain) => {
                   return (
                     <tr key={v.id}>
                       <td className="voting-id-date">
-                        <span className="id-tag">#{v.id}</span>
+                        <a 
+                          href={`https://www.psp.cz/sqw/hlasy.sqw?G=${v.id}`} 
+                          target="_blank" 
+                          rel="noopener noreferrer"
+                          className="id-tag hover:text-primary transition-colors cursor-pointer"
+                          title="Zobrazit na psp.cz"
+                        >
+                          #{v.id}
+                        </a>
                         <span className="date-text">{v.date}</span>
                       </td>
                       <td className="voting-title">
