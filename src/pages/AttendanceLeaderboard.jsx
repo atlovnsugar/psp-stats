@@ -48,46 +48,65 @@ export default function AttendanceLeaderboard() {
     if (selectedTerm) load();
   }, [selectedTerm, mpsMap]);
 
-  if (loading) return <div className="loader-container"><div className="loader">Načítání...</div></div>;
+  if (loading) return (
+    <div className="app-layout relative">
+      <div className="bg-animation">
+        <div className="orb"></div>
+        <div className="orb"></div>
+        <div className="orb"></div>
+      </div>
+      <div className="loader-container relative z-10"><div className="loader">Načítání...</div></div>
+    </div>
+  );
 
   return (
-    <div className="app-container">
-      <h2 className="leaderboard-title">Účast poslanců ({selectedTerm})</h2>
-      <div className="card avg-overall-card">
-        <p className="avg-overall-text">Průměrná účast celkem: <strong className="avg-overall-value">{avgOverall}%</strong></p>
+    <div className="app-layout relative">
+      {/* PŘIDÁNO: Animované pozadí */}
+      <div className="bg-animation">
+        <div className="orb"></div>
+        <div className="orb"></div>
+        <div className="orb"></div>
       </div>
-      <div className="card leaderboard-table-card">
-        <div className="table-wrapper">
-          <table className="data-table leaderboard-table">
-            <thead>
-              <tr>
-                <th className="rank-header">#</th>
-                <th className="name-header">Jméno</th>
-                <th className="party-header">Strana</th>
-                <th className="attendance-header">Účast</th>
-                <th className="diff-overall-header">Rozdíl od průměru</th>
-                <th className="diff-party-header">Rozdíl od strany</th>
-              </tr>
-            </thead>
-            <tbody>
-              {leaders.map((mp, idx) => (
-                <tr key={mp.mp_id} onClick={() => navigate(`/poslanci/${mp.mp_id}`)} className="leaderboard-row">
-                  <td className="rank-cell">{idx+1}</td>
-                  <td className="name-cell">{mp.name}</td>
-                  <td className="party-cell">{mp.party_name}</td>
-                  <td className="attendance-cell">
-                    <span className="attendance-pct">{mp.attendance_pct}%</span>
-                  </td>
-                  <td className={`diff-cell ${mp.diffOverall >= 0 ? 'positive-diff' : 'negative-diff'}`}>
-                    {mp.diffOverall > 0 ? '+' : ''}{mp.diffOverall}%
-                  </td>
-                  <td className={`diff-cell ${mp.diffParty >= 0 ? 'positive-diff' : 'negative-diff'}`}>
-                    {mp.diffParty > 0 ? '+' : ''}{mp.diffParty}%
-                  </td>
+
+      {/* PŘIDÁNO: Z-index a relative positioning pro obsah nad pozadím */}
+      <div className="relative z-10">
+        <h2 className="leaderboard-title">Účast poslanců ({selectedTerm})</h2>
+        <div className="card avg-overall-card">
+          <p className="avg-overall-text">Průměrná účast celkem: <strong className="avg-overall-value">{avgOverall}%</strong></p>
+        </div>
+        <div className="card leaderboard-table-card">
+          <div className="table-wrapper">
+            <table className="data-table leaderboard-table">
+              <thead>
+                <tr>
+                  <th className="rank-header text-center">#</th>
+                  <th className="name-header">Jméno</th>
+                  <th className="party-header">Strana</th>
+                  <th className="attendance-header text-center">Účast</th>
+                  <th className="diff-overall-header text-center">Rozdíl od průměru</th>
+                  <th className="diff-party-header text-center">Rozdíl od strany</th>
                 </tr>
-              ))}
-            </tbody>
-          </table>
+              </thead>
+              <tbody>
+                {leaders.map((mp, idx) => (
+                  <tr key={mp.mp_id} onClick={() => navigate(`/poslanci/${mp.mp_id}`)} className="leaderboard-row cursor-pointer">
+                    <td className="rank-cell font-bold text-center">{idx+1}</td>
+                    <td className="name-cell font-bold">{mp.name}</td>
+                    <td className="party-cell">{mp.party_name}</td>
+                    <td className="attendance-cell font-mono">
+                      <span className="attendance-pct">{mp.attendance_pct}%</span>
+                    </td>
+                    <td className={`diff-cell text-center ${mp.diffOverall >= 0 ? 'text-success' : 'text-danger'}`}>
+                      {mp.diffOverall > 0 ? '+' : ''}{mp.diffOverall}%
+                    </td>
+                    <td className={`diff-cell text-center ${mp.diffParty >= 0 ? 'text-success' : 'text-danger'}`}>
+                      {mp.diffParty > 0 ? '+' : ''}{mp.diffParty}%
+                    </td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
         </div>
       </div>
     </div>
