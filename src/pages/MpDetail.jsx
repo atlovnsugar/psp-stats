@@ -178,19 +178,28 @@ export default function MpDetail() {
     return null;
   };
 
-  return (
-    <div className="app-container">
-      <Link to={`/poslanci?term=${selectedTerm}`} className="back-link">&larr; zpět na žebříček</Link>
-      
-      <h1 className="mp-detail-title">{mpData.name}</h1> {/* H1 je v globálním stylu */}
-
-      {/* Timeline místo mp-info-card */}
-      <div className="card">
-        <div className="panel-header">
-          <h3>Historie mandátů a příslušnosti</h3>
-        </div>
-        <TimelineTrack mpData={mpData} />
+return (
+    <div className="app-layout relative">
+      {/* PŘIDÁNO: Animované pozadí s orby */}
+      <div className="bg-animation">
+        <div className="orb"></div>
+        <div className="orb"></div>
+        <div className="orb"></div>
       </div>
+      
+      {/* PŘIDÁNO: Zajišťuje, že obsah bude nahoře nad orby */}
+      <div className="relative z-10">
+        <Link to={`/poslanci?term=${selectedTerm}`} className="back-link">&larr; zpět na žebříček</Link>
+        
+        <h1 className="mp-detail-title">{mpData.name}</h1> {/* H1 je v globálním stylu */}
+
+        {/* Timeline místo mp-info-card */}
+        <div className="card">
+          <div className="panel-header">
+            <h3>Historie mandátů a příslušnosti</h3>
+          </div>
+          <TimelineTrack mpData={mpData} />
+        </div>
 
       {termStats && (
         <div className="card mp-stats-card">
@@ -257,14 +266,17 @@ export default function MpDetail() {
                 </Pie>
                 <Tooltip content={<CustomizedTooltip />} />
                 <Legend content={<CustomizedLegend />} />
-              </PieChart>
+             </PieChart>
             </ResponsiveContainer>
           </div>
         </div>
       )}
+      </div> {/* <-- TOTO JE TEN NOVÝ DIV, KTERÝ ZAVÍRÁ "relative z-10" */}
     </div>
   );
 }
+
+// Mapovací funkce pro názvy volebních období
 
 // Mapovací funkce pro názvy volebních období
 const formatTermName = (termId) => {
