@@ -240,17 +240,20 @@ export default function PartyComparison() {
               <tbody>
                 {stats.map(s => (
                   <tr key={s.party_id}>
-                    <td className="party-name-cell">
-                      <span className="party-color-dot" style={{ backgroundColor: s.color }}></span>
-                      {s.displayName}
+                    {/* ZDE JE OPRAVA: Třídu party-name-cell přesuneme z <td> na vnitřní <div> */}
+                    <td>
+                      <div className="party-name-cell">
+                        <span className="party-color-dot" style={{ backgroundColor: s.color }}></span>
+                        <span>{s.displayName}</span>
+                      </div>
                     </td>
-                    <td className="text-right">{s.mps_count}</td>
-                    <td className="text-right font-mono"> {/* Přidán font-mono pro čísla jako v leaderboadu */}
+                    <td className="text-right align-middle">{s.mps_count}</td>
+                    <td className="text-right font-mono align-middle"> 
                       <span className={`attendance-badge ${s.avg_attendance > 85 ? 'high-attendance' : 'medium-attendance'}`}>
                         {s.avg_attendance.toFixed(2)}%
                       </span>
                     </td>
-                    <td className="text-right font-mono"> {/* Přidán font-mono */}
+                    <td className="text-right font-mono align-middle"> 
                       {s.unity_score != null ? (s.unity_score * 100).toFixed(1) + '%' : '—'}
                     </td>
                   </tr>
