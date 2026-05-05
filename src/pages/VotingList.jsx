@@ -21,7 +21,7 @@ import {
 export default function VotingList() {
   const { selectedTerm } = useTerm();
 
-  // Stavy pro data
+  // Stavy pro data 2222
   const [votings, setVotings] = useState([]);
   const [loading, setLoading] = useState(false);
 
