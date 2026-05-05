@@ -10,7 +10,8 @@
       "abstain": 19,
       "absent": 0,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 29641,
@@ -23,7 +24,8 @@
       "abstain": 28,
       "absent": 0,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 29642,
@@ -36,7 +38,19 @@
       "abstain": 134,
       "absent": 0,
       "not_logged": 6
-    }
+    },
+    "temata": [
+      "Ochrana hospodářského a služebního tajemství",
+      "Národní hospodářství",
+      "Obchod",
+      "Obrana a bezpečnost",
+      "Politika",
+      "Těžba a výroba",
+      "ochrana údajů",
+      "profesní etika",
+      "služební tajemství",
+      "státní tajemství"
+    ]
   },
   {
     "id": 29643,
@@ -49,7 +63,16 @@
       "abstain": 59,
       "absent": 0,
       "not_logged": 5
-    }
+    },
+    "temata": [
+      "Katastr",
+      "Správa obcí a měst",
+      "Vztahy vlastnické",
+      "katastr nemovitostí",
+      "obec",
+      "převod vlastnictví",
+      "veřejný majetek"
+    ]
   },
   {
     "id": 29644,
@@ -62,7 +85,19 @@
       "abstain": 6,
       "absent": 0,
       "not_logged": 5
-    }
+    },
+    "temata": [
+      "Ochrana hospodářského a služebního tajemství",
+      "Národní hospodářství",
+      "Obchod",
+      "Obrana a bezpečnost",
+      "Politika",
+      "Těžba a výroba",
+      "ochrana údajů",
+      "profesní etika",
+      "služební tajemství",
+      "státní tajemství"
+    ]
   },
   {
     "id": 29645,
@@ -75,7 +110,16 @@
       "abstain": 1,
       "absent": 0,
       "not_logged": 5
-    }
+    },
+    "temata": [
+      "Bankovnictví",
+      "Zbraně",
+      "armáda",
+      "bitevní letoun",
+      "obranná politika",
+      "státní financování",
+      "záruka úvěru"
+    ]
   },
   {
     "id": 29646,
@@ -88,7 +132,19 @@
       "abstain": 57,
       "absent": 0,
       "not_logged": 3
-    }
+    },
+    "temata": [
+      "Ochrana hospodářského a služebního tajemství",
+      "Národní hospodářství",
+      "Obchod",
+      "Obrana a bezpečnost",
+      "Politika",
+      "Těžba a výroba",
+      "ochrana údajů",
+      "profesní etika",
+      "služební tajemství",
+      "státní tajemství"
+    ]
   },
   {
     "id": 29647,
@@ -101,7 +157,18 @@
       "abstain": 17,
       "absent": 0,
       "not_logged": 21
-    }
+    },
+    "temata": [
+      "Papíry cenné",
+      "Národní hospodářství",
+      "Občan",
+      "Peněžnictví a pojišťovnictví",
+      "Pracovní síla",
+      "Státní správa a justice",
+      "cenné papíry",
+      "finanční trh",
+      "investiční společnost"
+    ]
   },
   {
     "id": 29648,
@@ -114,7 +181,26 @@
       "abstain": 17,
       "absent": 0,
       "not_logged": 12
-    }
+    },
+    "temata": [
+      "Majetek České republiky",
+      "Správa obcí a měst",
+      "Vyšší územní samosprávné celky (VÚSC)",
+      "Vztahy vlastnické",
+      "Kultura",
+      "Národní hospodářství",
+      "Občan",
+      "Státní správa a justice",
+      "Zdravotnictví",
+      "dělba pravomocí",
+      "místní orgány státní správy",
+      "obec",
+      "převod vlastnictví",
+      "region",
+      "veřejná správa",
+      "veřejný majetek",
+      "vztah mezi státem a regionem"
+    ]
   },
   {
     "id": 29649,
@@ -127,7 +213,26 @@
       "abstain": 15,
       "absent": 0,
       "not_logged": 12
-    }
+    },
+    "temata": [
+      "Majetek České republiky",
+      "Správa obcí a měst",
+      "Vyšší územní samosprávné celky (VÚSC)",
+      "Vztahy vlastnické",
+      "Kultura",
+      "Národní hospodářství",
+      "Občan",
+      "Státní správa a justice",
+      "Zdravotnictví",
+      "dělba pravomocí",
+      "místní orgány státní správy",
+      "obec",
+      "převod vlastnictví",
+      "region",
+      "veřejná správa",
+      "veřejný majetek",
+      "vztah mezi státem a regionem"
+    ]
   },
   {
     "id": 29650,
@@ -140,7 +245,25 @@
       "abstain": 24,
       "absent": 0,
       "not_logged": 29
-    }
+    },
+    "temata": [
+      "Správa státní",
+      "Zaměstnanci",
+      "Doprava a spoje",
+      "Národní hospodářství",
+      "Obrana a bezpečnost",
+      "Pracovní síla",
+      "Státní správa a justice",
+      "Těžba a výroba",
+      "Zdravotnictví",
+      "Životní prostředí",
+      "odměňování",
+      "státní úředník",
+      "státní zaměstnanec",
+      "statut zaměstnance",
+      "ústřední orgány státní správy",
+      "veřejná funkce"
+    ]
   },
   {
     "id": 29651,
@@ -153,7 +276,19 @@
       "abstain": 8,
       "absent": 0,
       "not_logged": 18
-    }
+    },
+    "temata": [
+      "Ochrana hospodářského a služebního tajemství",
+      "Národní hospodářství",
+      "Obchod",
+      "Obrana a bezpečnost",
+      "Politika",
+      "Těžba a výroba",
+      "ochrana údajů",
+      "profesní etika",
+      "služební tajemství",
+      "státní tajemství"
+    ]
   },
   {
     "id": 29652,
@@ -166,7 +301,19 @@
       "abstain": 3,
       "absent": 0,
       "not_logged": 18
-    }
+    },
+    "temata": [
+      "Ochrana hospodářského a služebního tajemství",
+      "Národní hospodářství",
+      "Obchod",
+      "Obrana a bezpečnost",
+      "Politika",
+      "Těžba a výroba",
+      "ochrana údajů",
+      "profesní etika",
+      "služební tajemství",
+      "státní tajemství"
+    ]
   },
   {
     "id": 29653,
@@ -179,7 +326,14 @@
       "abstain": 10,
       "absent": 0,
       "not_logged": 27
-    }
+    },
+    "temata": [
+      "Správa obcí a měst",
+      "Státní správa a justice",
+      "dělba pravomocí",
+      "místní orgány státní správy",
+      "obec"
+    ]
   },
   {
     "id": 29654,
@@ -192,7 +346,8 @@
       "abstain": 47,
       "absent": 0,
       "not_logged": 19
-    }
+    },
+    "temata": []
   },
   {
     "id": 29655,
@@ -205,7 +360,15 @@
       "abstain": 23,
       "absent": 0,
       "not_logged": 17
-    }
+    },
+    "temata": [
+      "Správa obcí a měst",
+      "Národní hospodářství",
+      "Státní správa a justice",
+      "dělba pravomocí",
+      "místní orgány státní správy",
+      "obec"
+    ]
   },
   {
     "id": 29656,
@@ -218,7 +381,20 @@
       "abstain": 9,
       "absent": 0,
       "not_logged": 12
-    }
+    },
+    "temata": [
+      "Správa státní",
+      "Doprava a spoje",
+      "Národní hospodářství",
+      "Občan",
+      "Politika",
+      "Státní správa a justice",
+      "administrativní členění",
+      "místní orgány státní správy",
+      "správní reforma",
+      "struktura státní správy",
+      "veřejná správa"
+    ]
   },
   {
     "id": 29657,
@@ -231,7 +407,21 @@
       "abstain": 8,
       "absent": 0,
       "not_logged": 25
-    }
+    },
+    "temata": [
+      "Vyšší územní samosprávné celky (VÚSC)",
+      "Zaměstnanci",
+      "Občan",
+      "Politika",
+      "Pracovní síla",
+      "Státní správa a justice",
+      "místní orgány státní správy",
+      "odborná kvalifikace",
+      "povinnosti úředníka",
+      "práva úředníka",
+      "region",
+      "státní úředník"
+    ]
   },
   {
     "id": 29658,
@@ -244,7 +434,19 @@
       "abstain": 44,
       "absent": 0,
       "not_logged": 19
-    }
+    },
+    "temata": [
+      "Ochrana hospodářského a služebního tajemství",
+      "Národní hospodářství",
+      "Obchod",
+      "Obrana a bezpečnost",
+      "Politika",
+      "Těžba a výroba",
+      "ochrana údajů",
+      "profesní etika",
+      "služební tajemství",
+      "státní tajemství"
+    ]
   },
   {
     "id": 29659,
@@ -257,7 +459,23 @@
       "abstain": 21,
       "absent": 0,
       "not_logged": 18
-    }
+    },
+    "temata": [
+      "Reklama",
+      "Rozhlas",
+      "Tabák, tabákové výrobky",
+      "Televize",
+      "analýza dopadu",
+      "farmaceutický výrobek",
+      "hromadné sdělovací prostředky",
+      "lék",
+      "omezování soutěže",
+      "propagace",
+      "tabák",
+      "tabákový průmysl",
+      "zdravotní politika",
+      "zdravotní riziko"
+    ]
   },
   {
     "id": 29660,
@@ -270,7 +488,15 @@
       "abstain": 2,
       "absent": 0,
       "not_logged": 18
-    }
+    },
+    "temata": [
+      "Podnikání",
+      "Správa státní",
+      "Zákon živnostenský",
+      "daň z převodu nemovitosti",
+      "zánik společnosti",
+      "živnost"
+    ]
   },
   {
     "id": 29661,
@@ -283,7 +509,15 @@
       "abstain": 46,
       "absent": 0,
       "not_logged": 15
-    }
+    },
+    "temata": [
+      "Podnikání",
+      "Správa státní",
+      "Zákon živnostenský",
+      "daň z převodu nemovitosti",
+      "zánik společnosti",
+      "živnost"
+    ]
   },
   {
     "id": 29662,
@@ -296,7 +530,15 @@
       "abstain": 2,
       "absent": 0,
       "not_logged": 16
-    }
+    },
+    "temata": [
+      "Podnikání",
+      "Správa státní",
+      "Zákon živnostenský",
+      "daň z převodu nemovitosti",
+      "zánik společnosti",
+      "živnost"
+    ]
   },
   {
     "id": 29663,
@@ -309,7 +551,16 @@
       "abstain": 31,
       "absent": 0,
       "not_logged": 16
-    }
+    },
+    "temata": [
+      "Policie",
+      "Správa obcí a měst",
+      "Doprava a spoje",
+      "Pracovní síla",
+      "Státní správa a justice",
+      "policie",
+      "veřejná bezpečnost"
+    ]
   },
   {
     "id": 29664,
@@ -322,7 +573,8 @@
       "abstain": 8,
       "absent": 0,
       "not_logged": 86
-    }
+    },
+    "temata": []
   },
   {
     "id": 29665,
@@ -335,6 +587,13 @@
       "abstain": 70,
       "absent": 0,
       "not_logged": 116
-    }
+    },
+    "temata": [
+      "civilní letectví",
+      "dopravní infrastruktura",
+      "letecká doprava",
+      "letecká linka",
+      "organizace dopravy"
+    ]
   }
 ]

@@ -29,9 +29,10 @@ export default function VotingList() {
   const [page, setPage] = useState(1);
   const [itemsPerPage, setItemsPerPage] = useState(20);
   const [filterResult, setFilterResult] = useState('');
-  const [filterDateFrom, setFilterDateFrom] = useState('');
+const [filterDateFrom, setFilterDateFrom] = useState('');
   const [filterDateTo, setFilterDateTo] = useState('');
   const [searchQuery, setSearchQuery] = useState('');
+  const [filterTheme, setFilterTheme] = useState(''); // PŘIDÁNO: Stav pro filtr tématu
 
   // 1. Postupné načítání všech dat pro dané období
   useEffect(() => {
@@ -67,6 +68,18 @@ export default function VotingList() {
     return () => { isActive = false; };
   }, [selectedTerm]);
 
+// PŘIDÁNO: Bezpečná extrakce unikátních témat a jejich seřazení podle abecedy
+  const availableThemes = Array.from(
+    new Set(
+      votings.reduce((acc, curr) => {
+        if (curr.temata && Array.isArray(curr.temata)) {
+          return acc.concat(curr.temata);
+        }
+        return acc;
+      }, [])
+    )
+  ).sort();
+
   // 2. Filtrace (nad načtenými daty) - včetně hledání
   const filteredVotings = votings.filter(v => {
     const matchResult = !filterResult || v.result === filterResult;
@@ -75,8 +88,11 @@ export default function VotingList() {
     const matchSearch = !searchQuery ||
       (v.title && v.title.toLowerCase().includes(searchQuery.toLowerCase())) ||
       v.id.toString().includes(searchQuery);
+    
+    // PŘIDÁNO: Kontrola, zda hlasování obsahuje vybrané téma
+    const matchTheme = !filterTheme || (v.temata && v.temata.includes(filterTheme));
 
-    return matchResult && matchDateFrom && matchDateTo && matchSearch;
+    return matchResult && matchDateFrom && matchDateTo && matchSearch && matchTheme;
   });
 
   // 3. Výpočet paginace
@@ -228,6 +244,24 @@ const getProgressStyle = (yes, no, abstain) => {
               <option value="zamitnuto">Zamítnuto</option>
             </select>
           </div>
+          {/* PŘIDÁNO: Filtr pro témata */}
+          <div className="filter-group">
+            <label>
+              <Filter size={12} /> Téma
+            </label>
+            <select
+              value={filterTheme}
+              onChange={(e) => { setFilterTheme(e.target.value); setPage(1); }}
+              className="filter-select"
+            >
+              <option value="">Všechna témata</option>
+              {availableThemes.map((theme, index) => (
+                <option key={index} value={theme}>
+                  {theme}
+                </option>
+              ))}
+            </select>
+          </div>
 
           <div className="filter-group">
             <label>
@@ -269,9 +303,9 @@ const getProgressStyle = (yes, no, abstain) => {
           </div>
         </div>
 
-        {(filterResult || filterDateFrom || filterDateTo || searchQuery) && (
+        {(filterResult || filterTheme || filterDateFrom || filterDateTo || searchQuery) && (
           <button
-            onClick={() => { setFilterResult(''); setFilterDateFrom(''); setFilterDateTo(''); setSearchQuery(''); setPage(1); }}
+            onClick={() => { setFilterResult(''); setFilterTheme(''); setFilterDateFrom(''); setFilterDateTo(''); setSearchQuery(''); setPage(1); }}
             className="clear-filters-btn"
           >
             <X size={14} /> Zrušit všechny filtry

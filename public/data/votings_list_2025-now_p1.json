@@ -10,7 +10,8 @@
       "abstain": 3,
       "absent": 2,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86328,
@@ -23,7 +24,8 @@
       "abstain": 1,
       "absent": 2,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86329,
@@ -36,7 +38,8 @@
       "abstain": 1,
       "absent": 7,
       "not_logged": 8
-    }
+    },
+    "temata": []
   },
   {
     "id": 86330,
@@ -49,7 +52,8 @@
       "abstain": 10,
       "absent": 5,
       "not_logged": 8
-    }
+    },
+    "temata": []
   },
   {
     "id": 86331,
@@ -62,7 +66,8 @@
       "abstain": 12,
       "absent": 5,
       "not_logged": 7
-    }
+    },
+    "temata": []
   },
   {
     "id": 86332,
@@ -75,7 +80,8 @@
       "abstain": 0,
       "absent": 5,
       "not_logged": 2
-    }
+    },
+    "temata": []
   },
   {
     "id": 86333,
@@ -88,7 +94,8 @@
       "abstain": 26,
       "absent": 4,
       "not_logged": 45
-    }
+    },
+    "temata": []
   },
   {
     "id": 86334,
@@ -101,7 +108,8 @@
       "abstain": 37,
       "absent": 3,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 86335,
@@ -114,7 +122,8 @@
       "abstain": 37,
       "absent": 4,
       "not_logged": 2
-    }
+    },
+    "temata": []
   },
   {
     "id": 86336,
@@ -127,7 +136,8 @@
       "abstain": 21,
       "absent": 4,
       "not_logged": 18
-    }
+    },
+    "temata": []
   },
   {
     "id": 86337,
@@ -140,7 +150,8 @@
       "abstain": 13,
       "absent": 3,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 86338,
@@ -153,7 +164,8 @@
       "abstain": 8,
       "absent": 3,
       "not_logged": 3
-    }
+    },
+    "temata": []
   },
   {
     "id": 86339,
@@ -166,7 +178,8 @@
       "abstain": 7,
       "absent": 3,
       "not_logged": 3
-    }
+    },
+    "temata": []
   },
   {
     "id": 86340,
@@ -179,7 +192,8 @@
       "abstain": 8,
       "absent": 3,
       "not_logged": 3
-    }
+    },
+    "temata": []
   },
   {
     "id": 86341,
@@ -192,7 +206,8 @@
       "abstain": 42,
       "absent": 3,
       "not_logged": 3
-    }
+    },
+    "temata": []
   },
   {
     "id": 86342,
@@ -205,7 +220,8 @@
       "abstain": 17,
       "absent": 3,
       "not_logged": 3
-    }
+    },
+    "temata": []
   },
   {
     "id": 86343,
@@ -218,7 +234,8 @@
       "abstain": 21,
       "absent": 3,
       "not_logged": 3
-    }
+    },
+    "temata": []
   },
   {
     "id": 86344,
@@ -231,7 +248,8 @@
       "abstain": 27,
       "absent": 3,
       "not_logged": 3
-    }
+    },
+    "temata": []
   },
   {
     "id": 86345,
@@ -244,7 +262,8 @@
       "abstain": 14,
       "absent": 3,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86346,
@@ -257,7 +276,8 @@
       "abstain": 38,
       "absent": 3,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86347,
@@ -270,7 +290,8 @@
       "abstain": 0,
       "absent": 9,
       "not_logged": 13
-    }
+    },
+    "temata": []
   },
   {
     "id": 86348,
@@ -283,7 +304,8 @@
       "abstain": 1,
       "absent": 9,
       "not_logged": 2
-    }
+    },
+    "temata": []
   },
   {
     "id": 86349,
@@ -296,7 +318,8 @@
       "abstain": 0,
       "absent": 9,
       "not_logged": 2
-    }
+    },
+    "temata": []
   },
   {
     "id": 86350,
@@ -309,7 +332,8 @@
       "abstain": 1,
       "absent": 9,
       "not_logged": 2
-    }
+    },
+    "temata": []
   },
   {
     "id": 86351,
@@ -322,7 +346,8 @@
       "abstain": 39,
       "absent": 9,
       "not_logged": 2
-    }
+    },
+    "temata": []
   },
   {
     "id": 86352,
@@ -335,7 +360,8 @@
       "abstain": 6,
       "absent": 8,
       "not_logged": 0
-    }
+    },
+    "temata": []
   },
   {
     "id": 86353,
@@ -348,7 +374,8 @@
       "abstain": 2,
       "absent": 7,
       "not_logged": 0
-    }
+    },
+    "temata": []
   },
   {
     "id": 86354,
@@ -361,7 +388,8 @@
       "abstain": 1,
       "absent": 7,
       "not_logged": 0
-    }
+    },
+    "temata": []
   },
   {
     "id": 86355,
@@ -374,7 +402,8 @@
       "abstain": 2,
       "absent": 7,
       "not_logged": 0
-    }
+    },
+    "temata": []
   },
   {
     "id": 86356,
@@ -387,7 +416,8 @@
       "abstain": 1,
       "absent": 7,
       "not_logged": 0
-    }
+    },
+    "temata": []
   },
   {
     "id": 86357,
@@ -400,7 +430,8 @@
       "abstain": 3,
       "absent": 7,
       "not_logged": 0
-    }
+    },
+    "temata": []
   },
   {
     "id": 86358,
@@ -413,7 +444,8 @@
       "abstain": 3,
       "absent": 7,
       "not_logged": 0
-    }
+    },
+    "temata": []
   },
   {
     "id": 86359,
@@ -426,7 +458,8 @@
       "abstain": 4,
       "absent": 7,
       "not_logged": 0
-    }
+    },
+    "temata": []
   },
   {
     "id": 86360,
@@ -439,7 +472,8 @@
       "abstain": 5,
       "absent": 7,
       "not_logged": 0
-    }
+    },
+    "temata": []
   },
   {
     "id": 86361,
@@ -452,7 +486,8 @@
       "abstain": 1,
       "absent": 7,
       "not_logged": 0
-    }
+    },
+    "temata": []
   },
   {
     "id": 86362,
@@ -465,7 +500,8 @@
       "abstain": 1,
       "absent": 7,
       "not_logged": 0
-    }
+    },
+    "temata": []
   },
   {
     "id": 86363,
@@ -478,7 +514,8 @@
       "abstain": 2,
       "absent": 7,
       "not_logged": 0
-    }
+    },
+    "temata": []
   },
   {
     "id": 86364,
@@ -491,7 +528,8 @@
       "abstain": 5,
       "absent": 7,
       "not_logged": 0
-    }
+    },
+    "temata": []
   },
   {
     "id": 86365,
@@ -504,7 +542,8 @@
       "abstain": 1,
       "absent": 7,
       "not_logged": 0
-    }
+    },
+    "temata": []
   },
   {
     "id": 86366,
@@ -517,7 +556,8 @@
       "abstain": 1,
       "absent": 7,
       "not_logged": 0
-    }
+    },
+    "temata": []
   },
   {
     "id": 86367,
@@ -530,7 +570,8 @@
       "abstain": 1,
       "absent": 7,
       "not_logged": 0
-    }
+    },
+    "temata": []
   },
   {
     "id": 86368,
@@ -543,7 +584,8 @@
       "abstain": 3,
       "absent": 7,
       "not_logged": 0
-    }
+    },
+    "temata": []
   },
   {
     "id": 86369,
@@ -556,7 +598,8 @@
       "abstain": 2,
       "absent": 7,
       "not_logged": 0
-    }
+    },
+    "temata": []
   },
   {
     "id": 86370,
@@ -569,7 +612,8 @@
       "abstain": 6,
       "absent": 7,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86371,
@@ -582,7 +626,8 @@
       "abstain": 6,
       "absent": 7,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86372,
@@ -595,7 +640,8 @@
       "abstain": 9,
       "absent": 7,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86373,
@@ -608,7 +654,8 @@
       "abstain": 7,
       "absent": 7,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86374,
@@ -621,7 +668,8 @@
       "abstain": 12,
       "absent": 7,
       "not_logged": 0
-    }
+    },
+    "temata": []
   },
   {
     "id": 86375,
@@ -634,7 +682,8 @@
       "abstain": 11,
       "absent": 7,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86376,
@@ -647,7 +696,8 @@
       "abstain": 10,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86377,
@@ -660,7 +710,8 @@
       "abstain": 8,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86378,
@@ -673,7 +724,8 @@
       "abstain": 9,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86379,
@@ -686,7 +738,8 @@
       "abstain": 23,
       "absent": 9,
       "not_logged": 8
-    }
+    },
+    "temata": []
   },
   {
     "id": 86380,
@@ -699,7 +752,8 @@
       "abstain": 4,
       "absent": 9,
       "not_logged": 3
-    }
+    },
+    "temata": []
   },
   {
     "id": 86381,
@@ -712,7 +766,8 @@
       "abstain": 40,
       "absent": 9,
       "not_logged": 3
-    }
+    },
+    "temata": []
   },
   {
     "id": 86382,
@@ -725,7 +780,8 @@
       "abstain": 43,
       "absent": 9,
       "not_logged": 3
-    }
+    },
+    "temata": []
   },
   {
     "id": 86383,
@@ -738,7 +794,8 @@
       "abstain": 106,
       "absent": 9,
       "not_logged": 3
-    }
+    },
+    "temata": []
   },
   {
     "id": 86384,
@@ -751,7 +808,8 @@
       "abstain": 150,
       "absent": 9,
       "not_logged": 3
-    }
+    },
+    "temata": []
   },
   {
     "id": 86385,
@@ -764,7 +822,8 @@
       "abstain": 155,
       "absent": 9,
       "not_logged": 3
-    }
+    },
+    "temata": []
   },
   {
     "id": 86386,
@@ -777,7 +836,8 @@
       "abstain": 7,
       "absent": 9,
       "not_logged": 3
-    }
+    },
+    "temata": []
   },
   {
     "id": 86387,
@@ -790,7 +850,8 @@
       "abstain": 2,
       "absent": 9,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86388,
@@ -803,7 +864,8 @@
       "abstain": 3,
       "absent": 9,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86389,
@@ -816,7 +878,8 @@
       "abstain": 1,
       "absent": 9,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86390,
@@ -829,7 +892,8 @@
       "abstain": 12,
       "absent": 9,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86391,
@@ -842,7 +906,8 @@
       "abstain": 7,
       "absent": 9,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86392,
@@ -855,7 +920,8 @@
       "abstain": 3,
       "absent": 9,
       "not_logged": 3
-    }
+    },
+    "temata": []
   },
   {
     "id": 86393,
@@ -868,7 +934,8 @@
       "abstain": 4,
       "absent": 9,
       "not_logged": 3
-    }
+    },
+    "temata": []
   },
   {
     "id": 86394,
@@ -881,7 +948,8 @@
       "abstain": 2,
       "absent": 9,
       "not_logged": 3
-    }
+    },
+    "temata": []
   },
   {
     "id": 86395,
@@ -894,7 +962,8 @@
       "abstain": 2,
       "absent": 9,
       "not_logged": 3
-    }
+    },
+    "temata": []
   },
   {
     "id": 86396,
@@ -907,7 +976,8 @@
       "abstain": 4,
       "absent": 9,
       "not_logged": 3
-    }
+    },
+    "temata": []
   },
   {
     "id": 86397,
@@ -920,7 +990,8 @@
       "abstain": 7,
       "absent": 9,
       "not_logged": 3
-    }
+    },
+    "temata": []
   },
   {
     "id": 86398,
@@ -933,7 +1004,8 @@
       "abstain": 23,
       "absent": 9,
       "not_logged": 3
-    }
+    },
+    "temata": []
   },
   {
     "id": 86399,
@@ -946,7 +1018,8 @@
       "abstain": 2,
       "absent": 9,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86400,
@@ -959,7 +1032,8 @@
       "abstain": 7,
       "absent": 9,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86401,
@@ -972,7 +1046,8 @@
       "abstain": 7,
       "absent": 9,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86402,
@@ -985,7 +1060,8 @@
       "abstain": 6,
       "absent": 9,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86403,
@@ -998,7 +1074,8 @@
       "abstain": 19,
       "absent": 10,
       "not_logged": 2
-    }
+    },
+    "temata": []
   },
   {
     "id": 86404,
@@ -1011,7 +1088,8 @@
       "abstain": 11,
       "absent": 10,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86405,
@@ -1024,7 +1102,8 @@
       "abstain": 18,
       "absent": 10,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86406,
@@ -1037,7 +1116,8 @@
       "abstain": 12,
       "absent": 10,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86407,
@@ -1050,7 +1130,8 @@
       "abstain": 10,
       "absent": 10,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86408,
@@ -1063,7 +1144,8 @@
       "abstain": 10,
       "absent": 10,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86409,
@@ -1076,7 +1158,8 @@
       "abstain": 8,
       "absent": 10,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86410,
@@ -1089,7 +1172,8 @@
       "abstain": 8,
       "absent": 10,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86411,
@@ -1102,7 +1186,8 @@
       "abstain": 9,
       "absent": 10,
       "not_logged": 2
-    }
+    },
+    "temata": []
   },
   {
     "id": 86412,
@@ -1115,7 +1200,8 @@
       "abstain": 13,
       "absent": 10,
       "not_logged": 2
-    }
+    },
+    "temata": []
   },
   {
     "id": 86413,
@@ -1128,7 +1214,8 @@
       "abstain": 5,
       "absent": 10,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86414,
@@ -1141,7 +1228,8 @@
       "abstain": 7,
       "absent": 10,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86415,
@@ -1154,7 +1242,8 @@
       "abstain": 6,
       "absent": 10,
       "not_logged": 0
-    }
+    },
+    "temata": []
   },
   {
     "id": 86416,
@@ -1167,7 +1256,8 @@
       "abstain": 13,
       "absent": 10,
       "not_logged": 0
-    }
+    },
+    "temata": []
   },
   {
     "id": 86417,
@@ -1180,7 +1270,8 @@
       "abstain": 8,
       "absent": 10,
       "not_logged": 0
-    }
+    },
+    "temata": []
   },
   {
     "id": 86418,
@@ -1193,7 +1284,8 @@
       "abstain": 11,
       "absent": 10,
       "not_logged": 0
-    }
+    },
+    "temata": []
   },
   {
     "id": 86419,
@@ -1206,7 +1298,8 @@
       "abstain": 9,
       "absent": 10,
       "not_logged": 0
-    }
+    },
+    "temata": []
   },
   {
     "id": 86420,
@@ -1219,7 +1312,8 @@
       "abstain": 9,
       "absent": 10,
       "not_logged": 0
-    }
+    },
+    "temata": []
   },
   {
     "id": 86421,
@@ -1232,7 +1326,8 @@
       "abstain": 11,
       "absent": 10,
       "not_logged": 0
-    }
+    },
+    "temata": []
   },
   {
     "id": 86422,
@@ -1245,7 +1340,8 @@
       "abstain": 7,
       "absent": 11,
       "not_logged": 33
-    }
+    },
+    "temata": []
   },
   {
     "id": 86423,
@@ -1258,7 +1354,8 @@
       "abstain": 33,
       "absent": 12,
       "not_logged": 16
-    }
+    },
+    "temata": []
   },
   {
     "id": 86424,
@@ -1271,7 +1368,8 @@
       "abstain": 10,
       "absent": 10,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86425,
@@ -1284,7 +1382,8 @@
       "abstain": 7,
       "absent": 10,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86426,
@@ -1297,7 +1396,8 @@
       "abstain": 0,
       "absent": 16,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86427,
@@ -1310,7 +1410,8 @@
       "abstain": 8,
       "absent": 16,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86428,
@@ -1323,7 +1424,8 @@
       "abstain": 106,
       "absent": 15,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 86429,
@@ -1336,7 +1438,8 @@
       "abstain": 11,
       "absent": 15,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 86430,
@@ -1349,7 +1452,8 @@
       "abstain": 4,
       "absent": 17,
       "not_logged": 10
-    }
+    },
+    "temata": []
   },
   {
     "id": 86431,
@@ -1362,7 +1466,8 @@
       "abstain": 4,
       "absent": 17,
       "not_logged": 7
-    }
+    },
+    "temata": []
   },
   {
     "id": 86432,
@@ -1375,7 +1480,8 @@
       "abstain": 4,
       "absent": 17,
       "not_logged": 7
-    }
+    },
+    "temata": []
   },
   {
     "id": 86433,
@@ -1388,7 +1494,8 @@
       "abstain": 1,
       "absent": 16,
       "not_logged": 9
-    }
+    },
+    "temata": []
   },
   {
     "id": 86434,
@@ -1401,7 +1508,8 @@
       "abstain": 1,
       "absent": 16,
       "not_logged": 9
-    }
+    },
+    "temata": []
   },
   {
     "id": 86435,
@@ -1414,7 +1522,8 @@
       "abstain": 2,
       "absent": 16,
       "not_logged": 9
-    }
+    },
+    "temata": []
   },
   {
     "id": 86436,
@@ -1427,7 +1536,8 @@
       "abstain": 0,
       "absent": 16,
       "not_logged": 9
-    }
+    },
+    "temata": []
   },
   {
     "id": 86437,
@@ -1440,7 +1550,8 @@
       "abstain": 1,
       "absent": 16,
       "not_logged": 9
-    }
+    },
+    "temata": []
   },
   {
     "id": 86438,
@@ -1453,7 +1564,8 @@
       "abstain": 0,
       "absent": 16,
       "not_logged": 9
-    }
+    },
+    "temata": []
   },
   {
     "id": 86439,
@@ -1466,7 +1578,8 @@
       "abstain": 44,
       "absent": 16,
       "not_logged": 11
-    }
+    },
+    "temata": []
   },
   {
     "id": 86440,
@@ -1479,7 +1592,8 @@
       "abstain": 6,
       "absent": 19,
       "not_logged": 30
-    }
+    },
+    "temata": []
   },
   {
     "id": 86441,
@@ -1492,7 +1606,8 @@
       "abstain": 6,
       "absent": 3,
       "not_logged": 25
-    }
+    },
+    "temata": []
   },
   {
     "id": 86442,
@@ -1505,7 +1620,8 @@
       "abstain": 8,
       "absent": 2,
       "not_logged": 3
-    }
+    },
+    "temata": []
   },
   {
     "id": 86443,
@@ -1518,7 +1634,8 @@
       "abstain": 38,
       "absent": 2,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86444,
@@ -1531,7 +1648,8 @@
       "abstain": 9,
       "absent": 2,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86445,
@@ -1544,7 +1662,8 @@
       "abstain": 61,
       "absent": 2,
       "not_logged": 2
-    }
+    },
+    "temata": []
   },
   {
     "id": 86446,
@@ -1557,7 +1676,8 @@
       "abstain": 38,
       "absent": 2,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86447,
@@ -1570,7 +1690,8 @@
       "abstain": 3,
       "absent": 2,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86448,
@@ -1583,7 +1704,8 @@
       "abstain": 27,
       "absent": 2,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86449,
@@ -1596,7 +1718,8 @@
       "abstain": 25,
       "absent": 2,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86450,
@@ -1609,7 +1732,8 @@
       "abstain": 50,
       "absent": 2,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86451,
@@ -1622,7 +1746,8 @@
       "abstain": 41,
       "absent": 2,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86452,
@@ -1635,7 +1760,8 @@
       "abstain": 54,
       "absent": 2,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86453,
@@ -1648,7 +1774,8 @@
       "abstain": 28,
       "absent": 2,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86454,
@@ -1661,7 +1788,8 @@
       "abstain": 35,
       "absent": 2,
       "not_logged": 0
-    }
+    },
+    "temata": []
   },
   {
     "id": 86455,
@@ -1674,7 +1802,8 @@
       "abstain": 31,
       "absent": 2,
       "not_logged": 0
-    }
+    },
+    "temata": []
   },
   {
     "id": 86456,
@@ -1687,7 +1816,8 @@
       "abstain": 27,
       "absent": 2,
       "not_logged": 0
-    }
+    },
+    "temata": []
   },
   {
     "id": 86457,
@@ -1700,7 +1830,8 @@
       "abstain": 28,
       "absent": 2,
       "not_logged": 0
-    }
+    },
+    "temata": []
   },
   {
     "id": 86458,
@@ -1713,7 +1844,8 @@
       "abstain": 59,
       "absent": 2,
       "not_logged": 0
-    }
+    },
+    "temata": []
   },
   {
     "id": 86459,
@@ -1726,7 +1858,8 @@
       "abstain": 54,
       "absent": 2,
       "not_logged": 0
-    }
+    },
+    "temata": []
   },
   {
     "id": 86460,
@@ -1739,7 +1872,8 @@
       "abstain": 29,
       "absent": 2,
       "not_logged": 0
-    }
+    },
+    "temata": []
   },
   {
     "id": 86461,
@@ -1752,7 +1886,8 @@
       "abstain": 27,
       "absent": 2,
       "not_logged": 0
-    }
+    },
+    "temata": []
   },
   {
     "id": 86462,
@@ -1765,7 +1900,8 @@
       "abstain": 27,
       "absent": 2,
       "not_logged": 0
-    }
+    },
+    "temata": []
   },
   {
     "id": 86463,
@@ -1778,7 +1914,8 @@
       "abstain": 27,
       "absent": 2,
       "not_logged": 0
-    }
+    },
+    "temata": []
   },
   {
     "id": 86464,
@@ -1791,7 +1928,8 @@
       "abstain": 0,
       "absent": 2,
       "not_logged": 0
-    }
+    },
+    "temata": []
   },
   {
     "id": 86465,
@@ -1804,7 +1942,8 @@
       "abstain": 0,
       "absent": 2,
       "not_logged": 0
-    }
+    },
+    "temata": []
   },
   {
     "id": 86466,
@@ -1817,7 +1956,8 @@
       "abstain": 34,
       "absent": 2,
       "not_logged": 0
-    }
+    },
+    "temata": []
   },
   {
     "id": 86467,
@@ -1830,7 +1970,8 @@
       "abstain": 74,
       "absent": 2,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86468,
@@ -1843,7 +1984,8 @@
       "abstain": 73,
       "absent": 2,
       "not_logged": 0
-    }
+    },
+    "temata": []
   },
   {
     "id": 86469,
@@ -1856,7 +1998,8 @@
       "abstain": 45,
       "absent": 2,
       "not_logged": 0
-    }
+    },
+    "temata": []
   },
   {
     "id": 86470,
@@ -1869,7 +2012,8 @@
       "abstain": 140,
       "absent": 2,
       "not_logged": 0
-    }
+    },
+    "temata": []
   },
   {
     "id": 86471,
@@ -1882,7 +2026,8 @@
       "abstain": 47,
       "absent": 2,
       "not_logged": 0
-    }
+    },
+    "temata": []
   },
   {
     "id": 86472,
@@ -1895,7 +2040,8 @@
       "abstain": 26,
       "absent": 2,
       "not_logged": 0
-    }
+    },
+    "temata": []
   },
   {
     "id": 86473,
@@ -1908,7 +2054,8 @@
       "abstain": 11,
       "absent": 2,
       "not_logged": 0
-    }
+    },
+    "temata": []
   },
   {
     "id": 86474,
@@ -1921,7 +2068,8 @@
       "abstain": 69,
       "absent": 2,
       "not_logged": 0
-    }
+    },
+    "temata": []
   },
   {
     "id": 86475,
@@ -1934,7 +2082,8 @@
       "abstain": 12,
       "absent": 2,
       "not_logged": 3
-    }
+    },
+    "temata": []
   },
   {
     "id": 86476,
@@ -1947,7 +2096,8 @@
       "abstain": 15,
       "absent": 8,
       "not_logged": 28
-    }
+    },
+    "temata": []
   },
   {
     "id": 86477,
@@ -1960,7 +2110,8 @@
       "abstain": 23,
       "absent": 3,
       "not_logged": 17
-    }
+    },
+    "temata": []
   },
   {
     "id": 86478,
@@ -1973,7 +2124,8 @@
       "abstain": 22,
       "absent": 3,
       "not_logged": 17
-    }
+    },
+    "temata": []
   },
   {
     "id": 86479,
@@ -1986,7 +2138,8 @@
       "abstain": 65,
       "absent": 3,
       "not_logged": 8
-    }
+    },
+    "temata": []
   },
   {
     "id": 86480,
@@ -1999,7 +2152,8 @@
       "abstain": 0,
       "absent": 1,
       "not_logged": 0
-    }
+    },
+    "temata": []
   },
   {
     "id": 86481,
@@ -2012,7 +2166,8 @@
       "abstain": 11,
       "absent": 1,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86482,
@@ -2025,7 +2180,8 @@
       "abstain": 102,
       "absent": 1,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 86483,
@@ -2038,7 +2194,8 @@
       "abstain": 103,
       "absent": 1,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 86484,
@@ -2051,7 +2208,8 @@
       "abstain": 105,
       "absent": 1,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 86485,
@@ -2064,7 +2222,8 @@
       "abstain": 105,
       "absent": 1,
       "not_logged": 3
-    }
+    },
+    "temata": []
   },
   {
     "id": 86486,
@@ -2077,7 +2236,8 @@
       "abstain": 1,
       "absent": 1,
       "not_logged": 3
-    }
+    },
+    "temata": []
   },
   {
     "id": 86487,
@@ -2090,7 +2250,8 @@
       "abstain": 19,
       "absent": 17,
       "not_logged": 9
-    }
+    },
+    "temata": []
   },
   {
     "id": 86488,
@@ -2103,7 +2264,8 @@
       "abstain": 0,
       "absent": 17,
       "not_logged": 8
-    }
+    },
+    "temata": []
   },
   {
     "id": 86489,
@@ -2116,7 +2278,8 @@
       "abstain": 24,
       "absent": 17,
       "not_logged": 8
-    }
+    },
+    "temata": []
   },
   {
     "id": 86490,
@@ -2129,7 +2292,8 @@
       "abstain": 21,
       "absent": 18,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 86491,
@@ -2142,7 +2306,8 @@
       "abstain": 22,
       "absent": 18,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 86492,
@@ -2155,7 +2320,8 @@
       "abstain": 2,
       "absent": 15,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 86493,
@@ -2168,7 +2334,8 @@
       "abstain": 5,
       "absent": 15,
       "not_logged": 2
-    }
+    },
+    "temata": []
   },
   {
     "id": 86494,
@@ -2181,7 +2348,8 @@
       "abstain": 0,
       "absent": 15,
       "not_logged": 2
-    }
+    },
+    "temata": []
   },
   {
     "id": 86495,
@@ -2194,7 +2362,8 @@
       "abstain": 1,
       "absent": 15,
       "not_logged": 2
-    }
+    },
+    "temata": []
   },
   {
     "id": 86496,
@@ -2207,7 +2376,8 @@
       "abstain": 0,
       "absent": 15,
       "not_logged": 2
-    }
+    },
+    "temata": []
   },
   {
     "id": 86497,
@@ -2220,7 +2390,8 @@
       "abstain": 22,
       "absent": 15,
       "not_logged": 2
-    }
+    },
+    "temata": []
   },
   {
     "id": 86498,
@@ -2233,7 +2404,8 @@
       "abstain": 1,
       "absent": 15,
       "not_logged": 2
-    }
+    },
+    "temata": []
   },
   {
     "id": 86499,
@@ -2246,7 +2418,8 @@
       "abstain": 0,
       "absent": 15,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86500,
@@ -2259,7 +2432,8 @@
       "abstain": 0,
       "absent": 15,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86501,
@@ -2272,7 +2446,8 @@
       "abstain": 65,
       "absent": 15,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86502,
@@ -2285,7 +2460,8 @@
       "abstain": 23,
       "absent": 15,
       "not_logged": 3
-    }
+    },
+    "temata": []
   },
   {
     "id": 86503,
@@ -2298,7 +2474,8 @@
       "abstain": 1,
       "absent": 13,
       "not_logged": 22
-    }
+    },
+    "temata": []
   },
   {
     "id": 86504,
@@ -2311,7 +2488,8 @@
       "abstain": 1,
       "absent": 13,
       "not_logged": 15
-    }
+    },
+    "temata": []
   },
   {
     "id": 86505,
@@ -2324,7 +2502,8 @@
       "abstain": 37,
       "absent": 13,
       "not_logged": 14
-    }
+    },
+    "temata": []
   },
   {
     "id": 86506,
@@ -2337,7 +2516,8 @@
       "abstain": 5,
       "absent": 11,
       "not_logged": 10
-    }
+    },
+    "temata": []
   },
   {
     "id": 86507,
@@ -2350,7 +2530,8 @@
       "abstain": 3,
       "absent": 11,
       "not_logged": 8
-    }
+    },
+    "temata": []
   },
   {
     "id": 86508,
@@ -2363,7 +2544,8 @@
       "abstain": 0,
       "absent": 20,
       "not_logged": 9
-    }
+    },
+    "temata": []
   },
   {
     "id": 86509,
@@ -2376,7 +2558,8 @@
       "abstain": 56,
       "absent": 19,
       "not_logged": 7
-    }
+    },
+    "temata": []
   },
   {
     "id": 86510,
@@ -2389,7 +2572,8 @@
       "abstain": 76,
       "absent": 19,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 86511,
@@ -2402,7 +2586,8 @@
       "abstain": 2,
       "absent": 19,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 86512,
@@ -2415,7 +2600,8 @@
       "abstain": 8,
       "absent": 19,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 86513,
@@ -2428,7 +2614,8 @@
       "abstain": 0,
       "absent": 19,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 86514,
@@ -2441,7 +2628,8 @@
       "abstain": 0,
       "absent": 19,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 86515,
@@ -2454,7 +2642,8 @@
       "abstain": 2,
       "absent": 19,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 86516,
@@ -2467,7 +2656,8 @@
       "abstain": 0,
       "absent": 19,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 86517,
@@ -2480,7 +2670,8 @@
       "abstain": 0,
       "absent": 19,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 86518,
@@ -2493,7 +2684,8 @@
       "abstain": 3,
       "absent": 19,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 86519,
@@ -2506,7 +2698,8 @@
       "abstain": 29,
       "absent": 19,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 86520,
@@ -2519,7 +2712,8 @@
       "abstain": 18,
       "absent": 19,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 86521,
@@ -2532,7 +2726,8 @@
       "abstain": 4,
       "absent": 19,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 86522,
@@ -2545,7 +2740,8 @@
       "abstain": 3,
       "absent": 19,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 86523,
@@ -2558,7 +2754,8 @@
       "abstain": 2,
       "absent": 19,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 86524,
@@ -2571,7 +2768,8 @@
       "abstain": 7,
       "absent": 19,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 86525,
@@ -2584,7 +2782,8 @@
       "abstain": 15,
       "absent": 19,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 86526,
@@ -2597,7 +2796,8 @@
       "abstain": 32,
       "absent": 18,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 86527,
@@ -2610,7 +2810,8 @@
       "abstain": 22,
       "absent": 18,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86528,
@@ -2623,7 +2824,8 @@
       "abstain": 23,
       "absent": 18,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86529,
@@ -2636,7 +2838,8 @@
       "abstain": 14,
       "absent": 18,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86530,
@@ -2649,7 +2852,8 @@
       "abstain": 21,
       "absent": 20,
       "not_logged": 7
-    }
+    },
+    "temata": []
   },
   {
     "id": 86531,
@@ -2662,7 +2866,8 @@
       "abstain": 14,
       "absent": 20,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 86532,
@@ -2675,7 +2880,8 @@
       "abstain": 34,
       "absent": 20,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 86533,
@@ -2688,7 +2894,8 @@
       "abstain": 29,
       "absent": 20,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 86534,
@@ -2701,7 +2908,8 @@
       "abstain": 20,
       "absent": 20,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86535,
@@ -2714,7 +2922,8 @@
       "abstain": 23,
       "absent": 20,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86536,
@@ -2727,7 +2936,8 @@
       "abstain": 25,
       "absent": 20,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86537,
@@ -2740,7 +2950,8 @@
       "abstain": 25,
       "absent": 20,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86538,
@@ -2753,7 +2964,8 @@
       "abstain": 88,
       "absent": 20,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86539,
@@ -2766,7 +2978,8 @@
       "abstain": 30,
       "absent": 20,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86540,
@@ -2779,7 +2992,8 @@
       "abstain": 5,
       "absent": 20,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86541,
@@ -2792,7 +3006,8 @@
       "abstain": 6,
       "absent": 20,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86542,
@@ -2805,7 +3020,8 @@
       "abstain": 26,
       "absent": 20,
       "not_logged": 3
-    }
+    },
+    "temata": []
   },
   {
     "id": 86543,
@@ -2818,7 +3034,8 @@
       "abstain": 20,
       "absent": 20,
       "not_logged": 3
-    }
+    },
+    "temata": []
   },
   {
     "id": 86544,
@@ -2831,7 +3048,8 @@
       "abstain": 7,
       "absent": 20,
       "not_logged": 2
-    }
+    },
+    "temata": []
   },
   {
     "id": 86545,
@@ -2844,7 +3062,8 @@
       "abstain": 2,
       "absent": 20,
       "not_logged": 2
-    }
+    },
+    "temata": []
   },
   {
     "id": 86546,
@@ -2857,7 +3076,8 @@
       "abstain": 6,
       "absent": 20,
       "not_logged": 2
-    }
+    },
+    "temata": []
   },
   {
     "id": 86547,
@@ -2870,7 +3090,8 @@
       "abstain": 99,
       "absent": 20,
       "not_logged": 2
-    }
+    },
+    "temata": []
   },
   {
     "id": 86548,
@@ -2883,7 +3104,8 @@
       "abstain": 22,
       "absent": 20,
       "not_logged": 2
-    }
+    },
+    "temata": []
   },
   {
     "id": 86549,
@@ -2896,7 +3118,8 @@
       "abstain": 15,
       "absent": 20,
       "not_logged": 2
-    }
+    },
+    "temata": []
   },
   {
     "id": 86550,
@@ -2909,7 +3132,8 @@
       "abstain": 48,
       "absent": 20,
       "not_logged": 2
-    }
+    },
+    "temata": []
   },
   {
     "id": 86551,
@@ -2922,7 +3146,8 @@
       "abstain": 19,
       "absent": 20,
       "not_logged": 2
-    }
+    },
+    "temata": []
   },
   {
     "id": 86552,
@@ -2935,7 +3160,8 @@
       "abstain": 96,
       "absent": 20,
       "not_logged": 2
-    }
+    },
+    "temata": []
   },
   {
     "id": 86553,
@@ -2948,7 +3174,8 @@
       "abstain": 28,
       "absent": 20,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 86554,
@@ -2961,7 +3188,8 @@
       "abstain": 9,
       "absent": 20,
       "not_logged": 2
-    }
+    },
+    "temata": []
   },
   {
     "id": 86555,
@@ -2974,7 +3202,8 @@
       "abstain": 44,
       "absent": 20,
       "not_logged": 2
-    }
+    },
+    "temata": []
   },
   {
     "id": 86556,
@@ -2987,7 +3216,8 @@
       "abstain": 30,
       "absent": 20,
       "not_logged": 2
-    }
+    },
+    "temata": []
   },
   {
     "id": 86557,
@@ -3000,7 +3230,8 @@
       "abstain": 17,
       "absent": 20,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86558,
@@ -3013,7 +3244,8 @@
       "abstain": 42,
       "absent": 20,
       "not_logged": 2
-    }
+    },
+    "temata": []
   },
   {
     "id": 86559,
@@ -3026,7 +3258,8 @@
       "abstain": 25,
       "absent": 20,
       "not_logged": 2
-    }
+    },
+    "temata": []
   },
   {
     "id": 86560,
@@ -3039,7 +3272,8 @@
       "abstain": 21,
       "absent": 20,
       "not_logged": 3
-    }
+    },
+    "temata": []
   },
   {
     "id": 86561,
@@ -3052,7 +3286,8 @@
       "abstain": 20,
       "absent": 20,
       "not_logged": 2
-    }
+    },
+    "temata": []
   },
   {
     "id": 86562,
@@ -3065,7 +3300,8 @@
       "abstain": 19,
       "absent": 20,
       "not_logged": 3
-    }
+    },
+    "temata": []
   },
   {
     "id": 86563,
@@ -3078,7 +3314,8 @@
       "abstain": 22,
       "absent": 20,
       "not_logged": 3
-    }
+    },
+    "temata": []
   },
   {
     "id": 86564,
@@ -3091,7 +3328,8 @@
       "abstain": 24,
       "absent": 20,
       "not_logged": 3
-    }
+    },
+    "temata": []
   },
   {
     "id": 86565,
@@ -3104,7 +3342,8 @@
       "abstain": 2,
       "absent": 21,
       "not_logged": 21
-    }
+    },
+    "temata": []
   },
   {
     "id": 86566,
@@ -3117,7 +3356,8 @@
       "abstain": 57,
       "absent": 21,
       "not_logged": 23
-    }
+    },
+    "temata": []
   },
   {
     "id": 86567,
@@ -3130,7 +3370,8 @@
       "abstain": 33,
       "absent": 21,
       "not_logged": 20
-    }
+    },
+    "temata": []
   },
   {
     "id": 86568,
@@ -3143,7 +3384,8 @@
       "abstain": 15,
       "absent": 43,
       "not_logged": 35
-    }
+    },
+    "temata": []
   },
   {
     "id": 86569,
@@ -3156,7 +3398,8 @@
       "abstain": 1,
       "absent": 33,
       "not_logged": 51
-    }
+    },
+    "temata": []
   },
   {
     "id": 86570,
@@ -3169,7 +3412,8 @@
       "abstain": 24,
       "absent": 24,
       "not_logged": 14
-    }
+    },
+    "temata": []
   },
   {
     "id": 86571,
@@ -3182,7 +3426,8 @@
       "abstain": 3,
       "absent": 26,
       "not_logged": 44
-    }
+    },
+    "temata": []
   },
   {
     "id": 86572,
@@ -3195,7 +3440,8 @@
       "abstain": 16,
       "absent": 35,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86573,
@@ -3208,7 +3454,8 @@
       "abstain": 14,
       "absent": 35,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86574,
@@ -3221,7 +3468,8 @@
       "abstain": 0,
       "absent": 35,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86575,
@@ -3234,7 +3482,8 @@
       "abstain": 92,
       "absent": 35,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86576,
@@ -3247,7 +3496,8 @@
       "abstain": 2,
       "absent": 35,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86577,
@@ -3260,7 +3510,8 @@
       "abstain": 14,
       "absent": 35,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86578,
@@ -3273,7 +3524,8 @@
       "abstain": 14,
       "absent": 35,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86579,
@@ -3286,7 +3538,8 @@
       "abstain": 2,
       "absent": 35,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86580,
@@ -3299,7 +3552,8 @@
       "abstain": 96,
       "absent": 35,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86581,
@@ -3312,7 +3566,8 @@
       "abstain": 3,
       "absent": 35,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86582,
@@ -3325,7 +3580,8 @@
       "abstain": 38,
       "absent": 35,
       "not_logged": 17
-    }
+    },
+    "temata": []
   },
   {
     "id": 86583,
@@ -3338,7 +3594,8 @@
       "abstain": 53,
       "absent": 35,
       "not_logged": 11
-    }
+    },
+    "temata": []
   },
   {
     "id": 86584,
@@ -3351,7 +3608,8 @@
       "abstain": 0,
       "absent": 35,
       "not_logged": 9
-    }
+    },
+    "temata": []
   },
   {
     "id": 86585,
@@ -3364,7 +3622,8 @@
       "abstain": 2,
       "absent": 35,
       "not_logged": 7
-    }
+    },
+    "temata": []
   },
   {
     "id": 86586,
@@ -3377,7 +3636,8 @@
       "abstain": 0,
       "absent": 35,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 86587,
@@ -3390,7 +3650,8 @@
       "abstain": 13,
       "absent": 35,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 86588,
@@ -3403,7 +3664,8 @@
       "abstain": 34,
       "absent": 35,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 86589,
@@ -3416,7 +3678,8 @@
       "abstain": 5,
       "absent": 35,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 86590,
@@ -3429,7 +3692,8 @@
       "abstain": 4,
       "absent": 35,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 86591,
@@ -3442,7 +3706,8 @@
       "abstain": 19,
       "absent": 35,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 86592,
@@ -3455,7 +3720,8 @@
       "abstain": 3,
       "absent": 35,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 86593,
@@ -3468,7 +3734,8 @@
       "abstain": 7,
       "absent": 35,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 86594,
@@ -3481,7 +3748,8 @@
       "abstain": 4,
       "absent": 36,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 86595,
@@ -3494,7 +3762,8 @@
       "abstain": 4,
       "absent": 36,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 86596,
@@ -3507,7 +3776,8 @@
       "abstain": 3,
       "absent": 35,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 86597,
@@ -3520,7 +3790,8 @@
       "abstain": 11,
       "absent": 36,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 86598,
@@ -3533,7 +3804,8 @@
       "abstain": 90,
       "absent": 36,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 86599,
@@ -3546,7 +3818,8 @@
       "abstain": 7,
       "absent": 36,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 86600,
@@ -3559,7 +3832,8 @@
       "abstain": 2,
       "absent": 36,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 86601,
@@ -3572,7 +3846,8 @@
       "abstain": 118,
       "absent": 36,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 86602,
@@ -3585,7 +3860,8 @@
       "abstain": 10,
       "absent": 36,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 86603,
@@ -3598,7 +3874,8 @@
       "abstain": 13,
       "absent": 46,
       "not_logged": 14
-    }
+    },
+    "temata": []
   },
   {
     "id": 86604,
@@ -3611,7 +3888,8 @@
       "abstain": 0,
       "absent": 46,
       "not_logged": 14
-    }
+    },
+    "temata": []
   },
   {
     "id": 86605,
@@ -3624,7 +3902,8 @@
       "abstain": 2,
       "absent": 46,
       "not_logged": 14
-    }
+    },
+    "temata": []
   },
   {
     "id": 86606,
@@ -3637,7 +3916,8 @@
       "abstain": 14,
       "absent": 46,
       "not_logged": 14
-    }
+    },
+    "temata": []
   },
   {
     "id": 86607,
@@ -3650,7 +3930,8 @@
       "abstain": 83,
       "absent": 46,
       "not_logged": 14
-    }
+    },
+    "temata": []
   },
   {
     "id": 86608,
@@ -3663,7 +3944,8 @@
       "abstain": 75,
       "absent": 46,
       "not_logged": 14
-    }
+    },
+    "temata": []
   },
   {
     "id": 86609,
@@ -3676,7 +3958,8 @@
       "abstain": 75,
       "absent": 46,
       "not_logged": 14
-    }
+    },
+    "temata": []
   },
   {
     "id": 86610,
@@ -3689,7 +3972,8 @@
       "abstain": 77,
       "absent": 46,
       "not_logged": 14
-    }
+    },
+    "temata": []
   },
   {
     "id": 86611,
@@ -3702,7 +3986,8 @@
       "abstain": 23,
       "absent": 46,
       "not_logged": 14
-    }
+    },
+    "temata": []
   },
   {
     "id": 86612,
@@ -3715,7 +4000,8 @@
       "abstain": 12,
       "absent": 46,
       "not_logged": 18
-    }
+    },
+    "temata": []
   },
   {
     "id": 86613,
@@ -3728,7 +4014,8 @@
       "abstain": 5,
       "absent": 17,
       "not_logged": 27
-    }
+    },
+    "temata": []
   },
   {
     "id": 86614,
@@ -3741,7 +4028,8 @@
       "abstain": 2,
       "absent": 20,
       "not_logged": 57
-    }
+    },
+    "temata": []
   },
   {
     "id": 86615,
@@ -3754,7 +4042,8 @@
       "abstain": 4,
       "absent": 17,
       "not_logged": 39
-    }
+    },
+    "temata": []
   },
   {
     "id": 86616,
@@ -3767,7 +4056,8 @@
       "abstain": 0,
       "absent": 17,
       "not_logged": 0
-    }
+    },
+    "temata": []
   },
   {
     "id": 86617,
@@ -3780,7 +4070,8 @@
       "abstain": 2,
       "absent": 32,
       "not_logged": 27
-    }
+    },
+    "temata": []
   },
   {
     "id": 86618,
@@ -3793,7 +4084,8 @@
       "abstain": 50,
       "absent": 32,
       "not_logged": 7
-    }
+    },
+    "temata": []
   },
   {
     "id": 86619,
@@ -3806,7 +4098,8 @@
       "abstain": 1,
       "absent": 38,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 86620,
@@ -3819,7 +4112,8 @@
       "abstain": 51,
       "absent": 38,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 86621,
@@ -3832,7 +4126,8 @@
       "abstain": 20,
       "absent": 38,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86622,
@@ -3845,7 +4140,8 @@
       "abstain": 40,
       "absent": 38,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86623,
@@ -3858,7 +4154,8 @@
       "abstain": 14,
       "absent": 38,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86624,
@@ -3871,7 +4168,8 @@
       "abstain": 36,
       "absent": 38,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86625,
@@ -3884,7 +4182,8 @@
       "abstain": 45,
       "absent": 38,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86626,
@@ -3897,7 +4196,8 @@
       "abstain": 42,
       "absent": 38,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86627,
@@ -3910,7 +4210,8 @@
       "abstain": 23,
       "absent": 38,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86628,
@@ -3923,7 +4224,8 @@
       "abstain": 44,
       "absent": 38,
       "not_logged": 3
-    }
+    },
+    "temata": []
   },
   {
     "id": 86629,
@@ -3936,7 +4238,8 @@
       "abstain": 20,
       "absent": 38,
       "not_logged": 3
-    }
+    },
+    "temata": []
   },
   {
     "id": 86630,
@@ -3949,7 +4252,8 @@
       "abstain": 27,
       "absent": 38,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86631,
@@ -3962,7 +4266,8 @@
       "abstain": 17,
       "absent": 38,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86632,
@@ -3975,7 +4280,8 @@
       "abstain": 42,
       "absent": 38,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86633,
@@ -3988,7 +4294,8 @@
       "abstain": 30,
       "absent": 38,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86634,
@@ -4001,7 +4308,8 @@
       "abstain": 23,
       "absent": 38,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86635,
@@ -4014,7 +4322,8 @@
       "abstain": 22,
       "absent": 38,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86636,
@@ -4027,7 +4336,8 @@
       "abstain": 1,
       "absent": 38,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86637,
@@ -4040,7 +4350,8 @@
       "abstain": 1,
       "absent": 38,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86638,
@@ -4053,7 +4364,8 @@
       "abstain": 3,
       "absent": 38,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86639,
@@ -4066,7 +4378,8 @@
       "abstain": 84,
       "absent": 38,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86640,
@@ -4079,7 +4392,8 @@
       "abstain": 4,
       "absent": 38,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86641,
@@ -4092,7 +4406,8 @@
       "abstain": 4,
       "absent": 38,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86642,
@@ -4105,7 +4420,8 @@
       "abstain": 5,
       "absent": 38,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86643,
@@ -4118,7 +4434,8 @@
       "abstain": 3,
       "absent": 38,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86644,
@@ -4131,7 +4448,8 @@
       "abstain": 4,
       "absent": 38,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86645,
@@ -4144,7 +4462,8 @@
       "abstain": 2,
       "absent": 38,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86646,
@@ -4157,7 +4476,8 @@
       "abstain": 87,
       "absent": 38,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86647,
@@ -4170,7 +4490,8 @@
       "abstain": 32,
       "absent": 38,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86648,
@@ -4183,7 +4504,8 @@
       "abstain": 1,
       "absent": 38,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86649,
@@ -4196,7 +4518,8 @@
       "abstain": 5,
       "absent": 38,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86650,
@@ -4209,7 +4532,8 @@
       "abstain": 4,
       "absent": 38,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86651,
@@ -4222,7 +4546,8 @@
       "abstain": 10,
       "absent": 38,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86652,
@@ -4235,7 +4560,8 @@
       "abstain": 5,
       "absent": 38,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86653,
@@ -4248,7 +4574,8 @@
       "abstain": 21,
       "absent": 38,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86654,
@@ -4261,7 +4588,8 @@
       "abstain": 3,
       "absent": 38,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86655,
@@ -4274,7 +4602,8 @@
       "abstain": 11,
       "absent": 38,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86656,
@@ -4287,7 +4616,8 @@
       "abstain": 73,
       "absent": 38,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86657,
@@ -4300,7 +4630,8 @@
       "abstain": 4,
       "absent": 38,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86658,
@@ -4313,7 +4644,8 @@
       "abstain": 84,
       "absent": 38,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86659,
@@ -4326,7 +4658,8 @@
       "abstain": 67,
       "absent": 38,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86660,
@@ -4339,7 +4672,8 @@
       "abstain": 8,
       "absent": 34,
       "not_logged": 57
-    }
+    },
+    "temata": []
   },
   {
     "id": 86661,
@@ -4352,7 +4686,8 @@
       "abstain": 0,
       "absent": 32,
       "not_logged": 13
-    }
+    },
+    "temata": []
   },
   {
     "id": 86662,
@@ -4365,7 +4700,8 @@
       "abstain": 1,
       "absent": 32,
       "not_logged": 12
-    }
+    },
+    "temata": []
   },
   {
     "id": 86663,
@@ -4378,7 +4714,8 @@
       "abstain": 1,
       "absent": 32,
       "not_logged": 12
-    }
+    },
+    "temata": []
   },
   {
     "id": 86664,
@@ -4391,7 +4728,8 @@
       "abstain": 1,
       "absent": 32,
       "not_logged": 11
-    }
+    },
+    "temata": []
   },
   {
     "id": 86665,
@@ -4404,7 +4742,8 @@
       "abstain": 18,
       "absent": 32,
       "not_logged": 11
-    }
+    },
+    "temata": []
   },
   {
     "id": 86666,
@@ -4417,7 +4756,8 @@
       "abstain": 28,
       "absent": 32,
       "not_logged": 9
-    }
+    },
+    "temata": []
   },
   {
     "id": 86667,
@@ -4430,7 +4770,8 @@
       "abstain": 4,
       "absent": 32,
       "not_logged": 9
-    }
+    },
+    "temata": []
   },
   {
     "id": 86668,
@@ -4443,7 +4784,8 @@
       "abstain": 2,
       "absent": 32,
       "not_logged": 9
-    }
+    },
+    "temata": []
   },
   {
     "id": 86669,
@@ -4456,7 +4798,8 @@
       "abstain": 15,
       "absent": 32,
       "not_logged": 10
-    }
+    },
+    "temata": []
   },
   {
     "id": 86670,
@@ -4469,7 +4812,8 @@
       "abstain": 21,
       "absent": 32,
       "not_logged": 10
-    }
+    },
+    "temata": []
   },
   {
     "id": 86671,
@@ -4482,7 +4826,8 @@
       "abstain": 4,
       "absent": 32,
       "not_logged": 10
-    }
+    },
+    "temata": []
   },
   {
     "id": 86672,
@@ -4495,7 +4840,8 @@
       "abstain": 17,
       "absent": 30,
       "not_logged": 12
-    }
+    },
+    "temata": []
   },
   {
     "id": 86673,
@@ -4508,7 +4854,8 @@
       "abstain": 14,
       "absent": 30,
       "not_logged": 10
-    }
+    },
+    "temata": []
   },
   {
     "id": 86674,
@@ -4521,7 +4868,8 @@
       "abstain": 51,
       "absent": 30,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 86675,
@@ -4534,7 +4882,8 @@
       "abstain": 39,
       "absent": 30,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86676,
@@ -4547,7 +4896,8 @@
       "abstain": 0,
       "absent": 33,
       "not_logged": 9
-    }
+    },
+    "temata": []
   },
   {
     "id": 86677,
@@ -4560,7 +4910,8 @@
       "abstain": 1,
       "absent": 33,
       "not_logged": 9
-    }
+    },
+    "temata": []
   },
   {
     "id": 86678,
@@ -4573,7 +4924,8 @@
       "abstain": 1,
       "absent": 33,
       "not_logged": 9
-    }
+    },
+    "temata": []
   },
   {
     "id": 86679,
@@ -4586,7 +4938,8 @@
       "abstain": 0,
       "absent": 33,
       "not_logged": 9
-    }
+    },
+    "temata": []
   },
   {
     "id": 86680,
@@ -4599,7 +4952,8 @@
       "abstain": 18,
       "absent": 33,
       "not_logged": 9
-    }
+    },
+    "temata": []
   },
   {
     "id": 86681,
@@ -4612,7 +4966,8 @@
       "abstain": 0,
       "absent": 33,
       "not_logged": 9
-    }
+    },
+    "temata": []
   },
   {
     "id": 86682,
@@ -4625,7 +4980,8 @@
       "abstain": 2,
       "absent": 46,
       "not_logged": 16
-    }
+    },
+    "temata": []
   },
   {
     "id": 86683,
@@ -4638,7 +4994,8 @@
       "abstain": 1,
       "absent": 46,
       "not_logged": 14
-    }
+    },
+    "temata": []
   },
   {
     "id": 86684,
@@ -4651,7 +5008,8 @@
       "abstain": 80,
       "absent": 46,
       "not_logged": 14
-    }
+    },
+    "temata": []
   },
   {
     "id": 86685,
@@ -4664,7 +5022,8 @@
       "abstain": 99,
       "absent": 46,
       "not_logged": 14
-    }
+    },
+    "temata": []
   },
   {
     "id": 86686,
@@ -4677,7 +5036,8 @@
       "abstain": 94,
       "absent": 46,
       "not_logged": 14
-    }
+    },
+    "temata": []
   },
   {
     "id": 86687,
@@ -4690,7 +5050,8 @@
       "abstain": 91,
       "absent": 46,
       "not_logged": 14
-    }
+    },
+    "temata": []
   },
   {
     "id": 86688,
@@ -4703,7 +5064,8 @@
       "abstain": 79,
       "absent": 46,
       "not_logged": 13
-    }
+    },
+    "temata": []
   },
   {
     "id": 86689,
@@ -4716,7 +5078,8 @@
       "abstain": 7,
       "absent": 46,
       "not_logged": 14
-    }
+    },
+    "temata": []
   },
   {
     "id": 86690,
@@ -4729,7 +5092,8 @@
       "abstain": 12,
       "absent": 46,
       "not_logged": 14
-    }
+    },
+    "temata": []
   },
   {
     "id": 86691,
@@ -4742,7 +5106,8 @@
       "abstain": 84,
       "absent": 46,
       "not_logged": 13
-    }
+    },
+    "temata": []
   },
   {
     "id": 86698,
@@ -4755,7 +5120,8 @@
       "abstain": 3,
       "absent": 53,
       "not_logged": 13
-    }
+    },
+    "temata": []
   },
   {
     "id": 86699,
@@ -4768,7 +5134,8 @@
       "abstain": 4,
       "absent": 52,
       "not_logged": 11
-    }
+    },
+    "temata": []
   },
   {
     "id": 86700,
@@ -4781,7 +5148,8 @@
       "abstain": 2,
       "absent": 52,
       "not_logged": 9
-    }
+    },
+    "temata": []
   },
   {
     "id": 86701,
@@ -4794,7 +5162,8 @@
       "abstain": 73,
       "absent": 52,
       "not_logged": 9
-    }
+    },
+    "temata": []
   },
   {
     "id": 86702,
@@ -4807,7 +5176,8 @@
       "abstain": 2,
       "absent": 52,
       "not_logged": 8
-    }
+    },
+    "temata": []
   },
   {
     "id": 86703,
@@ -4820,7 +5190,8 @@
       "abstain": 87,
       "absent": 52,
       "not_logged": 8
-    }
+    },
+    "temata": []
   },
   {
     "id": 86704,
@@ -4833,7 +5204,8 @@
       "abstain": 16,
       "absent": 52,
       "not_logged": 8
-    }
+    },
+    "temata": []
   },
   {
     "id": 86705,
@@ -4846,7 +5218,8 @@
       "abstain": 4,
       "absent": 52,
       "not_logged": 8
-    }
+    },
+    "temata": []
   },
   {
     "id": 86706,
@@ -4859,7 +5232,8 @@
       "abstain": 11,
       "absent": 52,
       "not_logged": 7
-    }
+    },
+    "temata": []
   },
   {
     "id": 86707,
@@ -4872,7 +5246,8 @@
       "abstain": 6,
       "absent": 52,
       "not_logged": 7
-    }
+    },
+    "temata": []
   },
   {
     "id": 86708,
@@ -4885,7 +5260,8 @@
       "abstain": 10,
       "absent": 52,
       "not_logged": 7
-    }
+    },
+    "temata": []
   },
   {
     "id": 86709,
@@ -4898,7 +5274,8 @@
       "abstain": 0,
       "absent": 50,
       "not_logged": 13
-    }
+    },
+    "temata": []
   },
   {
     "id": 86710,
@@ -4911,7 +5288,8 @@
       "abstain": 16,
       "absent": 52,
       "not_logged": 10
-    }
+    },
+    "temata": []
   },
   {
     "id": 86711,
@@ -4924,7 +5302,8 @@
       "abstain": 29,
       "absent": 52,
       "not_logged": 10
-    }
+    },
+    "temata": []
   },
   {
     "id": 86712,
@@ -4937,7 +5316,8 @@
       "abstain": 4,
       "absent": 52,
       "not_logged": 10
-    }
+    },
+    "temata": []
   },
   {
     "id": 86713,
@@ -4950,7 +5330,8 @@
       "abstain": 12,
       "absent": 52,
       "not_logged": 13
-    }
+    },
+    "temata": []
   },
   {
     "id": 86692,
@@ -4963,7 +5344,8 @@
       "abstain": 6,
       "absent": 52,
       "not_logged": 47
-    }
+    },
+    "temata": []
   },
   {
     "id": 86693,
@@ -4976,7 +5358,8 @@
       "abstain": 10,
       "absent": 51,
       "not_logged": 15
-    }
+    },
+    "temata": []
   },
   {
     "id": 86694,
@@ -4989,7 +5372,8 @@
       "abstain": 4,
       "absent": 51,
       "not_logged": 14
-    }
+    },
+    "temata": []
   },
   {
     "id": 86695,
@@ -5002,7 +5386,8 @@
       "abstain": 4,
       "absent": 51,
       "not_logged": 8
-    }
+    },
+    "temata": []
   },
   {
     "id": 86696,
@@ -5015,7 +5400,8 @@
       "abstain": 5,
       "absent": 52,
       "not_logged": 15
-    }
+    },
+    "temata": []
   },
   {
     "id": 86697,
@@ -5028,7 +5414,8 @@
       "abstain": 6,
       "absent": 52,
       "not_logged": 12
-    }
+    },
+    "temata": []
   },
   {
     "id": 86714,
@@ -5041,7 +5428,8 @@
       "abstain": 4,
       "absent": 18,
       "not_logged": 19
-    }
+    },
+    "temata": []
   },
   {
     "id": 86715,
@@ -5054,7 +5442,8 @@
       "abstain": 37,
       "absent": 17,
       "not_logged": 21
-    }
+    },
+    "temata": []
   },
   {
     "id": 86716,
@@ -5067,7 +5456,8 @@
       "abstain": 1,
       "absent": 17,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 86717,
@@ -5080,7 +5470,8 @@
       "abstain": 19,
       "absent": 17,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 86718,
@@ -5093,7 +5484,8 @@
       "abstain": 70,
       "absent": 17,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 86719,
@@ -5106,7 +5498,8 @@
       "abstain": 15,
       "absent": 17,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 86720,
@@ -5119,7 +5512,8 @@
       "abstain": 2,
       "absent": 17,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 86721,
@@ -5132,7 +5526,8 @@
       "abstain": 2,
       "absent": 17,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 86722,
@@ -5145,7 +5540,8 @@
       "abstain": 10,
       "absent": 17,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 86723,
@@ -5158,7 +5554,8 @@
       "abstain": 2,
       "absent": 17,
       "not_logged": 7
-    }
+    },
+    "temata": []
   },
   {
     "id": 86724,
@@ -5171,7 +5568,8 @@
       "abstain": 1,
       "absent": 17,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 86725,
@@ -5184,7 +5582,8 @@
       "abstain": 37,
       "absent": 17,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 86726,
@@ -5197,7 +5596,8 @@
       "abstain": 5,
       "absent": 17,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 86727,
@@ -5210,7 +5610,8 @@
       "abstain": 2,
       "absent": 17,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 86728,
@@ -5223,7 +5624,8 @@
       "abstain": 4,
       "absent": 17,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 86729,
@@ -5236,7 +5638,8 @@
       "abstain": 4,
       "absent": 17,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 86730,
@@ -5249,7 +5652,8 @@
       "abstain": 8,
       "absent": 17,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 86731,
@@ -5262,7 +5666,8 @@
       "abstain": 9,
       "absent": 17,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 86732,
@@ -5275,7 +5680,8 @@
       "abstain": 2,
       "absent": 16,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 86733,
@@ -5288,7 +5694,8 @@
       "abstain": 2,
       "absent": 16,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 86734,
@@ -5301,7 +5708,8 @@
       "abstain": 2,
       "absent": 16,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 86735,
@@ -5314,7 +5722,8 @@
       "abstain": 1,
       "absent": 16,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 86736,
@@ -5327,7 +5736,8 @@
       "abstain": 36,
       "absent": 16,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 86737,
@@ -5340,7 +5750,8 @@
       "abstain": 49,
       "absent": 16,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 86738,
@@ -5353,7 +5764,8 @@
       "abstain": 1,
       "absent": 16,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 86739,
@@ -5366,7 +5778,8 @@
       "abstain": 24,
       "absent": 16,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 86740,
@@ -5379,7 +5792,8 @@
       "abstain": 11,
       "absent": 16,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 86741,
@@ -5392,7 +5806,8 @@
       "abstain": 7,
       "absent": 16,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 86742,
@@ -5405,7 +5820,8 @@
       "abstain": 84,
       "absent": 16,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 86743,
@@ -5418,7 +5834,8 @@
       "abstain": 93,
       "absent": 16,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 86744,
@@ -5431,7 +5848,8 @@
       "abstain": 97,
       "absent": 16,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 86745,
@@ -5444,7 +5862,8 @@
       "abstain": 96,
       "absent": 16,
       "not_logged": 13
-    }
+    },
+    "temata": []
   },
   {
     "id": 86746,
@@ -5457,7 +5876,8 @@
       "abstain": 18,
       "absent": 16,
       "not_logged": 11
-    }
+    },
+    "temata": []
   },
   {
     "id": 86747,
@@ -5470,7 +5890,8 @@
       "abstain": 108,
       "absent": 16,
       "not_logged": 10
-    }
+    },
+    "temata": []
   },
   {
     "id": 86748,
@@ -5483,7 +5904,8 @@
       "abstain": 27,
       "absent": 16,
       "not_logged": 9
-    }
+    },
+    "temata": []
   },
   {
     "id": 86749,
@@ -5496,7 +5918,8 @@
       "abstain": 117,
       "absent": 16,
       "not_logged": 7
-    }
+    },
+    "temata": []
   },
   {
     "id": 86750,
@@ -5509,7 +5932,8 @@
       "abstain": 83,
       "absent": 16,
       "not_logged": 7
-    }
+    },
+    "temata": []
   },
   {
     "id": 86751,
@@ -5522,7 +5946,8 @@
       "abstain": 76,
       "absent": 16,
       "not_logged": 7
-    }
+    },
+    "temata": []
   },
   {
     "id": 86752,
@@ -5535,7 +5960,8 @@
       "abstain": 99,
       "absent": 16,
       "not_logged": 7
-    }
+    },
+    "temata": []
   },
   {
     "id": 86753,
@@ -5548,7 +5974,8 @@
       "abstain": 9,
       "absent": 16,
       "not_logged": 8
-    }
+    },
+    "temata": []
   },
   {
     "id": 86754,
@@ -5561,7 +5988,8 @@
       "abstain": 28,
       "absent": 16,
       "not_logged": 8
-    }
+    },
+    "temata": []
   },
   {
     "id": 86755,
@@ -5574,7 +6002,8 @@
       "abstain": 87,
       "absent": 16,
       "not_logged": 8
-    }
+    },
+    "temata": []
   },
   {
     "id": 86756,
@@ -5587,7 +6016,8 @@
       "abstain": 99,
       "absent": 16,
       "not_logged": 8
-    }
+    },
+    "temata": []
   },
   {
     "id": 86757,
@@ -5600,7 +6030,8 @@
       "abstain": 58,
       "absent": 16,
       "not_logged": 7
-    }
+    },
+    "temata": []
   },
   {
     "id": 86758,
@@ -5613,7 +6044,8 @@
       "abstain": 1,
       "absent": 25,
       "not_logged": 15
-    }
+    },
+    "temata": []
   },
   {
     "id": 86759,
@@ -5626,7 +6058,8 @@
       "abstain": 2,
       "absent": 25,
       "not_logged": 14
-    }
+    },
+    "temata": []
   },
   {
     "id": 86760,
@@ -5639,7 +6072,8 @@
       "abstain": 7,
       "absent": 25,
       "not_logged": 14
-    }
+    },
+    "temata": []
   },
   {
     "id": 86761,
@@ -5652,7 +6086,8 @@
       "abstain": 3,
       "absent": 25,
       "not_logged": 14
-    }
+    },
+    "temata": []
   },
   {
     "id": 86762,
@@ -5665,7 +6100,8 @@
       "abstain": 32,
       "absent": 29,
       "not_logged": 30
-    }
+    },
+    "temata": []
   },
   {
     "id": 86763,
@@ -5678,7 +6114,8 @@
       "abstain": 38,
       "absent": 28,
       "not_logged": 22
-    }
+    },
+    "temata": []
   },
   {
     "id": 86764,
@@ -5691,7 +6128,8 @@
       "abstain": 0,
       "absent": 27,
       "not_logged": 24
-    }
+    },
+    "temata": []
   },
   {
     "id": 86765,
@@ -5704,7 +6142,8 @@
       "abstain": 2,
       "absent": 27,
       "not_logged": 23
-    }
+    },
+    "temata": []
   },
   {
     "id": 86766,
@@ -5717,7 +6156,8 @@
       "abstain": 11,
       "absent": 26,
       "not_logged": 35
-    }
+    },
+    "temata": []
   },
   {
     "id": 86767,
@@ -5730,7 +6170,8 @@
       "abstain": 4,
       "absent": 26,
       "not_logged": 35
-    }
+    },
+    "temata": []
   },
   {
     "id": 86768,
@@ -5743,7 +6184,8 @@
       "abstain": 26,
       "absent": 28,
       "not_logged": 23
-    }
+    },
+    "temata": []
   },
   {
     "id": 86769,
@@ -5756,7 +6198,8 @@
       "abstain": 87,
       "absent": 28,
       "not_logged": 21
-    }
+    },
+    "temata": []
   },
   {
     "id": 86770,
@@ -5769,7 +6212,8 @@
       "abstain": 11,
       "absent": 28,
       "not_logged": 20
-    }
+    },
+    "temata": []
   },
   {
     "id": 86771,
@@ -5782,7 +6226,8 @@
       "abstain": 10,
       "absent": 28,
       "not_logged": 20
-    }
+    },
+    "temata": []
   },
   {
     "id": 86772,
@@ -5795,7 +6240,8 @@
       "abstain": 95,
       "absent": 28,
       "not_logged": 20
-    }
+    },
+    "temata": []
   },
   {
     "id": 86773,
@@ -5808,7 +6254,8 @@
       "abstain": 2,
       "absent": 26,
       "not_logged": 44
-    }
+    },
+    "temata": []
   },
   {
     "id": 86774,
@@ -5821,7 +6268,8 @@
       "abstain": 0,
       "absent": 27,
       "not_logged": 37
-    }
+    },
+    "temata": []
   },
   {
     "id": 86775,
@@ -5834,7 +6282,8 @@
       "abstain": 25,
       "absent": 27,
       "not_logged": 34
-    }
+    },
+    "temata": []
   },
   {
     "id": 86776,
@@ -5847,7 +6296,8 @@
       "abstain": 8,
       "absent": 15,
       "not_logged": 28
-    }
+    },
+    "temata": []
   },
   {
     "id": 86777,
@@ -5860,7 +6310,8 @@
       "abstain": 29,
       "absent": 14,
       "not_logged": 2
-    }
+    },
+    "temata": []
   },
   {
     "id": 86778,
@@ -5873,7 +6324,8 @@
       "abstain": 157,
       "absent": 14,
       "not_logged": 0
-    }
+    },
+    "temata": []
   },
   {
     "id": 86779,
@@ -5886,7 +6338,8 @@
       "abstain": 1,
       "absent": 14,
       "not_logged": 0
-    }
+    },
+    "temata": []
   },
   {
     "id": 86780,
@@ -5899,7 +6352,8 @@
       "abstain": 31,
       "absent": 14,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86781,
@@ -5912,7 +6366,8 @@
       "abstain": 0,
       "absent": 14,
       "not_logged": 0
-    }
+    },
+    "temata": []
   },
   {
     "id": 86782,
@@ -5925,7 +6380,8 @@
       "abstain": 27,
       "absent": 32,
       "not_logged": 18
-    }
+    },
+    "temata": []
   },
   {
     "id": 86783,
@@ -5938,7 +6394,8 @@
       "abstain": 1,
       "absent": 32,
       "not_logged": 16
-    }
+    },
+    "temata": []
   },
   {
     "id": 86784,
@@ -5951,7 +6408,8 @@
       "abstain": 1,
       "absent": 32,
       "not_logged": 15
-    }
+    },
+    "temata": []
   },
   {
     "id": 86785,
@@ -5964,7 +6422,8 @@
       "abstain": 40,
       "absent": 32,
       "not_logged": 15
-    }
+    },
+    "temata": []
   },
   {
     "id": 86786,
@@ -5977,7 +6436,8 @@
       "abstain": 32,
       "absent": 32,
       "not_logged": 15
-    }
+    },
+    "temata": []
   },
   {
     "id": 86787,
@@ -5990,7 +6450,8 @@
       "abstain": 20,
       "absent": 32,
       "not_logged": 13
-    }
+    },
+    "temata": []
   },
   {
     "id": 86788,
@@ -6003,7 +6464,8 @@
       "abstain": 24,
       "absent": 32,
       "not_logged": 13
-    }
+    },
+    "temata": []
   },
   {
     "id": 86789,
@@ -6016,7 +6478,8 @@
       "abstain": 11,
       "absent": 32,
       "not_logged": 14
-    }
+    },
+    "temata": []
   },
   {
     "id": 86790,
@@ -6029,7 +6492,8 @@
       "abstain": 5,
       "absent": 27,
       "not_logged": 9
-    }
+    },
+    "temata": []
   },
   {
     "id": 86791,
@@ -6042,7 +6506,8 @@
       "abstain": 5,
       "absent": 27,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 86792,
@@ -6055,7 +6520,8 @@
       "abstain": 1,
       "absent": 27,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86793,
@@ -6068,7 +6534,8 @@
       "abstain": 2,
       "absent": 27,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86794,
@@ -6081,7 +6548,8 @@
       "abstain": 19,
       "absent": 27,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86795,
@@ -6094,7 +6562,8 @@
       "abstain": 13,
       "absent": 27,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86796,
@@ -6107,7 +6576,8 @@
       "abstain": 7,
       "absent": 27,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86797,
@@ -6120,7 +6590,8 @@
       "abstain": 37,
       "absent": 27,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 86798,
@@ -6133,7 +6604,8 @@
       "abstain": 0,
       "absent": 28,
       "not_logged": 7
-    }
+    },
+    "temata": []
   },
   {
     "id": 86799,
@@ -6146,7 +6618,8 @@
       "abstain": 50,
       "absent": 28,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86800,
@@ -6159,7 +6632,8 @@
       "abstain": 2,
       "absent": 28,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86801,
@@ -6172,7 +6646,8 @@
       "abstain": 24,
       "absent": 28,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86802,
@@ -6185,7 +6660,8 @@
       "abstain": 18,
       "absent": 28,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 86803,
@@ -6198,7 +6674,8 @@
       "abstain": 4,
       "absent": 28,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86804,
@@ -6211,7 +6688,8 @@
       "abstain": 36,
       "absent": 28,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86805,
@@ -6224,7 +6702,8 @@
       "abstain": 1,
       "absent": 28,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86806,
@@ -6237,7 +6716,8 @@
       "abstain": 6,
       "absent": 28,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86807,
@@ -6250,7 +6730,8 @@
       "abstain": 4,
       "absent": 28,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86808,
@@ -6263,7 +6744,8 @@
       "abstain": 5,
       "absent": 28,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86809,
@@ -6276,7 +6758,8 @@
       "abstain": 6,
       "absent": 28,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86810,
@@ -6289,7 +6772,8 @@
       "abstain": 4,
       "absent": 28,
       "not_logged": 3
-    }
+    },
+    "temata": []
   },
   {
     "id": 86811,
@@ -6302,7 +6786,8 @@
       "abstain": 16,
       "absent": 28,
       "not_logged": 3
-    }
+    },
+    "temata": []
   },
   {
     "id": 86812,
@@ -6315,7 +6800,8 @@
       "abstain": 7,
       "absent": 28,
       "not_logged": 3
-    }
+    },
+    "temata": []
   },
   {
     "id": 86813,
@@ -6328,7 +6814,8 @@
       "abstain": 36,
       "absent": 28,
       "not_logged": 3
-    }
+    },
+    "temata": []
   },
   {
     "id": 86814,
@@ -6341,7 +6828,8 @@
       "abstain": 6,
       "absent": 28,
       "not_logged": 3
-    }
+    },
+    "temata": []
   },
   {
     "id": 86815,
@@ -6354,7 +6842,8 @@
       "abstain": 8,
       "absent": 28,
       "not_logged": 3
-    }
+    },
+    "temata": []
   },
   {
     "id": 86816,
@@ -6367,7 +6856,8 @@
       "abstain": 84,
       "absent": 31,
       "not_logged": 10
-    }
+    },
+    "temata": []
   },
   {
     "id": 86817,
@@ -6380,7 +6870,8 @@
       "abstain": 123,
       "absent": 31,
       "not_logged": 10
-    }
+    },
+    "temata": []
   },
   {
     "id": 86818,
@@ -6393,7 +6884,8 @@
       "abstain": 2,
       "absent": 31,
       "not_logged": 8
-    }
+    },
+    "temata": []
   },
   {
     "id": 86819,
@@ -6406,7 +6898,8 @@
       "abstain": 9,
       "absent": 31,
       "not_logged": 8
-    }
+    },
+    "temata": []
   },
   {
     "id": 86820,
@@ -6419,7 +6912,8 @@
       "abstain": 17,
       "absent": 31,
       "not_logged": 8
-    }
+    },
+    "temata": []
   },
   {
     "id": 86821,
@@ -6432,7 +6926,8 @@
       "abstain": 37,
       "absent": 31,
       "not_logged": 8
-    }
+    },
+    "temata": []
   },
   {
     "id": 86822,
@@ -6445,7 +6940,8 @@
       "abstain": 16,
       "absent": 32,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 86823,
@@ -6458,7 +6954,8 @@
       "abstain": 15,
       "absent": 32,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 86824,
@@ -6471,7 +6968,8 @@
       "abstain": 96,
       "absent": 32,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 86825,
@@ -6484,7 +6982,8 @@
       "abstain": 26,
       "absent": 30,
       "not_logged": 8
-    }
+    },
+    "temata": []
   },
   {
     "id": 86826,
@@ -6497,7 +6996,8 @@
       "abstain": 12,
       "absent": 19,
       "not_logged": 47
-    }
+    },
+    "temata": []
   },
   {
     "id": 86827,
@@ -6510,7 +7010,8 @@
       "abstain": 1,
       "absent": 17,
       "not_logged": 33
-    }
+    },
+    "temata": []
   },
   {
     "id": 86828,
@@ -6523,7 +7024,8 @@
       "abstain": 4,
       "absent": 17,
       "not_logged": 29
-    }
+    },
+    "temata": []
   },
   {
     "id": 86829,
@@ -6536,7 +7038,8 @@
       "abstain": 2,
       "absent": 17,
       "not_logged": 26
-    }
+    },
+    "temata": []
   },
   {
     "id": 86830,
@@ -6549,7 +7052,8 @@
       "abstain": 3,
       "absent": 17,
       "not_logged": 25
-    }
+    },
+    "temata": []
   },
   {
     "id": 86831,
@@ -6562,7 +7066,8 @@
       "abstain": 3,
       "absent": 17,
       "not_logged": 24
-    }
+    },
+    "temata": []
   },
   {
     "id": 86832,
@@ -6575,7 +7080,8 @@
       "abstain": 10,
       "absent": 8,
       "not_logged": 3
-    }
+    },
+    "temata": []
   },
   {
     "id": 86833,
@@ -6588,7 +7094,8 @@
       "abstain": 88,
       "absent": 8,
       "not_logged": 3
-    }
+    },
+    "temata": []
   },
   {
     "id": 86834,
@@ -6601,7 +7108,8 @@
       "abstain": 92,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86835,
@@ -6614,7 +7122,8 @@
       "abstain": 109,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86836,
@@ -6627,7 +7136,8 @@
       "abstain": 33,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86837,
@@ -6640,7 +7150,8 @@
       "abstain": 3,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86838,
@@ -6653,7 +7164,8 @@
       "abstain": 18,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86839,
@@ -6666,7 +7178,8 @@
       "abstain": 40,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86840,
@@ -6679,7 +7192,8 @@
       "abstain": 59,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86841,
@@ -6692,7 +7206,8 @@
       "abstain": 40,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86842,
@@ -6705,7 +7220,8 @@
       "abstain": 2,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86843,
@@ -6718,7 +7234,8 @@
       "abstain": 92,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86844,
@@ -6731,7 +7248,8 @@
       "abstain": 95,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86845,
@@ -6744,7 +7262,8 @@
       "abstain": 98,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86846,
@@ -6757,7 +7276,8 @@
       "abstain": 91,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86847,
@@ -6770,7 +7290,8 @@
       "abstain": 112,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86848,
@@ -6783,7 +7304,8 @@
       "abstain": 28,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86849,
@@ -6796,7 +7318,8 @@
       "abstain": 7,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86850,
@@ -6809,7 +7332,8 @@
       "abstain": 13,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86851,
@@ -6822,7 +7346,8 @@
       "abstain": 11,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86852,
@@ -6835,7 +7360,8 @@
       "abstain": 3,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86853,
@@ -6848,7 +7374,8 @@
       "abstain": 22,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86854,
@@ -6861,7 +7388,8 @@
       "abstain": 6,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86855,
@@ -6874,7 +7402,8 @@
       "abstain": 18,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86856,
@@ -6887,7 +7416,8 @@
       "abstain": 44,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86857,
@@ -6900,7 +7430,8 @@
       "abstain": 32,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86858,
@@ -6913,7 +7444,8 @@
       "abstain": 4,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86859,
@@ -6926,7 +7458,8 @@
       "abstain": 92,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86860,
@@ -6939,7 +7472,8 @@
       "abstain": 84,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86861,
@@ -6952,7 +7486,8 @@
       "abstain": 61,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86862,
@@ -6965,7 +7500,8 @@
       "abstain": 98,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86863,
@@ -6978,7 +7514,8 @@
       "abstain": 22,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86864,
@@ -6991,7 +7528,8 @@
       "abstain": 23,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86865,
@@ -7004,7 +7542,8 @@
       "abstain": 26,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86866,
@@ -7017,7 +7556,8 @@
       "abstain": 37,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86867,
@@ -7030,7 +7570,8 @@
       "abstain": 47,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86868,
@@ -7043,7 +7584,8 @@
       "abstain": 19,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86869,
@@ -7056,7 +7598,8 @@
       "abstain": 10,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86870,
@@ -7069,7 +7612,8 @@
       "abstain": 9,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86871,
@@ -7082,7 +7626,8 @@
       "abstain": 2,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86872,
@@ -7095,7 +7640,8 @@
       "abstain": 42,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86873,
@@ -7108,7 +7654,8 @@
       "abstain": 16,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86874,
@@ -7121,7 +7668,8 @@
       "abstain": 39,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86875,
@@ -7134,7 +7682,8 @@
       "abstain": 58,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86876,
@@ -7147,7 +7696,8 @@
       "abstain": 70,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86877,
@@ -7160,7 +7710,8 @@
       "abstain": 40,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86878,
@@ -7173,7 +7724,8 @@
       "abstain": 122,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86879,
@@ -7186,7 +7738,8 @@
       "abstain": 25,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86880,
@@ -7199,7 +7752,8 @@
       "abstain": 37,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86881,
@@ -7212,7 +7766,8 @@
       "abstain": 33,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86882,
@@ -7225,7 +7780,8 @@
       "abstain": 35,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86883,
@@ -7238,7 +7794,8 @@
       "abstain": 39,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86884,
@@ -7251,7 +7808,8 @@
       "abstain": 39,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86885,
@@ -7264,7 +7822,8 @@
       "abstain": 41,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86886,
@@ -7277,7 +7836,8 @@
       "abstain": 10,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86887,
@@ -7290,7 +7850,8 @@
       "abstain": 4,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86888,
@@ -7303,7 +7864,8 @@
       "abstain": 5,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86889,
@@ -7316,7 +7878,8 @@
       "abstain": 39,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86890,
@@ -7329,7 +7892,8 @@
       "abstain": 21,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86891,
@@ -7342,7 +7906,8 @@
       "abstain": 6,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86892,
@@ -7355,7 +7920,8 @@
       "abstain": 31,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86893,
@@ -7368,7 +7934,8 @@
       "abstain": 9,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86894,
@@ -7381,7 +7948,8 @@
       "abstain": 3,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86895,
@@ -7394,7 +7962,8 @@
       "abstain": 3,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86896,
@@ -7407,7 +7976,8 @@
       "abstain": 1,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86897,
@@ -7420,7 +7990,8 @@
       "abstain": 1,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86898,
@@ -7433,7 +8004,8 @@
       "abstain": 7,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86899,
@@ -7446,7 +8018,8 @@
       "abstain": 12,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86900,
@@ -7459,7 +8032,8 @@
       "abstain": 39,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86901,
@@ -7472,7 +8046,8 @@
       "abstain": 40,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86902,
@@ -7485,7 +8060,8 @@
       "abstain": 44,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86903,
@@ -7498,7 +8074,8 @@
       "abstain": 42,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86904,
@@ -7511,7 +8088,8 @@
       "abstain": 4,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86905,
@@ -7524,7 +8102,8 @@
       "abstain": 43,
       "absent": 8,
       "not_logged": 2
-    }
+    },
+    "temata": []
   },
   {
     "id": 86906,
@@ -7537,7 +8116,8 @@
       "abstain": 14,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86907,
@@ -7550,7 +8130,8 @@
       "abstain": 15,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86908,
@@ -7563,7 +8144,8 @@
       "abstain": 36,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86909,
@@ -7576,7 +8158,8 @@
       "abstain": 73,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86910,
@@ -7589,7 +8172,8 @@
       "abstain": 50,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86911,
@@ -7602,7 +8186,8 @@
       "abstain": 34,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86912,
@@ -7615,7 +8200,8 @@
       "abstain": 15,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86913,
@@ -7628,7 +8214,8 @@
       "abstain": 35,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86914,
@@ -7641,7 +8228,8 @@
       "abstain": 4,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86915,
@@ -7654,7 +8242,8 @@
       "abstain": 86,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86916,
@@ -7667,7 +8256,8 @@
       "abstain": 29,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86917,
@@ -7680,7 +8270,8 @@
       "abstain": 23,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86918,
@@ -7693,7 +8284,8 @@
       "abstain": 22,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86919,
@@ -7706,7 +8298,8 @@
       "abstain": 11,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86920,
@@ -7719,7 +8312,8 @@
       "abstain": 7,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86921,
@@ -7732,7 +8326,8 @@
       "abstain": 6,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86922,
@@ -7745,7 +8340,8 @@
       "abstain": 9,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86923,
@@ -7758,7 +8354,8 @@
       "abstain": 75,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86924,
@@ -7771,7 +8368,8 @@
       "abstain": 94,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86925,
@@ -7784,7 +8382,8 @@
       "abstain": 14,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86926,
@@ -7797,7 +8396,8 @@
       "abstain": 6,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86927,
@@ -7810,7 +8410,8 @@
       "abstain": 11,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86928,
@@ -7823,7 +8424,8 @@
       "abstain": 71,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86929,
@@ -7836,7 +8438,8 @@
       "abstain": 50,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86930,
@@ -7849,7 +8452,8 @@
       "abstain": 69,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86931,
@@ -7862,7 +8466,8 @@
       "abstain": 46,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86932,
@@ -7875,7 +8480,8 @@
       "abstain": 6,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86933,
@@ -7888,7 +8494,8 @@
       "abstain": 1,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86934,
@@ -7901,7 +8508,8 @@
       "abstain": 27,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86935,
@@ -7914,7 +8522,8 @@
       "abstain": 19,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86936,
@@ -7927,7 +8536,8 @@
       "abstain": 27,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86937,
@@ -7940,7 +8550,8 @@
       "abstain": 20,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86938,
@@ -7953,7 +8564,8 @@
       "abstain": 44,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86939,
@@ -7966,7 +8578,8 @@
       "abstain": 29,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86940,
@@ -7979,7 +8592,8 @@
       "abstain": 36,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86941,
@@ -7992,7 +8606,8 @@
       "abstain": 48,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86942,
@@ -8005,7 +8620,8 @@
       "abstain": 30,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86943,
@@ -8018,7 +8634,8 @@
       "abstain": 8,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86944,
@@ -8031,7 +8648,8 @@
       "abstain": 7,
       "absent": 8,
       "not_logged": 2
-    }
+    },
+    "temata": []
   },
   {
     "id": 86945,
@@ -8044,7 +8662,8 @@
       "abstain": 21,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86946,
@@ -8057,7 +8676,8 @@
       "abstain": 22,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86947,
@@ -8070,7 +8690,8 @@
       "abstain": 6,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86948,
@@ -8083,7 +8704,8 @@
       "abstain": 3,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86949,
@@ -8096,7 +8718,8 @@
       "abstain": 37,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86950,
@@ -8109,7 +8732,8 @@
       "abstain": 29,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86951,
@@ -8122,7 +8746,8 @@
       "abstain": 25,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86952,
@@ -8135,7 +8760,8 @@
       "abstain": 26,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86953,
@@ -8148,7 +8774,8 @@
       "abstain": 27,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86954,
@@ -8161,7 +8788,8 @@
       "abstain": 5,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86955,
@@ -8174,7 +8802,8 @@
       "abstain": 43,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86956,
@@ -8187,7 +8816,8 @@
       "abstain": 29,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86957,
@@ -8200,7 +8830,8 @@
       "abstain": 0,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86958,
@@ -8213,7 +8844,8 @@
       "abstain": 41,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86959,
@@ -8226,7 +8858,8 @@
       "abstain": 8,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86960,
@@ -8239,7 +8872,8 @@
       "abstain": 78,
       "absent": 8,
       "not_logged": 1
-    }
+    },
+    "temata": []
   },
   {
     "id": 86961,
@@ -8252,7 +8886,8 @@
       "abstain": 25,
       "absent": 10,
       "not_logged": 23
-    }
+    },
+    "temata": []
   },
   {
     "id": 86962,
@@ -8265,7 +8900,8 @@
       "abstain": 31,
       "absent": 10,
       "not_logged": 13
-    }
+    },
+    "temata": []
   },
   {
     "id": 86963,
@@ -8278,7 +8914,8 @@
       "abstain": 28,
       "absent": 12,
       "not_logged": 36
-    }
+    },
+    "temata": []
   },
   {
     "id": 86964,
@@ -8291,7 +8928,8 @@
       "abstain": 60,
       "absent": 11,
       "not_logged": 25
-    }
+    },
+    "temata": []
   },
   {
     "id": 86965,
@@ -8304,7 +8942,8 @@
       "abstain": 30,
       "absent": 12,
       "not_logged": 17
-    }
+    },
+    "temata": []
   },
   {
     "id": 86966,
@@ -8317,7 +8956,8 @@
       "abstain": 14,
       "absent": 12,
       "not_logged": 17
-    }
+    },
+    "temata": []
   },
   {
     "id": 86967,
@@ -8330,7 +8970,8 @@
       "abstain": 22,
       "absent": 12,
       "not_logged": 19
-    }
+    },
+    "temata": []
   },
   {
     "id": 86968,
@@ -8343,7 +8984,8 @@
       "abstain": 47,
       "absent": 12,
       "not_logged": 19
-    }
+    },
+    "temata": []
   },
   {
     "id": 86969,
@@ -8356,7 +8998,8 @@
       "abstain": 3,
       "absent": 51,
       "not_logged": 32
-    }
+    },
+    "temata": []
   },
   {
     "id": 86970,
@@ -8369,7 +9012,8 @@
       "abstain": 4,
       "absent": 51,
       "not_logged": 30
-    }
+    },
+    "temata": []
   },
   {
     "id": 86971,
@@ -8382,7 +9026,8 @@
       "abstain": 5,
       "absent": 51,
       "not_logged": 23
-    }
+    },
+    "temata": []
   },
   {
     "id": 86972,
@@ -8395,7 +9040,8 @@
       "abstain": 4,
       "absent": 51,
       "not_logged": 22
-    }
+    },
+    "temata": []
   },
   {
     "id": 86973,
@@ -8408,7 +9054,8 @@
       "abstain": 5,
       "absent": 50,
       "not_logged": 18
-    }
+    },
+    "temata": []
   },
   {
     "id": 86974,
@@ -8421,7 +9068,8 @@
       "abstain": 6,
       "absent": 50,
       "not_logged": 14
-    }
+    },
+    "temata": []
   },
   {
     "id": 86975,
@@ -8434,7 +9082,8 @@
       "abstain": 17,
       "absent": 48,
       "not_logged": 9
-    }
+    },
+    "temata": []
   },
   {
     "id": 86976,
@@ -8447,7 +9096,8 @@
       "abstain": 14,
       "absent": 48,
       "not_logged": 9
-    }
+    },
+    "temata": []
   },
   {
     "id": 86977,
@@ -8460,7 +9110,8 @@
       "abstain": 18,
       "absent": 48,
       "not_logged": 7
-    }
+    },
+    "temata": []
   },
   {
     "id": 86978,
@@ -8473,7 +9124,8 @@
       "abstain": 20,
       "absent": 48,
       "not_logged": 7
-    }
+    },
+    "temata": []
   },
   {
     "id": 86979,
@@ -8486,7 +9138,8 @@
       "abstain": 25,
       "absent": 43,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 86980,
@@ -8499,7 +9152,8 @@
       "abstain": 15,
       "absent": 42,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86981,
@@ -8512,7 +9166,8 @@
       "abstain": 19,
       "absent": 42,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86982,
@@ -8525,7 +9180,8 @@
       "abstain": 40,
       "absent": 42,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 86983,
@@ -8538,7 +9194,8 @@
       "abstain": 35,
       "absent": 45,
       "not_logged": 3
-    }
+    },
+    "temata": []
   },
   {
     "id": 86984,
@@ -8551,7 +9208,8 @@
       "abstain": 42,
       "absent": 45,
       "not_logged": 3
-    }
+    },
+    "temata": []
   },
   {
     "id": 86985,
@@ -8564,7 +9222,8 @@
       "abstain": 44,
       "absent": 45,
       "not_logged": 3
-    }
+    },
+    "temata": []
   },
   {
     "id": 86986,
@@ -8577,7 +9236,8 @@
       "abstain": 1,
       "absent": 50,
       "not_logged": 34
-    }
+    },
+    "temata": []
   },
   {
     "id": 86987,
@@ -8590,7 +9250,8 @@
       "abstain": 6,
       "absent": 52,
       "not_logged": 19
-    }
+    },
+    "temata": []
   },
   {
     "id": 86988,
@@ -8603,7 +9264,8 @@
       "abstain": 12,
       "absent": 63,
       "not_logged": 12
-    }
+    },
+    "temata": []
   },
   {
     "id": 86989,
@@ -8616,7 +9278,8 @@
       "abstain": 16,
       "absent": 63,
       "not_logged": 11
-    }
+    },
+    "temata": []
   },
   {
     "id": 86990,
@@ -8629,7 +9292,8 @@
       "abstain": 0,
       "absent": 63,
       "not_logged": 11
-    }
+    },
+    "temata": []
   },
   {
     "id": 86991,
@@ -8642,7 +9306,8 @@
       "abstain": 73,
       "absent": 63,
       "not_logged": 11
-    }
+    },
+    "temata": []
   },
   {
     "id": 86992,
@@ -8655,7 +9320,8 @@
       "abstain": 6,
       "absent": 63,
       "not_logged": 11
-    }
+    },
+    "temata": []
   },
   {
     "id": 86993,
@@ -8668,7 +9334,8 @@
       "abstain": 9,
       "absent": 17,
       "not_logged": 20
-    }
+    },
+    "temata": []
   },
   {
     "id": 86994,
@@ -8681,7 +9348,8 @@
       "abstain": 43,
       "absent": 17,
       "not_logged": 10
-    }
+    },
+    "temata": []
   },
   {
     "id": 86995,
@@ -8694,7 +9362,8 @@
       "abstain": 1,
       "absent": 20,
       "not_logged": 10
-    }
+    },
+    "temata": []
   },
   {
     "id": 86996,
@@ -8707,7 +9376,8 @@
       "abstain": 3,
       "absent": 20,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 86997,
@@ -8720,7 +9390,8 @@
       "abstain": 52,
       "absent": 20,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 86998,
@@ -8733,7 +9404,8 @@
       "abstain": 3,
       "absent": 20,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 86999,
@@ -8746,7 +9418,8 @@
       "abstain": 2,
       "absent": 20,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 87000,
@@ -8759,7 +9432,8 @@
       "abstain": 0,
       "absent": 20,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 87001,
@@ -8772,7 +9446,8 @@
       "abstain": 12,
       "absent": 20,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 87002,
@@ -8785,7 +9460,8 @@
       "abstain": 20,
       "absent": 20,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 87003,
@@ -8798,7 +9474,8 @@
       "abstain": 23,
       "absent": 20,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 87004,
@@ -8811,7 +9488,8 @@
       "abstain": 0,
       "absent": 20,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 87005,
@@ -8824,7 +9502,8 @@
       "abstain": 3,
       "absent": 20,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 87006,
@@ -8837,7 +9516,8 @@
       "abstain": 4,
       "absent": 20,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 87007,
@@ -8850,7 +9530,8 @@
       "abstain": 2,
       "absent": 20,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 87008,
@@ -8863,7 +9544,8 @@
       "abstain": 16,
       "absent": 20,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 87009,
@@ -8876,7 +9558,8 @@
       "abstain": 1,
       "absent": 20,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 87010,
@@ -8889,7 +9572,8 @@
       "abstain": 1,
       "absent": 20,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 87011,
@@ -8902,7 +9586,8 @@
       "abstain": 3,
       "absent": 20,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 87012,
@@ -8915,7 +9600,8 @@
       "abstain": 6,
       "absent": 20,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 87013,
@@ -8928,7 +9614,8 @@
       "abstain": 7,
       "absent": 20,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 87014,
@@ -8941,7 +9628,8 @@
       "abstain": 9,
       "absent": 20,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 87015,
@@ -8954,7 +9642,8 @@
       "abstain": 94,
       "absent": 20,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 87016,
@@ -8967,7 +9656,8 @@
       "abstain": 10,
       "absent": 20,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 87017,
@@ -8980,7 +9670,8 @@
       "abstain": 31,
       "absent": 20,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 87018,
@@ -8993,7 +9684,8 @@
       "abstain": 42,
       "absent": 20,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 87019,
@@ -9006,7 +9698,8 @@
       "abstain": 12,
       "absent": 20,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 87020,
@@ -9019,7 +9712,8 @@
       "abstain": 8,
       "absent": 20,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 87021,
@@ -9032,7 +9726,8 @@
       "abstain": 6,
       "absent": 20,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 87022,
@@ -9045,7 +9740,8 @@
       "abstain": 5,
       "absent": 20,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 87023,
@@ -9058,7 +9754,8 @@
       "abstain": 14,
       "absent": 20,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 87024,
@@ -9071,7 +9768,8 @@
       "abstain": 6,
       "absent": 20,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 87025,
@@ -9084,7 +9782,8 @@
       "abstain": 4,
       "absent": 19,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 87026,
@@ -9097,7 +9796,8 @@
       "abstain": 4,
       "absent": 19,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 87027,
@@ -9110,7 +9810,8 @@
       "abstain": 9,
       "absent": 19,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 87028,
@@ -9123,7 +9824,8 @@
       "abstain": 7,
       "absent": 19,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 87029,
@@ -9136,7 +9838,8 @@
       "abstain": 17,
       "absent": 19,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 87030,
@@ -9149,7 +9852,8 @@
       "abstain": 5,
       "absent": 19,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 87031,
@@ -9162,7 +9866,8 @@
       "abstain": 28,
       "absent": 19,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 87032,
@@ -9175,7 +9880,8 @@
       "abstain": 2,
       "absent": 19,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 87033,
@@ -9188,7 +9894,8 @@
       "abstain": 38,
       "absent": 19,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 87034,
@@ -9201,7 +9908,8 @@
       "abstain": 7,
       "absent": 19,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 87035,
@@ -9214,7 +9922,8 @@
       "abstain": 15,
       "absent": 19,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 87036,
@@ -9227,7 +9936,8 @@
       "abstain": 3,
       "absent": 19,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 87037,
@@ -9240,7 +9950,8 @@
       "abstain": 73,
       "absent": 19,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 87038,
@@ -9253,7 +9964,8 @@
       "abstain": 81,
       "absent": 20,
       "not_logged": 9
-    }
+    },
+    "temata": []
   },
   {
     "id": 87039,
@@ -9266,7 +9978,8 @@
       "abstain": 36,
       "absent": 20,
       "not_logged": 11
-    }
+    },
+    "temata": []
   },
   {
     "id": 87040,
@@ -9279,7 +9992,8 @@
       "abstain": 48,
       "absent": 20,
       "not_logged": 10
-    }
+    },
+    "temata": []
   },
   {
     "id": 87041,
@@ -9292,7 +10006,8 @@
       "abstain": 52,
       "absent": 20,
       "not_logged": 13
-    }
+    },
+    "temata": []
   },
   {
     "id": 87042,
@@ -9305,7 +10020,8 @@
       "abstain": 51,
       "absent": 20,
       "not_logged": 12
-    }
+    },
+    "temata": []
   },
   {
     "id": 87043,
@@ -9318,7 +10034,8 @@
       "abstain": 63,
       "absent": 20,
       "not_logged": 11
-    }
+    },
+    "temata": []
   },
   {
     "id": 87044,
@@ -9331,7 +10048,8 @@
       "abstain": 58,
       "absent": 20,
       "not_logged": 11
-    }
+    },
+    "temata": []
   },
   {
     "id": 87045,
@@ -9344,7 +10062,8 @@
       "abstain": 55,
       "absent": 20,
       "not_logged": 12
-    }
+    },
+    "temata": []
   },
   {
     "id": 87046,
@@ -9357,7 +10076,8 @@
       "abstain": 16,
       "absent": 24,
       "not_logged": 3
-    }
+    },
+    "temata": []
   },
   {
     "id": 87047,
@@ -9370,7 +10090,8 @@
       "abstain": 15,
       "absent": 22,
       "not_logged": 2
-    }
+    },
+    "temata": []
   },
   {
     "id": 87048,
@@ -9383,7 +10104,8 @@
       "abstain": 12,
       "absent": 22,
       "not_logged": 2
-    }
+    },
+    "temata": []
   },
   {
     "id": 87049,
@@ -9396,7 +10118,8 @@
       "abstain": 18,
       "absent": 22,
       "not_logged": 3
-    }
+    },
+    "temata": []
   },
   {
     "id": 87050,
@@ -9409,7 +10132,8 @@
       "abstain": 53,
       "absent": 22,
       "not_logged": 2
-    }
+    },
+    "temata": []
   },
   {
     "id": 87051,
@@ -9422,7 +10146,8 @@
       "abstain": 15,
       "absent": 22,
       "not_logged": 2
-    }
+    },
+    "temata": []
   },
   {
     "id": 87052,
@@ -9435,7 +10160,8 @@
       "abstain": 19,
       "absent": 22,
       "not_logged": 2
-    }
+    },
+    "temata": []
   },
   {
     "id": 87053,
@@ -9448,7 +10174,8 @@
       "abstain": 14,
       "absent": 22,
       "not_logged": 2
-    }
+    },
+    "temata": []
   },
   {
     "id": 87054,
@@ -9461,7 +10188,8 @@
       "abstain": 13,
       "absent": 22,
       "not_logged": 2
-    }
+    },
+    "temata": []
   },
   {
     "id": 87055,
@@ -9474,7 +10202,8 @@
       "abstain": 34,
       "absent": 22,
       "not_logged": 2
-    }
+    },
+    "temata": []
   },
   {
     "id": 87056,
@@ -9487,7 +10216,8 @@
       "abstain": 13,
       "absent": 22,
       "not_logged": 2
-    }
+    },
+    "temata": []
   },
   {
     "id": 87057,
@@ -9500,7 +10230,8 @@
       "abstain": 48,
       "absent": 22,
       "not_logged": 2
-    }
+    },
+    "temata": []
   },
   {
     "id": 87058,
@@ -9513,7 +10244,8 @@
       "abstain": 19,
       "absent": 22,
       "not_logged": 2
-    }
+    },
+    "temata": []
   },
   {
     "id": 87059,
@@ -9526,7 +10258,8 @@
       "abstain": 67,
       "absent": 22,
       "not_logged": 2
-    }
+    },
+    "temata": []
   },
   {
     "id": 87060,
@@ -9539,7 +10272,8 @@
       "abstain": 5,
       "absent": 25,
       "not_logged": 15
-    }
+    },
+    "temata": []
   },
   {
     "id": 87061,
@@ -9552,7 +10286,8 @@
       "abstain": 51,
       "absent": 25,
       "not_logged": 15
-    }
+    },
+    "temata": []
   },
   {
     "id": 87062,
@@ -9565,7 +10300,8 @@
       "abstain": 103,
       "absent": 25,
       "not_logged": 71
-    }
+    },
+    "temata": []
   },
   {
     "id": 87063,
@@ -9578,7 +10314,8 @@
       "abstain": 41,
       "absent": 22,
       "not_logged": 7
-    }
+    },
+    "temata": []
   },
   {
     "id": 87064,
@@ -9591,7 +10328,8 @@
       "abstain": 0,
       "absent": 22,
       "not_logged": 7
-    }
+    },
+    "temata": []
   },
   {
     "id": 87065,
@@ -9604,7 +10342,8 @@
       "abstain": 35,
       "absent": 22,
       "not_logged": 7
-    }
+    },
+    "temata": []
   },
   {
     "id": 87066,
@@ -9617,7 +10356,8 @@
       "abstain": 15,
       "absent": 22,
       "not_logged": 7
-    }
+    },
+    "temata": []
   },
   {
     "id": 87067,
@@ -9630,7 +10370,8 @@
       "abstain": 8,
       "absent": 22,
       "not_logged": 7
-    }
+    },
+    "temata": []
   },
   {
     "id": 87068,
@@ -9643,7 +10384,8 @@
       "abstain": 4,
       "absent": 22,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 87069,
@@ -9656,7 +10398,8 @@
       "abstain": 5,
       "absent": 22,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 87070,
@@ -9669,7 +10412,8 @@
       "abstain": 14,
       "absent": 21,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 87071,
@@ -9682,7 +10426,8 @@
       "abstain": 45,
       "absent": 21,
       "not_logged": 8
-    }
+    },
+    "temata": []
   },
   {
     "id": 87072,
@@ -9695,7 +10440,8 @@
       "abstain": 50,
       "absent": 21,
       "not_logged": 8
-    }
+    },
+    "temata": []
   },
   {
     "id": 87073,
@@ -9708,7 +10454,8 @@
       "abstain": 90,
       "absent": 21,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 87074,
@@ -9721,7 +10468,8 @@
       "abstain": 2,
       "absent": 24,
       "not_logged": 20
-    }
+    },
+    "temata": []
   },
   {
     "id": 87075,
@@ -9734,7 +10482,8 @@
       "abstain": 12,
       "absent": 24,
       "not_logged": 16
-    }
+    },
+    "temata": []
   },
   {
     "id": 87076,
@@ -9747,7 +10496,8 @@
       "abstain": 23,
       "absent": 24,
       "not_logged": 15
-    }
+    },
+    "temata": []
   },
   {
     "id": 87077,
@@ -9760,7 +10510,8 @@
       "abstain": 24,
       "absent": 24,
       "not_logged": 15
-    }
+    },
+    "temata": []
   },
   {
     "id": 87078,
@@ -9773,7 +10524,8 @@
       "abstain": 19,
       "absent": 24,
       "not_logged": 15
-    }
+    },
+    "temata": []
   },
   {
     "id": 87079,
@@ -9786,7 +10538,8 @@
       "abstain": 36,
       "absent": 20,
       "not_logged": 15
-    }
+    },
+    "temata": []
   },
   {
     "id": 87080,
@@ -9799,7 +10552,8 @@
       "abstain": 4,
       "absent": 21,
       "not_logged": 29
-    }
+    },
+    "temata": []
   },
   {
     "id": 87081,
@@ -9812,7 +10566,8 @@
       "abstain": 6,
       "absent": 21,
       "not_logged": 28
-    }
+    },
+    "temata": []
   },
   {
     "id": 87082,
@@ -9825,7 +10580,8 @@
       "abstain": 8,
       "absent": 21,
       "not_logged": 23
-    }
+    },
+    "temata": []
   },
   {
     "id": 87083,
@@ -9838,7 +10594,8 @@
       "abstain": 16,
       "absent": 21,
       "not_logged": 20
-    }
+    },
+    "temata": []
   },
   {
     "id": 87084,
@@ -9851,7 +10608,8 @@
       "abstain": 33,
       "absent": 21,
       "not_logged": 19
-    }
+    },
+    "temata": []
   },
   {
     "id": 87085,
@@ -9864,7 +10622,8 @@
       "abstain": 5,
       "absent": 21,
       "not_logged": 18
-    }
+    },
+    "temata": []
   },
   {
     "id": 87086,
@@ -9877,7 +10636,8 @@
       "abstain": 10,
       "absent": 21,
       "not_logged": 18
-    }
+    },
+    "temata": []
   },
   {
     "id": 87087,
@@ -9890,7 +10650,8 @@
       "abstain": 5,
       "absent": 21,
       "not_logged": 17
-    }
+    },
+    "temata": []
   },
   {
     "id": 87088,
@@ -9903,7 +10664,8 @@
       "abstain": 8,
       "absent": 21,
       "not_logged": 16
-    }
+    },
+    "temata": []
   },
   {
     "id": 87089,
@@ -9916,7 +10678,8 @@
       "abstain": 4,
       "absent": 28,
       "not_logged": 32
-    }
+    },
+    "temata": []
   },
   {
     "id": 87090,
@@ -9929,7 +10692,8 @@
       "abstain": 3,
       "absent": 28,
       "not_logged": 24
-    }
+    },
+    "temata": []
   },
   {
     "id": 87091,
@@ -9942,7 +10706,8 @@
       "abstain": 2,
       "absent": 28,
       "not_logged": 24
-    }
+    },
+    "temata": []
   },
   {
     "id": 87092,
@@ -9955,7 +10720,8 @@
       "abstain": 46,
       "absent": 28,
       "not_logged": 24
-    }
+    },
+    "temata": []
   },
   {
     "id": 87093,
@@ -9968,7 +10734,8 @@
       "abstain": 23,
       "absent": 28,
       "not_logged": 22
-    }
+    },
+    "temata": []
   },
   {
     "id": 87094,
@@ -9981,7 +10748,8 @@
       "abstain": 24,
       "absent": 25,
       "not_logged": 20
-    }
+    },
+    "temata": []
   },
   {
     "id": 87095,
@@ -9994,7 +10762,8 @@
       "abstain": 35,
       "absent": 25,
       "not_logged": 18
-    }
+    },
+    "temata": []
   },
   {
     "id": 87096,
@@ -10007,7 +10776,8 @@
       "abstain": 39,
       "absent": 26,
       "not_logged": 16
-    }
+    },
+    "temata": []
   },
   {
     "id": 87097,
@@ -10020,7 +10790,8 @@
       "abstain": 51,
       "absent": 26,
       "not_logged": 12
-    }
+    },
+    "temata": []
   },
   {
     "id": 87098,
@@ -10033,7 +10804,8 @@
       "abstain": 43,
       "absent": 26,
       "not_logged": 11
-    }
+    },
+    "temata": []
   },
   {
     "id": 87099,
@@ -10046,7 +10818,8 @@
       "abstain": 2,
       "absent": 37,
       "not_logged": 27
-    }
+    },
+    "temata": []
   },
   {
     "id": 87100,
@@ -10059,7 +10832,8 @@
       "abstain": 35,
       "absent": 37,
       "not_logged": 24
-    }
+    },
+    "temata": []
   },
   {
     "id": 87101,
@@ -10072,7 +10846,8 @@
       "abstain": 120,
       "absent": 37,
       "not_logged": 24
-    }
+    },
+    "temata": []
   },
   {
     "id": 87102,
@@ -10085,7 +10860,8 @@
       "abstain": 35,
       "absent": 37,
       "not_logged": 24
-    }
+    },
+    "temata": []
   },
   {
     "id": 87103,
@@ -10098,6 +10874,7 @@
       "abstain": 4,
       "absent": 40,
       "not_logged": 46
-    }
+    },
+    "temata": []
   }
 ]

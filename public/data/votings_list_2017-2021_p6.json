@@ -10,7 +10,11 @@
       "abstain": 88,
       "absent": 73,
       "not_logged": 4
-    }
+    },
+    "temata": [
+      "důchodový plán",
+      "sociální dávky"
+    ]
   },
   {
     "id": 77055,
@@ -23,7 +27,11 @@
       "abstain": 63,
       "absent": 73,
       "not_logged": 4
-    }
+    },
+    "temata": [
+      "důchodový plán",
+      "sociální dávky"
+    ]
   },
   {
     "id": 77056,
@@ -36,7 +44,11 @@
       "abstain": 24,
       "absent": 73,
       "not_logged": 4
-    }
+    },
+    "temata": [
+      "důchodový plán",
+      "sociální dávky"
+    ]
   },
   {
     "id": 77057,
@@ -49,7 +61,11 @@
       "abstain": 38,
       "absent": 73,
       "not_logged": 4
-    }
+    },
+    "temata": [
+      "důchodový plán",
+      "sociální dávky"
+    ]
   },
   {
     "id": 77058,
@@ -62,7 +78,11 @@
       "abstain": 13,
       "absent": 73,
       "not_logged": 4
-    }
+    },
+    "temata": [
+      "důchodový plán",
+      "sociální dávky"
+    ]
   },
   {
     "id": 77059,
@@ -75,7 +95,11 @@
       "abstain": 75,
       "absent": 73,
       "not_logged": 4
-    }
+    },
+    "temata": [
+      "důchodový plán",
+      "sociální dávky"
+    ]
   },
   {
     "id": 77060,
@@ -88,7 +112,11 @@
       "abstain": 84,
       "absent": 73,
       "not_logged": 4
-    }
+    },
+    "temata": [
+      "důchodový plán",
+      "sociální dávky"
+    ]
   },
   {
     "id": 77061,
@@ -101,7 +129,8 @@
       "abstain": 18,
       "absent": 73,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 77062,
@@ -114,7 +143,8 @@
       "abstain": 15,
       "absent": 73,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 77063,
@@ -127,7 +157,8 @@
       "abstain": 11,
       "absent": 73,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 77064,
@@ -140,7 +171,13 @@
       "abstain": 10,
       "absent": 73,
       "not_logged": 4
-    }
+    },
+    "temata": [
+      "oběť",
+      "odškodnění",
+      "skladování zbraní",
+      "střelná zbraň a střelivo"
+    ]
   },
   {
     "id": 77065,
@@ -153,7 +190,8 @@
       "abstain": 18,
       "absent": 73,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 77066,
@@ -166,7 +204,8 @@
       "abstain": 16,
       "absent": 73,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 77067,
@@ -179,7 +218,14 @@
       "abstain": 12,
       "absent": 73,
       "not_logged": 4
-    }
+    },
+    "temata": [
+      "péče o postižené osoby",
+      "příspěvek na péči",
+      "sociální politika",
+      "sociální služby",
+      "zdravotně postižený člověk"
+    ]
   },
   {
     "id": 77069,
@@ -192,7 +238,8 @@
       "abstain": 4,
       "absent": 80,
       "not_logged": 35
-    }
+    },
+    "temata": []
   },
   {
     "id": 77070,
@@ -205,7 +252,8 @@
       "abstain": 9,
       "absent": 80,
       "not_logged": 21
-    }
+    },
+    "temata": []
   },
   {
     "id": 77071,
@@ -218,7 +266,12 @@
       "abstain": 4,
       "absent": 78,
       "not_logged": 8
-    }
+    },
+    "temata": [
+      "bioetika",
+      "kmenová buňka",
+      "transplantace orgánů"
+    ]
   },
   {
     "id": 77072,
@@ -231,7 +284,12 @@
       "abstain": 11,
       "absent": 78,
       "not_logged": 8
-    }
+    },
+    "temata": [
+      "bioetika",
+      "kmenová buňka",
+      "transplantace orgánů"
+    ]
   },
   {
     "id": 77073,
@@ -244,7 +302,12 @@
       "abstain": 44,
       "absent": 78,
       "not_logged": 8
-    }
+    },
+    "temata": [
+      "bioetika",
+      "kmenová buňka",
+      "transplantace orgánů"
+    ]
   },
   {
     "id": 77074,
@@ -257,7 +320,12 @@
       "abstain": 15,
       "absent": 78,
       "not_logged": 8
-    }
+    },
+    "temata": [
+      "bioetika",
+      "kmenová buňka",
+      "transplantace orgánů"
+    ]
   },
   {
     "id": 77075,
@@ -270,7 +338,12 @@
       "abstain": 33,
       "absent": 78,
       "not_logged": 8
-    }
+    },
+    "temata": [
+      "bioetika",
+      "kmenová buňka",
+      "transplantace orgánů"
+    ]
   },
   {
     "id": 77076,
@@ -283,7 +356,12 @@
       "abstain": 14,
       "absent": 78,
       "not_logged": 8
-    }
+    },
+    "temata": [
+      "bioetika",
+      "kmenová buňka",
+      "transplantace orgánů"
+    ]
   },
   {
     "id": 77077,
@@ -296,7 +374,12 @@
       "abstain": 14,
       "absent": 78,
       "not_logged": 8
-    }
+    },
+    "temata": [
+      "bioetika",
+      "kmenová buňka",
+      "transplantace orgánů"
+    ]
   },
   {
     "id": 77078,
@@ -309,7 +392,12 @@
       "abstain": 14,
       "absent": 78,
       "not_logged": 8
-    }
+    },
+    "temata": [
+      "bioetika",
+      "kmenová buňka",
+      "transplantace orgánů"
+    ]
   },
   {
     "id": 77079,
@@ -322,7 +410,12 @@
       "abstain": 15,
       "absent": 78,
       "not_logged": 8
-    }
+    },
+    "temata": [
+      "bioetika",
+      "kmenová buňka",
+      "transplantace orgánů"
+    ]
   },
   {
     "id": 77080,
@@ -335,7 +428,12 @@
       "abstain": 33,
       "absent": 78,
       "not_logged": 8
-    }
+    },
+    "temata": [
+      "bioetika",
+      "kmenová buňka",
+      "transplantace orgánů"
+    ]
   },
   {
     "id": 77081,
@@ -348,7 +446,12 @@
       "abstain": 59,
       "absent": 78,
       "not_logged": 8
-    }
+    },
+    "temata": [
+      "bioetika",
+      "kmenová buňka",
+      "transplantace orgánů"
+    ]
   },
   {
     "id": 77082,
@@ -361,7 +464,12 @@
       "abstain": 74,
       "absent": 78,
       "not_logged": 8
-    }
+    },
+    "temata": [
+      "bioetika",
+      "kmenová buňka",
+      "transplantace orgánů"
+    ]
   },
   {
     "id": 77083,
@@ -374,7 +482,12 @@
       "abstain": 65,
       "absent": 78,
       "not_logged": 8
-    }
+    },
+    "temata": [
+      "bioetika",
+      "kmenová buňka",
+      "transplantace orgánů"
+    ]
   },
   {
     "id": 77084,
@@ -387,7 +500,12 @@
       "abstain": 62,
       "absent": 78,
       "not_logged": 8
-    }
+    },
+    "temata": [
+      "bioetika",
+      "kmenová buňka",
+      "transplantace orgánů"
+    ]
   },
   {
     "id": 77085,
@@ -400,7 +518,12 @@
       "abstain": 55,
       "absent": 78,
       "not_logged": 8
-    }
+    },
+    "temata": [
+      "bioetika",
+      "kmenová buňka",
+      "transplantace orgánů"
+    ]
   },
   {
     "id": 77086,
@@ -413,7 +536,12 @@
       "abstain": 54,
       "absent": 78,
       "not_logged": 8
-    }
+    },
+    "temata": [
+      "bioetika",
+      "kmenová buňka",
+      "transplantace orgánů"
+    ]
   },
   {
     "id": 77087,
@@ -426,7 +554,12 @@
       "abstain": 77,
       "absent": 78,
       "not_logged": 8
-    }
+    },
+    "temata": [
+      "bioetika",
+      "kmenová buňka",
+      "transplantace orgánů"
+    ]
   },
   {
     "id": 77088,
@@ -439,7 +572,12 @@
       "abstain": 97,
       "absent": 78,
       "not_logged": 8
-    }
+    },
+    "temata": [
+      "bioetika",
+      "kmenová buňka",
+      "transplantace orgánů"
+    ]
   },
   {
     "id": 77089,
@@ -452,7 +590,12 @@
       "abstain": 80,
       "absent": 78,
       "not_logged": 8
-    }
+    },
+    "temata": [
+      "bioetika",
+      "kmenová buňka",
+      "transplantace orgánů"
+    ]
   },
   {
     "id": 77090,
@@ -465,7 +608,12 @@
       "abstain": 18,
       "absent": 78,
       "not_logged": 8
-    }
+    },
+    "temata": [
+      "bioetika",
+      "kmenová buňka",
+      "transplantace orgánů"
+    ]
   },
   {
     "id": 77091,
@@ -478,7 +626,12 @@
       "abstain": 18,
       "absent": 78,
       "not_logged": 8
-    }
+    },
+    "temata": [
+      "bioetika",
+      "kmenová buňka",
+      "transplantace orgánů"
+    ]
   },
   {
     "id": 77092,
@@ -491,7 +644,12 @@
       "abstain": 20,
       "absent": 78,
       "not_logged": 8
-    }
+    },
+    "temata": [
+      "bioetika",
+      "kmenová buňka",
+      "transplantace orgánů"
+    ]
   },
   {
     "id": 77093,
@@ -504,7 +662,12 @@
       "abstain": 17,
       "absent": 78,
       "not_logged": 8
-    }
+    },
+    "temata": [
+      "bioetika",
+      "kmenová buňka",
+      "transplantace orgánů"
+    ]
   },
   {
     "id": 77094,
@@ -517,7 +680,12 @@
       "abstain": 19,
       "absent": 78,
       "not_logged": 8
-    }
+    },
+    "temata": [
+      "bioetika",
+      "kmenová buňka",
+      "transplantace orgánů"
+    ]
   },
   {
     "id": 77095,
@@ -530,7 +698,12 @@
       "abstain": 16,
       "absent": 78,
       "not_logged": 8
-    }
+    },
+    "temata": [
+      "bioetika",
+      "kmenová buňka",
+      "transplantace orgánů"
+    ]
   },
   {
     "id": 77096,
@@ -543,7 +716,12 @@
       "abstain": 6,
       "absent": 78,
       "not_logged": 8
-    }
+    },
+    "temata": [
+      "bioetika",
+      "kmenová buňka",
+      "transplantace orgánů"
+    ]
   },
   {
     "id": 77097,
@@ -556,7 +734,12 @@
       "abstain": 77,
       "absent": 78,
       "not_logged": 8
-    }
+    },
+    "temata": [
+      "bioetika",
+      "kmenová buňka",
+      "transplantace orgánů"
+    ]
   },
   {
     "id": 77098,
@@ -569,7 +752,12 @@
       "abstain": 79,
       "absent": 78,
       "not_logged": 8
-    }
+    },
+    "temata": [
+      "bioetika",
+      "kmenová buňka",
+      "transplantace orgánů"
+    ]
   },
   {
     "id": 77099,
@@ -582,7 +770,12 @@
       "abstain": 97,
       "absent": 79,
       "not_logged": 8
-    }
+    },
+    "temata": [
+      "bioetika",
+      "kmenová buňka",
+      "transplantace orgánů"
+    ]
   },
   {
     "id": 77100,
@@ -595,7 +788,12 @@
       "abstain": 102,
       "absent": 79,
       "not_logged": 8
-    }
+    },
+    "temata": [
+      "bioetika",
+      "kmenová buňka",
+      "transplantace orgánů"
+    ]
   },
   {
     "id": 77101,
@@ -608,7 +806,12 @@
       "abstain": 100,
       "absent": 79,
       "not_logged": 8
-    }
+    },
+    "temata": [
+      "bioetika",
+      "kmenová buňka",
+      "transplantace orgánů"
+    ]
   },
   {
     "id": 77102,
@@ -621,7 +824,12 @@
       "abstain": 98,
       "absent": 79,
       "not_logged": 8
-    }
+    },
+    "temata": [
+      "bioetika",
+      "kmenová buňka",
+      "transplantace orgánů"
+    ]
   },
   {
     "id": 77103,
@@ -634,7 +842,12 @@
       "abstain": 85,
       "absent": 79,
       "not_logged": 8
-    }
+    },
+    "temata": [
+      "bioetika",
+      "kmenová buňka",
+      "transplantace orgánů"
+    ]
   },
   {
     "id": 77104,
@@ -647,7 +860,12 @@
       "abstain": 31,
       "absent": 79,
       "not_logged": 8
-    }
+    },
+    "temata": [
+      "bioetika",
+      "kmenová buňka",
+      "transplantace orgánů"
+    ]
   },
   {
     "id": 77105,
@@ -660,7 +878,12 @@
       "abstain": 19,
       "absent": 79,
       "not_logged": 8
-    }
+    },
+    "temata": [
+      "bioetika",
+      "kmenová buňka",
+      "transplantace orgánů"
+    ]
   },
   {
     "id": 77106,
@@ -673,7 +896,12 @@
       "abstain": 16,
       "absent": 79,
       "not_logged": 8
-    }
+    },
+    "temata": [
+      "bioetika",
+      "kmenová buňka",
+      "transplantace orgánů"
+    ]
   },
   {
     "id": 77107,
@@ -686,7 +914,12 @@
       "abstain": 14,
       "absent": 79,
       "not_logged": 8
-    }
+    },
+    "temata": [
+      "bioetika",
+      "kmenová buňka",
+      "transplantace orgánů"
+    ]
   },
   {
     "id": 77108,
@@ -699,7 +932,12 @@
       "abstain": 13,
       "absent": 79,
       "not_logged": 8
-    }
+    },
+    "temata": [
+      "bioetika",
+      "kmenová buňka",
+      "transplantace orgánů"
+    ]
   },
   {
     "id": 77109,
@@ -712,7 +950,12 @@
       "abstain": 16,
       "absent": 79,
       "not_logged": 8
-    }
+    },
+    "temata": [
+      "bioetika",
+      "kmenová buňka",
+      "transplantace orgánů"
+    ]
   },
   {
     "id": 77110,
@@ -725,7 +968,12 @@
       "abstain": 26,
       "absent": 79,
       "not_logged": 8
-    }
+    },
+    "temata": [
+      "bioetika",
+      "kmenová buňka",
+      "transplantace orgánů"
+    ]
   },
   {
     "id": 77111,
@@ -738,7 +986,12 @@
       "abstain": 56,
       "absent": 79,
       "not_logged": 8
-    }
+    },
+    "temata": [
+      "bioetika",
+      "kmenová buňka",
+      "transplantace orgánů"
+    ]
   },
   {
     "id": 77112,
@@ -751,7 +1004,12 @@
       "abstain": 65,
       "absent": 79,
       "not_logged": 8
-    }
+    },
+    "temata": [
+      "bioetika",
+      "kmenová buňka",
+      "transplantace orgánů"
+    ]
   },
   {
     "id": 77113,
@@ -764,7 +1022,12 @@
       "abstain": 52,
       "absent": 79,
       "not_logged": 8
-    }
+    },
+    "temata": [
+      "bioetika",
+      "kmenová buňka",
+      "transplantace orgánů"
+    ]
   },
   {
     "id": 77114,
@@ -777,7 +1040,12 @@
       "abstain": 51,
       "absent": 79,
       "not_logged": 8
-    }
+    },
+    "temata": [
+      "bioetika",
+      "kmenová buňka",
+      "transplantace orgánů"
+    ]
   },
   {
     "id": 77115,
@@ -790,7 +1058,12 @@
       "abstain": 42,
       "absent": 79,
       "not_logged": 8
-    }
+    },
+    "temata": [
+      "bioetika",
+      "kmenová buňka",
+      "transplantace orgánů"
+    ]
   },
   {
     "id": 77116,
@@ -803,7 +1076,12 @@
       "abstain": 6,
       "absent": 79,
       "not_logged": 8
-    }
+    },
+    "temata": [
+      "bioetika",
+      "kmenová buňka",
+      "transplantace orgánů"
+    ]
   },
   {
     "id": 77117,
@@ -816,7 +1094,12 @@
       "abstain": 55,
       "absent": 79,
       "not_logged": 8
-    }
+    },
+    "temata": [
+      "bioetika",
+      "kmenová buňka",
+      "transplantace orgánů"
+    ]
   },
   {
     "id": 77118,
@@ -829,7 +1112,12 @@
       "abstain": 81,
       "absent": 79,
       "not_logged": 8
-    }
+    },
+    "temata": [
+      "bioetika",
+      "kmenová buňka",
+      "transplantace orgánů"
+    ]
   },
   {
     "id": 77119,
@@ -842,7 +1130,12 @@
       "abstain": 23,
       "absent": 79,
       "not_logged": 8
-    }
+    },
+    "temata": [
+      "bioetika",
+      "kmenová buňka",
+      "transplantace orgánů"
+    ]
   },
   {
     "id": 77120,
@@ -855,7 +1148,12 @@
       "abstain": 57,
       "absent": 79,
       "not_logged": 8
-    }
+    },
+    "temata": [
+      "bioetika",
+      "kmenová buňka",
+      "transplantace orgánů"
+    ]
   },
   {
     "id": 77121,
@@ -868,7 +1166,12 @@
       "abstain": 34,
       "absent": 79,
       "not_logged": 8
-    }
+    },
+    "temata": [
+      "bioetika",
+      "kmenová buňka",
+      "transplantace orgánů"
+    ]
   },
   {
     "id": 77122,
@@ -881,7 +1184,16 @@
       "abstain": 14,
       "absent": 79,
       "not_logged": 8
-    }
+    },
+    "temata": [
+      "ochrana dķtģte",
+      "oputģné dķtģ",
+      "prįva dķtģte",
+      "prįvo na spravedlnost",
+      "sirotek",
+      "sociįlnķ politika",
+      "sociįlnķ prįva"
+    ]
   },
   {
     "id": 77124,
@@ -894,7 +1206,8 @@
       "abstain": 3,
       "absent": 16,
       "not_logged": 62
-    }
+    },
+    "temata": []
   },
   {
     "id": 77125,
@@ -907,7 +1220,8 @@
       "abstain": 2,
       "absent": 16,
       "not_logged": 14
-    }
+    },
+    "temata": []
   },
   {
     "id": 77126,
@@ -920,7 +1234,8 @@
       "abstain": 110,
       "absent": 16,
       "not_logged": 10
-    }
+    },
+    "temata": []
   },
   {
     "id": 77127,
@@ -933,7 +1248,8 @@
       "abstain": 95,
       "absent": 16,
       "not_logged": 9
-    }
+    },
+    "temata": []
   },
   {
     "id": 77128,
@@ -946,7 +1262,8 @@
       "abstain": 74,
       "absent": 16,
       "not_logged": 8
-    }
+    },
+    "temata": []
   },
   {
     "id": 77129,
@@ -959,7 +1276,8 @@
       "abstain": 92,
       "absent": 16,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 77130,
@@ -972,7 +1290,8 @@
       "abstain": 95,
       "absent": 16,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 77131,
@@ -985,7 +1304,8 @@
       "abstain": 30,
       "absent": 16,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 77132,
@@ -998,7 +1318,8 @@
       "abstain": 112,
       "absent": 16,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 77133,
@@ -1011,7 +1332,8 @@
       "abstain": 111,
       "absent": 16,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 77134,
@@ -1024,7 +1346,8 @@
       "abstain": 104,
       "absent": 16,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 77135,
@@ -1037,7 +1360,8 @@
       "abstain": 96,
       "absent": 16,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 77136,
@@ -1050,7 +1374,8 @@
       "abstain": 35,
       "absent": 16,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 77137,
@@ -1063,7 +1388,8 @@
       "abstain": 127,
       "absent": 16,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 77138,
@@ -1076,7 +1402,8 @@
       "abstain": 85,
       "absent": 16,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 77139,
@@ -1089,7 +1416,8 @@
       "abstain": 124,
       "absent": 16,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 77140,
@@ -1102,7 +1430,8 @@
       "abstain": 85,
       "absent": 16,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 77141,
@@ -1115,7 +1444,8 @@
       "abstain": 141,
       "absent": 16,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 77142,
@@ -1128,7 +1458,8 @@
       "abstain": 116,
       "absent": 16,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 77143,
@@ -1141,7 +1472,8 @@
       "abstain": 113,
       "absent": 16,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 77144,
@@ -1154,7 +1486,8 @@
       "abstain": 109,
       "absent": 16,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 77145,
@@ -1167,7 +1500,8 @@
       "abstain": 135,
       "absent": 16,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 77146,
@@ -1180,7 +1514,8 @@
       "abstain": 136,
       "absent": 16,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 77147,
@@ -1193,7 +1528,8 @@
       "abstain": 136,
       "absent": 16,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 77148,
@@ -1206,7 +1542,8 @@
       "abstain": 132,
       "absent": 16,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 77149,
@@ -1219,7 +1556,8 @@
       "abstain": 103,
       "absent": 16,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 77150,
@@ -1232,7 +1570,8 @@
       "abstain": 111,
       "absent": 16,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 77151,
@@ -1245,7 +1584,8 @@
       "abstain": 113,
       "absent": 16,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 77152,
@@ -1258,7 +1598,8 @@
       "abstain": 98,
       "absent": 16,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 77153,
@@ -1271,7 +1612,8 @@
       "abstain": 12,
       "absent": 16,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 77154,
@@ -1284,7 +1626,17 @@
       "abstain": 36,
       "absent": 19,
       "not_logged": 22
-    }
+    },
+    "temata": [
+      "banka",
+      "bankovní dohled",
+      "centrální banka",
+      "hypoteční banka",
+      "kapitálový trh",
+      "spořitelna",
+      "spotřební úvěr",
+      "úvěrová instituce"
+    ]
   },
   {
     "id": 77155,
@@ -1297,7 +1649,13 @@
       "abstain": 3,
       "absent": 19,
       "not_logged": 20
-    }
+    },
+    "temata": [
+      "daò z pøidané hodnoty",
+      "dovoz",
+      "elektronický obchod",
+      "pøibližování legislativy"
+    ]
   },
   {
     "id": 77156,
@@ -1310,7 +1668,16 @@
       "abstain": 33,
       "absent": 20,
       "not_logged": 24
-    }
+    },
+    "temata": [
+      "akvakultura",
+      "biologickį diverzita",
+      "invaznķ druhy",
+      "kontrolnķ moc",
+      "rostlinnį ųķe",
+      "seznam",
+      "ivočinį ųķe"
+    ]
   },
   {
     "id": 77157,
@@ -1323,7 +1690,16 @@
       "abstain": 77,
       "absent": 20,
       "not_logged": 29
-    }
+    },
+    "temata": [
+      "cena energie",
+      "cenová regulace",
+      "energetická politika",
+      "energetické právo",
+      "obchodní zprostředkovatel",
+      "plynárenský průmysl",
+      "výroba energie"
+    ]
   },
   {
     "id": 77158,
@@ -1336,7 +1712,17 @@
       "abstain": 17,
       "absent": 20,
       "not_logged": 23
-    }
+    },
+    "temata": [
+      "farmaceutická legislativa",
+      "farmaceutický výrobek",
+      "konopí",
+      "kontrola léčiv",
+      "lék",
+      "omamná látka",
+      "povolení k prodeji",
+      "psychotropní látka"
+    ]
   },
   {
     "id": 77159,
@@ -1349,7 +1735,16 @@
       "abstain": 15,
       "absent": 23,
       "not_logged": 20
-    }
+    },
+    "temata": [
+      "cena energie",
+      "cenová regulace",
+      "energetická politika",
+      "energetické právo",
+      "obchodní zprostředkovatel",
+      "plynárenský průmysl",
+      "výroba energie"
+    ]
   },
   {
     "id": 77160,
@@ -1362,7 +1757,20 @@
       "abstain": 17,
       "absent": 28,
       "not_logged": 21
-    }
+    },
+    "temata": [
+      "farmaceutické nįklady",
+      "farmaceutickż vżrobek",
+      "pojistné",
+      "pojiovna",
+      "veobecné zdravotnķ pojitģnķ",
+      "vżdaje na zdravķ",
+      "zdravotnickį sluba",
+      "zdravotnķ péče",
+      "zdravotnķ pojitģnķ",
+      "zdravotnķ politika",
+      "zubnķ lékaųstvķ"
+    ]
   },
   {
     "id": 77161,
@@ -1375,7 +1783,8 @@
       "abstain": 81,
       "absent": 23,
       "not_logged": 18
-    }
+    },
+    "temata": []
   },
   {
     "id": 77162,
@@ -1388,7 +1797,8 @@
       "abstain": 39,
       "absent": 23,
       "not_logged": 15
-    }
+    },
+    "temata": []
   },
   {
     "id": 77163,
@@ -1401,7 +1811,8 @@
       "abstain": 107,
       "absent": 23,
       "not_logged": 12
-    }
+    },
+    "temata": []
   },
   {
     "id": 77164,
@@ -1414,7 +1825,8 @@
       "abstain": 107,
       "absent": 23,
       "not_logged": 13
-    }
+    },
+    "temata": []
   },
   {
     "id": 77165,
@@ -1427,7 +1839,8 @@
       "abstain": 107,
       "absent": 23,
       "not_logged": 12
-    }
+    },
+    "temata": []
   },
   {
     "id": 77166,
@@ -1440,7 +1853,8 @@
       "abstain": 109,
       "absent": 23,
       "not_logged": 12
-    }
+    },
+    "temata": []
   },
   {
     "id": 77167,
@@ -1453,7 +1867,8 @@
       "abstain": 107,
       "absent": 23,
       "not_logged": 12
-    }
+    },
+    "temata": []
   },
   {
     "id": 77168,
@@ -1466,7 +1881,14 @@
       "abstain": 5,
       "absent": 23,
       "not_logged": 10
-    }
+    },
+    "temata": [
+      "naléhavá pomoc",
+      "ochrana proti požáru",
+      "polovojenské síly",
+      "signalizační zařízení",
+      "sociální zařízení"
+    ]
   },
   {
     "id": 77169,
@@ -1479,7 +1901,14 @@
       "abstain": 8,
       "absent": 23,
       "not_logged": 9
-    }
+    },
+    "temata": [
+      "naléhavá pomoc",
+      "ochrana proti požáru",
+      "polovojenské síly",
+      "signalizační zařízení",
+      "sociální zařízení"
+    ]
   },
   {
     "id": 77170,
@@ -1492,7 +1921,14 @@
       "abstain": 4,
       "absent": 23,
       "not_logged": 8
-    }
+    },
+    "temata": [
+      "naléhavá pomoc",
+      "ochrana proti požáru",
+      "polovojenské síly",
+      "signalizační zařízení",
+      "sociální zařízení"
+    ]
   },
   {
     "id": 77171,
@@ -1505,7 +1941,14 @@
       "abstain": 49,
       "absent": 22,
       "not_logged": 9
-    }
+    },
+    "temata": [
+      "naléhavá pomoc",
+      "ochrana proti požáru",
+      "polovojenské síly",
+      "signalizační zařízení",
+      "sociální zařízení"
+    ]
   },
   {
     "id": 77172,
@@ -1518,7 +1961,14 @@
       "abstain": 33,
       "absent": 22,
       "not_logged": 9
-    }
+    },
+    "temata": [
+      "naléhavá pomoc",
+      "ochrana proti požáru",
+      "polovojenské síly",
+      "signalizační zařízení",
+      "sociální zařízení"
+    ]
   },
   {
     "id": 77173,
@@ -1531,7 +1981,14 @@
       "abstain": 3,
       "absent": 22,
       "not_logged": 9
-    }
+    },
+    "temata": [
+      "naléhavá pomoc",
+      "ochrana proti požáru",
+      "polovojenské síly",
+      "signalizační zařízení",
+      "sociální zařízení"
+    ]
   },
   {
     "id": 77174,
@@ -1544,7 +2001,13 @@
       "abstain": 4,
       "absent": 22,
       "not_logged": 10
-    }
+    },
+    "temata": [
+      "ministerstvo",
+      "státní symbol",
+      "úřední dokument",
+      "úřední razítko"
+    ]
   },
   {
     "id": 77175,
@@ -1557,7 +2020,14 @@
       "abstain": 15,
       "absent": 22,
       "not_logged": 10
-    }
+    },
+    "temata": [
+      "naléhavá pomoc",
+      "ochrana proti požáru",
+      "polovojenské síly",
+      "signalizační zařízení",
+      "sociální zařízení"
+    ]
   },
   {
     "id": 77176,
@@ -1570,7 +2040,14 @@
       "abstain": 15,
       "absent": 22,
       "not_logged": 10
-    }
+    },
+    "temata": [
+      "naléhavá pomoc",
+      "ochrana proti požáru",
+      "polovojenské síly",
+      "signalizační zařízení",
+      "sociální zařízení"
+    ]
   },
   {
     "id": 77177,
@@ -1583,7 +2060,14 @@
       "abstain": 5,
       "absent": 22,
       "not_logged": 21
-    }
+    },
+    "temata": [
+      "naléhavá pomoc",
+      "ochrana proti požáru",
+      "polovojenské síly",
+      "signalizační zařízení",
+      "sociální zařízení"
+    ]
   },
   {
     "id": 77179,
@@ -1596,7 +2080,14 @@
       "abstain": 6,
       "absent": 22,
       "not_logged": 18
-    }
+    },
+    "temata": [
+      "naléhavá pomoc",
+      "ochrana proti požáru",
+      "polovojenské síly",
+      "signalizační zařízení",
+      "sociální zařízení"
+    ]
   },
   {
     "id": 77180,
@@ -1609,7 +2100,14 @@
       "abstain": 92,
       "absent": 22,
       "not_logged": 17
-    }
+    },
+    "temata": [
+      "naléhavá pomoc",
+      "ochrana proti požáru",
+      "polovojenské síly",
+      "signalizační zařízení",
+      "sociální zařízení"
+    ]
   },
   {
     "id": 77181,
@@ -1622,7 +2120,14 @@
       "abstain": 21,
       "absent": 22,
       "not_logged": 14
-    }
+    },
+    "temata": [
+      "naléhavá pomoc",
+      "ochrana proti požáru",
+      "polovojenské síly",
+      "signalizační zařízení",
+      "sociální zařízení"
+    ]
   },
   {
     "id": 77182,
@@ -1635,7 +2140,14 @@
       "abstain": 27,
       "absent": 22,
       "not_logged": 13
-    }
+    },
+    "temata": [
+      "naléhavá pomoc",
+      "ochrana proti požáru",
+      "polovojenské síly",
+      "signalizační zařízení",
+      "sociální zařízení"
+    ]
   },
   {
     "id": 77183,
@@ -1648,7 +2160,14 @@
       "abstain": 22,
       "absent": 22,
       "not_logged": 13
-    }
+    },
+    "temata": [
+      "naléhavá pomoc",
+      "ochrana proti požáru",
+      "polovojenské síly",
+      "signalizační zařízení",
+      "sociální zařízení"
+    ]
   },
   {
     "id": 77184,
@@ -1661,7 +2180,14 @@
       "abstain": 31,
       "absent": 22,
       "not_logged": 12
-    }
+    },
+    "temata": [
+      "naléhavá pomoc",
+      "ochrana proti požáru",
+      "polovojenské síly",
+      "signalizační zařízení",
+      "sociální zařízení"
+    ]
   },
   {
     "id": 77185,
@@ -1674,7 +2200,14 @@
       "abstain": 33,
       "absent": 22,
       "not_logged": 12
-    }
+    },
+    "temata": [
+      "naléhavá pomoc",
+      "ochrana proti požáru",
+      "polovojenské síly",
+      "signalizační zařízení",
+      "sociální zařízení"
+    ]
   },
   {
     "id": 77186,
@@ -1687,7 +2220,17 @@
       "abstain": 53,
       "absent": 22,
       "not_logged": 12
-    }
+    },
+    "temata": [
+      "ochrana soukromí",
+      "odborná kvalifikace",
+      "ohňostroj",
+      "orgány veřejné správy",
+      "osobní údaje",
+      "správní delikt",
+      "správní formality",
+      "veřejná správa"
+    ]
   },
   {
     "id": 77187,
@@ -1700,7 +2243,14 @@
       "abstain": 2,
       "absent": 24,
       "not_logged": 29
-    }
+    },
+    "temata": [
+      "naléhavá pomoc",
+      "ochrana proti požáru",
+      "polovojenské síly",
+      "signalizační zařízení",
+      "sociální zařízení"
+    ]
   },
   {
     "id": 77188,
@@ -1713,7 +2263,14 @@
       "abstain": 29,
       "absent": 24,
       "not_logged": 19
-    }
+    },
+    "temata": [
+      "naléhavá pomoc",
+      "ochrana proti požáru",
+      "polovojenské síly",
+      "signalizační zařízení",
+      "sociální zařízení"
+    ]
   },
   {
     "id": 77189,
@@ -1726,7 +2283,14 @@
       "abstain": 40,
       "absent": 24,
       "not_logged": 18
-    }
+    },
+    "temata": [
+      "naléhavá pomoc",
+      "ochrana proti požáru",
+      "polovojenské síly",
+      "signalizační zařízení",
+      "sociální zařízení"
+    ]
   },
   {
     "id": 77190,
@@ -1739,7 +2303,16 @@
       "abstain": 3,
       "absent": 24,
       "not_logged": 18
-    }
+    },
+    "temata": [
+      "bezpečnost silničního provozu",
+      "celní kontrola",
+      "dopravní předpisy",
+      "dopravní přestupek",
+      "pokuta",
+      "policie",
+      "pravidla silničního provozu"
+    ]
   },
   {
     "id": 77191,
@@ -1752,7 +2325,14 @@
       "abstain": 25,
       "absent": 24,
       "not_logged": 21
-    }
+    },
+    "temata": [
+      "naléhavá pomoc",
+      "ochrana proti požáru",
+      "polovojenské síly",
+      "signalizační zařízení",
+      "sociální zařízení"
+    ]
   },
   {
     "id": 77192,
@@ -1765,7 +2345,14 @@
       "abstain": 18,
       "absent": 24,
       "not_logged": 20
-    }
+    },
+    "temata": [
+      "naléhavá pomoc",
+      "ochrana proti požáru",
+      "polovojenské síly",
+      "signalizační zařízení",
+      "sociální zařízení"
+    ]
   },
   {
     "id": 77193,
@@ -1778,7 +2365,14 @@
       "abstain": 13,
       "absent": 24,
       "not_logged": 17
-    }
+    },
+    "temata": [
+      "naléhavá pomoc",
+      "ochrana proti požáru",
+      "polovojenské síly",
+      "signalizační zařízení",
+      "sociální zařízení"
+    ]
   },
   {
     "id": 77194,
@@ -1791,7 +2385,13 @@
       "abstain": 12,
       "absent": 24,
       "not_logged": 17
-    }
+    },
+    "temata": [
+      "archiv",
+      "region",
+      "sídlo správy",
+      "veřejná instituce"
+    ]
   },
   {
     "id": 77195,
@@ -1804,7 +2404,14 @@
       "abstain": 74,
       "absent": 21,
       "not_logged": 45
-    }
+    },
+    "temata": [
+      "naléhavá pomoc",
+      "ochrana proti požáru",
+      "polovojenské síly",
+      "signalizační zařízení",
+      "sociální zařízení"
+    ]
   },
   {
     "id": 77196,
@@ -1817,7 +2424,14 @@
       "abstain": 8,
       "absent": 21,
       "not_logged": 38
-    }
+    },
+    "temata": [
+      "naléhavá pomoc",
+      "ochrana proti požáru",
+      "polovojenské síly",
+      "signalizační zařízení",
+      "sociální zařízení"
+    ]
   },
   {
     "id": 77197,
@@ -1830,7 +2444,14 @@
       "abstain": 1,
       "absent": 21,
       "not_logged": 35
-    }
+    },
+    "temata": [
+      "naléhavá pomoc",
+      "ochrana proti požáru",
+      "polovojenské síly",
+      "signalizační zařízení",
+      "sociální zařízení"
+    ]
   },
   {
     "id": 77198,
@@ -1843,7 +2464,14 @@
       "abstain": 2,
       "absent": 21,
       "not_logged": 34
-    }
+    },
+    "temata": [
+      "naléhavá pomoc",
+      "ochrana proti požáru",
+      "polovojenské síly",
+      "signalizační zařízení",
+      "sociální zařízení"
+    ]
   },
   {
     "id": 77199,
@@ -1856,7 +2484,14 @@
       "abstain": 97,
       "absent": 21,
       "not_logged": 30
-    }
+    },
+    "temata": [
+      "naléhavá pomoc",
+      "ochrana proti požáru",
+      "polovojenské síly",
+      "signalizační zařízení",
+      "sociální zařízení"
+    ]
   },
   {
     "id": 77200,
@@ -1869,7 +2504,14 @@
       "abstain": 107,
       "absent": 21,
       "not_logged": 27
-    }
+    },
+    "temata": [
+      "naléhavá pomoc",
+      "ochrana proti požáru",
+      "polovojenské síly",
+      "signalizační zařízení",
+      "sociální zařízení"
+    ]
   },
   {
     "id": 77201,
@@ -1882,7 +2524,14 @@
       "abstain": 103,
       "absent": 21,
       "not_logged": 26
-    }
+    },
+    "temata": [
+      "naléhavá pomoc",
+      "ochrana proti požáru",
+      "polovojenské síly",
+      "signalizační zařízení",
+      "sociální zařízení"
+    ]
   },
   {
     "id": 77202,
@@ -1895,7 +2544,13 @@
       "abstain": 4,
       "absent": 21,
       "not_logged": 24
-    }
+    },
+    "temata": [
+      "sociální pomoc",
+      "sociální služby",
+      "sociální zařízení",
+      "správní formality"
+    ]
   },
   {
     "id": 77203,
@@ -1908,7 +2563,12 @@
       "abstain": 51,
       "absent": 23,
       "not_logged": 24
-    }
+    },
+    "temata": [
+      "financování rozpočtu",
+      "plnění rozpočtu",
+      "státní rozpočet"
+    ]
   },
   {
     "id": 77204,
@@ -1921,7 +2581,14 @@
       "abstain": 17,
       "absent": 34,
       "not_logged": 49
-    }
+    },
+    "temata": [
+      "naléhavá pomoc",
+      "ochrana proti požáru",
+      "polovojenské síly",
+      "signalizační zařízení",
+      "sociální zařízení"
+    ]
   },
   {
     "id": 77205,
@@ -1934,7 +2601,14 @@
       "abstain": 16,
       "absent": 34,
       "not_logged": 48
-    }
+    },
+    "temata": [
+      "environmentální politika",
+      "ochrana životního prostředí",
+      "prevence environmentálních rizik",
+      "sledování životního prostředí",
+      "vliv na životní prostředí"
+    ]
   },
   {
     "id": 77206,
@@ -1947,7 +2621,17 @@
       "abstain": 40,
       "absent": 38,
       "not_logged": 31
-    }
+    },
+    "temata": [
+      "alternativní energie",
+      "biopalivo",
+      "elektrická energie",
+      "energetická politika",
+      "obnovitelná energie",
+      "obnovitelné zdroje",
+      "podpůrná cena",
+      "státní podpora"
+    ]
   },
   {
     "id": 77207,
@@ -1960,7 +2644,17 @@
       "abstain": 20,
       "absent": 38,
       "not_logged": 34
-    }
+    },
+    "temata": [
+      "čistá technologie",
+      "elektrická energie",
+      "jaderná elektrárna",
+      "jaderná energie",
+      "obnovitelná energie",
+      "ochrana životního prostředí",
+      "zachycování a ukládání oxidu uhličitého",
+      "zaručená cena"
+    ]
   },
   {
     "id": 77208,
@@ -1973,7 +2667,14 @@
       "abstain": 112,
       "absent": 37,
       "not_logged": 26
-    }
+    },
+    "temata": [
+      "naléhavá pomoc",
+      "ochrana proti požáru",
+      "polovojenské síly",
+      "signalizační zařízení",
+      "sociální zařízení"
+    ]
   },
   {
     "id": 77209,
@@ -1986,7 +2687,17 @@
       "abstain": 5,
       "absent": 37,
       "not_logged": 21
-    }
+    },
+    "temata": [
+      "bezdrátová telekomunikace",
+      "frekvenční pásmo",
+      "jednotný digitální trh",
+      "ochrana komunikací",
+      "ochrana soukromí",
+      "ochrana spotřebitele",
+      "soutěžní politika",
+      "telekomunikační technika"
+    ]
   },
   {
     "id": 77210,
@@ -1999,7 +2710,8 @@
       "abstain": 83,
       "absent": 37,
       "not_logged": 31
-    }
+    },
+    "temata": []
   },
   {
     "id": 77211,
@@ -2012,7 +2724,16 @@
       "abstain": 41,
       "absent": 36,
       "not_logged": 18
-    }
+    },
+    "temata": [
+      "bezpečnost dopravy",
+      "dopravní přestupek",
+      "dopravní značky",
+      "hromadná doprava",
+      "pozemní doprava",
+      "silniční síť",
+      "taxi"
+    ]
   },
   {
     "id": 77212,
@@ -2025,7 +2746,12 @@
       "abstain": 14,
       "absent": 44,
       "not_logged": 34
-    }
+    },
+    "temata": [
+      "financování rozpočtu",
+      "plnění rozpočtu",
+      "státní rozpočet"
+    ]
   },
   {
     "id": 77213,
@@ -2038,7 +2764,12 @@
       "abstain": 61,
       "absent": 44,
       "not_logged": 33
-    }
+    },
+    "temata": [
+      "financování rozpočtu",
+      "plnění rozpočtu",
+      "státní rozpočet"
+    ]
   },
   {
     "id": 77214,
@@ -2051,7 +2782,12 @@
       "abstain": 27,
       "absent": 44,
       "not_logged": 34
-    }
+    },
+    "temata": [
+      "financování rozpočtu",
+      "plnění rozpočtu",
+      "státní rozpočet"
+    ]
   },
   {
     "id": 77215,
@@ -2064,7 +2800,12 @@
       "abstain": 70,
       "absent": 44,
       "not_logged": 33
-    }
+    },
+    "temata": [
+      "financování rozpočtu",
+      "plnění rozpočtu",
+      "státní rozpočet"
+    ]
   },
   {
     "id": 77216,
@@ -2077,7 +2818,8 @@
       "abstain": 54,
       "absent": 84,
       "not_logged": 38
-    }
+    },
+    "temata": []
   },
   {
     "id": 77217,
@@ -2090,7 +2832,8 @@
       "abstain": 58,
       "absent": 74,
       "not_logged": 14
-    }
+    },
+    "temata": []
   },
   {
     "id": 77218,
@@ -2103,7 +2846,8 @@
       "abstain": 13,
       "absent": 73,
       "not_logged": 10
-    }
+    },
+    "temata": []
   },
   {
     "id": 77219,
@@ -2116,7 +2860,8 @@
       "abstain": 4,
       "absent": 73,
       "not_logged": 8
-    }
+    },
+    "temata": []
   },
   {
     "id": 77220,
@@ -2129,7 +2874,8 @@
       "abstain": 22,
       "absent": 73,
       "not_logged": 9
-    }
+    },
+    "temata": []
   },
   {
     "id": 77221,
@@ -2142,7 +2888,8 @@
       "abstain": 84,
       "absent": 74,
       "not_logged": 8
-    }
+    },
+    "temata": []
   },
   {
     "id": 77222,
@@ -2155,7 +2902,8 @@
       "abstain": 98,
       "absent": 73,
       "not_logged": 9
-    }
+    },
+    "temata": []
   },
   {
     "id": 77223,
@@ -2168,7 +2916,8 @@
       "abstain": 76,
       "absent": 73,
       "not_logged": 9
-    }
+    },
+    "temata": []
   },
   {
     "id": 77224,
@@ -2181,7 +2930,15 @@
       "abstain": 18,
       "absent": 75,
       "not_logged": 10
-    }
+    },
+    "temata": [
+      "Česká republika",
+      "členský stát EU",
+      "dvoustranná dohoda",
+      "ochrana investic",
+      "podpora investic",
+      "vypovědění smlouvy"
+    ]
   },
   {
     "id": 77225,
@@ -2194,7 +2951,15 @@
       "abstain": 26,
       "absent": 76,
       "not_logged": 11
-    }
+    },
+    "temata": [
+      "Česká republika",
+      "dopování",
+      "povzbuzující prostředek",
+      "profesionální sport",
+      "sport",
+      "Unesco"
+    ]
   },
   {
     "id": 77226,
@@ -2207,7 +2972,13 @@
       "abstain": 19,
       "absent": 75,
       "not_logged": 13
-    }
+    },
+    "temata": [
+      "Èeská republika",
+      "osvìdèení o pùvodu",
+      "pùvodní výrobek",
+      "ratifikace dohody"
+    ]
   },
   {
     "id": 77227,
@@ -2220,7 +2991,14 @@
       "abstain": 27,
       "absent": 75,
       "not_logged": 15
-    }
+    },
+    "temata": [
+      "armáda",
+      "nadnárodní ozbrojené síly",
+      "vojenská spolupráce",
+      "vojenské cvičení",
+      "vojska v zahraničí"
+    ]
   },
   {
     "id": 77228,
@@ -2233,7 +3011,14 @@
       "abstain": 27,
       "absent": 75,
       "not_logged": 16
-    }
+    },
+    "temata": [
+      "armáda",
+      "nadnárodní ozbrojené síly",
+      "vojenská spolupráce",
+      "vojenské cvičení",
+      "vojska v zahraničí"
+    ]
   },
   {
     "id": 77229,
@@ -2246,7 +3031,14 @@
       "abstain": 31,
       "absent": 75,
       "not_logged": 15
-    }
+    },
+    "temata": [
+      "armáda",
+      "nadnárodní ozbrojené síly",
+      "vojenská spolupráce",
+      "vojenské cvičení",
+      "vojska v zahraničí"
+    ]
   },
   {
     "id": 77230,
@@ -2259,7 +3051,14 @@
       "abstain": 30,
       "absent": 75,
       "not_logged": 15
-    }
+    },
+    "temata": [
+      "armáda",
+      "nadnárodní ozbrojené síly",
+      "vojenská spolupráce",
+      "vojenské cvičení",
+      "vojska v zahraničí"
+    ]
   },
   {
     "id": 77231,
@@ -2272,7 +3071,13 @@
       "abstain": 31,
       "absent": 75,
       "not_logged": 13
-    }
+    },
+    "temata": [
+      "armáda",
+      "rozpočet",
+      "vojenská spolupráce",
+      "vojska v zahraničí"
+    ]
   },
   {
     "id": 77232,
@@ -2285,7 +3090,14 @@
       "abstain": 37,
       "absent": 74,
       "not_logged": 12
-    }
+    },
+    "temata": [
+      "armáda",
+      "nadnárodní ozbrojené síly",
+      "vojenská spolupráce",
+      "vojenské cvičení",
+      "vojska v zahraničí"
+    ]
   },
   {
     "id": 77233,
@@ -2298,7 +3110,14 @@
       "abstain": 31,
       "absent": 74,
       "not_logged": 13
-    }
+    },
+    "temata": [
+      "armáda",
+      "nadnárodní ozbrojené síly",
+      "vojenská spolupráce",
+      "vojenské cvičení",
+      "vojska v zahraničí"
+    ]
   },
   {
     "id": 77234,
@@ -2311,7 +3130,14 @@
       "abstain": 28,
       "absent": 74,
       "not_logged": 11
-    }
+    },
+    "temata": [
+      "armáda",
+      "nadnárodní ozbrojené síly",
+      "vojenská spolupráce",
+      "vojenské cvičení",
+      "vojska v zahraničí"
+    ]
   },
   {
     "id": 77235,
@@ -2324,7 +3150,14 @@
       "abstain": 34,
       "absent": 75,
       "not_logged": 11
-    }
+    },
+    "temata": [
+      "armáda",
+      "nadnárodní ozbrojené síly",
+      "vojenská spolupráce",
+      "vojenské cvičení",
+      "vojska v zahraničí"
+    ]
   },
   {
     "id": 77236,
@@ -2337,7 +3170,14 @@
       "abstain": 35,
       "absent": 75,
       "not_logged": 11
-    }
+    },
+    "temata": [
+      "armáda",
+      "nadnárodní ozbrojené síly",
+      "vojenská spolupráce",
+      "vojenské cvičení",
+      "vojska v zahraničí"
+    ]
   },
   {
     "id": 77237,
@@ -2350,7 +3190,14 @@
       "abstain": 40,
       "absent": 76,
       "not_logged": 10
-    }
+    },
+    "temata": [
+      "armáda",
+      "nadnárodní ozbrojené síly",
+      "vojenská spolupráce",
+      "vojenské cvičení",
+      "vojska v zahraničí"
+    ]
   },
   {
     "id": 77238,
@@ -2363,7 +3210,14 @@
       "abstain": 41,
       "absent": 76,
       "not_logged": 9
-    }
+    },
+    "temata": [
+      "armáda",
+      "nadnárodní ozbrojené síly",
+      "vojenská spolupráce",
+      "vojenské cvičení",
+      "vojska v zahraničí"
+    ]
   },
   {
     "id": 77239,
@@ -2376,7 +3230,14 @@
       "abstain": 29,
       "absent": 76,
       "not_logged": 10
-    }
+    },
+    "temata": [
+      "armáda",
+      "nadnárodní ozbrojené síly",
+      "vojenská spolupráce",
+      "vojenské cvičení",
+      "vojska v zahraničí"
+    ]
   },
   {
     "id": 77240,
@@ -2389,7 +3250,13 @@
       "abstain": 26,
       "absent": 76,
       "not_logged": 11
-    }
+    },
+    "temata": [
+      "armáda",
+      "rozpočet",
+      "vojenská spolupráce",
+      "vojska v zahraničí"
+    ]
   },
   {
     "id": 77241,
@@ -2402,7 +3269,14 @@
       "abstain": 28,
       "absent": 76,
       "not_logged": 11
-    }
+    },
+    "temata": [
+      "armáda",
+      "nadnárodní ozbrojené síly",
+      "vojenská spolupráce",
+      "vojenské cvičení",
+      "vojska v zahraničí"
+    ]
   },
   {
     "id": 77242,
@@ -2415,7 +3289,8 @@
       "abstain": 17,
       "absent": 61,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 77243,
@@ -2428,7 +3303,8 @@
       "abstain": 23,
       "absent": 61,
       "not_logged": 3
-    }
+    },
+    "temata": []
   },
   {
     "id": 77244,
@@ -2441,7 +3317,8 @@
       "abstain": 76,
       "absent": 61,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 77245,
@@ -2454,7 +3331,8 @@
       "abstain": 76,
       "absent": 61,
       "not_logged": 3
-    }
+    },
+    "temata": []
   },
   {
     "id": 77246,
@@ -2467,7 +3345,8 @@
       "abstain": 87,
       "absent": 61,
       "not_logged": 2
-    }
+    },
+    "temata": []
   },
   {
     "id": 77247,
@@ -2480,7 +3359,8 @@
       "abstain": 120,
       "absent": 61,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 77248,
@@ -2493,7 +3373,8 @@
       "abstain": 48,
       "absent": 61,
       "not_logged": 2
-    }
+    },
+    "temata": []
   },
   {
     "id": 77249,
@@ -2506,7 +3387,15 @@
       "abstain": 3,
       "absent": 60,
       "not_logged": 13
-    }
+    },
+    "temata": [
+      "dovolená na zotavenou",
+      "pracovní právo",
+      "předmět podnikání",
+      "rovné zacházení",
+      "zákoník práce",
+      "zaměstnanec"
+    ]
   },
   {
     "id": 77250,
@@ -2519,7 +3408,15 @@
       "abstain": 0,
       "absent": 60,
       "not_logged": 10
-    }
+    },
+    "temata": [
+      "dovolená na zotavenou",
+      "pracovní právo",
+      "předmět podnikání",
+      "rovné zacházení",
+      "zákoník práce",
+      "zaměstnanec"
+    ]
   },
   {
     "id": 77251,
@@ -2532,7 +3429,15 @@
       "abstain": 21,
       "absent": 60,
       "not_logged": 6
-    }
+    },
+    "temata": [
+      "dovolená na zotavenou",
+      "pracovní právo",
+      "předmět podnikání",
+      "rovné zacházení",
+      "zákoník práce",
+      "zaměstnanec"
+    ]
   },
   {
     "id": 77252,
@@ -2545,7 +3450,15 @@
       "abstain": 21,
       "absent": 60,
       "not_logged": 5
-    }
+    },
+    "temata": [
+      "dovolená na zotavenou",
+      "pracovní právo",
+      "předmět podnikání",
+      "rovné zacházení",
+      "zákoník práce",
+      "zaměstnanec"
+    ]
   },
   {
     "id": 77253,
@@ -2558,7 +3471,15 @@
       "abstain": 5,
       "absent": 60,
       "not_logged": 5
-    }
+    },
+    "temata": [
+      "dovolená na zotavenou",
+      "pracovní právo",
+      "předmět podnikání",
+      "rovné zacházení",
+      "zákoník práce",
+      "zaměstnanec"
+    ]
   },
   {
     "id": 77254,
@@ -2571,7 +3492,15 @@
       "abstain": 24,
       "absent": 60,
       "not_logged": 5
-    }
+    },
+    "temata": [
+      "dovolená na zotavenou",
+      "pracovní právo",
+      "předmět podnikání",
+      "rovné zacházení",
+      "zákoník práce",
+      "zaměstnanec"
+    ]
   },
   {
     "id": 77255,
@@ -2584,7 +3513,15 @@
       "abstain": 38,
       "absent": 60,
       "not_logged": 5
-    }
+    },
+    "temata": [
+      "dovolená na zotavenou",
+      "pracovní právo",
+      "předmět podnikání",
+      "rovné zacházení",
+      "zákoník práce",
+      "zaměstnanec"
+    ]
   },
   {
     "id": 77256,
@@ -2597,7 +3534,15 @@
       "abstain": 4,
       "absent": 60,
       "not_logged": 5
-    }
+    },
+    "temata": [
+      "dovolená na zotavenou",
+      "pracovní právo",
+      "předmět podnikání",
+      "rovné zacházení",
+      "zákoník práce",
+      "zaměstnanec"
+    ]
   },
   {
     "id": 77257,
@@ -2610,7 +3555,15 @@
       "abstain": 9,
       "absent": 60,
       "not_logged": 5
-    }
+    },
+    "temata": [
+      "dovolená na zotavenou",
+      "pracovní právo",
+      "předmět podnikání",
+      "rovné zacházení",
+      "zákoník práce",
+      "zaměstnanec"
+    ]
   },
   {
     "id": 77258,
@@ -2623,7 +3576,15 @@
       "abstain": 41,
       "absent": 60,
       "not_logged": 5
-    }
+    },
+    "temata": [
+      "dovolená na zotavenou",
+      "pracovní právo",
+      "předmět podnikání",
+      "rovné zacházení",
+      "zákoník práce",
+      "zaměstnanec"
+    ]
   },
   {
     "id": 77259,
@@ -2636,7 +3597,15 @@
       "abstain": 60,
       "absent": 60,
       "not_logged": 5
-    }
+    },
+    "temata": [
+      "dovolená na zotavenou",
+      "pracovní právo",
+      "předmět podnikání",
+      "rovné zacházení",
+      "zákoník práce",
+      "zaměstnanec"
+    ]
   },
   {
     "id": 77260,
@@ -2649,7 +3618,15 @@
       "abstain": 8,
       "absent": 60,
       "not_logged": 5
-    }
+    },
+    "temata": [
+      "dovolená na zotavenou",
+      "pracovní právo",
+      "předmět podnikání",
+      "rovné zacházení",
+      "zákoník práce",
+      "zaměstnanec"
+    ]
   },
   {
     "id": 77261,
@@ -2662,7 +3639,15 @@
       "abstain": 5,
       "absent": 60,
       "not_logged": 5
-    }
+    },
+    "temata": [
+      "dovolená na zotavenou",
+      "pracovní právo",
+      "předmět podnikání",
+      "rovné zacházení",
+      "zákoník práce",
+      "zaměstnanec"
+    ]
   },
   {
     "id": 77262,
@@ -2675,7 +3660,15 @@
       "abstain": 19,
       "absent": 60,
       "not_logged": 5
-    }
+    },
+    "temata": [
+      "dovolená na zotavenou",
+      "pracovní právo",
+      "předmět podnikání",
+      "rovné zacházení",
+      "zákoník práce",
+      "zaměstnanec"
+    ]
   },
   {
     "id": 77263,
@@ -2688,7 +3681,15 @@
       "abstain": 44,
       "absent": 60,
       "not_logged": 5
-    }
+    },
+    "temata": [
+      "dovolená na zotavenou",
+      "pracovní právo",
+      "předmět podnikání",
+      "rovné zacházení",
+      "zákoník práce",
+      "zaměstnanec"
+    ]
   },
   {
     "id": 77264,
@@ -2701,7 +3702,15 @@
       "abstain": 46,
       "absent": 60,
       "not_logged": 5
-    }
+    },
+    "temata": [
+      "dovolená na zotavenou",
+      "pracovní právo",
+      "předmět podnikání",
+      "rovné zacházení",
+      "zákoník práce",
+      "zaměstnanec"
+    ]
   },
   {
     "id": 77265,
@@ -2714,7 +3723,15 @@
       "abstain": 52,
       "absent": 60,
       "not_logged": 4
-    }
+    },
+    "temata": [
+      "dovolená na zotavenou",
+      "pracovní právo",
+      "předmět podnikání",
+      "rovné zacházení",
+      "zákoník práce",
+      "zaměstnanec"
+    ]
   },
   {
     "id": 77266,
@@ -2727,7 +3744,15 @@
       "abstain": 56,
       "absent": 60,
       "not_logged": 4
-    }
+    },
+    "temata": [
+      "dovolená na zotavenou",
+      "pracovní právo",
+      "předmět podnikání",
+      "rovné zacházení",
+      "zákoník práce",
+      "zaměstnanec"
+    ]
   },
   {
     "id": 77267,
@@ -2740,7 +3765,15 @@
       "abstain": 58,
       "absent": 60,
       "not_logged": 4
-    }
+    },
+    "temata": [
+      "dovolená na zotavenou",
+      "pracovní právo",
+      "předmět podnikání",
+      "rovné zacházení",
+      "zákoník práce",
+      "zaměstnanec"
+    ]
   },
   {
     "id": 77268,
@@ -2753,7 +3786,15 @@
       "abstain": 55,
       "absent": 60,
       "not_logged": 3
-    }
+    },
+    "temata": [
+      "dovolená na zotavenou",
+      "pracovní právo",
+      "předmět podnikání",
+      "rovné zacházení",
+      "zákoník práce",
+      "zaměstnanec"
+    ]
   },
   {
     "id": 77269,
@@ -2766,7 +3807,15 @@
       "abstain": 47,
       "absent": 60,
       "not_logged": 3
-    }
+    },
+    "temata": [
+      "dovolená na zotavenou",
+      "pracovní právo",
+      "předmět podnikání",
+      "rovné zacházení",
+      "zákoník práce",
+      "zaměstnanec"
+    ]
   },
   {
     "id": 77270,
@@ -2779,7 +3828,15 @@
       "abstain": 53,
       "absent": 60,
       "not_logged": 3
-    }
+    },
+    "temata": [
+      "dovolená na zotavenou",
+      "pracovní právo",
+      "předmět podnikání",
+      "rovné zacházení",
+      "zákoník práce",
+      "zaměstnanec"
+    ]
   },
   {
     "id": 77271,
@@ -2792,7 +3849,15 @@
       "abstain": 48,
       "absent": 60,
       "not_logged": 3
-    }
+    },
+    "temata": [
+      "dovolená na zotavenou",
+      "pracovní právo",
+      "předmět podnikání",
+      "rovné zacházení",
+      "zákoník práce",
+      "zaměstnanec"
+    ]
   },
   {
     "id": 77272,
@@ -2805,7 +3870,15 @@
       "abstain": 81,
       "absent": 60,
       "not_logged": 3
-    }
+    },
+    "temata": [
+      "dovolená na zotavenou",
+      "pracovní právo",
+      "předmět podnikání",
+      "rovné zacházení",
+      "zákoník práce",
+      "zaměstnanec"
+    ]
   },
   {
     "id": 77273,
@@ -2818,7 +3891,15 @@
       "abstain": 55,
       "absent": 60,
       "not_logged": 3
-    }
+    },
+    "temata": [
+      "dovolená na zotavenou",
+      "pracovní právo",
+      "předmět podnikání",
+      "rovné zacházení",
+      "zákoník práce",
+      "zaměstnanec"
+    ]
   },
   {
     "id": 77274,
@@ -2831,7 +3912,15 @@
       "abstain": 51,
       "absent": 60,
       "not_logged": 3
-    }
+    },
+    "temata": [
+      "dovolená na zotavenou",
+      "pracovní právo",
+      "předmět podnikání",
+      "rovné zacházení",
+      "zákoník práce",
+      "zaměstnanec"
+    ]
   },
   {
     "id": 77275,
@@ -2844,7 +3933,15 @@
       "abstain": 46,
       "absent": 60,
       "not_logged": 3
-    }
+    },
+    "temata": [
+      "dovolená na zotavenou",
+      "pracovní právo",
+      "předmět podnikání",
+      "rovné zacházení",
+      "zákoník práce",
+      "zaměstnanec"
+    ]
   },
   {
     "id": 77276,
@@ -2857,7 +3954,15 @@
       "abstain": 54,
       "absent": 60,
       "not_logged": 3
-    }
+    },
+    "temata": [
+      "dovolená na zotavenou",
+      "pracovní právo",
+      "předmět podnikání",
+      "rovné zacházení",
+      "zákoník práce",
+      "zaměstnanec"
+    ]
   },
   {
     "id": 77277,
@@ -2870,7 +3975,15 @@
       "abstain": 52,
       "absent": 60,
       "not_logged": 3
-    }
+    },
+    "temata": [
+      "dovolená na zotavenou",
+      "pracovní právo",
+      "předmět podnikání",
+      "rovné zacházení",
+      "zákoník práce",
+      "zaměstnanec"
+    ]
   },
   {
     "id": 77278,
@@ -2883,7 +3996,17 @@
       "abstain": 14,
       "absent": 59,
       "not_logged": 4
-    }
+    },
+    "temata": [
+      "Agentura Evropské unie pro železnice",
+      "bezpečnost dopravy",
+      "jízdní personál",
+      "přibližování legislativy",
+      "společná dopravní politika",
+      "vysokorychlostní doprava",
+      "železniční doprava",
+      "železniční síť"
+    ]
   },
   {
     "id": 77279,
@@ -2896,7 +4019,14 @@
       "abstain": 0,
       "absent": 59,
       "not_logged": 40
-    }
+    },
+    "temata": [
+      "investiční politika",
+      "návrh rozpočtu",
+      "podpora investic",
+      "rozpočet",
+      "střednědobá prognóza"
+    ]
   },
   {
     "id": 77280,
@@ -2909,7 +4039,15 @@
       "abstain": 27,
       "absent": 60,
       "not_logged": 39
-    }
+    },
+    "temata": [
+      "dovolená na zotavenou",
+      "pracovní právo",
+      "předmět podnikání",
+      "rovné zacházení",
+      "zákoník práce",
+      "zaměstnanec"
+    ]
   },
   {
     "id": 77281,
@@ -2922,7 +4060,13 @@
       "abstain": 5,
       "absent": 63,
       "not_logged": 43
-    }
+    },
+    "temata": [
+      "dědictví",
+      "hlava státu",
+      "sochařství",
+      "umělecká profese"
+    ]
   },
   {
     "id": 77282,
@@ -2935,7 +4079,13 @@
       "abstain": 53,
       "absent": 73,
       "not_logged": 28
-    }
+    },
+    "temata": [
+      "dědictví",
+      "hlava státu",
+      "sochařství",
+      "umělecká profese"
+    ]
   },
   {
     "id": 77283,
@@ -2948,7 +4098,8 @@
       "abstain": 10,
       "absent": 70,
       "not_logged": 31
-    }
+    },
+    "temata": []
   },
   {
     "id": 77284,
@@ -2961,7 +4112,13 @@
       "abstain": 51,
       "absent": 71,
       "not_logged": 38
-    }
+    },
+    "temata": [
+      "dědictví",
+      "hlava státu",
+      "sochařství",
+      "umělecká profese"
+    ]
   },
   {
     "id": 77285,
@@ -2974,7 +4131,13 @@
       "abstain": 43,
       "absent": 74,
       "not_logged": 45
-    }
+    },
+    "temata": [
+      "dědictví",
+      "hlava státu",
+      "sochařství",
+      "umělecká profese"
+    ]
   },
   {
     "id": 77286,
@@ -2987,7 +4150,13 @@
       "abstain": 26,
       "absent": 75,
       "not_logged": 44
-    }
+    },
+    "temata": [
+      "dědictví",
+      "hlava státu",
+      "sochařství",
+      "umělecká profese"
+    ]
   },
   {
     "id": 77287,
@@ -3000,7 +4169,13 @@
       "abstain": 18,
       "absent": 75,
       "not_logged": 39
-    }
+    },
+    "temata": [
+      "dědictví",
+      "hlava státu",
+      "sochařství",
+      "umělecká profese"
+    ]
   },
   {
     "id": 77288,
@@ -3013,7 +4188,13 @@
       "abstain": 33,
       "absent": 75,
       "not_logged": 41
-    }
+    },
+    "temata": [
+      "dědictví",
+      "hlava státu",
+      "sochařství",
+      "umělecká profese"
+    ]
   },
   {
     "id": 77289,
@@ -3026,7 +4207,13 @@
       "abstain": 6,
       "absent": 75,
       "not_logged": 45
-    }
+    },
+    "temata": [
+      "dědictví",
+      "hlava státu",
+      "sochařství",
+      "umělecká profese"
+    ]
   },
   {
     "id": 77290,
@@ -3039,7 +4226,8 @@
       "abstain": 3,
       "absent": 45,
       "not_logged": 30
-    }
+    },
+    "temata": []
   },
   {
     "id": 77291,
@@ -3052,7 +4240,8 @@
       "abstain": 3,
       "absent": 45,
       "not_logged": 15
-    }
+    },
+    "temata": []
   },
   {
     "id": 77292,
@@ -3065,7 +4254,8 @@
       "abstain": 1,
       "absent": 42,
       "not_logged": 43
-    }
+    },
+    "temata": []
   },
   {
     "id": 77297,
@@ -3078,7 +4268,16 @@
       "abstain": 12,
       "absent": 56,
       "not_logged": 132
-    }
+    },
+    "temata": [
+      "agrární sektor",
+      "hospodářský výsledek zemědělství",
+      "zemědělská ekonomika",
+      "zemědělská politika",
+      "zemědělská produktivita",
+      "zemědělská situace",
+      "zpráva o činnosti"
+    ]
   },
   {
     "id": 77298,
@@ -3091,7 +4290,16 @@
       "abstain": 49,
       "absent": 61,
       "not_logged": 35
-    }
+    },
+    "temata": [
+      "agrární sektor",
+      "hospodářský výsledek zemědělství",
+      "zemědělská ekonomika",
+      "zemědělská politika",
+      "zemědělská produktivita",
+      "zemědělská situace",
+      "zpráva o činnosti"
+    ]
   },
   {
     "id": 77293,
@@ -3104,7 +4312,8 @@
       "abstain": 4,
       "absent": 50,
       "not_logged": 58
-    }
+    },
+    "temata": []
   },
   {
     "id": 77294,
@@ -3117,7 +4326,8 @@
       "abstain": 1,
       "absent": 49,
       "not_logged": 31
-    }
+    },
+    "temata": []
   },
   {
     "id": 77295,
@@ -3130,7 +4340,13 @@
       "abstain": 3,
       "absent": 49,
       "not_logged": 19
-    }
+    },
+    "temata": [
+      "bezpečnost při práci",
+      "důchodový plán",
+      "podmínky pro odchod do důchodu",
+      "sociální dávky"
+    ]
   },
   {
     "id": 77296,
@@ -3143,6 +4359,16 @@
       "abstain": 1,
       "absent": 49,
       "not_logged": 17
-    }
+    },
+    "temata": [
+      "finanční příjem členů parlamentu",
+      "mzda",
+      "mzdová politika",
+      "mzdové tarify",
+      "politika úsporných opatření",
+      "poslanec EP",
+      "poslanec parlamentu",
+      "stanovení mzdy"
+    ]
   }
 ]

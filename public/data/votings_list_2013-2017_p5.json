@@ -10,7 +10,8 @@
       "abstain": 13,
       "absent": 32,
       "not_logged": 13
-    }
+    },
+    "temata": []
   },
   {
     "id": 66309,
@@ -23,7 +24,8 @@
       "abstain": 67,
       "absent": 32,
       "not_logged": 11
-    }
+    },
+    "temata": []
   },
   {
     "id": 66310,
@@ -36,7 +38,8 @@
       "abstain": 80,
       "absent": 32,
       "not_logged": 11
-    }
+    },
+    "temata": []
   },
   {
     "id": 66311,
@@ -49,7 +52,8 @@
       "abstain": 69,
       "absent": 32,
       "not_logged": 11
-    }
+    },
+    "temata": []
   },
   {
     "id": 66312,
@@ -62,7 +66,8 @@
       "abstain": 31,
       "absent": 32,
       "not_logged": 11
-    }
+    },
+    "temata": []
   },
   {
     "id": 66313,
@@ -75,7 +80,8 @@
       "abstain": 33,
       "absent": 32,
       "not_logged": 11
-    }
+    },
+    "temata": []
   },
   {
     "id": 66314,
@@ -88,7 +94,8 @@
       "abstain": 39,
       "absent": 33,
       "not_logged": 11
-    }
+    },
+    "temata": []
   },
   {
     "id": 66315,
@@ -101,7 +108,8 @@
       "abstain": 42,
       "absent": 33,
       "not_logged": 11
-    }
+    },
+    "temata": []
   },
   {
     "id": 66316,
@@ -114,7 +122,8 @@
       "abstain": 54,
       "absent": 33,
       "not_logged": 10
-    }
+    },
+    "temata": []
   },
   {
     "id": 66317,
@@ -127,7 +136,8 @@
       "abstain": 11,
       "absent": 33,
       "not_logged": 26
-    }
+    },
+    "temata": []
   },
   {
     "id": 66318,
@@ -140,7 +150,8 @@
       "abstain": 32,
       "absent": 33,
       "not_logged": 24
-    }
+    },
+    "temata": []
   },
   {
     "id": 66319,
@@ -153,7 +164,8 @@
       "abstain": 12,
       "absent": 45,
       "not_logged": 68
-    }
+    },
+    "temata": []
   },
   {
     "id": 66320,
@@ -166,7 +178,8 @@
       "abstain": 39,
       "absent": 31,
       "not_logged": 23
-    }
+    },
+    "temata": []
   },
   {
     "id": 66321,
@@ -179,7 +192,8 @@
       "abstain": 45,
       "absent": 31,
       "not_logged": 23
-    }
+    },
+    "temata": []
   },
   {
     "id": 66322,
@@ -192,7 +206,8 @@
       "abstain": 39,
       "absent": 31,
       "not_logged": 22
-    }
+    },
+    "temata": []
   },
   {
     "id": 66323,
@@ -205,7 +220,8 @@
       "abstain": 42,
       "absent": 31,
       "not_logged": 18
-    }
+    },
+    "temata": []
   },
   {
     "id": 66324,
@@ -218,7 +234,8 @@
       "abstain": 46,
       "absent": 31,
       "not_logged": 16
-    }
+    },
+    "temata": []
   },
   {
     "id": 66325,
@@ -231,7 +248,13 @@
       "abstain": 22,
       "absent": 31,
       "not_logged": 8
-    }
+    },
+    "temata": [
+      "oprávnění k výkonu služby",
+      "osoba samostatně výdělečně činná",
+      "živnost",
+      "živnostník"
+    ]
   },
   {
     "id": 66326,
@@ -244,7 +267,13 @@
       "abstain": 16,
       "absent": 31,
       "not_logged": 7
-    }
+    },
+    "temata": [
+      "oprávnění k výkonu služby",
+      "osoba samostatně výdělečně činná",
+      "živnost",
+      "živnostník"
+    ]
   },
   {
     "id": 66327,
@@ -257,7 +286,13 @@
       "abstain": 30,
       "absent": 36,
       "not_logged": 15
-    }
+    },
+    "temata": [
+      "oprávnění k výkonu služby",
+      "osoba samostatně výdělečně činná",
+      "živnost",
+      "živnostník"
+    ]
   },
   {
     "id": 66328,
@@ -270,7 +305,13 @@
       "abstain": 53,
       "absent": 36,
       "not_logged": 14
-    }
+    },
+    "temata": [
+      "oprávnění k výkonu služby",
+      "osoba samostatně výdělečně činná",
+      "živnost",
+      "živnostník"
+    ]
   },
   {
     "id": 66329,
@@ -283,7 +324,13 @@
       "abstain": 49,
       "absent": 36,
       "not_logged": 13
-    }
+    },
+    "temata": [
+      "oprávnění k výkonu služby",
+      "osoba samostatně výdělečně činná",
+      "živnost",
+      "živnostník"
+    ]
   },
   {
     "id": 66330,
@@ -296,7 +343,13 @@
       "abstain": 58,
       "absent": 36,
       "not_logged": 10
-    }
+    },
+    "temata": [
+      "oprávnění k výkonu služby",
+      "osoba samostatně výdělečně činná",
+      "živnost",
+      "živnostník"
+    ]
   },
   {
     "id": 66331,
@@ -309,7 +362,13 @@
       "abstain": 3,
       "absent": 36,
       "not_logged": 10
-    }
+    },
+    "temata": [
+      "oprávnění k výkonu služby",
+      "osoba samostatně výdělečně činná",
+      "živnost",
+      "živnostník"
+    ]
   },
   {
     "id": 66332,
@@ -322,7 +381,13 @@
       "abstain": 41,
       "absent": 35,
       "not_logged": 11
-    }
+    },
+    "temata": [
+      "oprávnění k výkonu služby",
+      "osoba samostatně výdělečně činná",
+      "živnost",
+      "živnostník"
+    ]
   },
   {
     "id": 66333,
@@ -335,7 +400,13 @@
       "abstain": 14,
       "absent": 35,
       "not_logged": 11
-    }
+    },
+    "temata": [
+      "oprávnění k výkonu služby",
+      "osoba samostatně výdělečně činná",
+      "živnost",
+      "živnostník"
+    ]
   },
   {
     "id": 66334,
@@ -348,7 +419,13 @@
       "abstain": 42,
       "absent": 35,
       "not_logged": 11
-    }
+    },
+    "temata": [
+      "oprávnění k výkonu služby",
+      "osoba samostatně výdělečně činná",
+      "živnost",
+      "živnostník"
+    ]
   },
   {
     "id": 66335,
@@ -361,7 +438,13 @@
       "abstain": 44,
       "absent": 35,
       "not_logged": 10
-    }
+    },
+    "temata": [
+      "oprávnění k výkonu služby",
+      "osoba samostatně výdělečně činná",
+      "živnost",
+      "živnostník"
+    ]
   },
   {
     "id": 66336,
@@ -374,7 +457,13 @@
       "abstain": 50,
       "absent": 35,
       "not_logged": 10
-    }
+    },
+    "temata": [
+      "oprávnění k výkonu služby",
+      "osoba samostatně výdělečně činná",
+      "živnost",
+      "živnostník"
+    ]
   },
   {
     "id": 66337,
@@ -387,7 +476,13 @@
       "abstain": 30,
       "absent": 35,
       "not_logged": 11
-    }
+    },
+    "temata": [
+      "oprávnění k výkonu služby",
+      "osoba samostatně výdělečně činná",
+      "živnost",
+      "živnostník"
+    ]
   },
   {
     "id": 66338,
@@ -400,7 +495,13 @@
       "abstain": 6,
       "absent": 35,
       "not_logged": 9
-    }
+    },
+    "temata": [
+      "oprávnění k výkonu služby",
+      "osoba samostatně výdělečně činná",
+      "živnost",
+      "živnostník"
+    ]
   },
   {
     "id": 66339,
@@ -413,7 +514,12 @@
       "abstain": 23,
       "absent": 35,
       "not_logged": 10
-    }
+    },
+    "temata": [
+      "elektronické publikování",
+      "televize",
+      "televize s vysokou rozlišovací schopností"
+    ]
   },
   {
     "id": 66340,
@@ -426,7 +532,13 @@
       "abstain": 5,
       "absent": 37,
       "not_logged": 44
-    }
+    },
+    "temata": [
+      "oprávnění k výkonu služby",
+      "osoba samostatně výdělečně činná",
+      "živnost",
+      "živnostník"
+    ]
   },
   {
     "id": 66341,
@@ -439,7 +551,13 @@
       "abstain": 4,
       "absent": 35,
       "not_logged": 32
-    }
+    },
+    "temata": [
+      "oprávnění k výkonu služby",
+      "osoba samostatně výdělečně činná",
+      "živnost",
+      "živnostník"
+    ]
   },
   {
     "id": 66342,
@@ -452,7 +570,13 @@
       "abstain": 7,
       "absent": 35,
       "not_logged": 25
-    }
+    },
+    "temata": [
+      "oprávnění k výkonu služby",
+      "osoba samostatně výdělečně činná",
+      "živnost",
+      "živnostník"
+    ]
   },
   {
     "id": 66343,
@@ -465,7 +589,13 @@
       "abstain": 7,
       "absent": 35,
       "not_logged": 21
-    }
+    },
+    "temata": [
+      "oprávnění k výkonu služby",
+      "osoba samostatně výdělečně činná",
+      "živnost",
+      "živnostník"
+    ]
   },
   {
     "id": 66344,
@@ -478,7 +608,13 @@
       "abstain": 88,
       "absent": 35,
       "not_logged": 21
-    }
+    },
+    "temata": [
+      "oprávnění k výkonu služby",
+      "osoba samostatně výdělečně činná",
+      "živnost",
+      "živnostník"
+    ]
   },
   {
     "id": 66345,
@@ -491,7 +627,13 @@
       "abstain": 15,
       "absent": 35,
       "not_logged": 20
-    }
+    },
+    "temata": [
+      "oprávnění k výkonu služby",
+      "osoba samostatně výdělečně činná",
+      "živnost",
+      "živnostník"
+    ]
   },
   {
     "id": 66346,
@@ -504,7 +646,13 @@
       "abstain": 9,
       "absent": 35,
       "not_logged": 20
-    }
+    },
+    "temata": [
+      "oprávnění k výkonu služby",
+      "osoba samostatně výdělečně činná",
+      "živnost",
+      "živnostník"
+    ]
   },
   {
     "id": 66347,
@@ -517,7 +665,8 @@
       "abstain": 12,
       "absent": 37,
       "not_logged": 33
-    }
+    },
+    "temata": []
   },
   {
     "id": 66348,
@@ -530,7 +679,15 @@
       "abstain": 31,
       "absent": 37,
       "not_logged": 42
-    }
+    },
+    "temata": [
+      "evropská strana",
+      "nadace",
+      "organizace strany",
+      "politické strany",
+      "politický program",
+      "založení strany"
+    ]
   },
   {
     "id": 66349,
@@ -543,7 +700,15 @@
       "abstain": 35,
       "absent": 37,
       "not_logged": 42
-    }
+    },
+    "temata": [
+      "evropská strana",
+      "nadace",
+      "organizace strany",
+      "politické strany",
+      "politický program",
+      "založení strany"
+    ]
   },
   {
     "id": 66350,
@@ -556,7 +721,13 @@
       "abstain": 50,
       "absent": 30,
       "not_logged": 15
-    }
+    },
+    "temata": [
+      "oprávnění k výkonu služby",
+      "osoba samostatně výdělečně činná",
+      "živnost",
+      "živnostník"
+    ]
   },
   {
     "id": 66351,
@@ -569,7 +740,12 @@
       "abstain": 1,
       "absent": 39,
       "not_logged": 56
-    }
+    },
+    "temata": [
+      "daňová úleva",
+      "daň z příjmů",
+      "krevní transfuze"
+    ]
   },
   {
     "id": 66352,
@@ -582,7 +758,19 @@
       "abstain": 0,
       "absent": 44,
       "not_logged": 64
-    }
+    },
+    "temata": [
+      "lékařská prohlídka",
+      "lékařský posudek",
+      "pracovní lékařství",
+      "pracovní právo",
+      "sexuálně motivovaný trestný čin",
+      "sterilizace",
+      "umělé oplodnění",
+      "zdravotnická legislativa",
+      "zdravotnická služba",
+      "zdravotní péče"
+    ]
   },
   {
     "id": 66353,
@@ -595,7 +783,19 @@
       "abstain": 37,
       "absent": 44,
       "not_logged": 62
-    }
+    },
+    "temata": [
+      "lékařská prohlídka",
+      "lékařský posudek",
+      "pracovní lékařství",
+      "pracovní právo",
+      "sexuálně motivovaný trestný čin",
+      "sterilizace",
+      "umělé oplodnění",
+      "zdravotnická legislativa",
+      "zdravotnická služba",
+      "zdravotní péče"
+    ]
   },
   {
     "id": 66354,
@@ -608,7 +808,12 @@
       "abstain": 34,
       "absent": 51,
       "not_logged": 60
-    }
+    },
+    "temata": [
+      "cizí jazyk",
+      "všeobecné školství",
+      "výuka jazyků"
+    ]
   },
   {
     "id": 66355,
@@ -621,7 +826,12 @@
       "abstain": 55,
       "absent": 51,
       "not_logged": 59
-    }
+    },
+    "temata": [
+      "cizí jazyk",
+      "všeobecné školství",
+      "výuka jazyků"
+    ]
   },
   {
     "id": 66356,
@@ -634,7 +844,12 @@
       "abstain": 31,
       "absent": 51,
       "not_logged": 59
-    }
+    },
+    "temata": [
+      "cizí jazyk",
+      "všeobecné školství",
+      "výuka jazyků"
+    ]
   },
   {
     "id": 66357,
@@ -647,7 +862,12 @@
       "abstain": 32,
       "absent": 51,
       "not_logged": 59
-    }
+    },
+    "temata": [
+      "cizí jazyk",
+      "všeobecné školství",
+      "výuka jazyků"
+    ]
   },
   {
     "id": 66358,
@@ -660,7 +880,8 @@
       "abstain": 30,
       "absent": 49,
       "not_logged": 42
-    }
+    },
+    "temata": []
   },
   {
     "id": 66359,
@@ -673,7 +894,14 @@
       "abstain": 31,
       "absent": 48,
       "not_logged": 40
-    }
+    },
+    "temata": [
+      "Afghánistán",
+      "Česká republika",
+      "dohoda o spolupráci",
+      "Evropská unie",
+      "mezinárodní spolupráce"
+    ]
   },
   {
     "id": 66360,
@@ -686,7 +914,14 @@
       "abstain": 30,
       "absent": 45,
       "not_logged": 32
-    }
+    },
+    "temata": [
+      "Afghánistán",
+      "Česká republika",
+      "dohoda o spolupráci",
+      "Evropská unie",
+      "mezinárodní spolupráce"
+    ]
   },
   {
     "id": 66361,
@@ -699,7 +934,14 @@
       "abstain": 48,
       "absent": 45,
       "not_logged": 32
-    }
+    },
+    "temata": [
+      "Afghánistán",
+      "Česká republika",
+      "dohoda o spolupráci",
+      "Evropská unie",
+      "mezinárodní spolupráce"
+    ]
   },
   {
     "id": 66362,
@@ -712,7 +954,16 @@
       "abstain": 1,
       "absent": 46,
       "not_logged": 53
-    }
+    },
+    "temata": [
+      "Česká republika",
+      "Japonsko",
+      "mezinárodní úmluva",
+      "ochrana životního prostředí",
+      "politika životního prostředí EU",
+      "rtuť",
+      "znečišťování životního prostředí kovy"
+    ]
   },
   {
     "id": 66363,
@@ -725,7 +976,8 @@
       "abstain": 35,
       "absent": 43,
       "not_logged": 47
-    }
+    },
+    "temata": []
   },
   {
     "id": 66364,
@@ -738,7 +990,8 @@
       "abstain": 13,
       "absent": 41,
       "not_logged": 16
-    }
+    },
+    "temata": []
   },
   {
     "id": 66365,
@@ -751,7 +1004,8 @@
       "abstain": 49,
       "absent": 46,
       "not_logged": 39
-    }
+    },
+    "temata": []
   },
   {
     "id": 66366,
@@ -764,7 +1018,8 @@
       "abstain": 54,
       "absent": 46,
       "not_logged": 35
-    }
+    },
+    "temata": []
   },
   {
     "id": 66367,
@@ -777,7 +1032,8 @@
       "abstain": 42,
       "absent": 46,
       "not_logged": 32
-    }
+    },
+    "temata": []
   },
   {
     "id": 66368,
@@ -790,7 +1046,8 @@
       "abstain": 32,
       "absent": 46,
       "not_logged": 31
-    }
+    },
+    "temata": []
   },
   {
     "id": 66369,
@@ -803,7 +1060,16 @@
       "abstain": 2,
       "absent": 53,
       "not_logged": 64
-    }
+    },
+    "temata": [
+      "environmentální politika",
+      "ochrana životního prostředí",
+      "prevence environmentálních rizik",
+      "přibližování legislativy",
+      "sledování životního prostředí",
+      "správní dohled",
+      "vliv na životní prostředí"
+    ]
   },
   {
     "id": 66370,
@@ -816,7 +1082,16 @@
       "abstain": 26,
       "absent": 52,
       "not_logged": 43
-    }
+    },
+    "temata": [
+      "environmentální politika",
+      "ochrana životního prostředí",
+      "prevence environmentálních rizik",
+      "přibližování legislativy",
+      "sledování životního prostředí",
+      "správní dohled",
+      "vliv na životní prostředí"
+    ]
   },
   {
     "id": 66371,
@@ -829,7 +1104,16 @@
       "abstain": 24,
       "absent": 52,
       "not_logged": 42
-    }
+    },
+    "temata": [
+      "environmentální politika",
+      "ochrana životního prostředí",
+      "prevence environmentálních rizik",
+      "přibližování legislativy",
+      "sledování životního prostředí",
+      "správní dohled",
+      "vliv na životní prostředí"
+    ]
   },
   {
     "id": 66372,
@@ -842,7 +1126,8 @@
       "abstain": 11,
       "absent": 33,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 66373,
@@ -855,7 +1140,8 @@
       "abstain": 36,
       "absent": 33,
       "not_logged": 9
-    }
+    },
+    "temata": []
   },
   {
     "id": 66374,
@@ -868,7 +1154,8 @@
       "abstain": 9,
       "absent": 33,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 66375,
@@ -881,7 +1168,8 @@
       "abstain": 37,
       "absent": 33,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 66376,
@@ -894,7 +1182,8 @@
       "abstain": 23,
       "absent": 33,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 66377,
@@ -907,7 +1196,8 @@
       "abstain": 12,
       "absent": 33,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 66378,
@@ -920,7 +1210,8 @@
       "abstain": 12,
       "absent": 33,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 66379,
@@ -933,7 +1224,8 @@
       "abstain": 68,
       "absent": 33,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 66380,
@@ -946,7 +1238,8 @@
       "abstain": 34,
       "absent": 33,
       "not_logged": 8
-    }
+    },
+    "temata": []
   },
   {
     "id": 66381,
@@ -959,7 +1252,8 @@
       "abstain": 77,
       "absent": 33,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 66382,
@@ -972,7 +1266,8 @@
       "abstain": 59,
       "absent": 33,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 66383,
@@ -985,7 +1280,8 @@
       "abstain": 30,
       "absent": 33,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 66384,
@@ -998,7 +1294,8 @@
       "abstain": 73,
       "absent": 33,
       "not_logged": 3
-    }
+    },
+    "temata": []
   },
   {
     "id": 66385,
@@ -1011,7 +1308,8 @@
       "abstain": 55,
       "absent": 33,
       "not_logged": 3
-    }
+    },
+    "temata": []
   },
   {
     "id": 66386,
@@ -1024,7 +1322,8 @@
       "abstain": 54,
       "absent": 33,
       "not_logged": 3
-    }
+    },
+    "temata": []
   },
   {
     "id": 66387,
@@ -1037,7 +1336,8 @@
       "abstain": 35,
       "absent": 33,
       "not_logged": 3
-    }
+    },
+    "temata": []
   },
   {
     "id": 66388,
@@ -1050,7 +1350,8 @@
       "abstain": 155,
       "absent": 33,
       "not_logged": 3
-    }
+    },
+    "temata": []
   },
   {
     "id": 66389,
@@ -1063,7 +1364,8 @@
       "abstain": 32,
       "absent": 33,
       "not_logged": 13
-    }
+    },
+    "temata": []
   },
   {
     "id": 66390,
@@ -1076,7 +1378,8 @@
       "abstain": 10,
       "absent": 33,
       "not_logged": 3
-    }
+    },
+    "temata": []
   },
   {
     "id": 66391,
@@ -1089,7 +1392,8 @@
       "abstain": 28,
       "absent": 33,
       "not_logged": 3
-    }
+    },
+    "temata": []
   },
   {
     "id": 66392,
@@ -1102,7 +1406,8 @@
       "abstain": 35,
       "absent": 33,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 66393,
@@ -1115,7 +1420,8 @@
       "abstain": 35,
       "absent": 34,
       "not_logged": 3
-    }
+    },
+    "temata": []
   },
   {
     "id": 66394,
@@ -1128,7 +1434,8 @@
       "abstain": 53,
       "absent": 34,
       "not_logged": 3
-    }
+    },
+    "temata": []
   },
   {
     "id": 66395,
@@ -1141,7 +1448,8 @@
       "abstain": 59,
       "absent": 34,
       "not_logged": 3
-    }
+    },
+    "temata": []
   },
   {
     "id": 66396,
@@ -1154,7 +1462,8 @@
       "abstain": 13,
       "absent": 34,
       "not_logged": 10
-    }
+    },
+    "temata": []
   },
   {
     "id": 66397,
@@ -1167,7 +1476,8 @@
       "abstain": 32,
       "absent": 34,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 66398,
@@ -1180,7 +1490,8 @@
       "abstain": 55,
       "absent": 34,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 66399,
@@ -1193,7 +1504,8 @@
       "abstain": 57,
       "absent": 34,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 66400,
@@ -1206,7 +1518,8 @@
       "abstain": 32,
       "absent": 33,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 66401,
@@ -1219,7 +1532,8 @@
       "abstain": 8,
       "absent": 33,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 66402,
@@ -1232,7 +1546,8 @@
       "abstain": 26,
       "absent": 33,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 66403,
@@ -1245,7 +1560,8 @@
       "abstain": 48,
       "absent": 33,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 66404,
@@ -1258,7 +1574,8 @@
       "abstain": 69,
       "absent": 33,
       "not_logged": 8
-    }
+    },
+    "temata": []
   },
   {
     "id": 66405,
@@ -1271,7 +1588,8 @@
       "abstain": 44,
       "absent": 33,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 66406,
@@ -1284,7 +1602,8 @@
       "abstain": 63,
       "absent": 33,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 66407,
@@ -1297,7 +1616,8 @@
       "abstain": 65,
       "absent": 33,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 66408,
@@ -1310,7 +1630,8 @@
       "abstain": 59,
       "absent": 33,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 66409,
@@ -1323,7 +1644,8 @@
       "abstain": 48,
       "absent": 33,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 66410,
@@ -1336,7 +1658,8 @@
       "abstain": 38,
       "absent": 33,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 66411,
@@ -1349,7 +1672,8 @@
       "abstain": 63,
       "absent": 33,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 66412,
@@ -1362,7 +1686,8 @@
       "abstain": 7,
       "absent": 34,
       "not_logged": 38
-    }
+    },
+    "temata": []
   },
   {
     "id": 66413,
@@ -1375,7 +1700,8 @@
       "abstain": 16,
       "absent": 34,
       "not_logged": 37
-    }
+    },
+    "temata": []
   },
   {
     "id": 66414,
@@ -1388,7 +1714,8 @@
       "abstain": 44,
       "absent": 34,
       "not_logged": 34
-    }
+    },
+    "temata": []
   },
   {
     "id": 66415,
@@ -1401,7 +1728,8 @@
       "abstain": 49,
       "absent": 34,
       "not_logged": 36
-    }
+    },
+    "temata": []
   },
   {
     "id": 66416,
@@ -1414,7 +1742,8 @@
       "abstain": 15,
       "absent": 34,
       "not_logged": 31
-    }
+    },
+    "temata": []
   },
   {
     "id": 66417,
@@ -1427,7 +1756,8 @@
       "abstain": 28,
       "absent": 34,
       "not_logged": 32
-    }
+    },
+    "temata": []
   },
   {
     "id": 66418,
@@ -1440,7 +1770,8 @@
       "abstain": 21,
       "absent": 34,
       "not_logged": 31
-    }
+    },
+    "temata": []
   },
   {
     "id": 66419,
@@ -1453,7 +1784,8 @@
       "abstain": 22,
       "absent": 34,
       "not_logged": 32
-    }
+    },
+    "temata": []
   },
   {
     "id": 66420,
@@ -1466,7 +1798,8 @@
       "abstain": 23,
       "absent": 34,
       "not_logged": 31
-    }
+    },
+    "temata": []
   },
   {
     "id": 66421,
@@ -1479,7 +1812,8 @@
       "abstain": 18,
       "absent": 34,
       "not_logged": 30
-    }
+    },
+    "temata": []
   },
   {
     "id": 66422,
@@ -1492,7 +1826,8 @@
       "abstain": 18,
       "absent": 34,
       "not_logged": 30
-    }
+    },
+    "temata": []
   },
   {
     "id": 66423,
@@ -1505,7 +1840,8 @@
       "abstain": 111,
       "absent": 34,
       "not_logged": 30
-    }
+    },
+    "temata": []
   },
   {
     "id": 66424,
@@ -1518,7 +1854,8 @@
       "abstain": 11,
       "absent": 34,
       "not_logged": 36
-    }
+    },
+    "temata": []
   },
   {
     "id": 66425,
@@ -1531,7 +1868,8 @@
       "abstain": 35,
       "absent": 34,
       "not_logged": 36
-    }
+    },
+    "temata": []
   },
   {
     "id": 66426,
@@ -1544,7 +1882,8 @@
       "abstain": 16,
       "absent": 34,
       "not_logged": 35
-    }
+    },
+    "temata": []
   },
   {
     "id": 66427,
@@ -1557,7 +1896,8 @@
       "abstain": 42,
       "absent": 34,
       "not_logged": 36
-    }
+    },
+    "temata": []
   },
   {
     "id": 66428,
@@ -1570,7 +1910,8 @@
       "abstain": 23,
       "absent": 34,
       "not_logged": 35
-    }
+    },
+    "temata": []
   },
   {
     "id": 66429,
@@ -1583,7 +1924,8 @@
       "abstain": 53,
       "absent": 34,
       "not_logged": 35
-    }
+    },
+    "temata": []
   },
   {
     "id": 66430,
@@ -1596,7 +1938,8 @@
       "abstain": 21,
       "absent": 34,
       "not_logged": 33
-    }
+    },
+    "temata": []
   },
   {
     "id": 66431,
@@ -1609,7 +1952,8 @@
       "abstain": 46,
       "absent": 34,
       "not_logged": 33
-    }
+    },
+    "temata": []
   },
   {
     "id": 66432,
@@ -1622,7 +1966,8 @@
       "abstain": 30,
       "absent": 34,
       "not_logged": 32
-    }
+    },
+    "temata": []
   },
   {
     "id": 66433,
@@ -1635,7 +1980,8 @@
       "abstain": 25,
       "absent": 34,
       "not_logged": 33
-    }
+    },
+    "temata": []
   },
   {
     "id": 66434,
@@ -1648,7 +1994,8 @@
       "abstain": 31,
       "absent": 34,
       "not_logged": 31
-    }
+    },
+    "temata": []
   },
   {
     "id": 66435,
@@ -1661,7 +2008,8 @@
       "abstain": 19,
       "absent": 34,
       "not_logged": 29
-    }
+    },
+    "temata": []
   },
   {
     "id": 66436,
@@ -1674,7 +2022,8 @@
       "abstain": 20,
       "absent": 34,
       "not_logged": 28
-    }
+    },
+    "temata": []
   },
   {
     "id": 66437,
@@ -1687,7 +2036,8 @@
       "abstain": 24,
       "absent": 34,
       "not_logged": 28
-    }
+    },
+    "temata": []
   },
   {
     "id": 66438,
@@ -1700,7 +2050,8 @@
       "abstain": 17,
       "absent": 34,
       "not_logged": 29
-    }
+    },
+    "temata": []
   },
   {
     "id": 66439,
@@ -1713,7 +2064,8 @@
       "abstain": 41,
       "absent": 34,
       "not_logged": 29
-    }
+    },
+    "temata": []
   },
   {
     "id": 66440,
@@ -1726,7 +2078,8 @@
       "abstain": 26,
       "absent": 34,
       "not_logged": 28
-    }
+    },
+    "temata": []
   },
   {
     "id": 66441,
@@ -1739,7 +2092,8 @@
       "abstain": 49,
       "absent": 34,
       "not_logged": 29
-    }
+    },
+    "temata": []
   },
   {
     "id": 66442,
@@ -1752,7 +2106,8 @@
       "abstain": 66,
       "absent": 34,
       "not_logged": 29
-    }
+    },
+    "temata": []
   },
   {
     "id": 66443,
@@ -1765,7 +2120,8 @@
       "abstain": 20,
       "absent": 34,
       "not_logged": 28
-    }
+    },
+    "temata": []
   },
   {
     "id": 66444,
@@ -1778,7 +2134,8 @@
       "abstain": 55,
       "absent": 34,
       "not_logged": 28
-    }
+    },
+    "temata": []
   },
   {
     "id": 66445,
@@ -1791,7 +2148,8 @@
       "abstain": 32,
       "absent": 35,
       "not_logged": 28
-    }
+    },
+    "temata": []
   },
   {
     "id": 66446,
@@ -1804,7 +2162,8 @@
       "abstain": 6,
       "absent": 31,
       "not_logged": 38
-    }
+    },
+    "temata": []
   },
   {
     "id": 66447,
@@ -1817,7 +2176,8 @@
       "abstain": 57,
       "absent": 30,
       "not_logged": 24
-    }
+    },
+    "temata": []
   },
   {
     "id": 66448,
@@ -1830,7 +2190,8 @@
       "abstain": 36,
       "absent": 30,
       "not_logged": 22
-    }
+    },
+    "temata": []
   },
   {
     "id": 66449,
@@ -1843,7 +2204,8 @@
       "abstain": 15,
       "absent": 30,
       "not_logged": 22
-    }
+    },
+    "temata": []
   },
   {
     "id": 66450,
@@ -1856,7 +2218,8 @@
       "abstain": 53,
       "absent": 30,
       "not_logged": 22
-    }
+    },
+    "temata": []
   },
   {
     "id": 66451,
@@ -1869,7 +2232,13 @@
       "abstain": 27,
       "absent": 29,
       "not_logged": 13
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66452,
@@ -1882,7 +2251,13 @@
       "abstain": 40,
       "absent": 28,
       "not_logged": 11
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66453,
@@ -1895,7 +2270,13 @@
       "abstain": 28,
       "absent": 28,
       "not_logged": 10
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66454,
@@ -1908,7 +2289,13 @@
       "abstain": 3,
       "absent": 28,
       "not_logged": 10
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66455,
@@ -1921,7 +2308,13 @@
       "abstain": 29,
       "absent": 28,
       "not_logged": 9
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66456,
@@ -1934,7 +2327,13 @@
       "abstain": 20,
       "absent": 28,
       "not_logged": 11
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66457,
@@ -1947,7 +2346,13 @@
       "abstain": 4,
       "absent": 29,
       "not_logged": 14
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66458,
@@ -1960,7 +2365,13 @@
       "abstain": 66,
       "absent": 29,
       "not_logged": 13
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66459,
@@ -1973,7 +2384,13 @@
       "abstain": 2,
       "absent": 29,
       "not_logged": 11
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66460,
@@ -1986,7 +2403,13 @@
       "abstain": 52,
       "absent": 29,
       "not_logged": 11
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66461,
@@ -1999,7 +2422,13 @@
       "abstain": 2,
       "absent": 29,
       "not_logged": 10
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66462,
@@ -2012,7 +2441,13 @@
       "abstain": 4,
       "absent": 29,
       "not_logged": 10
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66463,
@@ -2025,7 +2460,13 @@
       "abstain": 22,
       "absent": 29,
       "not_logged": 10
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66464,
@@ -2038,7 +2479,13 @@
       "abstain": 15,
       "absent": 29,
       "not_logged": 10
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66465,
@@ -2051,7 +2498,13 @@
       "abstain": 5,
       "absent": 29,
       "not_logged": 9
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66466,
@@ -2064,7 +2517,13 @@
       "abstain": 4,
       "absent": 29,
       "not_logged": 9
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66467,
@@ -2077,7 +2536,13 @@
       "abstain": 3,
       "absent": 29,
       "not_logged": 9
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66468,
@@ -2090,7 +2555,13 @@
       "abstain": 18,
       "absent": 29,
       "not_logged": 9
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66469,
@@ -2103,7 +2574,13 @@
       "abstain": 45,
       "absent": 29,
       "not_logged": 10
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66470,
@@ -2116,7 +2593,13 @@
       "abstain": 55,
       "absent": 29,
       "not_logged": 10
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66471,
@@ -2129,7 +2612,16 @@
       "abstain": 1,
       "absent": 29,
       "not_logged": 9
-    }
+    },
+    "temata": [
+      "environmentální politika",
+      "ochrana životního prostředí",
+      "prevence environmentálních rizik",
+      "přibližování legislativy",
+      "sledování životního prostředí",
+      "správní dohled",
+      "vliv na životní prostředí"
+    ]
   },
   {
     "id": 66472,
@@ -2142,7 +2634,13 @@
       "abstain": 31,
       "absent": 30,
       "not_logged": 37
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66473,
@@ -2155,7 +2653,13 @@
       "abstain": 11,
       "absent": 30,
       "not_logged": 33
-    }
+    },
+    "temata": [
+      "důvěrná informace",
+      "ochrana komunikací",
+      "státní tajemství",
+      "ukládání a vyhledávání informací"
+    ]
   },
   {
     "id": 66474,
@@ -2168,7 +2672,17 @@
       "abstain": 29,
       "absent": 30,
       "not_logged": 28
-    }
+    },
+    "temata": [
+      "boj proti zločinnosti",
+      "boj proti zločinu",
+      "civilní ochrana",
+      "policejní kontrola",
+      "trestná činnost",
+      "veřejná bezpečnost",
+      "veřejný pořádek",
+      "zpráva o činnosti"
+    ]
   },
   {
     "id": 66475,
@@ -2181,7 +2695,15 @@
       "abstain": 20,
       "absent": 30,
       "not_logged": 27
-    }
+    },
+    "temata": [
+      "kontrola restriktivních praktik",
+      "odškodnění",
+      "právo států",
+      "přibližování legislativy",
+      "soutěžní politika",
+      "soutěžní právo"
+    ]
   },
   {
     "id": 66476,
@@ -2194,7 +2716,13 @@
       "abstain": 25,
       "absent": 32,
       "not_logged": 21
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66477,
@@ -2207,7 +2735,13 @@
       "abstain": 30,
       "absent": 32,
       "not_logged": 18
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66478,
@@ -2220,7 +2754,13 @@
       "abstain": 22,
       "absent": 32,
       "not_logged": 13
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66479,
@@ -2233,7 +2773,13 @@
       "abstain": 51,
       "absent": 32,
       "not_logged": 12
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66480,
@@ -2246,7 +2792,13 @@
       "abstain": 46,
       "absent": 32,
       "not_logged": 12
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66481,
@@ -2259,7 +2811,13 @@
       "abstain": 29,
       "absent": 31,
       "not_logged": 12
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66482,
@@ -2272,7 +2830,13 @@
       "abstain": 27,
       "absent": 31,
       "not_logged": 12
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66483,
@@ -2285,7 +2849,13 @@
       "abstain": 55,
       "absent": 31,
       "not_logged": 12
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66484,
@@ -2298,7 +2868,13 @@
       "abstain": 150,
       "absent": 31,
       "not_logged": 12
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66485,
@@ -2311,7 +2887,13 @@
       "abstain": 6,
       "absent": 31,
       "not_logged": 17
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66486,
@@ -2324,7 +2906,13 @@
       "abstain": 23,
       "absent": 32,
       "not_logged": 18
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66487,
@@ -2337,7 +2925,15 @@
       "abstain": 3,
       "absent": 34,
       "not_logged": 37
-    }
+    },
+    "temata": [
+      "cenová politika",
+      "cenová regulace",
+      "ceny",
+      "parlamentní kontrola",
+      "řízení cen",
+      "tvorba cen"
+    ]
   },
   {
     "id": 66488,
@@ -2350,7 +2946,15 @@
       "abstain": 3,
       "absent": 33,
       "not_logged": 35
-    }
+    },
+    "temata": [
+      "cenová politika",
+      "cenová regulace",
+      "ceny",
+      "parlamentní kontrola",
+      "řízení cen",
+      "tvorba cen"
+    ]
   },
   {
     "id": 66489,
@@ -2363,7 +2967,15 @@
       "abstain": 18,
       "absent": 33,
       "not_logged": 32
-    }
+    },
+    "temata": [
+      "cenová politika",
+      "cenová regulace",
+      "ceny",
+      "parlamentní kontrola",
+      "řízení cen",
+      "tvorba cen"
+    ]
   },
   {
     "id": 66490,
@@ -2376,7 +2988,15 @@
       "abstain": 28,
       "absent": 33,
       "not_logged": 34
-    }
+    },
+    "temata": [
+      "cenová politika",
+      "cenová regulace",
+      "ceny",
+      "parlamentní kontrola",
+      "řízení cen",
+      "tvorba cen"
+    ]
   },
   {
     "id": 66491,
@@ -2389,7 +3009,8 @@
       "abstain": 6,
       "absent": 33,
       "not_logged": 32
-    }
+    },
+    "temata": []
   },
   {
     "id": 66493,
@@ -2402,7 +3023,16 @@
       "abstain": 1,
       "absent": 35,
       "not_logged": 78
-    }
+    },
+    "temata": [
+      "Česká republika",
+      "obranná politika",
+      "osobní zbraň",
+      "politické násilí",
+      "střelná zbraň a střelivo",
+      "terorismus",
+      "veřejná bezpečnost"
+    ]
   },
   {
     "id": 66494,
@@ -2415,7 +3045,8 @@
       "abstain": 3,
       "absent": 35,
       "not_logged": 77
-    }
+    },
+    "temata": []
   },
   {
     "id": 66495,
@@ -2428,7 +3059,8 @@
       "abstain": 5,
       "absent": 35,
       "not_logged": 77
-    }
+    },
+    "temata": []
   },
   {
     "id": 66496,
@@ -2441,7 +3073,13 @@
       "abstain": 2,
       "absent": 51,
       "not_logged": 147
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66497,
@@ -2454,7 +3092,13 @@
       "abstain": 8,
       "absent": 48,
       "not_logged": 56
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66498,
@@ -2467,7 +3111,13 @@
       "abstain": 11,
       "absent": 48,
       "not_logged": 48
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66499,
@@ -2480,7 +3130,13 @@
       "abstain": 3,
       "absent": 45,
       "not_logged": 72
-    }
+    },
+    "temata": [
+      "akční program",
+      "distribuce energie",
+      "energetická politika",
+      "informační technologie"
+    ]
   },
   {
     "id": 66500,
@@ -2493,7 +3149,8 @@
       "abstain": 45,
       "absent": 71,
       "not_logged": 30
-    }
+    },
+    "temata": []
   },
   {
     "id": 66501,
@@ -2506,7 +3163,8 @@
       "abstain": 41,
       "absent": 71,
       "not_logged": 30
-    }
+    },
+    "temata": []
   },
   {
     "id": 66502,
@@ -2519,7 +3177,8 @@
       "abstain": 24,
       "absent": 71,
       "not_logged": 29
-    }
+    },
+    "temata": []
   },
   {
     "id": 66503,
@@ -2532,7 +3191,8 @@
       "abstain": 47,
       "absent": 71,
       "not_logged": 29
-    }
+    },
+    "temata": []
   },
   {
     "id": 66504,
@@ -2545,7 +3205,8 @@
       "abstain": 31,
       "absent": 71,
       "not_logged": 29
-    }
+    },
+    "temata": []
   },
   {
     "id": 66505,
@@ -2558,7 +3219,8 @@
       "abstain": 14,
       "absent": 71,
       "not_logged": 29
-    }
+    },
+    "temata": []
   },
   {
     "id": 66506,
@@ -2571,7 +3233,8 @@
       "abstain": 15,
       "absent": 71,
       "not_logged": 29
-    }
+    },
+    "temata": []
   },
   {
     "id": 66507,
@@ -2584,7 +3247,15 @@
       "abstain": 23,
       "absent": 71,
       "not_logged": 28
-    }
+    },
+    "temata": [
+      "Česká republika",
+      "dopování",
+      "mezinárodní úmluva",
+      "povzbuzující prostředek",
+      "sport",
+      "tělesná výchova"
+    ]
   },
   {
     "id": 66508,
@@ -2597,7 +3268,15 @@
       "abstain": 5,
       "absent": 74,
       "not_logged": 44
-    }
+    },
+    "temata": [
+      "Česká republika",
+      "dopování",
+      "mezinárodní úmluva",
+      "povzbuzující prostředek",
+      "sport",
+      "tělesná výchova"
+    ]
   },
   {
     "id": 66509,
@@ -2610,7 +3289,8 @@
       "abstain": 10,
       "absent": 77,
       "not_logged": 38
-    }
+    },
+    "temata": []
   },
   {
     "id": 66510,
@@ -2623,7 +3303,8 @@
       "abstain": 10,
       "absent": 77,
       "not_logged": 38
-    }
+    },
+    "temata": []
   },
   {
     "id": 66511,
@@ -2636,7 +3317,8 @@
       "abstain": 19,
       "absent": 53,
       "not_logged": 41
-    }
+    },
+    "temata": []
   },
   {
     "id": 66512,
@@ -2649,7 +3331,16 @@
       "abstain": 15,
       "absent": 53,
       "not_logged": 10
-    }
+    },
+    "temata": [
+      "aplikovaná informatika",
+      "elektronická správa dokumentů",
+      "elektronický podpis",
+      "evidence obyvatelstva",
+      "identifikační průkaz",
+      "ochrana údajů",
+      "policejní kontrola"
+    ]
   },
   {
     "id": 66513,
@@ -2662,7 +3353,16 @@
       "abstain": 9,
       "absent": 53,
       "not_logged": 9
-    }
+    },
+    "temata": [
+      "aplikovaná informatika",
+      "elektronická správa dokumentů",
+      "elektronický podpis",
+      "evidence obyvatelstva",
+      "identifikační průkaz",
+      "ochrana údajů",
+      "policejní kontrola"
+    ]
   },
   {
     "id": 66514,
@@ -2675,7 +3375,16 @@
       "abstain": 18,
       "absent": 53,
       "not_logged": 9
-    }
+    },
+    "temata": [
+      "aplikovaná informatika",
+      "elektronická správa dokumentů",
+      "elektronický podpis",
+      "evidence obyvatelstva",
+      "identifikační průkaz",
+      "ochrana údajů",
+      "policejní kontrola"
+    ]
   },
   {
     "id": 66515,
@@ -2688,7 +3397,17 @@
       "abstain": 7,
       "absent": 53,
       "not_logged": 7
-    }
+    },
+    "temata": [
+      "elektronická správa",
+      "evidence obyvatelstva",
+      "informační systém",
+      "ochrana údajů",
+      "osobní údaje",
+      "průmyslové vlastnictví",
+      "veřejná správa",
+      "zpřístupňování informací"
+    ]
   },
   {
     "id": 66516,
@@ -2701,7 +3420,17 @@
       "abstain": 5,
       "absent": 53,
       "not_logged": 7
-    }
+    },
+    "temata": [
+      "elektronická správa",
+      "evidence obyvatelstva",
+      "informační systém",
+      "ochrana údajů",
+      "osobní údaje",
+      "průmyslové vlastnictví",
+      "veřejná správa",
+      "zpřístupňování informací"
+    ]
   },
   {
     "id": 66517,
@@ -2714,7 +3443,17 @@
       "abstain": 137,
       "absent": 53,
       "not_logged": 7
-    }
+    },
+    "temata": [
+      "elektronická správa",
+      "evidence obyvatelstva",
+      "informační systém",
+      "ochrana údajů",
+      "osobní údaje",
+      "průmyslové vlastnictví",
+      "veřejná správa",
+      "zpřístupňování informací"
+    ]
   },
   {
     "id": 66518,
@@ -2727,7 +3466,17 @@
       "abstain": 8,
       "absent": 53,
       "not_logged": 6
-    }
+    },
+    "temata": [
+      "elektronická správa",
+      "evidence obyvatelstva",
+      "informační systém",
+      "ochrana údajů",
+      "osobní údaje",
+      "průmyslové vlastnictví",
+      "veřejná správa",
+      "zpřístupňování informací"
+    ]
   },
   {
     "id": 66519,
@@ -2740,7 +3489,17 @@
       "abstain": 32,
       "absent": 53,
       "not_logged": 6
-    }
+    },
+    "temata": [
+      "elektronická správa",
+      "evidence obyvatelstva",
+      "informační systém",
+      "ochrana údajů",
+      "osobní údaje",
+      "průmyslové vlastnictví",
+      "veřejná správa",
+      "zpřístupňování informací"
+    ]
   },
   {
     "id": 66520,
@@ -2753,7 +3512,17 @@
       "abstain": 5,
       "absent": 53,
       "not_logged": 6
-    }
+    },
+    "temata": [
+      "elektronická správa",
+      "evidence obyvatelstva",
+      "informační systém",
+      "ochrana údajů",
+      "osobní údaje",
+      "průmyslové vlastnictví",
+      "veřejná správa",
+      "zpřístupňování informací"
+    ]
   },
   {
     "id": 66521,
@@ -2766,7 +3535,17 @@
       "abstain": 6,
       "absent": 53,
       "not_logged": 6
-    }
+    },
+    "temata": [
+      "elektronická správa",
+      "evidence obyvatelstva",
+      "informační systém",
+      "ochrana údajů",
+      "osobní údaje",
+      "průmyslové vlastnictví",
+      "veřejná správa",
+      "zpřístupňování informací"
+    ]
   },
   {
     "id": 66522,
@@ -2779,7 +3558,17 @@
       "abstain": 6,
       "absent": 53,
       "not_logged": 6
-    }
+    },
+    "temata": [
+      "elektronická správa",
+      "evidence obyvatelstva",
+      "informační systém",
+      "ochrana údajů",
+      "osobní údaje",
+      "průmyslové vlastnictví",
+      "veřejná správa",
+      "zpřístupňování informací"
+    ]
   },
   {
     "id": 66523,
@@ -2792,7 +3581,17 @@
       "abstain": 10,
       "absent": 53,
       "not_logged": 6
-    }
+    },
+    "temata": [
+      "elektronická správa",
+      "evidence obyvatelstva",
+      "informační systém",
+      "ochrana údajů",
+      "osobní údaje",
+      "průmyslové vlastnictví",
+      "veřejná správa",
+      "zpřístupňování informací"
+    ]
   },
   {
     "id": 66524,
@@ -2805,7 +3604,11 @@
       "abstain": 25,
       "absent": 51,
       "not_logged": 4
-    }
+    },
+    "temata": [
+      "doba odpočinku",
+      "státní svátek"
+    ]
   },
   {
     "id": 66525,
@@ -2818,7 +3621,17 @@
       "abstain": 31,
       "absent": 51,
       "not_logged": 4
-    }
+    },
+    "temata": [
+      "bezpečnost výrobku",
+      "regulace trhu",
+      "řízení jakosti průmyslových výrobků",
+      "sladění norem",
+      "správní kontrola",
+      "technická norma",
+      "technické předpisy a normy",
+      "uvedení výrobku na trh"
+    ]
   },
   {
     "id": 66526,
@@ -2831,7 +3644,11 @@
       "abstain": 10,
       "absent": 62,
       "not_logged": 31
-    }
+    },
+    "temata": [
+      "doba odpočinku",
+      "státní svátek"
+    ]
   },
   {
     "id": 66527,
@@ -2844,7 +3661,11 @@
       "abstain": 1,
       "absent": 62,
       "not_logged": 26
-    }
+    },
+    "temata": [
+      "doba odpočinku",
+      "státní svátek"
+    ]
   },
   {
     "id": 66528,
@@ -2857,7 +3678,11 @@
       "abstain": 4,
       "absent": 62,
       "not_logged": 26
-    }
+    },
+    "temata": [
+      "doba odpočinku",
+      "státní svátek"
+    ]
   },
   {
     "id": 66529,
@@ -2870,7 +3695,11 @@
       "abstain": 38,
       "absent": 62,
       "not_logged": 26
-    }
+    },
+    "temata": [
+      "doba odpočinku",
+      "státní svátek"
+    ]
   },
   {
     "id": 66530,
@@ -2883,7 +3712,11 @@
       "abstain": 39,
       "absent": 62,
       "not_logged": 26
-    }
+    },
+    "temata": [
+      "doba odpočinku",
+      "státní svátek"
+    ]
   },
   {
     "id": 66531,
@@ -2896,7 +3729,16 @@
       "abstain": 9,
       "absent": 62,
       "not_logged": 25
-    }
+    },
+    "temata": [
+      "domácí trh",
+      "elektronický obchod",
+      "ochrana spotřebitele",
+      "regionální trh",
+      "řízení jakosti průmyslových výrobků",
+      "spotřebitelská politika",
+      "zásilkový obchod"
+    ]
   },
   {
     "id": 66532,
@@ -2909,7 +3751,11 @@
       "abstain": 11,
       "absent": 62,
       "not_logged": 24
-    }
+    },
+    "temata": [
+      "doba odpočinku",
+      "státní svátek"
+    ]
   },
   {
     "id": 66533,
@@ -2922,7 +3768,11 @@
       "abstain": 6,
       "absent": 64,
       "not_logged": 32
-    }
+    },
+    "temata": [
+      "doba odpočinku",
+      "státní svátek"
+    ]
   },
   {
     "id": 66534,
@@ -2935,7 +3785,11 @@
       "abstain": 4,
       "absent": 64,
       "not_logged": 32
-    }
+    },
+    "temata": [
+      "doba odpočinku",
+      "státní svátek"
+    ]
   },
   {
     "id": 66535,
@@ -2948,7 +3802,11 @@
       "abstain": 22,
       "absent": 64,
       "not_logged": 31
-    }
+    },
+    "temata": [
+      "doba odpočinku",
+      "státní svátek"
+    ]
   },
   {
     "id": 66536,
@@ -2961,7 +3819,11 @@
       "abstain": 33,
       "absent": 64,
       "not_logged": 30
-    }
+    },
+    "temata": [
+      "doba odpočinku",
+      "státní svátek"
+    ]
   },
   {
     "id": 66537,
@@ -2974,7 +3836,11 @@
       "abstain": 29,
       "absent": 64,
       "not_logged": 30
-    }
+    },
+    "temata": [
+      "doba odpočinku",
+      "státní svátek"
+    ]
   },
   {
     "id": 66538,
@@ -2987,7 +3853,11 @@
       "abstain": 14,
       "absent": 64,
       "not_logged": 31
-    }
+    },
+    "temata": [
+      "doba odpočinku",
+      "státní svátek"
+    ]
   },
   {
     "id": 66539,
@@ -3000,7 +3870,11 @@
       "abstain": 47,
       "absent": 64,
       "not_logged": 31
-    }
+    },
+    "temata": [
+      "doba odpočinku",
+      "státní svátek"
+    ]
   },
   {
     "id": 66540,
@@ -3013,7 +3887,11 @@
       "abstain": 2,
       "absent": 64,
       "not_logged": 31
-    }
+    },
+    "temata": [
+      "doba odpočinku",
+      "státní svátek"
+    ]
   },
   {
     "id": 66541,
@@ -3026,7 +3904,11 @@
       "abstain": 22,
       "absent": 64,
       "not_logged": 31
-    }
+    },
+    "temata": [
+      "doba odpočinku",
+      "státní svátek"
+    ]
   },
   {
     "id": 66542,
@@ -3039,7 +3921,11 @@
       "abstain": 26,
       "absent": 64,
       "not_logged": 31
-    }
+    },
+    "temata": [
+      "doba odpočinku",
+      "státní svátek"
+    ]
   },
   {
     "id": 66543,
@@ -3052,7 +3938,11 @@
       "abstain": 9,
       "absent": 64,
       "not_logged": 32
-    }
+    },
+    "temata": [
+      "doba odpočinku",
+      "státní svátek"
+    ]
   },
   {
     "id": 66544,
@@ -3065,7 +3955,11 @@
       "abstain": 12,
       "absent": 64,
       "not_logged": 31
-    }
+    },
+    "temata": [
+      "doba odpočinku",
+      "státní svátek"
+    ]
   },
   {
     "id": 66545,
@@ -3078,7 +3972,11 @@
       "abstain": 101,
       "absent": 64,
       "not_logged": 31
-    }
+    },
+    "temata": [
+      "doba odpočinku",
+      "státní svátek"
+    ]
   },
   {
     "id": 66546,
@@ -3091,7 +3989,11 @@
       "abstain": 11,
       "absent": 64,
       "not_logged": 31
-    }
+    },
+    "temata": [
+      "doba odpočinku",
+      "státní svátek"
+    ]
   },
   {
     "id": 66547,
@@ -3104,7 +4006,11 @@
       "abstain": 9,
       "absent": 64,
       "not_logged": 31
-    }
+    },
+    "temata": [
+      "doba odpočinku",
+      "státní svátek"
+    ]
   },
   {
     "id": 66548,
@@ -3117,7 +4023,11 @@
       "abstain": 10,
       "absent": 64,
       "not_logged": 30
-    }
+    },
+    "temata": [
+      "doba odpočinku",
+      "státní svátek"
+    ]
   },
   {
     "id": 66549,
@@ -3130,7 +4040,11 @@
       "abstain": 7,
       "absent": 64,
       "not_logged": 28
-    }
+    },
+    "temata": [
+      "doba odpočinku",
+      "státní svátek"
+    ]
   },
   {
     "id": 66550,
@@ -3143,7 +4057,11 @@
       "abstain": 10,
       "absent": 64,
       "not_logged": 28
-    }
+    },
+    "temata": [
+      "doba odpočinku",
+      "státní svátek"
+    ]
   },
   {
     "id": 66551,
@@ -3156,7 +4074,18 @@
       "abstain": 4,
       "absent": 64,
       "not_logged": 29
-    }
+    },
+    "temata": [
+      "celník",
+      "mzda",
+      "mzdová politika",
+      "odměňování",
+      "policie",
+      "státní zaměstnanec",
+      "tajná služba",
+      "veřejná správa",
+      "vězeňský personál"
+    ]
   },
   {
     "id": 66552,
@@ -3169,7 +4098,11 @@
       "abstain": 1,
       "absent": 64,
       "not_logged": 38
-    }
+    },
+    "temata": [
+      "doba odpočinku",
+      "státní svátek"
+    ]
   },
   {
     "id": 66553,
@@ -3182,7 +4115,11 @@
       "abstain": 7,
       "absent": 64,
       "not_logged": 35
-    }
+    },
+    "temata": [
+      "doba odpočinku",
+      "státní svátek"
+    ]
   },
   {
     "id": 66554,
@@ -3195,7 +4132,11 @@
       "abstain": 10,
       "absent": 64,
       "not_logged": 35
-    }
+    },
+    "temata": [
+      "doba odpočinku",
+      "státní svátek"
+    ]
   },
   {
     "id": 66555,
@@ -3208,7 +4149,11 @@
       "abstain": 3,
       "absent": 64,
       "not_logged": 33
-    }
+    },
+    "temata": [
+      "doba odpočinku",
+      "státní svátek"
+    ]
   },
   {
     "id": 66556,
@@ -3221,7 +4166,11 @@
       "abstain": 13,
       "absent": 65,
       "not_logged": 31
-    }
+    },
+    "temata": [
+      "doba odpočinku",
+      "státní svátek"
+    ]
   },
   {
     "id": 66557,
@@ -3234,7 +4183,11 @@
       "abstain": 10,
       "absent": 65,
       "not_logged": 42
-    }
+    },
+    "temata": [
+      "doba odpočinku",
+      "státní svátek"
+    ]
   },
   {
     "id": 66558,
@@ -3247,7 +4200,11 @@
       "abstain": 2,
       "absent": 65,
       "not_logged": 41
-    }
+    },
+    "temata": [
+      "doba odpočinku",
+      "státní svátek"
+    ]
   },
   {
     "id": 66559,
@@ -3260,7 +4217,11 @@
       "abstain": 0,
       "absent": 65,
       "not_logged": 41
-    }
+    },
+    "temata": [
+      "doba odpočinku",
+      "státní svátek"
+    ]
   },
   {
     "id": 66560,
@@ -3273,7 +4234,11 @@
       "abstain": 20,
       "absent": 65,
       "not_logged": 40
-    }
+    },
+    "temata": [
+      "doba odpočinku",
+      "státní svátek"
+    ]
   },
   {
     "id": 66561,
@@ -3286,7 +4251,11 @@
       "abstain": 15,
       "absent": 65,
       "not_logged": 40
-    }
+    },
+    "temata": [
+      "doba odpočinku",
+      "státní svátek"
+    ]
   },
   {
     "id": 66562,
@@ -3299,7 +4268,11 @@
       "abstain": 0,
       "absent": 65,
       "not_logged": 39
-    }
+    },
+    "temata": [
+      "doba odpočinku",
+      "státní svátek"
+    ]
   },
   {
     "id": 66563,
@@ -3312,7 +4285,11 @@
       "abstain": 16,
       "absent": 66,
       "not_logged": 46
-    }
+    },
+    "temata": [
+      "doba odpočinku",
+      "státní svátek"
+    ]
   },
   {
     "id": 66564,
@@ -3325,7 +4302,8 @@
       "abstain": 17,
       "absent": 36,
       "not_logged": 39
-    }
+    },
+    "temata": []
   },
   {
     "id": 66565,
@@ -3338,7 +4316,8 @@
       "abstain": 17,
       "absent": 32,
       "not_logged": 8
-    }
+    },
+    "temata": []
   },
   {
     "id": 66566,
@@ -3351,7 +4330,8 @@
       "abstain": 51,
       "absent": 32,
       "not_logged": 10
-    }
+    },
+    "temata": []
   },
   {
     "id": 66567,
@@ -3364,7 +4344,8 @@
       "abstain": 74,
       "absent": 31,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 66568,
@@ -3377,7 +4358,8 @@
       "abstain": 78,
       "absent": 31,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 66569,
@@ -3390,7 +4372,8 @@
       "abstain": 29,
       "absent": 31,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 66570,
@@ -3403,7 +4386,8 @@
       "abstain": 26,
       "absent": 31,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 66571,
@@ -3416,7 +4400,8 @@
       "abstain": 54,
       "absent": 31,
       "not_logged": 7
-    }
+    },
+    "temata": []
   },
   {
     "id": 66572,
@@ -3429,7 +4414,8 @@
       "abstain": 38,
       "absent": 31,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 66573,
@@ -3442,7 +4428,8 @@
       "abstain": 67,
       "absent": 31,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 66574,
@@ -3455,7 +4442,8 @@
       "abstain": 39,
       "absent": 31,
       "not_logged": 7
-    }
+    },
+    "temata": []
   },
   {
     "id": 66575,
@@ -3468,7 +4456,8 @@
       "abstain": 72,
       "absent": 31,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 66576,
@@ -3481,7 +4470,8 @@
       "abstain": 46,
       "absent": 31,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 66577,
@@ -3494,7 +4484,8 @@
       "abstain": 38,
       "absent": 31,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 66578,
@@ -3507,7 +4498,8 @@
       "abstain": 22,
       "absent": 31,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 66579,
@@ -3520,7 +4512,8 @@
       "abstain": 58,
       "absent": 31,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 66580,
@@ -3533,7 +4526,8 @@
       "abstain": 53,
       "absent": 31,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 66581,
@@ -3546,7 +4540,8 @@
       "abstain": 49,
       "absent": 31,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 66582,
@@ -3559,7 +4554,8 @@
       "abstain": 42,
       "absent": 31,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 66583,
@@ -3572,7 +4568,8 @@
       "abstain": 47,
       "absent": 31,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 66584,
@@ -3585,7 +4582,8 @@
       "abstain": 42,
       "absent": 31,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 66585,
@@ -3598,7 +4596,8 @@
       "abstain": 46,
       "absent": 31,
       "not_logged": 7
-    }
+    },
+    "temata": []
   },
   {
     "id": 66586,
@@ -3611,7 +4610,8 @@
       "abstain": 35,
       "absent": 31,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 66587,
@@ -3624,7 +4624,8 @@
       "abstain": 46,
       "absent": 31,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 66588,
@@ -3637,7 +4638,8 @@
       "abstain": 19,
       "absent": 31,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 66589,
@@ -3650,7 +4652,8 @@
       "abstain": 15,
       "absent": 31,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 66590,
@@ -3663,7 +4666,8 @@
       "abstain": 35,
       "absent": 31,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 66591,
@@ -3676,7 +4680,8 @@
       "abstain": 15,
       "absent": 32,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 66592,
@@ -3689,7 +4694,8 @@
       "abstain": 63,
       "absent": 32,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 66593,
@@ -3702,7 +4708,8 @@
       "abstain": 61,
       "absent": 32,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 66594,
@@ -3715,7 +4722,11 @@
       "abstain": 39,
       "absent": 32,
       "not_logged": 4
-    }
+    },
+    "temata": [
+      "doba odpočinku",
+      "státní svátek"
+    ]
   },
   {
     "id": 66595,
@@ -3728,7 +4739,11 @@
       "abstain": 18,
       "absent": 33,
       "not_logged": 33
-    }
+    },
+    "temata": [
+      "doba odpočinku",
+      "státní svátek"
+    ]
   },
   {
     "id": 66596,
@@ -3741,7 +4756,11 @@
       "abstain": 34,
       "absent": 33,
       "not_logged": 29
-    }
+    },
+    "temata": [
+      "doba odpočinku",
+      "státní svátek"
+    ]
   },
   {
     "id": 66597,
@@ -3754,7 +4773,18 @@
       "abstain": 23,
       "absent": 33,
       "not_logged": 22
-    }
+    },
+    "temata": [
+      "budování podniku",
+      "Česká republika",
+      "cizinecké právo",
+      "cizí státní občan",
+      "občanství EU",
+      "podpora investic",
+      "povolení k pobytu",
+      "zahraniční investice",
+      "zahraniční podnik"
+    ]
   },
   {
     "id": 66598,
@@ -3767,7 +4797,11 @@
       "abstain": 72,
       "absent": 34,
       "not_logged": 23
-    }
+    },
+    "temata": [
+      "doba odpočinku",
+      "státní svátek"
+    ]
   },
   {
     "id": 66599,
@@ -3780,7 +4814,13 @@
       "abstain": 22,
       "absent": 34,
       "not_logged": 20
-    }
+    },
+    "temata": [
+      "stavební politika",
+      "stavební právo",
+      "územní plánování",
+      "územní samospráva"
+    ]
   },
   {
     "id": 66600,
@@ -3793,7 +4833,11 @@
       "abstain": 7,
       "absent": 35,
       "not_logged": 39
-    }
+    },
+    "temata": [
+      "doba odpočinku",
+      "státní svátek"
+    ]
   },
   {
     "id": 66601,
@@ -3806,7 +4850,8 @@
       "abstain": 5,
       "absent": 25,
       "not_logged": 26
-    }
+    },
+    "temata": []
   },
   {
     "id": 66602,
@@ -3819,7 +4864,8 @@
       "abstain": 30,
       "absent": 25,
       "not_logged": 23
-    }
+    },
+    "temata": []
   },
   {
     "id": 66603,
@@ -3832,7 +4878,8 @@
       "abstain": 42,
       "absent": 25,
       "not_logged": 21
-    }
+    },
+    "temata": []
   },
   {
     "id": 66604,
@@ -3845,7 +4892,8 @@
       "abstain": 30,
       "absent": 25,
       "not_logged": 19
-    }
+    },
+    "temata": []
   },
   {
     "id": 66605,
@@ -3858,7 +4906,8 @@
       "abstain": 26,
       "absent": 25,
       "not_logged": 19
-    }
+    },
+    "temata": []
   },
   {
     "id": 66606,
@@ -3871,7 +4920,8 @@
       "abstain": 31,
       "absent": 25,
       "not_logged": 19
-    }
+    },
+    "temata": []
   },
   {
     "id": 66607,
@@ -3884,7 +4934,8 @@
       "abstain": 15,
       "absent": 25,
       "not_logged": 18
-    }
+    },
+    "temata": []
   },
   {
     "id": 66608,
@@ -3897,7 +4948,8 @@
       "abstain": 30,
       "absent": 25,
       "not_logged": 18
-    }
+    },
+    "temata": []
   },
   {
     "id": 66609,
@@ -3910,7 +4962,16 @@
       "abstain": 24,
       "absent": 25,
       "not_logged": 15
-    }
+    },
+    "temata": [
+      "Česká republika",
+      "obranná politika",
+      "osobní zbraň",
+      "politické násilí",
+      "střelná zbraň a střelivo",
+      "terorismus",
+      "veřejná bezpečnost"
+    ]
   },
   {
     "id": 66610,
@@ -3923,7 +4984,16 @@
       "abstain": 26,
       "absent": 25,
       "not_logged": 15
-    }
+    },
+    "temata": [
+      "Česká republika",
+      "obranná politika",
+      "osobní zbraň",
+      "politické násilí",
+      "střelná zbraň a střelivo",
+      "terorismus",
+      "veřejná bezpečnost"
+    ]
   },
   {
     "id": 66611,
@@ -3936,7 +5006,16 @@
       "abstain": 20,
       "absent": 23,
       "not_logged": 9
-    }
+    },
+    "temata": [
+      "Česká republika",
+      "obranná politika",
+      "osobní zbraň",
+      "politické násilí",
+      "střelná zbraň a střelivo",
+      "terorismus",
+      "veřejná bezpečnost"
+    ]
   },
   {
     "id": 66612,
@@ -3949,7 +5028,16 @@
       "abstain": 12,
       "absent": 28,
       "not_logged": 31
-    }
+    },
+    "temata": [
+      "Česká republika",
+      "obranná politika",
+      "osobní zbraň",
+      "politické násilí",
+      "střelná zbraň a střelivo",
+      "terorismus",
+      "veřejná bezpečnost"
+    ]
   },
   {
     "id": 66613,
@@ -3962,7 +5050,13 @@
       "abstain": 4,
       "absent": 28,
       "not_logged": 27
-    }
+    },
+    "temata": [
+      "obchodní informace",
+      "obchodní smlouva",
+      "veřejné vlastnictví",
+      "zpřístupňování informací"
+    ]
   },
   {
     "id": 66614,
@@ -3975,7 +5069,8 @@
       "abstain": 47,
       "absent": 29,
       "not_logged": 34
-    }
+    },
+    "temata": []
   },
   {
     "id": 66615,
@@ -3988,7 +5083,8 @@
       "abstain": 43,
       "absent": 29,
       "not_logged": 27
-    }
+    },
+    "temata": []
   },
   {
     "id": 66616,
@@ -4001,7 +5097,12 @@
       "abstain": 43,
       "absent": 29,
       "not_logged": 30
-    }
+    },
+    "temata": [
+      "dopravní infrastruktura",
+      "účetní uzávěrka",
+      "zpráva o činnosti"
+    ]
   },
   {
     "id": 66617,
@@ -4014,7 +5115,8 @@
       "abstain": 128,
       "absent": 31,
       "not_logged": 28
-    }
+    },
+    "temata": []
   },
   {
     "id": 66618,
@@ -4027,7 +5129,8 @@
       "abstain": 5,
       "absent": 37,
       "not_logged": 88
-    }
+    },
+    "temata": []
   },
   {
     "id": 66619,
@@ -4040,7 +5143,16 @@
       "abstain": 33,
       "absent": 39,
       "not_logged": 54
-    }
+    },
+    "temata": [
+      "Česká republika",
+      "obranná politika",
+      "osobní zbraň",
+      "politické násilí",
+      "střelná zbraň a střelivo",
+      "terorismus",
+      "veřejná bezpečnost"
+    ]
   },
   {
     "id": 66620,
@@ -4053,7 +5165,16 @@
       "abstain": 6,
       "absent": 47,
       "not_logged": 60
-    }
+    },
+    "temata": [
+      "Česká republika",
+      "obranná politika",
+      "osobní zbraň",
+      "politické násilí",
+      "střelná zbraň a střelivo",
+      "terorismus",
+      "veřejná bezpečnost"
+    ]
   },
   {
     "id": 66621,
@@ -4066,7 +5187,16 @@
       "abstain": 3,
       "absent": 49,
       "not_logged": 58
-    }
+    },
+    "temata": [
+      "Česká republika",
+      "obranná politika",
+      "osobní zbraň",
+      "politické násilí",
+      "střelná zbraň a střelivo",
+      "terorismus",
+      "veřejná bezpečnost"
+    ]
   },
   {
     "id": 66622,
@@ -4079,7 +5209,13 @@
       "abstain": 32,
       "absent": 55,
       "not_logged": 61
-    }
+    },
+    "temata": [
+      "inzerování zboží",
+      "potravinová legislativa",
+      "potraviny",
+      "výchovně vzdělávací zařízení"
+    ]
   },
   {
     "id": 66623,
@@ -4092,7 +5228,8 @@
       "abstain": 12,
       "absent": 56,
       "not_logged": 32
-    }
+    },
+    "temata": []
   },
   {
     "id": 66624,
@@ -4105,7 +5242,8 @@
       "abstain": 17,
       "absent": 56,
       "not_logged": 32
-    }
+    },
+    "temata": []
   },
   {
     "id": 66625,
@@ -4118,7 +5256,8 @@
       "abstain": 13,
       "absent": 56,
       "not_logged": 32
-    }
+    },
+    "temata": []
   },
   {
     "id": 66626,
@@ -4131,7 +5270,8 @@
       "abstain": 14,
       "absent": 56,
       "not_logged": 32
-    }
+    },
+    "temata": []
   },
   {
     "id": 66627,
@@ -4144,7 +5284,8 @@
       "abstain": 12,
       "absent": 56,
       "not_logged": 31
-    }
+    },
+    "temata": []
   },
   {
     "id": 66628,
@@ -4157,7 +5298,17 @@
       "abstain": 23,
       "absent": 54,
       "not_logged": 26
-    }
+    },
+    "temata": [
+      "Agentura Evropské unie pro základní práva",
+      "Česká republika",
+      "činnost orgánů",
+      "činnost základních institucí",
+      "organizace EU",
+      "soudní spolupráce",
+      "soudní spolupráce EU v trestních věcech",
+      "správa instituce"
+    ]
   },
   {
     "id": 66629,
@@ -4170,7 +5321,15 @@
       "abstain": 17,
       "absent": 55,
       "not_logged": 25
-    }
+    },
+    "temata": [
+      "Česká republika",
+      "mezinárodní obchodní právo",
+      "obchodní dohoda",
+      "obchodní právo",
+      "obchodní spolupráce",
+      "trh zboží"
+    ]
   },
   {
     "id": 66630,
@@ -4183,7 +5342,13 @@
       "abstain": 24,
       "absent": 55,
       "not_logged": 25
-    }
+    },
+    "temata": [
+      "Evropská unie",
+      "Kuba",
+      "politická spolupráce",
+      "sbližování politik"
+    ]
   },
   {
     "id": 66631,
@@ -4196,7 +5361,14 @@
       "abstain": 43,
       "absent": 55,
       "not_logged": 24
-    }
+    },
+    "temata": [
+      "Afghánistán",
+      "Česká republika",
+      "dohoda o spolupráci",
+      "Evropská unie",
+      "mezinárodní spolupráce"
+    ]
   },
   {
     "id": 66632,
@@ -4209,7 +5381,13 @@
       "abstain": 7,
       "absent": 58,
       "not_logged": 41
-    }
+    },
+    "temata": [
+      "Česká republika",
+      "letecká doprava",
+      "mezinárodní doprava",
+      "Tádžikistán"
+    ]
   },
   {
     "id": 66633,
@@ -4222,7 +5400,13 @@
       "abstain": 28,
       "absent": 58,
       "not_logged": 39
-    }
+    },
+    "temata": [
+      "Česká republika",
+      "letecká doprava",
+      "mezinárodní doprava",
+      "Tádžikistán"
+    ]
   },
   {
     "id": 66634,
@@ -4235,7 +5419,13 @@
       "abstain": 6,
       "absent": 58,
       "not_logged": 36
-    }
+    },
+    "temata": [
+      "Česká republika",
+      "letecká doprava",
+      "mezinárodní doprava",
+      "Tádžikistán"
+    ]
   },
   {
     "id": 66635,
@@ -4248,7 +5438,13 @@
       "abstain": 16,
       "absent": 58,
       "not_logged": 36
-    }
+    },
+    "temata": [
+      "Česká republika",
+      "letecká doprava",
+      "mezinárodní doprava",
+      "Tádžikistán"
+    ]
   },
   {
     "id": 66636,
@@ -4261,7 +5457,13 @@
       "abstain": 11,
       "absent": 57,
       "not_logged": 34
-    }
+    },
+    "temata": [
+      "Česká republika",
+      "letecká doprava",
+      "mezinárodní doprava",
+      "Tádžikistán"
+    ]
   },
   {
     "id": 66637,
@@ -4274,7 +5476,12 @@
       "abstain": 15,
       "absent": 57,
       "not_logged": 34
-    }
+    },
+    "temata": [
+      "Česká republika",
+      "Japonsko",
+      "sociální zabezpečení"
+    ]
   },
   {
     "id": 66638,
@@ -4287,7 +5494,13 @@
       "abstain": 16,
       "absent": 57,
       "not_logged": 34
-    }
+    },
+    "temata": [
+      "Evropská unie",
+      "Kuba",
+      "politická spolupráce",
+      "sbližování politik"
+    ]
   },
   {
     "id": 66639,
@@ -4300,7 +5513,13 @@
       "abstain": 56,
       "absent": 57,
       "not_logged": 34
-    }
+    },
+    "temata": [
+      "Evropská unie",
+      "Kuba",
+      "politická spolupráce",
+      "sbližování politik"
+    ]
   },
   {
     "id": 66640,
@@ -4313,7 +5532,13 @@
       "abstain": 7,
       "absent": 59,
       "not_logged": 48
-    }
+    },
+    "temata": [
+      "Česká republika",
+      "letecká doprava",
+      "mezinárodní doprava",
+      "Tádžikistán"
+    ]
   },
   {
     "id": 66641,
@@ -4326,7 +5551,13 @@
       "abstain": 12,
       "absent": 59,
       "not_logged": 47
-    }
+    },
+    "temata": [
+      "Česká republika",
+      "letecká doprava",
+      "mezinárodní doprava",
+      "Tádžikistán"
+    ]
   },
   {
     "id": 66642,
@@ -4339,7 +5570,17 @@
       "abstain": 37,
       "absent": 57,
       "not_logged": 32
-    }
+    },
+    "temata": [
+      "Agentura Evropské unie pro základní práva",
+      "Česká republika",
+      "činnost orgánů",
+      "činnost základních institucí",
+      "organizace EU",
+      "soudní spolupráce",
+      "soudní spolupráce EU v trestních věcech",
+      "správa instituce"
+    ]
   },
   {
     "id": 66643,
@@ -4352,7 +5593,13 @@
       "abstain": 48,
       "absent": 55,
       "not_logged": 22
-    }
+    },
+    "temata": [
+      "Česká republika",
+      "letecká doprava",
+      "mezinárodní doprava",
+      "Tádžikistán"
+    ]
   },
   {
     "id": 66644,
@@ -4365,7 +5612,13 @@
       "abstain": 24,
       "absent": 57,
       "not_logged": 34
-    }
+    },
+    "temata": [
+      "Česká republika",
+      "letecká doprava",
+      "mezinárodní doprava",
+      "Tádžikistán"
+    ]
   },
   {
     "id": 66645,
@@ -4378,7 +5631,14 @@
       "abstain": 37,
       "absent": 56,
       "not_logged": 31
-    }
+    },
+    "temata": [
+      "Afghánistán",
+      "Česká republika",
+      "dohoda o spolupráci",
+      "Evropská unie",
+      "mezinárodní spolupráce"
+    ]
   },
   {
     "id": 66646,
@@ -4391,7 +5651,22 @@
       "abstain": 22,
       "absent": 57,
       "not_logged": 68
-    }
+    },
+    "temata": [
+      "Smlouvy",
+      "Česká republika",
+      "dopravní politika",
+      "horský region",
+      "Maďarsko",
+      "mezinárodní dohoda",
+      "ochrana životního prostředí",
+      "Polsko",
+      "ratifikace dohody",
+      "Rumunsko",
+      "Slovensko",
+      "trvale udržitelná mobilita",
+      "Ukrajina"
+    ]
   },
   {
     "id": 66647,
@@ -4404,7 +5679,8 @@
       "abstain": 27,
       "absent": 54,
       "not_logged": 36
-    }
+    },
+    "temata": []
   },
   {
     "id": 66648,
@@ -4417,7 +5693,11 @@
       "abstain": 10,
       "absent": 54,
       "not_logged": 27
-    }
+    },
+    "temata": [
+      "všeobecné zdravotní pojištění",
+      "zdravotní pojištění"
+    ]
   },
   {
     "id": 66649,
@@ -4430,7 +5710,11 @@
       "abstain": 8,
       "absent": 54,
       "not_logged": 15
-    }
+    },
+    "temata": [
+      "všeobecné zdravotní pojištění",
+      "zdravotní pojištění"
+    ]
   },
   {
     "id": 66650,
@@ -4443,7 +5727,11 @@
       "abstain": 6,
       "absent": 54,
       "not_logged": 15
-    }
+    },
+    "temata": [
+      "všeobecné zdravotní pojištění",
+      "zdravotní pojištění"
+    ]
   },
   {
     "id": 66651,
@@ -4456,7 +5744,11 @@
       "abstain": 5,
       "absent": 53,
       "not_logged": 14
-    }
+    },
+    "temata": [
+      "všeobecné zdravotní pojištění",
+      "zdravotní pojištění"
+    ]
   },
   {
     "id": 66652,
@@ -4469,7 +5761,11 @@
       "abstain": 5,
       "absent": 53,
       "not_logged": 13
-    }
+    },
+    "temata": [
+      "všeobecné zdravotní pojištění",
+      "zdravotní pojištění"
+    ]
   },
   {
     "id": 66653,
@@ -4482,7 +5778,11 @@
       "abstain": 9,
       "absent": 52,
       "not_logged": 12
-    }
+    },
+    "temata": [
+      "všeobecné zdravotní pojištění",
+      "zdravotní pojištění"
+    ]
   },
   {
     "id": 66654,
@@ -4495,7 +5795,11 @@
       "abstain": 5,
       "absent": 52,
       "not_logged": 12
-    }
+    },
+    "temata": [
+      "všeobecné zdravotní pojištění",
+      "zdravotní pojištění"
+    ]
   },
   {
     "id": 66655,
@@ -4508,7 +5812,11 @@
       "abstain": 7,
       "absent": 52,
       "not_logged": 11
-    }
+    },
+    "temata": [
+      "všeobecné zdravotní pojištění",
+      "zdravotní pojištění"
+    ]
   },
   {
     "id": 66656,
@@ -4521,7 +5829,11 @@
       "abstain": 23,
       "absent": 52,
       "not_logged": 10
-    }
+    },
+    "temata": [
+      "všeobecné zdravotní pojištění",
+      "zdravotní pojištění"
+    ]
   },
   {
     "id": 66657,
@@ -4534,7 +5846,11 @@
       "abstain": 4,
       "absent": 52,
       "not_logged": 10
-    }
+    },
+    "temata": [
+      "všeobecné zdravotní pojištění",
+      "zdravotní pojištění"
+    ]
   },
   {
     "id": 66658,
@@ -4547,7 +5863,11 @@
       "abstain": 5,
       "absent": 52,
       "not_logged": 9
-    }
+    },
+    "temata": [
+      "všeobecné zdravotní pojištění",
+      "zdravotní pojištění"
+    ]
   },
   {
     "id": 66659,
@@ -4560,7 +5880,11 @@
       "abstain": 19,
       "absent": 52,
       "not_logged": 9
-    }
+    },
+    "temata": [
+      "všeobecné zdravotní pojištění",
+      "zdravotní pojištění"
+    ]
   },
   {
     "id": 66660,
@@ -4573,7 +5897,11 @@
       "abstain": 4,
       "absent": 52,
       "not_logged": 8
-    }
+    },
+    "temata": [
+      "všeobecné zdravotní pojištění",
+      "zdravotní pojištění"
+    ]
   },
   {
     "id": 66661,
@@ -4586,7 +5914,11 @@
       "abstain": 30,
       "absent": 52,
       "not_logged": 8
-    }
+    },
+    "temata": [
+      "všeobecné zdravotní pojištění",
+      "zdravotní pojištění"
+    ]
   },
   {
     "id": 66662,
@@ -4599,7 +5931,11 @@
       "abstain": 7,
       "absent": 52,
       "not_logged": 8
-    }
+    },
+    "temata": [
+      "všeobecné zdravotní pojištění",
+      "zdravotní pojištění"
+    ]
   },
   {
     "id": 66663,
@@ -4612,7 +5948,11 @@
       "abstain": 35,
       "absent": 51,
       "not_logged": 8
-    }
+    },
+    "temata": [
+      "všeobecné zdravotní pojištění",
+      "zdravotní pojištění"
+    ]
   },
   {
     "id": 66664,
@@ -4625,7 +5965,11 @@
       "abstain": 15,
       "absent": 51,
       "not_logged": 8
-    }
+    },
+    "temata": [
+      "všeobecné zdravotní pojištění",
+      "zdravotní pojištění"
+    ]
   },
   {
     "id": 66665,
@@ -4638,7 +5982,11 @@
       "abstain": 60,
       "absent": 51,
       "not_logged": 8
-    }
+    },
+    "temata": [
+      "všeobecné zdravotní pojištění",
+      "zdravotní pojištění"
+    ]
   },
   {
     "id": 66666,
@@ -4651,7 +5999,11 @@
       "abstain": 6,
       "absent": 51,
       "not_logged": 8
-    }
+    },
+    "temata": [
+      "všeobecné zdravotní pojištění",
+      "zdravotní pojištění"
+    ]
   },
   {
     "id": 66667,
@@ -4664,7 +6016,11 @@
       "abstain": 8,
       "absent": 51,
       "not_logged": 8
-    }
+    },
+    "temata": [
+      "všeobecné zdravotní pojištění",
+      "zdravotní pojištění"
+    ]
   },
   {
     "id": 66668,
@@ -4677,7 +6033,11 @@
       "abstain": 17,
       "absent": 51,
       "not_logged": 8
-    }
+    },
+    "temata": [
+      "všeobecné zdravotní pojištění",
+      "zdravotní pojištění"
+    ]
   },
   {
     "id": 66669,
@@ -4690,7 +6050,11 @@
       "abstain": 28,
       "absent": 51,
       "not_logged": 7
-    }
+    },
+    "temata": [
+      "všeobecné zdravotní pojištění",
+      "zdravotní pojištění"
+    ]
   },
   {
     "id": 66670,
@@ -4703,7 +6067,11 @@
       "abstain": 37,
       "absent": 51,
       "not_logged": 7
-    }
+    },
+    "temata": [
+      "všeobecné zdravotní pojištění",
+      "zdravotní pojištění"
+    ]
   },
   {
     "id": 66671,
@@ -4716,7 +6084,11 @@
       "abstain": 37,
       "absent": 51,
       "not_logged": 7
-    }
+    },
+    "temata": [
+      "všeobecné zdravotní pojištění",
+      "zdravotní pojištění"
+    ]
   },
   {
     "id": 66672,
@@ -4729,7 +6101,11 @@
       "abstain": 12,
       "absent": 51,
       "not_logged": 7
-    }
+    },
+    "temata": [
+      "všeobecné zdravotní pojištění",
+      "zdravotní pojištění"
+    ]
   },
   {
     "id": 66673,
@@ -4742,7 +6118,14 @@
       "abstain": 12,
       "absent": 51,
       "not_logged": 6
-    }
+    },
+    "temata": [
+      "daňový základ",
+      "pojistné",
+      "povinné pojištění",
+      "všeobecné zdravotní pojištění",
+      "zdravotní pojištění"
+    ]
   },
   {
     "id": 66674,
@@ -4755,7 +6138,11 @@
       "abstain": 26,
       "absent": 51,
       "not_logged": 9
-    }
+    },
+    "temata": [
+      "všeobecné zdravotní pojištění",
+      "zdravotní pojištění"
+    ]
   },
   {
     "id": 66675,
@@ -4768,7 +6155,11 @@
       "abstain": 139,
       "absent": 51,
       "not_logged": 9
-    }
+    },
+    "temata": [
+      "všeobecné zdravotní pojištění",
+      "zdravotní pojištění"
+    ]
   },
   {
     "id": 66676,
@@ -4781,7 +6172,11 @@
       "abstain": 17,
       "absent": 51,
       "not_logged": 9
-    }
+    },
+    "temata": [
+      "všeobecné zdravotní pojištění",
+      "zdravotní pojištění"
+    ]
   },
   {
     "id": 66677,
@@ -4794,7 +6189,11 @@
       "abstain": 17,
       "absent": 51,
       "not_logged": 9
-    }
+    },
+    "temata": [
+      "všeobecné zdravotní pojištění",
+      "zdravotní pojištění"
+    ]
   },
   {
     "id": 66678,
@@ -4807,7 +6206,11 @@
       "abstain": 21,
       "absent": 51,
       "not_logged": 9
-    }
+    },
+    "temata": [
+      "všeobecné zdravotní pojištění",
+      "zdravotní pojištění"
+    ]
   },
   {
     "id": 66679,
@@ -4820,7 +6223,11 @@
       "abstain": 30,
       "absent": 51,
       "not_logged": 9
-    }
+    },
+    "temata": [
+      "všeobecné zdravotní pojištění",
+      "zdravotní pojištění"
+    ]
   },
   {
     "id": 66680,
@@ -4833,7 +6240,11 @@
       "abstain": 4,
       "absent": 51,
       "not_logged": 26
-    }
+    },
+    "temata": [
+      "všeobecné zdravotní pojištění",
+      "zdravotní pojištění"
+    ]
   },
   {
     "id": 66681,
@@ -4846,7 +6257,11 @@
       "abstain": 11,
       "absent": 51,
       "not_logged": 25
-    }
+    },
+    "temata": [
+      "všeobecné zdravotní pojištění",
+      "zdravotní pojištění"
+    ]
   },
   {
     "id": 66682,
@@ -4859,7 +6274,11 @@
       "abstain": 15,
       "absent": 51,
       "not_logged": 23
-    }
+    },
+    "temata": [
+      "všeobecné zdravotní pojištění",
+      "zdravotní pojištění"
+    ]
   },
   {
     "id": 66683,
@@ -4872,7 +6291,11 @@
       "abstain": 17,
       "absent": 51,
       "not_logged": 22
-    }
+    },
+    "temata": [
+      "všeobecné zdravotní pojištění",
+      "zdravotní pojištění"
+    ]
   },
   {
     "id": 66684,
@@ -4885,7 +6308,11 @@
       "abstain": 25,
       "absent": 51,
       "not_logged": 20
-    }
+    },
+    "temata": [
+      "všeobecné zdravotní pojištění",
+      "zdravotní pojištění"
+    ]
   },
   {
     "id": 66685,
@@ -4898,7 +6325,11 @@
       "abstain": 27,
       "absent": 51,
       "not_logged": 20
-    }
+    },
+    "temata": [
+      "všeobecné zdravotní pojištění",
+      "zdravotní pojištění"
+    ]
   },
   {
     "id": 66686,
@@ -4911,7 +6342,11 @@
       "abstain": 29,
       "absent": 51,
       "not_logged": 20
-    }
+    },
+    "temata": [
+      "všeobecné zdravotní pojištění",
+      "zdravotní pojištění"
+    ]
   },
   {
     "id": 66687,
@@ -4924,7 +6359,11 @@
       "abstain": 14,
       "absent": 51,
       "not_logged": 20
-    }
+    },
+    "temata": [
+      "všeobecné zdravotní pojištění",
+      "zdravotní pojištění"
+    ]
   },
   {
     "id": 66688,
@@ -4937,7 +6376,11 @@
       "abstain": 11,
       "absent": 51,
       "not_logged": 28
-    }
+    },
+    "temata": [
+      "všeobecné zdravotní pojištění",
+      "zdravotní pojištění"
+    ]
   },
   {
     "id": 66689,
@@ -4950,7 +6393,15 @@
       "abstain": 20,
       "absent": 50,
       "not_logged": 21
-    }
+    },
+    "temata": [
+      "armáda",
+      "dobrovolná vojenská služba",
+      "mzdová politika",
+      "odměňování",
+      "vojenské cvičení",
+      "zálohy"
+    ]
   },
   {
     "id": 66690,
@@ -4963,7 +6414,15 @@
       "abstain": 30,
       "absent": 50,
       "not_logged": 21
-    }
+    },
+    "temata": [
+      "armáda",
+      "dobrovolná vojenská služba",
+      "mzdová politika",
+      "odměňování",
+      "vojenské cvičení",
+      "zálohy"
+    ]
   },
   {
     "id": 66691,
@@ -4976,7 +6435,15 @@
       "abstain": 30,
       "absent": 50,
       "not_logged": 21
-    }
+    },
+    "temata": [
+      "armáda",
+      "dobrovolná vojenská služba",
+      "mzdová politika",
+      "odměňování",
+      "vojenské cvičení",
+      "zálohy"
+    ]
   },
   {
     "id": 66692,
@@ -4989,7 +6456,11 @@
       "abstain": 5,
       "absent": 52,
       "not_logged": 40
-    }
+    },
+    "temata": [
+      "všeobecné zdravotní pojištění",
+      "zdravotní pojištění"
+    ]
   },
   {
     "id": 66693,
@@ -5002,7 +6473,15 @@
       "abstain": 4,
       "absent": 52,
       "not_logged": 29
-    }
+    },
+    "temata": [
+      "armáda",
+      "dobrovolná vojenská služba",
+      "mzdová politika",
+      "odměňování",
+      "vojenské cvičení",
+      "zálohy"
+    ]
   },
   {
     "id": 66694,
@@ -5015,7 +6494,11 @@
       "abstain": 56,
       "absent": 58,
       "not_logged": 82
-    }
+    },
+    "temata": [
+      "všeobecné zdravotní pojištění",
+      "zdravotní pojištění"
+    ]
   },
   {
     "id": 66695,
@@ -5028,7 +6511,8 @@
       "abstain": 44,
       "absent": 36,
       "not_logged": 10
-    }
+    },
+    "temata": []
   },
   {
     "id": 66696,
@@ -5041,7 +6525,8 @@
       "abstain": 36,
       "absent": 36,
       "not_logged": 7
-    }
+    },
+    "temata": []
   },
   {
     "id": 66697,
@@ -5054,7 +6539,8 @@
       "abstain": 55,
       "absent": 36,
       "not_logged": 7
-    }
+    },
+    "temata": []
   },
   {
     "id": 66698,
@@ -5067,7 +6553,8 @@
       "abstain": 51,
       "absent": 36,
       "not_logged": 7
-    }
+    },
+    "temata": []
   },
   {
     "id": 66699,
@@ -5080,7 +6567,8 @@
       "abstain": 55,
       "absent": 36,
       "not_logged": 7
-    }
+    },
+    "temata": []
   },
   {
     "id": 66700,
@@ -5093,7 +6581,8 @@
       "abstain": 66,
       "absent": 36,
       "not_logged": 7
-    }
+    },
+    "temata": []
   },
   {
     "id": 66701,
@@ -5106,7 +6595,8 @@
       "abstain": 72,
       "absent": 36,
       "not_logged": 7
-    }
+    },
+    "temata": []
   },
   {
     "id": 66702,
@@ -5119,7 +6609,8 @@
       "abstain": 45,
       "absent": 36,
       "not_logged": 7
-    }
+    },
+    "temata": []
   },
   {
     "id": 66703,
@@ -5132,7 +6623,8 @@
       "abstain": 35,
       "absent": 36,
       "not_logged": 7
-    }
+    },
+    "temata": []
   },
   {
     "id": 66704,
@@ -5145,7 +6637,8 @@
       "abstain": 117,
       "absent": 36,
       "not_logged": 7
-    }
+    },
+    "temata": []
   },
   {
     "id": 66705,
@@ -5158,7 +6651,8 @@
       "abstain": 39,
       "absent": 35,
       "not_logged": 7
-    }
+    },
+    "temata": []
   },
   {
     "id": 66706,
@@ -5171,7 +6665,8 @@
       "abstain": 29,
       "absent": 35,
       "not_logged": 8
-    }
+    },
+    "temata": []
   },
   {
     "id": 66707,
@@ -5184,7 +6679,8 @@
       "abstain": 62,
       "absent": 35,
       "not_logged": 7
-    }
+    },
+    "temata": []
   },
   {
     "id": 66708,
@@ -5197,7 +6693,8 @@
       "abstain": 22,
       "absent": 35,
       "not_logged": 7
-    }
+    },
+    "temata": []
   },
   {
     "id": 66709,
@@ -5210,7 +6707,8 @@
       "abstain": 37,
       "absent": 35,
       "not_logged": 8
-    }
+    },
+    "temata": []
   },
   {
     "id": 66710,
@@ -5223,7 +6721,8 @@
       "abstain": 70,
       "absent": 35,
       "not_logged": 9
-    }
+    },
+    "temata": []
   },
   {
     "id": 66711,
@@ -5236,7 +6735,8 @@
       "abstain": 28,
       "absent": 35,
       "not_logged": 8
-    }
+    },
+    "temata": []
   },
   {
     "id": 66712,
@@ -5249,7 +6749,8 @@
       "abstain": 40,
       "absent": 35,
       "not_logged": 9
-    }
+    },
+    "temata": []
   },
   {
     "id": 66713,
@@ -5262,7 +6763,8 @@
       "abstain": 53,
       "absent": 35,
       "not_logged": 8
-    }
+    },
+    "temata": []
   },
   {
     "id": 66714,
@@ -5275,7 +6777,8 @@
       "abstain": 37,
       "absent": 35,
       "not_logged": 8
-    }
+    },
+    "temata": []
   },
   {
     "id": 66715,
@@ -5288,7 +6791,8 @@
       "abstain": 26,
       "absent": 35,
       "not_logged": 7
-    }
+    },
+    "temata": []
   },
   {
     "id": 66716,
@@ -5301,7 +6805,8 @@
       "abstain": 18,
       "absent": 35,
       "not_logged": 15
-    }
+    },
+    "temata": []
   },
   {
     "id": 66717,
@@ -5314,7 +6819,15 @@
       "abstain": 16,
       "absent": 34,
       "not_logged": 32
-    }
+    },
+    "temata": [
+      "Česká republika",
+      "Evropská unie",
+      "hospodářská dohoda",
+      "Kanada",
+      "mezinárodní obchod",
+      "obchodní dohoda"
+    ]
   },
   {
     "id": 66718,
@@ -5327,7 +6840,12 @@
       "abstain": 30,
       "absent": 35,
       "not_logged": 34
-    }
+    },
+    "temata": [
+      "Česká republika",
+      "Írán",
+      "jaderná elektrárna"
+    ]
   },
   {
     "id": 66719,
@@ -5340,7 +6858,15 @@
       "abstain": 6,
       "absent": 39,
       "not_logged": 33
-    }
+    },
+    "temata": [
+      "Česká republika",
+      "Evropská unie",
+      "hospodářská dohoda",
+      "Kanada",
+      "mezinárodní obchod",
+      "obchodní dohoda"
+    ]
   },
   {
     "id": 66720,
@@ -5353,7 +6879,15 @@
       "abstain": 4,
       "absent": 39,
       "not_logged": 24
-    }
+    },
+    "temata": [
+      "Česká republika",
+      "Evropská unie",
+      "hospodářská dohoda",
+      "Kanada",
+      "mezinárodní obchod",
+      "obchodní dohoda"
+    ]
   },
   {
     "id": 66721,
@@ -5366,7 +6900,15 @@
       "abstain": 16,
       "absent": 39,
       "not_logged": 24
-    }
+    },
+    "temata": [
+      "Česká republika",
+      "Evropská unie",
+      "hospodářská dohoda",
+      "Kanada",
+      "mezinárodní obchod",
+      "obchodní dohoda"
+    ]
   },
   {
     "id": 66722,
@@ -5379,7 +6921,8 @@
       "abstain": 23,
       "absent": 44,
       "not_logged": 36
-    }
+    },
+    "temata": []
   },
   {
     "id": 66723,
@@ -5392,7 +6935,8 @@
       "abstain": 0,
       "absent": 44,
       "not_logged": 29
-    }
+    },
+    "temata": []
   },
   {
     "id": 66724,
@@ -5405,7 +6949,8 @@
       "abstain": 6,
       "absent": 44,
       "not_logged": 27
-    }
+    },
+    "temata": []
   },
   {
     "id": 66725,
@@ -5418,7 +6963,8 @@
       "abstain": 26,
       "absent": 44,
       "not_logged": 27
-    }
+    },
+    "temata": []
   },
   {
     "id": 66726,
@@ -5431,7 +6977,8 @@
       "abstain": 21,
       "absent": 44,
       "not_logged": 27
-    }
+    },
+    "temata": []
   },
   {
     "id": 66727,
@@ -5444,7 +6991,8 @@
       "abstain": 32,
       "absent": 44,
       "not_logged": 27
-    }
+    },
+    "temata": []
   },
   {
     "id": 66728,
@@ -5457,7 +7005,8 @@
       "abstain": 18,
       "absent": 45,
       "not_logged": 26
-    }
+    },
+    "temata": []
   },
   {
     "id": 66729,
@@ -5470,7 +7019,8 @@
       "abstain": 9,
       "absent": 27,
       "not_logged": 37
-    }
+    },
+    "temata": []
   },
   {
     "id": 66730,
@@ -5483,7 +7033,8 @@
       "abstain": 13,
       "absent": 27,
       "not_logged": 32
-    }
+    },
+    "temata": []
   },
   {
     "id": 66731,
@@ -5496,7 +7047,8 @@
       "abstain": 11,
       "absent": 27,
       "not_logged": 30
-    }
+    },
+    "temata": []
   },
   {
     "id": 66732,
@@ -5509,7 +7061,8 @@
       "abstain": 5,
       "absent": 27,
       "not_logged": 24
-    }
+    },
+    "temata": []
   },
   {
     "id": 66733,
@@ -5522,7 +7075,16 @@
       "abstain": 6,
       "absent": 27,
       "not_logged": 18
-    }
+    },
+    "temata": [
+      "environmentální politika",
+      "ochrana životního prostředí",
+      "prevence environmentálních rizik",
+      "přibližování legislativy",
+      "sledování životního prostředí",
+      "správní dohled",
+      "vliv na životní prostředí"
+    ]
   },
   {
     "id": 66734,
@@ -5535,7 +7097,16 @@
       "abstain": 4,
       "absent": 27,
       "not_logged": 16
-    }
+    },
+    "temata": [
+      "environmentální politika",
+      "ochrana životního prostředí",
+      "prevence environmentálních rizik",
+      "přibližování legislativy",
+      "sledování životního prostředí",
+      "správní dohled",
+      "vliv na životní prostředí"
+    ]
   },
   {
     "id": 66735,
@@ -5548,7 +7119,16 @@
       "abstain": 14,
       "absent": 27,
       "not_logged": 14
-    }
+    },
+    "temata": [
+      "environmentální politika",
+      "ochrana životního prostředí",
+      "prevence environmentálních rizik",
+      "přibližování legislativy",
+      "sledování životního prostředí",
+      "správní dohled",
+      "vliv na životní prostředí"
+    ]
   },
   {
     "id": 66736,
@@ -5561,7 +7141,12 @@
       "abstain": 19,
       "absent": 27,
       "not_logged": 13
-    }
+    },
+    "temata": [
+      "motorové vozidlo",
+      "pojištění motorových vozidel",
+      "pojištění zákonné odpovědnosti"
+    ]
   },
   {
     "id": 66737,
@@ -5574,7 +7159,17 @@
       "abstain": 12,
       "absent": 26,
       "not_logged": 9
-    }
+    },
+    "temata": [
+      "armáda",
+      "Estonsko",
+      "Litva",
+      "Lotyšsko",
+      "NATO",
+      "Polsko",
+      "vojenská spolupráce",
+      "vojska v zahraničí"
+    ]
   },
   {
     "id": 66738,
@@ -5587,7 +7182,15 @@
       "abstain": 43,
       "absent": 25,
       "not_logged": 6
-    }
+    },
+    "temata": [
+      "lékař",
+      "lékárník",
+      "odborná kvalifikace",
+      "pediatrie",
+      "školní lékařství",
+      "zdravotnické povolání"
+    ]
   },
   {
     "id": 66739,
@@ -5600,7 +7203,13 @@
       "abstain": 6,
       "absent": 27,
       "not_logged": 13
-    }
+    },
+    "temata": [
+      "důvěrná informace",
+      "ochrana komunikací",
+      "státní tajemství",
+      "ukládání a vyhledávání informací"
+    ]
   },
   {
     "id": 66740,
@@ -5613,7 +7222,14 @@
       "abstain": 26,
       "absent": 26,
       "not_logged": 11
-    }
+    },
+    "temata": [
+      "Památky kulturní",
+      "Poplatky",
+      "archeologie",
+      "kulturní dědictví",
+      "ochrana kulturního dědictví"
+    ]
   },
   {
     "id": 66741,
@@ -5626,7 +7242,16 @@
       "abstain": 27,
       "absent": 26,
       "not_logged": 10
-    }
+    },
+    "temata": [
+      "environmentální politika",
+      "ochrana životního prostředí",
+      "prevence environmentálních rizik",
+      "přibližování legislativy",
+      "sledování životního prostředí",
+      "správní dohled",
+      "vliv na životní prostředí"
+    ]
   },
   {
     "id": 66742,
@@ -5639,7 +7264,16 @@
       "abstain": 23,
       "absent": 26,
       "not_logged": 10
-    }
+    },
+    "temata": [
+      "environmentální politika",
+      "ochrana životního prostředí",
+      "prevence environmentálních rizik",
+      "přibližování legislativy",
+      "sledování životního prostředí",
+      "správní dohled",
+      "vliv na životní prostředí"
+    ]
   },
   {
     "id": 66743,
@@ -5652,7 +7286,16 @@
       "abstain": 47,
       "absent": 26,
       "not_logged": 30
-    }
+    },
+    "temata": [
+      "environmentální politika",
+      "ochrana životního prostředí",
+      "prevence environmentálních rizik",
+      "přibližování legislativy",
+      "sledování životního prostředí",
+      "správní dohled",
+      "vliv na životní prostředí"
+    ]
   },
   {
     "id": 66744,
@@ -5665,7 +7308,16 @@
       "abstain": 17,
       "absent": 26,
       "not_logged": 28
-    }
+    },
+    "temata": [
+      "environmentální politika",
+      "ochrana životního prostředí",
+      "prevence environmentálních rizik",
+      "přibližování legislativy",
+      "sledování životního prostředí",
+      "správní dohled",
+      "vliv na životní prostředí"
+    ]
   },
   {
     "id": 66745,
@@ -5678,7 +7330,16 @@
       "abstain": 24,
       "absent": 26,
       "not_logged": 28
-    }
+    },
+    "temata": [
+      "environmentální politika",
+      "ochrana životního prostředí",
+      "prevence environmentálních rizik",
+      "přibližování legislativy",
+      "sledování životního prostředí",
+      "správní dohled",
+      "vliv na životní prostředí"
+    ]
   },
   {
     "id": 66746,
@@ -5691,7 +7352,16 @@
       "abstain": 10,
       "absent": 26,
       "not_logged": 28
-    }
+    },
+    "temata": [
+      "environmentální politika",
+      "ochrana životního prostředí",
+      "prevence environmentálních rizik",
+      "přibližování legislativy",
+      "sledování životního prostředí",
+      "správní dohled",
+      "vliv na životní prostředí"
+    ]
   },
   {
     "id": 66747,
@@ -5704,7 +7374,16 @@
       "abstain": 22,
       "absent": 26,
       "not_logged": 27
-    }
+    },
+    "temata": [
+      "environmentální politika",
+      "ochrana životního prostředí",
+      "prevence environmentálních rizik",
+      "přibližování legislativy",
+      "sledování životního prostředí",
+      "správní dohled",
+      "vliv na životní prostředí"
+    ]
   },
   {
     "id": 66749,
@@ -5717,7 +7396,16 @@
       "abstain": 12,
       "absent": 26,
       "not_logged": 27
-    }
+    },
+    "temata": [
+      "environmentální politika",
+      "ochrana životního prostředí",
+      "prevence environmentálních rizik",
+      "přibližování legislativy",
+      "sledování životního prostředí",
+      "správní dohled",
+      "vliv na životní prostředí"
+    ]
   },
   {
     "id": 66750,
@@ -5730,7 +7418,16 @@
       "abstain": 10,
       "absent": 26,
       "not_logged": 28
-    }
+    },
+    "temata": [
+      "environmentální politika",
+      "ochrana životního prostředí",
+      "prevence environmentálních rizik",
+      "přibližování legislativy",
+      "sledování životního prostředí",
+      "správní dohled",
+      "vliv na životní prostředí"
+    ]
   },
   {
     "id": 66751,
@@ -5743,7 +7440,16 @@
       "abstain": 17,
       "absent": 26,
       "not_logged": 28
-    }
+    },
+    "temata": [
+      "environmentální politika",
+      "ochrana životního prostředí",
+      "prevence environmentálních rizik",
+      "přibližování legislativy",
+      "sledování životního prostředí",
+      "správní dohled",
+      "vliv na životní prostředí"
+    ]
   },
   {
     "id": 66752,
@@ -5756,7 +7462,16 @@
       "abstain": 50,
       "absent": 26,
       "not_logged": 28
-    }
+    },
+    "temata": [
+      "environmentální politika",
+      "ochrana životního prostředí",
+      "prevence environmentálních rizik",
+      "přibližování legislativy",
+      "sledování životního prostředí",
+      "správní dohled",
+      "vliv na životní prostředí"
+    ]
   },
   {
     "id": 66753,
@@ -5769,7 +7484,16 @@
       "abstain": 41,
       "absent": 26,
       "not_logged": 27
-    }
+    },
+    "temata": [
+      "environmentální politika",
+      "ochrana životního prostředí",
+      "prevence environmentálních rizik",
+      "přibližování legislativy",
+      "sledování životního prostředí",
+      "správní dohled",
+      "vliv na životní prostředí"
+    ]
   },
   {
     "id": 66754,
@@ -5782,7 +7506,16 @@
       "abstain": 37,
       "absent": 26,
       "not_logged": 41
-    }
+    },
+    "temata": [
+      "církev",
+      "obchodní rejstřík",
+      "služba ve veřejném zájmu",
+      "sociální hospodářství",
+      "správní kontrola",
+      "veřejná instituce",
+      "veřejně prospěšná služba"
+    ]
   },
   {
     "id": 66755,
@@ -5795,7 +7528,16 @@
       "abstain": 53,
       "absent": 26,
       "not_logged": 37
-    }
+    },
+    "temata": [
+      "církev",
+      "obchodní rejstřík",
+      "služba ve veřejném zájmu",
+      "sociální hospodářství",
+      "správní kontrola",
+      "veřejná instituce",
+      "veřejně prospěšná služba"
+    ]
   },
   {
     "id": 66756,
@@ -5808,7 +7550,16 @@
       "abstain": 8,
       "absent": 26,
       "not_logged": 34
-    }
+    },
+    "temata": [
+      "environmentální politika",
+      "ochrana životního prostředí",
+      "prevence environmentálních rizik",
+      "přibližování legislativy",
+      "sledování životního prostředí",
+      "správní dohled",
+      "vliv na životní prostředí"
+    ]
   },
   {
     "id": 66757,
@@ -5821,7 +7572,16 @@
       "abstain": 6,
       "absent": 26,
       "not_logged": 31
-    }
+    },
+    "temata": [
+      "environmentální politika",
+      "ochrana životního prostředí",
+      "prevence environmentálních rizik",
+      "přibližování legislativy",
+      "sledování životního prostředí",
+      "správní dohled",
+      "vliv na životní prostředí"
+    ]
   },
   {
     "id": 66758,
@@ -5834,7 +7594,16 @@
       "abstain": 7,
       "absent": 26,
       "not_logged": 30
-    }
+    },
+    "temata": [
+      "environmentální politika",
+      "ochrana životního prostředí",
+      "prevence environmentálních rizik",
+      "přibližování legislativy",
+      "sledování životního prostředí",
+      "správní dohled",
+      "vliv na životní prostředí"
+    ]
   },
   {
     "id": 66759,
@@ -5847,7 +7616,16 @@
       "abstain": 7,
       "absent": 26,
       "not_logged": 30
-    }
+    },
+    "temata": [
+      "environmentální politika",
+      "ochrana životního prostředí",
+      "prevence environmentálních rizik",
+      "přibližování legislativy",
+      "sledování životního prostředí",
+      "správní dohled",
+      "vliv na životní prostředí"
+    ]
   },
   {
     "id": 66760,
@@ -5860,7 +7638,15 @@
       "abstain": 7,
       "absent": 26,
       "not_logged": 31
-    }
+    },
+    "temata": [
+      "daňové orgány",
+      "evropská spolupráce",
+      "finanční kontrola",
+      "mezinárodní daňové právo",
+      "mezinárodní spolupráce",
+      "vybírání daní"
+    ]
   },
   {
     "id": 66761,
@@ -5873,7 +7659,15 @@
       "abstain": 24,
       "absent": 26,
       "not_logged": 28
-    }
+    },
+    "temata": [
+      "cenová politika",
+      "cenová regulace",
+      "ceny",
+      "kalkulace",
+      "regulace trhu",
+      "řízení cen"
+    ]
   },
   {
     "id": 66762,
@@ -5886,7 +7680,17 @@
       "abstain": 4,
       "absent": 26,
       "not_logged": 70
-    }
+    },
+    "temata": [
+      "armáda",
+      "Estonsko",
+      "Litva",
+      "Lotyšsko",
+      "NATO",
+      "Polsko",
+      "vojenská spolupráce",
+      "vojska v zahraničí"
+    ]
   },
   {
     "id": 66763,
@@ -5899,7 +7703,17 @@
       "abstain": 4,
       "absent": 26,
       "not_logged": 68
-    }
+    },
+    "temata": [
+      "armáda",
+      "Estonsko",
+      "Litva",
+      "Lotyšsko",
+      "NATO",
+      "Polsko",
+      "vojenská spolupráce",
+      "vojska v zahraničí"
+    ]
   },
   {
     "id": 66764,
@@ -5912,7 +7726,16 @@
       "abstain": 5,
       "absent": 34,
       "not_logged": 61
-    }
+    },
+    "temata": [
+      "environmentální politika",
+      "ochrana životního prostředí",
+      "prevence environmentálních rizik",
+      "přibližování legislativy",
+      "sledování životního prostředí",
+      "správní dohled",
+      "vliv na životní prostředí"
+    ]
   },
   {
     "id": 66765,
@@ -5925,7 +7748,14 @@
       "abstain": 2,
       "absent": 34,
       "not_logged": 56
-    }
+    },
+    "temata": [
+      "bytové právo",
+      "nemovitost",
+      "právní systém",
+      "převod vlastnictví",
+      "soudní řízení"
+    ]
   },
   {
     "id": 66766,
@@ -5938,7 +7768,16 @@
       "abstain": 23,
       "absent": 34,
       "not_logged": 51
-    }
+    },
+    "temata": [
+      "environmentální politika",
+      "ochrana životního prostředí",
+      "prevence environmentálních rizik",
+      "přibližování legislativy",
+      "sledování životního prostředí",
+      "správní dohled",
+      "vliv na životní prostředí"
+    ]
   },
   {
     "id": 66767,
@@ -5951,7 +7790,16 @@
       "abstain": 32,
       "absent": 37,
       "not_logged": 51
-    }
+    },
+    "temata": [
+      "environmentální politika",
+      "ochrana životního prostředí",
+      "prevence environmentálních rizik",
+      "přibližování legislativy",
+      "sledování životního prostředí",
+      "správní dohled",
+      "vliv na životní prostředí"
+    ]
   },
   {
     "id": 66768,
@@ -5964,7 +7812,16 @@
       "abstain": 10,
       "absent": 38,
       "not_logged": 52
-    }
+    },
+    "temata": [
+      "environmentální politika",
+      "ochrana životního prostředí",
+      "prevence environmentálních rizik",
+      "přibližování legislativy",
+      "sledování životního prostředí",
+      "správní dohled",
+      "vliv na životní prostředí"
+    ]
   },
   {
     "id": 66769,
@@ -5977,7 +7834,16 @@
       "abstain": 2,
       "absent": 38,
       "not_logged": 47
-    }
+    },
+    "temata": [
+      "environmentální politika",
+      "ochrana životního prostředí",
+      "prevence environmentálních rizik",
+      "přibližování legislativy",
+      "sledování životního prostředí",
+      "správní dohled",
+      "vliv na životní prostředí"
+    ]
   },
   {
     "id": 66770,
@@ -5990,7 +7856,16 @@
       "abstain": 17,
       "absent": 38,
       "not_logged": 42
-    }
+    },
+    "temata": [
+      "environmentální politika",
+      "ochrana životního prostředí",
+      "prevence environmentálních rizik",
+      "přibližování legislativy",
+      "sledování životního prostředí",
+      "správní dohled",
+      "vliv na životní prostředí"
+    ]
   },
   {
     "id": 66771,
@@ -6003,7 +7878,16 @@
       "abstain": 29,
       "absent": 40,
       "not_logged": 67
-    }
+    },
+    "temata": [
+      "environmentální politika",
+      "ochrana životního prostředí",
+      "prevence environmentálních rizik",
+      "přibližování legislativy",
+      "sledování životního prostředí",
+      "správní dohled",
+      "vliv na životní prostředí"
+    ]
   },
   {
     "id": 66772,
@@ -6016,7 +7900,16 @@
       "abstain": 6,
       "absent": 42,
       "not_logged": 152
-    }
+    },
+    "temata": [
+      "environmentální politika",
+      "ochrana životního prostředí",
+      "prevence environmentálních rizik",
+      "přibližování legislativy",
+      "sledování životního prostředí",
+      "správní dohled",
+      "vliv na životní prostředí"
+    ]
   },
   {
     "id": 66773,
@@ -6029,7 +7922,16 @@
       "abstain": 31,
       "absent": 41,
       "not_logged": 28
-    }
+    },
+    "temata": [
+      "environmentální politika",
+      "ochrana životního prostředí",
+      "prevence environmentálních rizik",
+      "přibližování legislativy",
+      "sledování životního prostředí",
+      "správní dohled",
+      "vliv na životní prostředí"
+    ]
   },
   {
     "id": 66774,
@@ -6042,7 +7944,16 @@
       "abstain": 40,
       "absent": 41,
       "not_logged": 25
-    }
+    },
+    "temata": [
+      "celoživotní vzdělávání",
+      "mzda",
+      "mzdová politika",
+      "odborná kvalifikace",
+      "pracovní dráha",
+      "speciální vzdělávání",
+      "učitel"
+    ]
   },
   {
     "id": 66775,
@@ -6055,7 +7966,8 @@
       "abstain": 17,
       "absent": 50,
       "not_logged": 43
-    }
+    },
+    "temata": []
   },
   {
     "id": 66776,
@@ -6068,7 +7980,8 @@
       "abstain": 46,
       "absent": 50,
       "not_logged": 39
-    }
+    },
+    "temata": []
   },
   {
     "id": 66777,
@@ -6081,7 +7994,14 @@
       "abstain": 12,
       "absent": 50,
       "not_logged": 32
-    }
+    },
+    "temata": [
+      "boj proti zločinnosti",
+      "evropská konvence",
+      "Rada Evropy",
+      "ratifikace dohody",
+      "terorismus"
+    ]
   },
   {
     "id": 66778,
@@ -6094,7 +8014,14 @@
       "abstain": 14,
       "absent": 50,
       "not_logged": 29
-    }
+    },
+    "temata": [
+      "boj proti zločinnosti",
+      "evropská konvence",
+      "Rada Evropy",
+      "ratifikace dohody",
+      "terorismus"
+    ]
   },
   {
     "id": 66779,
@@ -6107,7 +8034,14 @@
       "abstain": 12,
       "absent": 49,
       "not_logged": 23
-    }
+    },
+    "temata": [
+      "boj proti zločinnosti",
+      "evropská konvence",
+      "Rada Evropy",
+      "ratifikace dohody",
+      "terorismus"
+    ]
   },
   {
     "id": 66780,
@@ -6120,7 +8054,14 @@
       "abstain": 22,
       "absent": 49,
       "not_logged": 23
-    }
+    },
+    "temata": [
+      "boj proti zločinnosti",
+      "evropská konvence",
+      "Rada Evropy",
+      "ratifikace dohody",
+      "terorismus"
+    ]
   },
   {
     "id": 66781,
@@ -6133,7 +8074,14 @@
       "abstain": 24,
       "absent": 49,
       "not_logged": 23
-    }
+    },
+    "temata": [
+      "boj proti zločinnosti",
+      "evropská konvence",
+      "Rada Evropy",
+      "ratifikace dohody",
+      "terorismus"
+    ]
   },
   {
     "id": 66782,
@@ -6146,7 +8094,14 @@
       "abstain": 26,
       "absent": 49,
       "not_logged": 23
-    }
+    },
+    "temata": [
+      "Česká republika",
+      "dvoustranná dohoda",
+      "Slovensko",
+      "vojenské letectvo",
+      "vzdušný prostor"
+    ]
   },
   {
     "id": 66783,
@@ -6159,7 +8114,14 @@
       "abstain": 28,
       "absent": 49,
       "not_logged": 23
-    }
+    },
+    "temata": [
+      "Česká republika",
+      "dvoustranná dohoda",
+      "Slovensko",
+      "vojenské letectvo",
+      "vzdušný prostor"
+    ]
   },
   {
     "id": 66784,
@@ -6172,7 +8134,18 @@
       "abstain": 28,
       "absent": 49,
       "not_logged": 24
-    }
+    },
+    "temata": [
+      "Aruba",
+      "Česká republika",
+      "daňová úmluva",
+      "daň z příjmů",
+      "mezinárodní dohoda",
+      "Nizozemské Antily",
+      "Nizozemsko",
+      "úspory",
+      "vypovědění smlouvy"
+    ]
   },
   {
     "id": 66785,
@@ -6185,7 +8158,18 @@
       "abstain": 27,
       "absent": 49,
       "not_logged": 24
-    }
+    },
+    "temata": [
+      "Aruba",
+      "Česká republika",
+      "daňová úmluva",
+      "daň z příjmů",
+      "mezinárodní dohoda",
+      "Nizozemské Antily",
+      "Nizozemsko",
+      "úspory",
+      "vypovědění smlouvy"
+    ]
   },
   {
     "id": 66786,
@@ -6198,7 +8182,18 @@
       "abstain": 30,
       "absent": 49,
       "not_logged": 23
-    }
+    },
+    "temata": [
+      "Aruba",
+      "Česká republika",
+      "daňová úmluva",
+      "daň z příjmů",
+      "mezinárodní dohoda",
+      "Nizozemské Antily",
+      "Nizozemsko",
+      "úspory",
+      "vypovědění smlouvy"
+    ]
   },
   {
     "id": 66787,
@@ -6211,7 +8206,18 @@
       "abstain": 31,
       "absent": 49,
       "not_logged": 23
-    }
+    },
+    "temata": [
+      "Aruba",
+      "Česká republika",
+      "daňová úmluva",
+      "daň z příjmů",
+      "mezinárodní dohoda",
+      "Nizozemské Antily",
+      "Nizozemsko",
+      "úspory",
+      "vypovědění smlouvy"
+    ]
   },
   {
     "id": 66788,
@@ -6224,7 +8230,13 @@
       "abstain": 36,
       "absent": 49,
       "not_logged": 25
-    }
+    },
+    "temata": [
+      "Česká republika",
+      "Indonésie",
+      "letecká doprava",
+      "mezinárodní doprava"
+    ]
   },
   {
     "id": 66789,
@@ -6237,7 +8249,13 @@
       "abstain": 33,
       "absent": 49,
       "not_logged": 25
-    }
+    },
+    "temata": [
+      "Česká republika",
+      "Indonésie",
+      "letecká doprava",
+      "mezinárodní doprava"
+    ]
   },
   {
     "id": 66790,
@@ -6250,7 +8268,16 @@
       "abstain": 34,
       "absent": 49,
       "not_logged": 25
-    }
+    },
+    "temata": [
+      "Britské Panenské ostrovy",
+      "Česká republika",
+      "daňová úmluva",
+      "daň z příjmů",
+      "mezinárodní dohoda",
+      "úspory",
+      "vypovědění smlouvy"
+    ]
   },
   {
     "id": 66791,
@@ -6263,7 +8290,16 @@
       "abstain": 35,
       "absent": 49,
       "not_logged": 25
-    }
+    },
+    "temata": [
+      "Britské Panenské ostrovy",
+      "Česká republika",
+      "daňová úmluva",
+      "daň z příjmů",
+      "mezinárodní dohoda",
+      "úspory",
+      "vypovědění smlouvy"
+    ]
   },
   {
     "id": 66792,
@@ -6276,7 +8312,16 @@
       "abstain": 31,
       "absent": 49,
       "not_logged": 25
-    }
+    },
+    "temata": [
+      "Britské Panenské ostrovy",
+      "Česká republika",
+      "daňová úmluva",
+      "daň z příjmů",
+      "mezinárodní dohoda",
+      "úspory",
+      "vypovědění smlouvy"
+    ]
   },
   {
     "id": 66793,
@@ -6289,7 +8334,16 @@
       "abstain": 32,
       "absent": 49,
       "not_logged": 25
-    }
+    },
+    "temata": [
+      "Britské Panenské ostrovy",
+      "Česká republika",
+      "daňová úmluva",
+      "daň z příjmů",
+      "mezinárodní dohoda",
+      "úspory",
+      "vypovědění smlouvy"
+    ]
   },
   {
     "id": 66794,
@@ -6302,7 +8356,13 @@
       "abstain": 32,
       "absent": 49,
       "not_logged": 24
-    }
+    },
+    "temata": [
+      "Česká republika",
+      "Indonésie",
+      "letecká doprava",
+      "mezinárodní doprava"
+    ]
   },
   {
     "id": 66795,
@@ -6315,7 +8375,13 @@
       "abstain": 32,
       "absent": 49,
       "not_logged": 24
-    }
+    },
+    "temata": [
+      "Česká republika",
+      "Indonésie",
+      "letecká doprava",
+      "mezinárodní doprava"
+    ]
   },
   {
     "id": 66796,
@@ -6328,7 +8394,16 @@
       "abstain": 33,
       "absent": 49,
       "not_logged": 23
-    }
+    },
+    "temata": [
+      "Česká republika",
+      "daňová úmluva",
+      "daň z příjmů",
+      "Kajmanské ostrovy",
+      "mezinárodní dohoda",
+      "úspory",
+      "vypovědění smlouvy"
+    ]
   },
   {
     "id": 66797,
@@ -6341,7 +8416,16 @@
       "abstain": 32,
       "absent": 49,
       "not_logged": 23
-    }
+    },
+    "temata": [
+      "Česká republika",
+      "daňová úmluva",
+      "daň z příjmů",
+      "Kajmanské ostrovy",
+      "mezinárodní dohoda",
+      "úspory",
+      "vypovědění smlouvy"
+    ]
   },
   {
     "id": 66798,
@@ -6354,7 +8438,16 @@
       "abstain": 28,
       "absent": 49,
       "not_logged": 23
-    }
+    },
+    "temata": [
+      "Česká republika",
+      "daňová úmluva",
+      "daň z příjmů",
+      "mezinárodní dohoda",
+      "Ostrovy Turks a Caicos",
+      "úspory",
+      "vypovědění smlouvy"
+    ]
   },
   {
     "id": 66799,
@@ -6367,7 +8460,16 @@
       "abstain": 31,
       "absent": 49,
       "not_logged": 23
-    }
+    },
+    "temata": [
+      "Česká republika",
+      "daňová úmluva",
+      "daň z příjmů",
+      "mezinárodní dohoda",
+      "Ostrovy Turks a Caicos",
+      "úspory",
+      "vypovědění smlouvy"
+    ]
   },
   {
     "id": 66800,
@@ -6380,7 +8482,14 @@
       "abstain": 121,
       "absent": 50,
       "not_logged": 23
-    }
+    },
+    "temata": [
+      "boj proti zločinnosti",
+      "evropská konvence",
+      "Rada Evropy",
+      "ratifikace dohody",
+      "terorismus"
+    ]
   },
   {
     "id": 66801,
@@ -6393,7 +8502,14 @@
       "abstain": 11,
       "absent": 50,
       "not_logged": 54
-    }
+    },
+    "temata": [
+      "boj proti zločinnosti",
+      "evropská konvence",
+      "Rada Evropy",
+      "ratifikace dohody",
+      "terorismus"
+    ]
   },
   {
     "id": 66802,
@@ -6406,7 +8522,15 @@
       "abstain": 12,
       "absent": 50,
       "not_logged": 47
-    }
+    },
+    "temata": [
+      "Česká republika",
+      "Evropská unie",
+      "hospodářská dohoda",
+      "Kanada",
+      "mezinárodní obchod",
+      "obchodní dohoda"
+    ]
   },
   {
     "id": 66803,
@@ -6419,7 +8543,14 @@
       "abstain": 13,
       "absent": 50,
       "not_logged": 45
-    }
+    },
+    "temata": [
+      "bankovní politika",
+      "Česká republika",
+      "finanční politika",
+      "finanční spolupráce",
+      "hospodářská spolupráce"
+    ]
   },
   {
     "id": 66804,
@@ -6432,7 +8563,16 @@
       "abstain": 20,
       "absent": 48,
       "not_logged": 45
-    }
+    },
+    "temata": [
+      "Česká republika",
+      "daňová úmluva",
+      "daň z příjmů",
+      "Kajmanské ostrovy",
+      "mezinárodní dohoda",
+      "úspory",
+      "vypovědění smlouvy"
+    ]
   },
   {
     "id": 66805,
@@ -6445,7 +8585,8 @@
       "abstain": 6,
       "absent": 51,
       "not_logged": 20
-    }
+    },
+    "temata": []
   },
   {
     "id": 66806,
@@ -6458,7 +8599,8 @@
       "abstain": 34,
       "absent": 51,
       "not_logged": 19
-    }
+    },
+    "temata": []
   },
   {
     "id": 66807,
@@ -6471,7 +8613,8 @@
       "abstain": 19,
       "absent": 51,
       "not_logged": 20
-    }
+    },
+    "temata": []
   },
   {
     "id": 66808,
@@ -6484,7 +8627,8 @@
       "abstain": 29,
       "absent": 51,
       "not_logged": 16
-    }
+    },
+    "temata": []
   },
   {
     "id": 66809,
@@ -6497,7 +8641,8 @@
       "abstain": 19,
       "absent": 51,
       "not_logged": 16
-    }
+    },
+    "temata": []
   },
   {
     "id": 66810,
@@ -6510,7 +8655,13 @@
       "abstain": 12,
       "absent": 51,
       "not_logged": 15
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66811,
@@ -6523,7 +8674,13 @@
       "abstain": 8,
       "absent": 51,
       "not_logged": 11
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66812,
@@ -6536,7 +8693,13 @@
       "abstain": 34,
       "absent": 51,
       "not_logged": 11
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66813,
@@ -6549,7 +8712,13 @@
       "abstain": 27,
       "absent": 51,
       "not_logged": 11
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66814,
@@ -6562,7 +8731,13 @@
       "abstain": 45,
       "absent": 51,
       "not_logged": 11
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66815,
@@ -6575,7 +8750,13 @@
       "abstain": 19,
       "absent": 51,
       "not_logged": 11
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66816,
@@ -6588,7 +8769,13 @@
       "abstain": 38,
       "absent": 51,
       "not_logged": 11
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66817,
@@ -6601,7 +8788,14 @@
       "abstain": 33,
       "absent": 51,
       "not_logged": 17
-    }
+    },
+    "temata": [
+      "chronické onemocnění",
+      "domácí péče",
+      "osoba samostatně výdělečně činná",
+      "sociální dávky",
+      "zdravotní pojištění"
+    ]
   },
   {
     "id": 66818,
@@ -6614,7 +8808,13 @@
       "abstain": 41,
       "absent": 51,
       "not_logged": 10
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66819,
@@ -6627,7 +8827,13 @@
       "abstain": 58,
       "absent": 51,
       "not_logged": 18
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66820,
@@ -6640,7 +8846,13 @@
       "abstain": 9,
       "absent": 51,
       "not_logged": 15
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66821,
@@ -6653,7 +8865,16 @@
       "abstain": 4,
       "absent": 51,
       "not_logged": 14
-    }
+    },
+    "temata": [
+      "hájené zaměstnání",
+      "integrace postižených osob",
+      "lékařský posudek",
+      "podpora v nezaměstnanosti",
+      "poptávka po zaměstnání",
+      "zdravotně postižený člověk",
+      "zdravotně postižený pracovník"
+    ]
   },
   {
     "id": 66822,
@@ -6666,7 +8887,13 @@
       "abstain": 16,
       "absent": 51,
       "not_logged": 13
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66823,
@@ -6679,7 +8906,13 @@
       "abstain": 19,
       "absent": 51,
       "not_logged": 13
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66824,
@@ -6692,7 +8925,13 @@
       "abstain": 10,
       "absent": 51,
       "not_logged": 13
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66825,
@@ -6705,7 +8944,13 @@
       "abstain": 20,
       "absent": 51,
       "not_logged": 13
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66826,
@@ -6718,7 +8963,13 @@
       "abstain": 10,
       "absent": 51,
       "not_logged": 11
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66827,
@@ -6731,7 +8982,13 @@
       "abstain": 40,
       "absent": 52,
       "not_logged": 17
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66828,
@@ -6744,7 +9001,13 @@
       "abstain": 40,
       "absent": 52,
       "not_logged": 14
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66829,
@@ -6757,7 +9020,13 @@
       "abstain": 9,
       "absent": 52,
       "not_logged": 12
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66830,
@@ -6770,7 +9039,13 @@
       "abstain": 4,
       "absent": 52,
       "not_logged": 12
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66831,
@@ -6783,7 +9058,13 @@
       "abstain": 10,
       "absent": 52,
       "not_logged": 12
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66832,
@@ -6796,7 +9077,13 @@
       "abstain": 5,
       "absent": 52,
       "not_logged": 12
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66833,
@@ -6809,7 +9096,13 @@
       "abstain": 10,
       "absent": 52,
       "not_logged": 11
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66834,
@@ -6822,7 +9115,13 @@
       "abstain": 32,
       "absent": 52,
       "not_logged": 11
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66835,
@@ -6835,7 +9134,13 @@
       "abstain": 15,
       "absent": 52,
       "not_logged": 11
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66836,
@@ -6848,7 +9153,13 @@
       "abstain": 42,
       "absent": 52,
       "not_logged": 10
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66837,
@@ -6861,7 +9172,13 @@
       "abstain": 46,
       "absent": 52,
       "not_logged": 11
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66838,
@@ -6874,7 +9191,13 @@
       "abstain": 24,
       "absent": 52,
       "not_logged": 11
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66839,
@@ -6887,7 +9210,17 @@
       "abstain": 32,
       "absent": 52,
       "not_logged": 11
-    }
+    },
+    "temata": [
+      "dopravce",
+      "dopravní licence",
+      "dopravní podnik",
+      "hromadná doprava",
+      "organizace dopravy",
+      "osobní doprava",
+      "silnièní doprava",
+      "taxi"
+    ]
   },
   {
     "id": 66840,
@@ -6900,7 +9233,14 @@
       "abstain": 26,
       "absent": 52,
       "not_logged": 11
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "koordinace financování",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66841,
@@ -6913,7 +9253,14 @@
       "abstain": 29,
       "absent": 52,
       "not_logged": 11
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "koordinace financování",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66842,
@@ -6926,7 +9273,14 @@
       "abstain": 38,
       "absent": 52,
       "not_logged": 11
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "koordinace financování",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66843,
@@ -6939,7 +9293,14 @@
       "abstain": 36,
       "absent": 52,
       "not_logged": 11
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "koordinace financování",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66844,
@@ -6952,7 +9313,14 @@
       "abstain": 37,
       "absent": 52,
       "not_logged": 11
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "koordinace financování",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66845,
@@ -6965,7 +9333,14 @@
       "abstain": 76,
       "absent": 52,
       "not_logged": 11
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "koordinace financování",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66846,
@@ -6978,7 +9353,14 @@
       "abstain": 78,
       "absent": 52,
       "not_logged": 11
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "koordinace financování",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66847,
@@ -6991,7 +9373,14 @@
       "abstain": 78,
       "absent": 52,
       "not_logged": 10
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "koordinace financování",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66848,
@@ -7004,7 +9393,14 @@
       "abstain": 79,
       "absent": 52,
       "not_logged": 10
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "koordinace financování",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66849,
@@ -7017,7 +9413,14 @@
       "abstain": 102,
       "absent": 52,
       "not_logged": 10
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "koordinace financování",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66850,
@@ -7030,7 +9433,14 @@
       "abstain": 40,
       "absent": 52,
       "not_logged": 10
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "koordinace financování",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66851,
@@ -7043,7 +9453,14 @@
       "abstain": 34,
       "absent": 52,
       "not_logged": 10
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "koordinace financování",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66852,
@@ -7056,7 +9473,14 @@
       "abstain": 47,
       "absent": 52,
       "not_logged": 10
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "koordinace financování",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66853,
@@ -7069,7 +9493,14 @@
       "abstain": 1,
       "absent": 53,
       "not_logged": 42
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "koordinace financování",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66854,
@@ -7082,7 +9513,14 @@
       "abstain": 50,
       "absent": 53,
       "not_logged": 35
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "koordinace financování",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66855,
@@ -7095,7 +9533,14 @@
       "abstain": 4,
       "absent": 53,
       "not_logged": 33
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "koordinace financování",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66856,
@@ -7108,7 +9553,14 @@
       "abstain": 24,
       "absent": 53,
       "not_logged": 33
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "koordinace financování",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66857,
@@ -7121,7 +9573,13 @@
       "abstain": 12,
       "absent": 53,
       "not_logged": 33
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66858,
@@ -7134,7 +9592,13 @@
       "abstain": 32,
       "absent": 53,
       "not_logged": 30
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66859,
@@ -7147,7 +9611,13 @@
       "abstain": 31,
       "absent": 53,
       "not_logged": 29
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66860,
@@ -7160,7 +9630,13 @@
       "abstain": 20,
       "absent": 53,
       "not_logged": 27
-    }
+    },
+    "temata": [
+      "oprávnění k výkonu služby",
+      "osoba samostatně výdělečně činná",
+      "živnost",
+      "živnostník"
+    ]
   },
   {
     "id": 66862,
@@ -7173,7 +9649,13 @@
       "abstain": 18,
       "absent": 55,
       "not_logged": 19
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66863,
@@ -7186,7 +9668,13 @@
       "abstain": 53,
       "absent": 55,
       "not_logged": 19
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66864,
@@ -7199,7 +9687,13 @@
       "abstain": 90,
       "absent": 55,
       "not_logged": 19
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66865,
@@ -7212,7 +9706,13 @@
       "abstain": 7,
       "absent": 59,
       "not_logged": 31
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66866,
@@ -7225,7 +9725,13 @@
       "abstain": 7,
       "absent": 60,
       "not_logged": 50
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66867,
@@ -7238,7 +9744,8 @@
       "abstain": 19,
       "absent": 59,
       "not_logged": 50
-    }
+    },
+    "temata": []
   },
   {
     "id": 66868,
@@ -7251,7 +9758,8 @@
       "abstain": 11,
       "absent": 21,
       "not_logged": 89
-    }
+    },
+    "temata": []
   },
   {
     "id": 66869,
@@ -7264,7 +9772,8 @@
       "abstain": 25,
       "absent": 20,
       "not_logged": 13
-    }
+    },
+    "temata": []
   },
   {
     "id": 66870,
@@ -7277,7 +9786,8 @@
       "abstain": 56,
       "absent": 20,
       "not_logged": 10
-    }
+    },
+    "temata": []
   },
   {
     "id": 66871,
@@ -7290,7 +9800,8 @@
       "abstain": 33,
       "absent": 20,
       "not_logged": 11
-    }
+    },
+    "temata": []
   },
   {
     "id": 66872,
@@ -7303,7 +9814,8 @@
       "abstain": 63,
       "absent": 20,
       "not_logged": 11
-    }
+    },
+    "temata": []
   },
   {
     "id": 66873,
@@ -7316,7 +9828,8 @@
       "abstain": 54,
       "absent": 20,
       "not_logged": 10
-    }
+    },
+    "temata": []
   },
   {
     "id": 66874,
@@ -7329,7 +9842,8 @@
       "abstain": 50,
       "absent": 20,
       "not_logged": 9
-    }
+    },
+    "temata": []
   },
   {
     "id": 66875,
@@ -7342,7 +9856,8 @@
       "abstain": 34,
       "absent": 20,
       "not_logged": 9
-    }
+    },
+    "temata": []
   },
   {
     "id": 66876,
@@ -7355,7 +9870,8 @@
       "abstain": 75,
       "absent": 20,
       "not_logged": 10
-    }
+    },
+    "temata": []
   },
   {
     "id": 66877,
@@ -7368,7 +9884,8 @@
       "abstain": 59,
       "absent": 20,
       "not_logged": 9
-    }
+    },
+    "temata": []
   },
   {
     "id": 66878,
@@ -7381,7 +9898,8 @@
       "abstain": 11,
       "absent": 20,
       "not_logged": 9
-    }
+    },
+    "temata": []
   },
   {
     "id": 66879,
@@ -7394,7 +9912,8 @@
       "abstain": 16,
       "absent": 20,
       "not_logged": 10
-    }
+    },
+    "temata": []
   },
   {
     "id": 66880,
@@ -7407,7 +9926,8 @@
       "abstain": 37,
       "absent": 20,
       "not_logged": 10
-    }
+    },
+    "temata": []
   },
   {
     "id": 66881,
@@ -7420,7 +9940,16 @@
       "abstain": 47,
       "absent": 22,
       "not_logged": 22
-    }
+    },
+    "temata": [
+      "hájené zaměstnání",
+      "integrace postižených osob",
+      "lékařský posudek",
+      "podpora v nezaměstnanosti",
+      "poptávka po zaměstnání",
+      "zdravotně postižený člověk",
+      "zdravotně postižený pracovník"
+    ]
   },
   {
     "id": 66882,
@@ -7433,7 +9962,18 @@
       "abstain": 31,
       "absent": 23,
       "not_logged": 34
-    }
+    },
+    "temata": [
+      "činnost orgánů",
+      "činnost základních institucí",
+      "důvěrná informace",
+      "kontrolní moc",
+      "organizovaný zločin",
+      "parlamentní kontrola",
+      "pravomoc instituce",
+      "tajná služba",
+      "veřejná bezpečnost"
+    ]
   },
   {
     "id": 66883,
@@ -7446,7 +9986,16 @@
       "abstain": 4,
       "absent": 23,
       "not_logged": 56
-    }
+    },
+    "temata": [
+      "environmentální politika",
+      "ochrana životního prostředí",
+      "prevence environmentálních rizik",
+      "přibližování legislativy",
+      "sledování životního prostředí",
+      "správní dohled",
+      "vliv na životní prostředí"
+    ]
   },
   {
     "id": 66884,
@@ -7459,7 +10008,13 @@
       "abstain": 51,
       "absent": 23,
       "not_logged": 39
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66885,
@@ -7472,7 +10027,15 @@
       "abstain": 56,
       "absent": 23,
       "not_logged": 40
-    }
+    },
+    "temata": [
+      "Registry",
+      "obchodní informace",
+      "obchodní smlouva",
+      "smlouva",
+      "veřejné vlastnictví",
+      "zpřístupňování informací"
+    ]
   },
   {
     "id": 66886,
@@ -7485,7 +10048,14 @@
       "abstain": 63,
       "absent": 23,
       "not_logged": 23
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "koordinace financování",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66887,
@@ -7498,7 +10068,13 @@
       "abstain": 89,
       "absent": 23,
       "not_logged": 22
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66888,
@@ -7511,7 +10087,13 @@
       "abstain": 48,
       "absent": 24,
       "not_logged": 23
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66889,
@@ -7524,7 +10106,13 @@
       "abstain": 83,
       "absent": 24,
       "not_logged": 20
-    }
+    },
+    "temata": [
+      "finanční kontrola",
+      "finanční řízení",
+      "účetnictví veřejných institucí",
+      "veřejné finance"
+    ]
   },
   {
     "id": 66890,
@@ -7537,7 +10125,8 @@
       "abstain": 80,
       "absent": 23,
       "not_logged": 24
-    }
+    },
+    "temata": []
   },
   {
     "id": 66891,
@@ -7550,7 +10139,8 @@
       "abstain": 30,
       "absent": 27,
       "not_logged": 50
-    }
+    },
+    "temata": []
   },
   {
     "id": 66892,
@@ -7563,7 +10153,8 @@
       "abstain": 19,
       "absent": 27,
       "not_logged": 46
-    }
+    },
+    "temata": []
   },
   {
     "id": 66893,
@@ -7576,7 +10167,8 @@
       "abstain": 3,
       "absent": 14,
       "not_logged": 47
-    }
+    },
+    "temata": []
   },
   {
     "id": 66894,
@@ -7589,7 +10181,8 @@
       "abstain": 7,
       "absent": 19,
       "not_logged": 63
-    }
+    },
+    "temata": []
   },
   {
     "id": 66895,
@@ -7602,7 +10195,8 @@
       "abstain": 7,
       "absent": 16,
       "not_logged": 50
-    }
+    },
+    "temata": []
   },
   {
     "id": 66896,
@@ -7615,7 +10209,8 @@
       "abstain": 8,
       "absent": 16,
       "not_logged": 51
-    }
+    },
+    "temata": []
   },
   {
     "id": 66897,
@@ -7628,7 +10223,13 @@
       "abstain": 8,
       "absent": 21,
       "not_logged": 83
-    }
+    },
+    "temata": [
+      "energetická politika",
+      "regulace trhu",
+      "účetní uzávěrka",
+      "zpráva o činnosti"
+    ]
   },
   {
     "id": 66898,
@@ -7641,7 +10242,8 @@
       "abstain": 27,
       "absent": 62,
       "not_logged": 59
-    }
+    },
+    "temata": []
   },
   {
     "id": 66899,
@@ -7654,7 +10256,13 @@
       "abstain": 25,
       "absent": 62,
       "not_logged": 51
-    }
+    },
+    "temata": [
+      "činnost základních institucí",
+      "správní kontrola",
+      "technologie",
+      "zpráva o činnosti"
+    ]
   },
   {
     "id": 66900,
@@ -7667,7 +10275,13 @@
       "abstain": 22,
       "absent": 62,
       "not_logged": 51
-    }
+    },
+    "temata": [
+      "činnost základních institucí",
+      "správní kontrola",
+      "technologie",
+      "zpráva o činnosti"
+    ]
   },
   {
     "id": 66901,
@@ -7680,7 +10294,18 @@
       "abstain": 26,
       "absent": 62,
       "not_logged": 50
-    }
+    },
+    "temata": [
+      "Česká republika",
+      "látky znečišťující stratosféru",
+      "mezinárodní úmluva",
+      "opatření na kontrolu znečištění",
+      "ozon",
+      "prevence znečištění",
+      "znečišťování atmosféry",
+      "znečišťování stratosféry",
+      "znečišťování životního prostředí"
+    ]
   },
   {
     "id": 66902,
@@ -7693,7 +10318,12 @@
       "abstain": 22,
       "absent": 62,
       "not_logged": 51
-    }
+    },
+    "temata": [
+      "Česká republika",
+      "Japonsko",
+      "sociální zabezpečení"
+    ]
   },
   {
     "id": 66903,
@@ -7706,7 +10336,14 @@
       "abstain": 22,
       "absent": 62,
       "not_logged": 50
-    }
+    },
+    "temata": [
+      "Mezinárodní organizace práce",
+      "námořní doprava",
+      "pracovní podmínky",
+      "ratifikace dohody",
+      "rybářský průmysl"
+    ]
   },
   {
     "id": 66904,
@@ -7719,7 +10356,13 @@
       "abstain": 19,
       "absent": 62,
       "not_logged": 47
-    }
+    },
+    "temata": [
+      "environmentální politika",
+      "ochrana živočišné říše",
+      "ptáci",
+      "spolupráce v oblasti životního prostředí"
+    ]
   },
   {
     "id": 66905,
@@ -7732,7 +10375,18 @@
       "abstain": 29,
       "absent": 62,
       "not_logged": 46
-    }
+    },
+    "temata": [
+      "Česká republika",
+      "látky znečišťující stratosféru",
+      "mezinárodní úmluva",
+      "opatření na kontrolu znečištění",
+      "ozon",
+      "prevence znečištění",
+      "znečišťování atmosféry",
+      "znečišťování stratosféry",
+      "znečišťování životního prostředí"
+    ]
   },
   {
     "id": 66906,
@@ -7745,7 +10399,18 @@
       "abstain": 28,
       "absent": 61,
       "not_logged": 47
-    }
+    },
+    "temata": [
+      "Česká republika",
+      "látky znečišťující stratosféru",
+      "mezinárodní úmluva",
+      "opatření na kontrolu znečištění",
+      "ozon",
+      "prevence znečištění",
+      "znečišťování atmosféry",
+      "znečišťování stratosféry",
+      "znečišťování životního prostředí"
+    ]
   },
   {
     "id": 66907,
@@ -7758,7 +10423,13 @@
       "abstain": 38,
       "absent": 61,
       "not_logged": 46
-    }
+    },
+    "temata": [
+      "Česká republika",
+      "Indonésie",
+      "letecká doprava",
+      "mezinárodní doprava"
+    ]
   },
   {
     "id": 66908,
@@ -7771,7 +10442,13 @@
       "abstain": 31,
       "absent": 61,
       "not_logged": 45
-    }
+    },
+    "temata": [
+      "Česká republika",
+      "letecká doprava",
+      "mezinárodní doprava",
+      "Tádžikistán"
+    ]
   },
   {
     "id": 66909,
@@ -7784,7 +10461,13 @@
       "abstain": 31,
       "absent": 61,
       "not_logged": 44
-    }
+    },
+    "temata": [
+      "Česká republika",
+      "letecká doprava",
+      "mezinárodní doprava",
+      "Tádžikistán"
+    ]
   },
   {
     "id": 66910,
@@ -7797,7 +10480,13 @@
       "abstain": 30,
       "absent": 61,
       "not_logged": 44
-    }
+    },
+    "temata": [
+      "Česká republika",
+      "letecká doprava",
+      "mezinárodní doprava",
+      "Tádžikistán"
+    ]
   },
   {
     "id": 66911,
@@ -7810,7 +10499,15 @@
       "abstain": 29,
       "absent": 60,
       "not_logged": 41
-    }
+    },
+    "temata": [
+      "Česká republika",
+      "dopování",
+      "mezinárodní úmluva",
+      "povzbuzující prostředek",
+      "sport",
+      "tělesná výchova"
+    ]
   },
   {
     "id": 66912,
@@ -7823,7 +10520,18 @@
       "abstain": 28,
       "absent": 59,
       "not_logged": 40
-    }
+    },
+    "temata": [
+      "Aruba",
+      "Česká republika",
+      "daňová úmluva",
+      "daň z příjmů",
+      "mezinárodní dohoda",
+      "Nizozemské Antily",
+      "Nizozemsko",
+      "úspory",
+      "vypovědění smlouvy"
+    ]
   },
   {
     "id": 66913,
@@ -7836,7 +10544,18 @@
       "abstain": 29,
       "absent": 59,
       "not_logged": 39
-    }
+    },
+    "temata": [
+      "Aruba",
+      "Česká republika",
+      "daňová úmluva",
+      "daň z příjmů",
+      "mezinárodní dohoda",
+      "Nizozemské Antily",
+      "Nizozemsko",
+      "úspory",
+      "vypovědění smlouvy"
+    ]
   },
   {
     "id": 66914,
@@ -7849,7 +10568,13 @@
       "abstain": 30,
       "absent": 59,
       "not_logged": 38
-    }
+    },
+    "temata": [
+      "Česká republika",
+      "Indonésie",
+      "letecká doprava",
+      "mezinárodní doprava"
+    ]
   },
   {
     "id": 66915,
@@ -7862,7 +10587,16 @@
       "abstain": 30,
       "absent": 59,
       "not_logged": 38
-    }
+    },
+    "temata": [
+      "Britské Panenské ostrovy",
+      "Česká republika",
+      "daňová úmluva",
+      "daň z příjmů",
+      "mezinárodní dohoda",
+      "úspory",
+      "vypovědění smlouvy"
+    ]
   },
   {
     "id": 66916,
@@ -7875,7 +10609,16 @@
       "abstain": 29,
       "absent": 58,
       "not_logged": 37
-    }
+    },
+    "temata": [
+      "Česká republika",
+      "daňová úmluva",
+      "daň z příjmů",
+      "Kajmanské ostrovy",
+      "mezinárodní dohoda",
+      "úspory",
+      "vypovědění smlouvy"
+    ]
   },
   {
     "id": 66917,
@@ -7888,7 +10631,16 @@
       "abstain": 32,
       "absent": 58,
       "not_logged": 36
-    }
+    },
+    "temata": [
+      "Česká republika",
+      "daňová úmluva",
+      "daň z příjmů",
+      "mezinárodní dohoda",
+      "Montserrat",
+      "úspory",
+      "vypovědění smlouvy"
+    ]
   },
   {
     "id": 66918,
@@ -7901,7 +10653,16 @@
       "abstain": 36,
       "absent": 58,
       "not_logged": 36
-    }
+    },
+    "temata": [
+      "Česká republika",
+      "daňová úmluva",
+      "daň z příjmů",
+      "mezinárodní dohoda",
+      "ostrov Man",
+      "úspory",
+      "vypovědění smlouvy"
+    ]
   },
   {
     "id": 66919,
@@ -7914,7 +10675,16 @@
       "abstain": 33,
       "absent": 58,
       "not_logged": 36
-    }
+    },
+    "temata": [
+      "Česká republika",
+      "daňová úmluva",
+      "daň z příjmů",
+      "mezinárodní dohoda",
+      "Ostrovy Turks a Caicos",
+      "úspory",
+      "vypovědění smlouvy"
+    ]
   },
   {
     "id": 66920,
@@ -7927,7 +10697,14 @@
       "abstain": 31,
       "absent": 58,
       "not_logged": 38
-    }
+    },
+    "temata": [
+      "Česká republika",
+      "dvoustranná dohoda",
+      "Slovensko",
+      "vojenské letectvo",
+      "vzdušný prostor"
+    ]
   },
   {
     "id": 66921,
@@ -7940,7 +10717,15 @@
       "abstain": 36,
       "absent": 58,
       "not_logged": 37
-    }
+    },
+    "temata": [
+      "Česká republika",
+      "dopování",
+      "mezinárodní úmluva",
+      "povzbuzující prostředek",
+      "sport",
+      "tělesná výchova"
+    ]
   },
   {
     "id": 66922,
@@ -7953,7 +10738,17 @@
       "abstain": 38,
       "absent": 57,
       "not_logged": 38
-    }
+    },
+    "temata": [
+      "Česká republika",
+      "Ekvádor",
+      "Evropská unie",
+      "Kolumbie",
+      "mezinárodní obchod",
+      "obchodní dohoda",
+      "obchodní vztahy",
+      "Peru"
+    ]
   },
   {
     "id": 66923,
@@ -7966,7 +10761,12 @@
       "abstain": 47,
       "absent": 57,
       "not_logged": 39
-    }
+    },
+    "temata": [
+      "mezinárodní charta",
+      "odvětví energetiky",
+      "vypovědění smlouvy"
+    ]
   },
   {
     "id": 66924,
@@ -7979,7 +10779,8 @@
       "abstain": 13,
       "absent": 60,
       "not_logged": 74
-    }
+    },
+    "temata": []
   },
   {
     "id": 66925,
@@ -7992,7 +10793,12 @@
       "abstain": 16,
       "absent": 51,
       "not_logged": 37
-    }
+    },
+    "temata": [
+      "poprodejní servis",
+      "prostředky zdravotnické techniky",
+      "zdravotní péče"
+    ]
   },
   {
     "id": 66926,
@@ -8005,7 +10811,12 @@
       "abstain": 14,
       "absent": 51,
       "not_logged": 34
-    }
+    },
+    "temata": [
+      "poprodejní servis",
+      "prostředky zdravotnické techniky",
+      "zdravotní péče"
+    ]
   },
   {
     "id": 66927,
@@ -8018,7 +10829,12 @@
       "abstain": 27,
       "absent": 51,
       "not_logged": 33
-    }
+    },
+    "temata": [
+      "poprodejní servis",
+      "prostředky zdravotnické techniky",
+      "zdravotní péče"
+    ]
   },
   {
     "id": 66928,
@@ -8031,7 +10847,12 @@
       "abstain": 16,
       "absent": 51,
       "not_logged": 34
-    }
+    },
+    "temata": [
+      "poprodejní servis",
+      "prostředky zdravotnické techniky",
+      "zdravotní péče"
+    ]
   },
   {
     "id": 66929,
@@ -8044,7 +10865,12 @@
       "abstain": 12,
       "absent": 51,
       "not_logged": 16
-    }
+    },
+    "temata": [
+      "poprodejní servis",
+      "prostředky zdravotnické techniky",
+      "zdravotní péče"
+    ]
   },
   {
     "id": 66930,
@@ -8057,7 +10883,12 @@
       "abstain": 32,
       "absent": 51,
       "not_logged": 16
-    }
+    },
+    "temata": [
+      "poprodejní servis",
+      "prostředky zdravotnické techniky",
+      "zdravotní péče"
+    ]
   },
   {
     "id": 66931,
@@ -8070,7 +10901,12 @@
       "abstain": 5,
       "absent": 51,
       "not_logged": 16
-    }
+    },
+    "temata": [
+      "poprodejní servis",
+      "prostředky zdravotnické techniky",
+      "zdravotní péče"
+    ]
   },
   {
     "id": 66932,
@@ -8083,7 +10919,12 @@
       "abstain": 9,
       "absent": 51,
       "not_logged": 16
-    }
+    },
+    "temata": [
+      "poprodejní servis",
+      "prostředky zdravotnické techniky",
+      "zdravotní péče"
+    ]
   },
   {
     "id": 66933,
@@ -8096,7 +10937,12 @@
       "abstain": 6,
       "absent": 51,
       "not_logged": 16
-    }
+    },
+    "temata": [
+      "poprodejní servis",
+      "prostředky zdravotnické techniky",
+      "zdravotní péče"
+    ]
   },
   {
     "id": 66934,
@@ -8109,7 +10955,12 @@
       "abstain": 29,
       "absent": 51,
       "not_logged": 28
-    }
+    },
+    "temata": [
+      "Česká republika",
+      "Írán",
+      "jaderná elektrárna"
+    ]
   },
   {
     "id": 66935,
@@ -8122,7 +10973,12 @@
       "abstain": 23,
       "absent": 51,
       "not_logged": 24
-    }
+    },
+    "temata": [
+      "Česká republika",
+      "Írán",
+      "jaderná elektrárna"
+    ]
   },
   {
     "id": 66936,
@@ -8135,7 +10991,12 @@
       "abstain": 26,
       "absent": 51,
       "not_logged": 19
-    }
+    },
+    "temata": [
+      "Česká republika",
+      "Írán",
+      "jaderná elektrárna"
+    ]
   },
   {
     "id": 66937,
@@ -8148,7 +11009,16 @@
       "abstain": 20,
       "absent": 51,
       "not_logged": 16
-    }
+    },
+    "temata": [
+      "bankovnictví",
+      "bankovní systém",
+      "elektronické bankovnictví",
+      "elektronické peníze",
+      "finanční transakce",
+      "jednotný trh",
+      "platba"
+    ]
   },
   {
     "id": 66938,
@@ -8161,7 +11031,16 @@
       "abstain": 18,
       "absent": 51,
       "not_logged": 17
-    }
+    },
+    "temata": [
+      "bankovnictví",
+      "bankovní systém",
+      "elektronické bankovnictví",
+      "elektronické peníze",
+      "finanční transakce",
+      "jednotný trh",
+      "platba"
+    ]
   },
   {
     "id": 66939,
@@ -8174,7 +11053,16 @@
       "abstain": 18,
       "absent": 51,
       "not_logged": 17
-    }
+    },
+    "temata": [
+      "bankovnictví",
+      "bankovní systém",
+      "elektronické bankovnictví",
+      "elektronické peníze",
+      "finanční transakce",
+      "jednotný trh",
+      "platba"
+    ]
   },
   {
     "id": 66940,
@@ -8187,7 +11075,16 @@
       "abstain": 29,
       "absent": 51,
       "not_logged": 17
-    }
+    },
+    "temata": [
+      "bankovnictví",
+      "bankovní systém",
+      "elektronické bankovnictví",
+      "elektronické peníze",
+      "finanční transakce",
+      "jednotný trh",
+      "platba"
+    ]
   },
   {
     "id": 66941,
@@ -8200,7 +11097,16 @@
       "abstain": 32,
       "absent": 51,
       "not_logged": 17
-    }
+    },
+    "temata": [
+      "bankovnictví",
+      "bankovní systém",
+      "elektronické bankovnictví",
+      "elektronické peníze",
+      "finanční transakce",
+      "jednotný trh",
+      "platba"
+    ]
   },
   {
     "id": 66942,
@@ -8213,7 +11119,16 @@
       "abstain": 62,
       "absent": 51,
       "not_logged": 17
-    }
+    },
+    "temata": [
+      "bankovnictví",
+      "bankovní systém",
+      "elektronické bankovnictví",
+      "elektronické peníze",
+      "finanční transakce",
+      "jednotný trh",
+      "platba"
+    ]
   },
   {
     "id": 66943,
@@ -8226,7 +11141,16 @@
       "abstain": 20,
       "absent": 51,
       "not_logged": 17
-    }
+    },
+    "temata": [
+      "bankovnictví",
+      "bankovní systém",
+      "elektronické bankovnictví",
+      "elektronické peníze",
+      "finanční transakce",
+      "jednotný trh",
+      "platba"
+    ]
   },
   {
     "id": 66944,
@@ -8239,7 +11163,16 @@
       "abstain": 57,
       "absent": 51,
       "not_logged": 17
-    }
+    },
+    "temata": [
+      "bankovnictví",
+      "bankovní systém",
+      "elektronické bankovnictví",
+      "elektronické peníze",
+      "finanční transakce",
+      "jednotný trh",
+      "platba"
+    ]
   },
   {
     "id": 66945,
@@ -8252,7 +11185,16 @@
       "abstain": 52,
       "absent": 51,
       "not_logged": 17
-    }
+    },
+    "temata": [
+      "bankovnictví",
+      "bankovní systém",
+      "elektronické bankovnictví",
+      "elektronické peníze",
+      "finanční transakce",
+      "jednotný trh",
+      "platba"
+    ]
   },
   {
     "id": 66946,
@@ -8265,7 +11207,16 @@
       "abstain": 13,
       "absent": 51,
       "not_logged": 17
-    }
+    },
+    "temata": [
+      "bankovnictví",
+      "bankovní systém",
+      "elektronické bankovnictví",
+      "elektronické peníze",
+      "finanční transakce",
+      "jednotný trh",
+      "platba"
+    ]
   },
   {
     "id": 66947,
@@ -8278,7 +11229,16 @@
       "abstain": 26,
       "absent": 51,
       "not_logged": 18
-    }
+    },
+    "temata": [
+      "bankovnictví",
+      "bankovní systém",
+      "elektronické bankovnictví",
+      "elektronické peníze",
+      "finanční transakce",
+      "jednotný trh",
+      "platba"
+    ]
   },
   {
     "id": 66948,
@@ -8291,7 +11251,16 @@
       "abstain": 29,
       "absent": 51,
       "not_logged": 17
-    }
+    },
+    "temata": [
+      "bankovnictví",
+      "bankovní systém",
+      "elektronické bankovnictví",
+      "elektronické peníze",
+      "finanční transakce",
+      "jednotný trh",
+      "platba"
+    ]
   },
   {
     "id": 66949,
@@ -8304,7 +11273,16 @@
       "abstain": 24,
       "absent": 51,
       "not_logged": 16
-    }
+    },
+    "temata": [
+      "bankovnictví",
+      "bankovní systém",
+      "elektronické bankovnictví",
+      "elektronické peníze",
+      "finanční transakce",
+      "jednotný trh",
+      "platba"
+    ]
   },
   {
     "id": 66950,
@@ -8317,7 +11295,16 @@
       "abstain": 25,
       "absent": 51,
       "not_logged": 15
-    }
+    },
+    "temata": [
+      "bankovnictví",
+      "bankovní systém",
+      "elektronické bankovnictví",
+      "elektronické peníze",
+      "finanční transakce",
+      "jednotný trh",
+      "platba"
+    ]
   },
   {
     "id": 66951,
@@ -8330,7 +11317,13 @@
       "abstain": 23,
       "absent": 51,
       "not_logged": 15
-    }
+    },
+    "temata": [
+      "finanční transakce",
+      "platba",
+      "příjem – platba",
+      "směnný kurz"
+    ]
   },
   {
     "id": 66952,
@@ -8343,7 +11336,12 @@
       "abstain": 17,
       "absent": 51,
       "not_logged": 15
-    }
+    },
+    "temata": [
+      "poprodejní servis",
+      "prostředky zdravotnické techniky",
+      "zdravotní péče"
+    ]
   },
   {
     "id": 66953,
@@ -8356,7 +11354,12 @@
       "abstain": 15,
       "absent": 51,
       "not_logged": 15
-    }
+    },
+    "temata": [
+      "poprodejní servis",
+      "prostředky zdravotnické techniky",
+      "zdravotní péče"
+    ]
   },
   {
     "id": 66954,
@@ -8369,7 +11372,12 @@
       "abstain": 14,
       "absent": 51,
       "not_logged": 15
-    }
+    },
+    "temata": [
+      "poprodejní servis",
+      "prostředky zdravotnické techniky",
+      "zdravotní péče"
+    ]
   },
   {
     "id": 66955,
@@ -8382,7 +11390,12 @@
       "abstain": 16,
       "absent": 51,
       "not_logged": 14
-    }
+    },
+    "temata": [
+      "poprodejní servis",
+      "prostředky zdravotnické techniky",
+      "zdravotní péče"
+    ]
   },
   {
     "id": 66956,
@@ -8395,7 +11408,12 @@
       "abstain": 48,
       "absent": 51,
       "not_logged": 14
-    }
+    },
+    "temata": [
+      "poprodejní servis",
+      "prostředky zdravotnické techniky",
+      "zdravotní péče"
+    ]
   },
   {
     "id": 66957,
@@ -8408,7 +11426,12 @@
       "abstain": 14,
       "absent": 51,
       "not_logged": 13
-    }
+    },
+    "temata": [
+      "poprodejní servis",
+      "prostředky zdravotnické techniky",
+      "zdravotní péče"
+    ]
   },
   {
     "id": 66958,
@@ -8421,7 +11444,14 @@
       "abstain": 23,
       "absent": 51,
       "not_logged": 13
-    }
+    },
+    "temata": [
+      "finanční pomoc",
+      "regionální rozvoj",
+      "rozpočtová pravidla",
+      "státní podpora",
+      "státní rozpočet"
+    ]
   },
   {
     "id": 66959,
@@ -8434,7 +11464,12 @@
       "abstain": 31,
       "absent": 51,
       "not_logged": 13
-    }
+    },
+    "temata": [
+      "poprodejní servis",
+      "prostředky zdravotnické techniky",
+      "zdravotní péče"
+    ]
   },
   {
     "id": 66960,
@@ -8447,7 +11482,12 @@
       "abstain": 82,
       "absent": 51,
       "not_logged": 13
-    }
+    },
+    "temata": [
+      "poprodejní servis",
+      "prostředky zdravotnické techniky",
+      "zdravotní péče"
+    ]
   },
   {
     "id": 66961,
@@ -8460,7 +11500,12 @@
       "abstain": 26,
       "absent": 51,
       "not_logged": 14
-    }
+    },
+    "temata": [
+      "poprodejní servis",
+      "prostředky zdravotnické techniky",
+      "zdravotní péče"
+    ]
   },
   {
     "id": 66962,
@@ -8473,7 +11518,12 @@
       "abstain": 50,
       "absent": 51,
       "not_logged": 14
-    }
+    },
+    "temata": [
+      "poprodejní servis",
+      "prostředky zdravotnické techniky",
+      "zdravotní péče"
+    ]
   },
   {
     "id": 66963,
@@ -8486,7 +11536,12 @@
       "abstain": 48,
       "absent": 51,
       "not_logged": 13
-    }
+    },
+    "temata": [
+      "poprodejní servis",
+      "prostředky zdravotnické techniky",
+      "zdravotní péče"
+    ]
   },
   {
     "id": 66964,
@@ -8499,7 +11554,12 @@
       "abstain": 15,
       "absent": 50,
       "not_logged": 17
-    }
+    },
+    "temata": [
+      "poprodejní servis",
+      "prostředky zdravotnické techniky",
+      "zdravotní péče"
+    ]
   },
   {
     "id": 66965,
@@ -8512,7 +11572,12 @@
       "abstain": 19,
       "absent": 52,
       "not_logged": 27
-    }
+    },
+    "temata": [
+      "poprodejní servis",
+      "prostředky zdravotnické techniky",
+      "zdravotní péče"
+    ]
   },
   {
     "id": 66966,
@@ -8525,7 +11590,12 @@
       "abstain": 16,
       "absent": 52,
       "not_logged": 26
-    }
+    },
+    "temata": [
+      "poprodejní servis",
+      "prostředky zdravotnické techniky",
+      "zdravotní péče"
+    ]
   },
   {
     "id": 66967,
@@ -8538,7 +11608,12 @@
       "abstain": 49,
       "absent": 52,
       "not_logged": 25
-    }
+    },
+    "temata": [
+      "poprodejní servis",
+      "prostředky zdravotnické techniky",
+      "zdravotní péče"
+    ]
   },
   {
     "id": 66968,
@@ -8551,7 +11626,12 @@
       "abstain": 61,
       "absent": 52,
       "not_logged": 25
-    }
+    },
+    "temata": [
+      "poprodejní servis",
+      "prostředky zdravotnické techniky",
+      "zdravotní péče"
+    ]
   },
   {
     "id": 66969,
@@ -8564,7 +11644,12 @@
       "abstain": 25,
       "absent": 53,
       "not_logged": 23
-    }
+    },
+    "temata": [
+      "daň",
+      "pivo",
+      "spotřební daň"
+    ]
   },
   {
     "id": 66970,
@@ -8577,7 +11662,12 @@
       "abstain": 32,
       "absent": 54,
       "not_logged": 36
-    }
+    },
+    "temata": [
+      "poprodejní servis",
+      "prostředky zdravotnické techniky",
+      "zdravotní péče"
+    ]
   },
   {
     "id": 66971,
@@ -8590,7 +11680,12 @@
       "abstain": 27,
       "absent": 61,
       "not_logged": 58
-    }
+    },
+    "temata": [
+      "poprodejní servis",
+      "prostředky zdravotnické techniky",
+      "zdravotní péče"
+    ]
   },
   {
     "id": 66972,
@@ -8603,7 +11698,12 @@
       "abstain": 73,
       "absent": 61,
       "not_logged": 57
-    }
+    },
+    "temata": [
+      "poprodejní servis",
+      "prostředky zdravotnické techniky",
+      "zdravotní péče"
+    ]
   },
   {
     "id": 66973,
@@ -8616,7 +11716,12 @@
       "abstain": 11,
       "absent": 61,
       "not_logged": 56
-    }
+    },
+    "temata": [
+      "poprodejní servis",
+      "prostředky zdravotnické techniky",
+      "zdravotní péče"
+    ]
   },
   {
     "id": 66974,
@@ -8629,7 +11734,12 @@
       "abstain": 42,
       "absent": 61,
       "not_logged": 56
-    }
+    },
+    "temata": [
+      "poprodejní servis",
+      "prostředky zdravotnické techniky",
+      "zdravotní péče"
+    ]
   },
   {
     "id": 66975,
@@ -8642,7 +11752,12 @@
       "abstain": 28,
       "absent": 61,
       "not_logged": 56
-    }
+    },
+    "temata": [
+      "poprodejní servis",
+      "prostředky zdravotnické techniky",
+      "zdravotní péče"
+    ]
   },
   {
     "id": 66976,
@@ -8655,7 +11770,13 @@
       "abstain": 21,
       "absent": 61,
       "not_logged": 58
-    }
+    },
+    "temata": [
+      "informační systém",
+      "profesní organizace",
+      "úřední list",
+      "zájmové subjekty zemědělského sektoru"
+    ]
   },
   {
     "id": 66977,
@@ -8668,7 +11789,8 @@
       "abstain": 16,
       "absent": 43,
       "not_logged": 29
-    }
+    },
+    "temata": []
   },
   {
     "id": 66978,
@@ -8681,7 +11803,8 @@
       "abstain": 57,
       "absent": 43,
       "not_logged": 25
-    }
+    },
+    "temata": []
   },
   {
     "id": 66979,
@@ -8694,7 +11817,8 @@
       "abstain": 56,
       "absent": 43,
       "not_logged": 25
-    }
+    },
+    "temata": []
   },
   {
     "id": 66980,
@@ -8707,7 +11831,8 @@
       "abstain": 54,
       "absent": 43,
       "not_logged": 24
-    }
+    },
+    "temata": []
   },
   {
     "id": 66981,
@@ -8720,7 +11845,8 @@
       "abstain": 65,
       "absent": 43,
       "not_logged": 18
-    }
+    },
+    "temata": []
   },
   {
     "id": 66982,
@@ -8733,7 +11859,8 @@
       "abstain": 3,
       "absent": 43,
       "not_logged": 31
-    }
+    },
+    "temata": []
   },
   {
     "id": 66983,
@@ -8746,7 +11873,8 @@
       "abstain": 116,
       "absent": 43,
       "not_logged": 28
-    }
+    },
+    "temata": []
   },
   {
     "id": 66984,
@@ -8759,7 +11887,8 @@
       "abstain": 8,
       "absent": 43,
       "not_logged": 27
-    }
+    },
+    "temata": []
   },
   {
     "id": 66985,
@@ -8772,7 +11901,8 @@
       "abstain": 12,
       "absent": 43,
       "not_logged": 27
-    }
+    },
+    "temata": []
   },
   {
     "id": 66986,
@@ -8785,7 +11915,8 @@
       "abstain": 5,
       "absent": 43,
       "not_logged": 26
-    }
+    },
+    "temata": []
   },
   {
     "id": 66987,
@@ -8798,7 +11929,8 @@
       "abstain": 5,
       "absent": 43,
       "not_logged": 25
-    }
+    },
+    "temata": []
   },
   {
     "id": 66988,
@@ -8811,7 +11943,8 @@
       "abstain": 48,
       "absent": 43,
       "not_logged": 25
-    }
+    },
+    "temata": []
   },
   {
     "id": 66989,
@@ -8824,7 +11957,8 @@
       "abstain": 10,
       "absent": 43,
       "not_logged": 25
-    }
+    },
+    "temata": []
   },
   {
     "id": 66990,
@@ -8837,7 +11971,8 @@
       "abstain": 31,
       "absent": 43,
       "not_logged": 25
-    }
+    },
+    "temata": []
   },
   {
     "id": 66991,
@@ -8850,7 +11985,8 @@
       "abstain": 10,
       "absent": 43,
       "not_logged": 25
-    }
+    },
+    "temata": []
   },
   {
     "id": 66992,
@@ -8863,7 +11999,8 @@
       "abstain": 5,
       "absent": 43,
       "not_logged": 25
-    }
+    },
+    "temata": []
   },
   {
     "id": 66993,
@@ -8876,7 +12013,15 @@
       "abstain": 14,
       "absent": 39,
       "not_logged": 28
-    }
+    },
+    "temata": [
+      "Česká republika",
+      "Evropská unie",
+      "hospodářská dohoda",
+      "Kanada",
+      "mezinárodní obchod",
+      "obchodní dohoda"
+    ]
   },
   {
     "id": 66994,
@@ -8889,7 +12034,15 @@
       "abstain": 10,
       "absent": 39,
       "not_logged": 29
-    }
+    },
+    "temata": [
+      "Česká republika",
+      "Evropská unie",
+      "hospodářská dohoda",
+      "Kanada",
+      "mezinárodní obchod",
+      "obchodní dohoda"
+    ]
   },
   {
     "id": 66995,
@@ -8902,7 +12055,13 @@
       "abstain": 41,
       "absent": 39,
       "not_logged": 28
-    }
+    },
+    "temata": [
+      "armáda",
+      "nadnárodní ozbrojené síly",
+      "vojenské cvičení",
+      "vojska v zahraničí"
+    ]
   },
   {
     "id": 66996,
@@ -8915,7 +12074,15 @@
       "abstain": 49,
       "absent": 39,
       "not_logged": 27
-    }
+    },
+    "temata": [
+      "Afghánistán",
+      "armáda",
+      "Bosna a Hercegovina",
+      "Kosovo",
+      "vojenská spolupráce",
+      "vojska v zahraničí"
+    ]
   },
   {
     "id": 66997,
@@ -8928,7 +12095,15 @@
       "abstain": 46,
       "absent": 39,
       "not_logged": 28
-    }
+    },
+    "temata": [
+      "armáda",
+      "NATO",
+      "profesionální armáda",
+      "vojenská spolupráce",
+      "vojenské cvičení",
+      "vojska v zahraničí"
+    ]
   },
   {
     "id": 66998,
@@ -8941,7 +12116,15 @@
       "abstain": 44,
       "absent": 39,
       "not_logged": 30
-    }
+    },
+    "temata": [
+      "armáda",
+      "NATO",
+      "profesionální armáda",
+      "vojenská spolupráce",
+      "vojenské cvičení",
+      "vojska v zahraničí"
+    ]
   },
   {
     "id": 66999,
@@ -8954,7 +12137,15 @@
       "abstain": 8,
       "absent": 40,
       "not_logged": 69
-    }
+    },
+    "temata": [
+      "armáda",
+      "NATO",
+      "profesionální armáda",
+      "vojenská spolupráce",
+      "vojenské cvičení",
+      "vojska v zahraničí"
+    ]
   },
   {
     "id": 67000,
@@ -8967,7 +12158,15 @@
       "abstain": 12,
       "absent": 40,
       "not_logged": 62
-    }
+    },
+    "temata": [
+      "armáda",
+      "NATO",
+      "profesionální armáda",
+      "vojenská spolupráce",
+      "vojenské cvičení",
+      "vojska v zahraničí"
+    ]
   },
   {
     "id": 67001,
@@ -8980,7 +12179,13 @@
       "abstain": 20,
       "absent": 39,
       "not_logged": 58
-    }
+    },
+    "temata": [
+      "armáda",
+      "nadnárodní ozbrojené síly",
+      "vojenské cvičení",
+      "vojska v zahraničí"
+    ]
   },
   {
     "id": 67002,
@@ -8993,7 +12198,15 @@
       "abstain": 26,
       "absent": 39,
       "not_logged": 57
-    }
+    },
+    "temata": [
+      "armáda",
+      "NATO",
+      "profesionální armáda",
+      "vojenská spolupráce",
+      "vojenské cvičení",
+      "vojska v zahraničí"
+    ]
   },
   {
     "id": 67003,
@@ -9006,7 +12219,15 @@
       "abstain": 17,
       "absent": 39,
       "not_logged": 53
-    }
+    },
+    "temata": [
+      "Afghánistán",
+      "armáda",
+      "Bosna a Hercegovina",
+      "Kosovo",
+      "vojenská spolupráce",
+      "vojska v zahraničí"
+    ]
   },
   {
     "id": 67004,
@@ -9019,7 +12240,8 @@
       "abstain": 20,
       "absent": 39,
       "not_logged": 52
-    }
+    },
+    "temata": []
   },
   {
     "id": 67005,
@@ -9032,7 +12254,8 @@
       "abstain": 0,
       "absent": 0,
       "not_logged": 0
-    }
+    },
+    "temata": []
   },
   {
     "id": 67006,
@@ -9045,7 +12268,8 @@
       "abstain": 0,
       "absent": 0,
       "not_logged": 0
-    }
+    },
+    "temata": []
   },
   {
     "id": 67007,
@@ -9058,7 +12282,8 @@
       "abstain": 0,
       "absent": 0,
       "not_logged": 0
-    }
+    },
+    "temata": []
   },
   {
     "id": 67008,
@@ -9071,7 +12296,8 @@
       "abstain": 0,
       "absent": 0,
       "not_logged": 0
-    }
+    },
+    "temata": []
   },
   {
     "id": 67009,
@@ -9084,7 +12310,8 @@
       "abstain": 0,
       "absent": 0,
       "not_logged": 0
-    }
+    },
+    "temata": []
   },
   {
     "id": 67010,
@@ -9097,7 +12324,8 @@
       "abstain": 0,
       "absent": 0,
       "not_logged": 0
-    }
+    },
+    "temata": []
   },
   {
     "id": 67011,
@@ -9110,7 +12338,8 @@
       "abstain": 0,
       "absent": 0,
       "not_logged": 0
-    }
+    },
+    "temata": []
   },
   {
     "id": 67012,
@@ -9123,7 +12352,8 @@
       "abstain": 0,
       "absent": 0,
       "not_logged": 0
-    }
+    },
+    "temata": []
   },
   {
     "id": 67013,
@@ -9136,7 +12366,8 @@
       "abstain": 0,
       "absent": 0,
       "not_logged": 0
-    }
+    },
+    "temata": []
   },
   {
     "id": 67014,
@@ -9149,7 +12380,8 @@
       "abstain": 0,
       "absent": 0,
       "not_logged": 0
-    }
+    },
+    "temata": []
   },
   {
     "id": 67015,
@@ -9162,7 +12394,8 @@
       "abstain": 0,
       "absent": 0,
       "not_logged": 0
-    }
+    },
+    "temata": []
   },
   {
     "id": 67016,
@@ -9175,7 +12408,8 @@
       "abstain": 0,
       "absent": 0,
       "not_logged": 0
-    }
+    },
+    "temata": []
   },
   {
     "id": 67017,
@@ -9188,6 +12422,7 @@
       "abstain": 0,
       "absent": 0,
       "not_logged": 0
-    }
+    },
+    "temata": []
   }
 ]

@@ -10,7 +10,8 @@
       "abstain": 16,
       "absent": 12,
       "not_logged": 17
-    }
+    },
+    "temata": []
   },
   {
     "id": 51841,
@@ -23,7 +24,8 @@
       "abstain": 24,
       "absent": 12,
       "not_logged": 16
-    }
+    },
+    "temata": []
   },
   {
     "id": 51842,
@@ -36,7 +38,8 @@
       "abstain": 32,
       "absent": 12,
       "not_logged": 16
-    }
+    },
+    "temata": []
   },
   {
     "id": 51843,
@@ -49,7 +52,8 @@
       "abstain": 28,
       "absent": 12,
       "not_logged": 15
-    }
+    },
+    "temata": []
   },
   {
     "id": 51844,
@@ -62,7 +66,8 @@
       "abstain": 56,
       "absent": 12,
       "not_logged": 22
-    }
+    },
+    "temata": []
   },
   {
     "id": 51845,
@@ -75,7 +80,8 @@
       "abstain": 70,
       "absent": 12,
       "not_logged": 19
-    }
+    },
+    "temata": []
   },
   {
     "id": 51846,
@@ -88,7 +94,8 @@
       "abstain": 57,
       "absent": 12,
       "not_logged": 23
-    }
+    },
+    "temata": []
   },
   {
     "id": 51847,
@@ -101,7 +108,8 @@
       "abstain": 34,
       "absent": 12,
       "not_logged": 19
-    }
+    },
+    "temata": []
   },
   {
     "id": 51848,
@@ -114,7 +122,8 @@
       "abstain": 96,
       "absent": 12,
       "not_logged": 17
-    }
+    },
+    "temata": []
   },
   {
     "id": 51849,
@@ -127,7 +136,8 @@
       "abstain": 13,
       "absent": 12,
       "not_logged": 17
-    }
+    },
+    "temata": []
   },
   {
     "id": 51850,
@@ -140,7 +150,23 @@
       "abstain": 4,
       "absent": 13,
       "not_logged": 84
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Obchod a služby",
+      "Spotřebitel",
+      "Mezinárodní styky",
+      "Národní hospodářství",
+      "Občan",
+      "Peněžnictví a pojišťovnictví",
+      "Státní správa a justice",
+      "banka",
+      "nákup na úvěr",
+      "ochrana spotřebitele",
+      "právo na informace",
+      "spotřební úvěr",
+      "úvěr"
+    ]
   },
   {
     "id": 51851,
@@ -153,7 +179,23 @@
       "abstain": 4,
       "absent": 13,
       "not_logged": 77
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Obchod a služby",
+      "Spotřebitel",
+      "Mezinárodní styky",
+      "Národní hospodářství",
+      "Občan",
+      "Peněžnictví a pojišťovnictví",
+      "Státní správa a justice",
+      "banka",
+      "nákup na úvěr",
+      "ochrana spotřebitele",
+      "právo na informace",
+      "spotřební úvěr",
+      "úvěr"
+    ]
   },
   {
     "id": 51852,
@@ -166,7 +208,18 @@
       "abstain": 25,
       "absent": 13,
       "not_logged": 70
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 51853,
@@ -179,7 +232,18 @@
       "abstain": 4,
       "absent": 13,
       "not_logged": 69
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 51854,
@@ -192,7 +256,22 @@
       "abstain": 11,
       "absent": 13,
       "not_logged": 68
-    }
+    },
+    "temata": [
+      "Bankovnictví",
+      "Evropská unie /EU/",
+      "Mezinárodní styky",
+      "Národní hospodářství",
+      "Peněžnictví a pojišťovnictví",
+      "Státní správa a justice",
+      "banka",
+      "bankovní vklad",
+      "družstevní banka",
+      "pojištění zákonné odpovědnosti",
+      "pojistné",
+      "pojistné plnění",
+      "úvěrová instituce"
+    ]
   },
   {
     "id": 51855,
@@ -205,7 +284,23 @@
       "abstain": 37,
       "absent": 13,
       "not_logged": 66
-    }
+    },
+    "temata": [
+      "Bankovnictví",
+      "Evropská unie /EU/",
+      "Finance",
+      "Mezinárodní styky",
+      "Národní hospodářství",
+      "Občan",
+      "Peněžnictví a pojišťovnictví",
+      "Pracovní síla",
+      "Státní správa a justice",
+      "ekonometrie",
+      "ekonomická analýza",
+      "finanční trh",
+      "kapitálový trh",
+      "úvěrové hodnocení"
+    ]
   },
   {
     "id": 51856,
@@ -218,7 +313,23 @@
       "abstain": 13,
       "absent": 13,
       "not_logged": 66
-    }
+    },
+    "temata": [
+      "Bankovnictví",
+      "Evropská unie /EU/",
+      "Finance",
+      "Mezinárodní styky",
+      "Národní hospodářství",
+      "Občan",
+      "Peněžnictví a pojišťovnictví",
+      "Pracovní síla",
+      "Státní správa a justice",
+      "ekonometrie",
+      "ekonomická analýza",
+      "finanční trh",
+      "kapitálový trh",
+      "úvěrové hodnocení"
+    ]
   },
   {
     "id": 51857,
@@ -231,7 +342,8 @@
       "abstain": 46,
       "absent": 13,
       "not_logged": 65
-    }
+    },
+    "temata": []
   },
   {
     "id": 51858,
@@ -244,7 +356,15 @@
       "abstain": 20,
       "absent": 13,
       "not_logged": 65
-    }
+    },
+    "temata": [
+      "Bankovnictví",
+      "Evropská unie /EU/",
+      "centrální banka",
+      "činnost orgánů",
+      "Evropská centrální banka",
+      "měnová politika"
+    ]
   },
   {
     "id": 51859,
@@ -257,7 +377,18 @@
       "abstain": 25,
       "absent": 13,
       "not_logged": 60
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 51860,
@@ -270,7 +401,18 @@
       "abstain": 22,
       "absent": 13,
       "not_logged": 61
-    }
+    },
+    "temata": [
+      "Zaměstnanost",
+      "Pracovní síla",
+      "boj proti nezaměstnanosti",
+      "hájené zaměstnání",
+      "mzda",
+      "naturální mzda",
+      "politika zaměstnanosti",
+      "zaměstnavatel",
+      "zdravotně postižený pracovník"
+    ]
   },
   {
     "id": 51861,
@@ -283,7 +425,18 @@
       "abstain": 29,
       "absent": 14,
       "not_logged": 62
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 51862,
@@ -296,7 +449,17 @@
       "abstain": 27,
       "absent": 14,
       "not_logged": 62
-    }
+    },
+    "temata": [
+      "Politika zahraniční",
+      "Potřebnost sociální",
+      "Pracovní síla",
+      "chudoba",
+      "sociální dávky",
+      "výživa",
+      "základní životní potřeby",
+      "životní minimum"
+    ]
   },
   {
     "id": 51863,
@@ -309,7 +472,18 @@
       "abstain": 51,
       "absent": 14,
       "not_logged": 61
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 51864,
@@ -322,7 +496,8 @@
       "abstain": 25,
       "absent": 25,
       "not_logged": 78
-    }
+    },
+    "temata": []
   },
   {
     "id": 51865,
@@ -335,7 +510,8 @@
       "abstain": 28,
       "absent": 25,
       "not_logged": 73
-    }
+    },
+    "temata": []
   },
   {
     "id": 51866,
@@ -348,7 +524,8 @@
       "abstain": 8,
       "absent": 25,
       "not_logged": 80
-    }
+    },
+    "temata": []
   },
   {
     "id": 51867,
@@ -361,7 +538,8 @@
       "abstain": 10,
       "absent": 25,
       "not_logged": 77
-    }
+    },
+    "temata": []
   },
   {
     "id": 51868,
@@ -374,7 +552,8 @@
       "abstain": 22,
       "absent": 25,
       "not_logged": 75
-    }
+    },
+    "temata": []
   },
   {
     "id": 51869,
@@ -387,7 +566,8 @@
       "abstain": 21,
       "absent": 25,
       "not_logged": 75
-    }
+    },
+    "temata": []
   },
   {
     "id": 51870,
@@ -400,7 +580,8 @@
       "abstain": 17,
       "absent": 25,
       "not_logged": 75
-    }
+    },
+    "temata": []
   },
   {
     "id": 51871,
@@ -413,7 +594,8 @@
       "abstain": 10,
       "absent": 25,
       "not_logged": 74
-    }
+    },
+    "temata": []
   },
   {
     "id": 51872,
@@ -426,7 +608,8 @@
       "abstain": 10,
       "absent": 25,
       "not_logged": 75
-    }
+    },
+    "temata": []
   },
   {
     "id": 51873,
@@ -439,7 +622,8 @@
       "abstain": 26,
       "absent": 25,
       "not_logged": 74
-    }
+    },
+    "temata": []
   },
   {
     "id": 51874,
@@ -452,7 +636,15 @@
       "abstain": 25,
       "absent": 25,
       "not_logged": 69
-    }
+    },
+    "temata": [
+      "pracovní podmínky",
+      "skončení pracovního poměru",
+      "veřejná hygiena",
+      "zdravotnické povolání",
+      "zdravotnické zařízení",
+      "zdravotní personál"
+    ]
   },
   {
     "id": 51875,
@@ -465,7 +657,15 @@
       "abstain": 38,
       "absent": 25,
       "not_logged": 70
-    }
+    },
+    "temata": [
+      "pracovní podmínky",
+      "skončení pracovního poměru",
+      "veřejná hygiena",
+      "zdravotnické povolání",
+      "zdravotnické zařízení",
+      "zdravotní personál"
+    ]
   },
   {
     "id": 51876,
@@ -478,7 +678,23 @@
       "abstain": 26,
       "absent": 25,
       "not_logged": 71
-    }
+    },
+    "temata": [
+      "Ekologie",
+      "Evropská unie /EU/",
+      "Informační služby",
+      "Mezinárodní styky",
+      "Národní hospodářství",
+      "Občan",
+      "Státní správa a justice",
+      "Zdravotnictví",
+      "Životní prostředí",
+      "letadlo",
+      "letecká doprava",
+      "obchodovatelné emisní povolení",
+      "skleníkový plyn",
+      "snižování plynných emisí"
+    ]
   },
   {
     "id": 51877,
@@ -491,7 +707,23 @@
       "abstain": 50,
       "absent": 25,
       "not_logged": 72
-    }
+    },
+    "temata": [
+      "Ekologie",
+      "Evropská unie /EU/",
+      "Informační služby",
+      "Mezinárodní styky",
+      "Národní hospodářství",
+      "Občan",
+      "Státní správa a justice",
+      "Zdravotnictví",
+      "Životní prostředí",
+      "letadlo",
+      "letecká doprava",
+      "obchodovatelné emisní povolení",
+      "skleníkový plyn",
+      "snižování plynných emisí"
+    ]
   },
   {
     "id": 51878,
@@ -504,7 +736,23 @@
       "abstain": 19,
       "absent": 25,
       "not_logged": 79
-    }
+    },
+    "temata": [
+      "Ekologie",
+      "Evropská unie /EU/",
+      "Informační služby",
+      "Mezinárodní styky",
+      "Národní hospodářství",
+      "Občan",
+      "Státní správa a justice",
+      "Zdravotnictví",
+      "Životní prostředí",
+      "letadlo",
+      "letecká doprava",
+      "obchodovatelné emisní povolení",
+      "skleníkový plyn",
+      "snižování plynných emisí"
+    ]
   },
   {
     "id": 51879,
@@ -517,7 +765,23 @@
       "abstain": 26,
       "absent": 25,
       "not_logged": 80
-    }
+    },
+    "temata": [
+      "Ekologie",
+      "Evropská unie /EU/",
+      "Informační služby",
+      "Mezinárodní styky",
+      "Národní hospodářství",
+      "Občan",
+      "Státní správa a justice",
+      "Zdravotnictví",
+      "Životní prostředí",
+      "letadlo",
+      "letecká doprava",
+      "obchodovatelné emisní povolení",
+      "skleníkový plyn",
+      "snižování plynných emisí"
+    ]
   },
   {
     "id": 51880,
@@ -530,7 +794,23 @@
       "abstain": 11,
       "absent": 25,
       "not_logged": 75
-    }
+    },
+    "temata": [
+      "Ekologie",
+      "Evropská unie /EU/",
+      "Informační služby",
+      "Mezinárodní styky",
+      "Národní hospodářství",
+      "Občan",
+      "Státní správa a justice",
+      "Zdravotnictví",
+      "Životní prostředí",
+      "letadlo",
+      "letecká doprava",
+      "obchodovatelné emisní povolení",
+      "skleníkový plyn",
+      "snižování plynných emisí"
+    ]
   },
   {
     "id": 51881,
@@ -543,7 +823,23 @@
       "abstain": 29,
       "absent": 25,
       "not_logged": 75
-    }
+    },
+    "temata": [
+      "Ekologie",
+      "Evropská unie /EU/",
+      "Informační služby",
+      "Mezinárodní styky",
+      "Národní hospodářství",
+      "Občan",
+      "Státní správa a justice",
+      "Zdravotnictví",
+      "Životní prostředí",
+      "letadlo",
+      "letecká doprava",
+      "obchodovatelné emisní povolení",
+      "skleníkový plyn",
+      "snižování plynných emisí"
+    ]
   },
   {
     "id": 51882,
@@ -556,7 +852,23 @@
       "abstain": 26,
       "absent": 25,
       "not_logged": 78
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Podnikání",
+      "Informační služby",
+      "Národní hospodářství",
+      "Občan",
+      "Obrana a bezpečnost",
+      "Státní správa a justice",
+      "Těžba a výroba",
+      "obchodní název",
+      "obchodní rejstřík",
+      "ochrana spotřebitele",
+      "podnikatel",
+      "správní formality",
+      "založení společnosti"
+    ]
   },
   {
     "id": 51883,
@@ -569,7 +881,23 @@
       "abstain": 21,
       "absent": 25,
       "not_logged": 76
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Podnikání",
+      "Informační služby",
+      "Národní hospodářství",
+      "Občan",
+      "Obrana a bezpečnost",
+      "Státní správa a justice",
+      "Těžba a výroba",
+      "obchodní název",
+      "obchodní rejstřík",
+      "ochrana spotřebitele",
+      "podnikatel",
+      "správní formality",
+      "založení společnosti"
+    ]
   },
   {
     "id": 51884,
@@ -582,7 +910,23 @@
       "abstain": 14,
       "absent": 25,
       "not_logged": 97
-    }
+    },
+    "temata": [
+      "Ekologie",
+      "Evropská unie /EU/",
+      "Informační služby",
+      "Mezinárodní styky",
+      "Národní hospodářství",
+      "Občan",
+      "Státní správa a justice",
+      "Zdravotnictví",
+      "Životní prostředí",
+      "letadlo",
+      "letecká doprava",
+      "obchodovatelné emisní povolení",
+      "skleníkový plyn",
+      "snižování plynných emisí"
+    ]
   },
   {
     "id": 51885,
@@ -595,7 +939,8 @@
       "abstain": 40,
       "absent": 25,
       "not_logged": 27
-    }
+    },
+    "temata": []
   },
   {
     "id": 51886,
@@ -608,7 +953,8 @@
       "abstain": 50,
       "absent": 25,
       "not_logged": 21
-    }
+    },
+    "temata": []
   },
   {
     "id": 51887,
@@ -621,7 +967,8 @@
       "abstain": 33,
       "absent": 25,
       "not_logged": 22
-    }
+    },
+    "temata": []
   },
   {
     "id": 51888,
@@ -634,7 +981,8 @@
       "abstain": 47,
       "absent": 25,
       "not_logged": 22
-    }
+    },
+    "temata": []
   },
   {
     "id": 51889,
@@ -647,7 +995,8 @@
       "abstain": 27,
       "absent": 25,
       "not_logged": 21
-    }
+    },
+    "temata": []
   },
   {
     "id": 51890,
@@ -660,7 +1009,8 @@
       "abstain": 25,
       "absent": 25,
       "not_logged": 22
-    }
+    },
+    "temata": []
   },
   {
     "id": 51891,
@@ -673,7 +1023,8 @@
       "abstain": 18,
       "absent": 25,
       "not_logged": 23
-    }
+    },
+    "temata": []
   },
   {
     "id": 51892,
@@ -686,7 +1037,8 @@
       "abstain": 33,
       "absent": 25,
       "not_logged": 23
-    }
+    },
+    "temata": []
   },
   {
     "id": 51893,
@@ -699,7 +1051,8 @@
       "abstain": 18,
       "absent": 25,
       "not_logged": 23
-    }
+    },
+    "temata": []
   },
   {
     "id": 51894,
@@ -712,7 +1065,8 @@
       "abstain": 21,
       "absent": 25,
       "not_logged": 22
-    }
+    },
+    "temata": []
   },
   {
     "id": 51895,
@@ -725,7 +1079,8 @@
       "abstain": 31,
       "absent": 25,
       "not_logged": 22
-    }
+    },
+    "temata": []
   },
   {
     "id": 51896,
@@ -738,7 +1093,8 @@
       "abstain": 57,
       "absent": 25,
       "not_logged": 22
-    }
+    },
+    "temata": []
   },
   {
     "id": 51897,
@@ -751,7 +1107,8 @@
       "abstain": 20,
       "absent": 25,
       "not_logged": 22
-    }
+    },
+    "temata": []
   },
   {
     "id": 51898,
@@ -764,7 +1121,8 @@
       "abstain": 56,
       "absent": 25,
       "not_logged": 22
-    }
+    },
+    "temata": []
   },
   {
     "id": 51899,
@@ -777,7 +1135,8 @@
       "abstain": 15,
       "absent": 25,
       "not_logged": 22
-    }
+    },
+    "temata": []
   },
   {
     "id": 51900,
@@ -790,7 +1149,8 @@
       "abstain": 10,
       "absent": 25,
       "not_logged": 22
-    }
+    },
+    "temata": []
   },
   {
     "id": 51901,
@@ -803,7 +1163,8 @@
       "abstain": 33,
       "absent": 25,
       "not_logged": 22
-    }
+    },
+    "temata": []
   },
   {
     "id": 51902,
@@ -816,7 +1177,8 @@
       "abstain": 54,
       "absent": 25,
       "not_logged": 24
-    }
+    },
+    "temata": []
   },
   {
     "id": 51903,
@@ -829,7 +1191,8 @@
       "abstain": 43,
       "absent": 25,
       "not_logged": 24
-    }
+    },
+    "temata": []
   },
   {
     "id": 51904,
@@ -842,7 +1205,8 @@
       "abstain": 57,
       "absent": 25,
       "not_logged": 23
-    }
+    },
+    "temata": []
   },
   {
     "id": 51905,
@@ -855,7 +1219,16 @@
       "abstain": 26,
       "absent": 25,
       "not_logged": 24
-    }
+    },
+    "temata": [
+      "Armáda",
+      "Česká republika",
+      "NATO",
+      "Spojené království",
+      "vojenská spolupráce",
+      "vojenské cvičení",
+      "vojenský výcvik"
+    ]
   },
   {
     "id": 51906,
@@ -868,7 +1241,21 @@
       "abstain": 12,
       "absent": 26,
       "not_logged": 30
-    }
+    },
+    "temata": [
+      "Daně - daň z příjmu",
+      "Národní hospodářství",
+      "Občan",
+      "Peněžnictví a pojišťovnictví",
+      "Pracovní síla",
+      "Státní správa a justice",
+      "daň z příjmů",
+      "emise cenných papírů",
+      "financování rozpočtu",
+      "převoditelný cenný papír",
+      "umořování veřejného dluhu",
+      "veřejný dluh"
+    ]
   },
   {
     "id": 51907,
@@ -881,7 +1268,8 @@
       "abstain": 11,
       "absent": 26,
       "not_logged": 47
-    }
+    },
+    "temata": []
   },
   {
     "id": 51908,
@@ -894,7 +1282,23 @@
       "abstain": 127,
       "absent": 26,
       "not_logged": 42
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Doprava a spoje",
+      "Informační služby",
+      "Mezinárodní styky",
+      "Národní hospodářství",
+      "Občan",
+      "Obrana a bezpečnost",
+      "Státní správa a justice",
+      "bezdrátová telekomunikace",
+      "frekvenční pásmo",
+      "rozhlasové vysílání",
+      "telefon",
+      "telekomunikace",
+      "televize"
+    ]
   },
   {
     "id": 51909,
@@ -907,7 +1311,23 @@
       "abstain": 6,
       "absent": 26,
       "not_logged": 41
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Doprava a spoje",
+      "Informační služby",
+      "Mezinárodní styky",
+      "Národní hospodářství",
+      "Občan",
+      "Obrana a bezpečnost",
+      "Státní správa a justice",
+      "bezdrátová telekomunikace",
+      "frekvenční pásmo",
+      "rozhlasové vysílání",
+      "telefon",
+      "telekomunikace",
+      "televize"
+    ]
   },
   {
     "id": 51910,
@@ -920,7 +1340,23 @@
       "abstain": 8,
       "absent": 26,
       "not_logged": 40
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Doprava a spoje",
+      "Informační služby",
+      "Mezinárodní styky",
+      "Národní hospodářství",
+      "Občan",
+      "Obrana a bezpečnost",
+      "Státní správa a justice",
+      "bezdrátová telekomunikace",
+      "frekvenční pásmo",
+      "rozhlasové vysílání",
+      "telefon",
+      "telekomunikace",
+      "televize"
+    ]
   },
   {
     "id": 51911,
@@ -933,7 +1369,23 @@
       "abstain": 9,
       "absent": 26,
       "not_logged": 38
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Doprava a spoje",
+      "Informační služby",
+      "Mezinárodní styky",
+      "Národní hospodářství",
+      "Občan",
+      "Obrana a bezpečnost",
+      "Státní správa a justice",
+      "bezdrátová telekomunikace",
+      "frekvenční pásmo",
+      "rozhlasové vysílání",
+      "telefon",
+      "telekomunikace",
+      "televize"
+    ]
   },
   {
     "id": 51912,
@@ -946,7 +1398,23 @@
       "abstain": 12,
       "absent": 26,
       "not_logged": 42
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Doprava a spoje",
+      "Informační služby",
+      "Mezinárodní styky",
+      "Národní hospodářství",
+      "Občan",
+      "Obrana a bezpečnost",
+      "Státní správa a justice",
+      "bezdrátová telekomunikace",
+      "frekvenční pásmo",
+      "rozhlasové vysílání",
+      "telefon",
+      "telekomunikace",
+      "televize"
+    ]
   },
   {
     "id": 51913,
@@ -959,7 +1427,15 @@
       "abstain": 7,
       "absent": 26,
       "not_logged": 39
-    }
+    },
+    "temata": [
+      "Organizace neziskové",
+      "Národní hospodářství",
+      "Občan",
+      "dobročinná organizace",
+      "nadace",
+      "zrušení společnosti"
+    ]
   },
   {
     "id": 51914,
@@ -972,7 +1448,14 @@
       "abstain": 3,
       "absent": 26,
       "not_logged": 90
-    }
+    },
+    "temata": [
+      "Ekologie",
+      "Moravskoslezský",
+      "průmyslový region",
+      "zdraví veřejnosti",
+      "znečišťování atmosféry"
+    ]
   },
   {
     "id": 51915,
@@ -985,7 +1468,24 @@
       "abstain": 8,
       "absent": 26,
       "not_logged": 86
-    }
+    },
+    "temata": [
+      "Doprava",
+      "Evropská unie /EU/",
+      "Funkcionáři Poslanecké sněmovny",
+      "Obchod a služby",
+      "Doprava a spoje",
+      "Mezinárodní styky",
+      "Národní hospodářství",
+      "Občan",
+      "Státní správa a justice",
+      "cestující veřejnost",
+      "dopravní infrastruktura",
+      "osobní doprava",
+      "silniční doprava",
+      "veřejná služba",
+      "železniční doprava"
+    ]
   },
   {
     "id": 51916,
@@ -998,7 +1498,24 @@
       "abstain": 10,
       "absent": 26,
       "not_logged": 86
-    }
+    },
+    "temata": [
+      "Doprava",
+      "Evropská unie /EU/",
+      "Funkcionáři Poslanecké sněmovny",
+      "Obchod a služby",
+      "Doprava a spoje",
+      "Mezinárodní styky",
+      "Národní hospodářství",
+      "Občan",
+      "Státní správa a justice",
+      "cestující veřejnost",
+      "dopravní infrastruktura",
+      "osobní doprava",
+      "silniční doprava",
+      "veřejná služba",
+      "železniční doprava"
+    ]
   },
   {
     "id": 51917,
@@ -1011,7 +1528,8 @@
       "abstain": 16,
       "absent": 13,
       "not_logged": 32
-    }
+    },
+    "temata": []
   },
   {
     "id": 51918,
@@ -1024,7 +1542,8 @@
       "abstain": 28,
       "absent": 13,
       "not_logged": 19
-    }
+    },
+    "temata": []
   },
   {
     "id": 51919,
@@ -1037,7 +1556,8 @@
       "abstain": 155,
       "absent": 13,
       "not_logged": 18
-    }
+    },
+    "temata": []
   },
   {
     "id": 51920,
@@ -1050,7 +1570,8 @@
       "abstain": 11,
       "absent": 13,
       "not_logged": 17
-    }
+    },
+    "temata": []
   },
   {
     "id": 51921,
@@ -1063,7 +1584,8 @@
       "abstain": 7,
       "absent": 13,
       "not_logged": 16
-    }
+    },
+    "temata": []
   },
   {
     "id": 51922,
@@ -1076,7 +1598,8 @@
       "abstain": 19,
       "absent": 13,
       "not_logged": 17
-    }
+    },
+    "temata": []
   },
   {
     "id": 51923,
@@ -1089,7 +1612,8 @@
       "abstain": 35,
       "absent": 13,
       "not_logged": 18
-    }
+    },
+    "temata": []
   },
   {
     "id": 51924,
@@ -1102,7 +1626,8 @@
       "abstain": 34,
       "absent": 13,
       "not_logged": 17
-    }
+    },
+    "temata": []
   },
   {
     "id": 51925,
@@ -1115,7 +1640,8 @@
       "abstain": 17,
       "absent": 13,
       "not_logged": 23
-    }
+    },
+    "temata": []
   },
   {
     "id": 51926,
@@ -1128,7 +1654,8 @@
       "abstain": 16,
       "absent": 13,
       "not_logged": 21
-    }
+    },
+    "temata": []
   },
   {
     "id": 51927,
@@ -1141,7 +1668,8 @@
       "abstain": 11,
       "absent": 13,
       "not_logged": 20
-    }
+    },
+    "temata": []
   },
   {
     "id": 51928,
@@ -1154,7 +1682,8 @@
       "abstain": 17,
       "absent": 13,
       "not_logged": 22
-    }
+    },
+    "temata": []
   },
   {
     "id": 51929,
@@ -1167,7 +1696,8 @@
       "abstain": 38,
       "absent": 13,
       "not_logged": 21
-    }
+    },
+    "temata": []
   },
   {
     "id": 51930,
@@ -1180,7 +1710,8 @@
       "abstain": 12,
       "absent": 13,
       "not_logged": 21
-    }
+    },
+    "temata": []
   },
   {
     "id": 51931,
@@ -1193,7 +1724,8 @@
       "abstain": 114,
       "absent": 13,
       "not_logged": 21
-    }
+    },
+    "temata": []
   },
   {
     "id": 51932,
@@ -1206,7 +1738,8 @@
       "abstain": 33,
       "absent": 13,
       "not_logged": 20
-    }
+    },
+    "temata": []
   },
   {
     "id": 51933,
@@ -1219,7 +1752,8 @@
       "abstain": 67,
       "absent": 13,
       "not_logged": 22
-    }
+    },
+    "temata": []
   },
   {
     "id": 51934,
@@ -1232,7 +1766,8 @@
       "abstain": 18,
       "absent": 13,
       "not_logged": 22
-    }
+    },
+    "temata": []
   },
   {
     "id": 51935,
@@ -1245,7 +1780,8 @@
       "abstain": 13,
       "absent": 13,
       "not_logged": 21
-    }
+    },
+    "temata": []
   },
   {
     "id": 51936,
@@ -1258,7 +1794,8 @@
       "abstain": 71,
       "absent": 13,
       "not_logged": 21
-    }
+    },
+    "temata": []
   },
   {
     "id": 51937,
@@ -1271,7 +1808,8 @@
       "abstain": 12,
       "absent": 13,
       "not_logged": 21
-    }
+    },
+    "temata": []
   },
   {
     "id": 51938,
@@ -1284,7 +1822,8 @@
       "abstain": 86,
       "absent": 13,
       "not_logged": 21
-    }
+    },
+    "temata": []
   },
   {
     "id": 51939,
@@ -1297,7 +1836,8 @@
       "abstain": 20,
       "absent": 13,
       "not_logged": 20
-    }
+    },
+    "temata": []
   },
   {
     "id": 51940,
@@ -1310,7 +1850,8 @@
       "abstain": 17,
       "absent": 13,
       "not_logged": 21
-    }
+    },
+    "temata": []
   },
   {
     "id": 51941,
@@ -1323,7 +1864,8 @@
       "abstain": 112,
       "absent": 13,
       "not_logged": 20
-    }
+    },
+    "temata": []
   },
   {
     "id": 51942,
@@ -1336,7 +1878,23 @@
       "abstain": 7,
       "absent": 13,
       "not_logged": 68
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Podnikání",
+      "Informační služby",
+      "Národní hospodářství",
+      "Občan",
+      "Obrana a bezpečnost",
+      "Státní správa a justice",
+      "Těžba a výroba",
+      "obchodní název",
+      "obchodní rejstřík",
+      "ochrana spotřebitele",
+      "podnikatel",
+      "správní formality",
+      "založení společnosti"
+    ]
   },
   {
     "id": 51943,
@@ -1349,7 +1907,18 @@
       "abstain": 49,
       "absent": 13,
       "not_logged": 39
-    }
+    },
+    "temata": [
+      "Majetek České republiky",
+      "Převody vlastnictví",
+      "Vyšší územní samosprávné celky (VÚSC)",
+      "Informační služby",
+      "Národní hospodářství",
+      "Státní správa a justice",
+      "Pardubický",
+      "převod vlastnictví",
+      "veřejný majetek"
+    ]
   },
   {
     "id": 51944,
@@ -1362,7 +1931,18 @@
       "abstain": 13,
       "absent": 13,
       "not_logged": 55
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 51945,
@@ -1375,7 +1955,18 @@
       "abstain": 20,
       "absent": 13,
       "not_logged": 46
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 51946,
@@ -1388,7 +1979,15 @@
       "abstain": 12,
       "absent": 13,
       "not_logged": 48
-    }
+    },
+    "temata": [
+      "Komunikace dopravní",
+      "Poplatky",
+      "derogace",
+      "elektronický dokument",
+      "mýto",
+      "silniční poplatek"
+    ]
   },
   {
     "id": 51947,
@@ -1401,7 +2000,18 @@
       "abstain": 63,
       "absent": 13,
       "not_logged": 54
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 51948,
@@ -1414,7 +2024,18 @@
       "abstain": 43,
       "absent": 13,
       "not_logged": 61
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 51949,
@@ -1427,7 +2048,18 @@
       "abstain": 8,
       "absent": 13,
       "not_logged": 61
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 51950,
@@ -1440,7 +2072,18 @@
       "abstain": 49,
       "absent": 13,
       "not_logged": 61
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 51951,
@@ -1453,7 +2096,8 @@
       "abstain": 11,
       "absent": 15,
       "not_logged": 35
-    }
+    },
+    "temata": []
   },
   {
     "id": 51952,
@@ -1466,7 +2110,8 @@
       "abstain": 16,
       "absent": 15,
       "not_logged": 17
-    }
+    },
+    "temata": []
   },
   {
     "id": 51953,
@@ -1479,7 +2124,8 @@
       "abstain": 32,
       "absent": 15,
       "not_logged": 16
-    }
+    },
+    "temata": []
   },
   {
     "id": 51954,
@@ -1492,7 +2138,8 @@
       "abstain": 97,
       "absent": 15,
       "not_logged": 16
-    }
+    },
+    "temata": []
   },
   {
     "id": 51955,
@@ -1505,7 +2152,8 @@
       "abstain": 29,
       "absent": 15,
       "not_logged": 16
-    }
+    },
+    "temata": []
   },
   {
     "id": 51956,
@@ -1518,7 +2166,8 @@
       "abstain": 35,
       "absent": 15,
       "not_logged": 16
-    }
+    },
+    "temata": []
   },
   {
     "id": 51957,
@@ -1531,7 +2180,8 @@
       "abstain": 22,
       "absent": 15,
       "not_logged": 15
-    }
+    },
+    "temata": []
   },
   {
     "id": 51958,
@@ -1544,7 +2194,8 @@
       "abstain": 107,
       "absent": 15,
       "not_logged": 16
-    }
+    },
+    "temata": []
   },
   {
     "id": 51959,
@@ -1557,7 +2208,8 @@
       "abstain": 105,
       "absent": 15,
       "not_logged": 16
-    }
+    },
+    "temata": []
   },
   {
     "id": 51960,
@@ -1570,7 +2222,8 @@
       "abstain": 20,
       "absent": 15,
       "not_logged": 23
-    }
+    },
+    "temata": []
   },
   {
     "id": 51961,
@@ -1583,7 +2236,8 @@
       "abstain": 14,
       "absent": 15,
       "not_logged": 18
-    }
+    },
+    "temata": []
   },
   {
     "id": 51962,
@@ -1596,7 +2250,8 @@
       "abstain": 16,
       "absent": 15,
       "not_logged": 18
-    }
+    },
+    "temata": []
   },
   {
     "id": 51963,
@@ -1609,7 +2264,18 @@
       "abstain": 5,
       "absent": 14,
       "not_logged": 9
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 51964,
@@ -1622,7 +2288,18 @@
       "abstain": 48,
       "absent": 14,
       "not_logged": 10
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 51965,
@@ -1635,7 +2312,18 @@
       "abstain": 36,
       "absent": 14,
       "not_logged": 10
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 51966,
@@ -1648,7 +2336,18 @@
       "abstain": 88,
       "absent": 14,
       "not_logged": 10
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 51967,
@@ -1661,7 +2360,18 @@
       "abstain": 101,
       "absent": 14,
       "not_logged": 10
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 51968,
@@ -1674,7 +2384,18 @@
       "abstain": 6,
       "absent": 14,
       "not_logged": 10
-    }
+    },
+    "temata": [
+      "Ekologie",
+      "Energetika",
+      "Národní hospodářství",
+      "Občan",
+      "Těžba a výroba",
+      "cena energie",
+      "cenová podpora",
+      "obnovitelná energie",
+      "obnovitelné zdroje"
+    ]
   },
   {
     "id": 51969,
@@ -1687,7 +2408,18 @@
       "abstain": 18,
       "absent": 14,
       "not_logged": 9
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 51970,
@@ -1700,7 +2432,18 @@
       "abstain": 27,
       "absent": 14,
       "not_logged": 10
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 51971,
@@ -1713,7 +2456,18 @@
       "abstain": 18,
       "absent": 14,
       "not_logged": 10
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 51972,
@@ -1726,7 +2480,18 @@
       "abstain": 54,
       "absent": 14,
       "not_logged": 10
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 51973,
@@ -1739,7 +2504,18 @@
       "abstain": 16,
       "absent": 14,
       "not_logged": 10
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 51974,
@@ -1752,7 +2528,18 @@
       "abstain": 17,
       "absent": 14,
       "not_logged": 9
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 51975,
@@ -1765,7 +2552,17 @@
       "abstain": 16,
       "absent": 14,
       "not_logged": 9
-    }
+    },
+    "temata": [
+      "Armáda",
+      "Obrana a bezpečnost",
+      "Pracovní síla",
+      "Státní správa a justice",
+      "armáda",
+      "osobní doprava",
+      "vojenské letectvo",
+      "vojenský letoun"
+    ]
   },
   {
     "id": 51976,
@@ -1778,7 +2575,24 @@
       "abstain": 32,
       "absent": 14,
       "not_logged": 9
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Hornictví",
+      "Informační služby",
+      "Mezinárodní styky",
+      "Národní hospodářství",
+      "Občan",
+      "Obrana a bezpečnost",
+      "Státní správa a justice",
+      "civilní ochrana",
+      "nebezpečná látka",
+      "předmět podnikání",
+      "přibližování legislativy",
+      "střelná zbraň a střelivo",
+      "veřejná bezpečnost",
+      "výbušnina"
+    ]
   },
   {
     "id": 51977,
@@ -1791,7 +2605,18 @@
       "abstain": 46,
       "absent": 14,
       "not_logged": 8
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 51978,
@@ -1804,7 +2629,25 @@
       "abstain": 27,
       "absent": 14,
       "not_logged": 8
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Zbraně",
+      "Informační služby",
+      "Mezinárodní styky",
+      "Národní hospodářství",
+      "Občan",
+      "Obrana a bezpečnost",
+      "kontrola dovozu",
+      "kontrola vývozu",
+      "nebezpečná látka",
+      "ohňostroj",
+      "osobní zbraň",
+      "řízení výroby",
+      "střelná zbraň a střelivo",
+      "úrazová prevence",
+      "výbušnina"
+    ]
   },
   {
     "id": 51979,
@@ -1817,7 +2660,18 @@
       "abstain": 31,
       "absent": 14,
       "not_logged": 12
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 51980,
@@ -1830,7 +2684,18 @@
       "abstain": 33,
       "absent": 14,
       "not_logged": 13
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 51981,
@@ -1843,7 +2708,18 @@
       "abstain": 16,
       "absent": 14,
       "not_logged": 13
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 51982,
@@ -1856,7 +2732,18 @@
       "abstain": 38,
       "absent": 14,
       "not_logged": 13
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 51983,
@@ -1869,7 +2756,18 @@
       "abstain": 39,
       "absent": 14,
       "not_logged": 13
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 51984,
@@ -1882,7 +2780,18 @@
       "abstain": 28,
       "absent": 14,
       "not_logged": 13
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 51985,
@@ -1895,7 +2804,18 @@
       "abstain": 39,
       "absent": 14,
       "not_logged": 13
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 51986,
@@ -1908,7 +2828,18 @@
       "abstain": 42,
       "absent": 14,
       "not_logged": 13
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 51987,
@@ -1921,7 +2852,18 @@
       "abstain": 37,
       "absent": 14,
       "not_logged": 13
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 51988,
@@ -1934,7 +2876,18 @@
       "abstain": 26,
       "absent": 14,
       "not_logged": 13
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 51989,
@@ -1947,7 +2900,18 @@
       "abstain": 46,
       "absent": 14,
       "not_logged": 13
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 51990,
@@ -1960,7 +2924,23 @@
       "abstain": 37,
       "absent": 14,
       "not_logged": 13
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Doprava a spoje",
+      "Informační služby",
+      "Mezinárodní styky",
+      "Národní hospodářství",
+      "Občan",
+      "Obrana a bezpečnost",
+      "Státní správa a justice",
+      "bezdrátová telekomunikace",
+      "frekvenční pásmo",
+      "rozhlasové vysílání",
+      "telefon",
+      "telekomunikace",
+      "televize"
+    ]
   },
   {
     "id": 51991,
@@ -1973,7 +2953,24 @@
       "abstain": 9,
       "absent": 14,
       "not_logged": 39
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Katastr",
+      "Přestupky",
+      "Vodohospodářství",
+      "Státní správa a justice",
+      "Těžba a výroba",
+      "Zdravotnictví",
+      "Životní prostředí",
+      "ochrana vod",
+      "odpadní voda",
+      "pitná voda",
+      "povodeň",
+      "voda",
+      "vodní zdroje",
+      "využití vody"
+    ]
   },
   {
     "id": 51992,
@@ -1986,7 +2983,24 @@
       "abstain": 90,
       "absent": 14,
       "not_logged": 31
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Katastr",
+      "Přestupky",
+      "Vodohospodářství",
+      "Státní správa a justice",
+      "Těžba a výroba",
+      "Zdravotnictví",
+      "Životní prostředí",
+      "ochrana vod",
+      "odpadní voda",
+      "pitná voda",
+      "povodeň",
+      "voda",
+      "vodní zdroje",
+      "využití vody"
+    ]
   },
   {
     "id": 51993,
@@ -1999,7 +3013,24 @@
       "abstain": 14,
       "absent": 14,
       "not_logged": 30
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Katastr",
+      "Přestupky",
+      "Vodohospodářství",
+      "Státní správa a justice",
+      "Těžba a výroba",
+      "Zdravotnictví",
+      "Životní prostředí",
+      "ochrana vod",
+      "odpadní voda",
+      "pitná voda",
+      "povodeň",
+      "voda",
+      "vodní zdroje",
+      "využití vody"
+    ]
   },
   {
     "id": 51994,
@@ -2012,7 +3043,24 @@
       "abstain": 13,
       "absent": 14,
       "not_logged": 30
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Katastr",
+      "Přestupky",
+      "Vodohospodářství",
+      "Státní správa a justice",
+      "Těžba a výroba",
+      "Zdravotnictví",
+      "Životní prostředí",
+      "ochrana vod",
+      "odpadní voda",
+      "pitná voda",
+      "povodeň",
+      "voda",
+      "vodní zdroje",
+      "využití vody"
+    ]
   },
   {
     "id": 51995,
@@ -2025,7 +3073,24 @@
       "abstain": 24,
       "absent": 14,
       "not_logged": 29
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Katastr",
+      "Přestupky",
+      "Vodohospodářství",
+      "Státní správa a justice",
+      "Těžba a výroba",
+      "Zdravotnictví",
+      "Životní prostředí",
+      "ochrana vod",
+      "odpadní voda",
+      "pitná voda",
+      "povodeň",
+      "voda",
+      "vodní zdroje",
+      "využití vody"
+    ]
   },
   {
     "id": 51996,
@@ -2038,7 +3103,24 @@
       "abstain": 46,
       "absent": 14,
       "not_logged": 34
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Katastr",
+      "Přestupky",
+      "Vodohospodářství",
+      "Státní správa a justice",
+      "Těžba a výroba",
+      "Zdravotnictví",
+      "Životní prostředí",
+      "ochrana vod",
+      "odpadní voda",
+      "pitná voda",
+      "povodeň",
+      "voda",
+      "vodní zdroje",
+      "využití vody"
+    ]
   },
   {
     "id": 51997,
@@ -2051,7 +3133,24 @@
       "abstain": 30,
       "absent": 14,
       "not_logged": 30
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Katastr",
+      "Přestupky",
+      "Vodohospodářství",
+      "Státní správa a justice",
+      "Těžba a výroba",
+      "Zdravotnictví",
+      "Životní prostředí",
+      "ochrana vod",
+      "odpadní voda",
+      "pitná voda",
+      "povodeň",
+      "voda",
+      "vodní zdroje",
+      "využití vody"
+    ]
   },
   {
     "id": 51998,
@@ -2064,7 +3163,24 @@
       "abstain": 5,
       "absent": 14,
       "not_logged": 29
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Katastr",
+      "Přestupky",
+      "Vodohospodářství",
+      "Státní správa a justice",
+      "Těžba a výroba",
+      "Zdravotnictví",
+      "Životní prostředí",
+      "ochrana vod",
+      "odpadní voda",
+      "pitná voda",
+      "povodeň",
+      "voda",
+      "vodní zdroje",
+      "využití vody"
+    ]
   },
   {
     "id": 51999,
@@ -2077,7 +3193,24 @@
       "abstain": 6,
       "absent": 14,
       "not_logged": 29
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Katastr",
+      "Přestupky",
+      "Vodohospodářství",
+      "Státní správa a justice",
+      "Těžba a výroba",
+      "Zdravotnictví",
+      "Životní prostředí",
+      "ochrana vod",
+      "odpadní voda",
+      "pitná voda",
+      "povodeň",
+      "voda",
+      "vodní zdroje",
+      "využití vody"
+    ]
   },
   {
     "id": 52000,
@@ -2090,7 +3223,24 @@
       "abstain": 30,
       "absent": 14,
       "not_logged": 28
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Katastr",
+      "Přestupky",
+      "Vodohospodářství",
+      "Státní správa a justice",
+      "Těžba a výroba",
+      "Zdravotnictví",
+      "Životní prostředí",
+      "ochrana vod",
+      "odpadní voda",
+      "pitná voda",
+      "povodeň",
+      "voda",
+      "vodní zdroje",
+      "využití vody"
+    ]
   },
   {
     "id": 52001,
@@ -2103,7 +3253,24 @@
       "abstain": 6,
       "absent": 14,
       "not_logged": 28
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Katastr",
+      "Přestupky",
+      "Vodohospodářství",
+      "Státní správa a justice",
+      "Těžba a výroba",
+      "Zdravotnictví",
+      "Životní prostředí",
+      "ochrana vod",
+      "odpadní voda",
+      "pitná voda",
+      "povodeň",
+      "voda",
+      "vodní zdroje",
+      "využití vody"
+    ]
   },
   {
     "id": 52002,
@@ -2116,7 +3283,24 @@
       "abstain": 5,
       "absent": 14,
       "not_logged": 28
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Katastr",
+      "Přestupky",
+      "Vodohospodářství",
+      "Státní správa a justice",
+      "Těžba a výroba",
+      "Zdravotnictví",
+      "Životní prostředí",
+      "ochrana vod",
+      "odpadní voda",
+      "pitná voda",
+      "povodeň",
+      "voda",
+      "vodní zdroje",
+      "využití vody"
+    ]
   },
   {
     "id": 52003,
@@ -2129,7 +3313,24 @@
       "abstain": 5,
       "absent": 14,
       "not_logged": 29
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Katastr",
+      "Přestupky",
+      "Vodohospodářství",
+      "Státní správa a justice",
+      "Těžba a výroba",
+      "Zdravotnictví",
+      "Životní prostředí",
+      "ochrana vod",
+      "odpadní voda",
+      "pitná voda",
+      "povodeň",
+      "voda",
+      "vodní zdroje",
+      "využití vody"
+    ]
   },
   {
     "id": 52004,
@@ -2142,7 +3343,24 @@
       "abstain": 5,
       "absent": 14,
       "not_logged": 29
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Katastr",
+      "Přestupky",
+      "Vodohospodářství",
+      "Státní správa a justice",
+      "Těžba a výroba",
+      "Zdravotnictví",
+      "Životní prostředí",
+      "ochrana vod",
+      "odpadní voda",
+      "pitná voda",
+      "povodeň",
+      "voda",
+      "vodní zdroje",
+      "využití vody"
+    ]
   },
   {
     "id": 52005,
@@ -2155,7 +3373,24 @@
       "abstain": 6,
       "absent": 14,
       "not_logged": 29
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Katastr",
+      "Přestupky",
+      "Vodohospodářství",
+      "Státní správa a justice",
+      "Těžba a výroba",
+      "Zdravotnictví",
+      "Životní prostředí",
+      "ochrana vod",
+      "odpadní voda",
+      "pitná voda",
+      "povodeň",
+      "voda",
+      "vodní zdroje",
+      "využití vody"
+    ]
   },
   {
     "id": 52006,
@@ -2168,7 +3403,24 @@
       "abstain": 14,
       "absent": 14,
       "not_logged": 29
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Katastr",
+      "Přestupky",
+      "Vodohospodářství",
+      "Státní správa a justice",
+      "Těžba a výroba",
+      "Zdravotnictví",
+      "Životní prostředí",
+      "ochrana vod",
+      "odpadní voda",
+      "pitná voda",
+      "povodeň",
+      "voda",
+      "vodní zdroje",
+      "využití vody"
+    ]
   },
   {
     "id": 52007,
@@ -2181,7 +3433,24 @@
       "abstain": 3,
       "absent": 14,
       "not_logged": 30
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Katastr",
+      "Přestupky",
+      "Vodohospodářství",
+      "Státní správa a justice",
+      "Těžba a výroba",
+      "Zdravotnictví",
+      "Životní prostředí",
+      "ochrana vod",
+      "odpadní voda",
+      "pitná voda",
+      "povodeň",
+      "voda",
+      "vodní zdroje",
+      "využití vody"
+    ]
   },
   {
     "id": 52008,
@@ -2194,7 +3463,24 @@
       "abstain": 1,
       "absent": 14,
       "not_logged": 32
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Katastr",
+      "Přestupky",
+      "Vodohospodářství",
+      "Státní správa a justice",
+      "Těžba a výroba",
+      "Zdravotnictví",
+      "Životní prostředí",
+      "ochrana vod",
+      "odpadní voda",
+      "pitná voda",
+      "povodeň",
+      "voda",
+      "vodní zdroje",
+      "využití vody"
+    ]
   },
   {
     "id": 52009,
@@ -2207,7 +3493,24 @@
       "abstain": 3,
       "absent": 14,
       "not_logged": 32
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Katastr",
+      "Přestupky",
+      "Vodohospodářství",
+      "Státní správa a justice",
+      "Těžba a výroba",
+      "Zdravotnictví",
+      "Životní prostředí",
+      "ochrana vod",
+      "odpadní voda",
+      "pitná voda",
+      "povodeň",
+      "voda",
+      "vodní zdroje",
+      "využití vody"
+    ]
   },
   {
     "id": 52010,
@@ -2220,7 +3523,24 @@
       "abstain": 7,
       "absent": 14,
       "not_logged": 32
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Katastr",
+      "Přestupky",
+      "Vodohospodářství",
+      "Státní správa a justice",
+      "Těžba a výroba",
+      "Zdravotnictví",
+      "Životní prostředí",
+      "ochrana vod",
+      "odpadní voda",
+      "pitná voda",
+      "povodeň",
+      "voda",
+      "vodní zdroje",
+      "využití vody"
+    ]
   },
   {
     "id": 52011,
@@ -2233,7 +3553,24 @@
       "abstain": 1,
       "absent": 14,
       "not_logged": 32
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Katastr",
+      "Přestupky",
+      "Vodohospodářství",
+      "Státní správa a justice",
+      "Těžba a výroba",
+      "Zdravotnictví",
+      "Životní prostředí",
+      "ochrana vod",
+      "odpadní voda",
+      "pitná voda",
+      "povodeň",
+      "voda",
+      "vodní zdroje",
+      "využití vody"
+    ]
   },
   {
     "id": 52012,
@@ -2246,7 +3583,24 @@
       "abstain": 13,
       "absent": 14,
       "not_logged": 31
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Katastr",
+      "Přestupky",
+      "Vodohospodářství",
+      "Státní správa a justice",
+      "Těžba a výroba",
+      "Zdravotnictví",
+      "Životní prostředí",
+      "ochrana vod",
+      "odpadní voda",
+      "pitná voda",
+      "povodeň",
+      "voda",
+      "vodní zdroje",
+      "využití vody"
+    ]
   },
   {
     "id": 52013,
@@ -2259,7 +3613,24 @@
       "abstain": 5,
       "absent": 14,
       "not_logged": 31
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Katastr",
+      "Přestupky",
+      "Vodohospodářství",
+      "Státní správa a justice",
+      "Těžba a výroba",
+      "Zdravotnictví",
+      "Životní prostředí",
+      "ochrana vod",
+      "odpadní voda",
+      "pitná voda",
+      "povodeň",
+      "voda",
+      "vodní zdroje",
+      "využití vody"
+    ]
   },
   {
     "id": 52014,
@@ -2272,7 +3643,24 @@
       "abstain": 1,
       "absent": 14,
       "not_logged": 31
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Katastr",
+      "Přestupky",
+      "Vodohospodářství",
+      "Státní správa a justice",
+      "Těžba a výroba",
+      "Zdravotnictví",
+      "Životní prostředí",
+      "ochrana vod",
+      "odpadní voda",
+      "pitná voda",
+      "povodeň",
+      "voda",
+      "vodní zdroje",
+      "využití vody"
+    ]
   },
   {
     "id": 52015,
@@ -2285,7 +3673,24 @@
       "abstain": 4,
       "absent": 14,
       "not_logged": 31
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Katastr",
+      "Přestupky",
+      "Vodohospodářství",
+      "Státní správa a justice",
+      "Těžba a výroba",
+      "Zdravotnictví",
+      "Životní prostředí",
+      "ochrana vod",
+      "odpadní voda",
+      "pitná voda",
+      "povodeň",
+      "voda",
+      "vodní zdroje",
+      "využití vody"
+    ]
   },
   {
     "id": 52016,
@@ -2298,7 +3703,24 @@
       "abstain": 3,
       "absent": 14,
       "not_logged": 30
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Katastr",
+      "Přestupky",
+      "Vodohospodářství",
+      "Státní správa a justice",
+      "Těžba a výroba",
+      "Zdravotnictví",
+      "Životní prostředí",
+      "ochrana vod",
+      "odpadní voda",
+      "pitná voda",
+      "povodeň",
+      "voda",
+      "vodní zdroje",
+      "využití vody"
+    ]
   },
   {
     "id": 52017,
@@ -2311,7 +3733,24 @@
       "abstain": 3,
       "absent": 14,
       "not_logged": 30
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Katastr",
+      "Přestupky",
+      "Vodohospodářství",
+      "Státní správa a justice",
+      "Těžba a výroba",
+      "Zdravotnictví",
+      "Životní prostředí",
+      "ochrana vod",
+      "odpadní voda",
+      "pitná voda",
+      "povodeň",
+      "voda",
+      "vodní zdroje",
+      "využití vody"
+    ]
   },
   {
     "id": 52018,
@@ -2324,7 +3763,24 @@
       "abstain": 4,
       "absent": 14,
       "not_logged": 30
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Katastr",
+      "Přestupky",
+      "Vodohospodářství",
+      "Státní správa a justice",
+      "Těžba a výroba",
+      "Zdravotnictví",
+      "Životní prostředí",
+      "ochrana vod",
+      "odpadní voda",
+      "pitná voda",
+      "povodeň",
+      "voda",
+      "vodní zdroje",
+      "využití vody"
+    ]
   },
   {
     "id": 52019,
@@ -2337,7 +3793,24 @@
       "abstain": 5,
       "absent": 14,
       "not_logged": 30
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Katastr",
+      "Přestupky",
+      "Vodohospodářství",
+      "Státní správa a justice",
+      "Těžba a výroba",
+      "Zdravotnictví",
+      "Životní prostředí",
+      "ochrana vod",
+      "odpadní voda",
+      "pitná voda",
+      "povodeň",
+      "voda",
+      "vodní zdroje",
+      "využití vody"
+    ]
   },
   {
     "id": 52020,
@@ -2350,7 +3823,24 @@
       "abstain": 8,
       "absent": 14,
       "not_logged": 30
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Katastr",
+      "Přestupky",
+      "Vodohospodářství",
+      "Státní správa a justice",
+      "Těžba a výroba",
+      "Zdravotnictví",
+      "Životní prostředí",
+      "ochrana vod",
+      "odpadní voda",
+      "pitná voda",
+      "povodeň",
+      "voda",
+      "vodní zdroje",
+      "využití vody"
+    ]
   },
   {
     "id": 52021,
@@ -2363,7 +3853,24 @@
       "abstain": 8,
       "absent": 14,
       "not_logged": 30
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Katastr",
+      "Přestupky",
+      "Vodohospodářství",
+      "Státní správa a justice",
+      "Těžba a výroba",
+      "Zdravotnictví",
+      "Životní prostředí",
+      "ochrana vod",
+      "odpadní voda",
+      "pitná voda",
+      "povodeň",
+      "voda",
+      "vodní zdroje",
+      "využití vody"
+    ]
   },
   {
     "id": 52022,
@@ -2376,7 +3883,24 @@
       "abstain": 13,
       "absent": 14,
       "not_logged": 30
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Katastr",
+      "Přestupky",
+      "Vodohospodářství",
+      "Státní správa a justice",
+      "Těžba a výroba",
+      "Zdravotnictví",
+      "Životní prostředí",
+      "ochrana vod",
+      "odpadní voda",
+      "pitná voda",
+      "povodeň",
+      "voda",
+      "vodní zdroje",
+      "využití vody"
+    ]
   },
   {
     "id": 52023,
@@ -2389,7 +3913,24 @@
       "abstain": 7,
       "absent": 14,
       "not_logged": 30
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Katastr",
+      "Přestupky",
+      "Vodohospodářství",
+      "Státní správa a justice",
+      "Těžba a výroba",
+      "Zdravotnictví",
+      "Životní prostředí",
+      "ochrana vod",
+      "odpadní voda",
+      "pitná voda",
+      "povodeň",
+      "voda",
+      "vodní zdroje",
+      "využití vody"
+    ]
   },
   {
     "id": 52024,
@@ -2402,7 +3943,24 @@
       "abstain": 10,
       "absent": 14,
       "not_logged": 30
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Katastr",
+      "Přestupky",
+      "Vodohospodářství",
+      "Státní správa a justice",
+      "Těžba a výroba",
+      "Zdravotnictví",
+      "Životní prostředí",
+      "ochrana vod",
+      "odpadní voda",
+      "pitná voda",
+      "povodeň",
+      "voda",
+      "vodní zdroje",
+      "využití vody"
+    ]
   },
   {
     "id": 52025,
@@ -2415,7 +3973,24 @@
       "abstain": 7,
       "absent": 14,
       "not_logged": 30
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Katastr",
+      "Přestupky",
+      "Vodohospodářství",
+      "Státní správa a justice",
+      "Těžba a výroba",
+      "Zdravotnictví",
+      "Životní prostředí",
+      "ochrana vod",
+      "odpadní voda",
+      "pitná voda",
+      "povodeň",
+      "voda",
+      "vodní zdroje",
+      "využití vody"
+    ]
   },
   {
     "id": 52026,
@@ -2428,7 +4003,24 @@
       "abstain": 4,
       "absent": 14,
       "not_logged": 30
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Katastr",
+      "Přestupky",
+      "Vodohospodářství",
+      "Státní správa a justice",
+      "Těžba a výroba",
+      "Zdravotnictví",
+      "Životní prostředí",
+      "ochrana vod",
+      "odpadní voda",
+      "pitná voda",
+      "povodeň",
+      "voda",
+      "vodní zdroje",
+      "využití vody"
+    ]
   },
   {
     "id": 52027,
@@ -2441,7 +4033,24 @@
       "abstain": 10,
       "absent": 14,
       "not_logged": 30
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Katastr",
+      "Přestupky",
+      "Vodohospodářství",
+      "Státní správa a justice",
+      "Těžba a výroba",
+      "Zdravotnictví",
+      "Životní prostředí",
+      "ochrana vod",
+      "odpadní voda",
+      "pitná voda",
+      "povodeň",
+      "voda",
+      "vodní zdroje",
+      "využití vody"
+    ]
   },
   {
     "id": 52028,
@@ -2454,7 +4063,24 @@
       "abstain": 13,
       "absent": 14,
       "not_logged": 30
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Katastr",
+      "Přestupky",
+      "Vodohospodářství",
+      "Státní správa a justice",
+      "Těžba a výroba",
+      "Zdravotnictví",
+      "Životní prostředí",
+      "ochrana vod",
+      "odpadní voda",
+      "pitná voda",
+      "povodeň",
+      "voda",
+      "vodní zdroje",
+      "využití vody"
+    ]
   },
   {
     "id": 52029,
@@ -2467,7 +4093,24 @@
       "abstain": 9,
       "absent": 14,
       "not_logged": 30
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Katastr",
+      "Přestupky",
+      "Vodohospodářství",
+      "Státní správa a justice",
+      "Těžba a výroba",
+      "Zdravotnictví",
+      "Životní prostředí",
+      "ochrana vod",
+      "odpadní voda",
+      "pitná voda",
+      "povodeň",
+      "voda",
+      "vodní zdroje",
+      "využití vody"
+    ]
   },
   {
     "id": 52030,
@@ -2480,7 +4123,24 @@
       "abstain": 11,
       "absent": 14,
       "not_logged": 30
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Katastr",
+      "Přestupky",
+      "Vodohospodářství",
+      "Státní správa a justice",
+      "Těžba a výroba",
+      "Zdravotnictví",
+      "Životní prostředí",
+      "ochrana vod",
+      "odpadní voda",
+      "pitná voda",
+      "povodeň",
+      "voda",
+      "vodní zdroje",
+      "využití vody"
+    ]
   },
   {
     "id": 52031,
@@ -2493,7 +4153,24 @@
       "abstain": 17,
       "absent": 14,
       "not_logged": 30
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Katastr",
+      "Přestupky",
+      "Vodohospodářství",
+      "Státní správa a justice",
+      "Těžba a výroba",
+      "Zdravotnictví",
+      "Životní prostředí",
+      "ochrana vod",
+      "odpadní voda",
+      "pitná voda",
+      "povodeň",
+      "voda",
+      "vodní zdroje",
+      "využití vody"
+    ]
   },
   {
     "id": 52032,
@@ -2506,7 +4183,24 @@
       "abstain": 13,
       "absent": 14,
       "not_logged": 30
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Katastr",
+      "Přestupky",
+      "Vodohospodářství",
+      "Státní správa a justice",
+      "Těžba a výroba",
+      "Zdravotnictví",
+      "Životní prostředí",
+      "ochrana vod",
+      "odpadní voda",
+      "pitná voda",
+      "povodeň",
+      "voda",
+      "vodní zdroje",
+      "využití vody"
+    ]
   },
   {
     "id": 52033,
@@ -2519,7 +4213,24 @@
       "abstain": 13,
       "absent": 14,
       "not_logged": 30
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Katastr",
+      "Přestupky",
+      "Vodohospodářství",
+      "Státní správa a justice",
+      "Těžba a výroba",
+      "Zdravotnictví",
+      "Životní prostředí",
+      "ochrana vod",
+      "odpadní voda",
+      "pitná voda",
+      "povodeň",
+      "voda",
+      "vodní zdroje",
+      "využití vody"
+    ]
   },
   {
     "id": 52034,
@@ -2532,7 +4243,24 @@
       "abstain": 9,
       "absent": 14,
       "not_logged": 30
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Katastr",
+      "Přestupky",
+      "Vodohospodářství",
+      "Státní správa a justice",
+      "Těžba a výroba",
+      "Zdravotnictví",
+      "Životní prostředí",
+      "ochrana vod",
+      "odpadní voda",
+      "pitná voda",
+      "povodeň",
+      "voda",
+      "vodní zdroje",
+      "využití vody"
+    ]
   },
   {
     "id": 52035,
@@ -2545,7 +4273,24 @@
       "abstain": 36,
       "absent": 14,
       "not_logged": 31
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Katastr",
+      "Přestupky",
+      "Vodohospodářství",
+      "Státní správa a justice",
+      "Těžba a výroba",
+      "Zdravotnictví",
+      "Životní prostředí",
+      "ochrana vod",
+      "odpadní voda",
+      "pitná voda",
+      "povodeň",
+      "voda",
+      "vodní zdroje",
+      "využití vody"
+    ]
   },
   {
     "id": 52036,
@@ -2558,7 +4303,24 @@
       "abstain": 44,
       "absent": 14,
       "not_logged": 31
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Katastr",
+      "Přestupky",
+      "Vodohospodářství",
+      "Státní správa a justice",
+      "Těžba a výroba",
+      "Zdravotnictví",
+      "Životní prostředí",
+      "ochrana vod",
+      "odpadní voda",
+      "pitná voda",
+      "povodeň",
+      "voda",
+      "vodní zdroje",
+      "využití vody"
+    ]
   },
   {
     "id": 52037,
@@ -2571,7 +4333,24 @@
       "abstain": 47,
       "absent": 14,
       "not_logged": 33
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Katastr",
+      "Přestupky",
+      "Vodohospodářství",
+      "Státní správa a justice",
+      "Těžba a výroba",
+      "Zdravotnictví",
+      "Životní prostředí",
+      "ochrana vod",
+      "odpadní voda",
+      "pitná voda",
+      "povodeň",
+      "voda",
+      "vodní zdroje",
+      "využití vody"
+    ]
   },
   {
     "id": 52038,
@@ -2584,7 +4363,24 @@
       "abstain": 33,
       "absent": 14,
       "not_logged": 31
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Katastr",
+      "Přestupky",
+      "Vodohospodářství",
+      "Státní správa a justice",
+      "Těžba a výroba",
+      "Zdravotnictví",
+      "Životní prostředí",
+      "ochrana vod",
+      "odpadní voda",
+      "pitná voda",
+      "povodeň",
+      "voda",
+      "vodní zdroje",
+      "využití vody"
+    ]
   },
   {
     "id": 52039,
@@ -2597,7 +4393,24 @@
       "abstain": 37,
       "absent": 14,
       "not_logged": 31
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Katastr",
+      "Přestupky",
+      "Vodohospodářství",
+      "Státní správa a justice",
+      "Těžba a výroba",
+      "Zdravotnictví",
+      "Životní prostředí",
+      "ochrana vod",
+      "odpadní voda",
+      "pitná voda",
+      "povodeň",
+      "voda",
+      "vodní zdroje",
+      "využití vody"
+    ]
   },
   {
     "id": 52040,
@@ -2610,7 +4423,24 @@
       "abstain": 80,
       "absent": 14,
       "not_logged": 31
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Katastr",
+      "Přestupky",
+      "Vodohospodářství",
+      "Státní správa a justice",
+      "Těžba a výroba",
+      "Zdravotnictví",
+      "Životní prostředí",
+      "ochrana vod",
+      "odpadní voda",
+      "pitná voda",
+      "povodeň",
+      "voda",
+      "vodní zdroje",
+      "využití vody"
+    ]
   },
   {
     "id": 52041,
@@ -2623,7 +4453,24 @@
       "abstain": 7,
       "absent": 14,
       "not_logged": 31
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Katastr",
+      "Přestupky",
+      "Vodohospodářství",
+      "Státní správa a justice",
+      "Těžba a výroba",
+      "Zdravotnictví",
+      "Životní prostředí",
+      "ochrana vod",
+      "odpadní voda",
+      "pitná voda",
+      "povodeň",
+      "voda",
+      "vodní zdroje",
+      "využití vody"
+    ]
   },
   {
     "id": 52042,
@@ -2636,7 +4483,20 @@
       "abstain": 83,
       "absent": 14,
       "not_logged": 32
-    }
+    },
+    "temata": [
+      "Armáda",
+      "Politika zahraniční",
+      "Situace krizové",
+      "Mezinárodní styky",
+      "Národní hospodářství",
+      "Pracovní síla",
+      "Životní prostředí",
+      "humanitární pomoc",
+      "politika pomoci",
+      "pomoc do zahraničí",
+      "rozvojová pomoc"
+    ]
   },
   {
     "id": 52043,
@@ -2649,7 +4509,20 @@
       "abstain": 24,
       "absent": 14,
       "not_logged": 29
-    }
+    },
+    "temata": [
+      "Armáda",
+      "Politika zahraniční",
+      "Situace krizové",
+      "Mezinárodní styky",
+      "Národní hospodářství",
+      "Pracovní síla",
+      "Životní prostředí",
+      "humanitární pomoc",
+      "politika pomoci",
+      "pomoc do zahraničí",
+      "rozvojová pomoc"
+    ]
   },
   {
     "id": 52044,
@@ -2662,7 +4535,20 @@
       "abstain": 67,
       "absent": 14,
       "not_logged": 29
-    }
+    },
+    "temata": [
+      "Armáda",
+      "Politika zahraniční",
+      "Situace krizové",
+      "Mezinárodní styky",
+      "Národní hospodářství",
+      "Pracovní síla",
+      "Životní prostředí",
+      "humanitární pomoc",
+      "politika pomoci",
+      "pomoc do zahraničí",
+      "rozvojová pomoc"
+    ]
   },
   {
     "id": 52045,
@@ -2675,7 +4561,20 @@
       "abstain": 104,
       "absent": 14,
       "not_logged": 28
-    }
+    },
+    "temata": [
+      "Armáda",
+      "Politika zahraniční",
+      "Situace krizové",
+      "Mezinárodní styky",
+      "Národní hospodářství",
+      "Pracovní síla",
+      "Životní prostředí",
+      "humanitární pomoc",
+      "politika pomoci",
+      "pomoc do zahraničí",
+      "rozvojová pomoc"
+    ]
   },
   {
     "id": 52046,
@@ -2688,7 +4587,20 @@
       "abstain": 20,
       "absent": 14,
       "not_logged": 26
-    }
+    },
+    "temata": [
+      "Armáda",
+      "Politika zahraniční",
+      "Situace krizové",
+      "Mezinárodní styky",
+      "Národní hospodářství",
+      "Pracovní síla",
+      "Životní prostředí",
+      "humanitární pomoc",
+      "politika pomoci",
+      "pomoc do zahraničí",
+      "rozvojová pomoc"
+    ]
   },
   {
     "id": 52047,
@@ -2701,7 +4613,18 @@
       "abstain": 68,
       "absent": 14,
       "not_logged": 27
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 52048,
@@ -2714,7 +4637,18 @@
       "abstain": 25,
       "absent": 14,
       "not_logged": 27
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 52049,
@@ -2727,7 +4661,18 @@
       "abstain": 19,
       "absent": 14,
       "not_logged": 25
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 52050,
@@ -2740,7 +4685,18 @@
       "abstain": 20,
       "absent": 14,
       "not_logged": 25
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 52051,
@@ -2753,7 +4709,24 @@
       "abstain": 15,
       "absent": 14,
       "not_logged": 26
-    }
+    },
+    "temata": [
+      "Chemie",
+      "Ekologie",
+      "Evropská unie /EU/",
+      "Mezinárodní styky",
+      "Národní hospodářství",
+      "Občan",
+      "Obchod",
+      "Zdravotnictví",
+      "herbicidy",
+      "insekticidy",
+      "kontrola dovozu",
+      "kontrola vývozu",
+      "obchodní licence",
+      "pesticidy",
+      "přípravky ochrany rostlin"
+    ]
   },
   {
     "id": 52052,
@@ -2766,7 +4739,18 @@
       "abstain": 26,
       "absent": 14,
       "not_logged": 26
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 52053,
@@ -2779,7 +4763,18 @@
       "abstain": 21,
       "absent": 14,
       "not_logged": 26
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 52054,
@@ -2792,7 +4787,18 @@
       "abstain": 113,
       "absent": 14,
       "not_logged": 25
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 52055,
@@ -2805,7 +4811,18 @@
       "abstain": 66,
       "absent": 14,
       "not_logged": 25
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 52056,
@@ -2818,7 +4835,18 @@
       "abstain": 84,
       "absent": 14,
       "not_logged": 24
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 52057,
@@ -2831,7 +4859,18 @@
       "abstain": 16,
       "absent": 14,
       "not_logged": 25
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 52058,
@@ -2844,7 +4883,18 @@
       "abstain": 68,
       "absent": 14,
       "not_logged": 25
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 52059,
@@ -2857,7 +4907,18 @@
       "abstain": 34,
       "absent": 14,
       "not_logged": 25
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 52060,
@@ -2870,7 +4931,18 @@
       "abstain": 19,
       "absent": 14,
       "not_logged": 25
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 52061,
@@ -2883,7 +4955,18 @@
       "abstain": 17,
       "absent": 14,
       "not_logged": 25
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 52062,
@@ -2896,7 +4979,15 @@
       "abstain": 14,
       "absent": 14,
       "not_logged": 24
-    }
+    },
+    "temata": [
+      "Školství",
+      "Národní hospodářství",
+      "Pracovní síla",
+      "odborná kvalifikace",
+      "průběžná profesní příprava",
+      "učitel"
+    ]
   },
   {
     "id": 52063,
@@ -2909,7 +5000,18 @@
       "abstain": 61,
       "absent": 14,
       "not_logged": 55
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 52064,
@@ -2922,7 +5024,18 @@
       "abstain": 9,
       "absent": 14,
       "not_logged": 46
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 52065,
@@ -2935,7 +5048,23 @@
       "abstain": 12,
       "absent": 14,
       "not_logged": 43
-    }
+    },
+    "temata": [
+      "Ekologie",
+      "Evropská unie /EU/",
+      "Informační služby",
+      "Mezinárodní styky",
+      "Národní hospodářství",
+      "Občan",
+      "Státní správa a justice",
+      "Zdravotnictví",
+      "Životní prostředí",
+      "letadlo",
+      "letecká doprava",
+      "obchodovatelné emisní povolení",
+      "skleníkový plyn",
+      "snižování plynných emisí"
+    ]
   },
   {
     "id": 52066,
@@ -2948,7 +5077,18 @@
       "abstain": 9,
       "absent": 14,
       "not_logged": 42
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 52067,
@@ -2961,7 +5101,22 @@
       "abstain": 6,
       "absent": 14,
       "not_logged": 42
-    }
+    },
+    "temata": [
+      "Pozemkový fond",
+      "Informační služby",
+      "Národní hospodářství",
+      "Občan",
+      "Státní správa a justice",
+      "Těžba a výroba",
+      "nemovitost",
+      "pozemková reforma",
+      "převod vlastnictví",
+      "privatizace",
+      "půda ve vlastnictví státu",
+      "správní celek",
+      "územní management"
+    ]
   },
   {
     "id": 52068,
@@ -2974,7 +5129,18 @@
       "abstain": 14,
       "absent": 14,
       "not_logged": 42
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 52069,
@@ -2987,7 +5153,18 @@
       "abstain": 17,
       "absent": 14,
       "not_logged": 38
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 52070,
@@ -3000,7 +5177,18 @@
       "abstain": 17,
       "absent": 14,
       "not_logged": 37
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 52071,
@@ -3013,7 +5201,18 @@
       "abstain": 37,
       "absent": 14,
       "not_logged": 36
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 52072,
@@ -3026,7 +5225,18 @@
       "abstain": 20,
       "absent": 14,
       "not_logged": 36
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 52073,
@@ -3039,7 +5249,18 @@
       "abstain": 40,
       "absent": 14,
       "not_logged": 37
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 52074,
@@ -3052,7 +5273,18 @@
       "abstain": 27,
       "absent": 14,
       "not_logged": 37
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 52075,
@@ -3065,7 +5297,18 @@
       "abstain": 15,
       "absent": 14,
       "not_logged": 37
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 52076,
@@ -3078,7 +5321,18 @@
       "abstain": 18,
       "absent": 14,
       "not_logged": 37
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 52077,
@@ -3091,7 +5345,15 @@
       "abstain": 23,
       "absent": 14,
       "not_logged": 37
-    }
+    },
+    "temata": [
+      "Ekologie",
+      "motorové palivo",
+      "náhradní palivo",
+      "ochrana životního prostředí",
+      "znečišťování atmosféry",
+      "znečišťující příměsi v atmosféře"
+    ]
   },
   {
     "id": 52078,
@@ -3104,7 +5366,16 @@
       "abstain": 27,
       "absent": 14,
       "not_logged": 43
-    }
+    },
+    "temata": [
+      "Armáda",
+      "Česká republika",
+      "NATO",
+      "Spojené království",
+      "vojenská spolupráce",
+      "vojenské cvičení",
+      "vojenský výcvik"
+    ]
   },
   {
     "id": 52079,
@@ -3117,7 +5388,15 @@
       "abstain": 13,
       "absent": 14,
       "not_logged": 42
-    }
+    },
+    "temata": [
+      "Bankovnictví",
+      "Evropská unie /EU/",
+      "centrální banka",
+      "činnost orgánů",
+      "Evropská centrální banka",
+      "měnová politika"
+    ]
   },
   {
     "id": 52080,
@@ -3130,7 +5409,8 @@
       "abstain": 45,
       "absent": 14,
       "not_logged": 47
-    }
+    },
+    "temata": []
   },
   {
     "id": 52081,
@@ -3143,7 +5423,8 @@
       "abstain": 43,
       "absent": 14,
       "not_logged": 49
-    }
+    },
+    "temata": []
   },
   {
     "id": 52082,
@@ -3156,7 +5437,18 @@
       "abstain": 31,
       "absent": 14,
       "not_logged": 64
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 52083,
@@ -3169,7 +5461,22 @@
       "abstain": 28,
       "absent": 14,
       "not_logged": 64
-    }
+    },
+    "temata": [
+      "Pojištění",
+      "Poštovní služby",
+      "Zabezpečení sociální",
+      "Peněžnictví a pojišťovnictví",
+      "Pracovní síla",
+      "lékař",
+      "lékařský posudek",
+      "poštovní sazba",
+      "poštovní služba",
+      "pracovní nezpůsobilost",
+      "sociální zabezpečení",
+      "zdravotní pojištění",
+      "zpráva"
+    ]
   },
   {
     "id": 52084,
@@ -3182,7 +5489,8 @@
       "abstain": 24,
       "absent": 20,
       "not_logged": 66
-    }
+    },
+    "temata": []
   },
   {
     "id": 52085,
@@ -3195,7 +5503,8 @@
       "abstain": 10,
       "absent": 19,
       "not_logged": 57
-    }
+    },
+    "temata": []
   },
   {
     "id": 52086,
@@ -3208,7 +5517,17 @@
       "abstain": 46,
       "absent": 21,
       "not_logged": 76
-    }
+    },
+    "temata": [
+      "Cvičení vojenská",
+      "armáda",
+      "NATO",
+      "politika spolupráce",
+      "tranzit",
+      "vojenská spolupráce",
+      "vojenské cvičení",
+      "vojska v zahraničí"
+    ]
   },
   {
     "id": 52087,
@@ -3221,7 +5540,17 @@
       "abstain": 52,
       "absent": 21,
       "not_logged": 119
-    }
+    },
+    "temata": [
+      "Cvičení vojenská",
+      "armáda",
+      "NATO",
+      "politika spolupráce",
+      "tranzit",
+      "vojenská spolupráce",
+      "vojenské cvičení",
+      "vojska v zahraničí"
+    ]
   },
   {
     "id": 52088,
@@ -3234,7 +5563,17 @@
       "abstain": 58,
       "absent": 21,
       "not_logged": 109
-    }
+    },
+    "temata": [
+      "Cvičení vojenská",
+      "armáda",
+      "NATO",
+      "politika spolupráce",
+      "tranzit",
+      "vojenská spolupráce",
+      "vojenské cvičení",
+      "vojska v zahraničí"
+    ]
   },
   {
     "id": 52089,
@@ -3247,7 +5586,17 @@
       "abstain": 1,
       "absent": 21,
       "not_logged": 72
-    }
+    },
+    "temata": [
+      "Cvičení vojenská",
+      "armáda",
+      "NATO",
+      "politika spolupráce",
+      "tranzit",
+      "vojenská spolupráce",
+      "vojenské cvičení",
+      "vojska v zahraničí"
+    ]
   },
   {
     "id": 52090,
@@ -3260,7 +5609,17 @@
       "abstain": 3,
       "absent": 21,
       "not_logged": 112
-    }
+    },
+    "temata": [
+      "Cvičení vojenská",
+      "armáda",
+      "NATO",
+      "politika spolupráce",
+      "tranzit",
+      "vojenská spolupráce",
+      "vojenské cvičení",
+      "vojska v zahraničí"
+    ]
   },
   {
     "id": 52091,
@@ -3273,7 +5632,17 @@
       "abstain": 3,
       "absent": 21,
       "not_logged": 112
-    }
+    },
+    "temata": [
+      "Cvičení vojenská",
+      "armáda",
+      "NATO",
+      "politika spolupráce",
+      "tranzit",
+      "vojenská spolupráce",
+      "vojenské cvičení",
+      "vojska v zahraničí"
+    ]
   },
   {
     "id": 52092,
@@ -3286,7 +5655,8 @@
       "abstain": 8,
       "absent": 18,
       "not_logged": 36
-    }
+    },
+    "temata": []
   },
   {
     "id": 52093,
@@ -3299,7 +5669,8 @@
       "abstain": 15,
       "absent": 18,
       "not_logged": 31
-    }
+    },
+    "temata": []
   },
   {
     "id": 52094,
@@ -3312,7 +5683,8 @@
       "abstain": 13,
       "absent": 18,
       "not_logged": 29
-    }
+    },
+    "temata": []
   },
   {
     "id": 52095,
@@ -3325,7 +5697,8 @@
       "abstain": 44,
       "absent": 18,
       "not_logged": 28
-    }
+    },
+    "temata": []
   },
   {
     "id": 52096,
@@ -3338,7 +5711,8 @@
       "abstain": 61,
       "absent": 18,
       "not_logged": 27
-    }
+    },
+    "temata": []
   },
   {
     "id": 52097,
@@ -3351,7 +5725,8 @@
       "abstain": 31,
       "absent": 18,
       "not_logged": 27
-    }
+    },
+    "temata": []
   },
   {
     "id": 52098,
@@ -3364,7 +5739,8 @@
       "abstain": 128,
       "absent": 18,
       "not_logged": 26
-    }
+    },
+    "temata": []
   },
   {
     "id": 52099,
@@ -3377,7 +5753,18 @@
       "abstain": 94,
       "absent": 18,
       "not_logged": 26
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 52100,
@@ -3390,7 +5777,18 @@
       "abstain": 17,
       "absent": 18,
       "not_logged": 26
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 52101,
@@ -3403,7 +5801,18 @@
       "abstain": 15,
       "absent": 18,
       "not_logged": 26
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 52102,
@@ -3416,7 +5825,18 @@
       "abstain": 15,
       "absent": 18,
       "not_logged": 24
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 52103,
@@ -3429,7 +5849,18 @@
       "abstain": 20,
       "absent": 18,
       "not_logged": 24
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 52104,
@@ -3442,7 +5873,18 @@
       "abstain": 17,
       "absent": 18,
       "not_logged": 24
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 52105,
@@ -3455,7 +5897,16 @@
       "abstain": 17,
       "absent": 18,
       "not_logged": 24
-    }
+    },
+    "temata": [
+      "Sport",
+      "Národní hospodářství",
+      "Školství",
+      "Státní správa a justice",
+      "chuligánství",
+      "policie",
+      "sport"
+    ]
   },
   {
     "id": 52106,
@@ -3468,7 +5919,15 @@
       "abstain": 34,
       "absent": 18,
       "not_logged": 27
-    }
+    },
+    "temata": [
+      "Rada České republiky pro rozhlasové a televizní vysílání",
+      "rozhlasové vysílání",
+      "správní dohled",
+      "správní kontrola",
+      "televize",
+      "zpráva o činnosti"
+    ]
   },
   {
     "id": 52107,
@@ -3481,7 +5940,15 @@
       "abstain": 9,
       "absent": 18,
       "not_logged": 33
-    }
+    },
+    "temata": [
+      "Rada České republiky pro rozhlasové a televizní vysílání",
+      "rozhlasové vysílání",
+      "správní dohled",
+      "správní kontrola",
+      "televize",
+      "zpráva o činnosti"
+    ]
   },
   {
     "id": 52108,
@@ -3494,7 +5961,15 @@
       "abstain": 14,
       "absent": 18,
       "not_logged": 27
-    }
+    },
+    "temata": [
+      "Rada České republiky pro rozhlasové a televizní vysílání",
+      "rozhlasové vysílání",
+      "správní dohled",
+      "správní kontrola",
+      "televize",
+      "zpráva o činnosti"
+    ]
   },
   {
     "id": 52109,
@@ -3507,7 +5982,15 @@
       "abstain": 15,
       "absent": 18,
       "not_logged": 27
-    }
+    },
+    "temata": [
+      "Rada České republiky pro rozhlasové a televizní vysílání",
+      "rozhlasové vysílání",
+      "správní dohled",
+      "správní kontrola",
+      "televize",
+      "zpráva o činnosti"
+    ]
   },
   {
     "id": 52110,
@@ -3520,7 +6003,15 @@
       "abstain": 8,
       "absent": 18,
       "not_logged": 26
-    }
+    },
+    "temata": [
+      "Rada České republiky pro rozhlasové a televizní vysílání",
+      "rozhlasové vysílání",
+      "správní dohled",
+      "správní kontrola",
+      "televize",
+      "zpráva o činnosti"
+    ]
   },
   {
     "id": 52111,
@@ -3533,7 +6024,15 @@
       "abstain": 9,
       "absent": 18,
       "not_logged": 26
-    }
+    },
+    "temata": [
+      "Rada České republiky pro rozhlasové a televizní vysílání",
+      "rozhlasové vysílání",
+      "správní dohled",
+      "správní kontrola",
+      "televize",
+      "zpráva o činnosti"
+    ]
   },
   {
     "id": 52112,
@@ -3546,7 +6045,8 @@
       "abstain": 39,
       "absent": 18,
       "not_logged": 27
-    }
+    },
+    "temata": []
   },
   {
     "id": 52113,
@@ -3559,7 +6059,14 @@
       "abstain": 10,
       "absent": 18,
       "not_logged": 27
-    }
+    },
+    "temata": [
+      "Pěstitelství",
+      "Sdružení občanská",
+      "ovocný sad",
+      "užitková zahrada",
+      "zájmová skupina"
+    ]
   },
   {
     "id": 52114,
@@ -3572,7 +6079,18 @@
       "abstain": 14,
       "absent": 18,
       "not_logged": 32
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 52115,
@@ -3585,7 +6103,18 @@
       "abstain": 22,
       "absent": 18,
       "not_logged": 34
-    }
+    },
+    "temata": [
+      "Zákoník obchodní",
+      "Národní hospodářství",
+      "Občan",
+      "chování spotřebitele",
+      "informace pro spotřebitele",
+      "nákupní zvyklosti",
+      "nekalá reklama",
+      "ochrana spotřebitele",
+      "omezování soutěže"
+    ]
   },
   {
     "id": 52116,
@@ -3598,7 +6127,23 @@
       "abstain": 15,
       "absent": 18,
       "not_logged": 34
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Podnikání",
+      "Informační služby",
+      "Národní hospodářství",
+      "Občan",
+      "Obrana a bezpečnost",
+      "Státní správa a justice",
+      "Těžba a výroba",
+      "obchodní název",
+      "obchodní rejstřík",
+      "ochrana spotřebitele",
+      "podnikatel",
+      "správní formality",
+      "založení společnosti"
+    ]
   },
   {
     "id": 52117,
@@ -3611,7 +6156,23 @@
       "abstain": 12,
       "absent": 18,
       "not_logged": 34
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Podnikání",
+      "Informační služby",
+      "Národní hospodářství",
+      "Občan",
+      "Obrana a bezpečnost",
+      "Státní správa a justice",
+      "Těžba a výroba",
+      "obchodní název",
+      "obchodní rejstřík",
+      "ochrana spotřebitele",
+      "podnikatel",
+      "správní formality",
+      "založení společnosti"
+    ]
   },
   {
     "id": 52118,
@@ -3624,7 +6185,23 @@
       "abstain": 12,
       "absent": 18,
       "not_logged": 34
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Podnikání",
+      "Informační služby",
+      "Národní hospodářství",
+      "Občan",
+      "Obrana a bezpečnost",
+      "Státní správa a justice",
+      "Těžba a výroba",
+      "obchodní název",
+      "obchodní rejstřík",
+      "ochrana spotřebitele",
+      "podnikatel",
+      "správní formality",
+      "založení společnosti"
+    ]
   },
   {
     "id": 52119,
@@ -3637,7 +6214,23 @@
       "abstain": 5,
       "absent": 18,
       "not_logged": 33
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Podnikání",
+      "Informační služby",
+      "Národní hospodářství",
+      "Občan",
+      "Obrana a bezpečnost",
+      "Státní správa a justice",
+      "Těžba a výroba",
+      "obchodní název",
+      "obchodní rejstřík",
+      "ochrana spotřebitele",
+      "podnikatel",
+      "správní formality",
+      "založení společnosti"
+    ]
   },
   {
     "id": 52120,
@@ -3650,7 +6243,18 @@
       "abstain": 4,
       "absent": 19,
       "not_logged": 39
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 52121,
@@ -3663,7 +6267,18 @@
       "abstain": 11,
       "absent": 19,
       "not_logged": 37
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 52122,
@@ -3676,7 +6291,18 @@
       "abstain": 28,
       "absent": 19,
       "not_logged": 36
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 52123,
@@ -3689,7 +6315,18 @@
       "abstain": 3,
       "absent": 19,
       "not_logged": 35
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 52124,
@@ -3702,7 +6339,18 @@
       "abstain": 4,
       "absent": 19,
       "not_logged": 35
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 52125,
@@ -3715,7 +6363,18 @@
       "abstain": 22,
       "absent": 19,
       "not_logged": 35
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 52126,
@@ -3728,7 +6387,18 @@
       "abstain": 3,
       "absent": 19,
       "not_logged": 35
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 52127,
@@ -3741,7 +6411,18 @@
       "abstain": 20,
       "absent": 19,
       "not_logged": 35
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 52128,
@@ -3754,7 +6435,18 @@
       "abstain": 5,
       "absent": 19,
       "not_logged": 36
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 52129,
@@ -3767,7 +6459,18 @@
       "abstain": 35,
       "absent": 19,
       "not_logged": 35
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 52130,
@@ -3780,7 +6483,18 @@
       "abstain": 47,
       "absent": 19,
       "not_logged": 35
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 52131,
@@ -3793,7 +6507,18 @@
       "abstain": 25,
       "absent": 19,
       "not_logged": 36
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 52132,
@@ -3806,7 +6531,18 @@
       "abstain": 9,
       "absent": 19,
       "not_logged": 37
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 52133,
@@ -3819,7 +6555,18 @@
       "abstain": 17,
       "absent": 19,
       "not_logged": 36
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 52134,
@@ -3832,7 +6579,18 @@
       "abstain": 17,
       "absent": 19,
       "not_logged": 36
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 52135,
@@ -3845,7 +6603,18 @@
       "abstain": 23,
       "absent": 19,
       "not_logged": 36
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 52136,
@@ -3858,7 +6627,18 @@
       "abstain": 3,
       "absent": 19,
       "not_logged": 35
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 52137,
@@ -3871,7 +6651,18 @@
       "abstain": 2,
       "absent": 19,
       "not_logged": 35
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 52138,
@@ -3884,7 +6675,18 @@
       "abstain": 1,
       "absent": 19,
       "not_logged": 35
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 52139,
@@ -3897,7 +6699,18 @@
       "abstain": 22,
       "absent": 19,
       "not_logged": 36
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 52140,
@@ -3910,7 +6723,18 @@
       "abstain": 27,
       "absent": 19,
       "not_logged": 36
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 52141,
@@ -3923,7 +6747,18 @@
       "abstain": 43,
       "absent": 19,
       "not_logged": 36
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 52142,
@@ -3936,7 +6771,18 @@
       "abstain": 28,
       "absent": 19,
       "not_logged": 36
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 52143,
@@ -3949,7 +6795,18 @@
       "abstain": 21,
       "absent": 19,
       "not_logged": 36
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 52144,
@@ -3962,7 +6819,18 @@
       "abstain": 27,
       "absent": 19,
       "not_logged": 36
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 52145,
@@ -3975,7 +6843,18 @@
       "abstain": 13,
       "absent": 19,
       "not_logged": 36
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 52146,
@@ -3988,7 +6867,18 @@
       "abstain": 22,
       "absent": 19,
       "not_logged": 36
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 52147,
@@ -4001,7 +6891,17 @@
       "abstain": 2,
       "absent": 19,
       "not_logged": 36
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Zakázky",
+      "Národní hospodářství",
+      "Občan",
+      "Státní správa a justice",
+      "soutěžní řízení",
+      "veřejná zakázka",
+      "vypsání soutěže"
+    ]
   },
   {
     "id": 52148,
@@ -4014,7 +6914,18 @@
       "abstain": 27,
       "absent": 19,
       "not_logged": 39
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 52149,
@@ -4027,7 +6938,18 @@
       "abstain": 9,
       "absent": 19,
       "not_logged": 41
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 52150,
@@ -4040,7 +6962,18 @@
       "abstain": 5,
       "absent": 19,
       "not_logged": 40
-    }
+    },
+    "temata": [
+      "Rozpočet",
+      "Mezinárodní styky",
+      "Národní hospodářství",
+      "Občan",
+      "hospodářská podpora",
+      "investiční podpora",
+      "rozpočtová pravidla",
+      "strukturální fondy",
+      "strukturální výdaje na výzkum"
+    ]
   },
   {
     "id": 52151,
@@ -4053,7 +6986,18 @@
       "abstain": 46,
       "absent": 19,
       "not_logged": 43
-    }
+    },
+    "temata": [
+      "Majetek České republiky",
+      "Převody vlastnictví",
+      "Vyšší územní samosprávné celky (VÚSC)",
+      "Informační služby",
+      "Národní hospodářství",
+      "Státní správa a justice",
+      "Pardubický",
+      "převod vlastnictví",
+      "veřejný majetek"
+    ]
   },
   {
     "id": 52152,
@@ -4066,7 +7010,8 @@
       "abstain": 26,
       "absent": 19,
       "not_logged": 43
-    }
+    },
+    "temata": []
   },
   {
     "id": 52153,
@@ -4079,7 +7024,8 @@
       "abstain": 28,
       "absent": 19,
       "not_logged": 43
-    }
+    },
+    "temata": []
   },
   {
     "id": 52154,
@@ -4092,7 +7038,18 @@
       "abstain": 18,
       "absent": 19,
       "not_logged": 42
-    }
+    },
+    "temata": [
+      "Informovannost",
+      "Správa státní",
+      "Subjekty podnikatelské",
+      "Informační služby",
+      "Národní hospodářství",
+      "elektronická správa dokumentů",
+      "evidence obyvatelstva",
+      "informační systém",
+      "veřejná správa"
+    ]
   },
   {
     "id": 52155,
@@ -4105,7 +7062,22 @@
       "abstain": 24,
       "absent": 19,
       "not_logged": 42
-    }
+    },
+    "temata": [
+      "Ekologie",
+      "Evropská unie /EU/",
+      "Mezinárodní styky",
+      "Národní hospodářství",
+      "Občan",
+      "Těžba a výroba",
+      "Zdravotnictví",
+      "Životní prostředí",
+      "nakládání s odpadem",
+      "odpad",
+      "přibližování legislativy",
+      "recyklace odpadu",
+      "zneškodňování odpadu"
+    ]
   },
   {
     "id": 52156,
@@ -4118,7 +7090,19 @@
       "abstain": 25,
       "absent": 19,
       "not_logged": 51
-    }
+    },
+    "temata": [
+      "Referendum",
+      "Vyšší územní samosprávné celky (VÚSC)",
+      "Politika",
+      "Státní správa a justice",
+      "kampaň na získání veřejnosti",
+      "občanská práva",
+      "obec",
+      "referendum",
+      "region",
+      "územní samospráva"
+    ]
   },
   {
     "id": 52157,
@@ -4131,7 +7115,19 @@
       "abstain": 30,
       "absent": 19,
       "not_logged": 50
-    }
+    },
+    "temata": [
+      "Referendum",
+      "Vyšší územní samosprávné celky (VÚSC)",
+      "Politika",
+      "Státní správa a justice",
+      "kampaň na získání veřejnosti",
+      "občanská práva",
+      "obec",
+      "referendum",
+      "region",
+      "územní samospráva"
+    ]
   },
   {
     "id": 52158,
@@ -4144,7 +7140,19 @@
       "abstain": 24,
       "absent": 19,
       "not_logged": 50
-    }
+    },
+    "temata": [
+      "Referendum",
+      "Vyšší územní samosprávné celky (VÚSC)",
+      "Politika",
+      "Státní správa a justice",
+      "kampaň na získání veřejnosti",
+      "občanská práva",
+      "obec",
+      "referendum",
+      "region",
+      "územní samospráva"
+    ]
   },
   {
     "id": 52159,
@@ -4157,7 +7165,19 @@
       "abstain": 30,
       "absent": 19,
       "not_logged": 51
-    }
+    },
+    "temata": [
+      "Referendum",
+      "Vyšší územní samosprávné celky (VÚSC)",
+      "Politika",
+      "Státní správa a justice",
+      "kampaň na získání veřejnosti",
+      "občanská práva",
+      "obec",
+      "referendum",
+      "region",
+      "územní samospráva"
+    ]
   },
   {
     "id": 52160,
@@ -4170,7 +7190,8 @@
       "abstain": 29,
       "absent": 19,
       "not_logged": 53
-    }
+    },
+    "temata": []
   },
   {
     "id": 52161,
@@ -4183,7 +7204,8 @@
       "abstain": 10,
       "absent": 6,
       "not_logged": 15
-    }
+    },
+    "temata": []
   },
   {
     "id": 52162,
@@ -4196,7 +7218,8 @@
       "abstain": 33,
       "absent": 6,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 52163,
@@ -4209,7 +7232,8 @@
       "abstain": 53,
       "absent": 6,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 52164,
@@ -4222,7 +7246,8 @@
       "abstain": 79,
       "absent": 6,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 52165,
@@ -4235,7 +7260,8 @@
       "abstain": 138,
       "absent": 6,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 52166,
@@ -4248,7 +7274,8 @@
       "abstain": 18,
       "absent": 6,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 52167,
@@ -4261,7 +7288,8 @@
       "abstain": 33,
       "absent": 6,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 52168,
@@ -4274,7 +7302,8 @@
       "abstain": 27,
       "absent": 6,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 52169,
@@ -4287,7 +7316,8 @@
       "abstain": 22,
       "absent": 6,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 52170,
@@ -4300,7 +7330,8 @@
       "abstain": 114,
       "absent": 6,
       "not_logged": 7
-    }
+    },
+    "temata": []
   },
   {
     "id": 52171,
@@ -4313,7 +7344,8 @@
       "abstain": 104,
       "absent": 6,
       "not_logged": 9
-    }
+    },
+    "temata": []
   },
   {
     "id": 52172,
@@ -4326,7 +7358,8 @@
       "abstain": 72,
       "absent": 6,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 52173,
@@ -4339,7 +7372,8 @@
       "abstain": 51,
       "absent": 6,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 52174,
@@ -4352,7 +7386,8 @@
       "abstain": 62,
       "absent": 6,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 52175,
@@ -4365,7 +7400,8 @@
       "abstain": 100,
       "absent": 6,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 52176,
@@ -4378,7 +7414,8 @@
       "abstain": 113,
       "absent": 6,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 52177,
@@ -4391,7 +7428,8 @@
       "abstain": 70,
       "absent": 6,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 52178,
@@ -4404,7 +7442,8 @@
       "abstain": 106,
       "absent": 6,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 52179,
@@ -4417,7 +7456,8 @@
       "abstain": 38,
       "absent": 6,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 52180,
@@ -4430,7 +7470,8 @@
       "abstain": 97,
       "absent": 6,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 52181,
@@ -4443,7 +7484,8 @@
       "abstain": 21,
       "absent": 6,
       "not_logged": 3
-    }
+    },
+    "temata": []
   },
   {
     "id": 52182,
@@ -4456,7 +7498,19 @@
       "abstain": 17,
       "absent": 6,
       "not_logged": 3
-    }
+    },
+    "temata": [
+      "Referendum",
+      "Vyšší územní samosprávné celky (VÚSC)",
+      "Politika",
+      "Státní správa a justice",
+      "kampaň na získání veřejnosti",
+      "občanská práva",
+      "obec",
+      "referendum",
+      "region",
+      "územní samospráva"
+    ]
   },
   {
     "id": 52183,
@@ -4469,7 +7523,25 @@
       "abstain": 17,
       "absent": 6,
       "not_logged": 4
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Zbraně",
+      "Informační služby",
+      "Mezinárodní styky",
+      "Národní hospodářství",
+      "Občan",
+      "Obrana a bezpečnost",
+      "kontrola dovozu",
+      "kontrola vývozu",
+      "nebezpečná látka",
+      "ohňostroj",
+      "osobní zbraň",
+      "řízení výroby",
+      "střelná zbraň a střelivo",
+      "úrazová prevence",
+      "výbušnina"
+    ]
   },
   {
     "id": 52184,
@@ -4482,7 +7554,8 @@
       "abstain": 70,
       "absent": 6,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 52185,
@@ -4495,7 +7568,17 @@
       "abstain": 32,
       "absent": 6,
       "not_logged": 5
-    }
+    },
+    "temata": [
+      "Pojištění",
+      "Zabezpečení sociální",
+      "Národní hospodářství",
+      "Peněžnictví a pojišťovnictví",
+      "Pracovní síla",
+      "mateřský příspěvek",
+      "sociální dávky",
+      "zdravotní pojištění"
+    ]
   },
   {
     "id": 52186,
@@ -4508,7 +7591,22 @@
       "abstain": 35,
       "absent": 6,
       "not_logged": 8
-    }
+    },
+    "temata": [
+      "Díla audiovizuální",
+      "Evropská unie /EU/",
+      "Doprava a spoje",
+      "Informační služby",
+      "Mezinárodní styky",
+      "Národní hospodářství",
+      "Občan",
+      "Státní správa a justice",
+      "audiovizuální politika",
+      "audiovizuální produkce",
+      "propagace",
+      "rozhlasové vysílání",
+      "televize"
+    ]
   },
   {
     "id": 52187,
@@ -4521,7 +7619,25 @@
       "abstain": 71,
       "absent": 6,
       "not_logged": 10
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Zbraně",
+      "Informační služby",
+      "Mezinárodní styky",
+      "Národní hospodářství",
+      "Občan",
+      "Obrana a bezpečnost",
+      "kontrola dovozu",
+      "kontrola vývozu",
+      "nebezpečná látka",
+      "ohňostroj",
+      "osobní zbraň",
+      "řízení výroby",
+      "střelná zbraň a střelivo",
+      "úrazová prevence",
+      "výbušnina"
+    ]
   },
   {
     "id": 52188,
@@ -4534,7 +7650,15 @@
       "abstain": 65,
       "absent": 6,
       "not_logged": 10
-    }
+    },
+    "temata": [
+      "Parlament České republiky",
+      "Politika",
+      "Státní správa a justice",
+      "dolní komora",
+      "parlamentní volby",
+      "rozdělení na volební kraje"
+    ]
   },
   {
     "id": 52189,
@@ -4547,7 +7671,25 @@
       "abstain": 63,
       "absent": 6,
       "not_logged": 11
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Zbraně",
+      "Informační služby",
+      "Mezinárodní styky",
+      "Národní hospodářství",
+      "Občan",
+      "Obrana a bezpečnost",
+      "kontrola dovozu",
+      "kontrola vývozu",
+      "nebezpečná látka",
+      "ohňostroj",
+      "osobní zbraň",
+      "řízení výroby",
+      "střelná zbraň a střelivo",
+      "úrazová prevence",
+      "výbušnina"
+    ]
   },
   {
     "id": 52190,
@@ -4560,7 +7702,19 @@
       "abstain": 53,
       "absent": 6,
       "not_logged": 11
-    }
+    },
+    "temata": [
+      "Doklady cestovní",
+      "Mezinárodní styky",
+      "Národní hospodářství",
+      "Občan",
+      "Obrana a bezpečnost",
+      "Státní správa a justice",
+      "cestovní pas",
+      "identifikační průkaz",
+      "svoboda pohybu",
+      "trestní řízení"
+    ]
   },
   {
     "id": 52191,
@@ -4573,7 +7727,25 @@
       "abstain": 49,
       "absent": 6,
       "not_logged": 15
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Zbraně",
+      "Informační služby",
+      "Mezinárodní styky",
+      "Národní hospodářství",
+      "Občan",
+      "Obrana a bezpečnost",
+      "kontrola dovozu",
+      "kontrola vývozu",
+      "nebezpečná látka",
+      "ohňostroj",
+      "osobní zbraň",
+      "řízení výroby",
+      "střelná zbraň a střelivo",
+      "úrazová prevence",
+      "výbušnina"
+    ]
   },
   {
     "id": 52192,
@@ -4586,7 +7758,25 @@
       "abstain": 172,
       "absent": 6,
       "not_logged": 21
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Zbraně",
+      "Informační služby",
+      "Mezinárodní styky",
+      "Národní hospodářství",
+      "Občan",
+      "Obrana a bezpečnost",
+      "kontrola dovozu",
+      "kontrola vývozu",
+      "nebezpečná látka",
+      "ohňostroj",
+      "osobní zbraň",
+      "řízení výroby",
+      "střelná zbraň a střelivo",
+      "úrazová prevence",
+      "výbušnina"
+    ]
   },
   {
     "id": 52193,
@@ -4599,7 +7789,25 @@
       "abstain": 7,
       "absent": 6,
       "not_logged": 40
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Zbraně",
+      "Informační služby",
+      "Mezinárodní styky",
+      "Národní hospodářství",
+      "Občan",
+      "Obrana a bezpečnost",
+      "kontrola dovozu",
+      "kontrola vývozu",
+      "nebezpečná látka",
+      "ohňostroj",
+      "osobní zbraň",
+      "řízení výroby",
+      "střelná zbraň a střelivo",
+      "úrazová prevence",
+      "výbušnina"
+    ]
   },
   {
     "id": 52194,
@@ -4612,7 +7820,25 @@
       "abstain": 7,
       "absent": 6,
       "not_logged": 41
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Zbraně",
+      "Informační služby",
+      "Mezinárodní styky",
+      "Národní hospodářství",
+      "Občan",
+      "Obrana a bezpečnost",
+      "kontrola dovozu",
+      "kontrola vývozu",
+      "nebezpečná látka",
+      "ohňostroj",
+      "osobní zbraň",
+      "řízení výroby",
+      "střelná zbraň a střelivo",
+      "úrazová prevence",
+      "výbušnina"
+    ]
   },
   {
     "id": 52195,
@@ -4625,7 +7851,25 @@
       "abstain": 4,
       "absent": 6,
       "not_logged": 47
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Zbraně",
+      "Informační služby",
+      "Mezinárodní styky",
+      "Národní hospodářství",
+      "Občan",
+      "Obrana a bezpečnost",
+      "kontrola dovozu",
+      "kontrola vývozu",
+      "nebezpečná látka",
+      "ohňostroj",
+      "osobní zbraň",
+      "řízení výroby",
+      "střelná zbraň a střelivo",
+      "úrazová prevence",
+      "výbušnina"
+    ]
   },
   {
     "id": 52196,
@@ -4638,7 +7882,25 @@
       "abstain": 40,
       "absent": 6,
       "not_logged": 44
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Zbraně",
+      "Informační služby",
+      "Mezinárodní styky",
+      "Národní hospodářství",
+      "Občan",
+      "Obrana a bezpečnost",
+      "kontrola dovozu",
+      "kontrola vývozu",
+      "nebezpečná látka",
+      "ohňostroj",
+      "osobní zbraň",
+      "řízení výroby",
+      "střelná zbraň a střelivo",
+      "úrazová prevence",
+      "výbušnina"
+    ]
   },
   {
     "id": 52197,
@@ -4651,7 +7913,25 @@
       "abstain": 67,
       "absent": 6,
       "not_logged": 44
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Zbraně",
+      "Informační služby",
+      "Mezinárodní styky",
+      "Národní hospodářství",
+      "Občan",
+      "Obrana a bezpečnost",
+      "kontrola dovozu",
+      "kontrola vývozu",
+      "nebezpečná látka",
+      "ohňostroj",
+      "osobní zbraň",
+      "řízení výroby",
+      "střelná zbraň a střelivo",
+      "úrazová prevence",
+      "výbušnina"
+    ]
   },
   {
     "id": 52198,
@@ -4664,7 +7944,8 @@
       "abstain": 17,
       "absent": 6,
       "not_logged": 32
-    }
+    },
+    "temata": []
   },
   {
     "id": 52199,
@@ -4677,7 +7958,8 @@
       "abstain": 6,
       "absent": 6,
       "not_logged": 32
-    }
+    },
+    "temata": []
   },
   {
     "id": 52200,
@@ -4690,7 +7972,8 @@
       "abstain": 7,
       "absent": 6,
       "not_logged": 31
-    }
+    },
+    "temata": []
   },
   {
     "id": 52201,
@@ -4703,7 +7986,8 @@
       "abstain": 7,
       "absent": 6,
       "not_logged": 30
-    }
+    },
+    "temata": []
   },
   {
     "id": 52202,
@@ -4716,7 +8000,8 @@
       "abstain": 5,
       "absent": 6,
       "not_logged": 30
-    }
+    },
+    "temata": []
   },
   {
     "id": 52203,
@@ -4729,7 +8014,8 @@
       "abstain": 58,
       "absent": 6,
       "not_logged": 28
-    }
+    },
+    "temata": []
   },
   {
     "id": 52204,
@@ -4742,7 +8028,22 @@
       "abstain": 24,
       "absent": 6,
       "not_logged": 23
-    }
+    },
+    "temata": [
+      "Bankovnictví",
+      "Evropská unie /EU/",
+      "Mezinárodní styky",
+      "Národní hospodářství",
+      "Peněžnictví a pojišťovnictví",
+      "Státní správa a justice",
+      "banka",
+      "bankovní vklad",
+      "družstevní banka",
+      "pojištění zákonné odpovědnosti",
+      "pojistné",
+      "pojistné plnění",
+      "úvěrová instituce"
+    ]
   },
   {
     "id": 52205,
@@ -4755,7 +8056,22 @@
       "abstain": 93,
       "absent": 6,
       "not_logged": 24
-    }
+    },
+    "temata": [
+      "Bankovnictví",
+      "Evropská unie /EU/",
+      "Mezinárodní styky",
+      "Národní hospodářství",
+      "Peněžnictví a pojišťovnictví",
+      "Státní správa a justice",
+      "banka",
+      "bankovní vklad",
+      "družstevní banka",
+      "pojištění zákonné odpovědnosti",
+      "pojistné",
+      "pojistné plnění",
+      "úvěrová instituce"
+    ]
   },
   {
     "id": 52206,
@@ -4768,7 +8084,22 @@
       "abstain": 9,
       "absent": 6,
       "not_logged": 23
-    }
+    },
+    "temata": [
+      "Bankovnictví",
+      "Evropská unie /EU/",
+      "Mezinárodní styky",
+      "Národní hospodářství",
+      "Peněžnictví a pojišťovnictví",
+      "Státní správa a justice",
+      "banka",
+      "bankovní vklad",
+      "družstevní banka",
+      "pojištění zákonné odpovědnosti",
+      "pojistné",
+      "pojistné plnění",
+      "úvěrová instituce"
+    ]
   },
   {
     "id": 52207,
@@ -4781,7 +8112,22 @@
       "abstain": 94,
       "absent": 6,
       "not_logged": 23
-    }
+    },
+    "temata": [
+      "Bankovnictví",
+      "Evropská unie /EU/",
+      "Mezinárodní styky",
+      "Národní hospodářství",
+      "Peněžnictví a pojišťovnictví",
+      "Státní správa a justice",
+      "banka",
+      "bankovní vklad",
+      "družstevní banka",
+      "pojištění zákonné odpovědnosti",
+      "pojistné",
+      "pojistné plnění",
+      "úvěrová instituce"
+    ]
   },
   {
     "id": 52208,
@@ -4794,7 +8140,22 @@
       "abstain": 96,
       "absent": 6,
       "not_logged": 22
-    }
+    },
+    "temata": [
+      "Bankovnictví",
+      "Evropská unie /EU/",
+      "Mezinárodní styky",
+      "Národní hospodářství",
+      "Peněžnictví a pojišťovnictví",
+      "Státní správa a justice",
+      "banka",
+      "bankovní vklad",
+      "družstevní banka",
+      "pojištění zákonné odpovědnosti",
+      "pojistné",
+      "pojistné plnění",
+      "úvěrová instituce"
+    ]
   },
   {
     "id": 52209,
@@ -4807,7 +8168,22 @@
       "abstain": 95,
       "absent": 6,
       "not_logged": 22
-    }
+    },
+    "temata": [
+      "Bankovnictví",
+      "Evropská unie /EU/",
+      "Mezinárodní styky",
+      "Národní hospodářství",
+      "Peněžnictví a pojišťovnictví",
+      "Státní správa a justice",
+      "banka",
+      "bankovní vklad",
+      "družstevní banka",
+      "pojištění zákonné odpovědnosti",
+      "pojistné",
+      "pojistné plnění",
+      "úvěrová instituce"
+    ]
   },
   {
     "id": 52210,
@@ -4820,7 +8196,22 @@
       "abstain": 90,
       "absent": 6,
       "not_logged": 22
-    }
+    },
+    "temata": [
+      "Bankovnictví",
+      "Evropská unie /EU/",
+      "Mezinárodní styky",
+      "Národní hospodářství",
+      "Peněžnictví a pojišťovnictví",
+      "Státní správa a justice",
+      "banka",
+      "bankovní vklad",
+      "družstevní banka",
+      "pojištění zákonné odpovědnosti",
+      "pojistné",
+      "pojistné plnění",
+      "úvěrová instituce"
+    ]
   },
   {
     "id": 52211,
@@ -4833,7 +8224,21 @@
       "abstain": 15,
       "absent": 6,
       "not_logged": 22
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Zdravotnictví",
+      "Mezinárodní styky",
+      "Národní hospodářství",
+      "Občan",
+      "lékařská diagnóza",
+      "prostředky zdravotnické techniky",
+      "správní kontrola",
+      "testování",
+      "vědecký přístroj",
+      "zdravotnická legislativa",
+      "zdravotní péče"
+    ]
   },
   {
     "id": 52212,
@@ -4846,7 +8251,24 @@
       "abstain": 28,
       "absent": 5,
       "not_logged": 21
-    }
+    },
+    "temata": [
+      "Doprava",
+      "Evropská unie /EU/",
+      "Funkcionáři Poslanecké sněmovny",
+      "Obchod a služby",
+      "Doprava a spoje",
+      "Mezinárodní styky",
+      "Národní hospodářství",
+      "Občan",
+      "Státní správa a justice",
+      "cestující veřejnost",
+      "dopravní infrastruktura",
+      "osobní doprava",
+      "silniční doprava",
+      "veřejná služba",
+      "železniční doprava"
+    ]
   },
   {
     "id": 52213,
@@ -4859,7 +8281,24 @@
       "abstain": 31,
       "absent": 5,
       "not_logged": 27
-    }
+    },
+    "temata": [
+      "Doprava",
+      "Evropská unie /EU/",
+      "Funkcionáři Poslanecké sněmovny",
+      "Obchod a služby",
+      "Doprava a spoje",
+      "Mezinárodní styky",
+      "Národní hospodářství",
+      "Občan",
+      "Státní správa a justice",
+      "cestující veřejnost",
+      "dopravní infrastruktura",
+      "osobní doprava",
+      "silniční doprava",
+      "veřejná služba",
+      "železniční doprava"
+    ]
   },
   {
     "id": 52214,
@@ -4872,7 +8311,24 @@
       "abstain": 14,
       "absent": 5,
       "not_logged": 23
-    }
+    },
+    "temata": [
+      "Doprava",
+      "Evropská unie /EU/",
+      "Funkcionáři Poslanecké sněmovny",
+      "Obchod a služby",
+      "Doprava a spoje",
+      "Mezinárodní styky",
+      "Národní hospodářství",
+      "Občan",
+      "Státní správa a justice",
+      "cestující veřejnost",
+      "dopravní infrastruktura",
+      "osobní doprava",
+      "silniční doprava",
+      "veřejná služba",
+      "železniční doprava"
+    ]
   },
   {
     "id": 52215,
@@ -4885,7 +8341,24 @@
       "abstain": 24,
       "absent": 5,
       "not_logged": 23
-    }
+    },
+    "temata": [
+      "Doprava",
+      "Evropská unie /EU/",
+      "Funkcionáři Poslanecké sněmovny",
+      "Obchod a služby",
+      "Doprava a spoje",
+      "Mezinárodní styky",
+      "Národní hospodářství",
+      "Občan",
+      "Státní správa a justice",
+      "cestující veřejnost",
+      "dopravní infrastruktura",
+      "osobní doprava",
+      "silniční doprava",
+      "veřejná služba",
+      "železniční doprava"
+    ]
   },
   {
     "id": 52216,
@@ -4898,7 +8371,24 @@
       "abstain": 3,
       "absent": 5,
       "not_logged": 22
-    }
+    },
+    "temata": [
+      "Doprava",
+      "Evropská unie /EU/",
+      "Funkcionáři Poslanecké sněmovny",
+      "Obchod a služby",
+      "Doprava a spoje",
+      "Mezinárodní styky",
+      "Národní hospodářství",
+      "Občan",
+      "Státní správa a justice",
+      "cestující veřejnost",
+      "dopravní infrastruktura",
+      "osobní doprava",
+      "silniční doprava",
+      "veřejná služba",
+      "železniční doprava"
+    ]
   },
   {
     "id": 52217,
@@ -4911,7 +8401,24 @@
       "abstain": 4,
       "absent": 5,
       "not_logged": 21
-    }
+    },
+    "temata": [
+      "Doprava",
+      "Evropská unie /EU/",
+      "Funkcionáři Poslanecké sněmovny",
+      "Obchod a služby",
+      "Doprava a spoje",
+      "Mezinárodní styky",
+      "Národní hospodářství",
+      "Občan",
+      "Státní správa a justice",
+      "cestující veřejnost",
+      "dopravní infrastruktura",
+      "osobní doprava",
+      "silniční doprava",
+      "veřejná služba",
+      "železniční doprava"
+    ]
   },
   {
     "id": 52218,
@@ -4924,7 +8431,18 @@
       "abstain": 29,
       "absent": 6,
       "not_logged": 31
-    }
+    },
+    "temata": [
+      "hromadné sdělovací prostředky",
+      "kampaň na získání veřejnosti",
+      "místní médium",
+      "obec",
+      "politická reprezentace",
+      "politika",
+      "právo na informace",
+      "sdělovací prostředky",
+      "zpřístupňování informací"
+    ]
   },
   {
     "id": 52219,
@@ -4937,7 +8455,18 @@
       "abstain": 42,
       "absent": 6,
       "not_logged": 25
-    }
+    },
+    "temata": [
+      "hromadné sdělovací prostředky",
+      "kampaň na získání veřejnosti",
+      "místní médium",
+      "obec",
+      "politická reprezentace",
+      "politika",
+      "právo na informace",
+      "sdělovací prostředky",
+      "zpřístupňování informací"
+    ]
   },
   {
     "id": 52220,
@@ -4950,7 +8479,18 @@
       "abstain": 32,
       "absent": 6,
       "not_logged": 27
-    }
+    },
+    "temata": [
+      "hromadné sdělovací prostředky",
+      "kampaň na získání veřejnosti",
+      "místní médium",
+      "obec",
+      "politická reprezentace",
+      "politika",
+      "právo na informace",
+      "sdělovací prostředky",
+      "zpřístupňování informací"
+    ]
   },
   {
     "id": 52221,
@@ -4963,7 +8503,18 @@
       "abstain": 29,
       "absent": 6,
       "not_logged": 26
-    }
+    },
+    "temata": [
+      "hromadné sdělovací prostředky",
+      "kampaň na získání veřejnosti",
+      "místní médium",
+      "obec",
+      "politická reprezentace",
+      "politika",
+      "právo na informace",
+      "sdělovací prostředky",
+      "zpřístupňování informací"
+    ]
   },
   {
     "id": 52222,
@@ -4976,7 +8527,18 @@
       "abstain": 32,
       "absent": 6,
       "not_logged": 26
-    }
+    },
+    "temata": [
+      "hromadné sdělovací prostředky",
+      "kampaň na získání veřejnosti",
+      "místní médium",
+      "obec",
+      "politická reprezentace",
+      "politika",
+      "právo na informace",
+      "sdělovací prostředky",
+      "zpřístupňování informací"
+    ]
   },
   {
     "id": 52223,
@@ -4989,7 +8551,18 @@
       "abstain": 40,
       "absent": 6,
       "not_logged": 23
-    }
+    },
+    "temata": [
+      "hromadné sdělovací prostředky",
+      "kampaň na získání veřejnosti",
+      "místní médium",
+      "obec",
+      "politická reprezentace",
+      "politika",
+      "právo na informace",
+      "sdělovací prostředky",
+      "zpřístupňování informací"
+    ]
   },
   {
     "id": 52224,
@@ -5002,7 +8575,13 @@
       "abstain": 16,
       "absent": 6,
       "not_logged": 27
-    }
+    },
+    "temata": [
+      "Školství",
+      "univerzita",
+      "vysokoškolské vzdělání",
+      "založení společnosti"
+    ]
   },
   {
     "id": 52225,
@@ -5015,7 +8594,15 @@
       "abstain": 33,
       "absent": 5,
       "not_logged": 27
-    }
+    },
+    "temata": [
+      "Odškodnění",
+      "Rehabilitace",
+      "autoritativní režim",
+      "finanční zrovnoprávnění",
+      "politická diskriminace",
+      "zrušení pracovních míst"
+    ]
   },
   {
     "id": 52226,
@@ -5028,7 +8615,15 @@
       "abstain": 36,
       "absent": 5,
       "not_logged": 26
-    }
+    },
+    "temata": [
+      "Odškodnění",
+      "Rehabilitace",
+      "autoritativní režim",
+      "finanční zrovnoprávnění",
+      "politická diskriminace",
+      "zrušení pracovních míst"
+    ]
   },
   {
     "id": 52227,
@@ -5041,7 +8636,15 @@
       "abstain": 36,
       "absent": 5,
       "not_logged": 27
-    }
+    },
+    "temata": [
+      "Odškodnění",
+      "Rehabilitace",
+      "autoritativní režim",
+      "finanční zrovnoprávnění",
+      "politická diskriminace",
+      "zrušení pracovních míst"
+    ]
   },
   {
     "id": 52228,
@@ -5054,7 +8657,15 @@
       "abstain": 55,
       "absent": 5,
       "not_logged": 27
-    }
+    },
+    "temata": [
+      "Odškodnění",
+      "Rehabilitace",
+      "autoritativní režim",
+      "finanční zrovnoprávnění",
+      "politická diskriminace",
+      "zrušení pracovních míst"
+    ]
   },
   {
     "id": 52229,
@@ -5067,7 +8678,15 @@
       "abstain": 33,
       "absent": 5,
       "not_logged": 29
-    }
+    },
+    "temata": [
+      "Odškodnění",
+      "Rehabilitace",
+      "autoritativní režim",
+      "finanční zrovnoprávnění",
+      "politická diskriminace",
+      "zrušení pracovních míst"
+    ]
   },
   {
     "id": 52230,
@@ -5080,7 +8699,15 @@
       "abstain": 85,
       "absent": 5,
       "not_logged": 30
-    }
+    },
+    "temata": [
+      "Odškodnění",
+      "Rehabilitace",
+      "autoritativní režim",
+      "finanční zrovnoprávnění",
+      "politická diskriminace",
+      "zrušení pracovních míst"
+    ]
   },
   {
     "id": 52231,
@@ -5093,7 +8720,22 @@
       "abstain": 28,
       "absent": 5,
       "not_logged": 29
-    }
+    },
+    "temata": [
+      "Bankovnictví",
+      "Evropská unie /EU/",
+      "Mezinárodní styky",
+      "Národní hospodářství",
+      "Peněžnictví a pojišťovnictví",
+      "Státní správa a justice",
+      "banka",
+      "bankovní vklad",
+      "družstevní banka",
+      "pojištění zákonné odpovědnosti",
+      "pojistné",
+      "pojistné plnění",
+      "úvěrová instituce"
+    ]
   },
   {
     "id": 52232,
@@ -5106,7 +8748,22 @@
       "abstain": 40,
       "absent": 5,
       "not_logged": 28
-    }
+    },
+    "temata": [
+      "Bankovnictví",
+      "Evropská unie /EU/",
+      "Mezinárodní styky",
+      "Národní hospodářství",
+      "Peněžnictví a pojišťovnictví",
+      "Státní správa a justice",
+      "banka",
+      "bankovní vklad",
+      "družstevní banka",
+      "pojištění zákonné odpovědnosti",
+      "pojistné",
+      "pojistné plnění",
+      "úvěrová instituce"
+    ]
   },
   {
     "id": 52233,
@@ -5119,7 +8776,22 @@
       "abstain": 91,
       "absent": 5,
       "not_logged": 33
-    }
+    },
+    "temata": [
+      "Bankovnictví",
+      "Evropská unie /EU/",
+      "Mezinárodní styky",
+      "Národní hospodářství",
+      "Peněžnictví a pojišťovnictví",
+      "Státní správa a justice",
+      "banka",
+      "bankovní vklad",
+      "družstevní banka",
+      "pojištění zákonné odpovědnosti",
+      "pojistné",
+      "pojistné plnění",
+      "úvěrová instituce"
+    ]
   },
   {
     "id": 52234,
@@ -5132,7 +8804,22 @@
       "abstain": 73,
       "absent": 5,
       "not_logged": 26
-    }
+    },
+    "temata": [
+      "Bankovnictví",
+      "Evropská unie /EU/",
+      "Mezinárodní styky",
+      "Národní hospodářství",
+      "Peněžnictví a pojišťovnictví",
+      "Státní správa a justice",
+      "banka",
+      "bankovní vklad",
+      "družstevní banka",
+      "pojištění zákonné odpovědnosti",
+      "pojistné",
+      "pojistné plnění",
+      "úvěrová instituce"
+    ]
   },
   {
     "id": 52235,
@@ -5145,7 +8832,14 @@
       "abstain": 9,
       "absent": 5,
       "not_logged": 23
-    }
+    },
+    "temata": [
+      "Loterie",
+      "automatická hra",
+      "hazardní hry",
+      "veřejná služba",
+      "zisk"
+    ]
   },
   {
     "id": 52236,
@@ -5158,7 +8852,8 @@
       "abstain": 3,
       "absent": 7,
       "not_logged": 92
-    }
+    },
+    "temata": []
   },
   {
     "id": 52237,
@@ -5171,7 +8866,8 @@
       "abstain": 3,
       "absent": 7,
       "not_logged": 86
-    }
+    },
+    "temata": []
   },
   {
     "id": 52238,
@@ -5184,7 +8880,8 @@
       "abstain": 13,
       "absent": 6,
       "not_logged": 66
-    }
+    },
+    "temata": []
   },
   {
     "id": 52239,
@@ -5197,7 +8894,16 @@
       "abstain": 33,
       "absent": 6,
       "not_logged": 59
-    }
+    },
+    "temata": [
+      "Řízení rozhodčí",
+      "Zákon trestní",
+      "boj proti zločinnosti",
+      "hospodářský trestný čin",
+      "korupce",
+      "organizovaný zločin",
+      "výslech svědka"
+    ]
   },
   {
     "id": 52240,
@@ -5210,7 +8916,16 @@
       "abstain": 6,
       "absent": 6,
       "not_logged": 92
-    }
+    },
+    "temata": [
+      "Pozemkový fond",
+      "finanční kontrola",
+      "nemovitý majetek",
+      "převod vlastnictví",
+      "účetní uzávěrka",
+      "zemědělsky využívaná půda",
+      "zpráva o činnosti"
+    ]
   },
   {
     "id": 52241,
@@ -5223,7 +8938,13 @@
       "abstain": 11,
       "absent": 6,
       "not_logged": 90
-    }
+    },
+    "temata": [
+      "Pozemkový fond",
+      "návrh rozpočtu",
+      "zemědělská nemovitost",
+      "zemědělsky využívaná půda"
+    ]
   },
   {
     "id": 52242,
@@ -5236,7 +8957,13 @@
       "abstain": 13,
       "absent": 6,
       "not_logged": 87
-    }
+    },
+    "temata": [
+      "Pozemkový fond",
+      "jmenování pracovníků",
+      "podnikové vedení",
+      "vedení společnosti"
+    ]
   },
   {
     "id": 52243,
@@ -5249,7 +8976,22 @@
       "abstain": 26,
       "absent": 6,
       "not_logged": 86
-    }
+    },
+    "temata": [
+      "Lobbing",
+      "Podnikání",
+      "Správa státní",
+      "kontrola komunikace",
+      "neslučitelnost",
+      "parlament",
+      "parlamentní výbor",
+      "politický funkcionář",
+      "poslanec parlamentu",
+      "seznam",
+      "veřejná funkce",
+      "zájmová skupina",
+      "zpřístupňování informací"
+    ]
   },
   {
     "id": 52244,
@@ -5262,7 +9004,22 @@
       "abstain": 25,
       "absent": 6,
       "not_logged": 79
-    }
+    },
+    "temata": [
+      "Lobbing",
+      "Podnikání",
+      "Správa státní",
+      "kontrola komunikace",
+      "neslučitelnost",
+      "parlament",
+      "parlamentní výbor",
+      "politický funkcionář",
+      "poslanec parlamentu",
+      "seznam",
+      "veřejná funkce",
+      "zájmová skupina",
+      "zpřístupňování informací"
+    ]
   },
   {
     "id": 52245,
@@ -5275,7 +9032,22 @@
       "abstain": 28,
       "absent": 6,
       "not_logged": 76
-    }
+    },
+    "temata": [
+      "Lobbing",
+      "Podnikání",
+      "Správa státní",
+      "kontrola komunikace",
+      "neslučitelnost",
+      "parlament",
+      "parlamentní výbor",
+      "politický funkcionář",
+      "poslanec parlamentu",
+      "seznam",
+      "veřejná funkce",
+      "zájmová skupina",
+      "zpřístupňování informací"
+    ]
   },
   {
     "id": 52246,
@@ -5288,7 +9060,14 @@
       "abstain": 31,
       "absent": 6,
       "not_logged": 82
-    }
+    },
+    "temata": [
+      "Ekologie",
+      "Moravskoslezský",
+      "průmyslový region",
+      "zdraví veřejnosti",
+      "znečišťování atmosféry"
+    ]
   },
   {
     "id": 52247,
@@ -5301,7 +9080,14 @@
       "abstain": 21,
       "absent": 6,
       "not_logged": 82
-    }
+    },
+    "temata": [
+      "Ekologie",
+      "Moravskoslezský",
+      "průmyslový region",
+      "zdraví veřejnosti",
+      "znečišťování atmosféry"
+    ]
   },
   {
     "id": 52248,
@@ -5314,7 +9100,14 @@
       "abstain": 25,
       "absent": 6,
       "not_logged": 82
-    }
+    },
+    "temata": [
+      "Ekologie",
+      "Moravskoslezský",
+      "průmyslový region",
+      "zdraví veřejnosti",
+      "znečišťování atmosféry"
+    ]
   },
   {
     "id": 52249,
@@ -5327,7 +9120,14 @@
       "abstain": 22,
       "absent": 6,
       "not_logged": 81
-    }
+    },
+    "temata": [
+      "Ekologie",
+      "Moravskoslezský",
+      "průmyslový region",
+      "zdraví veřejnosti",
+      "znečišťování atmosféry"
+    ]
   },
   {
     "id": 52250,
@@ -5340,7 +9140,14 @@
       "abstain": 48,
       "absent": 6,
       "not_logged": 81
-    }
+    },
+    "temata": [
+      "Ekologie",
+      "Moravskoslezský",
+      "průmyslový region",
+      "zdraví veřejnosti",
+      "znečišťování atmosféry"
+    ]
   },
   {
     "id": 52251,
@@ -5353,7 +9160,14 @@
       "abstain": 39,
       "absent": 6,
       "not_logged": 81
-    }
+    },
+    "temata": [
+      "Ekologie",
+      "Moravskoslezský",
+      "průmyslový region",
+      "zdraví veřejnosti",
+      "znečišťování atmosféry"
+    ]
   },
   {
     "id": 52252,
@@ -5366,7 +9180,14 @@
       "abstain": 46,
       "absent": 6,
       "not_logged": 81
-    }
+    },
+    "temata": [
+      "Ekologie",
+      "Moravskoslezský",
+      "průmyslový region",
+      "zdraví veřejnosti",
+      "znečišťování atmosféry"
+    ]
   },
   {
     "id": 52253,
@@ -5379,7 +9200,14 @@
       "abstain": 39,
       "absent": 6,
       "not_logged": 81
-    }
+    },
+    "temata": [
+      "Ekologie",
+      "Moravskoslezský",
+      "průmyslový region",
+      "zdraví veřejnosti",
+      "znečišťování atmosféry"
+    ]
   },
   {
     "id": 52254,
@@ -5392,7 +9220,13 @@
       "abstain": 31,
       "absent": 6,
       "not_logged": 85
-    }
+    },
+    "temata": [
+      "environmentální politika",
+      "ochrana živočišné říše",
+      "ptáci",
+      "vztahy mezi Severem a Jihem"
+    ]
   },
   {
     "id": 52255,
@@ -5405,7 +9239,12 @@
       "abstain": 28,
       "absent": 6,
       "not_logged": 86
-    }
+    },
+    "temata": [
+      "jedovatá látka",
+      "ochrana životního prostředí",
+      "zdravotní politika"
+    ]
   },
   {
     "id": 52256,
@@ -5418,7 +9257,8 @@
       "abstain": 21,
       "absent": 18,
       "not_logged": 83
-    }
+    },
+    "temata": []
   },
   {
     "id": 52257,
@@ -5431,7 +9271,17 @@
       "abstain": 19,
       "absent": 19,
       "not_logged": 85
-    }
+    },
+    "temata": [
+      "Cvičení vojenská",
+      "armáda",
+      "NATO",
+      "politika spolupráce",
+      "tranzit",
+      "vojenská spolupráce",
+      "vojenské cvičení",
+      "vojska v zahraničí"
+    ]
   },
   {
     "id": 52258,
@@ -5444,7 +9294,17 @@
       "abstain": 57,
       "absent": 19,
       "not_logged": 100
-    }
+    },
+    "temata": [
+      "Cvičení vojenská",
+      "armáda",
+      "NATO",
+      "politika spolupráce",
+      "tranzit",
+      "vojenská spolupráce",
+      "vojenské cvičení",
+      "vojska v zahraničí"
+    ]
   },
   {
     "id": 52259,
@@ -5457,7 +9317,8 @@
       "abstain": 18,
       "absent": 19,
       "not_logged": 110
-    }
+    },
+    "temata": []
   },
   {
     "id": 52260,
@@ -5470,7 +9331,17 @@
       "abstain": 26,
       "absent": 18,
       "not_logged": 94
-    }
+    },
+    "temata": [
+      "Cvičení vojenská",
+      "armáda",
+      "NATO",
+      "politika spolupráce",
+      "tranzit",
+      "vojenská spolupráce",
+      "vojenské cvičení",
+      "vojska v zahraničí"
+    ]
   },
   {
     "id": 52261,
@@ -5483,7 +9354,17 @@
       "abstain": 13,
       "absent": 19,
       "not_logged": 108
-    }
+    },
+    "temata": [
+      "Cvičení vojenská",
+      "armáda",
+      "NATO",
+      "politika spolupráce",
+      "tranzit",
+      "vojenská spolupráce",
+      "vojenské cvičení",
+      "vojska v zahraničí"
+    ]
   },
   {
     "id": 52262,
@@ -5496,7 +9377,8 @@
       "abstain": 11,
       "absent": 24,
       "not_logged": 48
-    }
+    },
+    "temata": []
   },
   {
     "id": 52263,
@@ -5509,7 +9391,8 @@
       "abstain": 8,
       "absent": 24,
       "not_logged": 42
-    }
+    },
+    "temata": []
   },
   {
     "id": 52264,
@@ -5522,7 +9405,8 @@
       "abstain": 47,
       "absent": 24,
       "not_logged": 42
-    }
+    },
+    "temata": []
   },
   {
     "id": 52265,
@@ -5535,7 +9419,8 @@
       "abstain": 31,
       "absent": 24,
       "not_logged": 42
-    }
+    },
+    "temata": []
   },
   {
     "id": 52266,
@@ -5548,7 +9433,8 @@
       "abstain": 13,
       "absent": 24,
       "not_logged": 42
-    }
+    },
+    "temata": []
   },
   {
     "id": 52267,
@@ -5561,7 +9447,8 @@
       "abstain": 69,
       "absent": 24,
       "not_logged": 42
-    }
+    },
+    "temata": []
   },
   {
     "id": 52268,
@@ -5574,7 +9461,8 @@
       "abstain": 82,
       "absent": 24,
       "not_logged": 42
-    }
+    },
+    "temata": []
   },
   {
     "id": 52269,
@@ -5587,7 +9475,8 @@
       "abstain": 81,
       "absent": 24,
       "not_logged": 42
-    }
+    },
+    "temata": []
   },
   {
     "id": 52270,
@@ -5600,7 +9489,8 @@
       "abstain": 68,
       "absent": 24,
       "not_logged": 42
-    }
+    },
+    "temata": []
   },
   {
     "id": 52271,
@@ -5613,7 +9503,8 @@
       "abstain": 21,
       "absent": 24,
       "not_logged": 44
-    }
+    },
+    "temata": []
   },
   {
     "id": 52272,
@@ -5626,7 +9517,21 @@
       "abstain": 11,
       "absent": 24,
       "not_logged": 40
-    }
+    },
+    "temata": [
+      "Daně - daň z příjmu",
+      "Národní hospodářství",
+      "Občan",
+      "Peněžnictví a pojišťovnictví",
+      "Pracovní síla",
+      "Státní správa a justice",
+      "daň z příjmů",
+      "emise cenných papírů",
+      "financování rozpočtu",
+      "převoditelný cenný papír",
+      "umořování veřejného dluhu",
+      "veřejný dluh"
+    ]
   },
   {
     "id": 52273,
@@ -5639,7 +9544,21 @@
       "abstain": 11,
       "absent": 24,
       "not_logged": 40
-    }
+    },
+    "temata": [
+      "Daně - daň z příjmu",
+      "Národní hospodářství",
+      "Občan",
+      "Peněžnictví a pojišťovnictví",
+      "Pracovní síla",
+      "Státní správa a justice",
+      "daň z příjmů",
+      "emise cenných papírů",
+      "financování rozpočtu",
+      "převoditelný cenný papír",
+      "umořování veřejného dluhu",
+      "veřejný dluh"
+    ]
   },
   {
     "id": 52274,
@@ -5652,7 +9571,21 @@
       "abstain": 125,
       "absent": 24,
       "not_logged": 42
-    }
+    },
+    "temata": [
+      "Daně - daň z příjmu",
+      "Národní hospodářství",
+      "Občan",
+      "Peněžnictví a pojišťovnictví",
+      "Pracovní síla",
+      "Státní správa a justice",
+      "daň z příjmů",
+      "emise cenných papírů",
+      "financování rozpočtu",
+      "převoditelný cenný papír",
+      "umořování veřejného dluhu",
+      "veřejný dluh"
+    ]
   },
   {
     "id": 52275,
@@ -5665,7 +9598,21 @@
       "abstain": 83,
       "absent": 24,
       "not_logged": 43
-    }
+    },
+    "temata": [
+      "Daně - daň z příjmu",
+      "Národní hospodářství",
+      "Občan",
+      "Peněžnictví a pojišťovnictví",
+      "Pracovní síla",
+      "Státní správa a justice",
+      "daň z příjmů",
+      "emise cenných papírů",
+      "financování rozpočtu",
+      "převoditelný cenný papír",
+      "umořování veřejného dluhu",
+      "veřejný dluh"
+    ]
   },
   {
     "id": 52276,
@@ -5678,7 +9625,21 @@
       "abstain": 77,
       "absent": 24,
       "not_logged": 44
-    }
+    },
+    "temata": [
+      "Daně - daň z příjmu",
+      "Národní hospodářství",
+      "Občan",
+      "Peněžnictví a pojišťovnictví",
+      "Pracovní síla",
+      "Státní správa a justice",
+      "daň z příjmů",
+      "emise cenných papírů",
+      "financování rozpočtu",
+      "převoditelný cenný papír",
+      "umořování veřejného dluhu",
+      "veřejný dluh"
+    ]
   },
   {
     "id": 52277,
@@ -5691,7 +9652,21 @@
       "abstain": 14,
       "absent": 24,
       "not_logged": 40
-    }
+    },
+    "temata": [
+      "Daně - daň z příjmu",
+      "Národní hospodářství",
+      "Občan",
+      "Peněžnictví a pojišťovnictví",
+      "Pracovní síla",
+      "Státní správa a justice",
+      "daň z příjmů",
+      "emise cenných papírů",
+      "financování rozpočtu",
+      "převoditelný cenný papír",
+      "umořování veřejného dluhu",
+      "veřejný dluh"
+    ]
   },
   {
     "id": 52278,
@@ -5704,7 +9679,21 @@
       "abstain": 17,
       "absent": 24,
       "not_logged": 40
-    }
+    },
+    "temata": [
+      "Daně - daň z příjmu",
+      "Národní hospodářství",
+      "Občan",
+      "Peněžnictví a pojišťovnictví",
+      "Pracovní síla",
+      "Státní správa a justice",
+      "daň z příjmů",
+      "emise cenných papírů",
+      "financování rozpočtu",
+      "převoditelný cenný papír",
+      "umořování veřejného dluhu",
+      "veřejný dluh"
+    ]
   },
   {
     "id": 52279,
@@ -5717,7 +9706,21 @@
       "abstain": 9,
       "absent": 24,
       "not_logged": 40
-    }
+    },
+    "temata": [
+      "Daně - daň z příjmu",
+      "Národní hospodářství",
+      "Občan",
+      "Peněžnictví a pojišťovnictví",
+      "Pracovní síla",
+      "Státní správa a justice",
+      "daň z příjmů",
+      "emise cenných papírů",
+      "financování rozpočtu",
+      "převoditelný cenný papír",
+      "umořování veřejného dluhu",
+      "veřejný dluh"
+    ]
   },
   {
     "id": 52280,
@@ -5730,7 +9733,21 @@
       "abstain": 111,
       "absent": 24,
       "not_logged": 39
-    }
+    },
+    "temata": [
+      "Daně - daň z příjmu",
+      "Národní hospodářství",
+      "Občan",
+      "Peněžnictví a pojišťovnictví",
+      "Pracovní síla",
+      "Státní správa a justice",
+      "daň z příjmů",
+      "emise cenných papírů",
+      "financování rozpočtu",
+      "převoditelný cenný papír",
+      "umořování veřejného dluhu",
+      "veřejný dluh"
+    ]
   },
   {
     "id": 52281,
@@ -5743,7 +9760,21 @@
       "abstain": 10,
       "absent": 24,
       "not_logged": 39
-    }
+    },
+    "temata": [
+      "Daně - daň z příjmu",
+      "Národní hospodářství",
+      "Občan",
+      "Peněžnictví a pojišťovnictví",
+      "Pracovní síla",
+      "Státní správa a justice",
+      "daň z příjmů",
+      "emise cenných papírů",
+      "financování rozpočtu",
+      "převoditelný cenný papír",
+      "umořování veřejného dluhu",
+      "veřejný dluh"
+    ]
   },
   {
     "id": 52282,
@@ -5756,7 +9787,21 @@
       "abstain": 15,
       "absent": 24,
       "not_logged": 39
-    }
+    },
+    "temata": [
+      "Daně - daň z příjmu",
+      "Národní hospodářství",
+      "Občan",
+      "Peněžnictví a pojišťovnictví",
+      "Pracovní síla",
+      "Státní správa a justice",
+      "daň z příjmů",
+      "emise cenných papírů",
+      "financování rozpočtu",
+      "převoditelný cenný papír",
+      "umořování veřejného dluhu",
+      "veřejný dluh"
+    ]
   },
   {
     "id": 52283,
@@ -5769,7 +9814,21 @@
       "abstain": 10,
       "absent": 24,
       "not_logged": 39
-    }
+    },
+    "temata": [
+      "Daně - daň z příjmu",
+      "Národní hospodářství",
+      "Občan",
+      "Peněžnictví a pojišťovnictví",
+      "Pracovní síla",
+      "Státní správa a justice",
+      "daň z příjmů",
+      "emise cenných papírů",
+      "financování rozpočtu",
+      "převoditelný cenný papír",
+      "umořování veřejného dluhu",
+      "veřejný dluh"
+    ]
   },
   {
     "id": 52285,
@@ -5782,7 +9841,8 @@
       "abstain": 15,
       "absent": 24,
       "not_logged": 69
-    }
+    },
+    "temata": []
   },
   {
     "id": 52286,
@@ -5795,7 +9855,8 @@
       "abstain": 11,
       "absent": 24,
       "not_logged": 68
-    }
+    },
+    "temata": []
   },
   {
     "id": 52287,
@@ -5808,7 +9869,8 @@
       "abstain": 25,
       "absent": 24,
       "not_logged": 68
-    }
+    },
+    "temata": []
   },
   {
     "id": 52288,
@@ -5821,7 +9883,8 @@
       "abstain": 24,
       "absent": 24,
       "not_logged": 67
-    }
+    },
+    "temata": []
   },
   {
     "id": 52289,
@@ -5834,7 +9897,8 @@
       "abstain": 8,
       "absent": 24,
       "not_logged": 67
-    }
+    },
+    "temata": []
   },
   {
     "id": 52290,
@@ -5847,7 +9911,8 @@
       "abstain": 22,
       "absent": 24,
       "not_logged": 66
-    }
+    },
+    "temata": []
   },
   {
     "id": 52291,
@@ -5860,7 +9925,8 @@
       "abstain": 34,
       "absent": 24,
       "not_logged": 66
-    }
+    },
+    "temata": []
   },
   {
     "id": 52292,
@@ -5873,7 +9939,8 @@
       "abstain": 27,
       "absent": 24,
       "not_logged": 65
-    }
+    },
+    "temata": []
   },
   {
     "id": 52293,
@@ -5886,7 +9953,8 @@
       "abstain": 21,
       "absent": 24,
       "not_logged": 67
-    }
+    },
+    "temata": []
   },
   {
     "id": 52294,
@@ -5899,7 +9967,8 @@
       "abstain": 11,
       "absent": 24,
       "not_logged": 70
-    }
+    },
+    "temata": []
   },
   {
     "id": 52295,
@@ -5912,7 +9981,8 @@
       "abstain": 20,
       "absent": 24,
       "not_logged": 69
-    }
+    },
+    "temata": []
   },
   {
     "id": 52296,
@@ -5925,7 +9995,8 @@
       "abstain": 10,
       "absent": 24,
       "not_logged": 68
-    }
+    },
+    "temata": []
   },
   {
     "id": 52297,
@@ -5938,7 +10009,8 @@
       "abstain": 15,
       "absent": 24,
       "not_logged": 68
-    }
+    },
+    "temata": []
   },
   {
     "id": 52298,
@@ -5951,7 +10023,8 @@
       "abstain": 10,
       "absent": 24,
       "not_logged": 68
-    }
+    },
+    "temata": []
   },
   {
     "id": 52299,
@@ -5964,7 +10037,8 @@
       "abstain": 7,
       "absent": 24,
       "not_logged": 68
-    }
+    },
+    "temata": []
   },
   {
     "id": 52300,
@@ -5977,7 +10051,8 @@
       "abstain": 11,
       "absent": 24,
       "not_logged": 69
-    }
+    },
+    "temata": []
   },
   {
     "id": 52301,
@@ -5990,7 +10065,8 @@
       "abstain": 26,
       "absent": 24,
       "not_logged": 70
-    }
+    },
+    "temata": []
   },
   {
     "id": 52302,
@@ -6003,7 +10079,8 @@
       "abstain": 15,
       "absent": 24,
       "not_logged": 69
-    }
+    },
+    "temata": []
   },
   {
     "id": 52303,
@@ -6016,7 +10093,8 @@
       "abstain": 41,
       "absent": 24,
       "not_logged": 70
-    }
+    },
+    "temata": []
   },
   {
     "id": 52304,
@@ -6029,7 +10107,8 @@
       "abstain": 9,
       "absent": 24,
       "not_logged": 70
-    }
+    },
+    "temata": []
   },
   {
     "id": 52305,
@@ -6042,7 +10121,8 @@
       "abstain": 12,
       "absent": 24,
       "not_logged": 70
-    }
+    },
+    "temata": []
   },
   {
     "id": 52306,
@@ -6055,7 +10135,8 @@
       "abstain": 25,
       "absent": 24,
       "not_logged": 70
-    }
+    },
+    "temata": []
   },
   {
     "id": 52307,
@@ -6068,7 +10149,8 @@
       "abstain": 1,
       "absent": 25,
       "not_logged": 102
-    }
+    },
+    "temata": []
   },
   {
     "id": 52308,
@@ -6081,7 +10163,8 @@
       "abstain": 8,
       "absent": 25,
       "not_logged": 100
-    }
+    },
+    "temata": []
   },
   {
     "id": 52309,
@@ -6094,7 +10177,8 @@
       "abstain": 57,
       "absent": 2,
       "not_logged": 15
-    }
+    },
+    "temata": []
   },
   {
     "id": 52310,
@@ -6107,7 +10191,8 @@
       "abstain": 40,
       "absent": 2,
       "not_logged": 5
-    }
+    },
+    "temata": []
   },
   {
     "id": 52311,
@@ -6120,7 +10205,8 @@
       "abstain": 40,
       "absent": 2,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 52312,
@@ -6133,7 +10219,8 @@
       "abstain": 47,
       "absent": 2,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 52313,
@@ -6146,7 +10233,8 @@
       "abstain": 102,
       "absent": 2,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 52314,
@@ -6159,7 +10247,8 @@
       "abstain": 54,
       "absent": 2,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 52315,
@@ -6172,7 +10261,8 @@
       "abstain": 47,
       "absent": 2,
       "not_logged": 4
-    }
+    },
+    "temata": []
   },
   {
     "id": 52316,
@@ -6185,7 +10275,8 @@
       "abstain": 109,
       "absent": 2,
       "not_logged": 6
-    }
+    },
+    "temata": []
   },
   {
     "id": 52317,
@@ -6198,7 +10289,8 @@
       "abstain": 51,
       "absent": 2,
       "not_logged": 3
-    }
+    },
+    "temata": []
   },
   {
     "id": 52318,
@@ -6211,7 +10303,8 @@
       "abstain": 66,
       "absent": 2,
       "not_logged": 3
-    }
+    },
+    "temata": []
   },
   {
     "id": 52319,
@@ -6224,7 +10317,23 @@
       "abstain": 22,
       "absent": 2,
       "not_logged": 6
-    }
+    },
+    "temata": [
+      "Ekologie",
+      "Evropská unie /EU/",
+      "Informační služby",
+      "Mezinárodní styky",
+      "Národní hospodářství",
+      "Občan",
+      "Státní správa a justice",
+      "Zdravotnictví",
+      "Životní prostředí",
+      "letadlo",
+      "letecká doprava",
+      "obchodovatelné emisní povolení",
+      "skleníkový plyn",
+      "snižování plynných emisí"
+    ]
   },
   {
     "id": 52320,
@@ -6237,7 +10346,17 @@
       "abstain": 32,
       "absent": 2,
       "not_logged": 4
-    }
+    },
+    "temata": [
+      "Pojištění",
+      "Zabezpečení sociální",
+      "Národní hospodářství",
+      "Peněžnictví a pojišťovnictví",
+      "Pracovní síla",
+      "mateřský příspěvek",
+      "sociální dávky",
+      "zdravotní pojištění"
+    ]
   },
   {
     "id": 52321,
@@ -6250,7 +10369,14 @@
       "abstain": 33,
       "absent": 2,
       "not_logged": 7
-    }
+    },
+    "temata": [
+      "Pěstitelství",
+      "Sdružení občanská",
+      "ovocný sad",
+      "užitková zahrada",
+      "zájmová skupina"
+    ]
   },
   {
     "id": 52322,
@@ -6263,7 +10389,14 @@
       "abstain": 55,
       "absent": 2,
       "not_logged": 8
-    }
+    },
+    "temata": [
+      "Pěstitelství",
+      "Sdružení občanská",
+      "ovocný sad",
+      "užitková zahrada",
+      "zájmová skupina"
+    ]
   },
   {
     "id": 52323,
@@ -6276,7 +10409,14 @@
       "abstain": 28,
       "absent": 2,
       "not_logged": 8
-    }
+    },
+    "temata": [
+      "Pěstitelství",
+      "Sdružení občanská",
+      "ovocný sad",
+      "užitková zahrada",
+      "zájmová skupina"
+    ]
   },
   {
     "id": 52324,
@@ -6289,7 +10429,14 @@
       "abstain": 61,
       "absent": 2,
       "not_logged": 7
-    }
+    },
+    "temata": [
+      "Pěstitelství",
+      "Sdružení občanská",
+      "ovocný sad",
+      "užitková zahrada",
+      "zájmová skupina"
+    ]
   },
   {
     "id": 52325,
@@ -6302,7 +10449,14 @@
       "abstain": 29,
       "absent": 2,
       "not_logged": 7
-    }
+    },
+    "temata": [
+      "Pěstitelství",
+      "Sdružení občanská",
+      "ovocný sad",
+      "užitková zahrada",
+      "zájmová skupina"
+    ]
   },
   {
     "id": 52326,
@@ -6315,7 +10469,16 @@
       "abstain": 45,
       "absent": 2,
       "not_logged": 7
-    }
+    },
+    "temata": [
+      "Sport",
+      "Národní hospodářství",
+      "Školství",
+      "Státní správa a justice",
+      "chuligánství",
+      "policie",
+      "sport"
+    ]
   },
   {
     "id": 52327,
@@ -6328,7 +10491,15 @@
       "abstain": 123,
       "absent": 2,
       "not_logged": 10
-    }
+    },
+    "temata": [
+      "Bankovnictví",
+      "Evropská unie /EU/",
+      "centrální banka",
+      "činnost orgánů",
+      "Evropská centrální banka",
+      "měnová politika"
+    ]
   },
   {
     "id": 52328,
@@ -6341,7 +10512,15 @@
       "abstain": 19,
       "absent": 2,
       "not_logged": 11
-    }
+    },
+    "temata": [
+      "Bankovnictví",
+      "Evropská unie /EU/",
+      "centrální banka",
+      "činnost orgánů",
+      "Evropská centrální banka",
+      "měnová politika"
+    ]
   },
   {
     "id": 52329,
@@ -6354,7 +10533,17 @@
       "abstain": 19,
       "absent": 2,
       "not_logged": 10
-    }
+    },
+    "temata": [
+      "Evropská unie /EU/",
+      "Zakázky",
+      "Národní hospodářství",
+      "Občan",
+      "Státní správa a justice",
+      "soutěžní řízení",
+      "veřejná zakázka",
+      "vypsání soutěže"
+    ]
   },
   {
     "id": 52330,
@@ -6367,7 +10556,23 @@
       "abstain": 32,
       "absent": 2,
       "not_logged": 11
-    }
+    },
+    "temata": [
+      "Ekologie",
+      "Evropská unie /EU/",
+      "Informační služby",
+      "Mezinárodní styky",
+      "Národní hospodářství",
+      "Občan",
+      "Státní správa a justice",
+      "Zdravotnictví",
+      "Životní prostředí",
+      "letadlo",
+      "letecká doprava",
+      "obchodovatelné emisní povolení",
+      "skleníkový plyn",
+      "snižování plynných emisí"
+    ]
   },
   {
     "id": 52331,
@@ -6380,7 +10585,23 @@
       "abstain": 23,
       "absent": 2,
       "not_logged": 11
-    }
+    },
+    "temata": [
+      "Ekologie",
+      "Evropská unie /EU/",
+      "Informační služby",
+      "Mezinárodní styky",
+      "Národní hospodářství",
+      "Občan",
+      "Státní správa a justice",
+      "Zdravotnictví",
+      "Životní prostředí",
+      "letadlo",
+      "letecká doprava",
+      "obchodovatelné emisní povolení",
+      "skleníkový plyn",
+      "snižování plynných emisí"
+    ]
   },
   {
     "id": 52332,
@@ -6393,7 +10614,23 @@
       "abstain": 94,
       "absent": 2,
       "not_logged": 11
-    }
+    },
+    "temata": [
+      "Ekologie",
+      "Evropská unie /EU/",
+      "Informační služby",
+      "Mezinárodní styky",
+      "Národní hospodářství",
+      "Občan",
+      "Státní správa a justice",
+      "Zdravotnictví",
+      "Životní prostředí",
+      "letadlo",
+      "letecká doprava",
+      "obchodovatelné emisní povolení",
+      "skleníkový plyn",
+      "snižování plynných emisí"
+    ]
   },
   {
     "id": 52333,
@@ -6406,7 +10643,23 @@
       "abstain": 17,
       "absent": 2,
       "not_logged": 11
-    }
+    },
+    "temata": [
+      "Ekologie",
+      "Evropská unie /EU/",
+      "Informační služby",
+      "Mezinárodní styky",
+      "Národní hospodářství",
+      "Občan",
+      "Státní správa a justice",
+      "Zdravotnictví",
+      "Životní prostředí",
+      "letadlo",
+      "letecká doprava",
+      "obchodovatelné emisní povolení",
+      "skleníkový plyn",
+      "snižování plynných emisí"
+    ]
   },
   {
     "id": 52334,
@@ -6419,7 +10672,18 @@
       "abstain": 13,
       "absent": 2,
       "not_logged": 12
-    }
+    },
+    "temata": [
+      "Organizace neziskové",
+      "Kultura",
+      "Národní hospodářství",
+      "Občan",
+      "nezisková organizace",
+      "obecně prospěšný podnik",
+      "odpovědnost",
+      "správní rada",
+      "vedení společnosti"
+    ]
   },
   {
     "id": 52335,
@@ -6432,7 +10696,16 @@
       "abstain": 55,
       "absent": 2,
       "not_logged": 49
-    }
+    },
+    "temata": [
+      "Řízení rozhodčí",
+      "Zákon trestní",
+      "boj proti zločinnosti",
+      "hospodářský trestný čin",
+      "korupce",
+      "organizovaný zločin",
+      "výslech svědka"
+    ]
   },
   {
     "id": 52336,
@@ -6445,7 +10718,16 @@
       "abstain": 111,
       "absent": 2,
       "not_logged": 49
-    }
+    },
+    "temata": [
+      "Řízení rozhodčí",
+      "Zákon trestní",
+      "boj proti zločinnosti",
+      "hospodářský trestný čin",
+      "korupce",
+      "organizovaný zločin",
+      "výslech svědka"
+    ]
   },
   {
     "id": 52337,
@@ -6458,7 +10740,16 @@
       "abstain": 117,
       "absent": 2,
       "not_logged": 45
-    }
+    },
+    "temata": [
+      "Řízení rozhodčí",
+      "Zákon trestní",
+      "boj proti zločinnosti",
+      "hospodářský trestný čin",
+      "korupce",
+      "organizovaný zločin",
+      "výslech svědka"
+    ]
   },
   {
     "id": 52338,
@@ -6471,7 +10762,16 @@
       "abstain": 89,
       "absent": 2,
       "not_logged": 43
-    }
+    },
+    "temata": [
+      "Řízení rozhodčí",
+      "Zákon trestní",
+      "boj proti zločinnosti",
+      "hospodářský trestný čin",
+      "korupce",
+      "organizovaný zločin",
+      "výslech svědka"
+    ]
   },
   {
     "id": 52339,
@@ -6484,7 +10784,16 @@
       "abstain": 62,
       "absent": 2,
       "not_logged": 42
-    }
+    },
+    "temata": [
+      "Řízení rozhodčí",
+      "Zákon trestní",
+      "boj proti zločinnosti",
+      "hospodářský trestný čin",
+      "korupce",
+      "organizovaný zločin",
+      "výslech svědka"
+    ]
   },
   {
     "id": 52340,
@@ -6497,7 +10806,16 @@
       "abstain": 75,
       "absent": 2,
       "not_logged": 41
-    }
+    },
+    "temata": [
+      "Řízení rozhodčí",
+      "Zákon trestní",
+      "boj proti zločinnosti",
+      "hospodářský trestný čin",
+      "korupce",
+      "organizovaný zločin",
+      "výslech svědka"
+    ]
   },
   {
     "id": 52341,
@@ -6510,7 +10828,16 @@
       "abstain": 67,
       "absent": 2,
       "not_logged": 41
-    }
+    },
+    "temata": [
+      "Řízení rozhodčí",
+      "Zákon trestní",
+      "boj proti zločinnosti",
+      "hospodářský trestný čin",
+      "korupce",
+      "organizovaný zločin",
+      "výslech svědka"
+    ]
   },
   {
     "id": 52342,
@@ -6523,7 +10850,16 @@
       "abstain": 62,
       "absent": 2,
       "not_logged": 41
-    }
+    },
+    "temata": [
+      "Řízení rozhodčí",
+      "Zákon trestní",
+      "boj proti zločinnosti",
+      "hospodářský trestný čin",
+      "korupce",
+      "organizovaný zločin",
+      "výslech svědka"
+    ]
   },
   {
     "id": 52343,
@@ -6536,7 +10872,16 @@
       "abstain": 59,
       "absent": 3,
       "not_logged": 39
-    }
+    },
+    "temata": [
+      "Řízení rozhodčí",
+      "Zákon trestní",
+      "boj proti zločinnosti",
+      "hospodářský trestný čin",
+      "korupce",
+      "organizovaný zločin",
+      "výslech svědka"
+    ]
   },
   {
     "id": 52344,
@@ -6549,7 +10894,22 @@
       "abstain": 35,
       "absent": 2,
       "not_logged": 41
-    }
+    },
+    "temata": [
+      "Lobbing",
+      "Podnikání",
+      "Správa státní",
+      "kontrola komunikace",
+      "neslučitelnost",
+      "parlament",
+      "parlamentní výbor",
+      "politický funkcionář",
+      "poslanec parlamentu",
+      "seznam",
+      "veřejná funkce",
+      "zájmová skupina",
+      "zpřístupňování informací"
+    ]
   },
   {
     "id": 52345,
@@ -6562,7 +10922,22 @@
       "abstain": 53,
       "absent": 2,
       "not_logged": 38
-    }
+    },
+    "temata": [
+      "Lobbing",
+      "Podnikání",
+      "Správa státní",
+      "kontrola komunikace",
+      "neslučitelnost",
+      "parlament",
+      "parlamentní výbor",
+      "politický funkcionář",
+      "poslanec parlamentu",
+      "seznam",
+      "veřejná funkce",
+      "zájmová skupina",
+      "zpřístupňování informací"
+    ]
   },
   {
     "id": 52346,
@@ -6575,7 +10950,22 @@
       "abstain": 84,
       "absent": 2,
       "not_logged": 38
-    }
+    },
+    "temata": [
+      "Lobbing",
+      "Podnikání",
+      "Správa státní",
+      "kontrola komunikace",
+      "neslučitelnost",
+      "parlament",
+      "parlamentní výbor",
+      "politický funkcionář",
+      "poslanec parlamentu",
+      "seznam",
+      "veřejná funkce",
+      "zájmová skupina",
+      "zpřístupňování informací"
+    ]
   },
   {
     "id": 52347,
@@ -6588,7 +10978,22 @@
       "abstain": 67,
       "absent": 2,
       "not_logged": 38
-    }
+    },
+    "temata": [
+      "Lobbing",
+      "Podnikání",
+      "Správa státní",
+      "kontrola komunikace",
+      "neslučitelnost",
+      "parlament",
+      "parlamentní výbor",
+      "politický funkcionář",
+      "poslanec parlamentu",
+      "seznam",
+      "veřejná funkce",
+      "zájmová skupina",
+      "zpřístupňování informací"
+    ]
   },
   {
     "id": 52348,
@@ -6601,7 +11006,22 @@
       "abstain": 57,
       "absent": 2,
       "not_logged": 39
-    }
+    },
+    "temata": [
+      "Lobbing",
+      "Podnikání",
+      "Správa státní",
+      "kontrola komunikace",
+      "neslučitelnost",
+      "parlament",
+      "parlamentní výbor",
+      "politický funkcionář",
+      "poslanec parlamentu",
+      "seznam",
+      "veřejná funkce",
+      "zájmová skupina",
+      "zpřístupňování informací"
+    ]
   },
   {
     "id": 52349,
@@ -6614,7 +11034,23 @@
       "abstain": 12,
       "absent": 2,
       "not_logged": 47
-    }
+    },
+    "temata": [
+      "Ekologie",
+      "Evropská unie /EU/",
+      "Informační služby",
+      "Mezinárodní styky",
+      "Národní hospodářství",
+      "Občan",
+      "Státní správa a justice",
+      "Zdravotnictví",
+      "Životní prostředí",
+      "letadlo",
+      "letecká doprava",
+      "obchodovatelné emisní povolení",
+      "skleníkový plyn",
+      "snižování plynných emisí"
+    ]
   },
   {
     "id": 52350,
@@ -6627,7 +11063,8 @@
       "abstain": 11,
       "absent": 7,
       "not_logged": 24
-    }
+    },
+    "temata": []
   },
   {
     "id": 52351,
@@ -6640,7 +11077,8 @@
       "abstain": 55,
       "absent": 7,
       "not_logged": 20
-    }
+    },
+    "temata": []
   },
   {
     "id": 52352,
@@ -6653,7 +11091,8 @@
       "abstain": 15,
       "absent": 7,
       "not_logged": 17
-    }
+    },
+    "temata": []
   },
   {
     "id": 52353,
@@ -6666,7 +11105,8 @@
       "abstain": 9,
       "absent": 7,
       "not_logged": 16
-    }
+    },
+    "temata": []
   },
   {
     "id": 52354,
@@ -6679,7 +11119,15 @@
       "abstain": 46,
       "absent": 7,
       "not_logged": 15
-    }
+    },
+    "temata": [
+      "Parlament České republiky",
+      "Politika",
+      "Státní správa a justice",
+      "dolní komora",
+      "parlamentní volby",
+      "rozdělení na volební kraje"
+    ]
   },
   {
     "id": 52355,
@@ -6692,7 +11140,15 @@
       "abstain": 15,
       "absent": 7,
       "not_logged": 17
-    }
+    },
+    "temata": [
+      "Parlament České republiky",
+      "Politika",
+      "Státní správa a justice",
+      "dolní komora",
+      "parlamentní volby",
+      "rozdělení na volební kraje"
+    ]
   },
   {
     "id": 52356,
@@ -6705,7 +11161,16 @@
       "abstain": 7,
       "absent": 7,
       "not_logged": 20
-    }
+    },
+    "temata": [
+      "Nįrodnķ hospodįųstvķ",
+      "Občan",
+      "ivotnķ prostųedķ",
+      "povodeņ",
+      "pųevoditelnż cennż papķr",
+      "pųķrodnķ katastrofa",
+      "veųejnż dluh"
+    ]
   },
   {
     "id": 52357,
@@ -6718,7 +11183,15 @@
       "abstain": 13,
       "absent": 7,
       "not_logged": 33
-    }
+    },
+    "temata": [
+      "Ekologie",
+      "motorové palivo",
+      "náhradní palivo",
+      "ochrana životního prostředí",
+      "znečišťování atmosféry",
+      "znečišťující příměsi v atmosféře"
+    ]
   },
   {
     "id": 52358,
@@ -6731,7 +11204,15 @@
       "abstain": 24,
       "absent": 7,
       "not_logged": 47
-    }
+    },
+    "temata": [
+      "Parlament České republiky",
+      "Politika",
+      "Státní správa a justice",
+      "dolní komora",
+      "parlamentní volby",
+      "rozdělení na volební kraje"
+    ]
   },
   {
     "id": 52359,
@@ -6744,7 +11225,15 @@
       "abstain": 28,
       "absent": 7,
       "not_logged": 46
-    }
+    },
+    "temata": [
+      "Parlament České republiky",
+      "Politika",
+      "Státní správa a justice",
+      "dolní komora",
+      "parlamentní volby",
+      "rozdělení na volební kraje"
+    ]
   },
   {
     "id": 52360,
@@ -6757,6 +11246,14 @@
       "abstain": 20,
       "absent": 7,
       "not_logged": 47
-    }
+    },
+    "temata": [
+      "Prezident republiky",
+      "Ústava České republiky",
+      "hlava státu",
+      "prezidentské volby",
+      "ústava",
+      "všeobecné volební právo"
+    ]
   }
 ]
