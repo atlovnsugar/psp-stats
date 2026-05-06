@@ -799,10 +799,13 @@ select option:checked { /* V některých prohlížečích lze stylovat */
 
 /* Seznam návrhů */
 .theme-suggestions-list {
-  /* Základní vzhled podobný dropdownu */
-  position: absolute; /* Umístění relativně vůči inputu */
-  left: 0; /* Zarovnání k levému okraji inputu */
-  right: 0; /* Zarovnání k pravému okraji inputu */
+  position: absolute; /* Umístění relativně vůči pozicionovanému rodiči */
+  /* Změna: Místo left: 0; right: 0; zarovnáme vlevo podle inputu a nastavíme šířku */
+  left: 0; /* Zarovnává levý okraj seznamu s levým okrajem vstupního pole */
+  /* right: 0; <- Toto odstraníme */ 
+  width: 100%; /* Nebo nastav konkrétní šířku v pixelech, např. width: 300px; */
+  /* max-width: 400px; <- Volitelně: omezení maximální šířky */
+  /* min-width: 200px; <- Volitelně: zajištění minimální šířky */
   z-index: 1000; /* Zajistí, že bude nad ostatními prvky */
   max-height: 280px; /* Omezení výšky */
   overflow-y: auto; /* Svislý scrollbar, pokud je potřeba */
@@ -815,10 +818,7 @@ select option:checked { /* V některých prohlížečích lze stylovat */
   padding: 0; /* Odebereme výchozí padding */
   list-style: none; /* Odebereme odrážky */
   /* Upřesníme, že se jedná o dropdown */
-  /* visibility: hidden; /* Skryje, pokud není aktivní */
-  /* opacity: 0; */
-  /* transition: opacity 0.15s ease, visibility 0.15s ease; */
-  /* display: none; /* Jiná možnost skrytí */
+  display: block; /* Zobrazí seznam */
 }
 
 /* Zobrazí seznam, pokud má třídu např. 'visible' nebo není 'hidden' */
