@@ -1,5 +1,5 @@
 // src/pages/VotingList.jsx
-import { useEffect, useState, useMemo } from 'react';
+import { useEffect, useState, useMemo } from 'react'; // PŘIDÁNO useMemo
 import { Link } from 'react-router-dom';
 import { useTerm } from '../context/TermContext';
 import { fetchJSON } from '../utils/dataCache';
@@ -105,10 +105,8 @@ const [filterDateFrom, setFilterDateFrom] = useState('');
       (v.title && v.title.toLowerCase().includes(searchQuery.toLowerCase())) ||
       v.id.toString().includes(searchQuery);
     
-    // OPRAVA: Nyní filtrujeme "živě" podle textu v políčku
-    const matchTheme = !themeInputValue || (v.temata && v.temata.some(t => 
-      t.toLowerCase().includes(themeInputValue.toLowerCase())
-    ));
+    // OPRAVA: Tabulka se filtruje až podle vybraného tématu (přesná shoda)
+    const matchTheme = !filterTheme || (v.temata && v.temata.includes(filterTheme));
 
     return matchResult && matchDateFrom && matchDateTo && matchSearch && matchTheme;
   });
@@ -262,9 +260,7 @@ const getProgressStyle = (yes, no, abstain) => {
               <option value="zamitnuto">Zamítnuto</option>
             </select>
           </div>
-          {/* UPRAVENO: Filtr pro témata (vyhledávací pole s našeptávačem a pevnou šířkou) */}
-          {/* VYLEPŠENO: Textové pole s elegantním našeptávačem na max 5 položek */}
-          <div className="filter-group relative">
+          <div className="filter-group relative" style={{ zIndex: 100 }}> {/* Zvýšen z-index pro celou skupinu */}
             <label>
               <Filter size={12} /> Téma
             </label>
@@ -276,7 +272,7 @@ const getProgressStyle = (yes, no, abstain) => {
                 onChange={(e) => {
                   setThemeInputValue(e.target.value);
                   setShowThemeSuggestions(true);
-                  // Pokud uživatel políčko vymaže, zrušíme i aplikovaný filtr
+                  // Pokud pole vymažeš úplně, zrušíme i filtr v tabulce
                   if (e.target.value === '') {
                     setFilterTheme('');
                     setPage(1);
@@ -284,51 +280,45 @@ const getProgressStyle = (yes, no, abstain) => {
                 }}
                 onFocus={() => setShowThemeSuggestions(true)}
                 onBlur={() => {
-                  // Zpoždění, aby se stihl provést onMouseDown na položce našeptávače
-                  setTimeout(() => setShowThemeSuggestions(false), 200);
+                  // Prodloužíme čas, aby prohlížeč stihl zaregistrovat kliknutí na položku
+                  setTimeout(() => setShowThemeSuggestions(false), 300);
                 }}
                 className="filter-input w-full"
-                style={{ width: '180px' }} // Stejná šířka jako ostatní políčka
+                style={{ width: '200px' }}
               />
 
-              {/* Vykreslení 5 návrhů pod políčkem (dokonale ladí s global.css) */}
+              {/* Návrhy - nyní s lepším stylováním a z-indexem */}
               {showThemeSuggestions && themeSuggestions.length > 0 && (
                 <ul 
-                  className="absolute z-50 w-full mt-1 rounded-md shadow-lg overflow-hidden"
+                  className="absolute left-0 right-0 z-[1000] mt-1 rounded-md shadow-2xl border"
                   style={{ 
                     backgroundColor: 'var(--bg-secondary)', 
-                    border: '1px solid var(--border-color)'
+                    borderColor: 'var(--border-color)',
+                    maxHeight: '250px',
+                    overflowY: 'auto'
                   }}
                 >
                   {themeSuggestions.map((theme, index) => (
                     <li
                       key={index}
                       onMouseDown={(e) => {
-                        e.preventDefault(); // Zabrání okamžitému zavření okna před kliknutím
+                        e.preventDefault(); // Důležité: zabrání onBlur před kliknutím
                         setFilterTheme(theme);
                         setThemeInputValue(theme);
                         setShowThemeSuggestions(false);
                         setPage(1);
                       }}
-                      className="px-3 py-2 text-sm cursor-pointer truncate transition-colors"
-                      style={{ color: 'var(--text-primary)' }}
-                      onMouseEnter={(e) => e.target.style.backgroundColor = 'var(--surface-2)'}
-                      onMouseLeave={(e) => e.target.style.backgroundColor = 'transparent'}
-                      title={theme}
+                      className="px-4 py-2 text-sm cursor-pointer hover:bg-[var(--surface-2)] transition-colors border-b last:border-0"
+                      style={{ 
+                        color: 'var(--text-primary)',
+                        borderColor: 'var(--border-color)',
+                        whiteSpace: 'normal', // Dlouhé názvy se zalomí
+                        lineHeight: '1.2'
+                      }}
                     >
                       {theme}
                     </li>
                   ))}
-                  
-                  {/* Jemná informace o dalších výsledcích, pokud jich je více než 5 */}
-                  {themeInputValue && availableThemes.filter(t => t.toLowerCase().includes(themeInputValue.toLowerCase())).length > 5 && (
-                    <li 
-                      className="px-3 py-1 text-xs text-center italic"
-                      style={{ color: 'var(--text-muted)', backgroundColor: 'var(--bg-primary)' }}
-                    >
-                      ...a dalších {availableThemes.filter(t => t.toLowerCase().includes(themeInputValue.toLowerCase())).length - 5}
-                    </li>
-                  )}
                 </ul>
               )}
             </div>
