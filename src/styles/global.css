@@ -769,6 +769,90 @@ select option:checked { /* V některých prohlížečích lze stylovat */
 .party-stats-table tbody tr:hover {
   background: rgba(255, 255, 255, 0.05) !important; 
 }
+
+
+/* --- Filtr témat ve VotingList*/
+
+/* src/styles/global.css */
+
+/* --- Přidané/upravené sekce pro VotingList - Theme Autocomplete --- */
+
+/* Input pro vyhledávání témat */
+.theme-search-input {
+  /* Použijeme stejné základní styly jako ostatní inputy */
+  background: var(--bg-secondary); /* Tmavší pozadí */
+  border: 1px solid var(--border-color); /* Ohraničení podle design systému */
+  border-radius: var(--radius-xs); /* Zaoblení podle design systému */
+  padding: 10px 12px; /* Vnitřní odsazení */
+  color: var(--text-primary); /* Barva textu */
+  font-size: 0.95rem; /* Velikost písma */
+  font-family: var(--font-main); /* Hlavní font */
+  outline: none; /* Odebereme výchozí outline */
+  transition: border-color 0.2s, box-shadow 0.2s; /* Přechod pro focus */
+  width: 100%; /* Plná šířka v rámci svého kontejneru */
+}
+
+.theme-search-input:focus {
+  border-color: var(--accent-1); /* Barva ohraničení při focusu */
+  box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.15); /* Lehký glow efekt */
+}
+
+/* Seznam návrhů */
+.theme-suggestions-list {
+  /* Základní vzhled podobný dropdownu */
+  position: absolute; /* Umístění relativně vůči inputu */
+  left: 0; /* Zarovnání k levému okraji inputu */
+  right: 0; /* Zarovnání k pravému okraji inputu */
+  z-index: 1000; /* Zajistí, že bude nad ostatními prvky */
+  max-height: 280px; /* Omezení výšky */
+  overflow-y: auto; /* Svislý scrollbar, pokud je potřeba */
+  background: var(--bg-secondary); /* Pozadí podle design systému */
+  border: 1px solid var(--border-color); /* Ohraničení */
+  border-top: none; /* Odebereme horní ohraničení, aby přechod do seznamu byl plynulý */
+  border-radius: 0 0 var(--radius-xs) var(--radius-xs); /* Zaoblení jen dole */
+  box-shadow: var(--shadow-lg); /* Silnější stín */
+  margin: 0; /* Odebereme výchozí margin */
+  padding: 0; /* Odebereme výchozí padding */
+  list-style: none; /* Odebereme odrážky */
+  /* Upřesníme, že se jedná o dropdown */
+  /* visibility: hidden; /* Skryje, pokud není aktivní */
+  /* opacity: 0; */
+  /* transition: opacity 0.15s ease, visibility 0.15s ease; */
+  /* display: none; /* Jiná možnost skrytí */
+}
+
+/* Zobrazí seznam, pokud má třídu např. 'visible' nebo není 'hidden' */
+.theme-suggestions-list:not(.hidden) {
+  display: block; /* Zobrazí seznam */
+  /* visibility: visible; */
+  /* opacity: 1; */
+}
+
+/* Položka návrhu */
+.theme-suggestion-item {
+  padding: 10px 12px; /* Vnitřní odsazení */
+  cursor: pointer; /* Ukazatel, že je prvek kliknutelný */
+  transition: background-color 0.15s; /* Plynulý přechod při hoveru */
+  color: var(--text-primary); /* Barva textu */
+  font-size: 0.9rem; /* Mírně menší písmo */
+  font-family: var(--font-main); /* Hlavní font */
+  border-bottom: 1px solid var(--surface-2); /* Lehký oddělovač mezi položkami */
+}
+
+.theme-suggestion-item:last-of-type {
+  border-bottom: none; /* Odebereme oddělovač u poslední položky */
+}
+
+/* Efekt při najetí myší */
+.theme-suggestion-item:hover {
+  background-color: var(--surface-2); /* Tmavší pozadí při hoveru */
+  color: var(--text-primary); /* Ujistíme se, že text zůstane čitelný */
+}
+
+/* --- Konec sekce pro VotingList - Theme Autocomplete --- */
+
+/* ... zbytek obsahu global.css ... */
+
 /* --- End of Global Table Style Adjustments --- */
 
 /* src/styles/global.css - přidej tyto sekce na konec nebo za existující definice */
