@@ -288,37 +288,27 @@ const getProgressStyle = (yes, no, abstain) => {
               />
 
               {/* VYLEPŠENÉ NÁVRHY: Solidní pozadí, stíny a moderní hover efekty */}
-              {showThemeSuggestions && themeSuggestions.length > 0 && (
-                <ul 
-                  className="absolute left-0 right-0 z-[1000] mt-2 rounded-lg shadow-[0_15px_40px_-10px_rgba(0,0,0,0.7)] border overflow-y-auto"
-                  style={{ 
-                    backgroundColor: '#111827', // Pevně zadaná barva tvého dark pozadí (--bg-secondary)
-                    borderColor: 'rgba(255,255,255,0.1)',
-                    maxHeight: '280px'
-                  }}
-                >
-                  {themeSuggestions.map((theme, index) => (
-                    <li
-                      key={index}
-                      onMouseDown={(e) => {
-                        e.preventDefault();
-                        setFilterTheme(theme);
-                        setThemeInputValue(theme);
-                        setShowThemeSuggestions(false);
-                        setPage(1);
-                      }}
-                      className="px-4 py-3 text-sm cursor-pointer transition-all duration-200 border-b border-white/5 last:border-0 hover:bg-[#475569] hover:pl-5"
-                      style={{ 
-                        color: '#f1f5f9', // Pevně zadaná barva textu (--text-primary)
-                        whiteSpace: 'normal',
-                        lineHeight: '1.4'
-                      }}
-                    >
-                      {theme}
-                    </li>
-                  ))}
-                </ul>
-              )}
+                {showThemeSuggestions && themeSuggestions.length > 0 && (
+                  <ul
+                    className="theme-suggestions-list" // <-- Pouze tato třída, ostatní styly jsou v CSS
+                    // style={{ backgroundColor: '#111827', ... }} // <-- ZKONTROLUJ, ZDA JE TENTO ŘÁDEK STÁLE POTŘEBA, POKUD ANO, ZKUS HO ODSTRANIT
+                  >
+                    {themeSuggestions.map((theme, index) => (
+                      <li
+                        key={index}
+                        onMouseDown={(e) => {
+                          e.preventDefault(); // Důležité, aby se při kliknutí neztratil focus z inputu před změnou stavu
+                          setFilterTheme(theme);
+                          setThemeInputValue(theme);
+                          setShowThemeSuggestions(false);
+                        }}
+                        className="theme-suggestion-item" // <-- Tato třída je důležitá
+                      >
+                        {theme}
+                      </li>
+                    ))}
+                  </ul>
+                )}
             </div>
           </div>
 
