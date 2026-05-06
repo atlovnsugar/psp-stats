@@ -70,36 +70,45 @@ const [filterDateFrom, setFilterDateFrom] = useState('');
     return () => { isActive = false; };
   }, [selectedTerm]);
 
-// PŘIDÁNO: Bezpečná extrakce unikátních témat a jejich seřazení podle abecedy
-  const availableThemes = Array.from(
-    new Set(
-      votings.reduce((acc, curr) => {
-        if (curr.temata && Array.isArray(curr.temata)) {
-          return acc.concat(curr.temata);
-        }
-        return acc;
-      }, [])
-    )
-  ).sort();
+// Importuj useMemo na začátku souboru z 'react'
+  // const { useEffect, useState, useMemo } from 'react';
 
-  // PŘIDÁNO: Logika pro našeptávač (vyfiltruje odpovídající text a ořízne na 5 výsledků)
-  const themeSuggestions = themeInputValue.trim() === ''
-    ? availableThemes.slice(0, 5)
-    : availableThemes.filter(theme =>
-        theme.toLowerCase().includes(themeInputValue.toLowerCase())
-      ).slice(0, 5);
+  // 1. Optimalizovaný výpočet unikátních témat (spustí se jen když se změní data)
+  const availableThemes = useMemo(() => {
+    const themes = new Set();
+    votings.forEach(v => {
+      if (v.temata && Array.isArray(v.temata)) {
+        v.temata.forEach(t => themes.add(t));
+      }
+    });
+    return Array.from(themes).sort();
+  }, [votings]);
+
+  // 2. Návrhy pro našeptávač (reagují na psaní)
+  const themeSuggestions = useMemo(() => {
+    const input = themeInputValue.trim().toLowerCase();
+    if (input === '') return availableThemes.slice(0, 5);
+    
+    return availableThemes
+      .filter(theme => theme.toLowerCase().includes(input))
+      .slice(0, 5);
+  }, [availableThemes, themeInputValue]);
 
   // 2. Filtrace (nad načtenými daty) - včetně hledání
   const filteredVotings = votings.filter(v => {
     const matchResult = !filterResult || v.result === filterResult;
-    const matchDateFrom = !filterDateFrom || v.date >= filterDateFrom;
-    const matchDateTo = !filterDateTo || v.date <= filterDateTo;
-    const matchSearch = !searchQuery ||
+    const vDate = new Date(v.date);
+    const matchDateFrom = !filterDateFrom || vDate >= new Date(filterDateFrom);
+    const matchDateTo = !filterDateTo || vDate <= new Date(filterDateTo);
+    
+    const matchSearch = !searchQuery || 
       (v.title && v.title.toLowerCase().includes(searchQuery.toLowerCase())) ||
       v.id.toString().includes(searchQuery);
     
-    // PŘIDÁNO: Kontrola, zda hlasování obsahuje vybrané téma
-    const matchTheme = !filterTheme || (v.temata && v.temata.includes(filterTheme));
+    // OPRAVA: Nyní filtrujeme "živě" podle textu v políčku
+    const matchTheme = !themeInputValue || (v.temata && v.temata.some(t => 
+      t.toLowerCase().includes(themeInputValue.toLowerCase())
+    ));
 
     return matchResult && matchDateFrom && matchDateTo && matchSearch && matchTheme;
   });
