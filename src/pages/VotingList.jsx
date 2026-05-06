@@ -287,33 +287,31 @@ const getProgressStyle = (yes, no, abstain) => {
                 style={{ width: '200px' }}
               />
 
-              {/* Návrhy - nyní s lepším stylováním a z-indexem */}
+              {/* VYLEPŠENÉ NÁVRHY: Solidní pozadí, stíny a moderní hover efekty */}
               {showThemeSuggestions && themeSuggestions.length > 0 && (
                 <ul 
-                  className="absolute left-0 right-0 z-[1000] mt-1 rounded-md shadow-2xl border"
+                  className="absolute left-0 right-0 z-[1000] mt-2 rounded-lg shadow-[0_15px_40px_-10px_rgba(0,0,0,0.7)] border overflow-y-auto"
                   style={{ 
-                    backgroundColor: 'var(--bg-secondary)', 
-                    borderColor: 'var(--border-color)',
-                    maxHeight: '250px',
-                    overflowY: 'auto'
+                    backgroundColor: '#111827', // Pevně zadaná barva tvého dark pozadí (--bg-secondary)
+                    borderColor: 'rgba(255,255,255,0.1)',
+                    maxHeight: '280px'
                   }}
                 >
                   {themeSuggestions.map((theme, index) => (
                     <li
                       key={index}
                       onMouseDown={(e) => {
-                        e.preventDefault(); // Důležité: zabrání onBlur před kliknutím
+                        e.preventDefault();
                         setFilterTheme(theme);
                         setThemeInputValue(theme);
                         setShowThemeSuggestions(false);
                         setPage(1);
                       }}
-                      className="px-4 py-2 text-sm cursor-pointer hover:bg-[var(--surface-2)] transition-colors border-b last:border-0"
+                      className="px-4 py-3 text-sm cursor-pointer transition-all duration-200 border-b border-white/5 last:border-0 hover:bg-[#475569] hover:pl-5"
                       style={{ 
-                        color: 'var(--text-primary)',
-                        borderColor: 'var(--border-color)',
-                        whiteSpace: 'normal', // Dlouhé názvy se zalomí
-                        lineHeight: '1.2'
+                        color: '#f1f5f9', // Pevně zadaná barva textu (--text-primary)
+                        whiteSpace: 'normal',
+                        lineHeight: '1.4'
                       }}
                     >
                       {theme}
