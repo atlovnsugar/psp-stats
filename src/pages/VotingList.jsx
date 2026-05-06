@@ -13,7 +13,8 @@ import {
   Filter,
   Inbox,
   Loader2,
-  X
+  X,
+  ChevronDown
 } from 'lucide-react';
 
 // Importujeme Lucide ikony, předpokládáme, že jsou nainstalované
@@ -32,7 +33,11 @@ export default function VotingList() {
 const [filterDateFrom, setFilterDateFrom] = useState('');
   const [filterDateTo, setFilterDateTo] = useState('');
   const [searchQuery, setSearchQuery] = useState('');
-  const [filterTheme, setFilterTheme] = useState(''); // PŘIDÁNO: Stav pro filtr tématu
+  const [filterTheme, setFilterTheme] = useState('');
+  
+  // PŘIDÁNO: Stavy pro chytrý dropdown témat
+  const [isThemeOpen, setIsThemeOpen] = useState(false);
+  const [themeSearch, setThemeSearch] = useState('');
 
   // 1. Postupné načítání všech dat pro dané období
   useEffect(() => {
@@ -79,6 +84,11 @@ const [filterDateFrom, setFilterDateFrom] = useState('');
       }, [])
     )
   ).sort();
+
+  // PŘIDÁNO: Filtrace témat uvnitř našeho nového dropdownu
+  const filteredDropdownThemes = availableThemes.filter(theme => 
+    theme.toLowerCase().includes(themeSearch.toLowerCase())
+  );
 
   // 2. Filtrace (nad načtenými daty) - včetně hledání
   const filteredVotings = votings.filter(v => {
@@ -244,23 +254,93 @@ const getProgressStyle = (yes, no, abstain) => {
               <option value="zamitnuto">Zamítnuto</option>
             </select>
           </div>
-          {/* PŘIDÁNO: Filtr pro témata */}
-          <div className="filter-group">
+          {/* UPRAVENO: Filtr pro témata (vyhledávací pole s našeptávačem a pevnou šířkou) */}
+          {/* INTELIGENTNÍ FILTR TÉMAT */}
+          <div className="filter-group relative">
             <label>
               <Filter size={12} /> Téma
             </label>
-            <select
-              value={filterTheme}
-              onChange={(e) => { setFilterTheme(e.target.value); setPage(1); }}
-              className="filter-select"
-            >
-              <option value="">Všechna témata</option>
-              {availableThemes.map((theme, index) => (
-                <option key={index} value={theme}>
-                  {theme}
-                </option>
-              ))}
-            </select>
+            <div className="relative">
+              
+              {/* Hlavní tlačítko, které otevírá dropdown */}
+              <button
+                type="button"
+                onClick={() => setIsThemeOpen(!isThemeOpen)}
+                className="filter-select flex justify-between items-center text-left bg-white dark:bg-gray-800"
+                style={{ width: '220px' }}
+              >
+                <span className="truncate pr-2">
+                  {filterTheme || "Všechna témata"}
+                </span>
+                <ChevronDown size={14} className="text-gray-400 flex-shrink-0" />
+              </button>
+
+              {/* Plovoucí okno s vyhledáváním a seznamem */}
+              {isThemeOpen && (
+                <div className="absolute z-50 mt-1 w-80 bg-white dark:bg-[#111827] border border-gray-200 dark:border-gray-700 rounded-md shadow-xl">
+                  
+                  {/* Vyhledávací pole uvnitř dropdownu */}
+                  <div className="p-2 border-b border-gray-200 dark:border-gray-700 sticky top-0 bg-white dark:bg-[#111827] rounded-t-md">
+                    <div className="relative">
+                      <Search size={14} className="absolute left-2 top-2.5 text-gray-400" />
+                      <input
+                        type="text"
+                        placeholder="Najít téma..."
+                        value={themeSearch}
+                        onChange={(e) => setThemeSearch(e.target.value)}
+                        className="w-full pl-8 pr-2 py-1.5 text-sm border border-gray-300 dark:border-gray-600 rounded bg-transparent focus:outline-none focus:ring-1 focus:ring-blue-500 text-gray-900 dark:text-white"
+                        autoFocus
+                      />
+                    </div>
+                  </div>
+
+                  {/* Zalomitelný seznam témat */}
+                  <ul className="max-h-64 overflow-y-auto p-1">
+                    <li
+                      onClick={() => {
+                        setFilterTheme('');
+                        setThemeSearch('');
+                        setIsThemeOpen(false);
+                        setPage(1);
+                      }}
+                      className={`px-3 py-2 text-sm rounded cursor-pointer transition-colors ${
+                        !filterTheme 
+                          ? 'bg-blue-50 text-blue-700 dark:bg-blue-900/30 dark:text-blue-300 font-bold' 
+                          : 'hover:bg-gray-100 dark:hover:bg-gray-800 text-gray-700 dark:text-gray-300'
+                      }`}
+                    >
+                      Všechna témata
+                    </li>
+                    
+                    {filteredDropdownThemes.length === 0 ? (
+                      <li className="px-3 py-4 text-sm text-gray-500 text-center">
+                        Téma nebylo nalezeno.
+                      </li>
+                    ) : (
+                      filteredDropdownThemes.map((theme, index) => (
+                        <li
+                          key={index}
+                          onClick={() => {
+                            setFilterTheme(theme);
+                            setIsThemeOpen(false);
+                            setThemeSearch('');
+                            setPage(1);
+                          }}
+                          // Třída whitespace-normal je klíčová - dovolí textu zalomit se na více řádků
+                          className={`px-3 py-2 text-sm rounded cursor-pointer whitespace-normal leading-snug border-b border-transparent transition-colors ${
+                            filterTheme === theme 
+                              ? 'bg-blue-50 text-blue-700 dark:bg-blue-900/30 dark:text-blue-300 font-bold' 
+                              : 'hover:bg-gray-100 dark:hover:bg-gray-800 text-gray-700 dark:text-gray-300'
+                          }`}
+                        >
+                          {theme}
+                        </li>
+                      ))
+                    )}
+                  </ul>
+                </div>
+              )}
+            </div>
           </div>
 
           <div className="filter-group">
