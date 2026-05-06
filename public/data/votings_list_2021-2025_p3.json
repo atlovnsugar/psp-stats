@@ -1048,6 +1048,7 @@
       "not_logged": 25
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -1067,6 +1068,7 @@
       "not_logged": 25
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -1086,6 +1088,7 @@
       "not_logged": 24
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -1105,6 +1108,7 @@
       "not_logged": 19
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -1124,6 +1128,7 @@
       "not_logged": 17
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -1143,6 +1148,7 @@
       "not_logged": 17
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -1162,6 +1168,7 @@
       "not_logged": 16
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -1181,6 +1188,7 @@
       "not_logged": 16
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -2101,6 +2109,7 @@
       "ochrana spotřebitele",
       "osobní doprava",
       "pozemní doprava",
+      "elezniční sí",
       "železniční doprava",
       "železniční síť"
     ]
@@ -2123,6 +2132,7 @@
       "ochrana spotřebitele",
       "osobní doprava",
       "pozemní doprava",
+      "elezniční sí",
       "železniční doprava",
       "železniční síť"
     ]
@@ -2145,6 +2155,7 @@
       "ochrana spotřebitele",
       "osobní doprava",
       "pozemní doprava",
+      "elezniční sí",
       "železniční doprava",
       "železniční síť"
     ]
@@ -2230,6 +2241,7 @@
       "ochrana spotřebitele",
       "osobní doprava",
       "pozemní doprava",
+      "elezniční sí",
       "železniční doprava",
       "železniční síť"
     ]
@@ -2295,6 +2307,7 @@
       "ochrana spotřebitele",
       "osobní doprava",
       "pozemní doprava",
+      "elezniční sí",
       "železniční doprava",
       "železniční síť"
     ]
@@ -2317,6 +2330,7 @@
       "ochrana spotřebitele",
       "osobní doprava",
       "pozemní doprava",
+      "elezniční sí",
       "železniční doprava",
       "železniční síť"
     ]
@@ -2334,9 +2348,13 @@
       "not_logged": 44
     },
     "temata": [
+      "hypotekární úvėr",
       "hypotekární úvěr",
+      "nebankovní úvìrová èinnost",
       "nebankovní úvěrová činnost",
       "spotřební úvěr",
+      "úvėr",
+      "úvėrová politika",
       "úvěr",
       "úvěrová instituce",
       "úvěrová politika"
@@ -2355,9 +2373,13 @@
       "not_logged": 40
     },
     "temata": [
+      "hypotekární úvėr",
       "hypotekární úvěr",
+      "nebankovní úvìrová èinnost",
       "nebankovní úvěrová činnost",
       "spotřební úvěr",
+      "úvėr",
+      "úvėrová politika",
       "úvěr",
       "úvěrová instituce",
       "úvěrová politika"
@@ -2376,9 +2398,13 @@
       "not_logged": 37
     },
     "temata": [
+      "hypotekární úvėr",
       "hypotekární úvěr",
+      "nebankovní úvìrová èinnost",
       "nebankovní úvěrová činnost",
       "spotřební úvěr",
+      "úvėr",
+      "úvėrová politika",
       "úvěr",
       "úvěrová instituce",
       "úvěrová politika"
@@ -2397,9 +2423,13 @@
       "not_logged": 35
     },
     "temata": [
+      "hypotekární úvėr",
       "hypotekární úvěr",
+      "nebankovní úvìrová èinnost",
       "nebankovní úvěrová činnost",
       "spotřební úvěr",
+      "úvėr",
+      "úvėrová politika",
       "úvěr",
       "úvěrová instituce",
       "úvěrová politika"
@@ -2419,6 +2449,7 @@
     },
     "temata": [
       "financování rozpočtu",
+      "plnėní rozpočtu",
       "plnění rozpočtu",
       "státní rozpočet"
     ]
@@ -2437,6 +2468,7 @@
     },
     "temata": [
       "financování rozpočtu",
+      "plnėní rozpočtu",
       "plnění rozpočtu",
       "státní rozpočet"
     ]
@@ -2455,6 +2487,7 @@
     },
     "temata": [
       "financování rozpočtu",
+      "plnėní rozpočtu",
       "plnění rozpočtu",
       "státní rozpočet"
     ]
@@ -2561,9 +2594,11 @@
     },
     "temata": [
       "elektronické publikování",
+      "naøízení (EU)",
       "nařízení (EU)",
-      "úřední dokument",
-      "Úřední věstník Evropské unie"
+      "Úøední vėstník Evropské unie",
+      "Úřední věstník Evropské unie",
+      "úřední dokument"
     ]
   },
   {
@@ -2580,9 +2615,11 @@
     },
     "temata": [
       "elektronické publikování",
+      "naøízení (EU)",
       "nařízení (EU)",
-      "úřední dokument",
-      "Úřední věstník Evropské unie"
+      "Úøední vėstník Evropské unie",
+      "Úřední věstník Evropské unie",
+      "úřední dokument"
     ]
   },
   {
@@ -2599,9 +2636,10 @@
     },
     "temata": [
       "Andorra",
-      "Česká republika",
       "daňová úmluva",
-      "dvojí zdanění"
+      "daōová úmluva",
+      "dvojí zdanění",
+      "Česká republika"
     ]
   },
   {
@@ -2716,8 +2754,10 @@
       "not_logged": 16
     },
     "temata": [
-      "mezinárodní dohoda",
+      "Mezinárodní námoøní organizace",
       "Mezinárodní námořní organizace",
+      "mezinárodní dohoda",
+      "námoøní bezpečnost",
       "námořní bezpečnost",
       "námořní doprava",
       "ratifikace dohody",
@@ -2761,9 +2801,10 @@
     },
     "temata": [
       "Andorra",
-      "Česká republika",
       "daňová úmluva",
-      "dvojí zdanění"
+      "daōová úmluva",
+      "dvojí zdanění",
+      "Česká republika"
     ]
   },
   {
@@ -2820,9 +2861,10 @@
     },
     "temata": [
       "Andorra",
-      "Česká republika",
       "daňová úmluva",
-      "dvojí zdanění"
+      "daōová úmluva",
+      "dvojí zdanění",
+      "Česká republika"
     ]
   },
   {
@@ -2839,9 +2881,10 @@
     },
     "temata": [
       "Andorra",
-      "Česká republika",
       "daňová úmluva",
-      "dvojí zdanění"
+      "daōová úmluva",
+      "dvojí zdanění",
+      "Česká republika"
     ]
   },
   {
@@ -2876,11 +2919,14 @@
       "not_logged": 16
     },
     "temata": [
+      "látky znečiující stratosféru",
       "látky znečišťující stratosféru",
       "mezinárodní úmluva",
       "nebezpečná látka",
       "ochrana životního prostředí",
       "ratifikace dohody",
+      "kodliviny",
+      "kodliviny ve vodė",
       "škodliviny",
       "škodliviny ve vodě"
     ]
@@ -2898,11 +2944,14 @@
       "not_logged": 15
     },
     "temata": [
+      "látky znečiující stratosféru",
       "látky znečišťující stratosféru",
       "mezinárodní úmluva",
       "nebezpečná látka",
       "ochrana životního prostředí",
       "ratifikace dohody",
+      "kodliviny",
+      "kodliviny ve vodė",
       "škodliviny",
       "škodliviny ve vodě"
     ]
@@ -3047,6 +3096,7 @@
     },
     "temata": [
       "humanitární pomoc",
+      "krizové øízení",
       "krizové řízení",
       "protikrizový plán",
       "rezervy",
@@ -3066,6 +3116,7 @@
       "not_logged": 15
     },
     "temata": [
+      "investièní operace",
       "investiční operace",
       "kapitálový trh",
       "pohyb kapitálu",
@@ -3086,9 +3137,11 @@
       "not_logged": 13
     },
     "temata": [
+      "propadnutí vėcí",
       "propadnutí věcí",
       "trestní řízení",
       "výkon rozhodnutí",
+      "zabavení vėci",
       "zabavení věci"
     ]
   },
@@ -3105,6 +3158,7 @@
       "not_logged": 6
     },
     "temata": [
+      "investièní operace",
       "investiční operace",
       "kapitálový trh",
       "pohyb kapitálu",
@@ -3125,6 +3179,7 @@
       "not_logged": 5
     },
     "temata": [
+      "investièní operace",
       "investiční operace",
       "kapitálový trh",
       "pohyb kapitálu",
@@ -3145,6 +3200,7 @@
       "not_logged": 4
     },
     "temata": [
+      "investièní operace",
       "investiční operace",
       "kapitálový trh",
       "pohyb kapitálu",
@@ -3165,6 +3221,7 @@
       "not_logged": 4
     },
     "temata": [
+      "investièní operace",
       "investiční operace",
       "kapitálový trh",
       "pohyb kapitálu",
@@ -3185,6 +3242,7 @@
       "not_logged": 4
     },
     "temata": [
+      "investièní operace",
       "investiční operace",
       "kapitálový trh",
       "pohyb kapitálu",
@@ -3205,6 +3263,7 @@
       "not_logged": 9
     },
     "temata": [
+      "investièní operace",
       "investiční operace",
       "kapitálový trh",
       "pohyb kapitálu",
@@ -3231,6 +3290,7 @@
       "elektronický dokument",
       "elektronický podpis",
       "ochrana komunikací",
+      "pøímá datová sluba",
       "přímá datová služba"
     ]
   },
@@ -3247,6 +3307,7 @@
       "not_logged": 32
     },
     "temata": [
+      "investièní operace",
       "investiční operace",
       "kapitálový trh",
       "pohyb kapitálu",
@@ -3267,6 +3328,7 @@
       "not_logged": 23
     },
     "temata": [
+      "investièní operace",
       "investiční operace",
       "kapitálový trh",
       "pohyb kapitálu",
@@ -3287,6 +3349,7 @@
       "not_logged": 23
     },
     "temata": [
+      "investièní operace",
       "investiční operace",
       "kapitálový trh",
       "pohyb kapitálu",
@@ -3308,6 +3371,7 @@
     },
     "temata": [
       "parcela",
+      "pùda ve vlastnictví státu",
       "půda ve vlastnictví státu",
       "systém vlastnictví půdy",
       "zemědělská nemovitost"
@@ -4046,6 +4110,7 @@
       "elektronický dokument",
       "elektronický podpis",
       "ochrana komunikací",
+      "pøímá datová sluba",
       "přímá datová služba"
     ]
   },
@@ -4161,6 +4226,7 @@
     },
     "temata": [
       "humanitární pomoc",
+      "krizové øízení",
       "krizové řízení",
       "protikrizový plán",
       "rezervy",
@@ -4889,9 +4955,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -4917,9 +4986,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -4944,6 +5016,7 @@
       "not_logged": 3
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -4963,6 +5036,7 @@
       "not_logged": 0
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -4982,6 +5056,7 @@
       "not_logged": 0
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -5001,6 +5076,7 @@
       "not_logged": 0
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -5020,6 +5096,7 @@
       "not_logged": 0
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -5039,6 +5116,7 @@
       "not_logged": 0
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -5058,6 +5136,7 @@
       "not_logged": 1
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -5077,6 +5156,7 @@
       "not_logged": 1
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -5096,6 +5176,7 @@
       "not_logged": 0
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -5115,6 +5196,7 @@
       "not_logged": 0
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -5134,6 +5216,7 @@
       "not_logged": 0
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -5153,6 +5236,7 @@
       "not_logged": 0
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -5172,6 +5256,7 @@
       "not_logged": 0
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -5191,6 +5276,7 @@
       "not_logged": 0
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -5210,6 +5296,7 @@
       "not_logged": 0
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -5229,6 +5316,7 @@
       "not_logged": 0
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -5248,6 +5336,7 @@
       "not_logged": 0
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -5267,6 +5356,7 @@
       "not_logged": 0
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -5286,6 +5376,7 @@
       "not_logged": 0
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -5305,6 +5396,7 @@
       "not_logged": 0
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -5324,6 +5416,7 @@
       "not_logged": 1
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -5343,6 +5436,7 @@
       "not_logged": 2
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -5362,6 +5456,7 @@
       "not_logged": 0
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -5381,6 +5476,7 @@
       "not_logged": 0
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -5400,6 +5496,7 @@
       "not_logged": 2
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -5419,6 +5516,7 @@
       "not_logged": 0
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -5438,6 +5536,7 @@
       "not_logged": 0
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -5457,6 +5556,7 @@
       "not_logged": 0
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -5476,6 +5576,7 @@
       "not_logged": 2
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -5495,6 +5596,7 @@
       "not_logged": 1
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -5514,6 +5616,7 @@
       "not_logged": 1
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -5533,6 +5636,7 @@
       "not_logged": 0
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -5552,6 +5656,7 @@
       "not_logged": 0
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -5571,6 +5676,7 @@
       "not_logged": 0
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -5590,6 +5696,7 @@
       "not_logged": 0
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -5609,6 +5716,7 @@
       "not_logged": 0
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -5628,6 +5736,7 @@
       "not_logged": 0
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -5647,6 +5756,7 @@
       "not_logged": 0
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -5666,6 +5776,7 @@
       "not_logged": 1
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -5685,6 +5796,7 @@
       "not_logged": 0
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -5704,6 +5816,7 @@
       "not_logged": 0
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -5723,6 +5836,7 @@
       "not_logged": 0
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -5742,6 +5856,7 @@
       "not_logged": 0
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -5761,6 +5876,7 @@
       "not_logged": 0
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -5780,6 +5896,7 @@
       "not_logged": 0
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -5799,6 +5916,7 @@
       "not_logged": 0
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -5818,6 +5936,7 @@
       "not_logged": 0
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -5837,6 +5956,7 @@
       "not_logged": 0
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -5856,6 +5976,7 @@
       "not_logged": 1
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -5875,6 +5996,7 @@
       "not_logged": 0
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -5894,6 +6016,7 @@
       "not_logged": 0
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -5913,6 +6036,7 @@
       "not_logged": 0
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -5932,6 +6056,7 @@
       "not_logged": 0
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -5951,6 +6076,7 @@
       "not_logged": 0
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -5970,6 +6096,7 @@
       "not_logged": 0
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -5989,6 +6116,7 @@
       "not_logged": 0
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -6008,6 +6136,7 @@
       "not_logged": 0
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -6027,6 +6156,7 @@
       "not_logged": 0
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -6046,6 +6176,7 @@
       "not_logged": 0
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -6065,6 +6196,7 @@
       "not_logged": 1
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -6084,6 +6216,7 @@
       "not_logged": 1
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -6103,6 +6236,7 @@
       "not_logged": 0
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -6122,6 +6256,7 @@
       "not_logged": 0
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -6141,6 +6276,7 @@
       "not_logged": 0
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -6160,6 +6296,7 @@
       "not_logged": 0
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -6179,6 +6316,7 @@
       "not_logged": 0
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -6198,6 +6336,7 @@
       "not_logged": 3
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -6217,6 +6356,7 @@
       "not_logged": 0
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -6236,6 +6376,7 @@
       "not_logged": 0
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -6255,6 +6396,7 @@
       "not_logged": 1
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -6274,6 +6416,7 @@
       "not_logged": 0
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -6293,6 +6436,7 @@
       "not_logged": 0
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -6312,6 +6456,7 @@
       "not_logged": 1
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -6331,6 +6476,7 @@
       "not_logged": 1
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -6350,6 +6496,7 @@
       "not_logged": 0
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -6369,6 +6516,7 @@
       "not_logged": 0
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -6388,6 +6536,7 @@
       "not_logged": 0
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -6407,6 +6556,7 @@
       "not_logged": 0
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -6426,6 +6576,7 @@
       "not_logged": 0
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -6445,6 +6596,7 @@
       "not_logged": 0
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -6464,6 +6616,7 @@
       "not_logged": 1
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -6483,6 +6636,7 @@
       "not_logged": 0
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -6502,6 +6656,7 @@
       "not_logged": 0
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -6521,6 +6676,7 @@
       "not_logged": 0
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -6540,6 +6696,7 @@
       "not_logged": 0
     },
     "temata": [
+      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -6560,9 +6717,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -6588,9 +6748,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -6616,9 +6779,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -6644,9 +6810,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -6727,10 +6896,12 @@
       "not_logged": 19
     },
     "temata": [
+      "plnėní rozpočtu",
       "plnění rozpočtu",
       "televize",
-      "účetní uzávěrka",
-      "zpráva o činnosti"
+      "zpráva o činnosti",
+      "účetní uzávėrka",
+      "účetní uzávěrka"
     ]
   },
   {
@@ -7054,6 +7225,7 @@
       "not_logged": 33
     },
     "temata": [
+      "alternativní investièní fond",
       "alternativní investiční fond",
       "daňová úleva",
       "finanční trh",
@@ -7310,11 +7482,13 @@
     },
     "temata": [
       "konvenční zbraň",
+      "konvenční zbraō",
       "osobní zbraň",
       "správní kontrola",
       "střelná zbraň a střelivo",
       "vojenské vybavení",
-      "zbraň hromadného ničení"
+      "zbraň hromadného ničení",
+      "zbraō hromadného ničení"
     ]
   },
   {
@@ -7331,11 +7505,13 @@
     },
     "temata": [
       "konvenční zbraň",
+      "konvenční zbraō",
       "osobní zbraň",
       "správní kontrola",
       "střelná zbraň a střelivo",
       "vojenské vybavení",
-      "zbraň hromadného ničení"
+      "zbraň hromadného ničení",
+      "zbraō hromadného ničení"
     ]
   },
   {
@@ -7396,6 +7572,7 @@
     },
     "temata": [
       "parcela",
+      "pùda ve vlastnictví státu",
       "půda ve vlastnictví státu",
       "systém vlastnictví půdy",
       "zemědělská nemovitost"
@@ -7503,6 +7680,7 @@
     },
     "temata": [
       "parcela",
+      "pùda ve vlastnictví státu",
       "půda ve vlastnictví státu",
       "systém vlastnictví půdy",
       "zemědělská nemovitost"
@@ -7522,6 +7700,7 @@
     },
     "temata": [
       "parcela",
+      "pùda ve vlastnictví státu",
       "půda ve vlastnictví státu",
       "systém vlastnictví půdy",
       "zemědělská nemovitost"
@@ -7541,6 +7720,7 @@
     },
     "temata": [
       "parcela",
+      "pùda ve vlastnictví státu",
       "půda ve vlastnictví státu",
       "systém vlastnictví půdy",
       "zemědělská nemovitost"
@@ -7655,6 +7835,7 @@
       "not_logged": 8
     },
     "temata": [
+      "investièní operace",
       "investiční operace",
       "kapitálový trh",
       "pohyb kapitálu",
@@ -7676,6 +7857,7 @@
     },
     "temata": [
       "střední vzdělání",
+      "výbėr ákų",
       "výběr žáků",
       "zkouška"
     ]
@@ -8268,9 +8450,13 @@
     },
     "temata": [
       "digitalizace dokumentù",
+      "digitalizace dokumentų",
       "sociální zabezpeèení",
+      "sociální zabezpečení",
       "zdravotní pojištìní",
-      "zprostøedkovatelna práce"
+      "zdravotní pojištění",
+      "zprostøedkovatelna práce",
+      "zprostředkovatelna práce"
     ]
   },
   {
@@ -8414,6 +8600,7 @@
       "bankovní dohled",
       "finanční trh",
       "kapitálový trh",
+      "mėnová krize",
       "měnová krize",
       "regulace trhu"
     ]
@@ -8521,9 +8708,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -8549,9 +8739,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -8577,9 +8770,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -8605,9 +8801,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -8633,9 +8832,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -8661,9 +8863,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -8689,9 +8894,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -8740,9 +8948,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -8768,9 +8979,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -8796,9 +9010,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -8824,9 +9041,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -8852,9 +9072,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -8880,9 +9103,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -8908,9 +9134,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -8936,9 +9165,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -8964,9 +9196,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -8992,9 +9227,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -9021,6 +9259,7 @@
     "temata": [
       "evidence obyvatelstva",
       "informační systém",
+      "pøíjmení",
       "příjmení",
       "rodinné právo"
     ]
@@ -9039,9 +9278,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -9067,8 +9309,9 @@
     },
     "temata": [
       "organizace zdravotnictví",
-      "převoz nemocných",
       "první pomoc",
+      "pøevoz nemocných",
+      "převoz nemocných",
       "státní zdravotní služba"
     ]
   },
@@ -9120,9 +9363,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -9148,9 +9394,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -9176,9 +9425,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -9204,9 +9456,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -9232,9 +9487,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -9260,9 +9518,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -9288,9 +9549,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -9316,9 +9580,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -9364,9 +9631,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -9392,9 +9662,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -9420,9 +9693,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -9448,9 +9724,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -9476,9 +9755,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -9504,9 +9786,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -9532,9 +9817,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -9560,9 +9848,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -9588,9 +9879,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -9616,9 +9910,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -9644,9 +9941,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -9672,9 +9972,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -9700,9 +10003,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -9728,9 +10034,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -9756,9 +10065,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -9784,9 +10096,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -9812,9 +10127,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -9840,9 +10158,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -9868,9 +10189,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -9896,9 +10220,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -9924,9 +10251,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -9952,9 +10282,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -9980,9 +10313,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -10008,9 +10344,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -10036,9 +10375,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -10064,9 +10406,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -10092,9 +10437,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -10120,9 +10468,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -10148,9 +10499,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -10176,9 +10530,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -10204,9 +10561,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -10232,9 +10592,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -10260,9 +10623,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -10288,9 +10654,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -10316,9 +10685,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -10344,9 +10716,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -10372,9 +10747,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -10400,9 +10778,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -10428,9 +10809,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -10456,9 +10840,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -10484,9 +10871,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -10512,9 +10902,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -10540,9 +10933,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -10568,9 +10964,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -10596,9 +10995,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -10624,9 +11026,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -10652,9 +11057,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -10680,9 +11088,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -10708,9 +11119,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -10736,9 +11150,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -10764,9 +11181,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -10792,9 +11212,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -10820,9 +11243,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -10848,9 +11274,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -10876,9 +11305,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -10904,9 +11336,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -10932,9 +11367,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -10960,9 +11398,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -10988,9 +11429,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -11016,9 +11460,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -11044,9 +11491,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -11072,9 +11522,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -11100,9 +11553,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -11128,9 +11584,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -11156,9 +11615,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -11184,9 +11646,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -11212,9 +11677,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -11240,9 +11708,12 @@
     },
     "temata": [
       "cena pozemku",
+      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "dopravní infrastruktura",
+      "energetická rozvodná sí",
       "energetická rozvodná síť",
+      "inenýrské stavitelství",
       "inženýrské stavby",
       "inženýrské stavitelství",
       "nemovitost",
@@ -11468,6 +11939,7 @@
       "energetické právo",
       "ochrana spotřebitele",
       "rozvod elektřiny",
+      "spotøeba energie",
       "spotřeba energie",
       "veřejná správa",
       "zásobování plynem"
@@ -11514,6 +11986,7 @@
       "energetické právo",
       "ochrana spotřebitele",
       "rozvod elektřiny",
+      "spotøeba energie",
       "spotřeba energie",
       "veřejná správa",
       "zásobování plynem"
@@ -11534,6 +12007,7 @@
     "temata": [
       "audiovizuální produkce",
       "filmový průmysl",
+      "filmový prųmysl",
       "finanční pomoc"
     ]
   },
@@ -11555,6 +12029,7 @@
       "energetické právo",
       "ochrana spotřebitele",
       "rozvod elektřiny",
+      "spotøeba energie",
       "spotřeba energie",
       "veřejná správa",
       "zásobování plynem"
@@ -11599,6 +12074,7 @@
       "energetické právo",
       "ochrana spotřebitele",
       "rozvod elektřiny",
+      "spotøeba energie",
       "spotřeba energie",
       "veřejná správa",
       "zásobování plynem"
@@ -11622,6 +12098,7 @@
       "energetické právo",
       "ochrana spotřebitele",
       "rozvod elektřiny",
+      "spotøeba energie",
       "spotřeba energie",
       "veřejná správa",
       "zásobování plynem"
@@ -11645,6 +12122,7 @@
       "energetické právo",
       "ochrana spotřebitele",
       "rozvod elektřiny",
+      "spotøeba energie",
       "spotřeba energie",
       "veřejná správa",
       "zásobování plynem"
@@ -11677,6 +12155,7 @@
       "not_logged": 15
     },
     "temata": [
+      "sladėní sociálních zabezpečení",
       "sladění sociálních zabezpečení",
       "sociální dávky",
       "sociální zabezpečení",
@@ -11697,6 +12176,7 @@
       "not_logged": 9
     },
     "temata": [
+      "sladėní sociálních zabezpečení",
       "sladění sociálních zabezpečení",
       "sociální dávky",
       "sociální zabezpečení",
@@ -11717,6 +12197,7 @@
       "not_logged": 9
     },
     "temata": [
+      "sladėní sociálních zabezpečení",
       "sladění sociálních zabezpečení",
       "sociální dávky",
       "sociální zabezpečení",
@@ -11737,6 +12218,7 @@
       "not_logged": 9
     },
     "temata": [
+      "sladėní sociálních zabezpečení",
       "sladění sociálních zabezpečení",
       "sociální dávky",
       "sociální zabezpečení",
@@ -11757,6 +12239,7 @@
       "not_logged": 9
     },
     "temata": [
+      "sladėní sociálních zabezpečení",
       "sladění sociálních zabezpečení",
       "sociální dávky",
       "sociální zabezpečení",
@@ -11777,6 +12260,7 @@
       "not_logged": 8
     },
     "temata": [
+      "sladėní sociálních zabezpečení",
       "sladění sociálních zabezpečení",
       "sociální dávky",
       "sociální zabezpečení",
@@ -11797,6 +12281,7 @@
       "not_logged": 8
     },
     "temata": [
+      "sladėní sociálních zabezpečení",
       "sladění sociálních zabezpečení",
       "sociální dávky",
       "sociální zabezpečení",
@@ -11817,6 +12302,7 @@
       "not_logged": 8
     },
     "temata": [
+      "sladėní sociálních zabezpečení",
       "sladění sociálních zabezpečení",
       "sociální dávky",
       "sociální zabezpečení",
@@ -11837,6 +12323,7 @@
       "not_logged": 6
     },
     "temata": [
+      "sladėní sociálních zabezpečení",
       "sladění sociálních zabezpečení",
       "sociální dávky",
       "sociální zabezpečení",
@@ -11857,6 +12344,7 @@
       "not_logged": 6
     },
     "temata": [
+      "sladėní sociálních zabezpečení",
       "sladění sociálních zabezpečení",
       "sociální dávky",
       "sociální zabezpečení",
@@ -11877,6 +12365,7 @@
       "not_logged": 6
     },
     "temata": [
+      "sladėní sociálních zabezpečení",
       "sladění sociálních zabezpečení",
       "sociální dávky",
       "sociální zabezpečení",
@@ -11897,6 +12386,7 @@
       "not_logged": 7
     },
     "temata": [
+      "sladėní sociálních zabezpečení",
       "sladění sociálních zabezpečení",
       "sociální dávky",
       "sociální zabezpečení",
@@ -12084,6 +12574,7 @@
       "not_logged": 14
     },
     "temata": [
+      "alternativní investièní fond",
       "alternativní investiční fond",
       "daňová úleva",
       "finanční trh",
@@ -12107,6 +12598,7 @@
       "not_logged": 5
     },
     "temata": [
+      "alternativní investièní fond",
       "alternativní investiční fond",
       "daňová úleva",
       "finanční trh",
@@ -12130,6 +12622,7 @@
       "not_logged": 4
     },
     "temata": [
+      "alternativní investièní fond",
       "alternativní investiční fond",
       "daňová úleva",
       "finanční trh",
@@ -12153,6 +12646,7 @@
       "not_logged": 4
     },
     "temata": [
+      "alternativní investièní fond",
       "alternativní investiční fond",
       "daňová úleva",
       "finanční trh",
@@ -12176,6 +12670,7 @@
       "not_logged": 5
     },
     "temata": [
+      "alternativní investièní fond",
       "alternativní investiční fond",
       "daňová úleva",
       "finanční trh",
@@ -12199,6 +12694,7 @@
       "not_logged": 4
     },
     "temata": [
+      "alternativní investièní fond",
       "alternativní investiční fond",
       "daňová úleva",
       "finanční trh",
@@ -12222,6 +12718,7 @@
       "not_logged": 5
     },
     "temata": [
+      "alternativní investièní fond",
       "alternativní investiční fond",
       "daňová úleva",
       "finanční trh",
@@ -12245,6 +12742,7 @@
       "not_logged": 4
     },
     "temata": [
+      "alternativní investièní fond",
       "alternativní investiční fond",
       "daňová úleva",
       "finanční trh",
@@ -12268,6 +12766,7 @@
       "not_logged": 4
     },
     "temata": [
+      "alternativní investièní fond",
       "alternativní investiční fond",
       "daňová úleva",
       "finanční trh",
@@ -12291,6 +12790,7 @@
       "not_logged": 4
     },
     "temata": [
+      "alternativní investièní fond",
       "alternativní investiční fond",
       "daňová úleva",
       "finanční trh",
@@ -12314,6 +12814,7 @@
       "not_logged": 4
     },
     "temata": [
+      "alternativní investièní fond",
       "alternativní investiční fond",
       "daňová úleva",
       "finanční trh",
@@ -12337,6 +12838,7 @@
       "not_logged": 4
     },
     "temata": [
+      "alternativní investièní fond",
       "alternativní investiční fond",
       "daňová úleva",
       "finanční trh",
@@ -12360,6 +12862,7 @@
       "not_logged": 4
     },
     "temata": [
+      "alternativní investièní fond",
       "alternativní investiční fond",
       "daňová úleva",
       "finanční trh",
@@ -12383,6 +12886,7 @@
       "not_logged": 4
     },
     "temata": [
+      "alternativní investièní fond",
       "alternativní investiční fond",
       "daňová úleva",
       "finanční trh",
@@ -12406,6 +12910,7 @@
       "not_logged": 5
     },
     "temata": [
+      "alternativní investièní fond",
       "alternativní investiční fond",
       "daňová úleva",
       "finanční trh",
@@ -12429,6 +12934,7 @@
       "not_logged": 4
     },
     "temata": [
+      "alternativní investièní fond",
       "alternativní investiční fond",
       "daňová úleva",
       "finanční trh",
@@ -12452,6 +12958,7 @@
       "not_logged": 7
     },
     "temata": [
+      "alternativní investièní fond",
       "alternativní investiční fond",
       "daňová úleva",
       "finanční trh",
@@ -12475,6 +12982,7 @@
       "not_logged": 7
     },
     "temata": [
+      "sladėní sociálních zabezpečení",
       "sladění sociálních zabezpečení",
       "sociální dávky",
       "sociální zabezpečení",
@@ -12495,6 +13003,7 @@
       "not_logged": 8
     },
     "temata": [
+      "sladėní sociálních zabezpečení",
       "sladění sociálních zabezpečení",
       "sociální dávky",
       "sociální zabezpečení",
@@ -12515,6 +13024,7 @@
       "not_logged": 7
     },
     "temata": [
+      "sladėní sociálních zabezpečení",
       "sladění sociálních zabezpečení",
       "sociální dávky",
       "sociální zabezpečení",
@@ -12535,6 +13045,7 @@
       "not_logged": 7
     },
     "temata": [
+      "sladėní sociálních zabezpečení",
       "sladění sociálních zabezpečení",
       "sociální dávky",
       "sociální zabezpečení",
@@ -12555,6 +13066,7 @@
       "not_logged": 17
     },
     "temata": [
+      "sladėní sociálních zabezpečení",
       "sladění sociálních zabezpečení",
       "sociální dávky",
       "sociální zabezpečení",
@@ -12576,6 +13088,7 @@
     },
     "temata": [
       "financování rozpočtu",
+      "plnėní rozpočtu",
       "plnění rozpočtu",
       "státní rozpočet"
     ]
@@ -13628,6 +14141,7 @@
       "fiskální politika",
       "rozpočtová politika",
       "státní rozpočet",
+      "støednėdobé financování",
       "střednědobá prognóza",
       "střednědobé financování"
     ]
@@ -13649,6 +14163,7 @@
       "fiskální politika",
       "rozpočtová politika",
       "státní rozpočet",
+      "støednėdobé financování",
       "střednědobá prognóza",
       "střednědobé financování"
     ]
@@ -15630,6 +16145,7 @@
       "intervenční nákupy",
       "intervenční politika",
       "návrh rozpočtu",
+      "společná zemėdėlská politika",
       "společná zemědělská politika",
       "účty agrárního sektoru"
     ]
@@ -15649,11 +16165,14 @@
     "temata": [
       "agrární sektor",
       "dotace na hektar",
+      "hospodáøská podpora",
       "hospodářská podpora",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "podpůrná politika",
       "státní podpora",
+      "zemėdėlská politika",
       "zemědělská politika",
       "zemědělská výroba"
     ]
@@ -16073,9 +16592,10 @@
     "temata": [
       "lékař",
       "pracovní podmínky",
+      "pøesčas",
       "přesčas",
-      "zákoník práce",
-      "zdravotnické povolání"
+      "zdravotnické povolání",
+      "zákoník práce"
     ]
   },
   {
@@ -16106,9 +16626,10 @@
     },
     "temata": [
       "mzda",
+      "odnėtí svobody",
       "odnětí svobody",
-      "trestní řízení",
       "trestní sankce",
+      "trestní řízení",
       "vazba",
       "výkon trestu"
     ]
@@ -16348,6 +16869,7 @@
     "temata": [
       "evidence obyvatelstva",
       "informační systém",
+      "pøíjmení",
       "příjmení",
       "rodinné právo"
     ]
@@ -16367,6 +16889,7 @@
     "temata": [
       "evidence obyvatelstva",
       "informační systém",
+      "pøíjmení",
       "příjmení",
       "rodinné právo"
     ]
@@ -16386,6 +16909,7 @@
     "temata": [
       "evidence obyvatelstva",
       "informační systém",
+      "pøíjmení",
       "příjmení",
       "rodinné právo"
     ]
@@ -16405,6 +16929,7 @@
     "temata": [
       "evidence obyvatelstva",
       "informační systém",
+      "pøíjmení",
       "příjmení",
       "rodinné právo"
     ]
@@ -16422,11 +16947,12 @@
       "not_logged": 10
     },
     "temata": [
+      "Ukrajina",
       "bydlení",
       "migrace",
       "pomoc uprchlíkům",
+      "pomoc uprchlíkųm",
       "povolení k pobytu",
-      "Ukrajina",
       "uprchlík",
       "válka"
     ]
@@ -16446,6 +16972,7 @@
     "temata": [
       "evidence obyvatelstva",
       "informační systém",
+      "pøíjmení",
       "příjmení",
       "rodinné právo"
     ]
@@ -16465,6 +16992,7 @@
     "temata": [
       "evidence obyvatelstva",
       "informační systém",
+      "pøíjmení",
       "příjmení",
       "rodinné právo"
     ]
@@ -16484,6 +17012,7 @@
     "temata": [
       "evidence obyvatelstva",
       "informační systém",
+      "pøíjmení",
       "příjmení",
       "rodinné právo"
     ]
@@ -16503,6 +17032,7 @@
     "temata": [
       "evidence obyvatelstva",
       "informační systém",
+      "pøíjmení",
       "příjmení",
       "rodinné právo"
     ]
@@ -16522,6 +17052,7 @@
     "temata": [
       "evidence obyvatelstva",
       "informační systém",
+      "pøíjmení",
       "příjmení",
       "rodinné právo"
     ]
@@ -16541,6 +17072,7 @@
     "temata": [
       "evidence obyvatelstva",
       "informační systém",
+      "pøíjmení",
       "příjmení",
       "rodinné právo"
     ]
@@ -16560,6 +17092,7 @@
     "temata": [
       "evidence obyvatelstva",
       "informační systém",
+      "pøíjmení",
       "příjmení",
       "rodinné právo"
     ]
@@ -16579,6 +17112,7 @@
     "temata": [
       "evidence obyvatelstva",
       "informační systém",
+      "pøíjmení",
       "příjmení",
       "rodinné právo"
     ]
@@ -16598,6 +17132,7 @@
     "temata": [
       "evidence obyvatelstva",
       "informační systém",
+      "pøíjmení",
       "příjmení",
       "rodinné právo"
     ]
@@ -16617,6 +17152,7 @@
     "temata": [
       "evidence obyvatelstva",
       "informační systém",
+      "pøíjmení",
       "příjmení",
       "rodinné právo"
     ]
@@ -16636,6 +17172,7 @@
     "temata": [
       "evidence obyvatelstva",
       "informační systém",
+      "pøíjmení",
       "příjmení",
       "rodinné právo"
     ]
@@ -16655,6 +17192,7 @@
     "temata": [
       "evidence obyvatelstva",
       "informační systém",
+      "pøíjmení",
       "příjmení",
       "rodinné právo"
     ]
@@ -16674,6 +17212,7 @@
     "temata": [
       "evidence obyvatelstva",
       "informační systém",
+      "pøíjmení",
       "příjmení",
       "rodinné právo"
     ]
@@ -16693,6 +17232,7 @@
     "temata": [
       "evidence obyvatelstva",
       "informační systém",
+      "pøíjmení",
       "příjmení",
       "rodinné právo"
     ]
@@ -16712,6 +17252,7 @@
     "temata": [
       "evidence obyvatelstva",
       "informační systém",
+      "pøíjmení",
       "příjmení",
       "rodinné právo"
     ]
@@ -16731,6 +17272,7 @@
     "temata": [
       "evidence obyvatelstva",
       "informační systém",
+      "pøíjmení",
       "příjmení",
       "rodinné právo"
     ]
@@ -16750,6 +17292,7 @@
     "temata": [
       "evidence obyvatelstva",
       "informační systém",
+      "pøíjmení",
       "příjmení",
       "rodinné právo"
     ]
@@ -16769,6 +17312,7 @@
     "temata": [
       "evidence obyvatelstva",
       "informační systém",
+      "pøíjmení",
       "příjmení",
       "rodinné právo"
     ]
@@ -16788,6 +17332,7 @@
     "temata": [
       "evidence obyvatelstva",
       "informační systém",
+      "pøíjmení",
       "příjmení",
       "rodinné právo"
     ]
@@ -16807,6 +17352,7 @@
     "temata": [
       "evidence obyvatelstva",
       "informační systém",
+      "pøíjmení",
       "příjmení",
       "rodinné právo"
     ]
@@ -16826,6 +17372,7 @@
     "temata": [
       "evidence obyvatelstva",
       "informační systém",
+      "pøíjmení",
       "příjmení",
       "rodinné právo"
     ]
@@ -16845,6 +17392,7 @@
     "temata": [
       "evidence obyvatelstva",
       "informační systém",
+      "pøíjmení",
       "příjmení",
       "rodinné právo"
     ]
@@ -16864,6 +17412,7 @@
     "temata": [
       "evidence obyvatelstva",
       "informační systém",
+      "pøíjmení",
       "příjmení",
       "rodinné právo"
     ]
@@ -16883,6 +17432,7 @@
     "temata": [
       "evidence obyvatelstva",
       "informační systém",
+      "pøíjmení",
       "příjmení",
       "rodinné právo"
     ]
@@ -16902,6 +17452,7 @@
     "temata": [
       "evidence obyvatelstva",
       "informační systém",
+      "pøíjmení",
       "příjmení",
       "rodinné právo"
     ]
@@ -16921,6 +17472,7 @@
     "temata": [
       "evidence obyvatelstva",
       "informační systém",
+      "pøíjmení",
       "příjmení",
       "rodinné právo"
     ]
@@ -16940,6 +17492,7 @@
     "temata": [
       "evidence obyvatelstva",
       "informační systém",
+      "pøíjmení",
       "příjmení",
       "rodinné právo"
     ]
@@ -16959,6 +17512,7 @@
     "temata": [
       "evidence obyvatelstva",
       "informační systém",
+      "pøíjmení",
       "příjmení",
       "rodinné právo"
     ]
@@ -16978,6 +17532,7 @@
     "temata": [
       "evidence obyvatelstva",
       "informační systém",
+      "pøíjmení",
       "příjmení",
       "rodinné právo"
     ]
@@ -16997,6 +17552,7 @@
     "temata": [
       "evidence obyvatelstva",
       "informační systém",
+      "pøíjmení",
       "příjmení",
       "rodinné právo"
     ]
@@ -17016,6 +17572,7 @@
     "temata": [
       "evidence obyvatelstva",
       "informační systém",
+      "pøíjmení",
       "příjmení",
       "rodinné právo"
     ]
@@ -17035,6 +17592,7 @@
     "temata": [
       "evidence obyvatelstva",
       "informační systém",
+      "pøíjmení",
       "příjmení",
       "rodinné právo"
     ]
@@ -17054,6 +17612,7 @@
     "temata": [
       "evidence obyvatelstva",
       "informační systém",
+      "pøíjmení",
       "příjmení",
       "rodinné právo"
     ]
@@ -17073,6 +17632,7 @@
     "temata": [
       "evidence obyvatelstva",
       "informační systém",
+      "pøíjmení",
       "příjmení",
       "rodinné právo"
     ]
@@ -17092,6 +17652,7 @@
     "temata": [
       "evidence obyvatelstva",
       "informační systém",
+      "pøíjmení",
       "příjmení",
       "rodinné právo"
     ]
@@ -17114,6 +17675,7 @@
       "energetické právo",
       "ochrana spotřebitele",
       "rozvod elektřiny",
+      "spotøeba energie",
       "spotřeba energie",
       "veřejná správa",
       "zásobování plynem"
@@ -17482,9 +18044,13 @@
       "not_logged": 72
     },
     "temata": [
+      "hypotekární úvėr",
       "hypotekární úvěr",
+      "nebankovní úvìrová èinnost",
       "nebankovní úvěrová činnost",
       "spotřební úvěr",
+      "úvėr",
+      "úvėrová politika",
       "úvěr",
       "úvěrová instituce",
       "úvěrová politika"
@@ -17503,9 +18069,13 @@
       "not_logged": 64
     },
     "temata": [
+      "hypotekární úvėr",
       "hypotekární úvěr",
+      "nebankovní úvìrová èinnost",
       "nebankovní úvěrová činnost",
       "spotřební úvěr",
+      "úvėr",
+      "úvėrová politika",
       "úvěr",
       "úvěrová instituce",
       "úvěrová politika"
@@ -17645,8 +18215,10 @@
     },
     "temata": [
       "filmový průmysl",
+      "filmový prųmysl",
       "návrh rozpočtu",
       "rozpočet",
+      "støednėdobé financování",
       "střednědobá prognóza",
       "střednědobé financování",
       "způsob financování"
@@ -17667,6 +18239,7 @@
     "temata": [
       "ochrana spotřebitele",
       "správní delikt",
+      "vėcná pøíslunost",
       "věcná příslušnost"
     ]
   },
@@ -17685,6 +18258,7 @@
     "temata": [
       "ochrana spotřebitele",
       "správní delikt",
+      "vėcná pøíslunost",
       "věcná příslušnost"
     ]
   },
@@ -17703,6 +18277,7 @@
     "temata": [
       "ochrana spotřebitele",
       "správní delikt",
+      "vėcná pøíslunost",
       "věcná příslušnost"
     ]
   },
@@ -17721,6 +18296,7 @@
     "temata": [
       "ochrana spotřebitele",
       "správní delikt",
+      "vėcná pøíslunost",
       "věcná příslušnost"
     ]
   },
@@ -17739,6 +18315,7 @@
     "temata": [
       "ochrana spotřebitele",
       "správní delikt",
+      "vėcná pøíslunost",
       "věcná příslušnost"
     ]
   },
@@ -17774,6 +18351,7 @@
     "temata": [
       "ochrana spotřebitele",
       "správní delikt",
+      "vėcná pøíslunost",
       "věcná příslušnost"
     ]
   },
@@ -17792,6 +18370,7 @@
     "temata": [
       "ochrana spotřebitele",
       "správní delikt",
+      "vėcná pøíslunost",
       "věcná příslušnost"
     ]
   },
@@ -17810,6 +18389,7 @@
     "temata": [
       "ochrana spotřebitele",
       "správní delikt",
+      "vėcná pøíslunost",
       "věcná příslušnost"
     ]
   },
@@ -17828,6 +18408,7 @@
     "temata": [
       "ochrana spotřebitele",
       "správní delikt",
+      "vėcná pøíslunost",
       "věcná příslušnost"
     ]
   },
@@ -17846,6 +18427,7 @@
     "temata": [
       "ochrana spotřebitele",
       "správní delikt",
+      "vėcná pøíslunost",
       "věcná příslušnost"
     ]
   },
@@ -17864,6 +18446,7 @@
     "temata": [
       "ochrana spotřebitele",
       "správní delikt",
+      "vėcná pøíslunost",
       "věcná příslušnost"
     ]
   },
@@ -17882,6 +18465,7 @@
     "temata": [
       "ochrana spotřebitele",
       "správní delikt",
+      "vėcná pøíslunost",
       "věcná příslušnost"
     ]
   },
@@ -17900,6 +18484,7 @@
     "temata": [
       "ochrana spotřebitele",
       "správní delikt",
+      "vėcná pøíslunost",
       "věcná příslušnost"
     ]
   },
@@ -17918,6 +18503,7 @@
     "temata": [
       "ochrana spotřebitele",
       "správní delikt",
+      "vėcná pøíslunost",
       "věcná příslušnost"
     ]
   },
@@ -17936,6 +18522,7 @@
     "temata": [
       "ochrana spotřebitele",
       "správní delikt",
+      "vėcná pøíslunost",
       "věcná příslušnost"
     ]
   },
@@ -17952,11 +18539,12 @@
       "not_logged": 10
     },
     "temata": [
-      "Česká republika",
-      "daňová úmluva",
-      "dvojí zdanění",
       "Srí Lanka",
-      "zkrácení daně"
+      "daňová úmluva",
+      "daōová úmluva",
+      "dvojí zdanění",
+      "zkrácení daně",
+      "Česká republika"
     ]
   },
   {
@@ -17992,10 +18580,11 @@
       "not_logged": 10
     },
     "temata": [
-      "Česká republika",
+      "Spojené arabské emiráty",
       "daňová úmluva",
+      "daōová úmluva",
       "dvojí zdanění",
-      "Spojené arabské emiráty"
+      "Česká republika"
     ]
   },
   {
@@ -18011,10 +18600,11 @@
       "not_logged": 11
     },
     "temata": [
-      "Česká republika",
+      "Rwanda",
       "daňová úmluva",
+      "daōová úmluva",
       "dvojí zdanění",
-      "Rwanda"
+      "Česká republika"
     ]
   },
   {
@@ -18050,12 +18640,16 @@
     },
     "temata": [
       "Antarktida",
+      "ekologická odpovėdnost",
       "ekologická odpovědnost",
+      "havarijní znečitėní",
       "havarijní znečištění",
       "mezinárodní dohoda",
+      "ochrana rostlinné øíe",
       "ochrana rostlinné říše",
-      "ochrana živočišné říše",
-      "ochrana životního prostředí"
+      "ochrana ivočiné øíe",
+      "ochrana životního prostředí",
+      "ochrana živočišné říše"
     ]
   },
   {
@@ -18072,12 +18666,16 @@
     },
     "temata": [
       "Antarktida",
+      "ekologická odpovėdnost",
       "ekologická odpovědnost",
+      "havarijní znečitėní",
       "havarijní znečištění",
       "mezinárodní dohoda",
+      "ochrana rostlinné øíe",
       "ochrana rostlinné říše",
-      "ochrana živočišné říše",
-      "ochrana životního prostředí"
+      "ochrana ivočiné øíe",
+      "ochrana životního prostředí",
+      "ochrana živočišné říše"
     ]
   },
   {
@@ -18094,12 +18692,16 @@
     },
     "temata": [
       "Antarktida",
+      "ekologická odpovėdnost",
       "ekologická odpovědnost",
+      "havarijní znečitėní",
       "havarijní znečištění",
       "mezinárodní dohoda",
+      "ochrana rostlinné øíe",
       "ochrana rostlinné říše",
-      "ochrana živočišné říše",
-      "ochrana životního prostředí"
+      "ochrana ivočiné øíe",
+      "ochrana životního prostředí",
+      "ochrana živočišné říše"
     ]
   },
   {
@@ -18115,10 +18717,12 @@
       "not_logged": 13
     },
     "temata": [
+      "Svėtová potovní unie",
+      "Světová poštovní unie",
       "mezinárodní dohoda",
+      "potovní sazba",
       "poštovní sazba",
-      "ratifikace dohody",
-      "Světová poštovní unie"
+      "ratifikace dohody"
     ]
   },
   {
@@ -18210,12 +18814,13 @@
       "not_logged": 13
     },
     "temata": [
-      "Česká republika",
+      "Uzbekistán",
       "nelegální migrace",
       "policejní spolupráce",
-      "Uzbekistán",
       "vyhoštění",
-      "zpětná migrace"
+      "zpėtná migrace",
+      "zpětná migrace",
+      "Česká republika"
     ]
   },
   {
@@ -18231,6 +18836,7 @@
       "not_logged": 12
     },
     "temata": [
+      "alternativní investièní fond",
       "alternativní investiční fond",
       "daňová úleva",
       "finanční trh",
@@ -18254,6 +18860,7 @@
       "not_logged": 9
     },
     "temata": [
+      "alternativní investièní fond",
       "alternativní investiční fond",
       "daňová úleva",
       "finanční trh",
@@ -18277,11 +18884,12 @@
       "not_logged": 7
     },
     "temata": [
-      "Česká republika",
-      "daňová úmluva",
-      "dvojí zdanění",
       "Srí Lanka",
-      "zkrácení daně"
+      "daňová úmluva",
+      "daōová úmluva",
+      "dvojí zdanění",
+      "zkrácení daně",
+      "Česká republika"
     ]
   },
   {
@@ -18836,6 +19444,7 @@
     "temata": [
       "důchodový plán",
       "finanční pomoc",
+      "občanská neposlunost",
       "občanská neposlušnost",
       "odškodnění"
     ]
@@ -18966,9 +19575,10 @@
     },
     "temata": [
       "mzda",
+      "odnėtí svobody",
       "odnětí svobody",
-      "trestní řízení",
       "trestní sankce",
+      "trestní řízení",
       "vazba",
       "výkon trestu"
     ]
@@ -18987,9 +19597,10 @@
     },
     "temata": [
       "mzda",
+      "odnėtí svobody",
       "odnětí svobody",
-      "trestní řízení",
       "trestní sankce",
+      "trestní řízení",
       "vazba",
       "výkon trestu"
     ]
@@ -19009,6 +19620,7 @@
     "temata": [
       "důchodový plán",
       "finanční pomoc",
+      "občanská neposlunost",
       "občanská neposlušnost",
       "odškodnění"
     ]
@@ -19028,6 +19640,7 @@
     "temata": [
       "důchodový plán",
       "finanční pomoc",
+      "občanská neposlunost",
       "občanská neposlušnost",
       "odškodnění"
     ]
@@ -19047,6 +19660,7 @@
     "temata": [
       "důchodový plán",
       "finanční pomoc",
+      "občanská neposlunost",
       "občanská neposlušnost",
       "odškodnění"
     ]
@@ -19619,9 +20233,10 @@
     },
     "temata": [
       "mzda",
+      "odnėtí svobody",
       "odnětí svobody",
-      "trestní řízení",
       "trestní sankce",
+      "trestní řízení",
       "vazba",
       "výkon trestu"
     ]
@@ -19640,9 +20255,10 @@
     },
     "temata": [
       "mzda",
+      "odnėtí svobody",
       "odnětí svobody",
-      "trestní řízení",
       "trestní sankce",
+      "trestní řízení",
       "vazba",
       "výkon trestu"
     ]
@@ -19661,9 +20277,10 @@
     },
     "temata": [
       "mzda",
+      "odnėtí svobody",
       "odnětí svobody",
-      "trestní řízení",
       "trestní sankce",
+      "trestní řízení",
       "vazba",
       "výkon trestu"
     ]
@@ -19682,9 +20299,10 @@
     },
     "temata": [
       "mzda",
+      "odnėtí svobody",
       "odnětí svobody",
-      "trestní řízení",
       "trestní sankce",
+      "trestní řízení",
       "vazba",
       "výkon trestu"
     ]
@@ -19703,9 +20321,10 @@
     },
     "temata": [
       "mzda",
+      "odnėtí svobody",
       "odnětí svobody",
-      "trestní řízení",
       "trestní sankce",
+      "trestní řízení",
       "vazba",
       "výkon trestu"
     ]
@@ -19724,9 +20343,10 @@
     },
     "temata": [
       "mzda",
+      "odnėtí svobody",
       "odnětí svobody",
-      "trestní řízení",
       "trestní sankce",
+      "trestní řízení",
       "vazba",
       "výkon trestu"
     ]
@@ -20138,11 +20758,13 @@
     },
     "temata": [
       "konvenční zbraň",
+      "konvenční zbraō",
       "osobní zbraň",
       "správní kontrola",
       "střelná zbraň a střelivo",
       "vojenské vybavení",
-      "zbraň hromadného ničení"
+      "zbraň hromadného ničení",
+      "zbraō hromadného ničení"
     ]
   },
   {
@@ -20159,11 +20781,13 @@
     },
     "temata": [
       "konvenční zbraň",
+      "konvenční zbraō",
       "osobní zbraň",
       "správní kontrola",
       "střelná zbraň a střelivo",
       "vojenské vybavení",
-      "zbraň hromadného ničení"
+      "zbraň hromadného ničení",
+      "zbraō hromadného ničení"
     ]
   },
   {
@@ -20180,11 +20804,13 @@
     },
     "temata": [
       "konvenční zbraň",
+      "konvenční zbraō",
       "osobní zbraň",
       "správní kontrola",
       "střelná zbraň a střelivo",
       "vojenské vybavení",
-      "zbraň hromadného ničení"
+      "zbraň hromadného ničení",
+      "zbraō hromadného ničení"
     ]
   },
   {
@@ -20201,11 +20827,13 @@
     },
     "temata": [
       "konvenční zbraň",
+      "konvenční zbraō",
       "osobní zbraň",
       "správní kontrola",
       "střelná zbraň a střelivo",
       "vojenské vybavení",
-      "zbraň hromadného ničení"
+      "zbraň hromadného ničení",
+      "zbraō hromadného ničení"
     ]
   },
   {
@@ -20222,11 +20850,13 @@
     },
     "temata": [
       "konvenční zbraň",
+      "konvenční zbraō",
       "osobní zbraň",
       "správní kontrola",
       "střelná zbraň a střelivo",
       "vojenské vybavení",
-      "zbraň hromadného ničení"
+      "zbraň hromadného ničení",
+      "zbraō hromadného ničení"
     ]
   },
   {
@@ -20243,11 +20873,13 @@
     },
     "temata": [
       "konvenční zbraň",
+      "konvenční zbraō",
       "osobní zbraň",
       "správní kontrola",
       "střelná zbraň a střelivo",
       "vojenské vybavení",
-      "zbraň hromadného ničení"
+      "zbraň hromadného ničení",
+      "zbraō hromadného ničení"
     ]
   },
   {
@@ -20264,11 +20896,13 @@
     },
     "temata": [
       "konvenční zbraň",
+      "konvenční zbraō",
       "osobní zbraň",
       "správní kontrola",
       "střelná zbraň a střelivo",
       "vojenské vybavení",
-      "zbraň hromadného ničení"
+      "zbraň hromadného ničení",
+      "zbraō hromadného ničení"
     ]
   },
   {
@@ -20285,11 +20919,13 @@
     },
     "temata": [
       "konvenční zbraň",
+      "konvenční zbraō",
       "osobní zbraň",
       "správní kontrola",
       "střelná zbraň a střelivo",
       "vojenské vybavení",
-      "zbraň hromadného ničení"
+      "zbraň hromadného ničení",
+      "zbraō hromadného ničení"
     ]
   },
   {
@@ -20306,11 +20942,13 @@
     },
     "temata": [
       "konvenční zbraň",
+      "konvenční zbraō",
       "osobní zbraň",
       "správní kontrola",
       "střelná zbraň a střelivo",
       "vojenské vybavení",
-      "zbraň hromadného ničení"
+      "zbraň hromadného ničení",
+      "zbraō hromadného ničení"
     ]
   },
   {
@@ -20327,11 +20965,13 @@
     },
     "temata": [
       "konvenční zbraň",
+      "konvenční zbraō",
       "osobní zbraň",
       "správní kontrola",
       "střelná zbraň a střelivo",
       "vojenské vybavení",
-      "zbraň hromadného ničení"
+      "zbraň hromadného ničení",
+      "zbraō hromadného ničení"
     ]
   },
   {
@@ -20348,11 +20988,13 @@
     },
     "temata": [
       "konvenční zbraň",
+      "konvenční zbraō",
       "osobní zbraň",
       "správní kontrola",
       "střelná zbraň a střelivo",
       "vojenské vybavení",
-      "zbraň hromadného ničení"
+      "zbraň hromadného ničení",
+      "zbraō hromadného ničení"
     ]
   },
   {
@@ -20369,11 +21011,13 @@
     },
     "temata": [
       "konvenční zbraň",
+      "konvenční zbraō",
       "osobní zbraň",
       "správní kontrola",
       "střelná zbraň a střelivo",
       "vojenské vybavení",
-      "zbraň hromadného ničení"
+      "zbraň hromadného ničení",
+      "zbraō hromadného ničení"
     ]
   },
   {
@@ -20499,9 +21143,13 @@
       "not_logged": 23
     },
     "temata": [
+      "hypotekární úvėr",
       "hypotekární úvěr",
+      "nebankovní úvìrová èinnost",
       "nebankovní úvěrová činnost",
       "spotřební úvěr",
+      "úvėr",
+      "úvėrová politika",
       "úvěr",
       "úvěrová instituce",
       "úvěrová politika"
@@ -20520,9 +21168,13 @@
       "not_logged": 21
     },
     "temata": [
+      "hypotekární úvėr",
       "hypotekární úvěr",
+      "nebankovní úvìrová èinnost",
       "nebankovní úvěrová činnost",
       "spotřební úvěr",
+      "úvėr",
+      "úvėrová politika",
       "úvěr",
       "úvěrová instituce",
       "úvěrová politika"
@@ -20541,9 +21193,13 @@
       "not_logged": 13
     },
     "temata": [
+      "hypotekární úvėr",
       "hypotekární úvěr",
+      "nebankovní úvìrová èinnost",
       "nebankovní úvěrová činnost",
       "spotřební úvěr",
+      "úvėr",
+      "úvėrová politika",
       "úvěr",
       "úvěrová instituce",
       "úvěrová politika"
@@ -20564,6 +21220,7 @@
     "temata": [
       "bankovní právo",
       "spotřební úvěr",
+      "úvėr",
       "úvěr",
       "úvěrová instituce",
       "úvěrové družstvo"
@@ -21131,6 +21788,7 @@
       "manželství",
       "občanský zákoník",
       "registrované partnerství",
+      "sexuální menina",
       "sexuální menšina"
     ]
   },
@@ -21150,6 +21808,7 @@
       "manželství",
       "občanský zákoník",
       "registrované partnerství",
+      "sexuální menina",
       "sexuální menšina"
     ]
   },
@@ -21169,6 +21828,7 @@
       "manželství",
       "občanský zákoník",
       "registrované partnerství",
+      "sexuální menina",
       "sexuální menšina"
     ]
   },
@@ -21188,6 +21848,7 @@
       "manželství",
       "občanský zákoník",
       "registrované partnerství",
+      "sexuální menina",
       "sexuální menšina"
     ]
   },
@@ -21207,6 +21868,7 @@
       "manželství",
       "občanský zákoník",
       "registrované partnerství",
+      "sexuální menina",
       "sexuální menšina"
     ]
   },
@@ -21226,6 +21888,7 @@
       "manželství",
       "občanský zákoník",
       "registrované partnerství",
+      "sexuální menina",
       "sexuální menšina"
     ]
   },
@@ -21266,6 +21929,7 @@
       "manželství",
       "občanský zákoník",
       "registrované partnerství",
+      "sexuální menina",
       "sexuální menšina"
     ]
   },
@@ -21285,6 +21949,7 @@
       "manželství",
       "občanský zákoník",
       "registrované partnerství",
+      "sexuální menina",
       "sexuální menšina"
     ]
   },
@@ -21304,6 +21969,7 @@
       "manželství",
       "občanský zákoník",
       "registrované partnerství",
+      "sexuální menina",
       "sexuální menšina"
     ]
   },
@@ -21323,6 +21989,7 @@
       "manželství",
       "občanský zákoník",
       "registrované partnerství",
+      "sexuální menina",
       "sexuální menšina"
     ]
   },
@@ -21342,6 +22009,7 @@
       "manželství",
       "občanský zákoník",
       "registrované partnerství",
+      "sexuální menina",
       "sexuální menšina"
     ]
   },
@@ -21361,6 +22029,7 @@
       "manželství",
       "občanský zákoník",
       "registrované partnerství",
+      "sexuální menina",
       "sexuální menšina"
     ]
   },
@@ -21380,6 +22049,7 @@
       "manželství",
       "občanský zákoník",
       "registrované partnerství",
+      "sexuální menina",
       "sexuální menšina"
     ]
   },
@@ -21399,6 +22069,7 @@
       "manželství",
       "občanský zákoník",
       "registrované partnerství",
+      "sexuální menina",
       "sexuální menšina"
     ]
   },
@@ -21885,6 +22556,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -21909,6 +22581,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -21942,6 +22615,7 @@
       "manželství",
       "občanský zákoník",
       "registrované partnerství",
+      "sexuální menina",
       "sexuální menšina"
     ]
   },
@@ -21961,6 +22635,7 @@
       "manželství",
       "občanský zákoník",
       "registrované partnerství",
+      "sexuální menina",
       "sexuální menšina"
     ]
   },
@@ -21980,6 +22655,7 @@
       "manželství",
       "občanský zákoník",
       "registrované partnerství",
+      "sexuální menina",
       "sexuální menšina"
     ]
   },
@@ -21999,6 +22675,7 @@
       "manželství",
       "občanský zákoník",
       "registrované partnerství",
+      "sexuální menina",
       "sexuální menšina"
     ]
   },
@@ -22018,6 +22695,7 @@
       "manželství",
       "občanský zákoník",
       "registrované partnerství",
+      "sexuální menina",
       "sexuální menšina"
     ]
   },
@@ -22037,6 +22715,7 @@
       "manželství",
       "občanský zákoník",
       "registrované partnerství",
+      "sexuální menina",
       "sexuální menšina"
     ]
   },
@@ -22056,6 +22735,7 @@
       "manželství",
       "občanský zákoník",
       "registrované partnerství",
+      "sexuální menina",
       "sexuální menšina"
     ]
   },
@@ -22075,6 +22755,7 @@
       "manželství",
       "občanský zákoník",
       "registrované partnerství",
+      "sexuální menina",
       "sexuální menšina"
     ]
   },
@@ -22094,6 +22775,7 @@
       "manželství",
       "občanský zákoník",
       "registrované partnerství",
+      "sexuální menina",
       "sexuální menšina"
     ]
   },
@@ -22152,10 +22834,12 @@
       "not_logged": 21
     },
     "temata": [
+      "Svėtová potovní unie",
+      "Světová poštovní unie",
       "mezinárodní dohoda",
+      "potovní sazba",
       "poštovní sazba",
-      "ratifikace dohody",
-      "Světová poštovní unie"
+      "ratifikace dohody"
     ]
   },
   {
@@ -22209,12 +22893,13 @@
       "not_logged": 16
     },
     "temata": [
-      "Česká republika",
+      "Uzbekistán",
       "nelegální migrace",
       "policejní spolupráce",
-      "Uzbekistán",
       "vyhoštění",
-      "zpětná migrace"
+      "zpėtná migrace",
+      "zpětná migrace",
+      "Česká republika"
     ]
   },
   {
@@ -22427,7 +23112,9 @@
     "temata": [
       "mezinárodní úmluva",
       "ochrana životního prostředí",
+      "rtu",
       "rtuť",
+      "znečiování ivotního prostøedí kovy",
       "znečišťování životního prostředí",
       "znečišťování životního prostředí kovy"
     ]
@@ -22447,7 +23134,9 @@
     "temata": [
       "mezinárodní úmluva",
       "ochrana životního prostředí",
+      "rtu",
       "rtuť",
+      "znečiování ivotního prostøedí kovy",
       "znečišťování životního prostředí",
       "znečišťování životního prostředí kovy"
     ]
@@ -22465,6 +23154,7 @@
       "not_logged": 5
     },
     "temata": [
+      "hromadné sdėlovací prostøedky",
       "hromadné sdělovací prostředky",
       "programová produkce",
       "rozhlasové vysílání",
@@ -22512,6 +23202,7 @@
       "not_logged": 2
     },
     "temata": [
+      "plnėní rozpočtu",
       "plnění rozpočtu",
       "televize",
       "zpráva o činnosti"
@@ -22532,6 +23223,7 @@
     "temata": [
       "ochrana spotřebitele",
       "správní delikt",
+      "vėcná pøíslunost",
       "věcná příslušnost"
     ]
   },
@@ -22550,6 +23242,7 @@
     "temata": [
       "ochrana spotřebitele",
       "správní delikt",
+      "vėcná pøíslunost",
       "věcná příslušnost"
     ]
   },
@@ -22568,6 +23261,7 @@
     "temata": [
       "ochrana spotřebitele",
       "správní delikt",
+      "vėcná pøíslunost",
       "věcná příslušnost"
     ]
   },
@@ -22608,6 +23302,7 @@
     "temata": [
       "ochrana spotřebitele",
       "správní delikt",
+      "vėcná pøíslunost",
       "věcná příslušnost"
     ]
   },
@@ -22646,6 +23341,7 @@
       "not_logged": 22
     },
     "temata": [
+      "plnėní rozpočtu",
       "plnění rozpočtu",
       "televize",
       "zpráva o činnosti"
@@ -22664,6 +23360,7 @@
       "not_logged": 34
     },
     "temata": [
+      "plnėní rozpočtu",
       "plnění rozpočtu",
       "televize",
       "zpráva o činnosti"
@@ -22682,10 +23379,12 @@
       "not_logged": 33
     },
     "temata": [
+      "plnėní rozpočtu",
       "plnění rozpočtu",
       "televize",
-      "účetní uzávěrka",
-      "zpráva o činnosti"
+      "zpráva o činnosti",
+      "účetní uzávėrka",
+      "účetní uzávěrka"
     ]
   },
   {
@@ -22701,6 +23400,7 @@
       "not_logged": 32
     },
     "temata": [
+      "hromadné sdėlovací prostøedky",
       "hromadné sdělovací prostředky",
       "programová produkce",
       "rozhlasové vysílání",
@@ -22721,10 +23421,12 @@
     },
     "temata": [
       "financování rozpočtu",
+      "plnėní rozpočtu",
       "plnění rozpočtu",
       "tisková agentura",
-      "účetní uzávěrka",
-      "zpráva o činnosti"
+      "zpráva o činnosti",
+      "účetní uzávėrka",
+      "účetní uzávěrka"
     ]
   },
   {
@@ -22740,6 +23442,7 @@
       "not_logged": 30
     },
     "temata": [
+      "plnėní rozpočtu",
       "plnění rozpočtu",
       "televize",
       "zpráva o činnosti"
@@ -22758,13 +23461,16 @@
       "not_logged": 30
     },
     "temata": [
+      "hromadné sdėlovací prostøedky",
       "hromadné sdělovací prostředky",
       "komunikační politika",
+      "plnėní rozpočtu",
       "plnění rozpočtu",
       "programová produkce",
       "rozhlasové vysílání",
-      "účetní uzávěrka",
-      "zpráva o činnosti"
+      "zpráva o činnosti",
+      "účetní uzávėrka",
+      "účetní uzávěrka"
     ]
   },
   {
@@ -22880,6 +23586,7 @@
     "temata": [
       "ochrana spotřebitele",
       "správní delikt",
+      "vėcná pøíslunost",
       "věcná příslušnost"
     ]
   },
@@ -23224,6 +23931,7 @@
     },
     "temata": [
       "dlouhodobá prognóza",
+      "dlouhodobį prognóza",
       "ekonomická prognóza",
       "fiskální politika",
       "veřejné finance",
@@ -23244,6 +23952,7 @@
     },
     "temata": [
       "dlouhodobá prognóza",
+      "dlouhodobį prognóza",
       "ekonomická prognóza",
       "fiskální politika",
       "veřejné finance",
@@ -23264,6 +23973,7 @@
     },
     "temata": [
       "dlouhodobá prognóza",
+      "dlouhodobį prognóza",
       "ekonomická prognóza",
       "fiskální politika",
       "veřejné finance",
@@ -23284,6 +23994,7 @@
     },
     "temata": [
       "dlouhodobá prognóza",
+      "dlouhodobį prognóza",
       "ekonomická prognóza",
       "fiskální politika",
       "veřejné finance",
@@ -23304,6 +24015,7 @@
     },
     "temata": [
       "dlouhodobá prognóza",
+      "dlouhodobį prognóza",
       "ekonomická prognóza",
       "fiskální politika",
       "veřejné finance",
@@ -23324,6 +24036,7 @@
     },
     "temata": [
       "dlouhodobá prognóza",
+      "dlouhodobį prognóza",
       "ekonomická prognóza",
       "fiskální politika",
       "veřejné finance",
@@ -23344,6 +24057,7 @@
     },
     "temata": [
       "dlouhodobá prognóza",
+      "dlouhodobį prognóza",
       "ekonomická prognóza",
       "fiskální politika",
       "veřejné finance",
@@ -24267,6 +24981,7 @@
       "manželství",
       "občanský zákoník",
       "registrované partnerství",
+      "sexuální menina",
       "sexuální menšina"
     ]
   },
@@ -24286,6 +25001,7 @@
       "manželství",
       "občanský zákoník",
       "registrované partnerství",
+      "sexuální menina",
       "sexuální menšina"
     ]
   },
@@ -24305,6 +25021,7 @@
       "manželství",
       "občanský zákoník",
       "registrované partnerství",
+      "sexuální menina",
       "sexuální menšina"
     ]
   },
@@ -24349,17 +25066,21 @@
       "not_logged": 7
     },
     "temata": [
+      "havarijní znečitėní",
       "havarijní znečištění",
       "ochrana vod",
       "opatření na kontrolu znečištění",
+      "poadavky na vodu",
       "požadavky na vodu",
       "prevence znečištění",
       "přírodní zdroje",
-      "škodliviny ve vodě",
+      "vodní hospodáøství",
       "vodní hospodářství",
       "vodní tok",
       "vodní zdroje",
-      "vodohospodářské stavby"
+      "vodohospodářské stavby",
+      "kodliviny ve vodė",
+      "škodliviny ve vodě"
     ]
   },
   {
@@ -24406,6 +25127,7 @@
       "manželství",
       "občanský zákoník",
       "registrované partnerství",
+      "sexuální menina",
       "sexuální menšina"
     ]
   },
@@ -24425,6 +25147,7 @@
       "manželství",
       "občanský zákoník",
       "registrované partnerství",
+      "sexuální menina",
       "sexuální menšina"
     ]
   },
@@ -24442,8 +25165,9 @@
     },
     "temata": [
       "domácí násilí",
-      "sexuálně motivované násilí",
       "sexuální obtěžování",
+      "sexuálnė motivované násilí",
+      "sexuálně motivované násilí",
       "trestní právo",
       "trestní zákoník",
       "trestný čin proti osobám"
@@ -24465,6 +25189,7 @@
       "manželství",
       "občanský zákoník",
       "registrované partnerství",
+      "sexuální menina",
       "sexuální menšina"
     ]
   },
@@ -24484,6 +25209,7 @@
       "manželství",
       "občanský zákoník",
       "registrované partnerství",
+      "sexuální menina",
       "sexuální menšina"
     ]
   },
@@ -24503,6 +25229,7 @@
       "manželství",
       "občanský zákoník",
       "registrované partnerství",
+      "sexuální menina",
       "sexuální menšina"
     ]
   },
@@ -24527,6 +25254,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -24543,12 +25271,15 @@
       "not_logged": 7
     },
     "temata": [
+      "hromadná aloba",
       "hromadná žaloba",
       "kontrola restriktivních praktik",
       "mezinárodní právo soukromé",
-      "občanské právo",
+      "občanskoprávní aloba",
+      "občanskoprávní øízení",
       "občanskoprávní řízení",
       "občanskoprávní žaloba",
+      "občanské právo",
       "ochrana spotřebitele",
       "soudní řízení",
       "výkon rozhodnutí"
@@ -24567,12 +25298,15 @@
       "not_logged": 6
     },
     "temata": [
+      "hromadná aloba",
       "hromadná žaloba",
       "kontrola restriktivních praktik",
       "mezinárodní právo soukromé",
-      "občanské právo",
+      "občanskoprávní aloba",
+      "občanskoprávní øízení",
       "občanskoprávní řízení",
       "občanskoprávní žaloba",
+      "občanské právo",
       "ochrana spotřebitele",
       "soudní řízení",
       "výkon rozhodnutí"
@@ -24591,12 +25325,15 @@
       "not_logged": 18
     },
     "temata": [
+      "hromadná aloba",
       "hromadná žaloba",
       "kontrola restriktivních praktik",
       "mezinárodní právo soukromé",
-      "občanské právo",
+      "občanskoprávní aloba",
+      "občanskoprávní øízení",
       "občanskoprávní řízení",
       "občanskoprávní žaloba",
+      "občanské právo",
       "ochrana spotřebitele",
       "soudní řízení",
       "výkon rozhodnutí"
@@ -24615,12 +25352,15 @@
       "not_logged": 18
     },
     "temata": [
+      "hromadná aloba",
       "hromadná žaloba",
       "kontrola restriktivních praktik",
       "mezinárodní právo soukromé",
-      "občanské právo",
+      "občanskoprávní aloba",
+      "občanskoprávní øízení",
       "občanskoprávní řízení",
       "občanskoprávní žaloba",
+      "občanské právo",
       "ochrana spotřebitele",
       "soudní řízení",
       "výkon rozhodnutí"
@@ -24639,12 +25379,15 @@
       "not_logged": 17
     },
     "temata": [
+      "hromadná aloba",
       "hromadná žaloba",
       "kontrola restriktivních praktik",
       "mezinárodní právo soukromé",
-      "občanské právo",
+      "občanskoprávní aloba",
+      "občanskoprávní øízení",
       "občanskoprávní řízení",
       "občanskoprávní žaloba",
+      "občanské právo",
       "ochrana spotřebitele",
       "soudní řízení",
       "výkon rozhodnutí"
@@ -24663,12 +25406,15 @@
       "not_logged": 13
     },
     "temata": [
+      "hromadná aloba",
       "hromadná žaloba",
       "kontrola restriktivních praktik",
       "mezinárodní právo soukromé",
-      "občanské právo",
+      "občanskoprávní aloba",
+      "občanskoprávní øízení",
       "občanskoprávní řízení",
       "občanskoprávní žaloba",
+      "občanské právo",
       "ochrana spotřebitele",
       "soudní řízení",
       "výkon rozhodnutí"
@@ -24687,12 +25433,15 @@
       "not_logged": 12
     },
     "temata": [
+      "hromadná aloba",
       "hromadná žaloba",
       "kontrola restriktivních praktik",
       "mezinárodní právo soukromé",
-      "občanské právo",
+      "občanskoprávní aloba",
+      "občanskoprávní øízení",
       "občanskoprávní řízení",
       "občanskoprávní žaloba",
+      "občanské právo",
       "ochrana spotřebitele",
       "soudní řízení",
       "výkon rozhodnutí"
@@ -24711,12 +25460,15 @@
       "not_logged": 11
     },
     "temata": [
+      "hromadná aloba",
       "hromadná žaloba",
       "kontrola restriktivních praktik",
       "mezinárodní právo soukromé",
-      "občanské právo",
+      "občanskoprávní aloba",
+      "občanskoprávní øízení",
       "občanskoprávní řízení",
       "občanskoprávní žaloba",
+      "občanské právo",
       "ochrana spotřebitele",
       "soudní řízení",
       "výkon rozhodnutí"
@@ -24735,12 +25487,15 @@
       "not_logged": 11
     },
     "temata": [
+      "hromadná aloba",
       "hromadná žaloba",
       "kontrola restriktivních praktik",
       "mezinárodní právo soukromé",
-      "občanské právo",
+      "občanskoprávní aloba",
+      "občanskoprávní øízení",
       "občanskoprávní řízení",
       "občanskoprávní žaloba",
+      "občanské právo",
       "ochrana spotřebitele",
       "soudní řízení",
       "výkon rozhodnutí"
@@ -24759,12 +25514,15 @@
       "not_logged": 12
     },
     "temata": [
+      "hromadná aloba",
       "hromadná žaloba",
       "kontrola restriktivních praktik",
       "mezinárodní právo soukromé",
-      "občanské právo",
+      "občanskoprávní aloba",
+      "občanskoprávní øízení",
       "občanskoprávní řízení",
       "občanskoprávní žaloba",
+      "občanské právo",
       "ochrana spotřebitele",
       "soudní řízení",
       "výkon rozhodnutí"
@@ -24783,12 +25541,15 @@
       "not_logged": 11
     },
     "temata": [
+      "hromadná aloba",
       "hromadná žaloba",
       "kontrola restriktivních praktik",
       "mezinárodní právo soukromé",
-      "občanské právo",
+      "občanskoprávní aloba",
+      "občanskoprávní øízení",
       "občanskoprávní řízení",
       "občanskoprávní žaloba",
+      "občanské právo",
       "ochrana spotřebitele",
       "soudní řízení",
       "výkon rozhodnutí"
@@ -24807,12 +25568,15 @@
       "not_logged": 11
     },
     "temata": [
+      "hromadná aloba",
       "hromadná žaloba",
       "kontrola restriktivních praktik",
       "mezinárodní právo soukromé",
-      "občanské právo",
+      "občanskoprávní aloba",
+      "občanskoprávní øízení",
       "občanskoprávní řízení",
       "občanskoprávní žaloba",
+      "občanské právo",
       "ochrana spotřebitele",
       "soudní řízení",
       "výkon rozhodnutí"
@@ -24831,12 +25595,15 @@
       "not_logged": 11
     },
     "temata": [
+      "hromadná aloba",
       "hromadná žaloba",
       "kontrola restriktivních praktik",
       "mezinárodní právo soukromé",
-      "občanské právo",
+      "občanskoprávní aloba",
+      "občanskoprávní øízení",
       "občanskoprávní řízení",
       "občanskoprávní žaloba",
+      "občanské právo",
       "ochrana spotřebitele",
       "soudní řízení",
       "výkon rozhodnutí"
@@ -24855,12 +25622,15 @@
       "not_logged": 11
     },
     "temata": [
+      "hromadná aloba",
       "hromadná žaloba",
       "kontrola restriktivních praktik",
       "mezinárodní právo soukromé",
-      "občanské právo",
+      "občanskoprávní aloba",
+      "občanskoprávní øízení",
       "občanskoprávní řízení",
       "občanskoprávní žaloba",
+      "občanské právo",
       "ochrana spotřebitele",
       "soudní řízení",
       "výkon rozhodnutí"
@@ -24879,12 +25649,15 @@
       "not_logged": 11
     },
     "temata": [
+      "hromadná aloba",
       "hromadná žaloba",
       "kontrola restriktivních praktik",
       "mezinárodní právo soukromé",
-      "občanské právo",
+      "občanskoprávní aloba",
+      "občanskoprávní øízení",
       "občanskoprávní řízení",
       "občanskoprávní žaloba",
+      "občanské právo",
       "ochrana spotřebitele",
       "soudní řízení",
       "výkon rozhodnutí"
@@ -24903,12 +25676,15 @@
       "not_logged": 11
     },
     "temata": [
+      "hromadná aloba",
       "hromadná žaloba",
       "kontrola restriktivních praktik",
       "mezinárodní právo soukromé",
-      "občanské právo",
+      "občanskoprávní aloba",
+      "občanskoprávní øízení",
       "občanskoprávní řízení",
       "občanskoprávní žaloba",
+      "občanské právo",
       "ochrana spotřebitele",
       "soudní řízení",
       "výkon rozhodnutí"
@@ -24927,12 +25703,15 @@
       "not_logged": 11
     },
     "temata": [
+      "hromadná aloba",
       "hromadná žaloba",
       "kontrola restriktivních praktik",
       "mezinárodní právo soukromé",
-      "občanské právo",
+      "občanskoprávní aloba",
+      "občanskoprávní øízení",
       "občanskoprávní řízení",
       "občanskoprávní žaloba",
+      "občanské právo",
       "ochrana spotřebitele",
       "soudní řízení",
       "výkon rozhodnutí"
@@ -24951,12 +25730,15 @@
       "not_logged": 11
     },
     "temata": [
+      "hromadná aloba",
       "hromadná žaloba",
       "kontrola restriktivních praktik",
       "mezinárodní právo soukromé",
-      "občanské právo",
+      "občanskoprávní aloba",
+      "občanskoprávní øízení",
       "občanskoprávní řízení",
       "občanskoprávní žaloba",
+      "občanské právo",
       "ochrana spotřebitele",
       "soudní řízení",
       "výkon rozhodnutí"
@@ -24975,12 +25757,15 @@
       "not_logged": 11
     },
     "temata": [
+      "hromadná aloba",
       "hromadná žaloba",
       "kontrola restriktivních praktik",
       "mezinárodní právo soukromé",
-      "občanské právo",
+      "občanskoprávní aloba",
+      "občanskoprávní øízení",
       "občanskoprávní řízení",
       "občanskoprávní žaloba",
+      "občanské právo",
       "ochrana spotřebitele",
       "soudní řízení",
       "výkon rozhodnutí"
@@ -24999,12 +25784,15 @@
       "not_logged": 12
     },
     "temata": [
+      "hromadná aloba",
       "hromadná žaloba",
       "kontrola restriktivních praktik",
       "mezinárodní právo soukromé",
-      "občanské právo",
+      "občanskoprávní aloba",
+      "občanskoprávní øízení",
       "občanskoprávní řízení",
       "občanskoprávní žaloba",
+      "občanské právo",
       "ochrana spotřebitele",
       "soudní řízení",
       "výkon rozhodnutí"
@@ -25026,6 +25814,7 @@
       "manželství",
       "občanský zákoník",
       "registrované partnerství",
+      "sexuální menina",
       "sexuální menšina"
     ]
   },
@@ -25047,6 +25836,7 @@
       "práva dítěte",
       "solicitor",
       "soud pro mladistvé",
+      "trestní odpovėdnost mladistvých",
       "trestní odpovědnost mladistvých",
       "trestní stíhání",
       "zločinnost mládeže"
@@ -25068,6 +25858,7 @@
       "manželství",
       "občanský zákoník",
       "registrované partnerství",
+      "sexuální menina",
       "sexuální menšina"
     ]
   },
@@ -25980,6 +26771,7 @@
       "konopí",
       "kontrola léčiv",
       "omamná látka",
+      "povzbuzující prostøedek",
       "povzbuzující prostředek",
       "psychotropní látka"
     ]
@@ -26001,6 +26793,7 @@
       "konopí",
       "kontrola léčiv",
       "omamná látka",
+      "povzbuzující prostøedek",
       "povzbuzující prostředek",
       "psychotropní látka"
     ]
@@ -26022,6 +26815,7 @@
       "konopí",
       "kontrola léčiv",
       "omamná látka",
+      "povzbuzující prostøedek",
       "povzbuzující prostředek",
       "psychotropní látka"
     ]
@@ -26043,6 +26837,7 @@
       "konopí",
       "kontrola léčiv",
       "omamná látka",
+      "povzbuzující prostøedek",
       "povzbuzující prostředek",
       "psychotropní látka"
     ]
@@ -26060,12 +26855,15 @@
       "not_logged": 35
     },
     "temata": [
+      "lékaøské vzdėlávání",
       "lékařské vzdělávání",
       "odborná kvalifikace",
       "uznání diplomu",
       "zdravotnické povolání",
+      "zubní lékaø",
       "zubní lékař",
-      "zubní lékařství"
+      "zubní lékařství",
+      "zubnķ lékaųstvķ"
     ]
   },
   {
@@ -26085,6 +26883,7 @@
       "konopí",
       "kontrola léčiv",
       "omamná látka",
+      "povzbuzující prostøedek",
       "povzbuzující prostředek",
       "psychotropní látka"
     ]
@@ -26106,6 +26905,7 @@
       "konopí",
       "kontrola léčiv",
       "omamná látka",
+      "povzbuzující prostøedek",
       "povzbuzující prostředek",
       "psychotropní látka"
     ]
@@ -26127,6 +26927,7 @@
       "konopí",
       "kontrola léčiv",
       "omamná látka",
+      "povzbuzující prostøedek",
       "povzbuzující prostředek",
       "psychotropní látka"
     ]
@@ -26216,6 +27017,7 @@
     "temata": [
       "ochrana spotřebitele",
       "správní delikt",
+      "vėcná pøíslunost",
       "věcná příslušnost"
     ]
   },
@@ -26234,6 +27036,7 @@
     "temata": [
       "ochrana spotřebitele",
       "správní delikt",
+      "vėcná pøíslunost",
       "věcná příslušnost"
     ]
   },
@@ -26252,6 +27055,7 @@
     "temata": [
       "ochrana spotřebitele",
       "správní delikt",
+      "vėcná pøíslunost",
       "věcná příslušnost"
     ]
   },
@@ -26270,6 +27074,7 @@
     "temata": [
       "ochrana spotřebitele",
       "správní delikt",
+      "vėcná pøíslunost",
       "věcná příslušnost"
     ]
   },
@@ -26286,6 +27091,7 @@
       "not_logged": 12
     },
     "temata": [
+      "finanèní instituce",
       "finanční instituce",
       "investiční projekt",
       "investiční společnost",
@@ -26348,6 +27154,7 @@
     "temata": [
       "ochrana spotřebitele",
       "správní delikt",
+      "vėcná pøíslunost",
       "věcná příslušnost"
     ]
   },
@@ -26394,6 +27201,7 @@
     "temata": [
       "ochrana spotřebitele",
       "správní delikt",
+      "vėcná pøíslunost",
       "věcná příslušnost"
     ]
   },
@@ -26535,7 +27343,9 @@
     },
     "temata": [
       "environmentální politika",
+      "kvalita životního prostøedí",
       "kvalita životního prostředí",
+      "ministerská odpovėdnost",
       "ministerská odpovědnost",
       "náklady za znečištění",
       "ochrana životního prostředí",
@@ -26808,6 +27618,7 @@
       "právnická osoba",
       "právní postavení",
       "společenská činnost",
+      "veøejná instituce",
       "veřejná instituce"
     ]
   },
@@ -26830,6 +27641,7 @@
       "právnická osoba",
       "právní postavení",
       "společenská činnost",
+      "veøejná instituce",
       "veřejná instituce"
     ]
   },
@@ -26852,6 +27664,7 @@
       "právnická osoba",
       "právní postavení",
       "společenská činnost",
+      "veøejná instituce",
       "veřejná instituce"
     ]
   },
@@ -26874,6 +27687,7 @@
       "právnická osoba",
       "právní postavení",
       "společenská činnost",
+      "veøejná instituce",
       "veřejná instituce"
     ]
   },
@@ -27259,7 +28073,9 @@
       "not_logged": 17
     },
     "temata": [
+      "nestandardní pracovní pomėr",
       "nestandardní pracovní poměr",
+      "pøíleitostné zamėstnání",
       "příležitostné zaměstnání",
       "struktura zaměstnanosti",
       "zdravotně postižený člověk"
@@ -27278,7 +28094,9 @@
       "not_logged": 17
     },
     "temata": [
+      "nestandardní pracovní pomėr",
       "nestandardní pracovní poměr",
+      "pøíleitostné zamėstnání",
       "příležitostné zaměstnání",
       "struktura zaměstnanosti",
       "zdravotně postižený člověk"
@@ -27297,7 +28115,9 @@
       "not_logged": 14
     },
     "temata": [
+      "nestandardní pracovní pomėr",
       "nestandardní pracovní poměr",
+      "pøíleitostné zamėstnání",
       "příležitostné zaměstnání",
       "struktura zaměstnanosti",
       "zdravotně postižený člověk"
@@ -27751,8 +28571,11 @@
     },
     "temata": [
       "ochrana půdy",
+      "ochrana pųdy",
+      "zemėdėlské vyuívání pųdy",
       "zemědělská půda",
       "zemědělské využívání půdy",
+      "znečiování pųdy",
       "znečišťování půdy"
     ]
   },
@@ -27877,17 +28700,21 @@
       "not_logged": 2
     },
     "temata": [
+      "havarijní znečitėní",
       "havarijní znečištění",
       "ochrana vod",
       "opatření na kontrolu znečištění",
+      "poadavky na vodu",
       "požadavky na vodu",
       "prevence znečištění",
       "přírodní zdroje",
-      "škodliviny ve vodě",
+      "vodní hospodáøství",
       "vodní hospodářství",
       "vodní tok",
       "vodní zdroje",
-      "vodohospodářské stavby"
+      "vodohospodářské stavby",
+      "kodliviny ve vodė",
+      "škodliviny ve vodě"
     ]
   },
   {
@@ -28105,6 +28932,7 @@
       "konopí",
       "kontrola léčiv",
       "omamná látka",
+      "povzbuzující prostøedek",
       "povzbuzující prostředek",
       "psychotropní látka"
     ]
@@ -28200,6 +29028,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -28224,6 +29053,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -28248,6 +29078,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -28272,6 +29103,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -28296,6 +29128,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -28320,6 +29153,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -28344,6 +29178,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -28368,6 +29203,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -28392,6 +29228,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -28416,6 +29253,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -28440,6 +29278,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -28464,6 +29303,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -28488,6 +29328,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -28512,6 +29353,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -28536,6 +29378,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -28560,6 +29403,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -28584,6 +29428,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -28608,6 +29453,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -28632,6 +29478,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -28656,6 +29503,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -28680,6 +29528,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -28704,6 +29553,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -28728,6 +29578,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -28752,6 +29603,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -28776,6 +29628,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -28800,6 +29653,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -28824,6 +29678,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -28848,6 +29703,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -28872,6 +29728,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -28896,6 +29753,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -28920,6 +29778,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -28944,6 +29803,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -28968,6 +29828,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -28992,6 +29853,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -29016,6 +29878,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -29040,6 +29903,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -29064,6 +29928,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -29088,6 +29953,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -29112,6 +29978,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -29136,6 +30003,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -29160,6 +30028,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -29184,6 +30053,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -29208,6 +30078,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -29232,6 +30103,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -29248,17 +30120,21 @@
       "not_logged": 65
     },
     "temata": [
+      "havarijní znečitėní",
       "havarijní znečištění",
       "ochrana vod",
       "opatření na kontrolu znečištění",
+      "poadavky na vodu",
       "požadavky na vodu",
       "prevence znečištění",
       "přírodní zdroje",
-      "škodliviny ve vodě",
+      "vodní hospodáøství",
       "vodní hospodářství",
       "vodní tok",
       "vodní zdroje",
-      "vodohospodářské stavby"
+      "vodohospodářské stavby",
+      "kodliviny ve vodė",
+      "škodliviny ve vodě"
     ]
   },
   {
@@ -29274,17 +30150,21 @@
       "not_logged": 65
     },
     "temata": [
+      "havarijní znečitėní",
       "havarijní znečištění",
       "ochrana vod",
       "opatření na kontrolu znečištění",
+      "poadavky na vodu",
       "požadavky na vodu",
       "prevence znečištění",
       "přírodní zdroje",
-      "škodliviny ve vodě",
+      "vodní hospodáøství",
       "vodní hospodářství",
       "vodní tok",
       "vodní zdroje",
-      "vodohospodářské stavby"
+      "vodohospodářské stavby",
+      "kodliviny ve vodė",
+      "škodliviny ve vodě"
     ]
   },
   {
@@ -29300,17 +30180,21 @@
       "not_logged": 21
     },
     "temata": [
+      "havarijní znečitėní",
       "havarijní znečištění",
       "ochrana vod",
       "opatření na kontrolu znečištění",
+      "poadavky na vodu",
       "požadavky na vodu",
       "prevence znečištění",
       "přírodní zdroje",
-      "škodliviny ve vodě",
+      "vodní hospodáøství",
       "vodní hospodářství",
       "vodní tok",
       "vodní zdroje",
-      "vodohospodářské stavby"
+      "vodohospodářské stavby",
+      "kodliviny ve vodė",
+      "škodliviny ve vodě"
     ]
   },
   {
@@ -29326,17 +30210,21 @@
       "not_logged": 19
     },
     "temata": [
+      "havarijní znečitėní",
       "havarijní znečištění",
       "ochrana vod",
       "opatření na kontrolu znečištění",
+      "poadavky na vodu",
       "požadavky na vodu",
       "prevence znečištění",
       "přírodní zdroje",
-      "škodliviny ve vodě",
+      "vodní hospodáøství",
       "vodní hospodářství",
       "vodní tok",
       "vodní zdroje",
-      "vodohospodářské stavby"
+      "vodohospodářské stavby",
+      "kodliviny ve vodė",
+      "škodliviny ve vodě"
     ]
   },
   {
@@ -29352,17 +30240,21 @@
       "not_logged": 19
     },
     "temata": [
+      "havarijní znečitėní",
       "havarijní znečištění",
       "ochrana vod",
       "opatření na kontrolu znečištění",
+      "poadavky na vodu",
       "požadavky na vodu",
       "prevence znečištění",
       "přírodní zdroje",
-      "škodliviny ve vodě",
+      "vodní hospodáøství",
       "vodní hospodářství",
       "vodní tok",
       "vodní zdroje",
-      "vodohospodářské stavby"
+      "vodohospodářské stavby",
+      "kodliviny ve vodė",
+      "škodliviny ve vodě"
     ]
   },
   {
@@ -29378,17 +30270,21 @@
       "not_logged": 18
     },
     "temata": [
+      "havarijní znečitėní",
       "havarijní znečištění",
       "ochrana vod",
       "opatření na kontrolu znečištění",
+      "poadavky na vodu",
       "požadavky na vodu",
       "prevence znečištění",
       "přírodní zdroje",
-      "škodliviny ve vodě",
+      "vodní hospodáøství",
       "vodní hospodářství",
       "vodní tok",
       "vodní zdroje",
-      "vodohospodářské stavby"
+      "vodohospodářské stavby",
+      "kodliviny ve vodė",
+      "škodliviny ve vodě"
     ]
   },
   {
@@ -29404,17 +30300,21 @@
       "not_logged": 38
     },
     "temata": [
+      "havarijní znečitėní",
       "havarijní znečištění",
       "ochrana vod",
       "opatření na kontrolu znečištění",
+      "poadavky na vodu",
       "požadavky na vodu",
       "prevence znečištění",
       "přírodní zdroje",
-      "škodliviny ve vodě",
+      "vodní hospodáøství",
       "vodní hospodářství",
       "vodní tok",
       "vodní zdroje",
-      "vodohospodářské stavby"
+      "vodohospodářské stavby",
+      "kodliviny ve vodė",
+      "škodliviny ve vodě"
     ]
   },
   {
@@ -29430,17 +30330,21 @@
       "not_logged": 15
     },
     "temata": [
+      "havarijní znečitėní",
       "havarijní znečištění",
       "ochrana vod",
       "opatření na kontrolu znečištění",
+      "poadavky na vodu",
       "požadavky na vodu",
       "prevence znečištění",
       "přírodní zdroje",
-      "škodliviny ve vodě",
+      "vodní hospodáøství",
       "vodní hospodářství",
       "vodní tok",
       "vodní zdroje",
-      "vodohospodářské stavby"
+      "vodohospodářské stavby",
+      "kodliviny ve vodė",
+      "škodliviny ve vodě"
     ]
   },
   {
@@ -29456,17 +30360,21 @@
       "not_logged": 23
     },
     "temata": [
+      "havarijní znečitėní",
       "havarijní znečištění",
       "ochrana vod",
       "opatření na kontrolu znečištění",
+      "poadavky na vodu",
       "požadavky na vodu",
       "prevence znečištění",
       "přírodní zdroje",
-      "škodliviny ve vodě",
+      "vodní hospodáøství",
       "vodní hospodářství",
       "vodní tok",
       "vodní zdroje",
-      "vodohospodářské stavby"
+      "vodohospodářské stavby",
+      "kodliviny ve vodė",
+      "škodliviny ve vodě"
     ]
   },
   {
@@ -29482,17 +30390,21 @@
       "not_logged": 23
     },
     "temata": [
+      "havarijní znečitėní",
       "havarijní znečištění",
       "ochrana vod",
       "opatření na kontrolu znečištění",
+      "poadavky na vodu",
       "požadavky na vodu",
       "prevence znečištění",
       "přírodní zdroje",
-      "škodliviny ve vodě",
+      "vodní hospodáøství",
       "vodní hospodářství",
       "vodní tok",
       "vodní zdroje",
-      "vodohospodářské stavby"
+      "vodohospodářské stavby",
+      "kodliviny ve vodė",
+      "škodliviny ve vodě"
     ]
   },
   {
@@ -29508,17 +30420,21 @@
       "not_logged": 21
     },
     "temata": [
+      "havarijní znečitėní",
       "havarijní znečištění",
       "ochrana vod",
       "opatření na kontrolu znečištění",
+      "poadavky na vodu",
       "požadavky na vodu",
       "prevence znečištění",
       "přírodní zdroje",
-      "škodliviny ve vodě",
+      "vodní hospodáøství",
       "vodní hospodářství",
       "vodní tok",
       "vodní zdroje",
-      "vodohospodářské stavby"
+      "vodohospodářské stavby",
+      "kodliviny ve vodė",
+      "škodliviny ve vodě"
     ]
   },
   {
@@ -29534,17 +30450,21 @@
       "not_logged": 21
     },
     "temata": [
+      "havarijní znečitėní",
       "havarijní znečištění",
       "ochrana vod",
       "opatření na kontrolu znečištění",
+      "poadavky na vodu",
       "požadavky na vodu",
       "prevence znečištění",
       "přírodní zdroje",
-      "škodliviny ve vodě",
+      "vodní hospodáøství",
       "vodní hospodářství",
       "vodní tok",
       "vodní zdroje",
-      "vodohospodářské stavby"
+      "vodohospodářské stavby",
+      "kodliviny ve vodė",
+      "škodliviny ve vodě"
     ]
   },
   {
@@ -29560,17 +30480,21 @@
       "not_logged": 21
     },
     "temata": [
+      "havarijní znečitėní",
       "havarijní znečištění",
       "ochrana vod",
       "opatření na kontrolu znečištění",
+      "poadavky na vodu",
       "požadavky na vodu",
       "prevence znečištění",
       "přírodní zdroje",
-      "škodliviny ve vodě",
+      "vodní hospodáøství",
       "vodní hospodářství",
       "vodní tok",
       "vodní zdroje",
-      "vodohospodářské stavby"
+      "vodohospodářské stavby",
+      "kodliviny ve vodė",
+      "škodliviny ve vodě"
     ]
   },
   {
@@ -29586,17 +30510,21 @@
       "not_logged": 21
     },
     "temata": [
+      "havarijní znečitėní",
       "havarijní znečištění",
       "ochrana vod",
       "opatření na kontrolu znečištění",
+      "poadavky na vodu",
       "požadavky na vodu",
       "prevence znečištění",
       "přírodní zdroje",
-      "škodliviny ve vodě",
+      "vodní hospodáøství",
       "vodní hospodářství",
       "vodní tok",
       "vodní zdroje",
-      "vodohospodářské stavby"
+      "vodohospodářské stavby",
+      "kodliviny ve vodė",
+      "škodliviny ve vodě"
     ]
   },
   {
@@ -29612,17 +30540,21 @@
       "not_logged": 21
     },
     "temata": [
+      "havarijní znečitėní",
       "havarijní znečištění",
       "ochrana vod",
       "opatření na kontrolu znečištění",
+      "poadavky na vodu",
       "požadavky na vodu",
       "prevence znečištění",
       "přírodní zdroje",
-      "škodliviny ve vodě",
+      "vodní hospodáøství",
       "vodní hospodářství",
       "vodní tok",
       "vodní zdroje",
-      "vodohospodářské stavby"
+      "vodohospodářské stavby",
+      "kodliviny ve vodė",
+      "škodliviny ve vodě"
     ]
   },
   {
@@ -29638,17 +30570,21 @@
       "not_logged": 21
     },
     "temata": [
+      "havarijní znečitėní",
       "havarijní znečištění",
       "ochrana vod",
       "opatření na kontrolu znečištění",
+      "poadavky na vodu",
       "požadavky na vodu",
       "prevence znečištění",
       "přírodní zdroje",
-      "škodliviny ve vodě",
+      "vodní hospodáøství",
       "vodní hospodářství",
       "vodní tok",
       "vodní zdroje",
-      "vodohospodářské stavby"
+      "vodohospodářské stavby",
+      "kodliviny ve vodė",
+      "škodliviny ve vodě"
     ]
   },
   {
@@ -29664,17 +30600,21 @@
       "not_logged": 12
     },
     "temata": [
+      "havarijní znečitėní",
       "havarijní znečištění",
       "ochrana vod",
       "opatření na kontrolu znečištění",
+      "poadavky na vodu",
       "požadavky na vodu",
       "prevence znečištění",
       "přírodní zdroje",
-      "škodliviny ve vodě",
+      "vodní hospodáøství",
       "vodní hospodářství",
       "vodní tok",
       "vodní zdroje",
-      "vodohospodářské stavby"
+      "vodohospodářské stavby",
+      "kodliviny ve vodė",
+      "škodliviny ve vodě"
     ]
   },
   {
@@ -29690,17 +30630,21 @@
       "not_logged": 12
     },
     "temata": [
+      "havarijní znečitėní",
       "havarijní znečištění",
       "ochrana vod",
       "opatření na kontrolu znečištění",
+      "poadavky na vodu",
       "požadavky na vodu",
       "prevence znečištění",
       "přírodní zdroje",
-      "škodliviny ve vodě",
+      "vodní hospodáøství",
       "vodní hospodářství",
       "vodní tok",
       "vodní zdroje",
-      "vodohospodářské stavby"
+      "vodohospodářské stavby",
+      "kodliviny ve vodė",
+      "škodliviny ve vodě"
     ]
   },
   {
@@ -29716,17 +30660,21 @@
       "not_logged": 11
     },
     "temata": [
+      "havarijní znečitėní",
       "havarijní znečištění",
       "ochrana vod",
       "opatření na kontrolu znečištění",
+      "poadavky na vodu",
       "požadavky na vodu",
       "prevence znečištění",
       "přírodní zdroje",
-      "škodliviny ve vodě",
+      "vodní hospodáøství",
       "vodní hospodářství",
       "vodní tok",
       "vodní zdroje",
-      "vodohospodářské stavby"
+      "vodohospodářské stavby",
+      "kodliviny ve vodė",
+      "škodliviny ve vodě"
     ]
   },
   {
@@ -29742,17 +30690,21 @@
       "not_logged": 11
     },
     "temata": [
+      "havarijní znečitėní",
       "havarijní znečištění",
       "ochrana vod",
       "opatření na kontrolu znečištění",
+      "poadavky na vodu",
       "požadavky na vodu",
       "prevence znečištění",
       "přírodní zdroje",
-      "škodliviny ve vodě",
+      "vodní hospodáøství",
       "vodní hospodářství",
       "vodní tok",
       "vodní zdroje",
-      "vodohospodářské stavby"
+      "vodohospodářské stavby",
+      "kodliviny ve vodė",
+      "škodliviny ve vodě"
     ]
   },
   {
@@ -29768,17 +30720,21 @@
       "not_logged": 10
     },
     "temata": [
+      "havarijní znečitėní",
       "havarijní znečištění",
       "ochrana vod",
       "opatření na kontrolu znečištění",
+      "poadavky na vodu",
       "požadavky na vodu",
       "prevence znečištění",
       "přírodní zdroje",
-      "škodliviny ve vodě",
+      "vodní hospodáøství",
       "vodní hospodářství",
       "vodní tok",
       "vodní zdroje",
-      "vodohospodářské stavby"
+      "vodohospodářské stavby",
+      "kodliviny ve vodė",
+      "škodliviny ve vodě"
     ]
   },
   {
@@ -29794,17 +30750,21 @@
       "not_logged": 10
     },
     "temata": [
+      "havarijní znečitėní",
       "havarijní znečištění",
       "ochrana vod",
       "opatření na kontrolu znečištění",
+      "poadavky na vodu",
       "požadavky na vodu",
       "prevence znečištění",
       "přírodní zdroje",
-      "škodliviny ve vodě",
+      "vodní hospodáøství",
       "vodní hospodářství",
       "vodní tok",
       "vodní zdroje",
-      "vodohospodářské stavby"
+      "vodohospodářské stavby",
+      "kodliviny ve vodė",
+      "škodliviny ve vodě"
     ]
   },
   {
@@ -29820,17 +30780,21 @@
       "not_logged": 8
     },
     "temata": [
+      "havarijní znečitėní",
       "havarijní znečištění",
       "ochrana vod",
       "opatření na kontrolu znečištění",
+      "poadavky na vodu",
       "požadavky na vodu",
       "prevence znečištění",
       "přírodní zdroje",
-      "škodliviny ve vodě",
+      "vodní hospodáøství",
       "vodní hospodářství",
       "vodní tok",
       "vodní zdroje",
-      "vodohospodářské stavby"
+      "vodohospodářské stavby",
+      "kodliviny ve vodė",
+      "škodliviny ve vodě"
     ]
   },
   {
@@ -29846,17 +30810,21 @@
       "not_logged": 9
     },
     "temata": [
+      "havarijní znečitėní",
       "havarijní znečištění",
       "ochrana vod",
       "opatření na kontrolu znečištění",
+      "poadavky na vodu",
       "požadavky na vodu",
       "prevence znečištění",
       "přírodní zdroje",
-      "škodliviny ve vodě",
+      "vodní hospodáøství",
       "vodní hospodářství",
       "vodní tok",
       "vodní zdroje",
-      "vodohospodářské stavby"
+      "vodohospodářské stavby",
+      "kodliviny ve vodė",
+      "škodliviny ve vodě"
     ]
   },
   {
@@ -29872,17 +30840,21 @@
       "not_logged": 7
     },
     "temata": [
+      "havarijní znečitėní",
       "havarijní znečištění",
       "ochrana vod",
       "opatření na kontrolu znečištění",
+      "poadavky na vodu",
       "požadavky na vodu",
       "prevence znečištění",
       "přírodní zdroje",
-      "škodliviny ve vodě",
+      "vodní hospodáøství",
       "vodní hospodářství",
       "vodní tok",
       "vodní zdroje",
-      "vodohospodářské stavby"
+      "vodohospodářské stavby",
+      "kodliviny ve vodė",
+      "škodliviny ve vodě"
     ]
   },
   {
@@ -29898,17 +30870,21 @@
       "not_logged": 8
     },
     "temata": [
+      "havarijní znečitėní",
       "havarijní znečištění",
       "ochrana vod",
       "opatření na kontrolu znečištění",
+      "poadavky na vodu",
       "požadavky na vodu",
       "prevence znečištění",
       "přírodní zdroje",
-      "škodliviny ve vodě",
+      "vodní hospodáøství",
       "vodní hospodářství",
       "vodní tok",
       "vodní zdroje",
-      "vodohospodářské stavby"
+      "vodohospodářské stavby",
+      "kodliviny ve vodė",
+      "škodliviny ve vodě"
     ]
   },
   {
@@ -29924,17 +30900,21 @@
       "not_logged": 14
     },
     "temata": [
+      "havarijní znečitėní",
       "havarijní znečištění",
       "ochrana vod",
       "opatření na kontrolu znečištění",
+      "poadavky na vodu",
       "požadavky na vodu",
       "prevence znečištění",
       "přírodní zdroje",
-      "škodliviny ve vodě",
+      "vodní hospodáøství",
       "vodní hospodářství",
       "vodní tok",
       "vodní zdroje",
-      "vodohospodářské stavby"
+      "vodohospodářské stavby",
+      "kodliviny ve vodė",
+      "škodliviny ve vodě"
     ]
   },
   {
@@ -30510,6 +31490,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -30534,6 +31515,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -30558,6 +31540,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -30582,6 +31565,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -30606,6 +31590,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -30630,6 +31615,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -30654,6 +31640,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -30678,6 +31665,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -30702,6 +31690,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -30726,6 +31715,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -30750,6 +31740,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -30774,6 +31765,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -30813,6 +31805,7 @@
     "temata": [
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "služební tajemství",
       "státní tajemství",
@@ -30876,9 +31869,11 @@
     "temata": [
       "farmaceutický výrobek",
       "lék",
+      "lékaøská diagnóza",
       "lékařská diagnóza",
       "organizace zdravotnictví",
       "prostředky zdravotnické techniky",
+      "prostųedky zdravotnické techniky",
       "seznam",
       "správní dohled"
     ]
@@ -30904,6 +31899,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -30928,6 +31924,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -30952,6 +31949,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -30976,6 +31974,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -31000,6 +31999,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -31024,6 +32024,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -31043,8 +32044,9 @@
       "organizace zdravotnictví",
       "státní zdravotní služba",
       "telemedicína",
-      "zdravotní péče",
       "zdravotní průkaz",
+      "zdravotní prųkaz",
+      "zdravotní péče",
       "zdravotní systém"
     ]
   },
@@ -31283,11 +32285,13 @@
       "not_logged": 30
     },
     "temata": [
-      "Česká republika",
       "dopování",
+      "povzbuzující prostøedek",
       "povzbuzující prostředek",
       "sport",
-      "tělesná výchova"
+      "tėlesná výchova",
+      "tělesná výchova",
+      "Česká republika"
     ]
   },
   {
@@ -31303,11 +32307,13 @@
       "not_logged": 28
     },
     "temata": [
-      "Česká republika",
       "dopování",
+      "povzbuzující prostøedek",
       "povzbuzující prostředek",
       "sport",
-      "tělesná výchova"
+      "tėlesná výchova",
+      "tělesná výchova",
+      "Česká republika"
     ]
   },
   {
@@ -31323,11 +32329,13 @@
       "not_logged": 28
     },
     "temata": [
-      "Česká republika",
       "dopování",
+      "povzbuzující prostøedek",
       "povzbuzující prostředek",
       "sport",
-      "tělesná výchova"
+      "tėlesná výchova",
+      "tělesná výchova",
+      "Česká republika"
     ]
   },
   {
@@ -31343,11 +32351,13 @@
       "not_logged": 27
     },
     "temata": [
-      "Česká republika",
       "dopování",
+      "povzbuzující prostøedek",
       "povzbuzující prostředek",
       "sport",
-      "tělesná výchova"
+      "tėlesná výchova",
+      "tělesná výchova",
+      "Česká republika"
     ]
   },
   {
@@ -31363,11 +32373,12 @@
       "not_logged": 23
     },
     "temata": [
-      "Černá Hora",
-      "Česká republika",
       "daňová úmluva",
+      "daōová úmluva",
       "dvojí zdanění",
-      "zkrácení daně"
+      "zkrácení daně",
+      "Černá Hora",
+      "Česká republika"
     ]
   },
   {
@@ -31937,7 +32948,9 @@
     },
     "temata": [
       "církev",
+      "instituce náboenství",
       "instituce náboženství",
+      "náboenství",
       "náboženství",
       "svoboda vyznání",
       "vztah mezi církví a státem"
@@ -32229,17 +33242,21 @@
       "not_logged": 3
     },
     "temata": [
+      "havarijní znečitėní",
       "havarijní znečištění",
       "ochrana vod",
       "opatření na kontrolu znečištění",
+      "poadavky na vodu",
       "požadavky na vodu",
       "prevence znečištění",
       "přírodní zdroje",
-      "škodliviny ve vodě",
+      "vodní hospodáøství",
       "vodní hospodářství",
       "vodní tok",
       "vodní zdroje",
-      "vodohospodářské stavby"
+      "vodohospodářské stavby",
+      "kodliviny ve vodė",
+      "škodliviny ve vodě"
     ]
   },
   {
@@ -32255,17 +33272,21 @@
       "not_logged": 21
     },
     "temata": [
+      "havarijní znečitėní",
       "havarijní znečištění",
       "ochrana vod",
       "opatření na kontrolu znečištění",
+      "poadavky na vodu",
       "požadavky na vodu",
       "prevence znečištění",
       "přírodní zdroje",
-      "škodliviny ve vodě",
+      "vodní hospodáøství",
       "vodní hospodářství",
       "vodní tok",
       "vodní zdroje",
-      "vodohospodářské stavby"
+      "vodohospodářské stavby",
+      "kodliviny ve vodė",
+      "škodliviny ve vodě"
     ]
   },
   {
@@ -32289,6 +33310,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -32313,6 +33335,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -32337,6 +33360,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -32361,6 +33385,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -32385,6 +33410,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -32409,6 +33435,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -32433,6 +33460,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -32457,6 +33485,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -32481,6 +33510,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -32505,6 +33535,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -32524,8 +33555,12 @@
       "důchodce",
       "důchodový plán",
       "podmínky pro odchod do důchodu",
+      "podmínky pro odchod do dųchodu",
+      "populaèní prognóza",
       "populační prognóza",
+      "pøevod práva na dùchod",
       "převod práva na důchod",
+      "skončení pracovního pomėru",
       "skončení pracovního poměru",
       "sociální dávky"
     ]
@@ -32546,8 +33581,12 @@
       "důchodce",
       "důchodový plán",
       "podmínky pro odchod do důchodu",
+      "podmínky pro odchod do dųchodu",
+      "populaèní prognóza",
       "populační prognóza",
+      "pøevod práva na dùchod",
       "převod práva na důchod",
+      "skončení pracovního pomėru",
       "skončení pracovního poměru",
       "sociální dávky"
     ]
@@ -32568,8 +33607,12 @@
       "důchodce",
       "důchodový plán",
       "podmínky pro odchod do důchodu",
+      "podmínky pro odchod do dųchodu",
+      "populaèní prognóza",
       "populační prognóza",
+      "pøevod práva na dùchod",
       "převod práva na důchod",
+      "skončení pracovního pomėru",
       "skončení pracovního poměru",
       "sociální dávky"
     ]
@@ -32590,8 +33633,12 @@
       "důchodce",
       "důchodový plán",
       "podmínky pro odchod do důchodu",
+      "podmínky pro odchod do dųchodu",
+      "populaèní prognóza",
       "populační prognóza",
+      "pøevod práva na dùchod",
       "převod práva na důchod",
+      "skončení pracovního pomėru",
       "skončení pracovního poměru",
       "sociální dávky"
     ]
@@ -32612,8 +33659,12 @@
       "důchodce",
       "důchodový plán",
       "podmínky pro odchod do důchodu",
+      "podmínky pro odchod do dųchodu",
+      "populaèní prognóza",
       "populační prognóza",
+      "pøevod práva na dùchod",
       "převod práva na důchod",
+      "skončení pracovního pomėru",
       "skončení pracovního poměru",
       "sociální dávky"
     ]
@@ -32634,8 +33685,12 @@
       "důchodce",
       "důchodový plán",
       "podmínky pro odchod do důchodu",
+      "podmínky pro odchod do dųchodu",
+      "populaèní prognóza",
       "populační prognóza",
+      "pøevod práva na dùchod",
       "převod práva na důchod",
+      "skončení pracovního pomėru",
       "skončení pracovního poměru",
       "sociální dávky"
     ]
@@ -32656,8 +33711,12 @@
       "důchodce",
       "důchodový plán",
       "podmínky pro odchod do důchodu",
+      "podmínky pro odchod do dųchodu",
+      "populaèní prognóza",
       "populační prognóza",
+      "pøevod práva na dùchod",
       "převod práva na důchod",
+      "skončení pracovního pomėru",
       "skončení pracovního poměru",
       "sociální dávky"
     ]
@@ -32678,8 +33737,12 @@
       "důchodce",
       "důchodový plán",
       "podmínky pro odchod do důchodu",
+      "podmínky pro odchod do dųchodu",
+      "populaèní prognóza",
       "populační prognóza",
+      "pøevod práva na dùchod",
       "převod práva na důchod",
+      "skončení pracovního pomėru",
       "skončení pracovního poměru",
       "sociální dávky"
     ]
@@ -32700,8 +33763,12 @@
       "důchodce",
       "důchodový plán",
       "podmínky pro odchod do důchodu",
+      "podmínky pro odchod do dųchodu",
+      "populaèní prognóza",
       "populační prognóza",
+      "pøevod práva na dùchod",
       "převod práva na důchod",
+      "skončení pracovního pomėru",
       "skončení pracovního poměru",
       "sociální dávky"
     ]
@@ -32722,8 +33789,12 @@
       "důchodce",
       "důchodový plán",
       "podmínky pro odchod do důchodu",
+      "podmínky pro odchod do dųchodu",
+      "populaèní prognóza",
       "populační prognóza",
+      "pøevod práva na dùchod",
       "převod práva na důchod",
+      "skončení pracovního pomėru",
       "skončení pracovního poměru",
       "sociální dávky"
     ]
@@ -32744,8 +33815,12 @@
       "důchodce",
       "důchodový plán",
       "podmínky pro odchod do důchodu",
+      "podmínky pro odchod do dųchodu",
+      "populaèní prognóza",
       "populační prognóza",
+      "pøevod práva na dùchod",
       "převod práva na důchod",
+      "skončení pracovního pomėru",
       "skončení pracovního poměru",
       "sociální dávky"
     ]
@@ -32891,9 +33966,11 @@
     "temata": [
       "farmaceutický výrobek",
       "lék",
+      "lékaøská diagnóza",
       "lékařská diagnóza",
       "organizace zdravotnictví",
       "prostředky zdravotnické techniky",
+      "prostųedky zdravotnické techniky",
       "seznam",
       "správní dohled"
     ]
@@ -32913,9 +33990,11 @@
     "temata": [
       "farmaceutický výrobek",
       "lék",
+      "lékaøská diagnóza",
       "lékařská diagnóza",
       "organizace zdravotnictví",
       "prostředky zdravotnické techniky",
+      "prostųedky zdravotnické techniky",
       "seznam",
       "správní dohled"
     ]
@@ -32935,9 +34014,11 @@
     "temata": [
       "farmaceutický výrobek",
       "lék",
+      "lékaøská diagnóza",
       "lékařská diagnóza",
       "organizace zdravotnictví",
       "prostředky zdravotnické techniky",
+      "prostųedky zdravotnické techniky",
       "seznam",
       "správní dohled"
     ]
@@ -32957,9 +34038,11 @@
     "temata": [
       "farmaceutický výrobek",
       "lék",
+      "lékaøská diagnóza",
       "lékařská diagnóza",
       "organizace zdravotnictví",
       "prostředky zdravotnické techniky",
+      "prostųedky zdravotnické techniky",
       "seznam",
       "správní dohled"
     ]
@@ -32979,9 +34062,11 @@
     "temata": [
       "farmaceutický výrobek",
       "lék",
+      "lékaøská diagnóza",
       "lékařská diagnóza",
       "organizace zdravotnictví",
       "prostředky zdravotnické techniky",
+      "prostųedky zdravotnické techniky",
       "seznam",
       "správní dohled"
     ]
@@ -33001,9 +34086,11 @@
     "temata": [
       "farmaceutický výrobek",
       "lék",
+      "lékaøská diagnóza",
       "lékařská diagnóza",
       "organizace zdravotnictví",
       "prostředky zdravotnické techniky",
+      "prostųedky zdravotnické techniky",
       "seznam",
       "správní dohled"
     ]
@@ -33023,9 +34110,11 @@
     "temata": [
       "farmaceutický výrobek",
       "lék",
+      "lékaøská diagnóza",
       "lékařská diagnóza",
       "organizace zdravotnictví",
       "prostředky zdravotnické techniky",
+      "prostųedky zdravotnické techniky",
       "seznam",
       "správní dohled"
     ]
@@ -33051,6 +34140,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -33075,6 +34165,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -33099,6 +34190,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -33123,6 +34215,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -33147,6 +34240,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -33171,6 +34265,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -33195,6 +34290,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -33219,6 +34315,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -33243,6 +34340,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -33267,6 +34365,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -33291,6 +34390,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -33315,6 +34415,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -33339,6 +34440,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -33363,6 +34465,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -33387,6 +34490,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -33411,6 +34515,7 @@
       "mezinárodní fúze",
       "obchodní právo",
       "přeshraniční spolupráce",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost"
     ]
   },
@@ -33428,9 +34533,11 @@
     },
     "temata": [
       "adopce dítěte",
+      "adoptované dítė",
       "adoptované dítě",
       "ochrana dítěte",
       "ochrana rodiny",
+      "oputėné dítė",
       "opuštěné dítě",
       "práva dítěte",
       "právo dozoru",
@@ -33453,11 +34560,13 @@
       "not_logged": 36
     },
     "temata": [
-      "Česká republika",
       "dopování",
+      "povzbuzující prostøedek",
       "povzbuzující prostředek",
       "sport",
-      "tělesná výchova"
+      "tėlesná výchova",
+      "tělesná výchova",
+      "Česká republika"
     ]
   },
   {
@@ -33473,11 +34582,13 @@
       "not_logged": 36
     },
     "temata": [
-      "Česká republika",
       "dopování",
+      "povzbuzující prostøedek",
       "povzbuzující prostředek",
       "sport",
-      "tělesná výchova"
+      "tėlesná výchova",
+      "tělesná výchova",
+      "Česká republika"
     ]
   },
   {
@@ -33834,6 +34945,7 @@
     },
     "temata": [
       "bezpečnost výrobku",
+      "pøístup na trh",
       "přístup na trh",
       "strojní zařízení",
       "technická norma",
@@ -34227,6 +35339,7 @@
       "bankovní dohled",
       "centrální banka",
       "digitalizace dokumentů",
+      "digitalizace dokumentų",
       "elektronické peníze",
       "finanční trh"
     ]
@@ -34247,6 +35360,7 @@
       "bankovní dohled",
       "centrální banka",
       "digitalizace dokumentů",
+      "digitalizace dokumentų",
       "elektronické peníze",
       "finanční trh"
     ]
@@ -34293,8 +35407,11 @@
     },
     "temata": [
       "ochrana půdy",
+      "ochrana pųdy",
+      "zemėdėlské vyuívání pųdy",
       "zemědělská půda",
       "zemědělské využívání půdy",
+      "znečiování pųdy",
       "znečišťování půdy"
     ]
   },
@@ -34312,8 +35429,11 @@
     },
     "temata": [
       "ochrana půdy",
+      "ochrana pųdy",
+      "zemėdėlské vyuívání pųdy",
       "zemědělská půda",
       "zemědělské využívání půdy",
+      "znečiování pųdy",
       "znečišťování půdy"
     ]
   },
@@ -34331,8 +35451,11 @@
     },
     "temata": [
       "ochrana půdy",
+      "ochrana pųdy",
+      "zemėdėlské vyuívání pųdy",
       "zemědělská půda",
       "zemědělské využívání půdy",
+      "znečiování pųdy",
       "znečišťování půdy"
     ]
   },
@@ -35511,6 +36634,7 @@
       "not_logged": 28
     },
     "temata": [
+      "hospodáøský rozvoj",
       "hospodářský rozvoj",
       "podpora investic",
       "rozvojová banka",
@@ -35531,6 +36655,7 @@
       "not_logged": 39
     },
     "temata": [
+      "hospodáøský rozvoj",
       "hospodářský rozvoj",
       "podpora investic",
       "rozvojová banka",
@@ -35551,6 +36676,7 @@
       "not_logged": 40
     },
     "temata": [
+      "hospodáøský rozvoj",
       "hospodářský rozvoj",
       "podpora investic",
       "rozvojová banka",
@@ -35601,6 +36727,7 @@
     "temata": [
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "služební tajemství",
       "státní tajemství",
@@ -35623,6 +36750,7 @@
       "farmaceutický výrobek",
       "náklady na zdraví",
       "prostředky zdravotnické techniky",
+      "prostųedky zdravotnické techniky",
       "všeobecné zdravotní pojištění",
       "zdravotní pojištění"
     ]
@@ -35642,6 +36770,7 @@
     "temata": [
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "služební tajemství",
       "státní tajemství",
@@ -35663,6 +36792,7 @@
     "temata": [
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "služební tajemství",
       "státní tajemství",
@@ -35684,6 +36814,7 @@
     "temata": [
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "služební tajemství",
       "státní tajemství",
@@ -35705,6 +36836,7 @@
     "temata": [
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "služební tajemství",
       "státní tajemství",
@@ -35726,6 +36858,7 @@
     "temata": [
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "služební tajemství",
       "státní tajemství",
@@ -35747,6 +36880,7 @@
     "temata": [
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "služební tajemství",
       "státní tajemství",
@@ -35768,6 +36902,7 @@
     "temata": [
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "služební tajemství",
       "státní tajemství",
@@ -35789,6 +36924,7 @@
     "temata": [
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "služební tajemství",
       "státní tajemství",
@@ -35810,6 +36946,7 @@
     "temata": [
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "služební tajemství",
       "státní tajemství",
@@ -35831,6 +36968,7 @@
     "temata": [
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "služební tajemství",
       "státní tajemství",
@@ -35852,6 +36990,7 @@
     "temata": [
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "služební tajemství",
       "státní tajemství",
@@ -35873,6 +37012,7 @@
     "temata": [
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "služební tajemství",
       "státní tajemství",
@@ -35894,6 +37034,7 @@
     "temata": [
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "služební tajemství",
       "státní tajemství",
@@ -35915,6 +37056,7 @@
     "temata": [
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "služební tajemství",
       "státní tajemství",
@@ -35936,6 +37078,7 @@
     "temata": [
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "služební tajemství",
       "státní tajemství",
@@ -35977,6 +37120,7 @@
     "temata": [
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "služební tajemství",
       "státní tajemství",
@@ -35998,6 +37142,7 @@
     "temata": [
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "služební tajemství",
       "státní tajemství",
@@ -36023,8 +37168,9 @@
       "ministerstvo",
       "místní orgány státní správy",
       "pokuta",
-      "řízení cen",
-      "správní sankce"
+      "správní sankce",
+      "øízení cen",
+      "řízení cen"
     ]
   },
   {
@@ -36125,6 +37271,7 @@
     "temata": [
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "služební tajemství",
       "státní tajemství",
@@ -36146,6 +37293,7 @@
     "temata": [
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "služební tajemství",
       "státní tajemství",
@@ -36167,6 +37315,7 @@
     "temata": [
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "služební tajemství",
       "státní tajemství",
@@ -36187,6 +37336,7 @@
     },
     "temata": [
       "boj proti zločinu",
+      "finanèní instituce",
       "finanční instituce",
       "hospodářský trestný čin",
       "mezinárodní trestní právo",
@@ -36294,10 +37444,12 @@
     },
     "temata": [
       "financování rozpočtu",
+      "plnėní rozpočtu",
       "plnění rozpočtu",
       "televize",
-      "účetní uzávěrka",
-      "zpráva o činnosti"
+      "zpráva o činnosti",
+      "účetní uzávėrka",
+      "účetní uzávěrka"
     ]
   },
   {

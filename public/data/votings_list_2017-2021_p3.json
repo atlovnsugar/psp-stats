@@ -15,9 +15,10 @@
       "bezpečnost dopravy",
       "dopravní infrastruktura",
       "jízdní personál",
+      "metro",
+      "mėstská hromadná doprava",
       "městská doprava",
-      "městská hromadná doprava",
-      "metro"
+      "městská hromadná doprava"
     ]
   },
   {
@@ -36,9 +37,10 @@
       "bezpečnost dopravy",
       "dopravní infrastruktura",
       "jízdní personál",
+      "metro",
+      "mėstská hromadná doprava",
       "městská doprava",
-      "městská hromadná doprava",
-      "metro"
+      "městská hromadná doprava"
     ]
   },
   {
@@ -57,9 +59,10 @@
       "bezpečnost dopravy",
       "dopravní infrastruktura",
       "jízdní personál",
+      "metro",
+      "mėstská hromadná doprava",
       "městská doprava",
-      "městská hromadná doprava",
-      "metro"
+      "městská hromadná doprava"
     ]
   },
   {
@@ -78,9 +81,10 @@
       "bezpečnost dopravy",
       "dopravní infrastruktura",
       "jízdní personál",
+      "metro",
+      "mėstská hromadná doprava",
       "městská doprava",
-      "městská hromadná doprava",
-      "metro"
+      "městská hromadná doprava"
     ]
   },
   {
@@ -99,9 +103,10 @@
       "bezpečnost dopravy",
       "dopravní infrastruktura",
       "jízdní personál",
+      "metro",
+      "mėstská hromadná doprava",
       "městská doprava",
-      "městská hromadná doprava",
-      "metro"
+      "městská hromadná doprava"
     ]
   },
   {
@@ -120,9 +125,10 @@
       "bezpečnost dopravy",
       "dopravní infrastruktura",
       "jízdní personál",
+      "metro",
+      "mėstská hromadná doprava",
       "městská doprava",
-      "městská hromadná doprava",
-      "metro"
+      "městská hromadná doprava"
     ]
   },
   {
@@ -141,9 +147,10 @@
       "bezpečnost dopravy",
       "dopravní infrastruktura",
       "jízdní personál",
+      "metro",
+      "mėstská hromadná doprava",
       "městská doprava",
-      "městská hromadná doprava",
-      "metro"
+      "městská hromadná doprava"
     ]
   },
   {
@@ -162,9 +169,10 @@
       "bezpečnost dopravy",
       "dopravní infrastruktura",
       "jízdní personál",
+      "metro",
+      "mėstská hromadná doprava",
       "městská doprava",
-      "městská hromadná doprava",
-      "metro"
+      "městská hromadná doprava"
     ]
   },
   {
@@ -183,9 +191,10 @@
       "bezpečnost dopravy",
       "dopravní infrastruktura",
       "jízdní personál",
+      "metro",
+      "mėstská hromadná doprava",
       "městská doprava",
-      "městská hromadná doprava",
-      "metro"
+      "městská hromadná doprava"
     ]
   },
   {
@@ -204,9 +213,10 @@
       "bezpečnost dopravy",
       "dopravní infrastruktura",
       "jízdní personál",
+      "metro",
+      "mėstská hromadná doprava",
       "městská doprava",
-      "městská hromadná doprava",
-      "metro"
+      "městská hromadná doprava"
     ]
   },
   {
@@ -225,9 +235,10 @@
       "bezpečnost dopravy",
       "dopravní infrastruktura",
       "jízdní personál",
+      "metro",
+      "mėstská hromadná doprava",
       "městská doprava",
-      "městská hromadná doprava",
-      "metro"
+      "městská hromadná doprava"
     ]
   },
   {
@@ -246,9 +257,10 @@
       "bezpečnost dopravy",
       "dopravní infrastruktura",
       "jízdní personál",
+      "metro",
+      "mėstská hromadná doprava",
       "městská doprava",
-      "městská hromadná doprava",
-      "metro"
+      "městská hromadná doprava"
     ]
   },
   {
@@ -267,6 +279,7 @@
       "stavební povolení",
       "sucho",
       "vodohospodářské stavby",
+      "zmėna klimatu",
       "změna klimatu"
     ]
   },
@@ -657,12 +670,14 @@
     "temata": [
       "alkoholický nápoj",
       "alkoholismus",
+      "plavební øád",
       "plavební řád",
-      "říční plavba",
       "trestní odpovědnost",
+      "trestnķ odpovģdnost",
       "vnitrozemská vodní cesta",
       "volný čas",
-      "výletní plavidlo"
+      "výletní plavidlo",
+      "říční plavba"
     ]
   },
   {
@@ -699,12 +714,14 @@
     "temata": [
       "alkoholický nápoj",
       "alkoholismus",
+      "plavební øád",
       "plavební řád",
-      "říční plavba",
       "trestní odpovědnost",
+      "trestnķ odpovģdnost",
       "vnitrozemská vodní cesta",
       "volný čas",
-      "výletní plavidlo"
+      "výletní plavidlo",
+      "říční plavba"
     ]
   },
   {
@@ -722,12 +739,14 @@
     "temata": [
       "alkoholický nápoj",
       "alkoholismus",
+      "plavební øád",
       "plavební řád",
-      "říční plavba",
       "trestní odpovědnost",
+      "trestnķ odpovģdnost",
       "vnitrozemská vodní cesta",
       "volný čas",
-      "výletní plavidlo"
+      "výletní plavidlo",
+      "říční plavba"
     ]
   },
   {
@@ -860,12 +879,14 @@
     },
     "temata": [
       "dlouhodobá prognóza",
+      "dlouhodobį prognóza",
       "místní orgány státní správy",
       "organizace školství",
       "regionální orgány státní správy",
+      "vzdėlávání",
+      "vzdělávání",
       "školský systém",
-      "školství",
-      "vzdělávání"
+      "školství"
     ]
   },
   {
@@ -965,10 +986,11 @@
       "not_logged": 55
     },
     "temata": [
-      "daňový poplatník",
       "daň z přidané hodnoty",
+      "daňový poplatník",
       "jednotný účetní systém",
       "maloobchodní prodej",
+      "pøíjem – platba",
       "příjem – platba",
       "účetnictví",
       "účetní systém"
@@ -987,10 +1009,11 @@
       "not_logged": 55
     },
     "temata": [
-      "daňový poplatník",
       "daň z přidané hodnoty",
+      "daňový poplatník",
       "jednotný účetní systém",
       "maloobchodní prodej",
+      "pøíjem – platba",
       "příjem – platba",
       "účetnictví",
       "účetní systém"
@@ -1009,10 +1032,11 @@
       "not_logged": 55
     },
     "temata": [
-      "daňový poplatník",
       "daň z přidané hodnoty",
+      "daňový poplatník",
       "jednotný účetní systém",
       "maloobchodní prodej",
+      "pøíjem – platba",
       "příjem – platba",
       "účetnictví",
       "účetní systém"
@@ -1045,10 +1069,11 @@
       "not_logged": 59
     },
     "temata": [
-      "daňový poplatník",
       "daň z přidané hodnoty",
+      "daňový poplatník",
       "jednotný účetní systém",
       "maloobchodní prodej",
+      "pøíjem – platba",
       "příjem – platba",
       "účetnictví",
       "účetní systém"
@@ -1067,10 +1092,11 @@
       "not_logged": 60
     },
     "temata": [
-      "daňový poplatník",
       "daň z přidané hodnoty",
+      "daňový poplatník",
       "jednotný účetní systém",
       "maloobchodní prodej",
+      "pøíjem – platba",
       "příjem – platba",
       "účetnictví",
       "účetní systém"
@@ -1089,10 +1115,11 @@
       "not_logged": 58
     },
     "temata": [
-      "daňový poplatník",
       "daň z přidané hodnoty",
+      "daňový poplatník",
       "jednotný účetní systém",
       "maloobchodní prodej",
+      "pøíjem – platba",
       "příjem – platba",
       "účetnictví",
       "účetní systém"
@@ -1830,6 +1857,7 @@
       "legislativní proces",
       "mezinárodní dohoda",
       "publikace zákona",
+      "úøední list",
       "úřední list"
     ]
   },
@@ -1852,6 +1880,7 @@
       "legislativní proces",
       "mezinárodní dohoda",
       "publikace zákona",
+      "úøední list",
       "úřední list"
     ]
   },
@@ -1888,9 +1917,12 @@
       "not_logged": 12
     },
     "temata": [
+      "domácí zvíøe",
       "domácí zvíře",
+      "finance místních úøadù",
       "finance místních úřadů",
       "místní daň",
+      "místo pøechodného pobytu",
       "místo přechodného pobytu",
       "obecní rozpočet",
       "právní předpisy místní správy"
@@ -2251,10 +2283,12 @@
     },
     "temata": [
       "inspekce potravin",
+      "možnost zpìtného vysledování",
       "možnost zpětného vysledování",
-      "veterinář",
       "veterinární inspekce",
-      "veterinární legislativa"
+      "veterinární legislativa",
+      "veterináø",
+      "veterinář"
     ]
   },
   {
@@ -2376,6 +2410,7 @@
       "ochrana zdraví rostlin",
       "přípravky ochrany rostlin",
       "rostlinolékařská legislativa",
+      "kodlivý organismus",
       "škodlivý organismus"
     ]
   },
@@ -3835,6 +3870,7 @@
     },
     "temata": [
       "financování rozpočtu",
+      "plnėní rozpočtu",
       "plnění rozpočtu",
       "státní rozpočet"
     ]
@@ -3960,9 +3996,10 @@
       "bezpečnost dopravy",
       "dopravní infrastruktura",
       "jízdní personál",
+      "metro",
+      "mėstská hromadná doprava",
       "městská doprava",
-      "městská hromadná doprava",
-      "metro"
+      "městská hromadná doprava"
     ]
   },
   {
@@ -4146,6 +4183,7 @@
       "elektronická správa dokumentů",
       "identifikační průkaz",
       "informační systém",
+      "informační systém pro potøeby øízení",
       "informační systém pro potřeby řízení",
       "seznam",
       "veřejná správa"
@@ -4197,10 +4235,12 @@
     },
     "temata": [
       "financování rozpočtu",
+      "plnėní rozpočtu",
       "plnění rozpočtu",
       "televize",
-      "účetní uzávěrka",
-      "zpráva o činnosti"
+      "zpráva o činnosti",
+      "účetní uzávėrka",
+      "účetní uzávěrka"
     ]
   },
   {
@@ -4217,10 +4257,12 @@
     },
     "temata": [
       "financování rozpočtu",
+      "plnėní rozpočtu",
       "plnění rozpočtu",
       "televize",
-      "účetní uzávěrka",
-      "zpráva o činnosti"
+      "zpráva o činnosti",
+      "účetní uzávėrka",
+      "účetní uzávěrka"
     ]
   },
   {
@@ -4237,10 +4279,12 @@
     },
     "temata": [
       "financování rozpočtu",
+      "plnėní rozpočtu",
       "plnění rozpočtu",
       "televize",
-      "účetní uzávěrka",
-      "zpráva o činnosti"
+      "zpráva o činnosti",
+      "účetní uzávėrka",
+      "účetní uzávěrka"
     ]
   },
   {
@@ -4257,10 +4301,12 @@
     },
     "temata": [
       "financování rozpočtu",
+      "plnėní rozpočtu",
       "plnění rozpočtu",
       "televize",
-      "účetní uzávěrka",
-      "zpráva o činnosti"
+      "zpráva o činnosti",
+      "účetní uzávėrka",
+      "účetní uzávěrka"
     ]
   },
   {
@@ -4277,10 +4323,12 @@
     },
     "temata": [
       "financování rozpočtu",
+      "plnėní rozpočtu",
       "plnění rozpočtu",
       "televize",
-      "účetní uzávěrka",
-      "zpráva o činnosti"
+      "zpráva o činnosti",
+      "účetní uzávėrka",
+      "účetní uzávěrka"
     ]
   },
   {
@@ -4297,10 +4345,12 @@
     },
     "temata": [
       "financování rozpočtu",
+      "plnėní rozpočtu",
       "plnění rozpočtu",
       "televize",
-      "účetní uzávěrka",
-      "zpráva o činnosti"
+      "zpráva o činnosti",
+      "účetní uzávėrka",
+      "účetní uzávěrka"
     ]
   },
   {
@@ -4317,10 +4367,12 @@
     },
     "temata": [
       "financování rozpočtu",
+      "plnėní rozpočtu",
       "plnění rozpočtu",
       "televize",
-      "účetní uzávěrka",
-      "zpráva o činnosti"
+      "zpráva o činnosti",
+      "účetní uzávėrka",
+      "účetní uzávěrka"
     ]
   },
   {
@@ -4337,10 +4389,12 @@
     },
     "temata": [
       "financování rozpočtu",
+      "plnėní rozpočtu",
       "plnění rozpočtu",
       "televize",
-      "účetní uzávěrka",
-      "zpráva o činnosti"
+      "zpráva o činnosti",
+      "účetní uzávėrka",
+      "účetní uzávěrka"
     ]
   },
   {
@@ -4358,6 +4412,7 @@
     "temata": [
       "programová produkce",
       "televize",
+      "veøejná instituce",
       "veřejná instituce",
       "zpráva o činnosti"
     ]
@@ -4376,10 +4431,12 @@
     },
     "temata": [
       "financování rozpočtu",
+      "plnėní rozpočtu",
       "plnění rozpočtu",
       "televize",
-      "účetní uzávěrka",
-      "zpráva o činnosti"
+      "zpráva o činnosti",
+      "účetní uzávėrka",
+      "účetní uzávěrka"
     ]
   },
   {
@@ -4396,10 +4453,12 @@
     },
     "temata": [
       "financování rozpočtu",
+      "plnėní rozpočtu",
       "plnění rozpočtu",
       "televize",
-      "účetní uzávěrka",
-      "zpráva o činnosti"
+      "zpráva o činnosti",
+      "účetní uzávėrka",
+      "účetní uzávěrka"
     ]
   },
   {
@@ -4416,10 +4475,12 @@
     },
     "temata": [
       "financování rozpočtu",
+      "plnėní rozpočtu",
       "plnění rozpočtu",
       "televize",
-      "účetní uzávěrka",
-      "zpráva o činnosti"
+      "zpráva o činnosti",
+      "účetní uzávėrka",
+      "účetní uzávěrka"
     ]
   },
   {
@@ -4436,10 +4497,12 @@
     },
     "temata": [
       "financování rozpočtu",
+      "plnėní rozpočtu",
       "plnění rozpočtu",
       "televize",
-      "účetní uzávěrka",
-      "zpráva o činnosti"
+      "zpráva o činnosti",
+      "účetní uzávėrka",
+      "účetní uzávěrka"
     ]
   },
   {
@@ -4456,10 +4519,12 @@
     },
     "temata": [
       "financování rozpočtu",
+      "plnėní rozpočtu",
       "plnění rozpočtu",
       "televize",
-      "účetní uzávěrka",
-      "zpráva o činnosti"
+      "zpráva o činnosti",
+      "účetní uzávėrka",
+      "účetní uzávěrka"
     ]
   },
   {
@@ -4490,10 +4555,12 @@
     },
     "temata": [
       "financování rozpočtu",
+      "plnėní rozpočtu",
       "plnění rozpočtu",
       "televize",
-      "účetní uzávěrka",
-      "zpráva o činnosti"
+      "zpráva o činnosti",
+      "účetní uzávėrka",
+      "účetní uzávěrka"
     ]
   },
   {
@@ -4510,10 +4577,12 @@
     },
     "temata": [
       "financování rozpočtu",
+      "plnėní rozpočtu",
       "plnění rozpočtu",
       "televize",
-      "účetní uzávěrka",
-      "zpráva o činnosti"
+      "zpráva o činnosti",
+      "účetní uzávėrka",
+      "účetní uzávěrka"
     ]
   },
   {
@@ -4737,9 +4806,10 @@
       "bezpečnost dopravy",
       "dopravní infrastruktura",
       "jízdní personál",
+      "metro",
+      "mėstská hromadná doprava",
       "městská doprava",
-      "městská hromadná doprava",
-      "metro"
+      "městská hromadná doprava"
     ]
   },
   {
@@ -4758,9 +4828,10 @@
       "bezpečnost dopravy",
       "dopravní infrastruktura",
       "jízdní personál",
+      "metro",
+      "mėstská hromadná doprava",
       "městská doprava",
-      "městská hromadná doprava",
-      "metro"
+      "městská hromadná doprava"
     ]
   },
   {
@@ -4779,9 +4850,10 @@
       "bezpečnost dopravy",
       "dopravní infrastruktura",
       "jízdní personál",
+      "metro",
+      "mėstská hromadná doprava",
       "městská doprava",
-      "městská hromadná doprava",
-      "metro"
+      "městská hromadná doprava"
     ]
   },
   {
@@ -5038,9 +5110,10 @@
       "bezpečnost dopravy",
       "dopravní infrastruktura",
       "jízdní personál",
+      "metro",
+      "mėstská hromadná doprava",
       "městská doprava",
-      "městská hromadná doprava",
-      "metro"
+      "městská hromadná doprava"
     ]
   },
   {
@@ -5059,9 +5132,10 @@
       "bezpečnost dopravy",
       "dopravní infrastruktura",
       "jízdní personál",
+      "metro",
+      "mėstská hromadná doprava",
       "městská doprava",
-      "městská hromadná doprava",
-      "metro"
+      "městská hromadná doprava"
     ]
   },
   {
@@ -5080,9 +5154,10 @@
       "bezpečnost dopravy",
       "dopravní infrastruktura",
       "jízdní personál",
+      "metro",
+      "mėstská hromadná doprava",
       "městská doprava",
-      "městská hromadná doprava",
-      "metro"
+      "městská hromadná doprava"
     ]
   },
   {
@@ -5101,9 +5176,10 @@
       "bezpečnost dopravy",
       "dopravní infrastruktura",
       "jízdní personál",
+      "metro",
+      "mėstská hromadná doprava",
       "městská doprava",
-      "městská hromadná doprava",
-      "metro"
+      "městská hromadná doprava"
     ]
   },
   {
@@ -5122,9 +5198,10 @@
       "bezpečnost dopravy",
       "dopravní infrastruktura",
       "jízdní personál",
+      "metro",
+      "mėstská hromadná doprava",
       "městská doprava",
-      "městská hromadná doprava",
-      "metro"
+      "městská hromadná doprava"
     ]
   },
   {
@@ -5143,9 +5220,10 @@
       "bezpečnost dopravy",
       "dopravní infrastruktura",
       "jízdní personál",
+      "metro",
+      "mėstská hromadná doprava",
       "městská doprava",
-      "městská hromadná doprava",
-      "metro"
+      "městská hromadná doprava"
     ]
   },
   {
@@ -5164,9 +5242,10 @@
       "bezpečnost dopravy",
       "dopravní infrastruktura",
       "jízdní personál",
+      "metro",
+      "mėstská hromadná doprava",
       "městská doprava",
-      "městská hromadná doprava",
-      "metro"
+      "městská hromadná doprava"
     ]
   },
   {
@@ -5185,9 +5264,10 @@
       "bezpečnost dopravy",
       "dopravní infrastruktura",
       "jízdní personál",
+      "metro",
+      "mėstská hromadná doprava",
       "městská doprava",
-      "městská hromadná doprava",
-      "metro"
+      "městská hromadná doprava"
     ]
   },
   {
@@ -5206,9 +5286,10 @@
       "bezpečnost dopravy",
       "dopravní infrastruktura",
       "jízdní personál",
+      "metro",
+      "mėstská hromadná doprava",
       "městská doprava",
-      "městská hromadná doprava",
-      "metro"
+      "městská hromadná doprava"
     ]
   },
   {
@@ -5531,11 +5612,15 @@
     },
     "temata": [
       "chov zvířat",
+      "kruté a poniující zacházení",
       "kruté a ponižující zacházení",
       "ochrana zvířat",
+      "péče o pohodu zvíøat",
       "péče o pohodu zvířat",
       "trestní odpovědnost",
+      "trestnķ odpovģdnost",
       "umělá inseminace",
+      "zdraví zvíøat",
       "zdraví zvířat"
     ]
   },
@@ -5553,11 +5638,15 @@
     },
     "temata": [
       "chov zvířat",
+      "kruté a poniující zacházení",
       "kruté a ponižující zacházení",
       "ochrana zvířat",
+      "péče o pohodu zvíøat",
       "péče o pohodu zvířat",
       "trestní odpovědnost",
+      "trestnķ odpovģdnost",
       "umělá inseminace",
+      "zdraví zvíøat",
       "zdraví zvířat"
     ]
   },
@@ -5575,11 +5664,15 @@
     },
     "temata": [
       "chov zvířat",
+      "kruté a poniující zacházení",
       "kruté a ponižující zacházení",
       "ochrana zvířat",
+      "péče o pohodu zvíøat",
       "péče o pohodu zvířat",
       "trestní odpovědnost",
+      "trestnķ odpovģdnost",
       "umělá inseminace",
+      "zdraví zvíøat",
       "zdraví zvířat"
     ]
   },
@@ -5597,11 +5690,15 @@
     },
     "temata": [
       "chov zvířat",
+      "kruté a poniující zacházení",
       "kruté a ponižující zacházení",
       "ochrana zvířat",
+      "péče o pohodu zvíøat",
       "péče o pohodu zvířat",
       "trestní odpovědnost",
+      "trestnķ odpovģdnost",
       "umělá inseminace",
+      "zdraví zvíøat",
       "zdraví zvířat"
     ]
   },
@@ -5619,11 +5716,15 @@
     },
     "temata": [
       "chov zvířat",
+      "kruté a poniující zacházení",
       "kruté a ponižující zacházení",
       "ochrana zvířat",
+      "péče o pohodu zvíøat",
       "péče o pohodu zvířat",
       "trestní odpovědnost",
+      "trestnķ odpovģdnost",
       "umělá inseminace",
+      "zdraví zvíøat",
       "zdraví zvířat"
     ]
   },
@@ -5641,11 +5742,15 @@
     },
     "temata": [
       "chov zvířat",
+      "kruté a poniující zacházení",
       "kruté a ponižující zacházení",
       "ochrana zvířat",
+      "péče o pohodu zvíøat",
       "péče o pohodu zvířat",
       "trestní odpovědnost",
+      "trestnķ odpovģdnost",
       "umělá inseminace",
+      "zdraví zvíøat",
       "zdraví zvířat"
     ]
   },
@@ -5663,11 +5768,15 @@
     },
     "temata": [
       "chov zvířat",
+      "kruté a poniující zacházení",
       "kruté a ponižující zacházení",
       "ochrana zvířat",
+      "péče o pohodu zvíøat",
       "péče o pohodu zvířat",
       "trestní odpovědnost",
+      "trestnķ odpovģdnost",
       "umělá inseminace",
+      "zdraví zvíøat",
       "zdraví zvířat"
     ]
   },
@@ -5685,11 +5794,15 @@
     },
     "temata": [
       "chov zvířat",
+      "kruté a poniující zacházení",
       "kruté a ponižující zacházení",
       "ochrana zvířat",
+      "péče o pohodu zvíøat",
       "péče o pohodu zvířat",
       "trestní odpovědnost",
+      "trestnķ odpovģdnost",
       "umělá inseminace",
+      "zdraví zvíøat",
       "zdraví zvířat"
     ]
   },
@@ -5707,11 +5820,15 @@
     },
     "temata": [
       "chov zvířat",
+      "kruté a poniující zacházení",
       "kruté a ponižující zacházení",
       "ochrana zvířat",
+      "péče o pohodu zvíøat",
       "péče o pohodu zvířat",
       "trestní odpovědnost",
+      "trestnķ odpovģdnost",
       "umělá inseminace",
+      "zdraví zvíøat",
       "zdraví zvířat"
     ]
   },
@@ -5729,11 +5846,15 @@
     },
     "temata": [
       "chov zvířat",
+      "kruté a poniující zacházení",
       "kruté a ponižující zacházení",
       "ochrana zvířat",
+      "péče o pohodu zvíøat",
       "péče o pohodu zvířat",
       "trestní odpovědnost",
+      "trestnķ odpovģdnost",
       "umělá inseminace",
+      "zdraví zvíøat",
       "zdraví zvířat"
     ]
   },
@@ -5771,11 +5892,15 @@
     },
     "temata": [
       "chov zvířat",
+      "kruté a poniující zacházení",
       "kruté a ponižující zacházení",
       "ochrana zvířat",
+      "péče o pohodu zvíøat",
       "péče o pohodu zvířat",
       "trestní odpovědnost",
+      "trestnķ odpovģdnost",
       "umělá inseminace",
+      "zdraví zvíøat",
       "zdraví zvířat"
     ]
   },
@@ -5793,11 +5918,15 @@
     },
     "temata": [
       "chov zvířat",
+      "kruté a poniující zacházení",
       "kruté a ponižující zacházení",
       "ochrana zvířat",
+      "péče o pohodu zvíøat",
       "péče o pohodu zvířat",
       "trestní odpovědnost",
+      "trestnķ odpovģdnost",
       "umělá inseminace",
+      "zdraví zvíøat",
       "zdraví zvířat"
     ]
   },
@@ -5815,11 +5944,15 @@
     },
     "temata": [
       "chov zvířat",
+      "kruté a poniující zacházení",
       "kruté a ponižující zacházení",
       "ochrana zvířat",
+      "péče o pohodu zvíøat",
       "péče o pohodu zvířat",
       "trestní odpovědnost",
+      "trestnķ odpovģdnost",
       "umělá inseminace",
+      "zdraví zvíøat",
       "zdraví zvířat"
     ]
   },
@@ -5837,11 +5970,15 @@
     },
     "temata": [
       "chov zvířat",
+      "kruté a poniující zacházení",
       "kruté a ponižující zacházení",
       "ochrana zvířat",
+      "péče o pohodu zvíøat",
       "péče o pohodu zvířat",
       "trestní odpovědnost",
+      "trestnķ odpovģdnost",
       "umělá inseminace",
+      "zdraví zvíøat",
       "zdraví zvířat"
     ]
   },
@@ -5860,6 +5997,7 @@
     "temata": [
       "pojišťovna",
       "samospráva pracovníků",
+      "samospráva pracovníkų",
       "všeobecné zdravotní pojištění",
       "zdravotní pojištění"
     ]
@@ -5878,11 +6016,15 @@
     },
     "temata": [
       "chov zvířat",
+      "kruté a poniující zacházení",
       "kruté a ponižující zacházení",
       "ochrana zvířat",
+      "péče o pohodu zvíøat",
       "péče o pohodu zvířat",
       "trestní odpovědnost",
+      "trestnķ odpovģdnost",
       "umělá inseminace",
+      "zdraví zvíøat",
       "zdraví zvířat"
     ]
   },
@@ -5900,11 +6042,15 @@
     },
     "temata": [
       "chov zvířat",
+      "kruté a poniující zacházení",
       "kruté a ponižující zacházení",
       "ochrana zvířat",
+      "péče o pohodu zvíøat",
       "péče o pohodu zvířat",
       "trestní odpovědnost",
+      "trestnķ odpovģdnost",
       "umělá inseminace",
+      "zdraví zvíøat",
       "zdraví zvířat"
     ]
   },
@@ -5936,11 +6082,15 @@
     },
     "temata": [
       "chov zvířat",
+      "kruté a poniující zacházení",
       "kruté a ponižující zacházení",
       "ochrana zvířat",
+      "péče o pohodu zvíøat",
       "péče o pohodu zvířat",
       "trestní odpovědnost",
+      "trestnķ odpovģdnost",
       "umělá inseminace",
+      "zdraví zvíøat",
       "zdraví zvířat"
     ]
   },
@@ -5958,11 +6108,15 @@
     },
     "temata": [
       "chov zvířat",
+      "kruté a poniující zacházení",
       "kruté a ponižující zacházení",
       "ochrana zvířat",
+      "péče o pohodu zvíøat",
       "péče o pohodu zvířat",
       "trestní odpovědnost",
+      "trestnķ odpovģdnost",
       "umělá inseminace",
+      "zdraví zvíøat",
       "zdraví zvířat"
     ]
   },
@@ -5980,11 +6134,15 @@
     },
     "temata": [
       "chov zvířat",
+      "kruté a poniující zacházení",
       "kruté a ponižující zacházení",
       "ochrana zvířat",
+      "péče o pohodu zvíøat",
       "péče o pohodu zvířat",
       "trestní odpovědnost",
+      "trestnķ odpovģdnost",
       "umělá inseminace",
+      "zdraví zvíøat",
       "zdraví zvířat"
     ]
   },
@@ -6002,11 +6160,15 @@
     },
     "temata": [
       "chov zvířat",
+      "kruté a poniující zacházení",
       "kruté a ponižující zacházení",
       "ochrana zvířat",
+      "péče o pohodu zvíøat",
       "péče o pohodu zvířat",
       "trestní odpovědnost",
+      "trestnķ odpovģdnost",
       "umělá inseminace",
+      "zdraví zvíøat",
       "zdraví zvířat"
     ]
   },
@@ -6024,11 +6186,15 @@
     },
     "temata": [
       "chov zvířat",
+      "kruté a poniující zacházení",
       "kruté a ponižující zacházení",
       "ochrana zvířat",
+      "péče o pohodu zvíøat",
       "péče o pohodu zvířat",
       "trestní odpovědnost",
+      "trestnķ odpovģdnost",
       "umělá inseminace",
+      "zdraví zvíøat",
       "zdraví zvířat"
     ]
   },
@@ -6046,11 +6212,15 @@
     },
     "temata": [
       "chov zvířat",
+      "kruté a poniující zacházení",
       "kruté a ponižující zacházení",
       "ochrana zvířat",
+      "péče o pohodu zvíøat",
       "péče o pohodu zvířat",
       "trestní odpovědnost",
+      "trestnķ odpovģdnost",
       "umělá inseminace",
+      "zdraví zvíøat",
       "zdraví zvířat"
     ]
   },
@@ -6068,11 +6238,15 @@
     },
     "temata": [
       "chov zvířat",
+      "kruté a poniující zacházení",
       "kruté a ponižující zacházení",
       "ochrana zvířat",
+      "péče o pohodu zvíøat",
       "péče o pohodu zvířat",
       "trestní odpovědnost",
+      "trestnķ odpovģdnost",
       "umělá inseminace",
+      "zdraví zvíøat",
       "zdraví zvířat"
     ]
   },
@@ -6090,11 +6264,15 @@
     },
     "temata": [
       "chov zvířat",
+      "kruté a poniující zacházení",
       "kruté a ponižující zacházení",
       "ochrana zvířat",
+      "péče o pohodu zvíøat",
       "péče o pohodu zvířat",
       "trestní odpovědnost",
+      "trestnķ odpovģdnost",
       "umělá inseminace",
+      "zdraví zvíøat",
       "zdraví zvířat"
     ]
   },
@@ -7448,9 +7626,10 @@
       "bezpečnost dopravy",
       "dopravní infrastruktura",
       "jízdní personál",
+      "metro",
+      "mėstská hromadná doprava",
       "městská doprava",
-      "městská hromadná doprava",
-      "metro"
+      "městská hromadná doprava"
     ]
   },
   {
@@ -7526,12 +7705,13 @@
       "not_logged": 16
     },
     "temata": [
-      "Česká republika",
-      "dvoustranná dohoda",
       "Slovensko",
+      "dvoustranná dohoda",
       "vojenská spolupráce",
       "vojenské letectvo",
-      "vzdušný prostor"
+      "vzduný prostor",
+      "vzdušný prostor",
+      "Česká republika"
     ]
   },
   {
@@ -7568,17 +7748,18 @@
     },
     "temata": [
       "Afghánistán",
-      "armáda",
       "Bosna a Hercegovina",
       "Egypt",
       "Irák",
       "Izrael",
       "Kosovo",
       "Litva",
+      "Lotysko",
       "Lotyšsko",
       "Mali",
       "Somálsko",
       "Sýrie",
+      "armáda",
       "vojenská spolupráce",
       "vojska v zahraničí"
     ]
@@ -7678,9 +7859,10 @@
     "temata": [
       "hlasování",
       "referendum",
-      "ústava",
+      "veøejné hlasování",
       "veřejné hlasování",
-      "voličské právo"
+      "voličské právo",
+      "ústava"
     ]
   },
   {
@@ -7696,10 +7878,11 @@
       "not_logged": 33
     },
     "temata": [
-      "Česká republika",
       "derogace",
+      "jaderná elektrárna",
       "Írán",
-      "jaderná elektrárna"
+      "Česká republika",
+      "Ķrįn"
     ]
   },
   {
@@ -7715,10 +7898,11 @@
       "not_logged": 32
     },
     "temata": [
-      "Česká republika",
       "derogace",
+      "jaderná elektrárna",
       "Írán",
-      "jaderná elektrárna"
+      "Česká republika",
+      "Ķrįn"
     ]
   },
   {
@@ -7735,8 +7919,10 @@
     },
     "temata": [
       "elektronická správa",
-      "informační systém",
       "informatika a průmysl zpracování dat",
+      "informatika a prųmysl zpracování dat",
+      "informační systém",
+      "komunikaèní systém",
       "komunikační systém",
       "služba ve veřejném zájmu",
       "telekomunikace",
@@ -7759,8 +7945,10 @@
     },
     "temata": [
       "elektronická správa",
-      "informační systém",
       "informatika a průmysl zpracování dat",
+      "informatika a prųmysl zpracování dat",
+      "informační systém",
+      "komunikaèní systém",
       "komunikační systém",
       "služba ve veřejném zájmu",
       "telekomunikace",
@@ -7783,8 +7971,10 @@
     },
     "temata": [
       "elektronická správa",
-      "informační systém",
       "informatika a průmysl zpracování dat",
+      "informatika a prųmysl zpracování dat",
+      "informační systém",
+      "komunikaèní systém",
       "komunikační systém",
       "služba ve veřejném zájmu",
       "telekomunikace",
@@ -7807,8 +7997,10 @@
     },
     "temata": [
       "elektronická správa",
-      "informační systém",
       "informatika a průmysl zpracování dat",
+      "informatika a prųmysl zpracování dat",
+      "informační systém",
+      "komunikaèní systém",
       "komunikační systém",
       "služba ve veřejném zájmu",
       "telekomunikace",
@@ -7831,8 +8023,10 @@
     },
     "temata": [
       "elektronická správa",
-      "informační systém",
       "informatika a průmysl zpracování dat",
+      "informatika a prųmysl zpracování dat",
+      "informační systém",
+      "komunikaèní systém",
       "komunikační systém",
       "služba ve veřejném zájmu",
       "telekomunikace",
@@ -7855,8 +8049,10 @@
     },
     "temata": [
       "elektronická správa",
-      "informační systém",
       "informatika a průmysl zpracování dat",
+      "informatika a prųmysl zpracování dat",
+      "informační systém",
+      "komunikaèní systém",
       "komunikační systém",
       "služba ve veřejném zájmu",
       "telekomunikace",
@@ -7879,8 +8075,10 @@
     },
     "temata": [
       "elektronická správa",
-      "informační systém",
       "informatika a průmysl zpracování dat",
+      "informatika a prųmysl zpracování dat",
+      "informační systém",
+      "komunikaèní systém",
       "komunikační systém",
       "služba ve veřejném zájmu",
       "telekomunikace",
@@ -7903,8 +8101,10 @@
     },
     "temata": [
       "elektronická správa",
-      "informační systém",
       "informatika a průmysl zpracování dat",
+      "informatika a prųmysl zpracování dat",
+      "informační systém",
+      "komunikaèní systém",
       "komunikační systém",
       "služba ve veřejném zájmu",
       "telekomunikace",
@@ -7927,8 +8127,10 @@
     },
     "temata": [
       "elektronická správa",
-      "informační systém",
       "informatika a průmysl zpracování dat",
+      "informatika a prųmysl zpracování dat",
+      "informační systém",
+      "komunikaèní systém",
       "komunikační systém",
       "služba ve veřejném zájmu",
       "telekomunikace",
@@ -7951,8 +8153,10 @@
     },
     "temata": [
       "elektronická správa",
-      "informační systém",
       "informatika a průmysl zpracování dat",
+      "informatika a prųmysl zpracování dat",
+      "informační systém",
+      "komunikaèní systém",
       "komunikační systém",
       "služba ve veřejném zájmu",
       "telekomunikace",
@@ -7975,8 +8179,10 @@
     },
     "temata": [
       "elektronická správa",
-      "informační systém",
       "informatika a průmysl zpracování dat",
+      "informatika a prųmysl zpracování dat",
+      "informační systém",
+      "komunikaèní systém",
       "komunikační systém",
       "služba ve veřejném zájmu",
       "telekomunikace",
@@ -7999,8 +8205,10 @@
     },
     "temata": [
       "elektronická správa",
-      "informační systém",
       "informatika a průmysl zpracování dat",
+      "informatika a prųmysl zpracování dat",
+      "informační systém",
+      "komunikaèní systém",
       "komunikační systém",
       "služba ve veřejném zájmu",
       "telekomunikace",
@@ -8023,8 +8231,10 @@
     },
     "temata": [
       "elektronická správa",
-      "informační systém",
       "informatika a průmysl zpracování dat",
+      "informatika a prųmysl zpracování dat",
+      "informační systém",
+      "komunikaèní systém",
       "komunikační systém",
       "služba ve veřejném zájmu",
       "telekomunikace",
@@ -8047,8 +8257,10 @@
     },
     "temata": [
       "elektronická správa",
-      "informační systém",
       "informatika a průmysl zpracování dat",
+      "informatika a prųmysl zpracování dat",
+      "informační systém",
+      "komunikaèní systém",
       "komunikační systém",
       "služba ve veřejném zájmu",
       "telekomunikace",
@@ -8071,8 +8283,10 @@
     },
     "temata": [
       "elektronická správa",
-      "informační systém",
       "informatika a průmysl zpracování dat",
+      "informatika a prųmysl zpracování dat",
+      "informační systém",
+      "komunikaèní systém",
       "komunikační systém",
       "služba ve veřejném zájmu",
       "telekomunikace",
@@ -8094,15 +8308,18 @@
       "not_logged": 2
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -8118,15 +8335,18 @@
       "not_logged": 2
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -8142,15 +8362,18 @@
       "not_logged": 1
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -8166,15 +8389,18 @@
       "not_logged": 1
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -8190,15 +8416,18 @@
       "not_logged": 1
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -8214,15 +8443,18 @@
       "not_logged": 1
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -8238,15 +8470,18 @@
       "not_logged": 1
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -8262,15 +8497,18 @@
       "not_logged": 1
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -8286,15 +8524,18 @@
       "not_logged": 1
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -8310,15 +8551,18 @@
       "not_logged": 1
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -8334,15 +8578,18 @@
       "not_logged": 1
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -8379,15 +8626,18 @@
       "not_logged": 0
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -8403,15 +8653,18 @@
       "not_logged": 0
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -8427,15 +8680,18 @@
       "not_logged": 4
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -8454,6 +8710,7 @@
       "elektronická správa dokumentů",
       "identifikační průkaz",
       "informační systém",
+      "informační systém pro potøeby øízení",
       "informační systém pro potřeby řízení",
       "seznam",
       "veřejná správa"
@@ -8472,15 +8729,18 @@
       "not_logged": 6
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -8496,15 +8756,18 @@
       "not_logged": 4
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -8520,6 +8783,7 @@
       "not_logged": 8
     },
     "temata": [
+      "hájené zamėstnání",
       "hájené zaměstnání",
       "podpora zaměstnanosti",
       "politika zaměstnanosti",
@@ -8539,15 +8803,18 @@
       "not_logged": 2
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -8563,15 +8830,18 @@
       "not_logged": 2
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -8587,15 +8857,18 @@
       "not_logged": 2
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -8611,15 +8884,18 @@
       "not_logged": 2
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -8635,15 +8911,18 @@
       "not_logged": 2
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -8659,15 +8938,18 @@
       "not_logged": 2
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -8683,15 +8965,18 @@
       "not_logged": 2
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -8707,15 +8992,18 @@
       "not_logged": 1
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -8731,15 +9019,18 @@
       "not_logged": 1
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -8755,15 +9046,18 @@
       "not_logged": 1
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -8779,15 +9073,18 @@
       "not_logged": 1
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -8803,15 +9100,18 @@
       "not_logged": 1
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -8827,15 +9127,18 @@
       "not_logged": 1
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -8851,15 +9154,18 @@
       "not_logged": 1
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -8875,15 +9181,18 @@
       "not_logged": 4
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -8899,15 +9208,18 @@
       "not_logged": 144
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -8923,15 +9235,18 @@
       "not_logged": 11
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -8947,15 +9262,18 @@
       "not_logged": 8
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -9453,15 +9771,18 @@
       "not_logged": 14
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -9477,15 +9798,18 @@
       "not_logged": 14
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -9501,15 +9825,18 @@
       "not_logged": 14
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -9525,15 +9852,18 @@
       "not_logged": 14
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -9549,15 +9879,18 @@
       "not_logged": 14
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -9573,15 +9906,18 @@
       "not_logged": 14
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -9600,6 +9936,7 @@
       "energetická bilance",
       "hospodaření se zdroji",
       "odborná kvalifikace",
+      "spotøeba energie",
       "spotřeba energie",
       "stavba"
     ]
@@ -9786,11 +10123,15 @@
     },
     "temata": [
       "chov zvířat",
+      "kruté a poniující zacházení",
       "kruté a ponižující zacházení",
       "ochrana zvířat",
+      "péče o pohodu zvíøat",
       "péče o pohodu zvířat",
       "trestní odpovědnost",
+      "trestnķ odpovģdnost",
       "umělá inseminace",
+      "zdraví zvíøat",
       "zdraví zvířat"
     ]
   },
@@ -9808,11 +10149,15 @@
     },
     "temata": [
       "chov zvířat",
+      "kruté a poniující zacházení",
       "kruté a ponižující zacházení",
       "ochrana zvířat",
+      "péče o pohodu zvíøat",
       "péče o pohodu zvířat",
       "trestní odpovědnost",
+      "trestnķ odpovģdnost",
       "umělá inseminace",
+      "zdraví zvíøat",
       "zdraví zvířat"
     ]
   },
@@ -9972,10 +10317,11 @@
       "not_logged": 6
     },
     "temata": [
-      "Česká republika",
+      "Tchaj-wan",
       "daňová úmluva",
+      "daōová úmluva",
       "dvojí zdanění",
-      "Tchaj-wan"
+      "Česká republika"
     ]
   },
   {
@@ -9993,9 +10339,10 @@
     "temata": [
       "hlasování",
       "referendum",
-      "ústava",
+      "veøejné hlasování",
       "veřejné hlasování",
-      "voličské právo"
+      "voličské právo",
+      "ústava"
     ]
   },
   {
@@ -10013,9 +10360,10 @@
     "temata": [
       "hlasování",
       "referendum",
-      "ústava",
+      "veøejné hlasování",
       "veřejné hlasování",
-      "voličské právo"
+      "voličské právo",
+      "ústava"
     ]
   },
   {
@@ -10033,9 +10381,10 @@
     "temata": [
       "hlasování",
       "referendum",
-      "ústava",
+      "veøejné hlasování",
       "veřejné hlasování",
-      "voličské právo"
+      "voličské právo",
+      "ústava"
     ]
   },
   {
@@ -10053,9 +10402,10 @@
     "temata": [
       "hlasování",
       "referendum",
-      "ústava",
+      "veøejné hlasování",
       "veřejné hlasování",
-      "voličské právo"
+      "voličské právo",
+      "ústava"
     ]
   },
   {
@@ -10091,15 +10441,18 @@
       "not_logged": 4
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -10115,15 +10468,18 @@
       "not_logged": 4
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -10143,9 +10499,10 @@
       "průmyslový výzkum",
       "rozpočet na výzkum",
       "státní podpora",
-      "vědecký výzkum",
+      "vztahy mezi průmyslem a výzkumem",
+      "vztahy mezi prųmyslem a výzkumem",
       "výzkum a vývoj",
-      "vztahy mezi průmyslem a výzkumem"
+      "vědecký výzkum"
     ]
   },
   {
@@ -10241,15 +10598,18 @@
       "not_logged": 5
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -10265,15 +10625,18 @@
       "not_logged": 4
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -10289,15 +10652,18 @@
       "not_logged": 4
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -10313,15 +10679,18 @@
       "not_logged": 3
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -10337,15 +10706,18 @@
       "not_logged": 3
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -10361,15 +10733,18 @@
       "not_logged": 3
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -10385,15 +10760,18 @@
       "not_logged": 3
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -10409,15 +10787,18 @@
       "not_logged": 3
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -10433,15 +10814,18 @@
       "not_logged": 3
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -10457,15 +10841,18 @@
       "not_logged": 3
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -10481,15 +10868,18 @@
       "not_logged": 3
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -10505,15 +10895,18 @@
       "not_logged": 3
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -10529,15 +10922,18 @@
       "not_logged": 3
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -10555,6 +10951,7 @@
     "temata": [
       "dopravce",
       "osobní doprava",
+      "pøeprava nebezpečného nákladu",
       "přeprava nebezpečného nákladu",
       "silniční doprava",
       "taxi"
@@ -10673,15 +11070,18 @@
       "not_logged": 3
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -10697,15 +11097,18 @@
       "not_logged": 3
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -10721,15 +11124,18 @@
       "not_logged": 3
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -10764,15 +11170,18 @@
       "not_logged": 4
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -10788,15 +11197,18 @@
       "not_logged": 4
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -10812,15 +11224,18 @@
       "not_logged": 4
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -10836,15 +11251,18 @@
       "not_logged": 4
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -10860,15 +11278,18 @@
       "not_logged": 4
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -10884,15 +11305,18 @@
       "not_logged": 3
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -10908,15 +11332,18 @@
       "not_logged": 3
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -10932,6 +11359,7 @@
       "not_logged": 3
     },
     "temata": [
+      "mateøský pøíspėvek",
       "mateřský příspěvek",
       "sociální dávky",
       "zdravotní pojištění"
@@ -10954,6 +11382,7 @@
       "intervenční nákupy",
       "intervenční politika",
       "návrh rozpočtu",
+      "společná zemėdėlská politika",
       "společná zemědělská politika",
       "účty agrárního sektoru"
     ]
@@ -10994,6 +11423,7 @@
       "intervenční nákupy",
       "intervenční politika",
       "návrh rozpočtu",
+      "společná zemėdėlská politika",
       "společná zemědělská politika",
       "účty agrárního sektoru"
     ]
@@ -11015,6 +11445,7 @@
       "intervenční nákupy",
       "intervenční politika",
       "návrh rozpočtu",
+      "společná zemėdėlská politika",
       "společná zemědělská politika",
       "účty agrárního sektoru"
     ]
@@ -11036,6 +11467,7 @@
       "intervenční nákupy",
       "intervenční politika",
       "návrh rozpočtu",
+      "společná zemėdėlská politika",
       "společná zemědělská politika",
       "účty agrárního sektoru"
     ]
@@ -11055,9 +11487,10 @@
     "temata": [
       "hlasování",
       "referendum",
-      "ústava",
+      "veøejné hlasování",
       "veřejné hlasování",
-      "voličské právo"
+      "voličské právo",
+      "ústava"
     ]
   },
   {
@@ -11225,10 +11658,11 @@
       "not_logged": 10
     },
     "temata": [
-      "Česká republika",
+      "Kamboda",
       "Kambodža",
       "letecká doprava",
-      "mezinárodní dohoda"
+      "mezinárodní dohoda",
+      "Česká republika"
     ]
   },
   {
@@ -11282,10 +11716,12 @@
       "not_logged": 13
     },
     "temata": [
-      "Česká republika",
+      "Jiní Korea",
+      "Jižní Korea",
       "daňová úmluva",
+      "daōová úmluva",
       "dvojí zdanění",
-      "Jižní Korea"
+      "Česká republika"
     ]
   },
   {
@@ -11301,12 +11737,13 @@
       "not_logged": 11
     },
     "temata": [
-      "Česká republika",
       "daň",
       "daňová úmluva",
       "daňový základ",
+      "daōová úmluva",
       "dvojí zdanění",
-      "zisk"
+      "zisk",
+      "Česká republika"
     ]
   },
   {
@@ -11342,11 +11779,14 @@
       "not_logged": 7
     },
     "temata": [
-      "Česká republika",
+      "Evropská úmluva o ochranė lidských práv",
       "Evropská úmluva o ochraně lidských práv",
+      "lidská práva",
+      "lékaøský výzkum",
+      "lékaøství",
       "lékařský výzkum",
       "lékařství",
-      "lidská práva"
+      "Česká republika"
     ]
   },
   {
@@ -11362,12 +11802,14 @@
       "not_logged": 8
     },
     "temata": [
-      "Česká republika",
       "mezinárodní úmluva",
-      "ochrana živočišné říše",
       "ochrana zvířat",
+      "ochrana ivočiné øíe",
+      "ochrana živočišné říše",
       "revize dohody",
+      "volnė ijící savci",
       "volně žijící savci",
+      "Česká republika",
       "živočišná říše"
     ]
   },
@@ -11384,13 +11826,16 @@
       "not_logged": 6
     },
     "temata": [
-      "Česká republika",
       "chráněné území",
       "chráněný druh",
+      "ochrana rostlinné øíe",
       "ochrana rostlinné říše",
-      "ochrana živočišné říše",
+      "ochrana ivočiné øíe",
       "ochrana životního prostředí",
-      "přírodní rezervace"
+      "ochrana živočišné říše",
+      "pøírodní rezervace",
+      "přírodní rezervace",
+      "Česká republika"
     ]
   },
   {
@@ -11645,9 +12090,11 @@
     "temata": [
       "horní komora",
       "parlamentní volby",
+      "pøedčasné volby",
       "předčasné volby",
       "regionální volby",
       "rozdělení na volební kraje",
+      "rozputėní parlamentu",
       "rozpuštění parlamentu",
       "volební právo"
     ]
@@ -11667,9 +12114,11 @@
     "temata": [
       "horní komora",
       "parlamentní volby",
+      "pøedčasné volby",
       "předčasné volby",
       "regionální volby",
       "rozdělení na volební kraje",
+      "rozputėní parlamentu",
       "rozpuštění parlamentu",
       "volební právo"
     ]
@@ -11689,9 +12138,11 @@
     "temata": [
       "horní komora",
       "parlamentní volby",
+      "pøedčasné volby",
       "předčasné volby",
       "regionální volby",
       "rozdělení na volební kraje",
+      "rozputėní parlamentu",
       "rozpuštění parlamentu",
       "volební právo"
     ]
@@ -11711,9 +12162,11 @@
     "temata": [
       "horní komora",
       "parlamentní volby",
+      "pøedčasné volby",
       "předčasné volby",
       "regionální volby",
       "rozdělení na volební kraje",
+      "rozputėní parlamentu",
       "rozpuštění parlamentu",
       "volební právo"
     ]
@@ -11733,9 +12186,11 @@
     "temata": [
       "horní komora",
       "parlamentní volby",
+      "pøedčasné volby",
       "předčasné volby",
       "regionální volby",
       "rozdělení na volební kraje",
+      "rozputėní parlamentu",
       "rozpuštění parlamentu",
       "volební právo"
     ]
@@ -11755,9 +12210,11 @@
     "temata": [
       "horní komora",
       "parlamentní volby",
+      "pøedčasné volby",
       "předčasné volby",
       "regionální volby",
       "rozdělení na volební kraje",
+      "rozputėní parlamentu",
       "rozpuštění parlamentu",
       "volební právo"
     ]
@@ -11777,9 +12234,11 @@
     "temata": [
       "horní komora",
       "parlamentní volby",
+      "pøedčasné volby",
       "předčasné volby",
       "regionální volby",
       "rozdělení na volební kraje",
+      "rozputėní parlamentu",
       "rozpuštění parlamentu",
       "volební právo"
     ]
@@ -11799,9 +12258,11 @@
     "temata": [
       "horní komora",
       "parlamentní volby",
+      "pøedčasné volby",
       "předčasné volby",
       "regionální volby",
       "rozdělení na volební kraje",
+      "rozputėní parlamentu",
       "rozpuštění parlamentu",
       "volební právo"
     ]
@@ -11920,6 +12381,7 @@
       "ochrana soukromí",
       "ochrana údajů",
       "osobní údaje",
+      "pøeklad",
       "překlad",
       "soudní dokazování",
       "tlumočení",
@@ -11963,6 +12425,7 @@
       "not_logged": 5
     },
     "temata": [
+      "finance místních úøadù",
       "finance místních úřadů",
       "kontrolní moc",
       "kontrolní úřad",
@@ -12003,15 +12466,18 @@
       "not_logged": 8
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -12027,15 +12493,18 @@
       "not_logged": 6
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -12051,15 +12520,18 @@
       "not_logged": 5
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -12075,15 +12547,18 @@
       "not_logged": 5
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -12099,15 +12574,18 @@
       "not_logged": 5
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -12123,15 +12601,18 @@
       "not_logged": 5
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -12149,9 +12630,13 @@
     "temata": [
       "důchodový plán",
       "podmínky pro odchod do důchodu",
+      "podmínky pro odchod do dųchodu",
+      "pøíjmová politika",
+      "pøíspėvek pozųstalým",
       "příjmová politika",
       "příspěvek pozůstalým",
       "rodina",
+      "společensko-hospodáøské pomėry",
       "společensko-hospodářské poměry"
     ]
   },
@@ -12209,15 +12694,18 @@
       "not_logged": 33
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -12233,15 +12721,18 @@
       "not_logged": 34
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -12257,15 +12748,18 @@
       "not_logged": 32
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -12286,9 +12780,10 @@
       "ochrana zvířat",
       "přemístění stáda",
       "přibližování legislativy",
-      "včelařství",
       "veterinární inspekce",
       "veterinární legislativa",
+      "včelařství",
+      "zdraví zvíøat",
       "zdraví zvířat",
       "živočišný produkt"
     ]
@@ -12311,9 +12806,10 @@
       "ochrana zvířat",
       "přemístění stáda",
       "přibližování legislativy",
-      "včelařství",
       "veterinární inspekce",
       "veterinární legislativa",
+      "včelařství",
+      "zdraví zvíøat",
       "zdraví zvířat",
       "živočišný produkt"
     ]
@@ -12336,9 +12832,10 @@
       "ochrana zvířat",
       "přemístění stáda",
       "přibližování legislativy",
-      "včelařství",
       "veterinární inspekce",
       "veterinární legislativa",
+      "včelařství",
+      "zdraví zvíøat",
       "zdraví zvířat",
       "živočišný produkt"
     ]
@@ -12361,9 +12858,10 @@
       "ochrana zvířat",
       "přemístění stáda",
       "přibližování legislativy",
-      "včelařství",
       "veterinární inspekce",
       "veterinární legislativa",
+      "včelařství",
+      "zdraví zvíøat",
       "zdraví zvířat",
       "živočišný produkt"
     ]
@@ -12386,9 +12884,10 @@
       "ochrana zvířat",
       "přemístění stáda",
       "přibližování legislativy",
-      "včelařství",
       "veterinární inspekce",
       "veterinární legislativa",
+      "včelařství",
+      "zdraví zvíøat",
       "zdraví zvířat",
       "živočišný produkt"
     ]
@@ -12408,6 +12907,7 @@
     "temata": [
       "banka",
       "elektronické bankovnictví",
+      "finanèní instituce",
       "finanční instituce",
       "finanční transakce",
       "identifikační průkaz",
@@ -12433,9 +12933,10 @@
       "ochrana zvířat",
       "přemístění stáda",
       "přibližování legislativy",
-      "včelařství",
       "veterinární inspekce",
       "veterinární legislativa",
+      "včelařství",
+      "zdraví zvíøat",
       "zdraví zvířat",
       "živočišný produkt"
     ]
@@ -12458,9 +12959,10 @@
       "ochrana zvířat",
       "přemístění stáda",
       "přibližování legislativy",
-      "včelařství",
       "veterinární inspekce",
       "veterinární legislativa",
+      "včelařství",
+      "zdraví zvíøat",
       "zdraví zvířat",
       "živočišný produkt"
     ]
@@ -12483,9 +12985,10 @@
       "ochrana zvířat",
       "přemístění stáda",
       "přibližování legislativy",
-      "včelařství",
       "veterinární inspekce",
       "veterinární legislativa",
+      "včelařství",
+      "zdraví zvíøat",
       "zdraví zvířat",
       "živočišný produkt"
     ]
@@ -12508,9 +13011,10 @@
       "ochrana zvířat",
       "přemístění stáda",
       "přibližování legislativy",
-      "včelařství",
       "veterinární inspekce",
       "veterinární legislativa",
+      "včelařství",
+      "zdraví zvíøat",
       "zdraví zvířat",
       "živočišný produkt"
     ]
@@ -12533,9 +13037,10 @@
       "ochrana zvířat",
       "přemístění stáda",
       "přibližování legislativy",
-      "včelařství",
       "veterinární inspekce",
       "veterinární legislativa",
+      "včelařství",
+      "zdraví zvíøat",
       "zdraví zvířat",
       "živočišný produkt"
     ]
@@ -12558,9 +13063,10 @@
       "ochrana zvířat",
       "přemístění stáda",
       "přibližování legislativy",
-      "včelařství",
       "veterinární inspekce",
       "veterinární legislativa",
+      "včelařství",
+      "zdraví zvíøat",
       "zdraví zvířat",
       "živočišný produkt"
     ]
@@ -12583,9 +13089,10 @@
       "ochrana zvířat",
       "přemístění stáda",
       "přibližování legislativy",
-      "včelařství",
       "veterinární inspekce",
       "veterinární legislativa",
+      "včelařství",
+      "zdraví zvíøat",
       "zdraví zvířat",
       "živočišný produkt"
     ]
@@ -15817,9 +16324,10 @@
     },
     "temata": [
       "dotace na hektar",
-      "pěstování ovoce",
       "podpora sektorové ekonomiky",
+      "podpora zemėdėlství",
       "podpora zemědělství",
+      "pěstování ovoce",
       "včelařství",
       "závlahové zemědělství"
     ]
@@ -15841,6 +16349,7 @@
       "intervenční nákupy",
       "intervenční politika",
       "návrh rozpočtu",
+      "společná zemėdėlská politika",
       "společná zemědělská politika",
       "účty agrárního sektoru"
     ]
@@ -15859,6 +16368,7 @@
     },
     "temata": [
       "filmový průmysl",
+      "filmový prųmysl",
       "návrh rozpočtu",
       "rozpočet",
       "střednědobá prognóza",
@@ -16033,8 +16543,9 @@
     },
     "temata": [
       "inspekce potravin",
-      "potravinářská výroba",
       "potravinová legislativa",
+      "potravináøská výroba",
+      "potravinářská výroba",
       "zdravotní inspekce"
     ]
   },
@@ -16052,8 +16563,9 @@
     },
     "temata": [
       "inspekce potravin",
-      "potravinářská výroba",
       "potravinová legislativa",
+      "potravináøská výroba",
+      "potravinářská výroba",
       "zdravotní inspekce"
     ]
   },
@@ -16070,12 +16582,13 @@
       "not_logged": 3
     },
     "temata": [
-      "Česká republika",
       "daň",
       "daňová úmluva",
       "daňový základ",
+      "daōová úmluva",
       "dvojí zdanění",
-      "zisk"
+      "zisk",
+      "Česká republika"
     ]
   },
   {
@@ -16091,12 +16604,13 @@
       "not_logged": 4
     },
     "temata": [
-      "Česká republika",
       "daň",
       "daňová úmluva",
       "daňový základ",
+      "daōová úmluva",
       "dvojí zdanění",
-      "zisk"
+      "zisk",
+      "Česká republika"
     ]
   },
   {
@@ -16112,12 +16626,13 @@
       "not_logged": 3
     },
     "temata": [
-      "Česká republika",
       "daň",
       "daňová úmluva",
       "daňový základ",
+      "daōová úmluva",
       "dvojí zdanění",
-      "zisk"
+      "zisk",
+      "Česká republika"
     ]
   },
   {
@@ -16134,8 +16649,9 @@
     },
     "temata": [
       "inspekce potravin",
-      "potravinářská výroba",
       "potravinová legislativa",
+      "potravináøská výroba",
+      "potravinářská výroba",
       "zdravotní inspekce"
     ]
   },
@@ -16295,6 +16811,7 @@
       "energetická bilance",
       "hospodaření se zdroji",
       "odborná kvalifikace",
+      "spotøeba energie",
       "spotřeba energie",
       "stavba"
     ]
@@ -16335,6 +16852,7 @@
       "energetická bilance",
       "hospodaření se zdroji",
       "odborná kvalifikace",
+      "spotøeba energie",
       "spotřeba energie",
       "stavba"
     ]
@@ -16355,6 +16873,7 @@
       "elektronická správa dokumentů",
       "identifikační průkaz",
       "informační systém",
+      "informační systém pro potøeby øízení",
       "informační systém pro potřeby řízení",
       "seznam",
       "veřejná správa"
@@ -16379,6 +16898,7 @@
       "ochrana zdraví rostlin",
       "přípravky ochrany rostlin",
       "rostlinolékařská legislativa",
+      "kodlivý organismus",
       "škodlivý organismus"
     ]
   },
@@ -16418,10 +16938,12 @@
     },
     "temata": [
       "inspekce potravin",
+      "možnost zpìtného vysledování",
       "možnost zpětného vysledování",
-      "veterinář",
       "veterinární inspekce",
-      "veterinární legislativa"
+      "veterinární legislativa",
+      "veterináø",
+      "veterinář"
     ]
   },
   {
@@ -16508,11 +17030,15 @@
     },
     "temata": [
       "chov zvířat",
+      "kruté a poniující zacházení",
       "kruté a ponižující zacházení",
       "ochrana zvířat",
+      "péče o pohodu zvíøat",
       "péče o pohodu zvířat",
       "trestní odpovědnost",
+      "trestnķ odpovģdnost",
       "umělá inseminace",
+      "zdraví zvíøat",
       "zdraví zvířat"
     ]
   },
@@ -16530,11 +17056,15 @@
     },
     "temata": [
       "chov zvířat",
+      "kruté a poniující zacházení",
       "kruté a ponižující zacházení",
       "ochrana zvířat",
+      "péče o pohodu zvíøat",
       "péče o pohodu zvířat",
       "trestní odpovědnost",
+      "trestnķ odpovģdnost",
       "umělá inseminace",
+      "zdraví zvíøat",
       "zdraví zvířat"
     ]
   },
@@ -16552,11 +17082,15 @@
     },
     "temata": [
       "chov zvířat",
+      "kruté a poniující zacházení",
       "kruté a ponižující zacházení",
       "ochrana zvířat",
+      "péče o pohodu zvíøat",
       "péče o pohodu zvířat",
       "trestní odpovědnost",
+      "trestnķ odpovģdnost",
       "umělá inseminace",
+      "zdraví zvíøat",
       "zdraví zvířat"
     ]
   },
@@ -16575,6 +17109,7 @@
     "temata": [
       "distributor",
       "elektrický vůz",
+      "elektrický vųz",
       "motorové palivo",
       "náhradní palivo",
       "povolení k prodeji"
@@ -16593,10 +17128,11 @@
       "not_logged": 8
     },
     "temata": [
-      "Česká republika",
       "derogace",
+      "jaderná elektrárna",
       "Írán",
-      "jaderná elektrárna"
+      "Česká republika",
+      "Ķrįn"
     ]
   },
   {
@@ -16613,11 +17149,15 @@
     },
     "temata": [
       "chov zvířat",
+      "kruté a poniující zacházení",
       "kruté a ponižující zacházení",
       "ochrana zvířat",
+      "péče o pohodu zvíøat",
       "péče o pohodu zvířat",
       "trestní odpovědnost",
+      "trestnķ odpovģdnost",
       "umělá inseminace",
+      "zdraví zvíøat",
       "zdraví zvířat"
     ]
   },
@@ -16635,11 +17175,15 @@
     },
     "temata": [
       "chov zvířat",
+      "kruté a poniující zacházení",
       "kruté a ponižující zacházení",
       "ochrana zvířat",
+      "péče o pohodu zvíøat",
       "péče o pohodu zvířat",
       "trestní odpovědnost",
+      "trestnķ odpovģdnost",
       "umělá inseminace",
+      "zdraví zvíøat",
       "zdraví zvířat"
     ]
   },
@@ -16657,11 +17201,15 @@
     },
     "temata": [
       "chov zvířat",
+      "kruté a poniující zacházení",
       "kruté a ponižující zacházení",
       "ochrana zvířat",
+      "péče o pohodu zvíøat",
       "péče o pohodu zvířat",
       "trestní odpovědnost",
+      "trestnķ odpovģdnost",
       "umělá inseminace",
+      "zdraví zvíøat",
       "zdraví zvířat"
     ]
   },
@@ -16679,11 +17227,15 @@
     },
     "temata": [
       "chov zvířat",
+      "kruté a poniující zacházení",
       "kruté a ponižující zacházení",
       "ochrana zvířat",
+      "péče o pohodu zvíøat",
       "péče o pohodu zvířat",
       "trestní odpovědnost",
+      "trestnķ odpovģdnost",
       "umělá inseminace",
+      "zdraví zvíøat",
       "zdraví zvířat"
     ]
   },
@@ -16701,11 +17253,15 @@
     },
     "temata": [
       "chov zvířat",
+      "kruté a poniující zacházení",
       "kruté a ponižující zacházení",
       "ochrana zvířat",
+      "péče o pohodu zvíøat",
       "péče o pohodu zvířat",
       "trestní odpovědnost",
+      "trestnķ odpovģdnost",
       "umělá inseminace",
+      "zdraví zvíøat",
       "zdraví zvířat"
     ]
   },
@@ -16723,11 +17279,15 @@
     },
     "temata": [
       "chov zvířat",
+      "kruté a poniující zacházení",
       "kruté a ponižující zacházení",
       "ochrana zvířat",
+      "péče o pohodu zvíøat",
       "péče o pohodu zvířat",
       "trestní odpovědnost",
+      "trestnķ odpovģdnost",
       "umělá inseminace",
+      "zdraví zvíøat",
       "zdraví zvířat"
     ]
   },
@@ -16745,11 +17305,15 @@
     },
     "temata": [
       "chov zvířat",
+      "kruté a poniující zacházení",
       "kruté a ponižující zacházení",
       "ochrana zvířat",
+      "péče o pohodu zvíøat",
       "péče o pohodu zvířat",
       "trestní odpovědnost",
+      "trestnķ odpovģdnost",
       "umělá inseminace",
+      "zdraví zvíøat",
       "zdraví zvířat"
     ]
   },
@@ -16767,11 +17331,15 @@
     },
     "temata": [
       "chov zvířat",
+      "kruté a poniující zacházení",
       "kruté a ponižující zacházení",
       "ochrana zvířat",
+      "péče o pohodu zvíøat",
       "péče o pohodu zvířat",
       "trestní odpovědnost",
+      "trestnķ odpovģdnost",
       "umělá inseminace",
+      "zdraví zvíøat",
       "zdraví zvířat"
     ]
   },
@@ -16789,11 +17357,15 @@
     },
     "temata": [
       "chov zvířat",
+      "kruté a poniující zacházení",
       "kruté a ponižující zacházení",
       "ochrana zvířat",
+      "péče o pohodu zvíøat",
       "péče o pohodu zvířat",
       "trestní odpovědnost",
+      "trestnķ odpovģdnost",
       "umělá inseminace",
+      "zdraví zvíøat",
       "zdraví zvířat"
     ]
   },
@@ -16811,11 +17383,15 @@
     },
     "temata": [
       "chov zvířat",
+      "kruté a poniující zacházení",
       "kruté a ponižující zacházení",
       "ochrana zvířat",
+      "péče o pohodu zvíøat",
       "péče o pohodu zvířat",
       "trestní odpovědnost",
+      "trestnķ odpovģdnost",
       "umělá inseminace",
+      "zdraví zvíøat",
       "zdraví zvířat"
     ]
   },
@@ -16850,10 +17426,11 @@
       "not_logged": 27
     },
     "temata": [
-      "Česká republika",
       "derogace",
+      "jaderná elektrárna",
       "Írán",
-      "jaderná elektrárna"
+      "Česká republika",
+      "Ķrįn"
     ]
   },
   {
@@ -16869,10 +17446,11 @@
       "not_logged": 15
     },
     "temata": [
-      "Česká republika",
       "derogace",
+      "jaderná elektrárna",
       "Írán",
-      "jaderná elektrárna"
+      "Česká republika",
+      "Ķrįn"
     ]
   },
   {
@@ -16888,10 +17466,11 @@
       "not_logged": 15
     },
     "temata": [
-      "Česká republika",
       "derogace",
+      "jaderná elektrárna",
       "Írán",
-      "jaderná elektrárna"
+      "Česká republika",
+      "Ķrįn"
     ]
   },
   {
@@ -16907,10 +17486,11 @@
       "not_logged": 14
     },
     "temata": [
-      "Česká republika",
       "derogace",
+      "jaderná elektrárna",
       "Írán",
-      "jaderná elektrárna"
+      "Česká republika",
+      "Ķrįn"
     ]
   },
   {
@@ -16926,10 +17506,11 @@
       "not_logged": 12
     },
     "temata": [
-      "Česká republika",
       "derogace",
+      "jaderná elektrárna",
       "Írán",
-      "jaderná elektrárna"
+      "Česká republika",
+      "Ķrįn"
     ]
   },
   {
@@ -16945,10 +17526,11 @@
       "not_logged": 14
     },
     "temata": [
-      "Česká republika",
       "derogace",
+      "jaderná elektrárna",
       "Írán",
-      "jaderná elektrárna"
+      "Česká republika",
+      "Ķrįn"
     ]
   },
   {
@@ -16964,10 +17546,11 @@
       "not_logged": 12
     },
     "temata": [
-      "Česká republika",
       "derogace",
+      "jaderná elektrárna",
       "Írán",
-      "jaderná elektrárna"
+      "Česká republika",
+      "Ķrįn"
     ]
   },
   {
@@ -16983,10 +17566,11 @@
       "not_logged": 11
     },
     "temata": [
-      "Česká republika",
       "derogace",
+      "jaderná elektrárna",
       "Írán",
-      "jaderná elektrárna"
+      "Česká republika",
+      "Ķrįn"
     ]
   },
   {
@@ -17021,10 +17605,11 @@
       "not_logged": 8
     },
     "temata": [
-      "Česká republika",
       "derogace",
+      "jaderná elektrárna",
       "Írán",
-      "jaderná elektrárna"
+      "Česká republika",
+      "Ķrįn"
     ]
   },
   {
@@ -17041,6 +17626,7 @@
     },
     "temata": [
       "elektrárenský průmysl",
+      "elektrárenský prųmysl",
       "energetická politika",
       "energetické právo",
       "odškodnění",
@@ -17063,11 +17649,15 @@
     },
     "temata": [
       "chov zvířat",
+      "kruté a poniující zacházení",
       "kruté a ponižující zacházení",
       "ochrana zvířat",
+      "péče o pohodu zvíøat",
       "péče o pohodu zvířat",
       "trestní odpovědnost",
+      "trestnķ odpovģdnost",
       "umělá inseminace",
+      "zdraví zvíøat",
       "zdraví zvířat"
     ]
   },
@@ -17085,11 +17675,15 @@
     },
     "temata": [
       "chov zvířat",
+      "kruté a poniující zacházení",
       "kruté a ponižující zacházení",
       "ochrana zvířat",
+      "péče o pohodu zvíøat",
       "péče o pohodu zvířat",
       "trestní odpovědnost",
+      "trestnķ odpovģdnost",
       "umělá inseminace",
+      "zdraví zvíøat",
       "zdraví zvířat"
     ]
   },
@@ -17107,10 +17701,12 @@
     },
     "temata": [
       "elektrický vůz",
+      "elektrický vųz",
       "kontrola rychlosti",
       "pozemní doprava",
       "pravidla silničního provozu",
       "prostředky zdravotnické techniky",
+      "prostųedky zdravotnické techniky",
       "tělesně postižený člověk",
       "vozidlo"
     ]
@@ -17143,11 +17739,15 @@
     },
     "temata": [
       "chov zvířat",
+      "kruté a poniující zacházení",
       "kruté a ponižující zacházení",
       "ochrana zvířat",
+      "péče o pohodu zvíøat",
       "péče o pohodu zvířat",
       "trestní odpovědnost",
+      "trestnķ odpovģdnost",
       "umělá inseminace",
+      "zdraví zvíøat",
       "zdraví zvířat"
     ]
   },
@@ -17402,15 +18002,18 @@
       "not_logged": 27
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -17426,15 +18029,18 @@
       "not_logged": 18
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -17642,6 +18248,7 @@
       "not_logged": 4
     },
     "temata": [
+      "dopravní prostøedek",
       "dopravní prostředek",
       "parkovací plocha",
       "silniční síť",
@@ -17880,6 +18487,7 @@
     },
     "temata": [
       "bezpečnost dopravy",
+      "dopravní pøestupek",
       "dopravní přestupek",
       "dopravní značky",
       "hromadná doprava",
@@ -18096,6 +18704,7 @@
       "informační technologie",
       "internet",
       "internetový vyhledávací stroj",
+      "nevyádaná elektronická reklama",
       "nevyžádaná elektronická reklama",
       "zpřístupňování informací"
     ]
@@ -18119,6 +18728,7 @@
       "informační technologie",
       "internet",
       "internetový vyhledávací stroj",
+      "nevyádaná elektronická reklama",
       "nevyžádaná elektronická reklama",
       "zpřístupňování informací"
     ]
@@ -18499,15 +19109,18 @@
       "not_logged": 5
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -18523,15 +19136,18 @@
       "not_logged": 5
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -18547,15 +19163,18 @@
       "not_logged": 5
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -18571,15 +19190,18 @@
       "not_logged": 4
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -18595,15 +19217,18 @@
       "not_logged": 4
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -18619,15 +19244,18 @@
       "not_logged": 4
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -18662,15 +19290,18 @@
       "not_logged": 17
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -18686,15 +19317,18 @@
       "not_logged": 8
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -18710,15 +19344,18 @@
       "not_logged": 17
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -18734,15 +19371,18 @@
       "not_logged": 15
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -18758,15 +19398,18 @@
       "not_logged": 15
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -18782,15 +19425,18 @@
       "not_logged": 14
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -18806,15 +19452,18 @@
       "not_logged": 12
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -18830,15 +19479,18 @@
       "not_logged": 11
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -18854,15 +19506,18 @@
       "not_logged": 9
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -18878,15 +19533,18 @@
       "not_logged": 9
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -18902,15 +19560,18 @@
       "not_logged": 12
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -18926,15 +19587,18 @@
       "not_logged": 28
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -18950,15 +19614,18 @@
       "not_logged": 27
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -18974,15 +19641,18 @@
       "not_logged": 27
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -18998,15 +19668,18 @@
       "not_logged": 27
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -19022,15 +19695,18 @@
       "not_logged": 27
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -19046,15 +19722,18 @@
       "not_logged": 27
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -19070,15 +19749,18 @@
       "not_logged": 27
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -19094,15 +19776,18 @@
       "not_logged": 54
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -19123,6 +19808,8 @@
       "pracovní podmínky",
       "průmyslové ekologické riziko",
       "průmyslové znečišťování",
+      "prųmyslové ekologické riziko",
+      "prųmyslové znečiování",
       "strojní zařízení",
       "technické předpisy a normy"
     ]
@@ -19145,6 +19832,8 @@
       "pracovní podmínky",
       "průmyslové ekologické riziko",
       "průmyslové znečišťování",
+      "prųmyslové ekologické riziko",
+      "prųmyslové znečiování",
       "strojní zařízení",
       "technické předpisy a normy"
     ]
@@ -19167,6 +19856,8 @@
       "pracovní podmínky",
       "průmyslové ekologické riziko",
       "průmyslové znečišťování",
+      "prųmyslové ekologické riziko",
+      "prųmyslové znečiování",
       "strojní zařízení",
       "technické předpisy a normy"
     ]
@@ -19189,6 +19880,8 @@
       "pracovní podmínky",
       "průmyslové ekologické riziko",
       "průmyslové znečišťování",
+      "prųmyslové ekologické riziko",
+      "prųmyslové znečiování",
       "strojní zařízení",
       "technické předpisy a normy"
     ]
@@ -19211,6 +19904,8 @@
       "pracovní podmínky",
       "průmyslové ekologické riziko",
       "průmyslové znečišťování",
+      "prųmyslové ekologické riziko",
+      "prųmyslové znečiování",
       "strojní zařízení",
       "technické předpisy a normy"
     ]
@@ -19233,6 +19928,8 @@
       "pracovní podmínky",
       "průmyslové ekologické riziko",
       "průmyslové znečišťování",
+      "prųmyslové ekologické riziko",
+      "prųmyslové znečiování",
       "strojní zařízení",
       "technické předpisy a normy"
     ]
@@ -19376,6 +20073,7 @@
       "not_logged": 16
     },
     "temata": [
+      "celoivotní vzdėlávání",
       "celoživotní vzdělávání",
       "odborná kvalifikace",
       "učitel",
@@ -19395,6 +20093,7 @@
       "not_logged": 15
     },
     "temata": [
+      "celoivotní vzdėlávání",
       "celoživotní vzdělávání",
       "odborná kvalifikace",
       "učitel",
@@ -19433,6 +20132,7 @@
       "not_logged": 42
     },
     "temata": [
+      "celoivotní vzdėlávání",
       "celoživotní vzdělávání",
       "odborná kvalifikace",
       "učitel",
@@ -19452,6 +20152,7 @@
       "not_logged": 27
     },
     "temata": [
+      "celoivotní vzdėlávání",
       "celoživotní vzdělávání",
       "odborná kvalifikace",
       "učitel",
@@ -19471,15 +20172,18 @@
       "not_logged": 37
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -19495,15 +20199,18 @@
       "not_logged": 27
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -19519,15 +20226,18 @@
       "not_logged": 17
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -19543,15 +20253,18 @@
       "not_logged": 18
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -19567,15 +20280,18 @@
       "not_logged": 17
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -19591,15 +20307,18 @@
       "not_logged": 15
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -19615,12 +20334,14 @@
       "not_logged": 14
     },
     "temata": [
+      "mateøství",
       "mateřství",
       "odklad výkonu trestu",
       "trestní řízení",
+      "výkon trestu",
+      "vėzeōské právo",
       "vězeňské právo",
-      "vězeňský režim",
-      "výkon trestu"
+      "vězeňský režim"
     ]
   },
   {
@@ -19636,15 +20357,18 @@
       "not_logged": 13
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -19660,15 +20384,18 @@
       "not_logged": 12
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -19684,15 +20411,18 @@
       "not_logged": 13
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -19708,15 +20438,18 @@
       "not_logged": 10
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -19732,15 +20465,18 @@
       "not_logged": 6
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -19756,15 +20492,18 @@
       "not_logged": 5
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -19780,15 +20519,18 @@
       "not_logged": 5
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -19804,15 +20546,18 @@
       "not_logged": 6
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -19908,15 +20653,18 @@
       "not_logged": 10
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -19933,8 +20681,10 @@
     },
     "temata": [
       "digitální archivace",
+      "nemzdové pøíjmy",
       "nemzdové příjmy",
       "odborná kvalifikace",
+      "pøeklad",
       "překlad",
       "seznam",
       "tlumočení"
@@ -19953,15 +20703,18 @@
       "not_logged": 40
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -19977,15 +20730,18 @@
       "not_logged": 31
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -20001,15 +20757,18 @@
       "not_logged": 31
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -20025,15 +20784,18 @@
       "not_logged": 24
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -20049,15 +20811,18 @@
       "not_logged": 24
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -20073,15 +20838,18 @@
       "not_logged": 19
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -20097,15 +20865,18 @@
       "not_logged": 19
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -20121,15 +20892,18 @@
       "not_logged": 29
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -20145,15 +20919,18 @@
       "not_logged": 28
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -20169,15 +20946,18 @@
       "not_logged": 27
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -20193,15 +20973,18 @@
       "not_logged": 23
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -20217,15 +21000,18 @@
       "not_logged": 20
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -20245,6 +21031,7 @@
       "kontrola dovozu",
       "obchodní politika",
       "produkty důlního dobývání",
+      "produkty dųlního dobývání",
       "zahraniční obchod"
     ]
   },
@@ -20265,6 +21052,7 @@
       "kontrola dovozu",
       "obchodní politika",
       "produkty důlního dobývání",
+      "produkty dųlního dobývání",
       "zahraniční obchod"
     ]
   },
@@ -20285,6 +21073,7 @@
       "kontrola dovozu",
       "obchodní politika",
       "produkty důlního dobývání",
+      "produkty dųlního dobývání",
       "zahraniční obchod"
     ]
   },
@@ -20305,6 +21094,7 @@
       "kontrola dovozu",
       "obchodní politika",
       "produkty důlního dobývání",
+      "produkty dųlního dobývání",
       "zahraniční obchod"
     ]
   },
@@ -20321,15 +21111,18 @@
       "not_logged": 27
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -20345,15 +21138,18 @@
       "not_logged": 24
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -20369,15 +21165,18 @@
       "not_logged": 20
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -20393,15 +21192,18 @@
       "not_logged": 20
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -20417,15 +21219,18 @@
       "not_logged": 20
     },
     "temata": [
-      "Česká republika",
       "kapitálová společnost",
       "konkurenceschopnost",
+      "notáø",
       "notář",
       "profesní obchodní společnost",
       "státní občanství",
       "typ podniku",
+      "veøejná obchodní společnost",
       "veřejná obchodní společnost",
-      "vztahy mezi členskými státy EU"
+      "vztahy mezi èlenskými státy EU",
+      "vztahy mezi členskými státy EU",
+      "Česká republika"
     ]
   },
   {
@@ -20903,6 +21708,7 @@
       "odměňování",
       "prémie",
       "učitel",
+      "vzdėlávání pedagogų",
       "vzdělávání pedagogů",
       "zákoník práce"
     ]
@@ -20924,6 +21730,7 @@
       "odměňování",
       "prémie",
       "učitel",
+      "vzdėlávání pedagogų",
       "vzdělávání pedagogů",
       "zákoník práce"
     ]
@@ -20945,6 +21752,7 @@
       "odměňování",
       "prémie",
       "učitel",
+      "vzdėlávání pedagogų",
       "vzdělávání pedagogů",
       "zákoník práce"
     ]
@@ -20966,6 +21774,7 @@
       "odměňování",
       "prémie",
       "učitel",
+      "vzdėlávání pedagogų",
       "vzdělávání pedagogů",
       "zákoník práce"
     ]
@@ -20986,6 +21795,7 @@
       "bezpečnost výrobku",
       "informační systém",
       "prostředky zdravotnické techniky",
+      "prostųedky zdravotnické techniky",
       "správní kontrola",
       "uvedení výrobku na trh"
     ]
@@ -21007,6 +21817,7 @@
       "odměňování",
       "prémie",
       "učitel",
+      "vzdėlávání pedagogų",
       "vzdělávání pedagogů",
       "zákoník práce"
     ]
@@ -21028,6 +21839,7 @@
       "odměňování",
       "prémie",
       "učitel",
+      "vzdėlávání pedagogų",
       "vzdělávání pedagogů",
       "zákoník práce"
     ]
@@ -21049,6 +21861,7 @@
       "odměňování",
       "prémie",
       "učitel",
+      "vzdėlávání pedagogų",
       "vzdělávání pedagogů",
       "zákoník práce"
     ]
@@ -21070,6 +21883,7 @@
       "odměňování",
       "prémie",
       "učitel",
+      "vzdėlávání pedagogų",
       "vzdělávání pedagogů",
       "zákoník práce"
     ]
@@ -21091,6 +21905,7 @@
       "odměňování",
       "prémie",
       "učitel",
+      "vzdėlávání pedagogų",
       "vzdělávání pedagogů",
       "zákoník práce"
     ]
@@ -21112,6 +21927,7 @@
       "odměňování",
       "prémie",
       "učitel",
+      "vzdėlávání pedagogų",
       "vzdělávání pedagogů",
       "zákoník práce"
     ]
@@ -21133,6 +21949,7 @@
       "odměňování",
       "prémie",
       "učitel",
+      "vzdėlávání pedagogų",
       "vzdělávání pedagogů",
       "zákoník práce"
     ]
@@ -22095,12 +22912,13 @@
     },
     "temata": [
       "potravinová norma",
+      "uitková voda",
       "užitková voda",
       "veřejná hygiena",
       "voda",
-      "zdraví veřejnosti",
       "zdravotnická služba",
-      "zdravotní inspekce"
+      "zdravotní inspekce",
+      "zdraví veřejnosti"
     ]
   },
   {
@@ -22217,12 +23035,13 @@
     },
     "temata": [
       "potravinová norma",
+      "uitková voda",
       "užitková voda",
       "veřejná hygiena",
       "voda",
-      "zdraví veřejnosti",
       "zdravotnická služba",
-      "zdravotní inspekce"
+      "zdravotní inspekce",
+      "zdraví veřejnosti"
     ]
   },
   {
@@ -22239,12 +23058,13 @@
     },
     "temata": [
       "potravinová norma",
+      "uitková voda",
       "užitková voda",
       "veřejná hygiena",
       "voda",
-      "zdraví veřejnosti",
       "zdravotnická služba",
-      "zdravotní inspekce"
+      "zdravotní inspekce",
+      "zdraví veřejnosti"
     ]
   },
   {
@@ -22948,6 +23768,7 @@
       "daňové orgány",
       "daňové právo",
       "daňový trestný čin",
+      "daōový trestný čin",
       "elektronická správa",
       "penále",
       "pokuta"
@@ -23202,6 +24023,7 @@
     "temata": [
       "ratifikace dohody",
       "regulace rybolovu",
+      "rybáøská loï",
       "rybářská loď",
       "velryba"
     ]
@@ -23240,6 +24062,7 @@
     "temata": [
       "ratifikace dohody",
       "regulace rybolovu",
+      "rybáøská loï",
       "rybářská loď",
       "velryba"
     ]
@@ -23257,10 +24080,11 @@
       "not_logged": 15
     },
     "temata": [
-      "Česká republika",
+      "Kyrgyzstán",
       "daňová úmluva",
+      "daōová úmluva",
       "dvojí zdanění",
-      "Kyrgyzstán"
+      "Česká republika"
     ]
   },
   {
@@ -23491,12 +24315,13 @@
       "not_logged": 9
     },
     "temata": [
-      "Česká republika",
+      "Unesco",
       "dopování",
+      "povzbuzující prostøedek",
       "povzbuzující prostředek",
       "profesionální sport",
       "sport",
-      "Unesco"
+      "Česká republika"
     ]
   },
   {
@@ -23550,10 +24375,11 @@
       "not_logged": 9
     },
     "temata": [
-      "Česká republika",
+      "Kyrgyzstán",
       "daňová úmluva",
+      "daōová úmluva",
       "dvojí zdanění",
-      "Kyrgyzstán"
+      "Česká republika"
     ]
   },
   {
@@ -23569,10 +24395,11 @@
       "not_logged": 9
     },
     "temata": [
-      "Česká republika",
+      "Kyrgyzstán",
       "daňová úmluva",
+      "daōová úmluva",
       "dvojí zdanění",
-      "Kyrgyzstán"
+      "Česká republika"
     ]
   },
   {
@@ -23609,6 +24436,7 @@
     "temata": [
       "ratifikace dohody",
       "regulace rybolovu",
+      "rybáøská loï",
       "rybářská loď",
       "velryba"
     ]
@@ -23626,8 +24454,10 @@
       "not_logged": 6
     },
     "temata": [
-      "soudní přezkum",
+      "soud vyí instance",
       "soud vyšší instance",
+      "soudní pøezkum",
+      "soudní přezkum",
       "správní odvolání",
       "správní soud"
     ]
@@ -23645,8 +24475,10 @@
       "not_logged": 5
     },
     "temata": [
-      "soudní přezkum",
+      "soud vyí instance",
       "soud vyšší instance",
+      "soudní pøezkum",
+      "soudní přezkum",
       "správní odvolání",
       "správní soud"
     ]
@@ -23664,8 +24496,10 @@
       "not_logged": 5
     },
     "temata": [
-      "soudní přezkum",
+      "soud vyí instance",
       "soud vyšší instance",
+      "soudní pøezkum",
+      "soudní přezkum",
       "správní odvolání",
       "správní soud"
     ]
@@ -23975,11 +24809,15 @@
     },
     "temata": [
       "chov zvířat",
+      "kruté a poniující zacházení",
       "kruté a ponižující zacházení",
       "ochrana zvířat",
+      "péče o pohodu zvíøat",
       "péče o pohodu zvířat",
       "trestní odpovědnost",
+      "trestnķ odpovģdnost",
       "umělá inseminace",
+      "zdraví zvíøat",
       "zdraví zvířat"
     ]
   },
@@ -23997,11 +24835,15 @@
     },
     "temata": [
       "chov zvířat",
+      "kruté a poniující zacházení",
       "kruté a ponižující zacházení",
       "ochrana zvířat",
+      "péče o pohodu zvíøat",
       "péče o pohodu zvířat",
       "trestní odpovědnost",
+      "trestnķ odpovģdnost",
       "umělá inseminace",
+      "zdraví zvíøat",
       "zdraví zvířat"
     ]
   },
@@ -24341,6 +25183,7 @@
       "not_logged": 10
     },
     "temata": [
+      "mėstská policie",
       "městská policie",
       "policie",
       "povinnosti úředníka",
@@ -24439,6 +25282,7 @@
     "temata": [
       "dopravce",
       "osobní doprava",
+      "pøeprava nebezpečného nákladu",
       "přeprava nebezpečného nákladu",
       "silniční doprava",
       "taxi"
@@ -24626,6 +25470,7 @@
       "obligace",
       "průměrná cena",
       "služebnost",
+      "trní cena",
       "tržní cena",
       "vlastnictví"
     ]
@@ -24647,8 +25492,9 @@
       "pracovní právo",
       "předmět podnikání",
       "rovné zacházení",
-      "zákoník práce",
-      "zaměstnanec"
+      "zamìstnanec",
+      "zaměstnanec",
+      "zákoník práce"
     ]
   },
   {
@@ -24668,8 +25514,9 @@
       "pracovní právo",
       "předmět podnikání",
       "rovné zacházení",
-      "zákoník práce",
-      "zaměstnanec"
+      "zamìstnanec",
+      "zaměstnanec",
+      "zákoník práce"
     ]
   },
   {
@@ -24836,8 +25683,10 @@
       "centrální banka",
       "finanční politika",
       "finanční situace",
+      "mėnová politika",
       "měnová politika",
       "rozpočtová stabilita",
+      "stabilizace hospodáøství",
       "stabilizace hospodářství",
       "zpráva o činnosti"
     ]
@@ -24858,8 +25707,10 @@
       "centrální banka",
       "finanční politika",
       "finanční situace",
+      "mėnová politika",
       "měnová politika",
       "rozpočtová stabilita",
+      "stabilizace hospodáøství",
       "stabilizace hospodářství",
       "zpráva o činnosti"
     ]
@@ -24881,8 +25732,9 @@
       "pracovní právo",
       "předmět podnikání",
       "rovné zacházení",
-      "zákoník práce",
-      "zaměstnanec"
+      "zamìstnanec",
+      "zaměstnanec",
+      "zákoník práce"
     ]
   },
   {
@@ -24901,8 +25753,9 @@
       "informační systém",
       "internet",
       "legislativa",
-      "úřední list",
-      "územní samospráva"
+      "územní samospráva",
+      "úøední list",
+      "úřední list"
     ]
   },
   {
@@ -24921,8 +25774,9 @@
       "informační systém",
       "internet",
       "legislativa",
-      "úřední list",
-      "územní samospráva"
+      "územní samospráva",
+      "úøední list",
+      "úřední list"
     ]
   },
   {
@@ -24942,8 +25796,9 @@
       "pracovní právo",
       "předmět podnikání",
       "rovné zacházení",
-      "zákoník práce",
-      "zaměstnanec"
+      "zamìstnanec",
+      "zaměstnanec",
+      "zákoník práce"
     ]
   },
   {
@@ -24963,8 +25818,9 @@
       "pracovní právo",
       "předmět podnikání",
       "rovné zacházení",
-      "zákoník práce",
-      "zaměstnanec"
+      "zamìstnanec",
+      "zaměstnanec",
+      "zákoník práce"
     ]
   },
   {
@@ -24984,8 +25840,9 @@
       "pracovní právo",
       "předmět podnikání",
       "rovné zacházení",
-      "zákoník práce",
-      "zaměstnanec"
+      "zamìstnanec",
+      "zaměstnanec",
+      "zákoník práce"
     ]
   },
   {
@@ -25004,8 +25861,9 @@
       "informační systém",
       "internet",
       "legislativa",
-      "úřední list",
-      "územní samospráva"
+      "územní samospráva",
+      "úøední list",
+      "úřední list"
     ]
   },
   {
@@ -25024,8 +25882,9 @@
       "informační systém",
       "internet",
       "legislativa",
-      "úřední list",
-      "územní samospráva"
+      "územní samospráva",
+      "úøední list",
+      "úřední list"
     ]
   },
   {
@@ -25044,8 +25903,9 @@
       "informační systém",
       "internet",
       "legislativa",
-      "úřední list",
-      "územní samospráva"
+      "územní samospráva",
+      "úøední list",
+      "úřední list"
     ]
   },
   {
@@ -25064,8 +25924,9 @@
       "informační systém",
       "internet",
       "legislativa",
-      "úřední list",
-      "územní samospráva"
+      "územní samospráva",
+      "úøední list",
+      "úřední list"
     ]
   },
   {
@@ -25161,8 +26022,9 @@
       "pracovní právo",
       "předmět podnikání",
       "rovné zacházení",
-      "zákoník práce",
-      "zaměstnanec"
+      "zamìstnanec",
+      "zaměstnanec",
+      "zákoník práce"
     ]
   },
   {
@@ -25182,8 +26044,9 @@
       "pracovní právo",
       "předmět podnikání",
       "rovné zacházení",
-      "zákoník práce",
-      "zaměstnanec"
+      "zamìstnanec",
+      "zaměstnanec",
+      "zákoník práce"
     ]
   },
   {
@@ -25203,8 +26066,9 @@
       "pracovní právo",
       "předmět podnikání",
       "rovné zacházení",
-      "zákoník práce",
-      "zaměstnanec"
+      "zamìstnanec",
+      "zaměstnanec",
+      "zákoník práce"
     ]
   },
   {
@@ -25224,8 +26088,9 @@
       "pracovní právo",
       "předmět podnikání",
       "rovné zacházení",
-      "zákoník práce",
-      "zaměstnanec"
+      "zamìstnanec",
+      "zaměstnanec",
+      "zákoník práce"
     ]
   },
   {
@@ -25979,10 +26844,12 @@
       "not_logged": 0
     },
     "temata": [
+      "pøiputėní ke zkouce",
       "připuštění ke zkoušce",
-      "školní docházka",
       "střední vzdělání",
-      "zkouška"
+      "zkouška",
+      "kolní docházka",
+      "školní docházka"
     ]
   },
   {
@@ -25998,10 +26865,12 @@
       "not_logged": 0
     },
     "temata": [
+      "pøiputėní ke zkouce",
       "připuštění ke zkoušce",
-      "školní docházka",
       "střední vzdělání",
-      "zkouška"
+      "zkouška",
+      "kolní docházka",
+      "školní docházka"
     ]
   },
   {
@@ -26017,10 +26886,12 @@
       "not_logged": 0
     },
     "temata": [
+      "pøiputėní ke zkouce",
       "připuštění ke zkoušce",
-      "školní docházka",
       "střední vzdělání",
-      "zkouška"
+      "zkouška",
+      "kolní docházka",
+      "školní docházka"
     ]
   },
   {
@@ -26678,6 +27549,7 @@
     "temata": [
       "daň z příjmů",
       "maloobchodní prodej",
+      "pøíjem – platba",
       "příjem – platba",
       "ukládání a vyhledávání informací"
     ]
@@ -26860,10 +27732,12 @@
       "not_logged": 0
     },
     "temata": [
+      "pøiputėní ke zkouce",
       "připuštění ke zkoušce",
-      "školní docházka",
       "střední vzdělání",
-      "zkouška"
+      "zkouška",
+      "kolní docházka",
+      "školní docházka"
     ]
   },
   {
@@ -26879,10 +27753,12 @@
       "not_logged": 0
     },
     "temata": [
+      "pøiputėní ke zkouce",
       "připuštění ke zkoušce",
-      "školní docházka",
       "střední vzdělání",
-      "zkouška"
+      "zkouška",
+      "kolní docházka",
+      "školní docházka"
     ]
   },
   {
@@ -26898,10 +27774,12 @@
       "not_logged": 0
     },
     "temata": [
+      "pøiputėní ke zkouce",
       "připuštění ke zkoušce",
-      "školní docházka",
       "střední vzdělání",
-      "zkouška"
+      "zkouška",
+      "kolní docházka",
+      "školní docházka"
     ]
   },
   {
@@ -26917,10 +27795,12 @@
       "not_logged": 0
     },
     "temata": [
+      "pøiputėní ke zkouce",
       "připuštění ke zkoušce",
-      "školní docházka",
       "střední vzdělání",
-      "zkouška"
+      "zkouška",
+      "kolní docházka",
+      "školní docházka"
     ]
   },
   {
@@ -26936,10 +27816,12 @@
       "not_logged": 0
     },
     "temata": [
+      "pøiputėní ke zkouce",
       "připuštění ke zkoušce",
-      "školní docházka",
       "střední vzdělání",
-      "zkouška"
+      "zkouška",
+      "kolní docházka",
+      "školní docházka"
     ]
   },
   {
@@ -26955,10 +27837,12 @@
       "not_logged": 0
     },
     "temata": [
+      "pøiputėní ke zkouce",
       "připuštění ke zkoušce",
-      "školní docházka",
       "střední vzdělání",
-      "zkouška"
+      "zkouška",
+      "kolní docházka",
+      "školní docházka"
     ]
   },
   {
@@ -26974,10 +27858,12 @@
       "not_logged": 0
     },
     "temata": [
+      "pøiputėní ke zkouce",
       "připuštění ke zkoušce",
-      "školní docházka",
       "střední vzdělání",
-      "zkouška"
+      "zkouška",
+      "kolní docházka",
+      "školní docházka"
     ]
   },
   {
@@ -27549,6 +28435,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -27568,6 +28455,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -27587,6 +28475,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -27606,6 +28495,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -27625,6 +28515,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -27644,6 +28535,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -27663,6 +28555,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -27682,6 +28575,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -27824,6 +28718,7 @@
       "not_logged": 0
     },
     "temata": [
+      "dopravní prostøedek",
       "dopravní prostředek",
       "parkovací plocha",
       "silniční síť",
@@ -27843,6 +28738,7 @@
       "not_logged": 0
     },
     "temata": [
+      "dopravní prostøedek",
       "dopravní prostředek",
       "parkovací plocha",
       "silniční síť",
@@ -27862,6 +28758,7 @@
       "not_logged": 0
     },
     "temata": [
+      "dopravní prostøedek",
       "dopravní prostředek",
       "parkovací plocha",
       "silniční síť",
@@ -27884,6 +28781,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -27903,6 +28801,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -27922,6 +28821,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -27941,6 +28841,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -27960,6 +28861,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -27979,6 +28881,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -27998,6 +28901,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -28017,6 +28921,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -28036,6 +28941,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -28055,6 +28961,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -28074,6 +28981,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -28093,6 +29001,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -28112,6 +29021,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -28131,6 +29041,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -28150,6 +29061,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -28169,6 +29081,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -28188,6 +29101,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -28207,6 +29121,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -28226,6 +29141,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -28245,6 +29161,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -28264,6 +29181,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -28283,6 +29201,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -28302,6 +29221,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -28321,6 +29241,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -28340,6 +29261,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -28359,6 +29281,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -28378,6 +29301,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -28397,6 +29321,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -28416,6 +29341,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -28435,6 +29361,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -28454,6 +29381,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -28473,6 +29401,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -28492,6 +29421,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -28511,6 +29441,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -28635,12 +29566,17 @@
       "not_logged": 0
     },
     "temata": [
+      "hypotekární úvėr",
       "hypotekární úvěr",
+      "koupė na splátky",
       "koupě na splátky",
       "ochranná podmínka",
       "platební lhůta",
+      "platební lhųta",
       "půjčka",
+      "pųjčka",
       "spotřební úvěr",
+      "úvėr",
       "úvěr"
     ]
   },
@@ -28819,6 +29755,7 @@
       "not_logged": 0
     },
     "temata": [
+      "dopravní prostøedek",
       "dopravní prostředek",
       "parkovací plocha",
       "silniční síť",
@@ -28838,6 +29775,7 @@
       "not_logged": 0
     },
     "temata": [
+      "dopravní prostøedek",
       "dopravní prostředek",
       "parkovací plocha",
       "silniční síť",
@@ -28858,9 +29796,11 @@
     },
     "temata": [
       "epidemie",
+      "ochrana pracovních pøíleitostí",
       "ochrana pracovních příležitostí",
       "podpora zaměstnanosti",
       "politika zaměstnanosti",
+      "správní opatøení",
       "správní opatření",
       "zprostředkovatelna práce"
     ]
@@ -28878,6 +29818,7 @@
       "not_logged": 0
     },
     "temata": [
+      "mėstská policie",
       "městská policie",
       "policie",
       "povinnosti úředníka",
@@ -28898,6 +29839,7 @@
       "not_logged": 0
     },
     "temata": [
+      "mėstská policie",
       "městská policie",
       "policie",
       "povinnosti úředníka",
@@ -28918,6 +29860,7 @@
       "not_logged": 0
     },
     "temata": [
+      "mėstská policie",
       "městská policie",
       "policie",
       "povinnosti úředníka",
@@ -28938,6 +29881,7 @@
       "not_logged": 0
     },
     "temata": [
+      "mėstská policie",
       "městská policie",
       "policie",
       "povinnosti úředníka",
@@ -28958,6 +29902,7 @@
       "not_logged": 0
     },
     "temata": [
+      "mėstská policie",
       "městská policie",
       "policie",
       "povinnosti úředníka",
@@ -28978,6 +29923,7 @@
       "not_logged": 0
     },
     "temata": [
+      "mėstská policie",
       "městská policie",
       "policie",
       "povinnosti úředníka",
@@ -28998,6 +29944,7 @@
       "not_logged": 0
     },
     "temata": [
+      "mėstská policie",
       "městská policie",
       "policie",
       "povinnosti úředníka",
@@ -29018,6 +29965,7 @@
       "not_logged": 0
     },
     "temata": [
+      "mėstská policie",
       "městská policie",
       "policie",
       "povinnosti úředníka",
@@ -29038,6 +29986,7 @@
       "not_logged": 0
     },
     "temata": [
+      "mėstská policie",
       "městská policie",
       "policie",
       "povinnosti úředníka",
@@ -29058,6 +30007,7 @@
       "not_logged": 0
     },
     "temata": [
+      "mėstská policie",
       "městská policie",
       "policie",
       "povinnosti úředníka",
@@ -29078,6 +30028,7 @@
       "not_logged": 0
     },
     "temata": [
+      "mėstská policie",
       "městská policie",
       "policie",
       "povinnosti úředníka",
@@ -29098,6 +30049,7 @@
       "not_logged": 0
     },
     "temata": [
+      "mėstská policie",
       "městská policie",
       "policie",
       "povinnosti úředníka",
@@ -29118,6 +30070,7 @@
       "not_logged": 0
     },
     "temata": [
+      "mėstská policie",
       "městská policie",
       "policie",
       "povinnosti úředníka",
@@ -29138,6 +30091,7 @@
       "not_logged": 1
     },
     "temata": [
+      "mėstská policie",
       "městská policie",
       "policie",
       "povinnosti úředníka",
@@ -29158,6 +30112,7 @@
       "not_logged": 1
     },
     "temata": [
+      "mėstská policie",
       "městská policie",
       "policie",
       "povinnosti úředníka",
@@ -29178,6 +30133,7 @@
       "not_logged": 1
     },
     "temata": [
+      "mėstská policie",
       "městská policie",
       "policie",
       "povinnosti úředníka",
@@ -29198,6 +30154,7 @@
       "not_logged": 1
     },
     "temata": [
+      "mėstská policie",
       "městská policie",
       "policie",
       "povinnosti úředníka",
@@ -29218,6 +30175,7 @@
       "not_logged": 1
     },
     "temata": [
+      "mėstská policie",
       "městská policie",
       "policie",
       "povinnosti úředníka",
@@ -29238,6 +30196,7 @@
       "not_logged": 1
     },
     "temata": [
+      "mėstská policie",
       "městská policie",
       "policie",
       "povinnosti úředníka",
@@ -29260,7 +30219,9 @@
     "temata": [
       "centrální banka",
       "finanèní trh",
+      "finanční trh",
       "mìnová politika",
+      "mėnová politika",
       "volný trh"
     ]
   },
@@ -29277,6 +30238,7 @@
       "not_logged": 1
     },
     "temata": [
+      "mėstská policie",
       "městská policie",
       "policie",
       "povinnosti úředníka",
@@ -29297,6 +30259,7 @@
       "not_logged": 1
     },
     "temata": [
+      "mėstská policie",
       "městská policie",
       "policie",
       "povinnosti úředníka",
@@ -29317,6 +30280,7 @@
       "not_logged": 1
     },
     "temata": [
+      "mėstská policie",
       "městská policie",
       "policie",
       "povinnosti úředníka",
@@ -29337,6 +30301,7 @@
       "not_logged": 1
     },
     "temata": [
+      "mėstská policie",
       "městská policie",
       "policie",
       "povinnosti úředníka",
@@ -29358,7 +30323,9 @@
     },
     "temata": [
       "dluh",
+      "koupė na splátky",
       "koupě na splátky",
+      "spotøebitel",
       "spotřebitel",
       "spotřební úvěr",
       "úrok"
@@ -29377,6 +30344,7 @@
       "not_logged": 1
     },
     "temata": [
+      "mėstská policie",
       "městská policie",
       "policie",
       "povinnosti úředníka",
@@ -29397,6 +30365,7 @@
       "not_logged": 1
     },
     "temata": [
+      "mėstská policie",
       "městská policie",
       "policie",
       "povinnosti úředníka",
@@ -29417,6 +30386,7 @@
       "not_logged": 1
     },
     "temata": [
+      "mėstská policie",
       "městská policie",
       "policie",
       "povinnosti úředníka",
@@ -29458,6 +30428,7 @@
       "not_logged": 1
     },
     "temata": [
+      "mėstská policie",
       "městská policie",
       "policie",
       "povinnosti úředníka",
@@ -29478,6 +30449,7 @@
       "not_logged": 1
     },
     "temata": [
+      "mėstská policie",
       "městská policie",
       "policie",
       "povinnosti úředníka",
@@ -29498,6 +30470,7 @@
       "not_logged": 1
     },
     "temata": [
+      "mėstská policie",
       "městská policie",
       "policie",
       "povinnosti úředníka",
@@ -29541,6 +30514,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -29560,6 +30534,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -29576,6 +30551,7 @@
       "not_logged": 1
     },
     "temata": [
+      "mėstská policie",
       "městská policie",
       "policie",
       "povinnosti úředníka",
@@ -29596,6 +30572,7 @@
       "not_logged": 1
     },
     "temata": [
+      "mėstská policie",
       "městská policie",
       "policie",
       "povinnosti úředníka",
@@ -29616,6 +30593,7 @@
       "not_logged": 1
     },
     "temata": [
+      "mėstská policie",
       "městská policie",
       "policie",
       "povinnosti úředníka",
@@ -29656,6 +30634,7 @@
       "not_logged": 1
     },
     "temata": [
+      "mėstská policie",
       "městská policie",
       "policie",
       "povinnosti úředníka",
@@ -29676,6 +30655,7 @@
       "not_logged": 1
     },
     "temata": [
+      "mėstská policie",
       "městská policie",
       "policie",
       "povinnosti úředníka",
@@ -29696,6 +30676,7 @@
       "not_logged": 1
     },
     "temata": [
+      "mėstská policie",
       "městská policie",
       "policie",
       "povinnosti úředníka",
@@ -29716,6 +30697,7 @@
       "not_logged": 1
     },
     "temata": [
+      "mėstská policie",
       "městská policie",
       "policie",
       "povinnosti úředníka",
@@ -29736,6 +30718,7 @@
       "not_logged": 1
     },
     "temata": [
+      "mėstská policie",
       "městská policie",
       "policie",
       "povinnosti úředníka",
@@ -29756,6 +30739,7 @@
       "not_logged": 1
     },
     "temata": [
+      "doplnėní kvalifikace",
       "doplnění kvalifikace",
       "obchod s nemovitostmi",
       "odborná kvalifikace",
@@ -29779,6 +30763,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -29798,6 +30783,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -29817,6 +30803,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -29836,6 +30823,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -29855,6 +30843,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -29874,6 +30863,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -29893,6 +30883,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -29912,6 +30903,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -29931,6 +30923,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -29950,6 +30943,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -29969,6 +30963,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -29988,6 +30983,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -30007,6 +31003,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -30026,6 +31023,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -30046,6 +31044,7 @@
       "finanční pomoc",
       "pronájem",
       "pronájem nemovitosti",
+      "vypovėdėní smlouvy",
       "vypovědění smlouvy"
     ]
   },
@@ -30062,6 +31061,7 @@
       "not_logged": 1
     },
     "temata": [
+      "mėstská policie",
       "městská policie",
       "policie",
       "povinnosti úředníka",
@@ -30082,6 +31082,7 @@
       "not_logged": 1
     },
     "temata": [
+      "mėstská policie",
       "městská policie",
       "policie",
       "povinnosti úředníka",
@@ -30102,6 +31103,7 @@
       "not_logged": 1
     },
     "temata": [
+      "mėstská policie",
       "městská policie",
       "policie",
       "povinnosti úředníka",
@@ -30125,6 +31127,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -30144,6 +31147,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -30163,6 +31167,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -30182,6 +31187,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -30201,6 +31207,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -30217,6 +31224,7 @@
       "not_logged": 1
     },
     "temata": [
+      "mėstská policie",
       "městská policie",
       "policie",
       "povinnosti úředníka",
@@ -30479,6 +31487,7 @@
       "not_logged": 1
     },
     "temata": [
+      "mėstská policie",
       "městská policie",
       "policie",
       "povinnosti úředníka",
@@ -30521,6 +31530,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -30540,6 +31550,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -30559,6 +31570,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -30578,6 +31590,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -30597,6 +31610,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -30616,6 +31630,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -30635,6 +31650,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -30654,6 +31670,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -30673,6 +31690,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -30692,6 +31710,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -30711,6 +31730,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -30730,6 +31750,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -30749,6 +31770,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -30768,6 +31790,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -30787,6 +31810,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -30806,6 +31830,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -30825,6 +31850,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -30844,6 +31870,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -30863,6 +31890,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -30880,6 +31908,7 @@
     },
     "temata": [
       "bydlení",
+      "hypotekární úvėr",
       "hypotekární úvěr",
       "pronájem nemovitosti"
     ]
@@ -30900,6 +31929,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -30916,12 +31946,17 @@
       "not_logged": 1
     },
     "temata": [
+      "hypotekární úvėr",
       "hypotekární úvěr",
+      "koupė na splátky",
       "koupě na splátky",
       "ochranná podmínka",
       "platební lhůta",
+      "platební lhųta",
       "půjčka",
+      "pųjčka",
       "spotřební úvěr",
+      "úvėr",
       "úvěr"
     ]
   },
@@ -31111,6 +32146,7 @@
       "not_logged": 0
     },
     "temata": [
+      "doplòovací volby",
       "doplňovací volby",
       "horní komora",
       "parlamentní volby",
@@ -31130,6 +32166,7 @@
       "not_logged": 0
     },
     "temata": [
+      "doplòovací volby",
       "doplňovací volby",
       "horní komora",
       "parlamentní volby",
@@ -31149,6 +32186,7 @@
       "not_logged": 0
     },
     "temata": [
+      "doplòovací volby",
       "doplňovací volby",
       "horní komora",
       "parlamentní volby",
@@ -31168,6 +32206,7 @@
       "not_logged": 0
     },
     "temata": [
+      "doplòovací volby",
       "doplňovací volby",
       "horní komora",
       "parlamentní volby",
@@ -31187,6 +32226,7 @@
       "not_logged": 0
     },
     "temata": [
+      "doplòovací volby",
       "doplňovací volby",
       "horní komora",
       "parlamentní volby",
@@ -31206,6 +32246,7 @@
       "not_logged": 0
     },
     "temata": [
+      "doplòovací volby",
       "doplňovací volby",
       "horní komora",
       "parlamentní volby",
@@ -31936,6 +32977,7 @@
       "odměňování",
       "prémie",
       "učitel",
+      "vzdėlávání pedagogų",
       "vzdělávání pedagogů",
       "zákoník práce"
     ]
@@ -31957,6 +32999,7 @@
       "odměňování",
       "prémie",
       "učitel",
+      "vzdėlávání pedagogų",
       "vzdělávání pedagogů",
       "zákoník práce"
     ]
@@ -31978,6 +33021,7 @@
       "odměňování",
       "prémie",
       "učitel",
+      "vzdėlávání pedagogų",
       "vzdělávání pedagogů",
       "zákoník práce"
     ]
@@ -31999,6 +33043,7 @@
       "odměňování",
       "prémie",
       "učitel",
+      "vzdėlávání pedagogų",
       "vzdělávání pedagogů",
       "zákoník práce"
     ]
@@ -32034,6 +33079,7 @@
       "odměňování",
       "prémie",
       "učitel",
+      "vzdėlávání pedagogų",
       "vzdělávání pedagogů",
       "zákoník práce"
     ]
@@ -32055,6 +33101,7 @@
       "odměňování",
       "prémie",
       "učitel",
+      "vzdėlávání pedagogų",
       "vzdělávání pedagogů",
       "zákoník práce"
     ]
@@ -32076,6 +33123,7 @@
       "odměňování",
       "prémie",
       "učitel",
+      "vzdėlávání pedagogų",
       "vzdělávání pedagogů",
       "zákoník práce"
     ]
@@ -32097,6 +33145,7 @@
       "odměňování",
       "prémie",
       "učitel",
+      "vzdėlávání pedagogų",
       "vzdělávání pedagogů",
       "zákoník práce"
     ]
@@ -32118,6 +33167,7 @@
       "odměňování",
       "prémie",
       "učitel",
+      "vzdėlávání pedagogų",
       "vzdělávání pedagogů",
       "zákoník práce"
     ]
@@ -32139,6 +33189,7 @@
       "odměňování",
       "prémie",
       "učitel",
+      "vzdėlávání pedagogų",
       "vzdělávání pedagogů",
       "zákoník práce"
     ]
@@ -32178,6 +33229,7 @@
       "odměňování",
       "prémie",
       "učitel",
+      "vzdėlávání pedagogų",
       "vzdělávání pedagogů",
       "zákoník práce"
     ]
@@ -32199,6 +33251,7 @@
       "odměňování",
       "prémie",
       "učitel",
+      "vzdėlávání pedagogų",
       "vzdělávání pedagogů",
       "zákoník práce"
     ]
@@ -32220,6 +33273,7 @@
       "odměňování",
       "prémie",
       "učitel",
+      "vzdėlávání pedagogų",
       "vzdělávání pedagogů",
       "zákoník práce"
     ]
@@ -32241,6 +33295,7 @@
       "odměňování",
       "prémie",
       "učitel",
+      "vzdėlávání pedagogų",
       "vzdělávání pedagogů",
       "zákoník práce"
     ]
@@ -32262,6 +33317,7 @@
       "odměňování",
       "prémie",
       "učitel",
+      "vzdėlávání pedagogų",
       "vzdělávání pedagogů",
       "zákoník práce"
     ]
@@ -32283,6 +33339,7 @@
       "odměňování",
       "prémie",
       "učitel",
+      "vzdėlávání pedagogų",
       "vzdělávání pedagogů",
       "zákoník práce"
     ]
@@ -32304,6 +33361,7 @@
       "odměňování",
       "prémie",
       "učitel",
+      "vzdėlávání pedagogų",
       "vzdělávání pedagogů",
       "zákoník práce"
     ]
@@ -32325,6 +33383,7 @@
       "odměňování",
       "prémie",
       "učitel",
+      "vzdėlávání pedagogų",
       "vzdělávání pedagogů",
       "zákoník práce"
     ]
@@ -32346,6 +33405,7 @@
       "odměňování",
       "prémie",
       "učitel",
+      "vzdėlávání pedagogų",
       "vzdělávání pedagogů",
       "zákoník práce"
     ]
@@ -32367,6 +33427,7 @@
       "odměňování",
       "prémie",
       "učitel",
+      "vzdėlávání pedagogų",
       "vzdělávání pedagogů",
       "zákoník práce"
     ]
@@ -32388,6 +33449,7 @@
       "odměňování",
       "prémie",
       "učitel",
+      "vzdėlávání pedagogų",
       "vzdělávání pedagogů",
       "zákoník práce"
     ]
@@ -32409,6 +33471,7 @@
       "odměňování",
       "prémie",
       "učitel",
+      "vzdėlávání pedagogų",
       "vzdělávání pedagogů",
       "zákoník práce"
     ]
@@ -32426,6 +33489,7 @@
       "not_logged": 0
     },
     "temata": [
+      "oetøovatelská péče",
       "ošetřovatelská péče",
       "příspěvek na péči",
       "sociální příspěvek",
@@ -32470,6 +33534,7 @@
       "odměňování",
       "prémie",
       "učitel",
+      "vzdėlávání pedagogų",
       "vzdělávání pedagogů",
       "zákoník práce"
     ]
@@ -32488,12 +33553,13 @@
     },
     "temata": [
       "potravinová norma",
+      "uitková voda",
       "užitková voda",
       "veřejná hygiena",
       "voda",
-      "zdraví veřejnosti",
       "zdravotnická služba",
-      "zdravotní inspekce"
+      "zdravotní inspekce",
+      "zdraví veřejnosti"
     ]
   },
   {
@@ -32513,6 +33579,7 @@
       "odměňování",
       "prémie",
       "učitel",
+      "vzdėlávání pedagogų",
       "vzdělávání pedagogů",
       "zákoník práce"
     ]
@@ -32569,6 +33636,7 @@
       "daňové orgány",
       "daňové právo",
       "daňový trestný čin",
+      "daōový trestný čin",
       "elektronická správa",
       "penále",
       "pokuta"
@@ -32672,6 +33740,7 @@
     },
     "temata": [
       "bydlení",
+      "hypotekární úvėr",
       "hypotekární úvěr",
       "pronájem nemovitosti"
     ]
@@ -32690,6 +33759,7 @@
     },
     "temata": [
       "bydlení",
+      "hypotekární úvėr",
       "hypotekární úvěr",
       "pronájem nemovitosti"
     ]
@@ -32708,6 +33778,7 @@
     },
     "temata": [
       "bydlení",
+      "hypotekární úvėr",
       "hypotekární úvěr",
       "pronájem nemovitosti"
     ]
@@ -32726,6 +33797,7 @@
     },
     "temata": [
       "bydlení",
+      "hypotekární úvėr",
       "hypotekární úvěr",
       "pronájem nemovitosti"
     ]
@@ -32744,6 +33816,7 @@
     },
     "temata": [
       "bydlení",
+      "hypotekární úvėr",
       "hypotekární úvěr",
       "pronájem nemovitosti"
     ]
@@ -32916,10 +33989,12 @@
     },
     "temata": [
       "státní podpora",
-      "úvěr",
-      "úvěrová politika",
       "záruka",
-      "záruka úvěru"
+      "záruka úvěru",
+      "úvėr",
+      "úvėrová politika",
+      "úvěr",
+      "úvěrová politika"
     ]
   },
   {
@@ -32950,10 +34025,12 @@
     },
     "temata": [
       "státní podpora",
-      "úvěr",
-      "úvěrová politika",
       "záruka",
-      "záruka úvěru"
+      "záruka úvěru",
+      "úvėr",
+      "úvėrová politika",
+      "úvěr",
+      "úvěrová politika"
     ]
   },
   {
@@ -32970,10 +34047,12 @@
     },
     "temata": [
       "státní podpora",
-      "úvěr",
-      "úvěrová politika",
       "záruka",
-      "záruka úvěru"
+      "záruka úvěru",
+      "úvėr",
+      "úvėrová politika",
+      "úvěr",
+      "úvěrová politika"
     ]
   },
   {
@@ -33619,6 +34698,7 @@
       "finanční zrovnoprávnění",
       "odškodnění",
       "osoba samostatně výdělečně činná",
+      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -33636,10 +34716,12 @@
     },
     "temata": [
       "státní podpora",
-      "úvěr",
-      "úvěrová politika",
       "záruka",
-      "záruka úvěru"
+      "záruka úvěru",
+      "úvėr",
+      "úvėrová politika",
+      "úvěr",
+      "úvěrová politika"
     ]
   },
   {
@@ -33656,10 +34738,12 @@
     },
     "temata": [
       "státní podpora",
-      "úvěr",
-      "úvěrová politika",
       "záruka",
-      "záruka úvěru"
+      "záruka úvěru",
+      "úvėr",
+      "úvėrová politika",
+      "úvěr",
+      "úvěrová politika"
     ]
   },
   {
@@ -33676,10 +34760,12 @@
     },
     "temata": [
       "státní podpora",
-      "úvěr",
-      "úvěrová politika",
       "záruka",
-      "záruka úvěru"
+      "záruka úvěru",
+      "úvėr",
+      "úvėrová politika",
+      "úvěr",
+      "úvěrová politika"
     ]
   },
   {
@@ -33696,10 +34782,12 @@
     },
     "temata": [
       "státní podpora",
-      "úvěr",
-      "úvěrová politika",
       "záruka",
-      "záruka úvěru"
+      "záruka úvěru",
+      "úvėr",
+      "úvėrová politika",
+      "úvěr",
+      "úvěrová politika"
     ]
   },
   {
@@ -33716,10 +34804,12 @@
     },
     "temata": [
       "státní podpora",
-      "úvěr",
-      "úvěrová politika",
       "záruka",
-      "záruka úvěru"
+      "záruka úvěru",
+      "úvėr",
+      "úvėrová politika",
+      "úvěr",
+      "úvěrová politika"
     ]
   },
   {
@@ -33736,10 +34826,12 @@
     },
     "temata": [
       "státní podpora",
-      "úvěr",
-      "úvěrová politika",
       "záruka",
-      "záruka úvěru"
+      "záruka úvěru",
+      "úvėr",
+      "úvėrová politika",
+      "úvěr",
+      "úvěrová politika"
     ]
   },
   {
@@ -33756,10 +34848,12 @@
     },
     "temata": [
       "státní podpora",
-      "úvěr",
-      "úvěrová politika",
       "záruka",
-      "záruka úvěru"
+      "záruka úvěru",
+      "úvėr",
+      "úvėrová politika",
+      "úvěr",
+      "úvěrová politika"
     ]
   },
   {
@@ -33776,10 +34870,12 @@
     },
     "temata": [
       "státní podpora",
-      "úvěr",
-      "úvěrová politika",
       "záruka",
-      "záruka úvěru"
+      "záruka úvěru",
+      "úvėr",
+      "úvėrová politika",
+      "úvěr",
+      "úvěrová politika"
     ]
   },
   {
@@ -33796,10 +34892,12 @@
     },
     "temata": [
       "státní podpora",
-      "úvěr",
-      "úvěrová politika",
       "záruka",
-      "záruka úvěru"
+      "záruka úvěru",
+      "úvėr",
+      "úvėrová politika",
+      "úvěr",
+      "úvěrová politika"
     ]
   },
   {
@@ -33816,10 +34914,12 @@
     },
     "temata": [
       "státní podpora",
-      "úvěr",
-      "úvěrová politika",
       "záruka",
-      "záruka úvěru"
+      "záruka úvěru",
+      "úvėr",
+      "úvėrová politika",
+      "úvěr",
+      "úvěrová politika"
     ]
   },
   {
@@ -33836,10 +34936,12 @@
     },
     "temata": [
       "státní podpora",
-      "úvěr",
-      "úvěrová politika",
       "záruka",
-      "záruka úvěru"
+      "záruka úvěru",
+      "úvėr",
+      "úvėrová politika",
+      "úvěr",
+      "úvěrová politika"
     ]
   },
   {
@@ -33856,10 +34958,12 @@
     },
     "temata": [
       "státní podpora",
-      "úvěr",
-      "úvěrová politika",
       "záruka",
-      "záruka úvěru"
+      "záruka úvěru",
+      "úvėr",
+      "úvėrová politika",
+      "úvěr",
+      "úvěrová politika"
     ]
   },
   {
@@ -34064,10 +35168,11 @@
       "not_logged": 107
     },
     "temata": [
+      "daň z přidané hodnoty",
       "daňové orgány",
       "daňový poplatník",
-      "daň z přidané hodnoty",
       "podnikatel",
+      "psychologické obtėování",
       "psychologické obtěžování",
       "vybírání daní",
       "výkon rozhodnutí"
@@ -34764,6 +35869,7 @@
       "not_logged": 6
     },
     "temata": [
+      "mėstská policie",
       "městská policie",
       "policie",
       "povinnosti úředníka",
@@ -34784,6 +35890,7 @@
       "not_logged": 3
     },
     "temata": [
+      "mėstská policie",
       "městská policie",
       "policie",
       "povinnosti úředníka",
@@ -34956,6 +36063,7 @@
       "not_logged": 95
     },
     "temata": [
+      "mėstská policie",
       "městská policie",
       "policie",
       "povinnosti úředníka",
@@ -34976,6 +36084,7 @@
       "not_logged": 88
     },
     "temata": [
+      "mėstská policie",
       "městská policie",
       "policie",
       "povinnosti úředníka",
@@ -35096,9 +36205,10 @@
     "temata": [
       "hlasování",
       "referendum",
-      "ústava",
+      "veøejné hlasování",
       "veřejné hlasování",
-      "voličské právo"
+      "voličské právo",
+      "ústava"
     ]
   },
   {
@@ -35119,6 +36229,7 @@
       "obligace",
       "průměrná cena",
       "služebnost",
+      "trní cena",
       "tržní cena",
       "vlastnictví"
     ]
@@ -35141,6 +36252,7 @@
       "obligace",
       "průměrná cena",
       "služebnost",
+      "trní cena",
       "tržní cena",
       "vlastnictví"
     ]
@@ -35163,6 +36275,7 @@
       "obligace",
       "průměrná cena",
       "služebnost",
+      "trní cena",
       "tržní cena",
       "vlastnictví"
     ]
@@ -35185,6 +36298,7 @@
       "obligace",
       "průměrná cena",
       "služebnost",
+      "trní cena",
       "tržní cena",
       "vlastnictví"
     ]
@@ -35207,6 +36321,7 @@
       "obligace",
       "průměrná cena",
       "služebnost",
+      "trní cena",
       "tržní cena",
       "vlastnictví"
     ]
@@ -35229,6 +36344,7 @@
       "obligace",
       "průměrná cena",
       "služebnost",
+      "trní cena",
       "tržní cena",
       "vlastnictví"
     ]
@@ -35251,6 +36367,7 @@
       "obligace",
       "průměrná cena",
       "služebnost",
+      "trní cena",
       "tržní cena",
       "vlastnictví"
     ]
@@ -35273,6 +36390,7 @@
       "obligace",
       "průměrná cena",
       "služebnost",
+      "trní cena",
       "tržní cena",
       "vlastnictví"
     ]
@@ -35295,6 +36413,7 @@
       "obligace",
       "průměrná cena",
       "služebnost",
+      "trní cena",
       "tržní cena",
       "vlastnictví"
     ]
@@ -35317,6 +36436,7 @@
       "obligace",
       "průměrná cena",
       "služebnost",
+      "trní cena",
       "tržní cena",
       "vlastnictví"
     ]
@@ -35339,6 +36459,7 @@
       "obligace",
       "průměrná cena",
       "služebnost",
+      "trní cena",
       "tržní cena",
       "vlastnictví"
     ]
@@ -35361,6 +36482,7 @@
       "obligace",
       "průměrná cena",
       "služebnost",
+      "trní cena",
       "tržní cena",
       "vlastnictví"
     ]
@@ -35383,6 +36505,7 @@
       "obligace",
       "průměrná cena",
       "služebnost",
+      "trní cena",
       "tržní cena",
       "vlastnictví"
     ]
@@ -35405,6 +36528,7 @@
       "obligace",
       "průměrná cena",
       "služebnost",
+      "trní cena",
       "tržní cena",
       "vlastnictví"
     ]
@@ -35427,6 +36551,7 @@
       "obligace",
       "průměrná cena",
       "služebnost",
+      "trní cena",
       "tržní cena",
       "vlastnictví"
     ]
@@ -35449,6 +36574,7 @@
       "obligace",
       "průměrná cena",
       "služebnost",
+      "trní cena",
       "tržní cena",
       "vlastnictví"
     ]
@@ -35471,6 +36597,7 @@
       "obligace",
       "průměrná cena",
       "služebnost",
+      "trní cena",
       "tržní cena",
       "vlastnictví"
     ]
@@ -35493,6 +36620,7 @@
       "obligace",
       "průměrná cena",
       "služebnost",
+      "trní cena",
       "tržní cena",
       "vlastnictví"
     ]
@@ -35515,6 +36643,7 @@
       "obligace",
       "průměrná cena",
       "služebnost",
+      "trní cena",
       "tržní cena",
       "vlastnictví"
     ]
@@ -35537,6 +36666,7 @@
       "obligace",
       "průměrná cena",
       "služebnost",
+      "trní cena",
       "tržní cena",
       "vlastnictví"
     ]
@@ -35559,6 +36689,7 @@
       "obligace",
       "průměrná cena",
       "služebnost",
+      "trní cena",
       "tržní cena",
       "vlastnictví"
     ]
@@ -35581,6 +36712,7 @@
       "obligace",
       "průměrná cena",
       "služebnost",
+      "trní cena",
       "tržní cena",
       "vlastnictví"
     ]
@@ -35603,6 +36735,7 @@
       "obligace",
       "průměrná cena",
       "služebnost",
+      "trní cena",
       "tržní cena",
       "vlastnictví"
     ]
@@ -35621,12 +36754,13 @@
     },
     "temata": [
       "matematika",
-      "školní prostředí",
-      "školská legislativa",
       "střední vzdělání",
       "vysvědčení",
       "vzdělávací program",
-      "zkouška"
+      "zkouška",
+      "kolní prostøedí",
+      "školní prostředí",
+      "školská legislativa"
     ]
   },
   {
@@ -35647,6 +36781,7 @@
       "obligace",
       "průměrná cena",
       "služebnost",
+      "trní cena",
       "tržní cena",
       "vlastnictví"
     ]
@@ -35669,6 +36804,7 @@
       "obligace",
       "průměrná cena",
       "služebnost",
+      "trní cena",
       "tržní cena",
       "vlastnictví"
     ]
@@ -35691,6 +36827,7 @@
       "obligace",
       "průměrná cena",
       "služebnost",
+      "trní cena",
       "tržní cena",
       "vlastnictví"
     ]
@@ -35732,6 +36869,7 @@
       "obligace",
       "průměrná cena",
       "služebnost",
+      "trní cena",
       "tržní cena",
       "vlastnictví"
     ]
@@ -35754,6 +36892,7 @@
       "obligace",
       "průměrná cena",
       "služebnost",
+      "trní cena",
       "tržní cena",
       "vlastnictví"
     ]
@@ -35771,9 +36910,10 @@
       "not_logged": 2
     },
     "temata": [
+      "NATO",
       "armáda",
       "nadnárodní ozbrojené síly",
-      "NATO",
+      "udrování míru",
       "udržování míru",
       "vojenská spolupráce",
       "vojska v zahraničí"
@@ -35906,6 +37046,7 @@
       "not_logged": 1
     },
     "temata": [
+      "oetøovatelská péče",
       "ošetřovatelská péče",
       "příspěvek na péči",
       "sociální příspěvek",
@@ -35925,6 +37066,7 @@
       "not_logged": 1
     },
     "temata": [
+      "oetøovatelská péče",
       "ošetřovatelská péče",
       "příspěvek na péči",
       "sociální příspěvek",
@@ -35944,6 +37086,7 @@
       "not_logged": 1
     },
     "temata": [
+      "oetøovatelská péče",
       "ošetřovatelská péče",
       "příspěvek na péči",
       "sociální příspěvek",
@@ -35963,6 +37106,7 @@
       "not_logged": 1
     },
     "temata": [
+      "oetøovatelská péče",
       "ošetřovatelská péče",
       "příspěvek na péči",
       "sociální příspěvek",
@@ -35982,6 +37126,7 @@
       "not_logged": 1
     },
     "temata": [
+      "oetøovatelská péče",
       "ošetřovatelská péče",
       "příspěvek na péči",
       "sociální příspěvek",
@@ -36001,6 +37146,7 @@
       "not_logged": 1
     },
     "temata": [
+      "oetøovatelská péče",
       "ošetřovatelská péče",
       "příspěvek na péči",
       "sociální příspěvek",
@@ -36023,7 +37169,8 @@
       "kulturní akce",
       "odškodnění",
       "peníze",
-      "zábavní průmysl"
+      "zábavní průmysl",
+      "zábavní prųmysl"
     ]
   },
   {
@@ -36039,6 +37186,7 @@
       "not_logged": 1
     },
     "temata": [
+      "oetøovatelská péče",
       "ošetřovatelská péče",
       "příspěvek na péči",
       "sociální příspěvek",
@@ -36063,6 +37211,7 @@
       "obligace",
       "průměrná cena",
       "služebnost",
+      "trní cena",
       "tržní cena",
       "vlastnictví"
     ]
@@ -36085,6 +37234,7 @@
       "obligace",
       "průměrná cena",
       "služebnost",
+      "trní cena",
       "tržní cena",
       "vlastnictví"
     ]
@@ -36107,6 +37257,7 @@
       "obligace",
       "průměrná cena",
       "služebnost",
+      "trní cena",
       "tržní cena",
       "vlastnictví"
     ]
@@ -36129,6 +37280,7 @@
       "obligace",
       "průměrná cena",
       "služebnost",
+      "trní cena",
       "tržní cena",
       "vlastnictví"
     ]
@@ -36151,6 +37303,7 @@
       "obligace",
       "průměrná cena",
       "služebnost",
+      "trní cena",
       "tržní cena",
       "vlastnictví"
     ]
@@ -36173,6 +37326,7 @@
       "obligace",
       "průměrná cena",
       "služebnost",
+      "trní cena",
       "tržní cena",
       "vlastnictví"
     ]
@@ -36195,6 +37349,7 @@
       "obligace",
       "průměrná cena",
       "služebnost",
+      "trní cena",
       "tržní cena",
       "vlastnictví"
     ]
@@ -36217,6 +37372,7 @@
       "obligace",
       "průměrná cena",
       "služebnost",
+      "trní cena",
       "tržní cena",
       "vlastnictví"
     ]
@@ -36239,6 +37395,7 @@
       "obligace",
       "průměrná cena",
       "služebnost",
+      "trní cena",
       "tržní cena",
       "vlastnictví"
     ]
@@ -36261,6 +37418,7 @@
       "obligace",
       "průměrná cena",
       "služebnost",
+      "trní cena",
       "tržní cena",
       "vlastnictví"
     ]
@@ -36283,6 +37441,7 @@
       "obligace",
       "průměrná cena",
       "služebnost",
+      "trní cena",
       "tržní cena",
       "vlastnictví"
     ]
@@ -36305,6 +37464,7 @@
       "obligace",
       "průměrná cena",
       "služebnost",
+      "trní cena",
       "tržní cena",
       "vlastnictví"
     ]
@@ -36322,12 +37482,13 @@
       "not_logged": 1
     },
     "temata": [
-      "daňový systém",
       "daň z příjmů",
+      "daňový systém",
       "maloobchodní prodej",
+      "pøíjem – platba",
       "příjem – platba",
-      "účetnictví",
-      "ukládání a vyhledávání informací"
+      "ukládání a vyhledávání informací",
+      "účetnictví"
     ]
   },
   {
@@ -36348,6 +37509,7 @@
       "obligace",
       "průměrná cena",
       "služebnost",
+      "trní cena",
       "tržní cena",
       "vlastnictví"
     ]
@@ -36370,6 +37532,7 @@
       "obligace",
       "průměrná cena",
       "služebnost",
+      "trní cena",
       "tržní cena",
       "vlastnictví"
     ]
@@ -36392,6 +37555,7 @@
       "obligace",
       "průměrná cena",
       "služebnost",
+      "trní cena",
       "tržní cena",
       "vlastnictví"
     ]
@@ -36414,6 +37578,7 @@
       "obligace",
       "průměrná cena",
       "služebnost",
+      "trní cena",
       "tržní cena",
       "vlastnictví"
     ]
@@ -36436,6 +37601,7 @@
       "obligace",
       "průměrná cena",
       "služebnost",
+      "trní cena",
       "tržní cena",
       "vlastnictví"
     ]
@@ -36458,6 +37624,7 @@
       "obligace",
       "průměrná cena",
       "služebnost",
+      "trní cena",
       "tržní cena",
       "vlastnictví"
     ]
@@ -36480,6 +37647,7 @@
       "obligace",
       "průměrná cena",
       "služebnost",
+      "trní cena",
       "tržní cena",
       "vlastnictví"
     ]
@@ -36502,6 +37670,7 @@
       "obligace",
       "průměrná cena",
       "služebnost",
+      "trní cena",
       "tržní cena",
       "vlastnictví"
     ]
@@ -36524,6 +37693,7 @@
       "obligace",
       "průměrná cena",
       "služebnost",
+      "trní cena",
       "tržní cena",
       "vlastnictví"
     ]
@@ -36565,6 +37735,7 @@
       "obligace",
       "průměrná cena",
       "služebnost",
+      "trní cena",
       "tržní cena",
       "vlastnictví"
     ]
@@ -36641,9 +37812,12 @@
     "temata": [
       "mzda",
       "mzdové náklady",
+      "ochrana pracovních pøíleitostí",
       "ochrana pracovních příležitostí",
       "pracovní právo",
       "solventnost",
+      "zamìstnanec",
+      "zamìstnavatel",
       "zaměstnanec",
       "zaměstnavatel",
       "záruka"
@@ -36679,6 +37853,7 @@
       "ropa",
       "strategická rezerva",
       "ukládání energie",
+      "veøejný sektor",
       "veřejný sektor"
     ]
   },

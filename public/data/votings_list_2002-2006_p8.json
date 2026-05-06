@@ -272,6 +272,7 @@
       "adopce dítěte",
       "evidence obyvatelstva",
       "informační systém",
+      "omezené íøení informací",
       "omezené šíření informací",
       "osobní údaje",
       "trvalý pobyt",
@@ -297,6 +298,7 @@
       "adopce dítěte",
       "evidence obyvatelstva",
       "informační systém",
+      "omezené íøení informací",
       "omezené šíření informací",
       "osobní údaje",
       "trvalý pobyt",
@@ -322,6 +324,7 @@
       "adopce dítěte",
       "evidence obyvatelstva",
       "informační systém",
+      "omezené íøení informací",
       "omezené šíření informací",
       "osobní údaje",
       "trvalý pobyt",
@@ -347,6 +350,7 @@
       "adopce dítěte",
       "evidence obyvatelstva",
       "informační systém",
+      "omezené íøení informací",
       "omezené šíření informací",
       "osobní údaje",
       "trvalý pobyt",
@@ -372,6 +376,7 @@
       "adopce dítěte",
       "evidence obyvatelstva",
       "informační systém",
+      "omezené íøení informací",
       "omezené šíření informací",
       "osobní údaje",
       "trvalý pobyt",
@@ -397,6 +402,7 @@
       "adopce dítěte",
       "evidence obyvatelstva",
       "informační systém",
+      "omezené íøení informací",
       "omezené šíření informací",
       "osobní údaje",
       "trvalý pobyt",
@@ -422,6 +428,7 @@
       "adopce dítěte",
       "evidence obyvatelstva",
       "informační systém",
+      "omezené íøení informací",
       "omezené šíření informací",
       "osobní údaje",
       "trvalý pobyt",
@@ -447,6 +454,7 @@
       "adopce dítěte",
       "evidence obyvatelstva",
       "informační systém",
+      "omezené íøení informací",
       "omezené šíření informací",
       "osobní údaje",
       "trvalý pobyt",
@@ -472,6 +480,7 @@
       "adopce dítěte",
       "evidence obyvatelstva",
       "informační systém",
+      "omezené íøení informací",
       "omezené šíření informací",
       "osobní údaje",
       "trvalý pobyt",
@@ -497,6 +506,7 @@
       "adopce dítěte",
       "evidence obyvatelstva",
       "informační systém",
+      "omezené íøení informací",
       "omezené šíření informací",
       "osobní údaje",
       "trvalý pobyt",
@@ -522,6 +532,7 @@
       "adopce dítěte",
       "evidence obyvatelstva",
       "informační systém",
+      "omezené íøení informací",
       "omezené šíření informací",
       "osobní údaje",
       "trvalý pobyt",
@@ -547,6 +558,7 @@
       "adopce dítěte",
       "evidence obyvatelstva",
       "informační systém",
+      "omezené íøení informací",
       "omezené šíření informací",
       "osobní údaje",
       "trvalý pobyt",
@@ -572,6 +584,7 @@
       "adopce dítěte",
       "evidence obyvatelstva",
       "informační systém",
+      "omezené íøení informací",
       "omezené šíření informací",
       "osobní údaje",
       "trvalý pobyt",
@@ -597,6 +610,7 @@
       "adopce dítěte",
       "evidence obyvatelstva",
       "informační systém",
+      "omezené íøení informací",
       "omezené šíření informací",
       "osobní údaje",
       "trvalý pobyt",
@@ -622,6 +636,7 @@
       "adopce dítěte",
       "evidence obyvatelstva",
       "informační systém",
+      "omezené íøení informací",
       "omezené šíření informací",
       "osobní údaje",
       "trvalý pobyt",
@@ -647,6 +662,7 @@
       "adopce dítěte",
       "evidence obyvatelstva",
       "informační systém",
+      "omezené íøení informací",
       "omezené šíření informací",
       "osobní údaje",
       "trvalý pobyt",
@@ -672,6 +688,7 @@
       "adopce dítěte",
       "evidence obyvatelstva",
       "informační systém",
+      "omezené íøení informací",
       "omezené šíření informací",
       "osobní údaje",
       "trvalý pobyt",
@@ -697,6 +714,7 @@
       "adopce dítěte",
       "evidence obyvatelstva",
       "informační systém",
+      "omezené íøení informací",
       "omezené šíření informací",
       "osobní údaje",
       "trvalý pobyt",
@@ -1610,15 +1628,17 @@
       "Ekologie",
       "Situace krizové",
       "Veterinářství",
-      "Živočichové",
       "environmentální politika",
+      "kvalita životního prostøedí",
       "kvalita životního prostředí",
+      "ministerská odpovėdnost",
       "ministerská odpovědnost",
       "náklady za znečištění",
       "přibližování legislativy",
       "sledování životního prostředí",
       "vliv na životní prostředí",
-      "znečišťování životního prostředí"
+      "znečišťování životního prostředí",
+      "Živočichové"
     ]
   },
   {
@@ -1634,18 +1654,19 @@
       "not_logged": 35
     },
     "temata": [
-      "Řád trestní",
-      "Rejstřík trestů",
       "Informační služby",
       "Národní hospodářství",
       "Občan",
       "Politika",
+      "Rejstøík trestų",
+      "Rejstřík trestů",
       "Státní správa a justice",
       "evropský soudní prostor",
       "policejní spolupráce (EU)",
-      "soudní řízení",
       "soudní spolupráce",
-      "trestní řízení"
+      "soudní řízení",
+      "trestní řízení",
+      "Řád trestní"
     ]
   },
   {
@@ -1661,18 +1682,19 @@
       "not_logged": 34
     },
     "temata": [
-      "Řád trestní",
-      "Rejstřík trestů",
       "Informační služby",
       "Národní hospodářství",
       "Občan",
       "Politika",
+      "Rejstøík trestų",
+      "Rejstřík trestů",
       "Státní správa a justice",
       "evropský soudní prostor",
       "policejní spolupráce (EU)",
-      "soudní řízení",
       "soudní spolupráce",
-      "trestní řízení"
+      "soudní řízení",
+      "trestní řízení",
+      "Řád trestní"
     ]
   },
   {
@@ -1688,18 +1710,19 @@
       "not_logged": 32
     },
     "temata": [
-      "Řád trestní",
-      "Rejstřík trestů",
       "Informační služby",
       "Národní hospodářství",
       "Občan",
       "Politika",
+      "Rejstøík trestų",
+      "Rejstřík trestů",
       "Státní správa a justice",
       "evropský soudní prostor",
       "policejní spolupráce (EU)",
-      "soudní řízení",
       "soudní spolupráce",
-      "trestní řízení"
+      "soudní řízení",
+      "trestní řízení",
+      "Řád trestní"
     ]
   },
   {
@@ -1715,18 +1738,19 @@
       "not_logged": 36
     },
     "temata": [
-      "Řád trestní",
-      "Rejstřík trestů",
       "Informační služby",
       "Národní hospodářství",
       "Občan",
       "Politika",
+      "Rejstøík trestų",
+      "Rejstřík trestů",
       "Státní správa a justice",
       "evropský soudní prostor",
       "policejní spolupráce (EU)",
-      "soudní řízení",
       "soudní spolupráce",
-      "trestní řízení"
+      "soudní řízení",
+      "trestní řízení",
+      "Řád trestní"
     ]
   },
   {
@@ -1743,10 +1767,12 @@
     },
     "temata": [
       "Daně a poplatky",
+      "Pøiznání k majetku",
       "Přiznání k majetku",
       "daň z bohatství",
       "daň z majetku",
       "daň z příjmu fyzických osob",
+      "daō z bohatství",
       "nabytí vlastnictví",
       "soukromý majetek",
       "vlastnictví"
@@ -1766,10 +1792,12 @@
     },
     "temata": [
       "Daně a poplatky",
+      "Pøiznání k majetku",
       "Přiznání k majetku",
       "daň z bohatství",
       "daň z majetku",
       "daň z příjmu fyzických osob",
+      "daō z bohatství",
       "nabytí vlastnictví",
       "soukromý majetek",
       "vlastnictví"
@@ -1789,10 +1817,12 @@
     },
     "temata": [
       "Daně a poplatky",
+      "Pøiznání k majetku",
       "Přiznání k majetku",
       "daň z bohatství",
       "daň z majetku",
       "daň z příjmu fyzických osob",
+      "daō z bohatství",
       "nabytí vlastnictví",
       "soukromý majetek",
       "vlastnictví"
@@ -1839,18 +1869,19 @@
       "not_logged": 50
     },
     "temata": [
-      "Řád trestní",
-      "Rejstřík trestů",
       "Informační služby",
       "Národní hospodářství",
       "Občan",
       "Politika",
+      "Rejstøík trestų",
+      "Rejstřík trestů",
       "Státní správa a justice",
       "evropský soudní prostor",
       "policejní spolupráce (EU)",
-      "soudní řízení",
       "soudní spolupráce",
-      "trestní řízení"
+      "soudní řízení",
+      "trestní řízení",
+      "Řád trestní"
     ]
   },
   {
@@ -1866,18 +1897,19 @@
       "not_logged": 59
     },
     "temata": [
-      "Řád trestní",
-      "Rejstřík trestů",
       "Informační služby",
       "Národní hospodářství",
       "Občan",
       "Politika",
+      "Rejstøík trestų",
+      "Rejstřík trestů",
       "Státní správa a justice",
       "evropský soudní prostor",
       "policejní spolupráce (EU)",
-      "soudní řízení",
       "soudní spolupráce",
-      "trestní řízení"
+      "soudní řízení",
+      "trestní řízení",
+      "Řád trestní"
     ]
   },
   {
@@ -1953,15 +1985,17 @@
       "Ekologie",
       "Situace krizové",
       "Veterinářství",
-      "Živočichové",
       "environmentální politika",
+      "kvalita životního prostøedí",
       "kvalita životního prostředí",
+      "ministerská odpovėdnost",
       "ministerská odpovědnost",
       "náklady za znečištění",
       "přibližování legislativy",
       "sledování životního prostředí",
       "vliv na životní prostředí",
-      "znečišťování životního prostředí"
+      "znečišťování životního prostředí",
+      "Živočichové"
     ]
   },
   {
@@ -2131,17 +2165,18 @@
       "not_logged": 13
     },
     "temata": [
+      "Pracovní síla",
+      "Vztahy pracovnėprávní",
       "Vztahy pracovněprávní",
       "Zákoník práce",
-      "Pracovní síla",
       "ochrana práv a svobod",
       "odměňování",
       "pracovní doba",
       "pracovní podmínky",
       "pracovní právo",
       "právo na informace",
-      "zákoník práce",
-      "zákonné pracovní podmínky"
+      "zákonné pracovní podmínky",
+      "zákoník práce"
     ]
   },
   {
@@ -2184,6 +2219,7 @@
     },
     "temata": [
       "Daně a poplatky",
+      "Draby",
       "Dražby",
       "Rozpočet",
       "Správa obcí a měst",
@@ -2325,12 +2361,13 @@
       "not_logged": 26
     },
     "temata": [
-      "Obchod a služby",
-      "Právo zástavní",
       "Národní hospodářství",
+      "Obchod a služby",
       "Občan",
+      "Právo zástavní",
       "obchodní pravidla",
       "otevírací doba",
+      "pouité zboí",
       "použité zboží"
     ]
   },
@@ -2348,12 +2385,16 @@
     },
     "temata": [
       "Péèe o zdraví",
+      "Péče o zdraví",
       "dokumentace",
       "doplnìk stravy",
+      "doplněk stravy",
+      "lidská výiva",
+      "lidská výživa",
       "lék",
       "lékaøské údaje",
-      "lidská výživa",
-      "zdraví veøejnosti"
+      "zdraví veøejnosti",
+      "zdraví veřejnosti"
     ]
   },
   {
@@ -2397,12 +2438,15 @@
     "temata": [
       "Bezpečnost práce",
       "Péče o zdraví",
+      "Vztahy pracovnėprávní",
       "Vztahy pracovněprávní",
       "Zákoník práce",
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
+      "zamìstnavatel",
       "zaměstnavatel",
+      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -2445,12 +2489,13 @@
       "not_logged": 29
     },
     "temata": [
-      "Obchod a služby",
-      "Právo zástavní",
       "Národní hospodářství",
+      "Obchod a služby",
       "Občan",
+      "Právo zástavní",
       "obchodní pravidla",
       "otevírací doba",
+      "pouité zboí",
       "použité zboží"
     ]
   },
@@ -2546,16 +2591,18 @@
     },
     "temata": [
       "Majetek České republiky",
-      "Odbory",
-      "Vztahy vlastnické",
       "Národní hospodářství",
       "Občan",
+      "Odbory",
       "Politika",
       "Státní správa a justice",
+      "Vztahy vlastnické",
       "nemovitý majetek",
       "odborový svaz",
+      "pùda ve vlastnictví státu",
       "převod vlastnictví",
       "půda ve vlastnictví státu",
+      "sdruení",
       "sdružení",
       "sociální zařízení",
       "systém vlastnictví půdy",
@@ -2603,12 +2650,16 @@
     },
     "temata": [
       "Péèe o zdraví",
+      "Péče o zdraví",
       "dokumentace",
       "doplnìk stravy",
+      "doplněk stravy",
+      "lidská výiva",
+      "lidská výživa",
       "lék",
       "lékaøské údaje",
-      "lidská výživa",
-      "zdraví veøejnosti"
+      "zdraví veøejnosti",
+      "zdraví veřejnosti"
     ]
   },
   {
@@ -2625,12 +2676,16 @@
     },
     "temata": [
       "Péèe o zdraví",
+      "Péče o zdraví",
       "dokumentace",
       "doplnìk stravy",
+      "doplněk stravy",
+      "lidská výiva",
+      "lidská výživa",
       "lék",
       "lékaøské údaje",
-      "lidská výživa",
-      "zdraví veøejnosti"
+      "zdraví veøejnosti",
+      "zdraví veřejnosti"
     ]
   },
   {
@@ -2754,12 +2809,13 @@
       "not_logged": 38
     },
     "temata": [
-      "Obchod a služby",
-      "Právo zástavní",
       "Národní hospodářství",
+      "Obchod a služby",
       "Občan",
+      "Právo zástavní",
       "obchodní pravidla",
       "otevírací doba",
+      "pouité zboí",
       "použité zboží"
     ]
   },
@@ -2776,12 +2832,13 @@
       "not_logged": 37
     },
     "temata": [
-      "Obchod a služby",
-      "Právo zástavní",
       "Národní hospodářství",
+      "Obchod a služby",
       "Občan",
+      "Právo zástavní",
       "obchodní pravidla",
       "otevírací doba",
+      "pouité zboí",
       "použité zboží"
     ]
   },
@@ -2798,12 +2855,13 @@
       "not_logged": 35
     },
     "temata": [
-      "Obchod a služby",
-      "Právo zástavní",
       "Národní hospodářství",
+      "Obchod a služby",
       "Občan",
+      "Právo zástavní",
       "obchodní pravidla",
       "otevírací doba",
+      "pouité zboí",
       "použité zboží"
     ]
   },
@@ -2820,12 +2878,13 @@
       "not_logged": 32
     },
     "temata": [
-      "Obchod a služby",
-      "Právo zástavní",
       "Národní hospodářství",
+      "Obchod a služby",
       "Občan",
+      "Právo zástavní",
       "obchodní pravidla",
       "otevírací doba",
+      "pouité zboí",
       "použité zboží"
     ]
   },
@@ -2894,12 +2953,13 @@
       "not_logged": 29
     },
     "temata": [
-      "Obchod a služby",
-      "Právo zástavní",
       "Národní hospodářství",
+      "Obchod a služby",
       "Občan",
+      "Právo zástavní",
       "obchodní pravidla",
       "otevírací doba",
+      "pouité zboí",
       "použité zboží"
     ]
   },

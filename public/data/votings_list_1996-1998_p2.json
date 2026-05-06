@@ -585,10 +585,11 @@
       "not_logged": 39
     },
     "temata": [
-      "Přestupky",
-      "Toxikománie",
       "Občan",
+      "Pøestupky",
+      "Přestupky",
       "Státní správa a justice",
+      "Toxikománie",
       "Zdravotnictví",
       "drogová závislost",
       "obchodování s drogami",
@@ -730,6 +731,7 @@
       "Daně a poplatky",
       "daň",
       "daňová asignace",
+      "daōová asignace",
       "spotřební daň"
     ]
   },
@@ -749,6 +751,7 @@
       "Daně a poplatky",
       "daň",
       "daňová asignace",
+      "daōová asignace",
       "spotřební daň"
     ]
   },
@@ -768,6 +771,7 @@
       "Daně a poplatky",
       "daň",
       "daňová asignace",
+      "daōová asignace",
       "spotřební daň"
     ]
   },
@@ -956,11 +960,12 @@
       "not_logged": 65
     },
     "temata": [
-      "Poslanci",
-      "Zájem veřejný",
       "Politika",
+      "Poslanci",
       "Pracovní síla",
       "Státní správa a justice",
+      "Zájem veřejný",
+      "dėlba pravomocí",
       "dělba pravomocí",
       "neslučitelnost",
       "poslanec parlamentu",
@@ -980,11 +985,12 @@
       "not_logged": 47
     },
     "temata": [
-      "Poslanci",
-      "Zájem veřejný",
       "Politika",
+      "Poslanci",
       "Pracovní síla",
       "Státní správa a justice",
+      "Zájem veřejný",
+      "dėlba pravomocí",
       "dělba pravomocí",
       "neslučitelnost",
       "poslanec parlamentu",
@@ -1004,11 +1010,12 @@
       "not_logged": 21
     },
     "temata": [
-      "Poslanci",
-      "Zájem veřejný",
       "Politika",
+      "Poslanci",
       "Pracovní síla",
       "Státní správa a justice",
+      "Zájem veřejný",
+      "dėlba pravomocí",
       "dělba pravomocí",
       "neslučitelnost",
       "poslanec parlamentu",
@@ -1030,6 +1037,7 @@
     "temata": [
       "Mzdy, odměny za práci",
       "Schůze Poslanecké sněmovny",
+      "Schųze Poslanecké snėmovny",
       "finanční příjem členů parlamentu",
       "mzda",
       "odměňování",
@@ -1057,6 +1065,7 @@
     "temata": [
       "Mzdy, odměny za práci",
       "Schůze Poslanecké sněmovny",
+      "Schųze Poslanecké snėmovny",
       "finanční příjem členů parlamentu",
       "mzda",
       "odměňování",
@@ -1485,6 +1494,7 @@
     },
     "temata": [
       "Rozhlas",
+      "hromadné sdėlovací prostøedky",
       "hromadné sdělovací prostředky",
       "programová produkce",
       "rozhlasové vysílání",
@@ -1505,6 +1515,7 @@
     },
     "temata": [
       "Rozhlas",
+      "hromadné sdėlovací prostøedky",
       "hromadné sdělovací prostředky",
       "programová produkce",
       "rozhlasové vysílání",
@@ -1594,11 +1605,12 @@
       "not_logged": 40
     },
     "temata": [
-      "Poslanci",
-      "Zájem veřejný",
       "Politika",
+      "Poslanci",
       "Pracovní síla",
       "Státní správa a justice",
+      "Zájem veřejný",
+      "dėlba pravomocí",
       "dělba pravomocí",
       "neslučitelnost",
       "poslanec parlamentu",
@@ -1618,11 +1630,12 @@
       "not_logged": 36
     },
     "temata": [
-      "Poslanci",
-      "Zájem veřejný",
       "Politika",
+      "Poslanci",
       "Pracovní síla",
       "Státní správa a justice",
+      "Zájem veřejný",
+      "dėlba pravomocí",
       "dělba pravomocí",
       "neslučitelnost",
       "poslanec parlamentu",
@@ -2019,6 +2032,7 @@
       "Toxikománie",
       "drogová závislost",
       "mezinárodní spolupráce",
+      "ministerská odpovėdnost",
       "ministerská odpovědnost",
       "obchodování s drogami",
       "omamná látka",
@@ -2042,6 +2056,7 @@
       "Toxikománie",
       "drogová závislost",
       "mezinárodní spolupráce",
+      "ministerská odpovėdnost",
       "ministerská odpovědnost",
       "obchodování s drogami",
       "omamná látka",
@@ -2065,6 +2080,7 @@
       "Toxikománie",
       "drogová závislost",
       "mezinárodní spolupráce",
+      "ministerská odpovėdnost",
       "ministerská odpovědnost",
       "obchodování s drogami",
       "omamná látka",
@@ -2088,6 +2104,7 @@
       "Toxikománie",
       "drogová závislost",
       "mezinárodní spolupráce",
+      "ministerská odpovėdnost",
       "ministerská odpovědnost",
       "obchodování s drogami",
       "omamná látka",
@@ -2111,6 +2128,7 @@
       "Toxikománie",
       "drogová závislost",
       "mezinárodní spolupráce",
+      "ministerská odpovėdnost",
       "ministerská odpovědnost",
       "obchodování s drogami",
       "omamná látka",
@@ -2134,6 +2152,7 @@
       "Toxikománie",
       "drogová závislost",
       "mezinárodní spolupráce",
+      "ministerská odpovėdnost",
       "ministerská odpovědnost",
       "obchodování s drogami",
       "omamná látka",
@@ -2157,6 +2176,7 @@
       "Toxikománie",
       "drogová závislost",
       "mezinárodní spolupráce",
+      "ministerská odpovėdnost",
       "ministerská odpovědnost",
       "obchodování s drogami",
       "omamná látka",
@@ -2180,6 +2200,7 @@
       "Toxikománie",
       "drogová závislost",
       "mezinárodní spolupráce",
+      "ministerská odpovėdnost",
       "ministerská odpovědnost",
       "obchodování s drogami",
       "omamná látka",
@@ -2203,6 +2224,7 @@
       "Toxikománie",
       "drogová závislost",
       "mezinárodní spolupráce",
+      "ministerská odpovėdnost",
       "ministerská odpovědnost",
       "obchodování s drogami",
       "omamná látka",
@@ -2227,10 +2249,12 @@
       "imigrace",
       "integrace přistěhovalců",
       "migrační politika",
+      "ministerská odpovėdnost",
       "ministerská odpovědnost",
       "nelegální migrace",
       "povolení k pobytu",
-      "vstup cizinců"
+      "vstup cizinců",
+      "vstup cizincų"
     ]
   },
   {
@@ -2250,10 +2274,12 @@
       "imigrace",
       "integrace přistěhovalců",
       "migrační politika",
+      "ministerská odpovėdnost",
       "ministerská odpovědnost",
       "nelegální migrace",
       "povolení k pobytu",
-      "vstup cizinců"
+      "vstup cizinců",
+      "vstup cizincų"
     ]
   },
   {
@@ -2272,6 +2298,7 @@
       "Toxikománie",
       "drogová závislost",
       "mezinárodní spolupráce",
+      "ministerská odpovėdnost",
       "ministerská odpovědnost",
       "obchodování s drogami",
       "omamná látka",
@@ -2295,6 +2322,7 @@
       "Toxikománie",
       "drogová závislost",
       "mezinárodní spolupráce",
+      "ministerská odpovėdnost",
       "ministerská odpovědnost",
       "obchodování s drogami",
       "omamná látka",
@@ -2318,6 +2346,7 @@
       "Toxikománie",
       "drogová závislost",
       "mezinárodní spolupráce",
+      "ministerská odpovėdnost",
       "ministerská odpovědnost",
       "obchodování s drogami",
       "omamná látka",
@@ -2341,6 +2370,7 @@
       "Toxikománie",
       "drogová závislost",
       "mezinárodní spolupráce",
+      "ministerská odpovėdnost",
       "ministerská odpovědnost",
       "obchodování s drogami",
       "omamná látka",
@@ -2364,6 +2394,7 @@
       "Toxikománie",
       "drogová závislost",
       "mezinárodní spolupráce",
+      "ministerská odpovėdnost",
       "ministerská odpovědnost",
       "obchodování s drogami",
       "omamná látka",
@@ -2387,6 +2418,7 @@
       "Toxikománie",
       "drogová závislost",
       "mezinárodní spolupráce",
+      "ministerská odpovėdnost",
       "ministerská odpovědnost",
       "obchodování s drogami",
       "omamná látka",
@@ -2410,6 +2442,7 @@
       "Toxikománie",
       "drogová závislost",
       "mezinárodní spolupráce",
+      "ministerská odpovėdnost",
       "ministerská odpovědnost",
       "obchodování s drogami",
       "omamná látka",
@@ -2430,6 +2463,7 @@
       "not_logged": 71
     },
     "temata": [
+      "neíøení jaderných zbraní",
       "nešíření jaderných zbraní",
       "odzbrojení"
     ]
@@ -2447,6 +2481,7 @@
       "not_logged": 68
     },
     "temata": [
+      "neíøení jaderných zbraní",
       "nešíření jaderných zbraní",
       "odzbrojení"
     ]
@@ -2464,6 +2499,7 @@
       "not_logged": 68
     },
     "temata": [
+      "neíøení jaderných zbraní",
       "nešíření jaderných zbraní",
       "odzbrojení"
     ]
@@ -6058,9 +6094,10 @@
       "not_logged": 91
     },
     "temata": [
-      "Česká republika",
+      "Vietnam",
       "daňová úmluva",
-      "Vietnam"
+      "daōová úmluva",
+      "Česká republika"
     ]
   },
   {
@@ -6420,11 +6457,12 @@
       "not_logged": 22
     },
     "temata": [
-      "Poslanci",
-      "Zájem veřejný",
       "Politika",
+      "Poslanci",
       "Pracovní síla",
       "Státní správa a justice",
+      "Zájem veřejný",
+      "dėlba pravomocí",
       "dělba pravomocí",
       "neslučitelnost",
       "poslanec parlamentu",
@@ -6444,11 +6482,12 @@
       "not_logged": 22
     },
     "temata": [
-      "Poslanci",
-      "Zájem veřejný",
       "Politika",
+      "Poslanci",
       "Pracovní síla",
       "Státní správa a justice",
+      "Zájem veřejný",
+      "dėlba pravomocí",
       "dělba pravomocí",
       "neslučitelnost",
       "poslanec parlamentu",
@@ -6468,11 +6507,12 @@
       "not_logged": 21
     },
     "temata": [
-      "Poslanci",
-      "Zájem veřejný",
       "Politika",
+      "Poslanci",
       "Pracovní síla",
       "Státní správa a justice",
+      "Zájem veřejný",
+      "dėlba pravomocí",
       "dělba pravomocí",
       "neslučitelnost",
       "poslanec parlamentu",
@@ -6492,11 +6532,12 @@
       "not_logged": 20
     },
     "temata": [
-      "Poslanci",
-      "Zájem veřejný",
       "Politika",
+      "Poslanci",
       "Pracovní síla",
       "Státní správa a justice",
+      "Zájem veřejný",
+      "dėlba pravomocí",
       "dělba pravomocí",
       "neslučitelnost",
       "poslanec parlamentu",
@@ -6516,11 +6557,12 @@
       "not_logged": 19
     },
     "temata": [
-      "Poslanci",
-      "Zájem veřejný",
       "Politika",
+      "Poslanci",
       "Pracovní síla",
       "Státní správa a justice",
+      "Zájem veřejný",
+      "dėlba pravomocí",
       "dělba pravomocí",
       "neslučitelnost",
       "poslanec parlamentu",
@@ -6540,11 +6582,12 @@
       "not_logged": 18
     },
     "temata": [
-      "Poslanci",
-      "Zájem veřejný",
       "Politika",
+      "Poslanci",
       "Pracovní síla",
       "Státní správa a justice",
+      "Zájem veřejný",
+      "dėlba pravomocí",
       "dělba pravomocí",
       "neslučitelnost",
       "poslanec parlamentu",
@@ -6564,11 +6607,12 @@
       "not_logged": 19
     },
     "temata": [
-      "Poslanci",
-      "Zájem veřejný",
       "Politika",
+      "Poslanci",
       "Pracovní síla",
       "Státní správa a justice",
+      "Zájem veřejný",
+      "dėlba pravomocí",
       "dělba pravomocí",
       "neslučitelnost",
       "poslanec parlamentu",
@@ -6588,11 +6632,12 @@
       "not_logged": 18
     },
     "temata": [
-      "Poslanci",
-      "Zájem veřejný",
       "Politika",
+      "Poslanci",
       "Pracovní síla",
       "Státní správa a justice",
+      "Zájem veřejný",
+      "dėlba pravomocí",
       "dělba pravomocí",
       "neslučitelnost",
       "poslanec parlamentu",
@@ -6612,11 +6657,12 @@
       "not_logged": 18
     },
     "temata": [
-      "Poslanci",
-      "Zájem veřejný",
       "Politika",
+      "Poslanci",
       "Pracovní síla",
       "Státní správa a justice",
+      "Zájem veřejný",
+      "dėlba pravomocí",
       "dělba pravomocí",
       "neslučitelnost",
       "poslanec parlamentu",
@@ -6636,11 +6682,12 @@
       "not_logged": 17
     },
     "temata": [
-      "Poslanci",
-      "Zájem veřejný",
       "Politika",
+      "Poslanci",
       "Pracovní síla",
       "Státní správa a justice",
+      "Zájem veřejný",
+      "dėlba pravomocí",
       "dělba pravomocí",
       "neslučitelnost",
       "poslanec parlamentu",
@@ -7513,16 +7560,17 @@
       "not_logged": 17
     },
     "temata": [
-      "Soudnictví",
       "Doprava a spoje",
       "Občan",
       "Politika",
+      "Soudnictví",
       "Státní správa a justice",
       "laický soudce",
-      "občanské právo",
       "obchodování s lidmi",
+      "občanské právo",
       "ochrana dítěte",
       "práva dítěte",
+      "pøístup k dėtem",
       "přístup k dětem",
       "soudní řízení",
       "správní soud"
@@ -7541,16 +7589,17 @@
       "not_logged": 18
     },
     "temata": [
-      "Soudnictví",
       "Doprava a spoje",
       "Občan",
       "Politika",
+      "Soudnictví",
       "Státní správa a justice",
       "laický soudce",
-      "občanské právo",
       "obchodování s lidmi",
+      "občanské právo",
       "ochrana dítěte",
       "práva dítěte",
+      "pøístup k dėtem",
       "přístup k dětem",
       "soudní řízení",
       "správní soud"
@@ -7569,16 +7618,17 @@
       "not_logged": 17
     },
     "temata": [
-      "Soudnictví",
       "Doprava a spoje",
       "Občan",
       "Politika",
+      "Soudnictví",
       "Státní správa a justice",
       "laický soudce",
-      "občanské právo",
       "obchodování s lidmi",
+      "občanské právo",
       "ochrana dítěte",
       "práva dítěte",
+      "pøístup k dėtem",
       "přístup k dětem",
       "soudní řízení",
       "správní soud"
@@ -7597,16 +7647,17 @@
       "not_logged": 17
     },
     "temata": [
-      "Soudnictví",
       "Doprava a spoje",
       "Občan",
       "Politika",
+      "Soudnictví",
       "Státní správa a justice",
       "laický soudce",
-      "občanské právo",
       "obchodování s lidmi",
+      "občanské právo",
       "ochrana dítěte",
       "práva dítěte",
+      "pøístup k dėtem",
       "přístup k dětem",
       "soudní řízení",
       "správní soud"
@@ -7625,11 +7676,12 @@
       "not_logged": 15
     },
     "temata": [
-      "Poslanci",
-      "Zájem veřejný",
       "Politika",
+      "Poslanci",
       "Pracovní síla",
       "Státní správa a justice",
+      "Zájem veřejný",
+      "dėlba pravomocí",
       "dělba pravomocí",
       "neslučitelnost",
       "poslanec parlamentu",
@@ -7649,11 +7701,12 @@
       "not_logged": 14
     },
     "temata": [
-      "Poslanci",
-      "Zájem veřejný",
       "Politika",
+      "Poslanci",
       "Pracovní síla",
       "Státní správa a justice",
+      "Zájem veřejný",
+      "dėlba pravomocí",
       "dělba pravomocí",
       "neslučitelnost",
       "poslanec parlamentu",
@@ -7673,11 +7726,12 @@
       "not_logged": 15
     },
     "temata": [
-      "Poslanci",
-      "Zájem veřejný",
       "Politika",
+      "Poslanci",
       "Pracovní síla",
       "Státní správa a justice",
+      "Zájem veřejný",
+      "dėlba pravomocí",
       "dělba pravomocí",
       "neslučitelnost",
       "poslanec parlamentu",
@@ -7697,11 +7751,12 @@
       "not_logged": 13
     },
     "temata": [
-      "Poslanci",
-      "Zájem veřejný",
       "Politika",
+      "Poslanci",
       "Pracovní síla",
       "Státní správa a justice",
+      "Zájem veřejný",
+      "dėlba pravomocí",
       "dělba pravomocí",
       "neslučitelnost",
       "poslanec parlamentu",
@@ -7721,11 +7776,12 @@
       "not_logged": 13
     },
     "temata": [
-      "Poslanci",
-      "Zájem veřejný",
       "Politika",
+      "Poslanci",
       "Pracovní síla",
       "Státní správa a justice",
+      "Zájem veřejný",
+      "dėlba pravomocí",
       "dělba pravomocí",
       "neslučitelnost",
       "poslanec parlamentu",
@@ -7745,11 +7801,12 @@
       "not_logged": 13
     },
     "temata": [
-      "Poslanci",
-      "Zájem veřejný",
       "Politika",
+      "Poslanci",
       "Pracovní síla",
       "Státní správa a justice",
+      "Zájem veřejný",
+      "dėlba pravomocí",
       "dělba pravomocí",
       "neslučitelnost",
       "poslanec parlamentu",
@@ -7769,11 +7826,12 @@
       "not_logged": 13
     },
     "temata": [
-      "Poslanci",
-      "Zájem veřejný",
       "Politika",
+      "Poslanci",
       "Pracovní síla",
       "Státní správa a justice",
+      "Zájem veřejný",
+      "dėlba pravomocí",
       "dělba pravomocí",
       "neslučitelnost",
       "poslanec parlamentu",
@@ -7793,11 +7851,12 @@
       "not_logged": 12
     },
     "temata": [
-      "Poslanci",
-      "Zájem veřejný",
       "Politika",
+      "Poslanci",
       "Pracovní síla",
       "Státní správa a justice",
+      "Zájem veřejný",
+      "dėlba pravomocí",
       "dělba pravomocí",
       "neslučitelnost",
       "poslanec parlamentu",
@@ -7817,11 +7876,12 @@
       "not_logged": 14
     },
     "temata": [
-      "Poslanci",
-      "Zájem veřejný",
       "Politika",
+      "Poslanci",
       "Pracovní síla",
       "Státní správa a justice",
+      "Zájem veřejný",
+      "dėlba pravomocí",
       "dělba pravomocí",
       "neslučitelnost",
       "poslanec parlamentu",
@@ -7841,11 +7901,12 @@
       "not_logged": 13
     },
     "temata": [
-      "Poslanci",
-      "Zájem veřejný",
       "Politika",
+      "Poslanci",
       "Pracovní síla",
       "Státní správa a justice",
+      "Zájem veřejný",
+      "dėlba pravomocí",
       "dělba pravomocí",
       "neslučitelnost",
       "poslanec parlamentu",
@@ -7865,11 +7926,12 @@
       "not_logged": 14
     },
     "temata": [
-      "Poslanci",
-      "Zájem veřejný",
       "Politika",
+      "Poslanci",
       "Pracovní síla",
       "Státní správa a justice",
+      "Zájem veřejný",
+      "dėlba pravomocí",
       "dělba pravomocí",
       "neslučitelnost",
       "poslanec parlamentu",
@@ -7889,11 +7951,12 @@
       "not_logged": 15
     },
     "temata": [
-      "Poslanci",
-      "Zájem veřejný",
       "Politika",
+      "Poslanci",
       "Pracovní síla",
       "Státní správa a justice",
+      "Zájem veřejný",
+      "dėlba pravomocí",
       "dělba pravomocí",
       "neslučitelnost",
       "poslanec parlamentu",
@@ -7913,11 +7976,12 @@
       "not_logged": 14
     },
     "temata": [
-      "Poslanci",
-      "Zájem veřejný",
       "Politika",
+      "Poslanci",
       "Pracovní síla",
       "Státní správa a justice",
+      "Zájem veřejný",
+      "dėlba pravomocí",
       "dělba pravomocí",
       "neslučitelnost",
       "poslanec parlamentu",
@@ -7937,11 +8001,12 @@
       "not_logged": 14
     },
     "temata": [
-      "Poslanci",
-      "Zájem veřejný",
       "Politika",
+      "Poslanci",
       "Pracovní síla",
       "Státní správa a justice",
+      "Zájem veřejný",
+      "dėlba pravomocí",
       "dělba pravomocí",
       "neslučitelnost",
       "poslanec parlamentu",
@@ -7961,11 +8026,12 @@
       "not_logged": 13
     },
     "temata": [
-      "Poslanci",
-      "Zájem veřejný",
       "Politika",
+      "Poslanci",
       "Pracovní síla",
       "Státní správa a justice",
+      "Zájem veřejný",
+      "dėlba pravomocí",
       "dělba pravomocí",
       "neslučitelnost",
       "poslanec parlamentu",
@@ -7985,11 +8051,12 @@
       "not_logged": 13
     },
     "temata": [
-      "Poslanci",
-      "Zájem veřejný",
       "Politika",
+      "Poslanci",
       "Pracovní síla",
       "Státní správa a justice",
+      "Zájem veřejný",
+      "dėlba pravomocí",
       "dělba pravomocí",
       "neslučitelnost",
       "poslanec parlamentu",
@@ -8009,11 +8076,12 @@
       "not_logged": 13
     },
     "temata": [
-      "Poslanci",
-      "Zájem veřejný",
       "Politika",
+      "Poslanci",
       "Pracovní síla",
       "Státní správa a justice",
+      "Zájem veřejný",
+      "dėlba pravomocí",
       "dělba pravomocí",
       "neslučitelnost",
       "poslanec parlamentu",
@@ -8033,11 +8101,12 @@
       "not_logged": 13
     },
     "temata": [
-      "Poslanci",
-      "Zájem veřejný",
       "Politika",
+      "Poslanci",
       "Pracovní síla",
       "Státní správa a justice",
+      "Zájem veřejný",
+      "dėlba pravomocí",
       "dělba pravomocí",
       "neslučitelnost",
       "poslanec parlamentu",
@@ -8057,11 +8126,12 @@
       "not_logged": 14
     },
     "temata": [
-      "Poslanci",
-      "Zájem veřejný",
       "Politika",
+      "Poslanci",
       "Pracovní síla",
       "Státní správa a justice",
+      "Zájem veřejný",
+      "dėlba pravomocí",
       "dělba pravomocí",
       "neslučitelnost",
       "poslanec parlamentu",
@@ -8081,11 +8151,12 @@
       "not_logged": 13
     },
     "temata": [
-      "Poslanci",
-      "Zájem veřejný",
       "Politika",
+      "Poslanci",
       "Pracovní síla",
       "Státní správa a justice",
+      "Zájem veřejný",
+      "dėlba pravomocí",
       "dělba pravomocí",
       "neslučitelnost",
       "poslanec parlamentu",
@@ -8105,11 +8176,12 @@
       "not_logged": 15
     },
     "temata": [
-      "Poslanci",
-      "Zájem veřejný",
       "Politika",
+      "Poslanci",
       "Pracovní síla",
       "Státní správa a justice",
+      "Zájem veřejný",
+      "dėlba pravomocí",
       "dělba pravomocí",
       "neslučitelnost",
       "poslanec parlamentu",
@@ -8129,11 +8201,12 @@
       "not_logged": 13
     },
     "temata": [
-      "Poslanci",
-      "Zájem veřejný",
       "Politika",
+      "Poslanci",
       "Pracovní síla",
       "Státní správa a justice",
+      "Zájem veřejný",
+      "dėlba pravomocí",
       "dělba pravomocí",
       "neslučitelnost",
       "poslanec parlamentu",
@@ -8153,11 +8226,12 @@
       "not_logged": 13
     },
     "temata": [
-      "Poslanci",
-      "Zájem veřejný",
       "Politika",
+      "Poslanci",
       "Pracovní síla",
       "Státní správa a justice",
+      "Zájem veřejný",
+      "dėlba pravomocí",
       "dělba pravomocí",
       "neslučitelnost",
       "poslanec parlamentu",
@@ -8177,11 +8251,12 @@
       "not_logged": 13
     },
     "temata": [
-      "Poslanci",
-      "Zájem veřejný",
       "Politika",
+      "Poslanci",
       "Pracovní síla",
       "Státní správa a justice",
+      "Zájem veřejný",
+      "dėlba pravomocí",
       "dělba pravomocí",
       "neslučitelnost",
       "poslanec parlamentu",
@@ -8201,11 +8276,12 @@
       "not_logged": 13
     },
     "temata": [
-      "Poslanci",
-      "Zájem veřejný",
       "Politika",
+      "Poslanci",
       "Pracovní síla",
       "Státní správa a justice",
+      "Zájem veřejný",
+      "dėlba pravomocí",
       "dělba pravomocí",
       "neslučitelnost",
       "poslanec parlamentu",
@@ -8225,11 +8301,12 @@
       "not_logged": 13
     },
     "temata": [
-      "Poslanci",
-      "Zájem veřejný",
       "Politika",
+      "Poslanci",
       "Pracovní síla",
       "Státní správa a justice",
+      "Zájem veřejný",
+      "dėlba pravomocí",
       "dělba pravomocí",
       "neslučitelnost",
       "poslanec parlamentu",
@@ -8249,11 +8326,12 @@
       "not_logged": 12
     },
     "temata": [
-      "Poslanci",
-      "Zájem veřejný",
       "Politika",
+      "Poslanci",
       "Pracovní síla",
       "Státní správa a justice",
+      "Zájem veřejný",
+      "dėlba pravomocí",
       "dělba pravomocí",
       "neslučitelnost",
       "poslanec parlamentu",
@@ -8273,11 +8351,12 @@
       "not_logged": 14
     },
     "temata": [
-      "Poslanci",
-      "Zájem veřejný",
       "Politika",
+      "Poslanci",
       "Pracovní síla",
       "Státní správa a justice",
+      "Zájem veřejný",
+      "dėlba pravomocí",
       "dělba pravomocí",
       "neslučitelnost",
       "poslanec parlamentu",
@@ -9753,11 +9832,12 @@
       "not_logged": 8
     },
     "temata": [
-      "Poslanci",
-      "Zájem veřejný",
       "Politika",
+      "Poslanci",
       "Pracovní síla",
       "Státní správa a justice",
+      "Zájem veřejný",
+      "dėlba pravomocí",
       "dělba pravomocí",
       "neslučitelnost",
       "poslanec parlamentu",
@@ -9777,11 +9857,12 @@
       "not_logged": 8
     },
     "temata": [
-      "Poslanci",
-      "Zájem veřejný",
       "Politika",
+      "Poslanci",
       "Pracovní síla",
       "Státní správa a justice",
+      "Zájem veřejný",
+      "dėlba pravomocí",
       "dělba pravomocí",
       "neslučitelnost",
       "poslanec parlamentu",
@@ -9801,11 +9882,12 @@
       "not_logged": 8
     },
     "temata": [
-      "Poslanci",
-      "Zájem veřejný",
       "Politika",
+      "Poslanci",
       "Pracovní síla",
       "Státní správa a justice",
+      "Zájem veřejný",
+      "dėlba pravomocí",
       "dělba pravomocí",
       "neslučitelnost",
       "poslanec parlamentu",
@@ -9825,11 +9907,12 @@
       "not_logged": 21
     },
     "temata": [
-      "Poslanci",
-      "Zájem veřejný",
       "Politika",
+      "Poslanci",
       "Pracovní síla",
       "Státní správa a justice",
+      "Zájem veřejný",
+      "dėlba pravomocí",
       "dělba pravomocí",
       "neslučitelnost",
       "poslanec parlamentu",
@@ -9849,11 +9932,12 @@
       "not_logged": 21
     },
     "temata": [
-      "Poslanci",
-      "Zájem veřejný",
       "Politika",
+      "Poslanci",
       "Pracovní síla",
       "Státní správa a justice",
+      "Zájem veřejný",
+      "dėlba pravomocí",
       "dělba pravomocí",
       "neslučitelnost",
       "poslanec parlamentu",
@@ -9873,9 +9957,10 @@
       "not_logged": 50
     },
     "temata": [
-      "Česká republika",
+      "Vietnam",
       "daňová úmluva",
-      "Vietnam"
+      "daōová úmluva",
+      "Česká republika"
     ]
   },
   {
@@ -9891,9 +9976,10 @@
       "not_logged": 45
     },
     "temata": [
-      "Česká republika",
+      "Vietnam",
       "daňová úmluva",
-      "Vietnam"
+      "daōová úmluva",
+      "Česká republika"
     ]
   },
   {
@@ -10229,11 +10315,12 @@
       "not_logged": 19
     },
     "temata": [
-      "Poslanci",
-      "Zájem veřejný",
       "Politika",
+      "Poslanci",
       "Pracovní síla",
       "Státní správa a justice",
+      "Zájem veřejný",
+      "dėlba pravomocí",
       "dělba pravomocí",
       "neslučitelnost",
       "poslanec parlamentu",
@@ -10322,6 +10409,7 @@
       "daň",
       "daňová asignace",
       "daňový poplatník",
+      "daōová asignace",
       "palivo",
       "spotřební daň",
       "tabák"
@@ -10349,6 +10437,7 @@
       "daň",
       "daňová asignace",
       "daňový poplatník",
+      "daōová asignace",
       "palivo",
       "spotřební daň",
       "tabák"
@@ -10376,6 +10465,7 @@
       "daň",
       "daňová asignace",
       "daňový poplatník",
+      "daōová asignace",
       "palivo",
       "spotřební daň",
       "tabák"
@@ -10403,6 +10493,7 @@
       "daň",
       "daňová asignace",
       "daňový poplatník",
+      "daōová asignace",
       "palivo",
       "spotřební daň",
       "tabák"
@@ -10430,6 +10521,7 @@
       "daň",
       "daňová asignace",
       "daňový poplatník",
+      "daōová asignace",
       "palivo",
       "spotřební daň",
       "tabák"
@@ -10614,11 +10706,12 @@
       "not_logged": 32
     },
     "temata": [
-      "Poslanci",
-      "Zájem veřejný",
       "Politika",
+      "Poslanci",
       "Pracovní síla",
       "Státní správa a justice",
+      "Zájem veřejný",
+      "dėlba pravomocí",
       "dělba pravomocí",
       "neslučitelnost",
       "poslanec parlamentu",
@@ -10638,11 +10731,12 @@
       "not_logged": 34
     },
     "temata": [
-      "Poslanci",
-      "Zájem veřejný",
       "Politika",
+      "Poslanci",
       "Pracovní síla",
       "Státní správa a justice",
+      "Zájem veřejný",
+      "dėlba pravomocí",
       "dělba pravomocí",
       "neslučitelnost",
       "poslanec parlamentu",
@@ -10662,11 +10756,12 @@
       "not_logged": 34
     },
     "temata": [
-      "Poslanci",
-      "Zájem veřejný",
       "Politika",
+      "Poslanci",
       "Pracovní síla",
       "Státní správa a justice",
+      "Zájem veřejný",
+      "dėlba pravomocí",
       "dělba pravomocí",
       "neslučitelnost",
       "poslanec parlamentu",
@@ -10686,11 +10781,12 @@
       "not_logged": 33
     },
     "temata": [
-      "Poslanci",
-      "Zájem veřejný",
       "Politika",
+      "Poslanci",
       "Pracovní síla",
       "Státní správa a justice",
+      "Zájem veřejný",
+      "dėlba pravomocí",
       "dělba pravomocí",
       "neslučitelnost",
       "poslanec parlamentu",
@@ -10710,11 +10806,12 @@
       "not_logged": 35
     },
     "temata": [
-      "Poslanci",
-      "Zájem veřejný",
       "Politika",
+      "Poslanci",
       "Pracovní síla",
       "Státní správa a justice",
+      "Zájem veřejný",
+      "dėlba pravomocí",
       "dělba pravomocí",
       "neslučitelnost",
       "poslanec parlamentu",
@@ -10734,11 +10831,12 @@
       "not_logged": 34
     },
     "temata": [
-      "Poslanci",
-      "Zájem veřejný",
       "Politika",
+      "Poslanci",
       "Pracovní síla",
       "Státní správa a justice",
+      "Zájem veřejný",
+      "dėlba pravomocí",
       "dělba pravomocí",
       "neslučitelnost",
       "poslanec parlamentu",
@@ -11002,11 +11100,12 @@
       "not_logged": 33
     },
     "temata": [
-      "Poslanci",
-      "Zájem veřejný",
       "Politika",
+      "Poslanci",
       "Pracovní síla",
       "Státní správa a justice",
+      "Zájem veřejný",
+      "dėlba pravomocí",
       "dělba pravomocí",
       "neslučitelnost",
       "poslanec parlamentu",
@@ -11026,11 +11125,12 @@
       "not_logged": 33
     },
     "temata": [
-      "Poslanci",
-      "Zájem veřejný",
       "Politika",
+      "Poslanci",
       "Pracovní síla",
       "Státní správa a justice",
+      "Zájem veřejný",
+      "dėlba pravomocí",
       "dělba pravomocí",
       "neslučitelnost",
       "poslanec parlamentu",
@@ -11050,11 +11150,12 @@
       "not_logged": 32
     },
     "temata": [
-      "Poslanci",
-      "Zájem veřejný",
       "Politika",
+      "Poslanci",
       "Pracovní síla",
       "Státní správa a justice",
+      "Zájem veřejný",
+      "dėlba pravomocí",
       "dělba pravomocí",
       "neslučitelnost",
       "poslanec parlamentu",
@@ -11077,9 +11178,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -11099,9 +11203,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -11121,9 +11228,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -11143,9 +11253,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -11165,9 +11278,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -11187,9 +11303,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -11209,9 +11328,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -11231,9 +11353,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -11253,9 +11378,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -11275,9 +11403,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -11297,9 +11428,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -11319,9 +11453,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -11341,9 +11478,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -11363,9 +11503,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -11385,9 +11528,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -11407,9 +11553,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -11429,9 +11578,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -11451,9 +11603,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -11473,9 +11628,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -11495,9 +11653,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -11517,9 +11678,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -11539,9 +11703,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -11561,9 +11728,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -11583,9 +11753,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -11605,9 +11778,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -11627,9 +11803,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -11649,9 +11828,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -11671,9 +11853,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -11693,9 +11878,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -11715,9 +11903,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -11737,9 +11928,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -11759,9 +11953,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -11781,9 +11978,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -11803,9 +12003,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -11825,9 +12028,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -11847,9 +12053,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -11869,9 +12078,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -11891,9 +12103,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -11913,9 +12128,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -11935,9 +12153,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -11957,9 +12178,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -11979,9 +12203,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -12001,9 +12228,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -12023,9 +12253,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -12045,9 +12278,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -12067,9 +12303,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -12089,9 +12328,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -12111,9 +12353,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -12133,9 +12378,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -12155,9 +12403,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -12177,9 +12428,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -12199,9 +12453,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -12221,9 +12478,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -12243,9 +12503,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -12265,9 +12528,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -12287,9 +12553,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -12309,9 +12578,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -12331,9 +12603,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -12353,9 +12628,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -12375,9 +12653,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -12397,9 +12678,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -12419,9 +12703,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -12441,9 +12728,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -12463,9 +12753,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -12485,9 +12778,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -12507,9 +12803,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -12529,9 +12828,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -12551,9 +12853,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -12573,9 +12878,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -12595,9 +12903,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -12617,9 +12928,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -12639,9 +12953,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -12661,9 +12978,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -12683,9 +13003,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -12705,9 +13028,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -12727,9 +13053,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -12749,9 +13078,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -12771,9 +13103,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -12793,9 +13128,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -12815,9 +13153,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -12837,9 +13178,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -12859,9 +13203,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -12881,9 +13228,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -12903,9 +13253,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -12925,9 +13278,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -12947,9 +13303,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -12969,9 +13328,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -12991,9 +13353,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -13013,9 +13378,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -13035,9 +13403,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -13057,9 +13428,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -13079,9 +13453,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -13101,9 +13478,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -13123,9 +13503,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -13145,9 +13528,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -13167,9 +13553,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -13189,9 +13578,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -13211,9 +13603,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -13233,9 +13628,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -13255,9 +13653,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -13277,9 +13678,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -13299,9 +13703,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -13321,9 +13728,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -13343,9 +13753,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -13365,9 +13778,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -13387,9 +13803,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -13409,9 +13828,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -13431,9 +13853,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -13453,9 +13878,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -13475,9 +13903,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -13497,9 +13928,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -13519,9 +13953,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -13541,9 +13978,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -13563,9 +14003,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -13585,9 +14028,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -13607,9 +14053,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -13629,9 +14078,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -13651,9 +14103,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -13673,9 +14128,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -13695,9 +14153,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -13717,9 +14178,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -13739,9 +14203,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -13759,9 +14226,10 @@
     },
     "temata": [
       "pojišťovna",
-      "účetní uzávěrka",
       "zdravotní pojištění",
-      "zpráva o činnosti"
+      "zpráva o činnosti",
+      "účetní uzávėrka",
+      "účetní uzávěrka"
     ]
   },
   {
@@ -13778,9 +14246,10 @@
     },
     "temata": [
       "pojišťovna",
-      "účetní uzávěrka",
       "zdravotní pojištění",
-      "zpráva o činnosti"
+      "zpráva o činnosti",
+      "účetní uzávėrka",
+      "účetní uzávěrka"
     ]
   },
   {
@@ -14093,9 +14562,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -14115,9 +14587,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -14137,9 +14612,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -14159,9 +14637,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -14181,9 +14662,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -14203,9 +14687,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -14225,9 +14712,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -14247,9 +14737,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -14269,9 +14762,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -14291,9 +14787,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -14313,9 +14812,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -14335,9 +14837,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -14357,9 +14862,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -14379,9 +14887,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -14429,9 +14940,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -14451,9 +14965,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
+      "zemėdėlská politika",
       "zemědělská politika",
+      "znevýhodnėná oblast",
       "znevýhodněná oblast"
     ]
   },
@@ -14992,6 +15509,7 @@
       "not_logged": 16
     },
     "temata": [
+      "Fond dėtí a mládee",
       "Fond dětí a mládeže",
       "Národní hospodářství",
       "Politika",
@@ -15015,6 +15533,7 @@
       "not_logged": 15
     },
     "temata": [
+      "Fond dėtí a mládee",
       "Fond dětí a mládeže",
       "Národní hospodářství",
       "Politika",
@@ -15155,6 +15674,7 @@
       "daň",
       "daňová asignace",
       "daňový poplatník",
+      "daōová asignace",
       "palivo",
       "spotřební daň",
       "tabák"
@@ -15182,6 +15702,7 @@
       "daň",
       "daňová asignace",
       "daňový poplatník",
+      "daōová asignace",
       "palivo",
       "spotřební daň",
       "tabák"
@@ -15209,6 +15730,7 @@
       "daň",
       "daňová asignace",
       "daňový poplatník",
+      "daōová asignace",
       "palivo",
       "spotřební daň",
       "tabák"
@@ -15236,6 +15758,7 @@
       "daň",
       "daňová asignace",
       "daňový poplatník",
+      "daōová asignace",
       "palivo",
       "spotřební daň",
       "tabák"
@@ -15263,6 +15786,7 @@
       "daň",
       "daňová asignace",
       "daňový poplatník",
+      "daōová asignace",
       "palivo",
       "spotřební daň",
       "tabák"
@@ -15281,6 +15805,7 @@
       "not_logged": 28
     },
     "temata": [
+      "Fond dėtí a mládee",
       "Fond dětí a mládeže",
       "Národní hospodářství",
       "Politika",
@@ -15527,6 +16052,7 @@
       "not_logged": 15
     },
     "temata": [
+      "Fond dėtí a mládee",
       "Fond dětí a mládeže",
       "Národní hospodářství",
       "Politika",
@@ -15676,12 +16202,13 @@
       "not_logged": 7
     },
     "temata": [
-      "Uspořádání územně správní",
-      "Ústava České republiky, ústavní zákony",
       "Politika",
       "Státní správa a justice",
+      "Uspoøádání územnė správní",
+      "Uspořádání územně správní",
       "administrativní členění",
       "region",
+      "Ústava České republiky, ústavní zákony",
       "ústava",
       "územní samospráva"
     ]
@@ -15699,12 +16226,13 @@
       "not_logged": 7
     },
     "temata": [
-      "Uspořádání územně správní",
-      "Ústava České republiky, ústavní zákony",
       "Politika",
       "Státní správa a justice",
+      "Uspoøádání územnė správní",
+      "Uspořádání územně správní",
       "administrativní členění",
       "region",
+      "Ústava České republiky, ústavní zákony",
       "ústava",
       "územní samospráva"
     ]
@@ -15722,12 +16250,13 @@
       "not_logged": 9
     },
     "temata": [
-      "Uspořádání územně správní",
-      "Ústava České republiky, ústavní zákony",
       "Politika",
       "Státní správa a justice",
+      "Uspoøádání územnė správní",
+      "Uspořádání územně správní",
       "administrativní členění",
       "region",
+      "Ústava České republiky, ústavní zákony",
       "ústava",
       "územní samospráva"
     ]
@@ -15745,12 +16274,13 @@
       "not_logged": 9
     },
     "temata": [
-      "Uspořádání územně správní",
-      "Ústava České republiky, ústavní zákony",
       "Politika",
       "Státní správa a justice",
+      "Uspoøádání územnė správní",
+      "Uspořádání územně správní",
       "administrativní členění",
       "region",
+      "Ústava České republiky, ústavní zákony",
       "ústava",
       "územní samospráva"
     ]
@@ -15768,12 +16298,13 @@
       "not_logged": 40
     },
     "temata": [
-      "Uspořádání územně správní",
-      "Ústava České republiky, ústavní zákony",
       "Politika",
       "Státní správa a justice",
+      "Uspoøádání územnė správní",
+      "Uspořádání územně správní",
       "administrativní členění",
       "region",
+      "Ústava České republiky, ústavní zákony",
       "ústava",
       "územní samospráva"
     ]
@@ -15791,12 +16322,13 @@
       "not_logged": 17
     },
     "temata": [
-      "Uspořádání územně správní",
-      "Ústava České republiky, ústavní zákony",
       "Politika",
       "Státní správa a justice",
+      "Uspoøádání územnė správní",
+      "Uspořádání územně správní",
       "administrativní členění",
       "region",
+      "Ústava České republiky, ústavní zákony",
       "ústava",
       "územní samospráva"
     ]
@@ -15814,12 +16346,13 @@
       "not_logged": 14
     },
     "temata": [
-      "Uspořádání územně správní",
-      "Ústava České republiky, ústavní zákony",
       "Politika",
       "Státní správa a justice",
+      "Uspoøádání územnė správní",
+      "Uspořádání územně správní",
       "administrativní členění",
       "region",
+      "Ústava České republiky, ústavní zákony",
       "ústava",
       "územní samospráva"
     ]
@@ -15837,12 +16370,13 @@
       "not_logged": 14
     },
     "temata": [
-      "Uspořádání územně správní",
-      "Ústava České republiky, ústavní zákony",
       "Politika",
       "Státní správa a justice",
+      "Uspoøádání územnė správní",
+      "Uspořádání územně správní",
       "administrativní členění",
       "region",
+      "Ústava České republiky, ústavní zákony",
       "ústava",
       "územní samospráva"
     ]
@@ -16761,12 +17295,15 @@
     },
     "temata": [
       "Myslivost",
-      "Zákon trestní",
       "Občan",
       "Těžba a výroba",
+      "Zákon trestní",
+      "lovná zvėø",
       "lovná zvěř",
+      "ochrana ivočiné øíe",
       "ochrana živočišné říše",
       "regulace lovu",
+      "rybáøský prųmysl",
       "rybářský průmysl",
       "trestný čin"
     ]
@@ -16785,12 +17322,15 @@
     },
     "temata": [
       "Myslivost",
-      "Zákon trestní",
       "Občan",
       "Těžba a výroba",
+      "Zákon trestní",
+      "lovná zvėø",
       "lovná zvěř",
+      "ochrana ivočiné øíe",
       "ochrana živočišné říše",
       "regulace lovu",
+      "rybáøský prųmysl",
       "rybářský průmysl",
       "trestný čin"
     ]
@@ -16809,12 +17349,15 @@
     },
     "temata": [
       "Myslivost",
-      "Zákon trestní",
       "Občan",
       "Těžba a výroba",
+      "Zákon trestní",
+      "lovná zvėø",
       "lovná zvěř",
+      "ochrana ivočiné øíe",
       "ochrana živočišné říše",
       "regulace lovu",
+      "rybáøský prųmysl",
       "rybářský průmysl",
       "trestný čin"
     ]
@@ -16833,12 +17376,15 @@
     },
     "temata": [
       "Myslivost",
-      "Zákon trestní",
       "Občan",
       "Těžba a výroba",
+      "Zákon trestní",
+      "lovná zvėø",
       "lovná zvěř",
+      "ochrana ivočiné øíe",
       "ochrana živočišné říše",
       "regulace lovu",
+      "rybáøský prųmysl",
       "rybářský průmysl",
       "trestný čin"
     ]
@@ -16870,10 +17416,11 @@
       "not_logged": 24
     },
     "temata": [
+      "Uspoøádání územnė správní",
       "Uspořádání územně správní",
-      "Ústava České republiky, ústavní zákony",
       "administrativní členění",
       "region",
+      "Ústava České republiky, ústavní zákony",
       "ústava",
       "územní samospráva"
     ]
@@ -16891,10 +17438,11 @@
       "not_logged": 28
     },
     "temata": [
+      "Uspoøádání územnė správní",
       "Uspořádání územně správní",
-      "Ústava České republiky, ústavní zákony",
       "administrativní členění",
       "region",
+      "Ústava České republiky, ústavní zákony",
       "ústava",
       "územní samospráva"
     ]
@@ -16912,10 +17460,11 @@
       "not_logged": 26
     },
     "temata": [
+      "Uspoøádání územnė správní",
       "Uspořádání územně správní",
-      "Ústava České republiky, ústavní zákony",
       "administrativní členění",
       "region",
+      "Ústava České republiky, ústavní zákony",
       "ústava",
       "územní samospráva"
     ]
@@ -16948,8 +17497,9 @@
     },
     "temata": [
       "Mzdy, odměny za práci",
-      "Náležitosti členů parlamentu",
+      "Náleitosti funkcionáøų mimo Funkcionáøi Poslanecké snėmovny - pøedseda, místopøedsedové, ovėøovatelé",
       "Náležitosti funkcionářů mimo Funkcionáři Poslanecké sněmovny - předseda, místopředsedové, ověřovatelé",
+      "Náležitosti členů parlamentu",
       "finanční příjem členů parlamentu",
       "mzda",
       "odměňování",
@@ -16976,8 +17526,9 @@
     },
     "temata": [
       "Mzdy, odměny za práci",
-      "Náležitosti členů parlamentu",
+      "Náleitosti funkcionáøų mimo Funkcionáøi Poslanecké snėmovny - pøedseda, místopøedsedové, ovėøovatelé",
       "Náležitosti funkcionářů mimo Funkcionáři Poslanecké sněmovny - předseda, místopředsedové, ověřovatelé",
+      "Náležitosti členů parlamentu",
       "finanční příjem členů parlamentu",
       "mzda",
       "odměňování",
@@ -17151,13 +17702,14 @@
       "not_logged": 35
     },
     "temata": [
-      "Zakázky",
       "Doprava a spoje",
       "Občan",
       "Peněžnictví a pojišťovnictví",
       "Pracovní síla",
       "Státní správa a justice",
+      "Zakázky",
       "veřejná zakázka",
+      "vypsání soutėe",
       "vypsání soutěže"
     ]
   },
@@ -17174,13 +17726,14 @@
       "not_logged": 40
     },
     "temata": [
-      "Zakázky",
       "Doprava a spoje",
       "Občan",
       "Peněžnictví a pojišťovnictví",
       "Pracovní síla",
       "Státní správa a justice",
+      "Zakázky",
       "veřejná zakázka",
+      "vypsání soutėe",
       "vypsání soutěže"
     ]
   },
@@ -17200,11 +17753,13 @@
       "Doprava",
       "Doprava a spoje",
       "Státní správa a justice",
+      "cestující veøejnost",
       "cestující veřejnost",
       "dopravce",
       "dopravní infrastruktura",
       "silniční doprava",
       "taxi",
+      "veøejná doprava",
       "veřejná doprava"
     ]
   },
@@ -17221,6 +17776,7 @@
       "not_logged": 35
     },
     "temata": [
+      "Fond dėtí a mládee",
       "Fond dětí a mládeže",
       "Národní hospodářství",
       "Politika",
@@ -17244,6 +17800,7 @@
       "not_logged": 3
     },
     "temata": [
+      "Fond dėtí a mládee",
       "Fond dětí a mládeže",
       "Národní hospodářství",
       "Politika",
@@ -17267,6 +17824,7 @@
       "not_logged": 3
     },
     "temata": [
+      "Fond dėtí a mládee",
       "Fond dětí a mládeže",
       "Národní hospodářství",
       "Politika",
@@ -17290,6 +17848,7 @@
       "not_logged": 3
     },
     "temata": [
+      "Fond dėtí a mládee",
       "Fond dětí a mládeže",
       "Národní hospodářství",
       "Politika",
@@ -17313,6 +17872,7 @@
       "not_logged": 23
     },
     "temata": [
+      "Fond dėtí a mládee",
       "Fond dětí a mládeže",
       "Národní hospodářství",
       "Politika",
@@ -17336,6 +17896,7 @@
       "not_logged": 3
     },
     "temata": [
+      "Fond dėtí a mládee",
       "Fond dětí a mládeže",
       "Národní hospodářství",
       "Politika",
@@ -17359,6 +17920,7 @@
       "not_logged": 3
     },
     "temata": [
+      "Fond dėtí a mládee",
       "Fond dětí a mládeže",
       "Národní hospodářství",
       "Politika",
@@ -17382,6 +17944,7 @@
       "not_logged": 3
     },
     "temata": [
+      "Fond dėtí a mládee",
       "Fond dětí a mládeže",
       "Národní hospodářství",
       "Politika",
@@ -17405,6 +17968,7 @@
       "not_logged": 3
     },
     "temata": [
+      "Fond dėtí a mládee",
       "Fond dětí a mládeže",
       "Národní hospodářství",
       "Politika",
@@ -17428,6 +17992,7 @@
       "not_logged": 3
     },
     "temata": [
+      "Fond dėtí a mládee",
       "Fond dětí a mládeže",
       "Národní hospodářství",
       "Politika",
@@ -17451,6 +18016,7 @@
       "not_logged": 2
     },
     "temata": [
+      "Fond dėtí a mládee",
       "Fond dětí a mládeže",
       "Národní hospodářství",
       "Politika",
@@ -17474,6 +18040,7 @@
       "not_logged": 2
     },
     "temata": [
+      "Fond dėtí a mládee",
       "Fond dětí a mládeže",
       "Národní hospodářství",
       "Politika",
@@ -17497,6 +18064,7 @@
       "not_logged": 2
     },
     "temata": [
+      "Fond dėtí a mládee",
       "Fond dětí a mládeže",
       "Národní hospodářství",
       "Politika",
@@ -17520,6 +18088,7 @@
       "not_logged": 3
     },
     "temata": [
+      "Fond dėtí a mládee",
       "Fond dětí a mládeže",
       "Národní hospodářství",
       "Politika",
@@ -18518,6 +19087,7 @@
       "not_logged": 3
     },
     "temata": [
+      "Fond dėtí a mládee",
       "Fond dětí a mládeže",
       "Národní hospodářství",
       "Politika",
@@ -18541,6 +19111,7 @@
       "not_logged": 4
     },
     "temata": [
+      "Fond dėtí a mládee",
       "Fond dětí a mládeže",
       "Národní hospodářství",
       "Politika",
@@ -18564,6 +19135,7 @@
       "not_logged": 2
     },
     "temata": [
+      "Fond dėtí a mládee",
       "Fond dětí a mládeže",
       "Národní hospodářství",
       "Politika",
@@ -18633,12 +19205,13 @@
       "not_logged": 5
     },
     "temata": [
-      "Uspořádání územně správní",
-      "Ústava České republiky, ústavní zákony",
       "Politika",
       "Státní správa a justice",
+      "Uspoøádání územnė správní",
+      "Uspořádání územně správní",
       "administrativní členění",
       "region",
+      "Ústava České republiky, ústavní zákony",
       "ústava",
       "územní samospráva"
     ]
@@ -18656,12 +19229,13 @@
       "not_logged": 4
     },
     "temata": [
-      "Uspořádání územně správní",
-      "Ústava České republiky, ústavní zákony",
       "Politika",
       "Státní správa a justice",
+      "Uspoøádání územnė správní",
+      "Uspořádání územně správní",
       "administrativní členění",
       "region",
+      "Ústava České republiky, ústavní zákony",
       "ústava",
       "územní samospráva"
     ]
@@ -18679,12 +19253,13 @@
       "not_logged": 4
     },
     "temata": [
-      "Uspořádání územně správní",
-      "Ústava České republiky, ústavní zákony",
       "Politika",
       "Státní správa a justice",
+      "Uspoøádání územnė správní",
+      "Uspořádání územně správní",
       "administrativní členění",
       "region",
+      "Ústava České republiky, ústavní zákony",
       "ústava",
       "územní samospráva"
     ]
@@ -18702,12 +19277,13 @@
       "not_logged": 4
     },
     "temata": [
-      "Uspořádání územně správní",
-      "Ústava České republiky, ústavní zákony",
       "Politika",
       "Státní správa a justice",
+      "Uspoøádání územnė správní",
+      "Uspořádání územně správní",
       "administrativní členění",
       "region",
+      "Ústava České republiky, ústavní zákony",
       "ústava",
       "územní samospráva"
     ]
@@ -18725,12 +19301,13 @@
       "not_logged": 4
     },
     "temata": [
-      "Uspořádání územně správní",
-      "Ústava České republiky, ústavní zákony",
       "Politika",
       "Státní správa a justice",
+      "Uspoøádání územnė správní",
+      "Uspořádání územně správní",
       "administrativní členění",
       "region",
+      "Ústava České republiky, ústavní zákony",
       "ústava",
       "územní samospráva"
     ]
@@ -18748,12 +19325,13 @@
       "not_logged": 5
     },
     "temata": [
-      "Uspořádání územně správní",
-      "Ústava České republiky, ústavní zákony",
       "Politika",
       "Státní správa a justice",
+      "Uspoøádání územnė správní",
+      "Uspořádání územně správní",
       "administrativní členění",
       "region",
+      "Ústava České republiky, ústavní zákony",
       "ústava",
       "územní samospráva"
     ]
@@ -18771,12 +19349,13 @@
       "not_logged": 4
     },
     "temata": [
-      "Uspořádání územně správní",
-      "Ústava České republiky, ústavní zákony",
       "Politika",
       "Státní správa a justice",
+      "Uspoøádání územnė správní",
+      "Uspořádání územně správní",
       "administrativní členění",
       "region",
+      "Ústava České republiky, ústavní zákony",
       "ústava",
       "územní samospráva"
     ]
@@ -18794,12 +19373,13 @@
       "not_logged": 4
     },
     "temata": [
-      "Uspořádání územně správní",
-      "Ústava České republiky, ústavní zákony",
       "Politika",
       "Státní správa a justice",
+      "Uspoøádání územnė správní",
+      "Uspořádání územně správní",
       "administrativní členění",
       "region",
+      "Ústava České republiky, ústavní zákony",
       "ústava",
       "územní samospráva"
     ]
@@ -18817,12 +19397,13 @@
       "not_logged": 4
     },
     "temata": [
-      "Uspořádání územně správní",
-      "Ústava České republiky, ústavní zákony",
       "Politika",
       "Státní správa a justice",
+      "Uspoøádání územnė správní",
+      "Uspořádání územně správní",
       "administrativní členění",
       "region",
+      "Ústava České republiky, ústavní zákony",
       "ústava",
       "územní samospráva"
     ]
@@ -18840,12 +19421,13 @@
       "not_logged": 4
     },
     "temata": [
-      "Uspořádání územně správní",
-      "Ústava České republiky, ústavní zákony",
       "Politika",
       "Státní správa a justice",
+      "Uspoøádání územnė správní",
+      "Uspořádání územně správní",
       "administrativní členění",
       "region",
+      "Ústava České republiky, ústavní zákony",
       "ústava",
       "územní samospráva"
     ]
@@ -18863,12 +19445,13 @@
       "not_logged": 4
     },
     "temata": [
-      "Uspořádání územně správní",
-      "Ústava České republiky, ústavní zákony",
       "Politika",
       "Státní správa a justice",
+      "Uspoøádání územnė správní",
+      "Uspořádání územně správní",
       "administrativní členění",
       "region",
+      "Ústava České republiky, ústavní zákony",
       "ústava",
       "územní samospráva"
     ]
@@ -18886,12 +19469,13 @@
       "not_logged": 4
     },
     "temata": [
-      "Uspořádání územně správní",
-      "Ústava České republiky, ústavní zákony",
       "Politika",
       "Státní správa a justice",
+      "Uspoøádání územnė správní",
+      "Uspořádání územně správní",
       "administrativní členění",
       "region",
+      "Ústava České republiky, ústavní zákony",
       "ústava",
       "územní samospráva"
     ]
@@ -18909,12 +19493,13 @@
       "not_logged": 4
     },
     "temata": [
-      "Uspořádání územně správní",
-      "Ústava České republiky, ústavní zákony",
       "Politika",
       "Státní správa a justice",
+      "Uspoøádání územnė správní",
+      "Uspořádání územně správní",
       "administrativní členění",
       "region",
+      "Ústava České republiky, ústavní zákony",
       "ústava",
       "územní samospráva"
     ]
@@ -18932,12 +19517,13 @@
       "not_logged": 4
     },
     "temata": [
-      "Uspořádání územně správní",
-      "Ústava České republiky, ústavní zákony",
       "Politika",
       "Státní správa a justice",
+      "Uspoøádání územnė správní",
+      "Uspořádání územně správní",
       "administrativní členění",
       "region",
+      "Ústava České republiky, ústavní zákony",
       "ústava",
       "územní samospráva"
     ]
@@ -18955,12 +19541,13 @@
       "not_logged": 5
     },
     "temata": [
-      "Uspořádání územně správní",
-      "Ústava České republiky, ústavní zákony",
       "Politika",
       "Státní správa a justice",
+      "Uspoøádání územnė správní",
+      "Uspořádání územně správní",
       "administrativní členění",
       "region",
+      "Ústava České republiky, ústavní zákony",
       "ústava",
       "územní samospráva"
     ]
@@ -19641,6 +20228,7 @@
       "daň",
       "daňová asignace",
       "daňový poplatník",
+      "daōová asignace",
       "palivo",
       "spotřební daň",
       "tabák"
@@ -19668,6 +20256,7 @@
       "daň",
       "daňová asignace",
       "daňový poplatník",
+      "daōová asignace",
       "palivo",
       "spotřební daň",
       "tabák"
@@ -19695,6 +20284,7 @@
       "daň",
       "daňová asignace",
       "daňový poplatník",
+      "daōová asignace",
       "palivo",
       "spotřební daň",
       "tabák"
@@ -19722,6 +20312,7 @@
       "daň",
       "daňová asignace",
       "daňový poplatník",
+      "daōová asignace",
       "palivo",
       "spotřební daň",
       "tabák"
@@ -19749,6 +20340,7 @@
       "daň",
       "daňová asignace",
       "daňový poplatník",
+      "daōová asignace",
       "palivo",
       "spotřební daň",
       "tabák"
@@ -19776,6 +20368,7 @@
       "daň",
       "daňová asignace",
       "daňový poplatník",
+      "daōová asignace",
       "palivo",
       "spotřební daň",
       "tabák"
@@ -19803,6 +20396,7 @@
       "daň",
       "daňová asignace",
       "daňový poplatník",
+      "daōová asignace",
       "palivo",
       "spotřební daň",
       "tabák"
@@ -19830,6 +20424,7 @@
       "daň",
       "daňová asignace",
       "daňový poplatník",
+      "daōová asignace",
       "palivo",
       "spotřební daň",
       "tabák"
@@ -19857,6 +20452,7 @@
       "daň",
       "daňová asignace",
       "daňový poplatník",
+      "daōová asignace",
       "palivo",
       "spotřební daň",
       "tabák"
@@ -19884,6 +20480,7 @@
       "daň",
       "daňová asignace",
       "daňový poplatník",
+      "daōová asignace",
       "palivo",
       "spotřební daň",
       "tabák"
@@ -19911,6 +20508,7 @@
       "daň",
       "daňová asignace",
       "daňový poplatník",
+      "daōová asignace",
       "palivo",
       "spotřební daň",
       "tabák"
@@ -19938,6 +20536,7 @@
       "daň",
       "daňová asignace",
       "daňový poplatník",
+      "daōová asignace",
       "palivo",
       "spotřební daň",
       "tabák"
@@ -19965,6 +20564,7 @@
       "daň",
       "daňová asignace",
       "daňový poplatník",
+      "daōová asignace",
       "palivo",
       "spotřební daň",
       "tabák"
@@ -19992,6 +20592,7 @@
       "daň",
       "daňová asignace",
       "daňový poplatník",
+      "daōová asignace",
       "palivo",
       "spotřební daň",
       "tabák"
@@ -20019,6 +20620,7 @@
       "daň",
       "daňová asignace",
       "daňový poplatník",
+      "daōová asignace",
       "palivo",
       "spotřební daň",
       "tabák"
@@ -20046,6 +20648,7 @@
       "daň",
       "daňová asignace",
       "daňový poplatník",
+      "daōová asignace",
       "palivo",
       "spotřební daň",
       "tabák"
@@ -20073,6 +20676,7 @@
       "daň",
       "daňová asignace",
       "daňový poplatník",
+      "daōová asignace",
       "palivo",
       "spotřební daň",
       "tabák"
@@ -20100,6 +20704,7 @@
       "daň",
       "daňová asignace",
       "daňový poplatník",
+      "daōová asignace",
       "palivo",
       "spotřební daň",
       "tabák"
@@ -20127,6 +20732,7 @@
       "daň",
       "daňová asignace",
       "daňový poplatník",
+      "daōová asignace",
       "palivo",
       "spotřební daň",
       "tabák"
@@ -20154,6 +20760,7 @@
       "daň",
       "daňová asignace",
       "daňový poplatník",
+      "daōová asignace",
       "palivo",
       "spotřební daň",
       "tabák"
@@ -20181,6 +20788,7 @@
       "daň",
       "daňová asignace",
       "daňový poplatník",
+      "daōová asignace",
       "palivo",
       "spotřební daň",
       "tabák"
@@ -20208,6 +20816,7 @@
       "daň",
       "daňová asignace",
       "daňový poplatník",
+      "daōová asignace",
       "palivo",
       "spotřební daň",
       "tabák"
@@ -20509,12 +21118,13 @@
       "not_logged": 47
     },
     "temata": [
+      "Obchod",
       "Obchod a služby",
       "Občan",
-      "Obchod",
       "bezpečnost výrobku",
       "náhrada škody",
       "ochrana spotřebitele",
+      "odpovėdnost výrobce",
       "odpovědnost výrobce",
       "přibližování legislativy",
       "vadný výrobek"
@@ -20533,12 +21143,13 @@
       "not_logged": 45
     },
     "temata": [
+      "Obchod",
       "Obchod a služby",
       "Občan",
-      "Obchod",
       "bezpečnost výrobku",
       "náhrada škody",
       "ochrana spotřebitele",
+      "odpovėdnost výrobce",
       "odpovědnost výrobce",
       "přibližování legislativy",
       "vadný výrobek"
@@ -20626,8 +21237,10 @@
     "temata": [
       "Poplatky",
       "ceník",
-      "náklady řízení",
+      "nevyøízené soudní spory",
       "nevyřízené soudní spory",
+      "náklady øízení",
+      "náklady řízení",
       "soudní řízení"
     ]
   },
@@ -20646,8 +21259,10 @@
     "temata": [
       "Poplatky",
       "ceník",
-      "náklady řízení",
+      "nevyøízené soudní spory",
       "nevyřízené soudní spory",
+      "náklady øízení",
+      "náklady řízení",
       "soudní řízení"
     ]
   },
@@ -20666,8 +21281,10 @@
     "temata": [
       "Poplatky",
       "ceník",
-      "náklady řízení",
+      "nevyøízené soudní spory",
       "nevyřízené soudní spory",
+      "náklady øízení",
+      "náklady řízení",
       "soudní řízení"
     ]
   },
@@ -20686,8 +21303,10 @@
     "temata": [
       "Poplatky",
       "ceník",
-      "náklady řízení",
+      "nevyøízené soudní spory",
       "nevyřízené soudní spory",
+      "náklady øízení",
+      "náklady řízení",
       "soudní řízení"
     ]
   },
@@ -20706,8 +21325,10 @@
     "temata": [
       "Poplatky",
       "ceník",
-      "náklady řízení",
+      "nevyøízené soudní spory",
       "nevyřízené soudní spory",
+      "náklady øízení",
+      "náklady řízení",
       "soudní řízení"
     ]
   },
@@ -20782,8 +21403,10 @@
     "temata": [
       "Poplatky",
       "ceník",
-      "náklady řízení",
+      "nevyøízené soudní spory",
       "nevyřízené soudní spory",
+      "náklady øízení",
+      "náklady řízení",
       "soudní řízení"
     ]
   },
@@ -20802,8 +21425,10 @@
     "temata": [
       "Poplatky",
       "ceník",
-      "náklady řízení",
+      "nevyøízené soudní spory",
       "nevyřízené soudní spory",
+      "náklady øízení",
+      "náklady řízení",
       "soudní řízení"
     ]
   },
@@ -20822,8 +21447,10 @@
     "temata": [
       "Poplatky",
       "ceník",
-      "náklady řízení",
+      "nevyøízené soudní spory",
       "nevyřízené soudní spory",
+      "náklady øízení",
+      "náklady řízení",
       "soudní řízení"
     ]
   },
@@ -20855,16 +21482,17 @@
     },
     "temata": [
       "Bezpečnost státu",
-      "Situace krizové",
-      "Ústava České republiky, ústavní zákony",
       "Obrana a bezpečnost",
+      "Situace krizové",
       "Státní správa a justice",
       "armáda",
       "civilní ochrana",
       "obranná politika",
       "veřejná bezpečnost",
+      "zvlátní stav",
+      "zvláštní stav",
       "základní vojenská služba",
-      "zvláštní stav"
+      "Ústava České republiky, ústavní zákony"
     ]
   },
   {
@@ -20881,16 +21509,17 @@
     },
     "temata": [
       "Bezpečnost státu",
-      "Situace krizové",
-      "Ústava České republiky, ústavní zákony",
       "Obrana a bezpečnost",
+      "Situace krizové",
       "Státní správa a justice",
       "armáda",
       "civilní ochrana",
       "obranná politika",
       "veřejná bezpečnost",
+      "zvlátní stav",
+      "zvláštní stav",
       "základní vojenská služba",
-      "zvláštní stav"
+      "Ústava České republiky, ústavní zákony"
     ]
   },
   {
@@ -20907,16 +21536,17 @@
     },
     "temata": [
       "Bezpečnost státu",
-      "Situace krizové",
-      "Ústava České republiky, ústavní zákony",
       "Obrana a bezpečnost",
+      "Situace krizové",
       "Státní správa a justice",
       "armáda",
       "civilní ochrana",
       "obranná politika",
       "veřejná bezpečnost",
+      "zvlátní stav",
+      "zvláštní stav",
       "základní vojenská služba",
-      "zvláštní stav"
+      "Ústava České republiky, ústavní zákony"
     ]
   },
   {
@@ -20933,16 +21563,17 @@
     },
     "temata": [
       "Bezpečnost státu",
-      "Situace krizové",
-      "Ústava České republiky, ústavní zákony",
       "Obrana a bezpečnost",
+      "Situace krizové",
       "Státní správa a justice",
       "armáda",
       "civilní ochrana",
       "obranná politika",
       "veřejná bezpečnost",
+      "zvlátní stav",
+      "zvláštní stav",
       "základní vojenská služba",
-      "zvláštní stav"
+      "Ústava České republiky, ústavní zákony"
     ]
   },
   {
@@ -20959,16 +21590,17 @@
     },
     "temata": [
       "Bezpečnost státu",
-      "Situace krizové",
-      "Ústava České republiky, ústavní zákony",
       "Obrana a bezpečnost",
+      "Situace krizové",
       "Státní správa a justice",
       "armáda",
       "civilní ochrana",
       "obranná politika",
       "veřejná bezpečnost",
+      "zvlátní stav",
+      "zvláštní stav",
       "základní vojenská služba",
-      "zvláštní stav"
+      "Ústava České republiky, ústavní zákony"
     ]
   },
   {
@@ -20985,16 +21617,17 @@
     },
     "temata": [
       "Bezpečnost státu",
-      "Situace krizové",
-      "Ústava České republiky, ústavní zákony",
       "Obrana a bezpečnost",
+      "Situace krizové",
       "Státní správa a justice",
       "armáda",
       "civilní ochrana",
       "obranná politika",
       "veřejná bezpečnost",
+      "zvlátní stav",
+      "zvláštní stav",
       "základní vojenská služba",
-      "zvláštní stav"
+      "Ústava České republiky, ústavní zákony"
     ]
   },
   {
@@ -21140,11 +21773,12 @@
     },
     "temata": [
       "Zákon živnostenský",
-      "Živnostenské podnikání",
       "malý obchodník",
-      "právní předpisy místní správy",
       "prodej",
+      "právní předpisy místní správy",
       "soukromý sektor",
+      "soukromż sektor",
+      "Živnostenské podnikání",
       "živnost",
       "živnostník"
     ]
@@ -21277,12 +21911,14 @@
       "not_logged": 29
     },
     "temata": [
-      "Česká tisková kancelář",
       "financování rozpočtu",
+      "plnėní rozpočtu",
       "plnění rozpočtu",
       "tisková agentura",
+      "zpráva o činnosti",
+      "účetní uzávėrka",
       "účetní uzávěrka",
-      "zpráva o činnosti"
+      "Česká tisková kancelář"
     ]
   },
   {
@@ -21298,12 +21934,14 @@
       "not_logged": 25
     },
     "temata": [
-      "Česká tisková kancelář",
       "financování rozpočtu",
+      "plnėní rozpočtu",
       "plnění rozpočtu",
       "tisková agentura",
+      "zpráva o činnosti",
+      "účetní uzávėrka",
       "účetní uzávěrka",
-      "zpráva o činnosti"
+      "Česká tisková kancelář"
     ]
   },
   {
@@ -21319,12 +21957,14 @@
       "not_logged": 22
     },
     "temata": [
-      "Česká tisková kancelář",
       "financování rozpočtu",
+      "plnėní rozpočtu",
       "plnění rozpočtu",
       "tisková agentura",
+      "zpráva o činnosti",
+      "účetní uzávėrka",
       "účetní uzávěrka",
-      "zpráva o činnosti"
+      "Česká tisková kancelář"
     ]
   },
   {
@@ -21472,12 +22112,14 @@
       "not_logged": 22
     },
     "temata": [
-      "Česká tisková kancelář",
       "financování rozpočtu",
+      "plnėní rozpočtu",
       "plnění rozpočtu",
       "tisková agentura",
+      "zpráva o činnosti",
+      "účetní uzávėrka",
       "účetní uzávěrka",
-      "zpráva o činnosti"
+      "Česká tisková kancelář"
     ]
   },
   {
@@ -21493,12 +22135,14 @@
       "not_logged": 22
     },
     "temata": [
-      "Česká tisková kancelář",
       "financování rozpočtu",
+      "plnėní rozpočtu",
       "plnění rozpočtu",
       "tisková agentura",
+      "zpráva o činnosti",
+      "účetní uzávėrka",
       "účetní uzávěrka",
-      "zpráva o činnosti"
+      "Česká tisková kancelář"
     ]
   },
   {
@@ -21514,12 +22158,14 @@
       "not_logged": 25
     },
     "temata": [
-      "Česká tisková kancelář",
       "financování rozpočtu",
+      "plnėní rozpočtu",
       "plnění rozpočtu",
       "tisková agentura",
+      "zpráva o činnosti",
+      "účetní uzávėrka",
       "účetní uzávěrka",
-      "zpráva o činnosti"
+      "Česká tisková kancelář"
     ]
   },
   {
@@ -21535,12 +22181,14 @@
       "not_logged": 22
     },
     "temata": [
-      "Česká tisková kancelář",
       "financování rozpočtu",
+      "plnėní rozpočtu",
       "plnění rozpočtu",
       "tisková agentura",
+      "zpráva o činnosti",
+      "účetní uzávėrka",
       "účetní uzávěrka",
-      "zpráva o činnosti"
+      "Česká tisková kancelář"
     ]
   },
   {
@@ -21556,6 +22204,7 @@
       "not_logged": 24
     },
     "temata": [
+      "Fond dėtí a mládee",
       "Fond dětí a mládeže",
       "Národní hospodářství",
       "Politika",
@@ -21579,6 +22228,7 @@
       "not_logged": 25
     },
     "temata": [
+      "Fond dėtí a mládee",
       "Fond dětí a mládeže",
       "Národní hospodářství",
       "Politika",
@@ -21602,6 +22252,7 @@
       "not_logged": 24
     },
     "temata": [
+      "Fond dėtí a mládee",
       "Fond dětí a mládeže",
       "Národní hospodářství",
       "Politika",
@@ -21625,12 +22276,14 @@
       "not_logged": 25
     },
     "temata": [
-      "Česká tisková kancelář",
       "financování rozpočtu",
+      "plnėní rozpočtu",
       "plnění rozpočtu",
       "tisková agentura",
+      "zpráva o činnosti",
+      "účetní uzávėrka",
       "účetní uzávěrka",
-      "zpráva o činnosti"
+      "Česká tisková kancelář"
     ]
   },
   {
@@ -22153,8 +22806,9 @@
     },
     "temata": [
       "Belgie",
-      "Česká republika",
-      "daňová úmluva"
+      "daňová úmluva",
+      "daōová úmluva",
+      "Česká republika"
     ]
   },
   {
@@ -22171,8 +22825,9 @@
     },
     "temata": [
       "Belgie",
-      "Česká republika",
-      "daňová úmluva"
+      "daňová úmluva",
+      "daōová úmluva",
+      "Česká republika"
     ]
   },
   {
@@ -22189,8 +22844,9 @@
     },
     "temata": [
       "Belgie",
-      "Česká republika",
-      "daňová úmluva"
+      "daňová úmluva",
+      "daōová úmluva",
+      "Česká republika"
     ]
   },
   {
@@ -22241,8 +22897,9 @@
     },
     "temata": [
       "Belgie",
-      "Česká republika",
-      "daňová úmluva"
+      "daňová úmluva",
+      "daōová úmluva",
+      "Česká republika"
     ]
   },
   {
@@ -22259,8 +22916,9 @@
     },
     "temata": [
       "Belgie",
-      "Česká republika",
-      "daňová úmluva"
+      "daňová úmluva",
+      "daōová úmluva",
+      "Česká republika"
     ]
   },
   {
@@ -22276,10 +22934,11 @@
       "not_logged": 85
     },
     "temata": [
+      "Bėlorusko",
       "Bělorusko",
-      "Česká republika",
       "ochrana investic",
-      "podpora investic"
+      "podpora investic",
+      "Česká republika"
     ]
   },
   {
@@ -22353,8 +23012,9 @@
     },
     "temata": [
       "Belgie",
-      "Česká republika",
-      "daňová úmluva"
+      "daňová úmluva",
+      "daōová úmluva",
+      "Česká republika"
     ]
   },
   {
@@ -22488,6 +23148,7 @@
       "not_logged": 37
     },
     "temata": [
+      "Fond dėtí a mládee",
       "Fond dětí a mládeže",
       "Národní hospodářství",
       "Politika",
@@ -22511,6 +23172,7 @@
       "not_logged": 26
     },
     "temata": [
+      "Fond dėtí a mládee",
       "Fond dětí a mládeže",
       "Národní hospodářství",
       "Politika",
@@ -22534,6 +23196,7 @@
       "not_logged": 24
     },
     "temata": [
+      "Fond dėtí a mládee",
       "Fond dětí a mládeže",
       "Národní hospodářství",
       "Politika",
@@ -22557,6 +23220,7 @@
       "not_logged": 24
     },
     "temata": [
+      "Fond dėtí a mládee",
       "Fond dětí a mládeže",
       "Národní hospodářství",
       "Politika",
@@ -22580,6 +23244,7 @@
       "not_logged": 24
     },
     "temata": [
+      "Fond dėtí a mládee",
       "Fond dětí a mládeže",
       "Národní hospodářství",
       "Politika",
@@ -22603,6 +23268,7 @@
       "not_logged": 24
     },
     "temata": [
+      "Fond dėtí a mládee",
       "Fond dětí a mládeže",
       "Národní hospodářství",
       "Politika",
@@ -22626,6 +23292,7 @@
       "not_logged": 24
     },
     "temata": [
+      "Fond dėtí a mládee",
       "Fond dětí a mládeže",
       "Národní hospodářství",
       "Politika",
@@ -22649,6 +23316,7 @@
       "not_logged": 24
     },
     "temata": [
+      "Fond dėtí a mládee",
       "Fond dětí a mládeže",
       "Národní hospodářství",
       "Politika",
@@ -22672,6 +23340,7 @@
       "not_logged": 23
     },
     "temata": [
+      "Fond dėtí a mládee",
       "Fond dětí a mládeže",
       "Národní hospodářství",
       "Politika",
@@ -22695,6 +23364,7 @@
       "not_logged": 23
     },
     "temata": [
+      "Fond dėtí a mládee",
       "Fond dětí a mládeže",
       "Národní hospodářství",
       "Politika",
@@ -22718,6 +23388,7 @@
       "not_logged": 23
     },
     "temata": [
+      "Fond dėtí a mládee",
       "Fond dětí a mládeže",
       "Národní hospodářství",
       "Politika",
@@ -22741,6 +23412,7 @@
       "not_logged": 23
     },
     "temata": [
+      "Fond dėtí a mládee",
       "Fond dětí a mládeže",
       "Národní hospodářství",
       "Politika",
@@ -22764,6 +23436,7 @@
       "not_logged": 22
     },
     "temata": [
+      "Fond dėtí a mládee",
       "Fond dětí a mládeže",
       "Národní hospodářství",
       "Politika",
@@ -22787,6 +23460,7 @@
       "not_logged": 22
     },
     "temata": [
+      "Fond dėtí a mládee",
       "Fond dětí a mládeže",
       "Národní hospodářství",
       "Politika",
@@ -22810,6 +23484,7 @@
       "not_logged": 22
     },
     "temata": [
+      "Fond dėtí a mládee",
       "Fond dětí a mládeže",
       "Národní hospodářství",
       "Politika",
@@ -22833,6 +23508,7 @@
       "not_logged": 20
     },
     "temata": [
+      "Fond dėtí a mládee",
       "Fond dětí a mládeže",
       "Národní hospodářství",
       "Politika",
@@ -22856,6 +23532,7 @@
       "not_logged": 17
     },
     "temata": [
+      "Fond dėtí a mládee",
       "Fond dětí a mládeže",
       "Národní hospodářství",
       "Politika",
@@ -22879,6 +23556,7 @@
       "not_logged": 17
     },
     "temata": [
+      "Fond dėtí a mládee",
       "Fond dětí a mládeže",
       "Národní hospodářství",
       "Politika",
@@ -22902,6 +23580,7 @@
       "not_logged": 17
     },
     "temata": [
+      "Fond dėtí a mládee",
       "Fond dětí a mládeže",
       "Národní hospodářství",
       "Politika",
@@ -22925,6 +23604,7 @@
       "not_logged": 21
     },
     "temata": [
+      "Fond dėtí a mládee",
       "Fond dětí a mládeže",
       "Národní hospodářství",
       "Politika",
@@ -22948,6 +23628,7 @@
       "not_logged": 16
     },
     "temata": [
+      "Fond dėtí a mládee",
       "Fond dětí a mládeže",
       "Národní hospodářství",
       "Politika",
@@ -22971,6 +23652,7 @@
       "not_logged": 16
     },
     "temata": [
+      "Fond dėtí a mládee",
       "Fond dětí a mládeže",
       "Národní hospodářství",
       "Politika",
@@ -22994,6 +23676,7 @@
       "not_logged": 18
     },
     "temata": [
+      "Fond dėtí a mládee",
       "Fond dětí a mládeže",
       "Národní hospodářství",
       "Politika",
@@ -23912,6 +24595,7 @@
     "temata": [
       "Mzdy, odměny za práci",
       "Schůze Poslanecké sněmovny",
+      "Schųze Poslanecké snėmovny",
       "finanční příjem členů parlamentu",
       "mzda",
       "odměňování",
@@ -23967,6 +24651,7 @@
     "temata": [
       "Mzdy, odměny za práci",
       "Schůze Poslanecké sněmovny",
+      "Schųze Poslanecké snėmovny",
       "finanční příjem členů parlamentu",
       "mzda",
       "odměňování",
@@ -23994,6 +24679,7 @@
     "temata": [
       "Mzdy, odměny za práci",
       "Schůze Poslanecké sněmovny",
+      "Schųze Poslanecké snėmovny",
       "finanční příjem členů parlamentu",
       "mzda",
       "odměňování",
@@ -24021,6 +24707,7 @@
     "temata": [
       "Mzdy, odměny za práci",
       "Schůze Poslanecké sněmovny",
+      "Schųze Poslanecké snėmovny",
       "finanční příjem členů parlamentu",
       "mzda",
       "odměňování",
@@ -24048,6 +24735,7 @@
     "temata": [
       "Mzdy, odměny za práci",
       "Schůze Poslanecké sněmovny",
+      "Schųze Poslanecké snėmovny",
       "finanční příjem členů parlamentu",
       "mzda",
       "odměňování",
@@ -24075,6 +24763,7 @@
     "temata": [
       "Mzdy, odměny za práci",
       "Schůze Poslanecké sněmovny",
+      "Schųze Poslanecké snėmovny",
       "finanční příjem členů parlamentu",
       "mzda",
       "odměňování",
@@ -24102,6 +24791,7 @@
     "temata": [
       "Mzdy, odměny za práci",
       "Schůze Poslanecké sněmovny",
+      "Schųze Poslanecké snėmovny",
       "finanční příjem členů parlamentu",
       "mzda",
       "odměňování",
@@ -24129,6 +24819,7 @@
     "temata": [
       "Mzdy, odměny za práci",
       "Schůze Poslanecké sněmovny",
+      "Schųze Poslanecké snėmovny",
       "finanční příjem členů parlamentu",
       "mzda",
       "odměňování",
@@ -24156,6 +24847,7 @@
     "temata": [
       "Mzdy, odměny za práci",
       "Schůze Poslanecké sněmovny",
+      "Schųze Poslanecké snėmovny",
       "finanční příjem členů parlamentu",
       "mzda",
       "odměňování",
@@ -24183,6 +24875,7 @@
     "temata": [
       "Mzdy, odměny za práci",
       "Schůze Poslanecké sněmovny",
+      "Schųze Poslanecké snėmovny",
       "finanční příjem členů parlamentu",
       "mzda",
       "odměňování",
@@ -24210,6 +24903,7 @@
     "temata": [
       "Mzdy, odměny za práci",
       "Schůze Poslanecké sněmovny",
+      "Schųze Poslanecké snėmovny",
       "finanční příjem členů parlamentu",
       "mzda",
       "odměňování",
@@ -24237,6 +24931,7 @@
     "temata": [
       "Mzdy, odměny za práci",
       "Schůze Poslanecké sněmovny",
+      "Schųze Poslanecké snėmovny",
       "finanční příjem členů parlamentu",
       "mzda",
       "odměňování",
@@ -24264,6 +24959,7 @@
     "temata": [
       "Mzdy, odměny za práci",
       "Schůze Poslanecké sněmovny",
+      "Schųze Poslanecké snėmovny",
       "finanční příjem členů parlamentu",
       "mzda",
       "odměňování",
@@ -24291,6 +24987,7 @@
     "temata": [
       "Mzdy, odměny za práci",
       "Schůze Poslanecké sněmovny",
+      "Schųze Poslanecké snėmovny",
       "finanční příjem členů parlamentu",
       "mzda",
       "odměňování",
@@ -24318,6 +25015,7 @@
     "temata": [
       "Mzdy, odměny za práci",
       "Schůze Poslanecké sněmovny",
+      "Schųze Poslanecké snėmovny",
       "finanční příjem členů parlamentu",
       "mzda",
       "odměňování",
@@ -24345,6 +25043,7 @@
     "temata": [
       "Mzdy, odměny za práci",
       "Schůze Poslanecké sněmovny",
+      "Schųze Poslanecké snėmovny",
       "finanční příjem členů parlamentu",
       "mzda",
       "odměňování",
@@ -24372,6 +25071,7 @@
     "temata": [
       "Mzdy, odměny za práci",
       "Schůze Poslanecké sněmovny",
+      "Schųze Poslanecké snėmovny",
       "finanční příjem členů parlamentu",
       "mzda",
       "odměňování",
@@ -24399,6 +25099,7 @@
     "temata": [
       "Mzdy, odměny za práci",
       "Schůze Poslanecké sněmovny",
+      "Schųze Poslanecké snėmovny",
       "finanční příjem členů parlamentu",
       "mzda",
       "odměňování",
@@ -25450,6 +26151,7 @@
       "not_logged": 19
     },
     "temata": [
+      "Fond dėtí a mládee",
       "Fond dětí a mládeže",
       "Národní hospodářství",
       "Politika",
@@ -25572,10 +26274,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "podpůrná politika",
       "regionální pomoc",
       "státní podpora",
+      "zemėdėlská politika",
       "zemědělská politika",
       "zemědělská výroba"
     ]
@@ -25596,10 +26300,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "podpůrná politika",
       "regionální pomoc",
       "státní podpora",
+      "zemėdėlská politika",
       "zemědělská politika",
       "zemědělská výroba"
     ]
@@ -25620,10 +26326,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "podpůrná politika",
       "regionální pomoc",
       "státní podpora",
+      "zemėdėlská politika",
       "zemědělská politika",
       "zemědělská výroba"
     ]
@@ -25644,10 +26352,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "podpůrná politika",
       "regionální pomoc",
       "státní podpora",
+      "zemėdėlská politika",
       "zemědělská politika",
       "zemědělská výroba"
     ]
@@ -25668,10 +26378,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "podpůrná politika",
       "regionální pomoc",
       "státní podpora",
+      "zemėdėlská politika",
       "zemědělská politika",
       "zemědělská výroba"
     ]
@@ -25692,10 +26404,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "podpůrná politika",
       "regionální pomoc",
       "státní podpora",
+      "zemėdėlská politika",
       "zemědělská politika",
       "zemědělská výroba"
     ]
@@ -25716,10 +26430,12 @@
       "Politika agrární",
       "agrární sektor",
       "ochrana životního prostředí",
+      "podpora zemėdėlství",
       "podpora zemědělství",
       "podpůrná politika",
       "regionální pomoc",
       "státní podpora",
+      "zemėdėlská politika",
       "zemědělská politika",
       "zemědělská výroba"
     ]
@@ -26191,10 +26907,11 @@
       "not_logged": 26
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -26215,10 +26932,11 @@
       "not_logged": 23
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -26239,15 +26957,16 @@
       "not_logged": 29
     },
     "temata": [
-      "Školství",
       "akademické svobody",
       "právní postavení",
       "přístup ke vzdělání",
-      "školní prostředí",
       "student",
       "univerzita",
       "vysokoškolské vzdělání",
-      "vzdělávací program"
+      "vzdělávací program",
+      "kolní prostøedí",
+      "Školství",
+      "školní prostředí"
     ]
   },
   {
@@ -26263,15 +26982,16 @@
       "not_logged": 25
     },
     "temata": [
-      "Školství",
       "akademické svobody",
       "právní postavení",
       "přístup ke vzdělání",
-      "školní prostředí",
       "student",
       "univerzita",
       "vysokoškolské vzdělání",
-      "vzdělávací program"
+      "vzdělávací program",
+      "kolní prostøedí",
+      "Školství",
+      "školní prostředí"
     ]
   },
   {
@@ -26287,15 +27007,16 @@
       "not_logged": 26
     },
     "temata": [
-      "Školství",
       "akademické svobody",
       "právní postavení",
       "přístup ke vzdělání",
-      "školní prostředí",
       "student",
       "univerzita",
       "vysokoškolské vzdělání",
-      "vzdělávací program"
+      "vzdělávací program",
+      "kolní prostøedí",
+      "Školství",
+      "školní prostředí"
     ]
   },
   {
@@ -26509,6 +27230,7 @@
     },
     "temata": [
       "konvenční zbraň",
+      "konvenční zbraō",
       "odzbrojení"
     ]
   },
@@ -26549,8 +27271,9 @@
       "daň z převodu nemovitosti",
       "daň z převodu vlastnictví",
       "osvobození od daní",
-      "převod vlastnictví",
       "privatizace",
+      "pùda ve vlastnictví státu",
+      "převod vlastnictví",
       "půda ve vlastnictví státu",
       "veřejný majetek",
       "vlastnictví",
@@ -26578,8 +27301,9 @@
       "daň z převodu nemovitosti",
       "daň z převodu vlastnictví",
       "osvobození od daní",
-      "převod vlastnictví",
       "privatizace",
+      "pùda ve vlastnictví státu",
+      "převod vlastnictví",
       "půda ve vlastnictví státu",
       "veřejný majetek",
       "vlastnictví",
@@ -26601,14 +27325,16 @@
     },
     "temata": [
       "Finance",
-      "Obchod zahraniční",
       "Národní hospodářství",
+      "Obchod zahraniční",
       "Státní správa a justice",
       "dluh",
       "obchodní bilance",
       "pohledávka",
+      "smėnný kurz",
       "směnný kurz",
       "zahraniční dluh",
+      "zahraniční mėna",
       "zahraniční měna",
       "zahraniční obchod"
     ]
@@ -26782,8 +27508,9 @@
       "daň z převodu nemovitosti",
       "daň z převodu vlastnictví",
       "osvobození od daní",
-      "převod vlastnictví",
       "privatizace",
+      "pùda ve vlastnictví státu",
+      "převod vlastnictví",
       "půda ve vlastnictví státu",
       "veřejný majetek",
       "vlastnictví",
@@ -26811,8 +27538,9 @@
       "daň z převodu nemovitosti",
       "daň z převodu vlastnictví",
       "osvobození od daní",
-      "převod vlastnictví",
       "privatizace",
+      "pùda ve vlastnictví státu",
+      "převod vlastnictví",
       "půda ve vlastnictví státu",
       "veřejný majetek",
       "vlastnictví",
@@ -26840,8 +27568,9 @@
       "daň z převodu nemovitosti",
       "daň z převodu vlastnictví",
       "osvobození od daní",
-      "převod vlastnictví",
       "privatizace",
+      "pùda ve vlastnictví státu",
+      "převod vlastnictví",
       "půda ve vlastnictví státu",
       "veřejný majetek",
       "vlastnictví",
@@ -27230,9 +27959,10 @@
     },
     "temata": [
       "pojišťovna",
-      "účetní uzávěrka",
       "zdravotní pojištění",
-      "zpráva o činnosti"
+      "zpráva o činnosti",
+      "účetní uzávėrka",
+      "účetní uzávěrka"
     ]
   },
   {
@@ -27249,9 +27979,10 @@
     },
     "temata": [
       "pojišťovna",
-      "účetní uzávěrka",
       "zdravotní pojištění",
-      "zpráva o činnosti"
+      "zpráva o činnosti",
+      "účetní uzávėrka",
+      "účetní uzávěrka"
     ]
   },
   {
@@ -27268,9 +27999,10 @@
     },
     "temata": [
       "pojišťovna",
-      "účetní uzávěrka",
       "zdravotní pojištění",
-      "zpráva o činnosti"
+      "zpráva o činnosti",
+      "účetní uzávėrka",
+      "účetní uzávěrka"
     ]
   },
   {
@@ -30606,6 +31338,7 @@
       "not_logged": 7
     },
     "temata": [
+      "nevyøízené soudní spory",
       "nevyřízené soudní spory",
       "odborový svaz",
       "práva odborů",
@@ -30695,12 +31428,13 @@
     },
     "temata": [
       "Parlament",
-      "Ústava České republiky, ústavní zákony",
       "dolní komora",
       "odstoupení vlády",
       "parlamentní volby",
       "poslanecký mandát",
-      "předčasné volby"
+      "pøedčasné volby",
+      "předčasné volby",
+      "Ústava České republiky, ústavní zákony"
     ]
   },
   {
@@ -30717,12 +31451,13 @@
     },
     "temata": [
       "Parlament",
-      "Ústava České republiky, ústavní zákony",
       "dolní komora",
       "odstoupení vlády",
       "parlamentní volby",
       "poslanecký mandát",
-      "předčasné volby"
+      "pøedčasné volby",
+      "předčasné volby",
+      "Ústava České republiky, ústavní zákony"
     ]
   },
   {
@@ -30739,12 +31474,13 @@
     },
     "temata": [
       "Parlament",
-      "Ústava České republiky, ústavní zákony",
       "dolní komora",
       "odstoupení vlády",
       "parlamentní volby",
       "poslanecký mandát",
-      "předčasné volby"
+      "pøedčasné volby",
+      "předčasné volby",
+      "Ústava České republiky, ústavní zákony"
     ]
   },
   {
@@ -30761,12 +31497,13 @@
     },
     "temata": [
       "Parlament",
-      "Ústava České republiky, ústavní zákony",
       "dolní komora",
       "odstoupení vlády",
       "parlamentní volby",
       "poslanecký mandát",
-      "předčasné volby"
+      "pøedčasné volby",
+      "předčasné volby",
+      "Ústava České republiky, ústavní zákony"
     ]
   },
   {
@@ -30783,12 +31520,13 @@
     },
     "temata": [
       "Parlament",
-      "Ústava České republiky, ústavní zákony",
       "dolní komora",
       "odstoupení vlády",
       "parlamentní volby",
       "poslanecký mandát",
-      "předčasné volby"
+      "pøedčasné volby",
+      "předčasné volby",
+      "Ústava České republiky, ústavní zákony"
     ]
   },
   {
@@ -30805,12 +31543,13 @@
     },
     "temata": [
       "Parlament",
-      "Ústava České republiky, ústavní zákony",
       "dolní komora",
       "odstoupení vlády",
       "parlamentní volby",
       "poslanecký mandát",
-      "předčasné volby"
+      "pøedčasné volby",
+      "předčasné volby",
+      "Ústava České republiky, ústavní zákony"
     ]
   },
   {
@@ -30827,12 +31566,13 @@
     },
     "temata": [
       "Parlament",
-      "Ústava České republiky, ústavní zákony",
       "dolní komora",
       "odstoupení vlády",
       "parlamentní volby",
       "poslanecký mandát",
-      "předčasné volby"
+      "pøedčasné volby",
+      "předčasné volby",
+      "Ústava České republiky, ústavní zákony"
     ]
   },
   {
@@ -31772,10 +32512,11 @@
       "not_logged": 35
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -31796,10 +32537,11 @@
       "not_logged": 44
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -31820,10 +32562,11 @@
       "not_logged": 41
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -32217,10 +32960,11 @@
       "not_logged": 80
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -32241,10 +32985,11 @@
       "not_logged": 46
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -32265,10 +33010,11 @@
       "not_logged": 48
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -32373,10 +33119,11 @@
       "not_logged": 8
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -32397,10 +33144,11 @@
       "not_logged": 8
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -32421,10 +33169,11 @@
       "not_logged": 8
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -32445,10 +33194,11 @@
       "not_logged": 8
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -32469,10 +33219,11 @@
       "not_logged": 8
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -32493,10 +33244,11 @@
       "not_logged": 8
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -32517,10 +33269,11 @@
       "not_logged": 9
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -32541,10 +33294,11 @@
       "not_logged": 9
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -32565,10 +33319,11 @@
       "not_logged": 8
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -32589,10 +33344,11 @@
       "not_logged": 17
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -34001,18 +34757,19 @@
     },
     "temata": [
       "Ekologie",
-      "Poplatky",
-      "Vodohospodářství",
       "Národní hospodářství",
       "Peněžnictví a pojišťovnictví",
+      "Poplatky",
       "Státní správa a justice",
       "Těžba a výroba",
-      "Životní prostředí",
+      "Vodohospodářství",
       "ekologická daň",
       "ochrana vod",
       "odpadní voda",
       "povrchová voda",
-      "znečišťování vody"
+      "znečiování vody",
+      "znečišťování vody",
+      "Životní prostředí"
     ]
   },
   {
@@ -34029,18 +34786,19 @@
     },
     "temata": [
       "Ekologie",
-      "Poplatky",
-      "Vodohospodářství",
       "Národní hospodářství",
       "Peněžnictví a pojišťovnictví",
+      "Poplatky",
       "Státní správa a justice",
       "Těžba a výroba",
-      "Životní prostředí",
+      "Vodohospodářství",
       "ekologická daň",
       "ochrana vod",
       "odpadní voda",
       "povrchová voda",
-      "znečišťování vody"
+      "znečiování vody",
+      "znečišťování vody",
+      "Životní prostředí"
     ]
   },
   {
@@ -34057,18 +34815,19 @@
     },
     "temata": [
       "Ekologie",
-      "Poplatky",
-      "Vodohospodářství",
       "Národní hospodářství",
       "Peněžnictví a pojišťovnictví",
+      "Poplatky",
       "Státní správa a justice",
       "Těžba a výroba",
-      "Životní prostředí",
+      "Vodohospodářství",
       "ekologická daň",
       "ochrana vod",
       "odpadní voda",
       "povrchová voda",
-      "znečišťování vody"
+      "znečiování vody",
+      "znečišťování vody",
+      "Životní prostředí"
     ]
   },
   {
@@ -34085,18 +34844,19 @@
     },
     "temata": [
       "Ekologie",
-      "Poplatky",
-      "Vodohospodářství",
       "Národní hospodářství",
       "Peněžnictví a pojišťovnictví",
+      "Poplatky",
       "Státní správa a justice",
       "Těžba a výroba",
-      "Životní prostředí",
+      "Vodohospodářství",
       "ekologická daň",
       "ochrana vod",
       "odpadní voda",
       "povrchová voda",
-      "znečišťování vody"
+      "znečiování vody",
+      "znečišťování vody",
+      "Životní prostředí"
     ]
   },
   {
@@ -34113,18 +34873,19 @@
     },
     "temata": [
       "Ekologie",
-      "Poplatky",
-      "Vodohospodářství",
       "Národní hospodářství",
       "Peněžnictví a pojišťovnictví",
+      "Poplatky",
       "Státní správa a justice",
       "Těžba a výroba",
-      "Životní prostředí",
+      "Vodohospodářství",
       "ekologická daň",
       "ochrana vod",
       "odpadní voda",
       "povrchová voda",
-      "znečišťování vody"
+      "znečiování vody",
+      "znečišťování vody",
+      "Životní prostředí"
     ]
   },
   {
@@ -34141,18 +34902,19 @@
     },
     "temata": [
       "Ekologie",
-      "Poplatky",
-      "Vodohospodářství",
       "Národní hospodářství",
       "Peněžnictví a pojišťovnictví",
+      "Poplatky",
       "Státní správa a justice",
       "Těžba a výroba",
-      "Životní prostředí",
+      "Vodohospodářství",
       "ekologická daň",
       "ochrana vod",
       "odpadní voda",
       "povrchová voda",
-      "znečišťování vody"
+      "znečiování vody",
+      "znečišťování vody",
+      "Životní prostředí"
     ]
   },
   {
@@ -34169,18 +34931,19 @@
     },
     "temata": [
       "Ekologie",
-      "Poplatky",
-      "Vodohospodářství",
       "Národní hospodářství",
       "Peněžnictví a pojišťovnictví",
+      "Poplatky",
       "Státní správa a justice",
       "Těžba a výroba",
-      "Životní prostředí",
+      "Vodohospodářství",
       "ekologická daň",
       "ochrana vod",
       "odpadní voda",
       "povrchová voda",
-      "znečišťování vody"
+      "znečiování vody",
+      "znečišťování vody",
+      "Životní prostředí"
     ]
   },
   {
@@ -34197,18 +34960,19 @@
     },
     "temata": [
       "Ekologie",
-      "Poplatky",
-      "Vodohospodářství",
       "Národní hospodářství",
       "Peněžnictví a pojišťovnictví",
+      "Poplatky",
       "Státní správa a justice",
       "Těžba a výroba",
-      "Životní prostředí",
+      "Vodohospodářství",
       "ekologická daň",
       "ochrana vod",
       "odpadní voda",
       "povrchová voda",
-      "znečišťování vody"
+      "znečiování vody",
+      "znečišťování vody",
+      "Životní prostředí"
     ]
   },
   {
@@ -34225,18 +34989,19 @@
     },
     "temata": [
       "Ekologie",
-      "Poplatky",
-      "Vodohospodářství",
       "Národní hospodářství",
       "Peněžnictví a pojišťovnictví",
+      "Poplatky",
       "Státní správa a justice",
       "Těžba a výroba",
-      "Životní prostředí",
+      "Vodohospodářství",
       "ekologická daň",
       "ochrana vod",
       "odpadní voda",
       "povrchová voda",
-      "znečišťování vody"
+      "znečiování vody",
+      "znečišťování vody",
+      "Životní prostředí"
     ]
   },
   {
@@ -34253,18 +35018,19 @@
     },
     "temata": [
       "Ekologie",
-      "Poplatky",
-      "Vodohospodářství",
       "Národní hospodářství",
       "Peněžnictví a pojišťovnictví",
+      "Poplatky",
       "Státní správa a justice",
       "Těžba a výroba",
-      "Životní prostředí",
+      "Vodohospodářství",
       "ekologická daň",
       "ochrana vod",
       "odpadní voda",
       "povrchová voda",
-      "znečišťování vody"
+      "znečiování vody",
+      "znečišťování vody",
+      "Životní prostředí"
     ]
   },
   {
@@ -34281,18 +35047,19 @@
     },
     "temata": [
       "Ekologie",
-      "Poplatky",
-      "Vodohospodářství",
       "Národní hospodářství",
       "Peněžnictví a pojišťovnictví",
+      "Poplatky",
       "Státní správa a justice",
       "Těžba a výroba",
-      "Životní prostředí",
+      "Vodohospodářství",
       "ekologická daň",
       "ochrana vod",
       "odpadní voda",
       "povrchová voda",
-      "znečišťování vody"
+      "znečiování vody",
+      "znečišťování vody",
+      "Životní prostředí"
     ]
   },
   {
@@ -34309,18 +35076,19 @@
     },
     "temata": [
       "Ekologie",
-      "Poplatky",
-      "Vodohospodářství",
       "Národní hospodářství",
       "Peněžnictví a pojišťovnictví",
+      "Poplatky",
       "Státní správa a justice",
       "Těžba a výroba",
-      "Životní prostředí",
+      "Vodohospodářství",
       "ekologická daň",
       "ochrana vod",
       "odpadní voda",
       "povrchová voda",
-      "znečišťování vody"
+      "znečiování vody",
+      "znečišťování vody",
+      "Životní prostředí"
     ]
   },
   {
@@ -34380,10 +35148,11 @@
       "not_logged": 38
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -34404,10 +35173,11 @@
       "not_logged": 33
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -34428,10 +35198,11 @@
       "not_logged": 33
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -34452,10 +35223,11 @@
       "not_logged": 33
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -34476,10 +35248,11 @@
       "not_logged": 32
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -34500,10 +35273,11 @@
       "not_logged": 32
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -34524,10 +35298,11 @@
       "not_logged": 32
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -34548,10 +35323,11 @@
       "not_logged": 32
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -34572,10 +35348,11 @@
       "not_logged": 31
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -34596,10 +35373,11 @@
       "not_logged": 38
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -34620,10 +35398,11 @@
       "not_logged": 36
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -34644,10 +35423,11 @@
       "not_logged": 35
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -34668,10 +35448,11 @@
       "not_logged": 34
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -34692,10 +35473,11 @@
       "not_logged": 34
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -34716,10 +35498,11 @@
       "not_logged": 34
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -34740,10 +35523,11 @@
       "not_logged": 33
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -34764,10 +35548,11 @@
       "not_logged": 33
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -34788,10 +35573,11 @@
       "not_logged": 33
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -34812,10 +35598,11 @@
       "not_logged": 33
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -34836,10 +35623,11 @@
       "not_logged": 34
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -34860,10 +35648,11 @@
       "not_logged": 33
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -34884,10 +35673,11 @@
       "not_logged": 33
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -34908,10 +35698,11 @@
       "not_logged": 33
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -34932,10 +35723,11 @@
       "not_logged": 33
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -34956,10 +35748,11 @@
       "not_logged": 33
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -34980,10 +35773,11 @@
       "not_logged": 33
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -35004,10 +35798,11 @@
       "not_logged": 33
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -35028,10 +35823,11 @@
       "not_logged": 33
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -35052,10 +35848,11 @@
       "not_logged": 33
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -35076,10 +35873,11 @@
       "not_logged": 33
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -35100,10 +35898,11 @@
       "not_logged": 33
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -35124,10 +35923,11 @@
       "not_logged": 33
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -35148,10 +35948,11 @@
       "not_logged": 33
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -35172,10 +35973,11 @@
       "not_logged": 33
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -35196,10 +35998,11 @@
       "not_logged": 33
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -35220,10 +36023,11 @@
       "not_logged": 33
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -35244,10 +36048,11 @@
       "not_logged": 33
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -35268,10 +36073,11 @@
       "not_logged": 33
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -35292,10 +36098,11 @@
       "not_logged": 35
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -35316,10 +36123,11 @@
       "not_logged": 34
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -35340,10 +36148,11 @@
       "not_logged": 34
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -35364,10 +36173,11 @@
       "not_logged": 32
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -35388,10 +36198,11 @@
       "not_logged": 32
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -35412,10 +36223,11 @@
       "not_logged": 32
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -35436,10 +36248,11 @@
       "not_logged": 33
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -35460,10 +36273,11 @@
       "not_logged": 33
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -35484,10 +36298,11 @@
       "not_logged": 33
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -35508,10 +36323,11 @@
       "not_logged": 32
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -35532,10 +36348,11 @@
       "not_logged": 32
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -35556,10 +36373,11 @@
       "not_logged": 32
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -35580,10 +36398,11 @@
       "not_logged": 31
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -35604,10 +36423,11 @@
       "not_logged": 31
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -35628,10 +36448,11 @@
       "not_logged": 31
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -35652,10 +36473,11 @@
       "not_logged": 31
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -35676,10 +36498,11 @@
       "not_logged": 31
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -35700,10 +36523,11 @@
       "not_logged": 31
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -35724,10 +36548,11 @@
       "not_logged": 31
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -35748,10 +36573,11 @@
       "not_logged": 30
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -35772,10 +36598,11 @@
       "not_logged": 30
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -35796,10 +36623,11 @@
       "not_logged": 30
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -35820,10 +36648,11 @@
       "not_logged": 29
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -35844,10 +36673,11 @@
       "not_logged": 29
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -35868,10 +36698,11 @@
       "not_logged": 29
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -35892,10 +36723,11 @@
       "not_logged": 29
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -35916,10 +36748,11 @@
       "not_logged": 29
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -35940,10 +36773,11 @@
       "not_logged": 29
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -35964,10 +36798,11 @@
       "not_logged": 29
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -35988,10 +36823,11 @@
       "not_logged": 29
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -36012,10 +36848,11 @@
       "not_logged": 29
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -36036,10 +36873,11 @@
       "not_logged": 29
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -36060,10 +36898,11 @@
       "not_logged": 29
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -36084,10 +36923,11 @@
       "not_logged": 29
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -36108,10 +36948,11 @@
       "not_logged": 30
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -36132,10 +36973,11 @@
       "not_logged": 30
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -36156,10 +36998,11 @@
       "not_logged": 29
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -36180,10 +37023,11 @@
       "not_logged": 30
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -36204,10 +37048,11 @@
       "not_logged": 28
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -36228,10 +37073,11 @@
       "not_logged": 28
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -36252,10 +37098,11 @@
       "not_logged": 28
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -36276,10 +37123,11 @@
       "not_logged": 29
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -36300,10 +37148,11 @@
       "not_logged": 32
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -36338,10 +37187,11 @@
       "not_logged": 46
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -36362,10 +37212,11 @@
       "not_logged": 43
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -36386,10 +37237,11 @@
       "not_logged": 40
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -36410,10 +37262,11 @@
       "not_logged": 39
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -36434,10 +37287,11 @@
       "not_logged": 38
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -36458,10 +37312,11 @@
       "not_logged": 37
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -36482,10 +37337,11 @@
       "not_logged": 37
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -36506,10 +37362,11 @@
       "not_logged": 39
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -36530,10 +37387,11 @@
       "not_logged": 40
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -36554,10 +37412,11 @@
       "not_logged": 40
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -36578,10 +37437,11 @@
       "not_logged": 41
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -36602,10 +37462,11 @@
       "not_logged": 42
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -36626,10 +37487,11 @@
       "not_logged": 41
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -36650,10 +37512,11 @@
       "not_logged": 41
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -36674,10 +37537,11 @@
       "not_logged": 41
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -36698,10 +37562,11 @@
       "not_logged": 41
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -36722,10 +37587,11 @@
       "not_logged": 41
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -36746,10 +37612,11 @@
       "not_logged": 41
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -36770,10 +37637,11 @@
       "not_logged": 42
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -36794,10 +37662,11 @@
       "not_logged": 43
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -36818,10 +37687,11 @@
       "not_logged": 41
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -36842,10 +37712,11 @@
       "not_logged": 41
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -36866,10 +37737,11 @@
       "not_logged": 40
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -36890,10 +37762,11 @@
       "not_logged": 41
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -36914,10 +37787,11 @@
       "not_logged": 40
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -36938,10 +37812,11 @@
       "not_logged": 40
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -36962,10 +37837,11 @@
       "not_logged": 41
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -36986,10 +37862,11 @@
       "not_logged": 38
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -37010,10 +37887,11 @@
       "not_logged": 35
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -37048,12 +37926,13 @@
       "not_logged": 112
     },
     "temata": [
+      "Obchod",
       "Obchod a služby",
       "Občan",
-      "Obchod",
       "bezpečnost výrobku",
       "náhrada škody",
       "ochrana spotřebitele",
+      "odpovėdnost výrobce",
       "odpovědnost výrobce",
       "přibližování legislativy",
       "vadný výrobek"
@@ -37072,12 +37951,13 @@
       "not_logged": 84
     },
     "temata": [
+      "Obchod",
       "Obchod a služby",
       "Občan",
-      "Obchod",
       "bezpečnost výrobku",
       "náhrada škody",
       "ochrana spotřebitele",
+      "odpovėdnost výrobce",
       "odpovědnost výrobce",
       "přibližování legislativy",
       "vadný výrobek"
@@ -37096,12 +37976,13 @@
       "not_logged": 81
     },
     "temata": [
+      "Obchod",
       "Obchod a služby",
       "Občan",
-      "Obchod",
       "bezpečnost výrobku",
       "náhrada škody",
       "ochrana spotřebitele",
+      "odpovėdnost výrobce",
       "odpovědnost výrobce",
       "přibližování legislativy",
       "vadný výrobek"
@@ -37120,12 +38001,13 @@
       "not_logged": 68
     },
     "temata": [
+      "Obchod",
       "Obchod a služby",
       "Občan",
-      "Obchod",
       "bezpečnost výrobku",
       "náhrada škody",
       "ochrana spotřebitele",
+      "odpovėdnost výrobce",
       "odpovědnost výrobce",
       "přibližování legislativy",
       "vadný výrobek"
@@ -37144,12 +38026,13 @@
       "not_logged": 63
     },
     "temata": [
+      "Obchod",
       "Obchod a služby",
       "Občan",
-      "Obchod",
       "bezpečnost výrobku",
       "náhrada škody",
       "ochrana spotřebitele",
+      "odpovėdnost výrobce",
       "odpovědnost výrobce",
       "přibližování legislativy",
       "vadný výrobek"
@@ -37168,12 +38051,13 @@
       "not_logged": 56
     },
     "temata": [
+      "Obchod",
       "Obchod a služby",
       "Občan",
-      "Obchod",
       "bezpečnost výrobku",
       "náhrada škody",
       "ochrana spotřebitele",
+      "odpovėdnost výrobce",
       "odpovědnost výrobce",
       "přibližování legislativy",
       "vadný výrobek"
@@ -37192,12 +38076,13 @@
       "not_logged": 54
     },
     "temata": [
+      "Obchod",
       "Obchod a služby",
       "Občan",
-      "Obchod",
       "bezpečnost výrobku",
       "náhrada škody",
       "ochrana spotřebitele",
+      "odpovėdnost výrobce",
       "odpovědnost výrobce",
       "přibližování legislativy",
       "vadný výrobek"
@@ -37216,12 +38101,13 @@
       "not_logged": 49
     },
     "temata": [
+      "Obchod",
       "Obchod a služby",
       "Občan",
-      "Obchod",
       "bezpečnost výrobku",
       "náhrada škody",
       "ochrana spotřebitele",
+      "odpovėdnost výrobce",
       "odpovědnost výrobce",
       "přibližování legislativy",
       "vadný výrobek"
@@ -37538,10 +38424,11 @@
       "not_logged": 57
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -37562,10 +38449,11 @@
       "not_logged": 54
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -37586,10 +38474,11 @@
       "not_logged": 49
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -37610,10 +38499,11 @@
       "not_logged": 49
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -37634,10 +38524,11 @@
       "not_logged": 45
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -37658,10 +38549,11 @@
       "not_logged": 53
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -37682,10 +38574,11 @@
       "not_logged": 50
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -37706,10 +38599,11 @@
       "not_logged": 47
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -37730,10 +38624,11 @@
       "not_logged": 46
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -37754,10 +38649,11 @@
       "not_logged": 46
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -37778,10 +38674,11 @@
       "not_logged": 46
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -37802,10 +38699,11 @@
       "not_logged": 45
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -37826,10 +38724,11 @@
       "not_logged": 45
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -37850,10 +38749,11 @@
       "not_logged": 45
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -37874,10 +38774,11 @@
       "not_logged": 45
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -37898,10 +38799,11 @@
       "not_logged": 44
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -37922,10 +38824,11 @@
       "not_logged": 43
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -37946,10 +38849,11 @@
       "not_logged": 43
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -37970,10 +38874,11 @@
       "not_logged": 45
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -37994,10 +38899,11 @@
       "not_logged": 44
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -38018,10 +38924,11 @@
       "not_logged": 45
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -38042,10 +38949,11 @@
       "not_logged": 48
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -38066,10 +38974,11 @@
       "not_logged": 48
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -38090,10 +38999,11 @@
       "not_logged": 48
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -38114,10 +39024,11 @@
       "not_logged": 84
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -38138,10 +39049,11 @@
       "not_logged": 69
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -38162,10 +39074,11 @@
       "not_logged": 63
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -38453,12 +39366,13 @@
     },
     "temata": [
       "Parlament",
-      "Ústava České republiky, ústavní zákony",
       "dolní komora",
       "odstoupení vlády",
       "parlamentní volby",
       "poslanecký mandát",
-      "předčasné volby"
+      "pøedčasné volby",
+      "předčasné volby",
+      "Ústava České republiky, ústavní zákony"
     ]
   },
   {
@@ -38517,12 +39431,15 @@
     },
     "temata": [
       "Myslivost",
-      "Zákon trestní",
       "Občan",
       "Těžba a výroba",
+      "Zákon trestní",
+      "lovná zvėø",
       "lovná zvěř",
+      "ochrana ivočiné øíe",
       "ochrana živočišné říše",
       "regulace lovu",
+      "rybáøský prųmysl",
       "rybářský průmysl",
       "trestný čin"
     ]
@@ -38541,12 +39458,15 @@
     },
     "temata": [
       "Myslivost",
-      "Zákon trestní",
       "Občan",
       "Těžba a výroba",
+      "Zákon trestní",
+      "lovná zvėø",
       "lovná zvěř",
+      "ochrana ivočiné øíe",
       "ochrana živočišné říše",
       "regulace lovu",
+      "rybáøský prųmysl",
       "rybářský průmysl",
       "trestný čin"
     ]
@@ -38565,12 +39485,15 @@
     },
     "temata": [
       "Myslivost",
-      "Zákon trestní",
       "Občan",
       "Těžba a výroba",
+      "Zákon trestní",
+      "lovná zvėø",
       "lovná zvěř",
+      "ochrana ivočiné øíe",
       "ochrana živočišné říše",
       "regulace lovu",
+      "rybáøský prųmysl",
       "rybářský průmysl",
       "trestný čin"
     ]
@@ -38588,16 +39511,19 @@
       "not_logged": 25
     },
     "temata": [
-      "Ochrana hospodářského a služebního tajemství",
       "Národní hospodářství",
       "Obrana a bezpečnost",
+      "Ochrana hospodáøského a sluebního tajemství",
+      "Ochrana hospodářského a služebního tajemství",
       "Pracovní síla",
       "Státní správa a justice",
       "Zdravotnictví",
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "průmyslové tajemství",
+      "prųmyslové tajemství",
       "služební tajemství",
       "státní tajemství",
       "veřejná bezpečnost"
@@ -38616,16 +39542,19 @@
       "not_logged": 25
     },
     "temata": [
-      "Ochrana hospodářského a služebního tajemství",
       "Národní hospodářství",
       "Obrana a bezpečnost",
+      "Ochrana hospodáøského a sluebního tajemství",
+      "Ochrana hospodářského a služebního tajemství",
       "Pracovní síla",
       "Státní správa a justice",
       "Zdravotnictví",
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "průmyslové tajemství",
+      "prųmyslové tajemství",
       "služební tajemství",
       "státní tajemství",
       "veřejná bezpečnost"
@@ -38644,16 +39573,19 @@
       "not_logged": 24
     },
     "temata": [
-      "Ochrana hospodářského a služebního tajemství",
       "Národní hospodářství",
       "Obrana a bezpečnost",
+      "Ochrana hospodáøského a sluebního tajemství",
+      "Ochrana hospodářského a služebního tajemství",
       "Pracovní síla",
       "Státní správa a justice",
       "Zdravotnictví",
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "průmyslové tajemství",
+      "prųmyslové tajemství",
       "služební tajemství",
       "státní tajemství",
       "veřejná bezpečnost"
@@ -38672,16 +39604,19 @@
       "not_logged": 25
     },
     "temata": [
-      "Ochrana hospodářského a služebního tajemství",
       "Národní hospodářství",
       "Obrana a bezpečnost",
+      "Ochrana hospodáøského a sluebního tajemství",
+      "Ochrana hospodářského a služebního tajemství",
       "Pracovní síla",
       "Státní správa a justice",
       "Zdravotnictví",
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "průmyslové tajemství",
+      "prųmyslové tajemství",
       "služební tajemství",
       "státní tajemství",
       "veřejná bezpečnost"
@@ -38700,16 +39635,19 @@
       "not_logged": 23
     },
     "temata": [
-      "Ochrana hospodářského a služebního tajemství",
       "Národní hospodářství",
       "Obrana a bezpečnost",
+      "Ochrana hospodáøského a sluebního tajemství",
+      "Ochrana hospodářského a služebního tajemství",
       "Pracovní síla",
       "Státní správa a justice",
       "Zdravotnictví",
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "průmyslové tajemství",
+      "prųmyslové tajemství",
       "služební tajemství",
       "státní tajemství",
       "veřejná bezpečnost"
@@ -38728,16 +39666,19 @@
       "not_logged": 24
     },
     "temata": [
-      "Ochrana hospodářského a služebního tajemství",
       "Národní hospodářství",
       "Obrana a bezpečnost",
+      "Ochrana hospodáøského a sluebního tajemství",
+      "Ochrana hospodářského a služebního tajemství",
       "Pracovní síla",
       "Státní správa a justice",
       "Zdravotnictví",
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "průmyslové tajemství",
+      "prųmyslové tajemství",
       "služební tajemství",
       "státní tajemství",
       "veřejná bezpečnost"
@@ -38756,16 +39697,19 @@
       "not_logged": 24
     },
     "temata": [
-      "Ochrana hospodářského a služebního tajemství",
       "Národní hospodářství",
       "Obrana a bezpečnost",
+      "Ochrana hospodáøského a sluebního tajemství",
+      "Ochrana hospodářského a služebního tajemství",
       "Pracovní síla",
       "Státní správa a justice",
       "Zdravotnictví",
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "průmyslové tajemství",
+      "prųmyslové tajemství",
       "služební tajemství",
       "státní tajemství",
       "veřejná bezpečnost"
@@ -38784,16 +39728,19 @@
       "not_logged": 23
     },
     "temata": [
-      "Ochrana hospodářského a služebního tajemství",
       "Národní hospodářství",
       "Obrana a bezpečnost",
+      "Ochrana hospodáøského a sluebního tajemství",
+      "Ochrana hospodářského a služebního tajemství",
       "Pracovní síla",
       "Státní správa a justice",
       "Zdravotnictví",
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "průmyslové tajemství",
+      "prųmyslové tajemství",
       "služební tajemství",
       "státní tajemství",
       "veřejná bezpečnost"
@@ -38892,9 +39839,10 @@
       "not_logged": 34
     },
     "temata": [
-      "Česká republika",
+      "Ukrajina",
       "daňová úmluva",
-      "Ukrajina"
+      "daōová úmluva",
+      "Česká republika"
     ]
   },
   {
@@ -38976,9 +39924,10 @@
       "not_logged": 68
     },
     "temata": [
-      "Česká republika",
+      "Ukrajina",
       "daňová úmluva",
-      "Ukrajina"
+      "daōová úmluva",
+      "Česká republika"
     ]
   },
   {
@@ -39070,9 +40019,10 @@
       "not_logged": 71
     },
     "temata": [
-      "Česká republika",
+      "Ukrajina",
       "daňová úmluva",
-      "Ukrajina"
+      "daōová úmluva",
+      "Česká republika"
     ]
   },
   {
@@ -39088,9 +40038,10 @@
       "not_logged": 69
     },
     "temata": [
-      "Česká republika",
+      "Ukrajina",
       "daňová úmluva",
-      "Ukrajina"
+      "daōová úmluva",
+      "Česká republika"
     ]
   },
   {
@@ -39106,9 +40057,10 @@
       "not_logged": 67
     },
     "temata": [
-      "Česká republika",
+      "Ukrajina",
       "daňová úmluva",
-      "Ukrajina"
+      "daōová úmluva",
+      "Česká republika"
     ]
   },
   {
@@ -39310,12 +40262,15 @@
     },
     "temata": [
       "Myslivost",
-      "Zákon trestní",
       "Občan",
       "Těžba a výroba",
+      "Zákon trestní",
+      "lovná zvėø",
       "lovná zvěř",
+      "ochrana ivočiné øíe",
       "ochrana živočišné říše",
       "regulace lovu",
+      "rybáøský prųmysl",
       "rybářský průmysl",
       "trestný čin"
     ]
@@ -39334,12 +40289,15 @@
     },
     "temata": [
       "Myslivost",
-      "Zákon trestní",
       "Občan",
       "Těžba a výroba",
+      "Zákon trestní",
+      "lovná zvėø",
       "lovná zvěř",
+      "ochrana ivočiné øíe",
       "ochrana živočišné říše",
       "regulace lovu",
+      "rybáøský prųmysl",
       "rybářský průmysl",
       "trestný čin"
     ]
@@ -39377,12 +40335,15 @@
     },
     "temata": [
       "Myslivost",
-      "Zákon trestní",
       "Občan",
       "Těžba a výroba",
+      "Zákon trestní",
+      "lovná zvėø",
       "lovná zvěř",
+      "ochrana ivočiné øíe",
       "ochrana živočišné říše",
       "regulace lovu",
+      "rybáøský prųmysl",
       "rybářský průmysl",
       "trestný čin"
     ]
@@ -39401,12 +40362,15 @@
     },
     "temata": [
       "Myslivost",
-      "Zákon trestní",
       "Občan",
       "Těžba a výroba",
+      "Zákon trestní",
+      "lovná zvėø",
       "lovná zvěř",
+      "ochrana ivočiné øíe",
       "ochrana živočišné říše",
       "regulace lovu",
+      "rybáøský prųmysl",
       "rybářský průmysl",
       "trestný čin"
     ]
@@ -39425,12 +40389,15 @@
     },
     "temata": [
       "Myslivost",
-      "Zákon trestní",
       "Občan",
       "Těžba a výroba",
+      "Zákon trestní",
+      "lovná zvėø",
       "lovná zvěř",
+      "ochrana ivočiné øíe",
       "ochrana živočišné říše",
       "regulace lovu",
+      "rybáøský prųmysl",
       "rybářský průmysl",
       "trestný čin"
     ]
@@ -39449,12 +40416,15 @@
     },
     "temata": [
       "Myslivost",
-      "Zákon trestní",
       "Občan",
       "Těžba a výroba",
+      "Zákon trestní",
+      "lovná zvėø",
       "lovná zvěř",
+      "ochrana ivočiné øíe",
       "ochrana živočišné říše",
       "regulace lovu",
+      "rybáøský prųmysl",
       "rybářský průmysl",
       "trestný čin"
     ]
@@ -39486,12 +40456,13 @@
       "not_logged": 35
     },
     "temata": [
+      "Obchod",
       "Obchod a služby",
       "Občan",
-      "Obchod",
       "bezpečnost výrobku",
       "náhrada škody",
       "ochrana spotřebitele",
+      "odpovėdnost výrobce",
       "odpovědnost výrobce",
       "přibližování legislativy",
       "vadný výrobek"
@@ -39510,12 +40481,13 @@
       "not_logged": 20
     },
     "temata": [
+      "Obchod",
       "Obchod a služby",
       "Občan",
-      "Obchod",
       "bezpečnost výrobku",
       "náhrada škody",
       "ochrana spotřebitele",
+      "odpovėdnost výrobce",
       "odpovědnost výrobce",
       "přibližování legislativy",
       "vadný výrobek"
@@ -39590,12 +40562,13 @@
       "not_logged": 58
     },
     "temata": [
+      "Obchod",
       "Obchod a služby",
       "Občan",
-      "Obchod",
       "bezpečnost výrobku",
       "náhrada škody",
       "ochrana spotřebitele",
+      "odpovėdnost výrobce",
       "odpovědnost výrobce",
       "přibližování legislativy",
       "vadný výrobek"
@@ -39614,12 +40587,13 @@
       "not_logged": 55
     },
     "temata": [
+      "Obchod",
       "Obchod a služby",
       "Občan",
-      "Obchod",
       "bezpečnost výrobku",
       "náhrada škody",
       "ochrana spotřebitele",
+      "odpovėdnost výrobce",
       "odpovědnost výrobce",
       "přibližování legislativy",
       "vadný výrobek"
@@ -39638,12 +40612,14 @@
       "not_logged": 33
     },
     "temata": [
+      "Sdruení občanská",
       "Sdružení občanská",
       "Vztahy vlastnické",
       "nemovitý majetek",
+      "občanskoprávní sdruení",
       "občanskoprávní sdružení",
-      "převod vlastnictví",
       "privatizace",
+      "převod vlastnictví",
       "veřejný majetek",
       "vlastnictví"
     ]
@@ -39661,12 +40637,13 @@
       "not_logged": 59
     },
     "temata": [
+      "Obchod",
       "Obchod a služby",
       "Občan",
-      "Obchod",
       "bezpečnost výrobku",
       "náhrada škody",
       "ochrana spotřebitele",
+      "odpovėdnost výrobce",
       "odpovědnost výrobce",
       "přibližování legislativy",
       "vadný výrobek"
@@ -39685,12 +40662,13 @@
       "not_logged": 57
     },
     "temata": [
+      "Obchod",
       "Obchod a služby",
       "Občan",
-      "Obchod",
       "bezpečnost výrobku",
       "náhrada škody",
       "ochrana spotřebitele",
+      "odpovėdnost výrobce",
       "odpovědnost výrobce",
       "přibližování legislativy",
       "vadný výrobek"
@@ -39709,12 +40687,13 @@
       "not_logged": 36
     },
     "temata": [
+      "Obchod",
       "Obchod a služby",
       "Občan",
-      "Obchod",
       "bezpečnost výrobku",
       "náhrada škody",
       "ochrana spotřebitele",
+      "odpovėdnost výrobce",
       "odpovědnost výrobce",
       "přibližování legislativy",
       "vadný výrobek"
@@ -39733,12 +40712,13 @@
       "not_logged": 72
     },
     "temata": [
+      "Obchod",
       "Obchod a služby",
       "Občan",
-      "Obchod",
       "bezpečnost výrobku",
       "náhrada škody",
       "ochrana spotřebitele",
+      "odpovėdnost výrobce",
       "odpovědnost výrobce",
       "přibližování legislativy",
       "vadný výrobek"
@@ -39757,12 +40737,13 @@
       "not_logged": 71
     },
     "temata": [
+      "Obchod",
       "Obchod a služby",
       "Občan",
-      "Obchod",
       "bezpečnost výrobku",
       "náhrada škody",
       "ochrana spotřebitele",
+      "odpovėdnost výrobce",
       "odpovědnost výrobce",
       "přibližování legislativy",
       "vadný výrobek"
@@ -39781,12 +40762,13 @@
       "not_logged": 64
     },
     "temata": [
+      "Obchod",
       "Obchod a služby",
       "Občan",
-      "Obchod",
       "bezpečnost výrobku",
       "náhrada škody",
       "ochrana spotřebitele",
+      "odpovėdnost výrobce",
       "odpovědnost výrobce",
       "přibližování legislativy",
       "vadný výrobek"
@@ -39805,12 +40787,13 @@
       "not_logged": 64
     },
     "temata": [
+      "Obchod",
       "Obchod a služby",
       "Občan",
-      "Obchod",
       "bezpečnost výrobku",
       "náhrada škody",
       "ochrana spotřebitele",
+      "odpovėdnost výrobce",
       "odpovědnost výrobce",
       "přibližování legislativy",
       "vadný výrobek"
@@ -39829,12 +40812,13 @@
       "not_logged": 67
     },
     "temata": [
+      "Obchod",
       "Obchod a služby",
       "Občan",
-      "Obchod",
       "bezpečnost výrobku",
       "náhrada škody",
       "ochrana spotřebitele",
+      "odpovėdnost výrobce",
       "odpovědnost výrobce",
       "přibližování legislativy",
       "vadný výrobek"
@@ -39861,6 +40845,7 @@
       "Zdravotnictví",
       "bezpečnost výrobku",
       "chemický průmysl",
+      "chemický prųmysl",
       "chemický výrobek",
       "nebezpečná látka",
       "ochrana životního prostředí",
@@ -39889,6 +40874,7 @@
       "Zdravotnictví",
       "bezpečnost výrobku",
       "chemický průmysl",
+      "chemický prųmysl",
       "chemický výrobek",
       "nebezpečná látka",
       "ochrana životního prostředí",
@@ -39917,6 +40903,7 @@
       "Zdravotnictví",
       "bezpečnost výrobku",
       "chemický průmysl",
+      "chemický prųmysl",
       "chemický výrobek",
       "nebezpečná látka",
       "ochrana životního prostředí",
@@ -39938,12 +40925,13 @@
     },
     "temata": [
       "Parlament",
-      "Ústava České republiky, ústavní zákony",
       "dolní komora",
       "odstoupení vlády",
       "parlamentní volby",
       "poslanecký mandát",
-      "předčasné volby"
+      "pøedčasné volby",
+      "předčasné volby",
+      "Ústava České republiky, ústavní zákony"
     ]
   },
   {
@@ -39960,12 +40948,13 @@
     },
     "temata": [
       "Parlament",
-      "Ústava České republiky, ústavní zákony",
       "dolní komora",
       "odstoupení vlády",
       "parlamentní volby",
       "poslanecký mandát",
-      "předčasné volby"
+      "pøedčasné volby",
+      "předčasné volby",
+      "Ústava České republiky, ústavní zákony"
     ]
   },
   {
@@ -39982,12 +40971,13 @@
     },
     "temata": [
       "Parlament",
-      "Ústava České republiky, ústavní zákony",
       "dolní komora",
       "odstoupení vlády",
       "parlamentní volby",
       "poslanecký mandát",
-      "předčasné volby"
+      "pøedčasné volby",
+      "předčasné volby",
+      "Ústava České republiky, ústavní zákony"
     ]
   },
   {
@@ -40004,12 +40994,13 @@
     },
     "temata": [
       "Parlament",
-      "Ústava České republiky, ústavní zákony",
       "dolní komora",
       "odstoupení vlády",
       "parlamentní volby",
       "poslanecký mandát",
-      "předčasné volby"
+      "pøedčasné volby",
+      "předčasné volby",
+      "Ústava České republiky, ústavní zákony"
     ]
   },
   {
@@ -40026,12 +41017,13 @@
     },
     "temata": [
       "Parlament",
-      "Ústava České republiky, ústavní zákony",
       "dolní komora",
       "odstoupení vlády",
       "parlamentní volby",
       "poslanecký mandát",
-      "předčasné volby"
+      "pøedčasné volby",
+      "předčasné volby",
+      "Ústava České republiky, ústavní zákony"
     ]
   },
   {
@@ -40048,12 +41040,13 @@
     },
     "temata": [
       "Parlament",
-      "Ústava České republiky, ústavní zákony",
       "dolní komora",
       "odstoupení vlády",
       "parlamentní volby",
       "poslanecký mandát",
-      "předčasné volby"
+      "pøedčasné volby",
+      "předčasné volby",
+      "Ústava České republiky, ústavní zákony"
     ]
   },
   {
@@ -40070,12 +41063,13 @@
     },
     "temata": [
       "Parlament",
-      "Ústava České republiky, ústavní zákony",
       "dolní komora",
       "odstoupení vlády",
       "parlamentní volby",
       "poslanecký mandát",
-      "předčasné volby"
+      "pøedčasné volby",
+      "předčasné volby",
+      "Ústava České republiky, ústavní zákony"
     ]
   },
   {
@@ -40092,12 +41086,13 @@
     },
     "temata": [
       "Parlament",
-      "Ústava České republiky, ústavní zákony",
       "dolní komora",
       "odstoupení vlády",
       "parlamentní volby",
       "poslanecký mandát",
-      "předčasné volby"
+      "pøedčasné volby",
+      "předčasné volby",
+      "Ústava České republiky, ústavní zákony"
     ]
   },
   {
@@ -40665,10 +41660,11 @@
       "not_logged": 34
     },
     "temata": [
+      "Uspoøádání územnė správní",
       "Uspořádání územně správní",
-      "Ústava České republiky, ústavní zákony",
       "administrativní členění",
       "region",
+      "Ústava České republiky, ústavní zákony",
       "ústava",
       "územní samospráva"
     ]
@@ -40689,6 +41685,7 @@
       "Díla audiovizuální",
       "Právo autorské",
       "autorské právo",
+      "duevnķ vlastnictvķ",
       "duševní vlastnictví",
       "umělecké dílo"
     ]

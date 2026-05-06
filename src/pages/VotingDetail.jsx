@@ -181,6 +181,69 @@ export default function VotingDetail() {
             </table>
           </div>
         </div>
+
+        {/* PŘIDÁNO: Cíl B - Sekce s informacemi o sněmovním tisku */}
+        {voting.tisk_info && (
+          <div className="card mt-6">
+            <div className="panel-header">
+              <h2>Detail sněmovního tisku: {voting.tisk_info.nazev || `Tisk ${voting.tisk_info.tisk_id}`}</h2>
+            </div>
+            <div className="p-6">
+              
+              {/* Konečný stav */}
+              <div className="mb-4">
+                <span className="font-semibold text-gray-700">Konečný stav: </span>
+                <span>{voting.tisk_info.konecny_stav || 'Neznámý'}</span>
+              </div>
+
+              {/* Témata (Štítky / Badges) */}
+              {voting.tisk_info.temata && voting.tisk_info.temata.length > 0 && (
+                <div className="mb-6">
+                  <span className="font-semibold text-gray-700 block mb-2">Témata:</span>
+                  <div className="flex flex-wrap gap-2">
+                    {voting.tisk_info.temata.map((tema, idx) => (
+                      <span key={idx} className="bg-blue-100 text-blue-800 text-xs font-semibold px-2.5 py-1 rounded-full">
+                        {tema}
+                      </span>
+                    ))}
+                  </div>
+                </div>
+              )}
+
+              {/* Historie (Vertikální časová osa) */}
+              {voting.tisk_info.historie && voting.tisk_info.historie.length > 0 && (
+                <div>
+                  <span className="font-semibold text-gray-700 block mb-3">Historie tisku:</span>
+                  <ol className="relative border-l border-gray-300 ml-3">                  
+                    {voting.tisk_info.historie.map((udalost, idx) => {
+                      // Pokusíme se hezky vizuálně oddělit datum od textu události
+                      const [datum, ...zbytek] = udalost.split(':');
+                      const textUdalosti = zbytek.length > 0 ? zbytek.join(':').trim() : udalost;
+                      
+                      return (
+                        <li key={idx} className="mb-4 ml-6">
+                          {/* Tečka na časové ose */}
+                          <span className="absolute flex items-center justify-center w-3 h-3 bg-blue-500 rounded-full -left-1.5 ring-4 ring-white"></span>
+                          
+                          {zbytek.length > 0 ? (
+                            <>
+                              <h3 className="text-sm font-semibold text-gray-900">{datum}</h3>
+                              <p className="text-sm text-gray-600">{textUdalosti}</p>
+                            </>
+                          ) : (
+                            <p className="text-sm text-gray-600">{udalost}</p>
+                          )}
+                        </li>
+                      );
+                    })}
+                  </ol>
+                </div>
+              )}
+
+            </div>
+          </div>
+        )}
+
       </div>
     </div>
   );

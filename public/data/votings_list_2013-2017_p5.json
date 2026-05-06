@@ -518,6 +518,7 @@
     "temata": [
       "elektronické publikování",
       "televize",
+      "televize s vysokou rozliovací schopností",
       "televize s vysokou rozlišovací schopností"
     ]
   },
@@ -686,6 +687,7 @@
       "organizace strany",
       "politické strany",
       "politický program",
+      "zaloení strany",
       "založení strany"
     ]
   },
@@ -707,6 +709,7 @@
       "organizace strany",
       "politické strany",
       "politický program",
+      "zaloení strany",
       "založení strany"
     ]
   },
@@ -760,12 +763,15 @@
       "not_logged": 64
     },
     "temata": [
+      "lékaøská prohlídka",
       "lékařská prohlídka",
       "lékařský posudek",
+      "pracovní lékaøství",
       "pracovní lékařství",
       "pracovní právo",
       "sexuálně motivovaný trestný čin",
       "sterilizace",
+      "umėlé oplodnėní",
       "umělé oplodnění",
       "zdravotnická legislativa",
       "zdravotnická služba",
@@ -785,12 +791,15 @@
       "not_logged": 62
     },
     "temata": [
+      "lékaøská prohlídka",
       "lékařská prohlídka",
       "lékařský posudek",
+      "pracovní lékaøství",
       "pracovní lékařství",
       "pracovní právo",
       "sexuálně motivovaný trestný čin",
       "sterilizace",
+      "umėlé oplodnėní",
       "umělé oplodnění",
       "zdravotnická legislativa",
       "zdravotnická služba",
@@ -811,8 +820,10 @@
     },
     "temata": [
       "cizí jazyk",
-      "všeobecné školství",
-      "výuka jazyků"
+      "veobecné kolství",
+      "výuka jazyků",
+      "výuka jazykų",
+      "všeobecné školství"
     ]
   },
   {
@@ -829,8 +840,10 @@
     },
     "temata": [
       "cizí jazyk",
-      "všeobecné školství",
-      "výuka jazyků"
+      "veobecné kolství",
+      "výuka jazyků",
+      "výuka jazykų",
+      "všeobecné školství"
     ]
   },
   {
@@ -847,8 +860,10 @@
     },
     "temata": [
       "cizí jazyk",
-      "všeobecné školství",
-      "výuka jazyků"
+      "veobecné kolství",
+      "výuka jazyků",
+      "výuka jazykų",
+      "všeobecné školství"
     ]
   },
   {
@@ -865,8 +880,10 @@
     },
     "temata": [
       "cizí jazyk",
-      "všeobecné školství",
-      "výuka jazyků"
+      "veobecné kolství",
+      "výuka jazyků",
+      "výuka jazykų",
+      "všeobecné školství"
     ]
   },
   {
@@ -956,13 +973,15 @@
       "not_logged": 53
     },
     "temata": [
-      "Česká republika",
       "Japonsko",
       "mezinárodní úmluva",
       "ochrana životního prostředí",
       "politika životního prostředí EU",
+      "rtu",
       "rtuť",
-      "znečišťování životního prostředí kovy"
+      "znečiování ivotního prostøedí kovy",
+      "znečišťování životního prostředí kovy",
+      "Česká republika"
     ]
   },
   {
@@ -2235,9 +2254,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -2254,9 +2275,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -2273,9 +2296,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -2292,9 +2317,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -2311,9 +2338,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -2330,9 +2359,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -2349,9 +2380,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -2368,9 +2401,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -2387,9 +2422,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -2406,9 +2443,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -2425,9 +2464,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -2444,9 +2485,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -2463,9 +2506,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -2482,9 +2527,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -2501,9 +2548,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -2520,9 +2569,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -2539,9 +2590,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -2558,9 +2611,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -2577,9 +2632,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -2596,9 +2653,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -2637,9 +2696,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -2700,6 +2761,7 @@
       "kontrola restriktivních praktik",
       "odškodnění",
       "právo států",
+      "právo státų",
       "přibližování legislativy",
       "soutěžní politika",
       "soutěžní právo"
@@ -2719,9 +2781,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -2738,9 +2802,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -2757,9 +2823,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -2776,9 +2844,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -2795,9 +2865,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -2814,9 +2886,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -2833,9 +2907,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -2852,9 +2928,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -2871,9 +2949,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -2890,9 +2970,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -2909,9 +2991,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -2931,8 +3015,9 @@
       "cenová regulace",
       "ceny",
       "parlamentní kontrola",
-      "řízení cen",
-      "tvorba cen"
+      "tvorba cen",
+      "øízení cen",
+      "řízení cen"
     ]
   },
   {
@@ -2952,8 +3037,9 @@
       "cenová regulace",
       "ceny",
       "parlamentní kontrola",
-      "řízení cen",
-      "tvorba cen"
+      "tvorba cen",
+      "øízení cen",
+      "řízení cen"
     ]
   },
   {
@@ -2973,8 +3059,9 @@
       "cenová regulace",
       "ceny",
       "parlamentní kontrola",
-      "řízení cen",
-      "tvorba cen"
+      "tvorba cen",
+      "øízení cen",
+      "řízení cen"
     ]
   },
   {
@@ -2994,8 +3081,9 @@
       "cenová regulace",
       "ceny",
       "parlamentní kontrola",
-      "řízení cen",
-      "tvorba cen"
+      "tvorba cen",
+      "øízení cen",
+      "řízení cen"
     ]
   },
   {
@@ -3076,9 +3164,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -3095,9 +3185,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -3114,9 +3206,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -3249,12 +3343,14 @@
       "not_logged": 28
     },
     "temata": [
-      "Česká republika",
       "dopování",
       "mezinárodní úmluva",
+      "povzbuzující prostøedek",
       "povzbuzující prostředek",
       "sport",
-      "tělesná výchova"
+      "tėlesná výchova",
+      "tělesná výchova",
+      "Česká republika"
     ]
   },
   {
@@ -3270,12 +3366,14 @@
       "not_logged": 44
     },
     "temata": [
-      "Česká republika",
       "dopování",
       "mezinárodní úmluva",
+      "povzbuzující prostøedek",
       "povzbuzující prostředek",
       "sport",
-      "tělesná výchova"
+      "tėlesná výchova",
+      "tělesná výchova",
+      "Česká republika"
     ]
   },
   {
@@ -3625,12 +3723,13 @@
     "temata": [
       "bezpečnost výrobku",
       "regulace trhu",
-      "řízení jakosti průmyslových výrobků",
       "sladění norem",
       "správní kontrola",
       "technická norma",
       "technické předpisy a normy",
-      "uvedení výrobku na trh"
+      "uvedení výrobku na trh",
+      "øízení jakosti prųmyslových výrobkų",
+      "řízení jakosti průmyslových výrobků"
     ]
   },
   {
@@ -3735,9 +3834,11 @@
       "elektronický obchod",
       "ochrana spotřebitele",
       "regionální trh",
-      "řízení jakosti průmyslových výrobků",
+      "spotøebitelská politika",
       "spotřebitelská politika",
-      "zásilkový obchod"
+      "zásilkový obchod",
+      "øízení jakosti prųmyslových výrobkų",
+      "řízení jakosti průmyslových výrobků"
     ]
   },
   {
@@ -4818,6 +4919,7 @@
     "temata": [
       "stavební politika",
       "stavební právo",
+      "stavebnķ politika",
       "územní plánování",
       "územní samospráva"
     ]
@@ -5100,8 +5202,9 @@
     },
     "temata": [
       "dopravní infrastruktura",
-      "účetní uzávěrka",
-      "zpráva o činnosti"
+      "zpráva o činnosti",
+      "účetní uzávėrka",
+      "účetní uzávěrka"
     ]
   },
   {
@@ -5211,6 +5314,7 @@
       "not_logged": 61
     },
     "temata": [
+      "inzerování zboí",
       "inzerování zboží",
       "potravinová legislativa",
       "potraviny",
@@ -5301,13 +5405,14 @@
     },
     "temata": [
       "Agentura Evropské unie pro základní práva",
-      "Česká republika",
-      "činnost orgánů",
-      "činnost základních institucí",
       "organizace EU",
       "soudní spolupráce",
       "soudní spolupráce EU v trestních věcech",
-      "správa instituce"
+      "správa instituce",
+      "Česká republika",
+      "činnost orgánů",
+      "činnost orgánų",
+      "činnost základních institucí"
     ]
   },
   {
@@ -5323,12 +5428,13 @@
       "not_logged": 25
     },
     "temata": [
-      "Česká republika",
       "mezinárodní obchodní právo",
       "obchodní dohoda",
       "obchodní právo",
       "obchodní spolupráce",
-      "trh zboží"
+      "trh zboí",
+      "trh zboží",
+      "Česká republika"
     ]
   },
   {
@@ -5383,10 +5489,11 @@
       "not_logged": 41
     },
     "temata": [
-      "Česká republika",
+      "Tádikistán",
+      "Tádžikistán",
       "letecká doprava",
       "mezinárodní doprava",
-      "Tádžikistán"
+      "Česká republika"
     ]
   },
   {
@@ -5402,10 +5509,11 @@
       "not_logged": 39
     },
     "temata": [
-      "Česká republika",
+      "Tádikistán",
+      "Tádžikistán",
       "letecká doprava",
       "mezinárodní doprava",
-      "Tádžikistán"
+      "Česká republika"
     ]
   },
   {
@@ -5421,10 +5529,11 @@
       "not_logged": 36
     },
     "temata": [
-      "Česká republika",
+      "Tádikistán",
+      "Tádžikistán",
       "letecká doprava",
       "mezinárodní doprava",
-      "Tádžikistán"
+      "Česká republika"
     ]
   },
   {
@@ -5440,10 +5549,11 @@
       "not_logged": 36
     },
     "temata": [
-      "Česká republika",
+      "Tádikistán",
+      "Tádžikistán",
       "letecká doprava",
       "mezinárodní doprava",
-      "Tádžikistán"
+      "Česká republika"
     ]
   },
   {
@@ -5459,10 +5569,11 @@
       "not_logged": 34
     },
     "temata": [
-      "Česká republika",
+      "Tádikistán",
+      "Tádžikistán",
       "letecká doprava",
       "mezinárodní doprava",
-      "Tádžikistán"
+      "Česká republika"
     ]
   },
   {
@@ -5534,10 +5645,11 @@
       "not_logged": 48
     },
     "temata": [
-      "Česká republika",
+      "Tádikistán",
+      "Tádžikistán",
       "letecká doprava",
       "mezinárodní doprava",
-      "Tádžikistán"
+      "Česká republika"
     ]
   },
   {
@@ -5553,10 +5665,11 @@
       "not_logged": 47
     },
     "temata": [
-      "Česká republika",
+      "Tádikistán",
+      "Tádžikistán",
       "letecká doprava",
       "mezinárodní doprava",
-      "Tádžikistán"
+      "Česká republika"
     ]
   },
   {
@@ -5573,13 +5686,14 @@
     },
     "temata": [
       "Agentura Evropské unie pro základní práva",
-      "Česká republika",
-      "činnost orgánů",
-      "činnost základních institucí",
       "organizace EU",
       "soudní spolupráce",
       "soudní spolupráce EU v trestních věcech",
-      "správa instituce"
+      "správa instituce",
+      "Česká republika",
+      "činnost orgánů",
+      "činnost orgánų",
+      "činnost základních institucí"
     ]
   },
   {
@@ -5595,10 +5709,11 @@
       "not_logged": 22
     },
     "temata": [
-      "Česká republika",
+      "Tádikistán",
+      "Tádžikistán",
       "letecká doprava",
       "mezinárodní doprava",
-      "Tádžikistán"
+      "Česká republika"
     ]
   },
   {
@@ -5614,10 +5729,11 @@
       "not_logged": 34
     },
     "temata": [
-      "Česká republika",
+      "Tádikistán",
+      "Tádžikistán",
       "letecká doprava",
       "mezinárodní doprava",
-      "Tádžikistán"
+      "Česká republika"
     ]
   },
   {
@@ -5653,19 +5769,21 @@
       "not_logged": 68
     },
     "temata": [
-      "Smlouvy",
-      "Česká republika",
-      "dopravní politika",
-      "horský region",
+      "Maïarsko",
       "Maďarsko",
-      "mezinárodní dohoda",
-      "ochrana životního prostředí",
       "Polsko",
-      "ratifikace dohody",
       "Rumunsko",
       "Slovensko",
+      "Smlouvy",
+      "Ukrajina",
+      "dopravní politika",
+      "horský region",
+      "mezinárodní dohoda",
+      "ochrana životního prostředí",
+      "ratifikace dohody",
+      "trvale udritelná mobilita",
       "trvale udržitelná mobilita",
-      "Ukrajina"
+      "Česká republika"
     ]
   },
   {
@@ -6396,6 +6514,7 @@
     },
     "temata": [
       "armáda",
+      "dobrovolná vojenská sluba",
       "dobrovolná vojenská služba",
       "mzdová politika",
       "odměňování",
@@ -6417,6 +6536,7 @@
     },
     "temata": [
       "armáda",
+      "dobrovolná vojenská sluba",
       "dobrovolná vojenská služba",
       "mzdová politika",
       "odměňování",
@@ -6438,6 +6558,7 @@
     },
     "temata": [
       "armáda",
+      "dobrovolná vojenská sluba",
       "dobrovolná vojenská služba",
       "mzdová politika",
       "odměňování",
@@ -6476,6 +6597,7 @@
     },
     "temata": [
       "armáda",
+      "dobrovolná vojenská sluba",
       "dobrovolná vojenská služba",
       "mzdová politika",
       "odměňování",
@@ -6821,12 +6943,13 @@
       "not_logged": 32
     },
     "temata": [
-      "Česká republika",
       "Evropská unie",
-      "hospodářská dohoda",
       "Kanada",
+      "hospodáøská dohoda",
+      "hospodářská dohoda",
       "mezinárodní obchod",
-      "obchodní dohoda"
+      "obchodní dohoda",
+      "Česká republika"
     ]
   },
   {
@@ -6842,9 +6965,10 @@
       "not_logged": 34
     },
     "temata": [
-      "Česká republika",
+      "jaderná elektrárna",
       "Írán",
-      "jaderná elektrárna"
+      "Česká republika",
+      "Ķrįn"
     ]
   },
   {
@@ -6860,12 +6984,13 @@
       "not_logged": 33
     },
     "temata": [
-      "Česká republika",
       "Evropská unie",
-      "hospodářská dohoda",
       "Kanada",
+      "hospodáøská dohoda",
+      "hospodářská dohoda",
       "mezinárodní obchod",
-      "obchodní dohoda"
+      "obchodní dohoda",
+      "Česká republika"
     ]
   },
   {
@@ -6881,12 +7006,13 @@
       "not_logged": 24
     },
     "temata": [
-      "Česká republika",
       "Evropská unie",
-      "hospodářská dohoda",
       "Kanada",
+      "hospodáøská dohoda",
+      "hospodářská dohoda",
       "mezinárodní obchod",
-      "obchodní dohoda"
+      "obchodní dohoda",
+      "Česká republika"
     ]
   },
   {
@@ -6902,12 +7028,13 @@
       "not_logged": 24
     },
     "temata": [
-      "Česká republika",
       "Evropská unie",
-      "hospodářská dohoda",
       "Kanada",
+      "hospodáøská dohoda",
+      "hospodářská dohoda",
       "mezinárodní obchod",
-      "obchodní dohoda"
+      "obchodní dohoda",
+      "Česká republika"
     ]
   },
   {
@@ -7161,12 +7288,13 @@
       "not_logged": 9
     },
     "temata": [
-      "armáda",
       "Estonsko",
       "Litva",
+      "Lotysko",
       "Lotyšsko",
       "NATO",
       "Polsko",
+      "armáda",
       "vojenská spolupráce",
       "vojska v zahraničí"
     ]
@@ -7511,8 +7639,11 @@
       "církev",
       "obchodní rejstřík",
       "služba ve veřejném zájmu",
+      "sociální hospodáøství",
       "sociální hospodářství",
       "správní kontrola",
+      "veøejná instituce",
+      "veøejnė prospėná sluba",
       "veřejná instituce",
       "veřejně prospěšná služba"
     ]
@@ -7533,8 +7664,11 @@
       "církev",
       "obchodní rejstřík",
       "služba ve veřejném zájmu",
+      "sociální hospodáøství",
       "sociální hospodářství",
       "správní kontrola",
+      "veøejná instituce",
+      "veøejnė prospėná sluba",
       "veřejná instituce",
       "veřejně prospěšná služba"
     ]
@@ -7644,6 +7778,7 @@
       "evropská spolupráce",
       "finanční kontrola",
       "mezinárodní daňové právo",
+      "mezinárodní daōové právo",
       "mezinárodní spolupráce",
       "vybírání daní"
     ]
@@ -7666,6 +7801,7 @@
       "ceny",
       "kalkulace",
       "regulace trhu",
+      "øízení cen",
       "řízení cen"
     ]
   },
@@ -7682,12 +7818,13 @@
       "not_logged": 70
     },
     "temata": [
-      "armáda",
       "Estonsko",
       "Litva",
+      "Lotysko",
       "Lotyšsko",
       "NATO",
       "Polsko",
+      "armáda",
       "vojenská spolupráce",
       "vojska v zahraničí"
     ]
@@ -7705,12 +7842,13 @@
       "not_logged": 68
     },
     "temata": [
-      "armáda",
       "Estonsko",
       "Litva",
+      "Lotysko",
       "Lotyšsko",
       "NATO",
       "Polsko",
+      "armáda",
       "vojenská spolupráce",
       "vojska v zahraničí"
     ]
@@ -7946,6 +8084,7 @@
       "not_logged": 25
     },
     "temata": [
+      "celoivotní vzdėlávání",
       "celoživotní vzdělávání",
       "mzda",
       "mzdová politika",
@@ -8096,11 +8235,12 @@
       "not_logged": 23
     },
     "temata": [
-      "Česká republika",
-      "dvoustranná dohoda",
       "Slovensko",
+      "dvoustranná dohoda",
       "vojenské letectvo",
-      "vzdušný prostor"
+      "vzduný prostor",
+      "vzdušný prostor",
+      "Česká republika"
     ]
   },
   {
@@ -8116,11 +8256,12 @@
       "not_logged": 23
     },
     "temata": [
-      "Česká republika",
-      "dvoustranná dohoda",
       "Slovensko",
+      "dvoustranná dohoda",
       "vojenské letectvo",
-      "vzdušný prostor"
+      "vzduný prostor",
+      "vzdušný prostor",
+      "Česká republika"
     ]
   },
   {
@@ -8137,14 +8278,16 @@
     },
     "temata": [
       "Aruba",
-      "Česká republika",
-      "daňová úmluva",
-      "daň z příjmů",
-      "mezinárodní dohoda",
-      "Nizozemské Antily",
       "Nizozemsko",
+      "Nizozemské Antily",
+      "daň z příjmů",
+      "daňová úmluva",
+      "daōová úmluva",
+      "mezinárodní dohoda",
+      "vypovėdėní smlouvy",
+      "vypovědění smlouvy",
       "úspory",
-      "vypovědění smlouvy"
+      "Česká republika"
     ]
   },
   {
@@ -8161,14 +8304,16 @@
     },
     "temata": [
       "Aruba",
-      "Česká republika",
-      "daňová úmluva",
-      "daň z příjmů",
-      "mezinárodní dohoda",
-      "Nizozemské Antily",
       "Nizozemsko",
+      "Nizozemské Antily",
+      "daň z příjmů",
+      "daňová úmluva",
+      "daōová úmluva",
+      "mezinárodní dohoda",
+      "vypovėdėní smlouvy",
+      "vypovědění smlouvy",
       "úspory",
-      "vypovědění smlouvy"
+      "Česká republika"
     ]
   },
   {
@@ -8185,14 +8330,16 @@
     },
     "temata": [
       "Aruba",
-      "Česká republika",
-      "daňová úmluva",
-      "daň z příjmů",
-      "mezinárodní dohoda",
-      "Nizozemské Antily",
       "Nizozemsko",
+      "Nizozemské Antily",
+      "daň z příjmů",
+      "daňová úmluva",
+      "daōová úmluva",
+      "mezinárodní dohoda",
+      "vypovėdėní smlouvy",
+      "vypovědění smlouvy",
       "úspory",
-      "vypovědění smlouvy"
+      "Česká republika"
     ]
   },
   {
@@ -8209,14 +8356,16 @@
     },
     "temata": [
       "Aruba",
-      "Česká republika",
-      "daňová úmluva",
-      "daň z příjmů",
-      "mezinárodní dohoda",
-      "Nizozemské Antily",
       "Nizozemsko",
+      "Nizozemské Antily",
+      "daň z příjmů",
+      "daňová úmluva",
+      "daōová úmluva",
+      "mezinárodní dohoda",
+      "vypovėdėní smlouvy",
+      "vypovědění smlouvy",
       "úspory",
-      "vypovědění smlouvy"
+      "Česká republika"
     ]
   },
   {
@@ -8271,12 +8420,14 @@
     },
     "temata": [
       "Britské Panenské ostrovy",
-      "Česká republika",
-      "daňová úmluva",
       "daň z příjmů",
+      "daňová úmluva",
+      "daōová úmluva",
       "mezinárodní dohoda",
+      "vypovėdėní smlouvy",
+      "vypovědění smlouvy",
       "úspory",
-      "vypovědění smlouvy"
+      "Česká republika"
     ]
   },
   {
@@ -8293,12 +8444,14 @@
     },
     "temata": [
       "Britské Panenské ostrovy",
-      "Česká republika",
-      "daňová úmluva",
       "daň z příjmů",
+      "daňová úmluva",
+      "daōová úmluva",
       "mezinárodní dohoda",
+      "vypovėdėní smlouvy",
+      "vypovědění smlouvy",
       "úspory",
-      "vypovědění smlouvy"
+      "Česká republika"
     ]
   },
   {
@@ -8315,12 +8468,14 @@
     },
     "temata": [
       "Britské Panenské ostrovy",
-      "Česká republika",
-      "daňová úmluva",
       "daň z příjmů",
+      "daňová úmluva",
+      "daōová úmluva",
       "mezinárodní dohoda",
+      "vypovėdėní smlouvy",
+      "vypovědění smlouvy",
       "úspory",
-      "vypovědění smlouvy"
+      "Česká republika"
     ]
   },
   {
@@ -8337,12 +8492,14 @@
     },
     "temata": [
       "Britské Panenské ostrovy",
-      "Česká republika",
-      "daňová úmluva",
       "daň z příjmů",
+      "daňová úmluva",
+      "daōová úmluva",
       "mezinárodní dohoda",
+      "vypovėdėní smlouvy",
+      "vypovědění smlouvy",
       "úspory",
-      "vypovědění smlouvy"
+      "Česká republika"
     ]
   },
   {
@@ -8396,13 +8553,15 @@
       "not_logged": 23
     },
     "temata": [
-      "Česká republika",
-      "daňová úmluva",
-      "daň z příjmů",
       "Kajmanské ostrovy",
+      "daň z příjmů",
+      "daňová úmluva",
+      "daōová úmluva",
       "mezinárodní dohoda",
+      "vypovėdėní smlouvy",
+      "vypovědění smlouvy",
       "úspory",
-      "vypovědění smlouvy"
+      "Česká republika"
     ]
   },
   {
@@ -8418,13 +8577,15 @@
       "not_logged": 23
     },
     "temata": [
-      "Česká republika",
-      "daňová úmluva",
-      "daň z příjmů",
       "Kajmanské ostrovy",
+      "daň z příjmů",
+      "daňová úmluva",
+      "daōová úmluva",
       "mezinárodní dohoda",
+      "vypovėdėní smlouvy",
+      "vypovědění smlouvy",
       "úspory",
-      "vypovědění smlouvy"
+      "Česká republika"
     ]
   },
   {
@@ -8440,13 +8601,15 @@
       "not_logged": 23
     },
     "temata": [
-      "Česká republika",
-      "daňová úmluva",
-      "daň z příjmů",
-      "mezinárodní dohoda",
       "Ostrovy Turks a Caicos",
+      "daň z příjmů",
+      "daňová úmluva",
+      "daōová úmluva",
+      "mezinárodní dohoda",
+      "vypovėdėní smlouvy",
+      "vypovědění smlouvy",
       "úspory",
-      "vypovědění smlouvy"
+      "Česká republika"
     ]
   },
   {
@@ -8462,13 +8625,15 @@
       "not_logged": 23
     },
     "temata": [
-      "Česká republika",
-      "daňová úmluva",
-      "daň z příjmů",
-      "mezinárodní dohoda",
       "Ostrovy Turks a Caicos",
+      "daň z příjmů",
+      "daňová úmluva",
+      "daōová úmluva",
+      "mezinárodní dohoda",
+      "vypovėdėní smlouvy",
+      "vypovědění smlouvy",
       "úspory",
-      "vypovědění smlouvy"
+      "Česká republika"
     ]
   },
   {
@@ -8524,12 +8689,13 @@
       "not_logged": 47
     },
     "temata": [
-      "Česká republika",
       "Evropská unie",
-      "hospodářská dohoda",
       "Kanada",
+      "hospodáøská dohoda",
+      "hospodářská dohoda",
       "mezinárodní obchod",
-      "obchodní dohoda"
+      "obchodní dohoda",
+      "Česká republika"
     ]
   },
   {
@@ -8546,10 +8712,11 @@
     },
     "temata": [
       "bankovní politika",
-      "Česká republika",
       "finanční politika",
       "finanční spolupráce",
-      "hospodářská spolupráce"
+      "hospodáøská spolupráce",
+      "hospodářská spolupráce",
+      "Česká republika"
     ]
   },
   {
@@ -8565,13 +8732,15 @@
       "not_logged": 45
     },
     "temata": [
-      "Česká republika",
-      "daňová úmluva",
-      "daň z příjmů",
       "Kajmanské ostrovy",
+      "daň z příjmů",
+      "daňová úmluva",
+      "daōová úmluva",
       "mezinárodní dohoda",
+      "vypovėdėní smlouvy",
+      "vypovědění smlouvy",
       "úspory",
-      "vypovědění smlouvy"
+      "Česká republika"
     ]
   },
   {
@@ -8658,9 +8827,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -8677,9 +8848,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -8696,9 +8869,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -8715,9 +8890,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -8734,9 +8911,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -8753,9 +8932,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -8772,9 +8953,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -8811,9 +8994,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -8830,9 +9015,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -8849,9 +9036,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -8867,13 +9056,15 @@
       "not_logged": 14
     },
     "temata": [
+      "hájené zamėstnání",
       "hájené zaměstnání",
       "integrace postižených osob",
       "lékařský posudek",
       "podpora v nezaměstnanosti",
+      "poptávka po zamėstnání",
       "poptávka po zaměstnání",
-      "zdravotně postižený člověk",
-      "zdravotně postižený pracovník"
+      "zdravotně postižený pracovník",
+      "zdravotně postižený člověk"
     ]
   },
   {
@@ -8890,9 +9081,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -8909,9 +9102,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -8928,9 +9123,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -8947,9 +9144,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -8966,9 +9165,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -8985,9 +9186,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -9004,9 +9207,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -9023,9 +9228,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -9042,9 +9249,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -9061,9 +9270,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -9080,9 +9291,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -9099,9 +9312,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -9118,9 +9333,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -9137,9 +9354,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -9156,9 +9375,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -9175,9 +9396,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -9194,9 +9417,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -9219,6 +9444,7 @@
       "organizace dopravy",
       "osobní doprava",
       "silnièní doprava",
+      "silniční doprava",
       "taxi"
     ]
   },
@@ -9236,10 +9462,12 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
       "koordinace financování",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -9256,10 +9484,12 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
       "koordinace financování",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -9276,10 +9506,12 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
       "koordinace financování",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -9296,10 +9528,12 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
       "koordinace financování",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -9316,10 +9550,12 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
       "koordinace financování",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -9336,10 +9572,12 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
       "koordinace financování",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -9356,10 +9594,12 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
       "koordinace financování",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -9376,10 +9616,12 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
       "koordinace financování",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -9396,10 +9638,12 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
       "koordinace financování",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -9416,10 +9660,12 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
       "koordinace financování",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -9436,10 +9682,12 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
       "koordinace financování",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -9456,10 +9704,12 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
       "koordinace financování",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -9476,10 +9726,12 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
       "koordinace financování",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -9496,10 +9748,12 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
       "koordinace financování",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -9516,10 +9770,12 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
       "koordinace financování",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -9536,10 +9792,12 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
       "koordinace financování",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -9556,10 +9814,12 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
       "koordinace financování",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -9576,9 +9836,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -9595,9 +9857,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -9614,9 +9878,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -9652,9 +9918,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -9671,9 +9939,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -9690,9 +9960,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -9709,9 +9981,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -9728,9 +10002,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -9942,13 +10218,15 @@
       "not_logged": 22
     },
     "temata": [
+      "hájené zamėstnání",
       "hájené zaměstnání",
       "integrace postižených osob",
       "lékařský posudek",
       "podpora v nezaměstnanosti",
+      "poptávka po zamėstnání",
       "poptávka po zaměstnání",
-      "zdravotně postižený člověk",
-      "zdravotně postižený pracovník"
+      "zdravotně postižený pracovník",
+      "zdravotně postižený člověk"
     ]
   },
   {
@@ -9964,15 +10242,16 @@
       "not_logged": 34
     },
     "temata": [
-      "činnost orgánů",
-      "činnost základních institucí",
       "důvěrná informace",
       "kontrolní moc",
       "organizovaný zločin",
       "parlamentní kontrola",
       "pravomoc instituce",
       "tajná služba",
-      "veřejná bezpečnost"
+      "veřejná bezpečnost",
+      "činnost orgánů",
+      "činnost orgánų",
+      "činnost základních institucí"
     ]
   },
   {
@@ -10011,9 +10290,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -10051,10 +10332,12 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
       "koordinace financování",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -10071,9 +10354,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -10090,9 +10375,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -10109,9 +10396,11 @@
     },
     "temata": [
       "finanční kontrola",
+      "finanční øízení",
       "finanční řízení",
-      "účetnictví veřejných institucí",
-      "veřejné finance"
+      "veřejné finance",
+      "účetnictví veøejných institucí",
+      "účetnictví veřejných institucí"
     ]
   },
   {
@@ -10227,8 +10516,9 @@
     "temata": [
       "energetická politika",
       "regulace trhu",
-      "účetní uzávěrka",
-      "zpráva o činnosti"
+      "zpráva o činnosti",
+      "účetní uzávėrka",
+      "účetní uzávěrka"
     ]
   },
   {
@@ -10296,15 +10586,17 @@
       "not_logged": 50
     },
     "temata": [
-      "Česká republika",
+      "látky znečiující stratosféru",
       "látky znečišťující stratosféru",
       "mezinárodní úmluva",
       "opatření na kontrolu znečištění",
       "ozon",
       "prevence znečištění",
+      "znečiování stratosféry",
       "znečišťování atmosféry",
       "znečišťování stratosféry",
-      "znečišťování životního prostředí"
+      "znečišťování životního prostředí",
+      "Česká republika"
     ]
   },
   {
@@ -10342,6 +10634,7 @@
       "námořní doprava",
       "pracovní podmínky",
       "ratifikace dohody",
+      "rybáøský prųmysl",
       "rybářský průmysl"
     ]
   },
@@ -10359,8 +10652,10 @@
     },
     "temata": [
       "environmentální politika",
+      "ochrana ivočiné øíe",
       "ochrana živočišné říše",
       "ptáci",
+      "spolupráce v oblasti ivotního prostøedí",
       "spolupráce v oblasti životního prostředí"
     ]
   },
@@ -10377,15 +10672,17 @@
       "not_logged": 46
     },
     "temata": [
-      "Česká republika",
+      "látky znečiující stratosféru",
       "látky znečišťující stratosféru",
       "mezinárodní úmluva",
       "opatření na kontrolu znečištění",
       "ozon",
       "prevence znečištění",
+      "znečiování stratosféry",
       "znečišťování atmosféry",
       "znečišťování stratosféry",
-      "znečišťování životního prostředí"
+      "znečišťování životního prostředí",
+      "Česká republika"
     ]
   },
   {
@@ -10401,15 +10698,17 @@
       "not_logged": 47
     },
     "temata": [
-      "Česká republika",
+      "látky znečiující stratosféru",
       "látky znečišťující stratosféru",
       "mezinárodní úmluva",
       "opatření na kontrolu znečištění",
       "ozon",
       "prevence znečištění",
+      "znečiování stratosféry",
       "znečišťování atmosféry",
       "znečišťování stratosféry",
-      "znečišťování životního prostředí"
+      "znečišťování životního prostředí",
+      "Česká republika"
     ]
   },
   {
@@ -10444,10 +10743,11 @@
       "not_logged": 45
     },
     "temata": [
-      "Česká republika",
+      "Tádikistán",
+      "Tádžikistán",
       "letecká doprava",
       "mezinárodní doprava",
-      "Tádžikistán"
+      "Česká republika"
     ]
   },
   {
@@ -10463,10 +10763,11 @@
       "not_logged": 44
     },
     "temata": [
-      "Česká republika",
+      "Tádikistán",
+      "Tádžikistán",
       "letecká doprava",
       "mezinárodní doprava",
-      "Tádžikistán"
+      "Česká republika"
     ]
   },
   {
@@ -10482,10 +10783,11 @@
       "not_logged": 44
     },
     "temata": [
-      "Česká republika",
+      "Tádikistán",
+      "Tádžikistán",
       "letecká doprava",
       "mezinárodní doprava",
-      "Tádžikistán"
+      "Česká republika"
     ]
   },
   {
@@ -10501,12 +10803,14 @@
       "not_logged": 41
     },
     "temata": [
-      "Česká republika",
       "dopování",
       "mezinárodní úmluva",
+      "povzbuzující prostøedek",
       "povzbuzující prostředek",
       "sport",
-      "tělesná výchova"
+      "tėlesná výchova",
+      "tělesná výchova",
+      "Česká republika"
     ]
   },
   {
@@ -10523,14 +10827,16 @@
     },
     "temata": [
       "Aruba",
-      "Česká republika",
-      "daňová úmluva",
-      "daň z příjmů",
-      "mezinárodní dohoda",
-      "Nizozemské Antily",
       "Nizozemsko",
+      "Nizozemské Antily",
+      "daň z příjmů",
+      "daňová úmluva",
+      "daōová úmluva",
+      "mezinárodní dohoda",
+      "vypovėdėní smlouvy",
+      "vypovědění smlouvy",
       "úspory",
-      "vypovědění smlouvy"
+      "Česká republika"
     ]
   },
   {
@@ -10547,14 +10853,16 @@
     },
     "temata": [
       "Aruba",
-      "Česká republika",
-      "daňová úmluva",
-      "daň z příjmů",
-      "mezinárodní dohoda",
-      "Nizozemské Antily",
       "Nizozemsko",
+      "Nizozemské Antily",
+      "daň z příjmů",
+      "daňová úmluva",
+      "daōová úmluva",
+      "mezinárodní dohoda",
+      "vypovėdėní smlouvy",
+      "vypovědění smlouvy",
       "úspory",
-      "vypovědění smlouvy"
+      "Česká republika"
     ]
   },
   {
@@ -10590,12 +10898,14 @@
     },
     "temata": [
       "Britské Panenské ostrovy",
-      "Česká republika",
-      "daňová úmluva",
       "daň z příjmů",
+      "daňová úmluva",
+      "daōová úmluva",
       "mezinárodní dohoda",
+      "vypovėdėní smlouvy",
+      "vypovědění smlouvy",
       "úspory",
-      "vypovědění smlouvy"
+      "Česká republika"
     ]
   },
   {
@@ -10611,13 +10921,15 @@
       "not_logged": 37
     },
     "temata": [
-      "Česká republika",
-      "daňová úmluva",
-      "daň z příjmů",
       "Kajmanské ostrovy",
+      "daň z příjmů",
+      "daňová úmluva",
+      "daōová úmluva",
       "mezinárodní dohoda",
+      "vypovėdėní smlouvy",
+      "vypovědění smlouvy",
       "úspory",
-      "vypovědění smlouvy"
+      "Česká republika"
     ]
   },
   {
@@ -10633,13 +10945,15 @@
       "not_logged": 36
     },
     "temata": [
-      "Česká republika",
-      "daňová úmluva",
-      "daň z příjmů",
-      "mezinárodní dohoda",
       "Montserrat",
+      "daň z příjmů",
+      "daňová úmluva",
+      "daōová úmluva",
+      "mezinárodní dohoda",
+      "vypovėdėní smlouvy",
+      "vypovědění smlouvy",
       "úspory",
-      "vypovědění smlouvy"
+      "Česká republika"
     ]
   },
   {
@@ -10655,13 +10969,15 @@
       "not_logged": 36
     },
     "temata": [
-      "Česká republika",
-      "daňová úmluva",
       "daň z příjmů",
+      "daňová úmluva",
+      "daōová úmluva",
       "mezinárodní dohoda",
       "ostrov Man",
+      "vypovėdėní smlouvy",
+      "vypovědění smlouvy",
       "úspory",
-      "vypovědění smlouvy"
+      "Česká republika"
     ]
   },
   {
@@ -10677,13 +10993,15 @@
       "not_logged": 36
     },
     "temata": [
-      "Česká republika",
-      "daňová úmluva",
-      "daň z příjmů",
-      "mezinárodní dohoda",
       "Ostrovy Turks a Caicos",
+      "daň z příjmů",
+      "daňová úmluva",
+      "daōová úmluva",
+      "mezinárodní dohoda",
+      "vypovėdėní smlouvy",
+      "vypovědění smlouvy",
       "úspory",
-      "vypovědění smlouvy"
+      "Česká republika"
     ]
   },
   {
@@ -10699,11 +11017,12 @@
       "not_logged": 38
     },
     "temata": [
-      "Česká republika",
-      "dvoustranná dohoda",
       "Slovensko",
+      "dvoustranná dohoda",
       "vojenské letectvo",
-      "vzdušný prostor"
+      "vzduný prostor",
+      "vzdušný prostor",
+      "Česká republika"
     ]
   },
   {
@@ -10719,12 +11038,14 @@
       "not_logged": 37
     },
     "temata": [
-      "Česká republika",
       "dopování",
       "mezinárodní úmluva",
+      "povzbuzující prostøedek",
       "povzbuzující prostředek",
       "sport",
-      "tělesná výchova"
+      "tėlesná výchova",
+      "tělesná výchova",
+      "Česká republika"
     ]
   },
   {
@@ -10764,7 +11085,9 @@
     },
     "temata": [
       "mezinárodní charta",
+      "odvėtví energetiky",
       "odvětví energetiky",
+      "vypovėdėní smlouvy",
       "vypovědění smlouvy"
     ]
   },
@@ -10797,6 +11120,7 @@
     "temata": [
       "poprodejní servis",
       "prostředky zdravotnické techniky",
+      "prostųedky zdravotnické techniky",
       "zdravotní péče"
     ]
   },
@@ -10815,6 +11139,7 @@
     "temata": [
       "poprodejní servis",
       "prostředky zdravotnické techniky",
+      "prostųedky zdravotnické techniky",
       "zdravotní péče"
     ]
   },
@@ -10833,6 +11158,7 @@
     "temata": [
       "poprodejní servis",
       "prostředky zdravotnické techniky",
+      "prostųedky zdravotnické techniky",
       "zdravotní péče"
     ]
   },
@@ -10851,6 +11177,7 @@
     "temata": [
       "poprodejní servis",
       "prostředky zdravotnické techniky",
+      "prostųedky zdravotnické techniky",
       "zdravotní péče"
     ]
   },
@@ -10869,6 +11196,7 @@
     "temata": [
       "poprodejní servis",
       "prostředky zdravotnické techniky",
+      "prostųedky zdravotnické techniky",
       "zdravotní péče"
     ]
   },
@@ -10887,6 +11215,7 @@
     "temata": [
       "poprodejní servis",
       "prostředky zdravotnické techniky",
+      "prostųedky zdravotnické techniky",
       "zdravotní péče"
     ]
   },
@@ -10905,6 +11234,7 @@
     "temata": [
       "poprodejní servis",
       "prostředky zdravotnické techniky",
+      "prostųedky zdravotnické techniky",
       "zdravotní péče"
     ]
   },
@@ -10923,6 +11253,7 @@
     "temata": [
       "poprodejní servis",
       "prostředky zdravotnické techniky",
+      "prostųedky zdravotnické techniky",
       "zdravotní péče"
     ]
   },
@@ -10941,6 +11272,7 @@
     "temata": [
       "poprodejní servis",
       "prostředky zdravotnické techniky",
+      "prostųedky zdravotnické techniky",
       "zdravotní péče"
     ]
   },
@@ -10957,9 +11289,10 @@
       "not_logged": 28
     },
     "temata": [
-      "Česká republika",
+      "jaderná elektrárna",
       "Írán",
-      "jaderná elektrárna"
+      "Česká republika",
+      "Ķrįn"
     ]
   },
   {
@@ -10975,9 +11308,10 @@
       "not_logged": 24
     },
     "temata": [
-      "Česká republika",
+      "jaderná elektrárna",
       "Írán",
-      "jaderná elektrárna"
+      "Česká republika",
+      "Ķrįn"
     ]
   },
   {
@@ -10993,9 +11327,10 @@
       "not_logged": 19
     },
     "temata": [
-      "Česká republika",
+      "jaderná elektrárna",
       "Írán",
-      "jaderná elektrárna"
+      "Česká republika",
+      "Ķrįn"
     ]
   },
   {
@@ -11321,7 +11656,9 @@
     "temata": [
       "finanční transakce",
       "platba",
+      "pøíjem – platba",
       "příjem – platba",
+      "smėnný kurz",
       "směnný kurz"
     ]
   },
@@ -11340,6 +11677,7 @@
     "temata": [
       "poprodejní servis",
       "prostředky zdravotnické techniky",
+      "prostųedky zdravotnické techniky",
       "zdravotní péče"
     ]
   },
@@ -11358,6 +11696,7 @@
     "temata": [
       "poprodejní servis",
       "prostředky zdravotnické techniky",
+      "prostųedky zdravotnické techniky",
       "zdravotní péče"
     ]
   },
@@ -11376,6 +11715,7 @@
     "temata": [
       "poprodejní servis",
       "prostředky zdravotnické techniky",
+      "prostųedky zdravotnické techniky",
       "zdravotní péče"
     ]
   },
@@ -11394,6 +11734,7 @@
     "temata": [
       "poprodejní servis",
       "prostředky zdravotnické techniky",
+      "prostųedky zdravotnické techniky",
       "zdravotní péče"
     ]
   },
@@ -11412,6 +11753,7 @@
     "temata": [
       "poprodejní servis",
       "prostředky zdravotnické techniky",
+      "prostųedky zdravotnické techniky",
       "zdravotní péče"
     ]
   },
@@ -11430,6 +11772,7 @@
     "temata": [
       "poprodejní servis",
       "prostředky zdravotnické techniky",
+      "prostųedky zdravotnické techniky",
       "zdravotní péče"
     ]
   },
@@ -11468,6 +11811,7 @@
     "temata": [
       "poprodejní servis",
       "prostředky zdravotnické techniky",
+      "prostųedky zdravotnické techniky",
       "zdravotní péče"
     ]
   },
@@ -11486,6 +11830,7 @@
     "temata": [
       "poprodejní servis",
       "prostředky zdravotnické techniky",
+      "prostųedky zdravotnické techniky",
       "zdravotní péče"
     ]
   },
@@ -11504,6 +11849,7 @@
     "temata": [
       "poprodejní servis",
       "prostředky zdravotnické techniky",
+      "prostųedky zdravotnické techniky",
       "zdravotní péče"
     ]
   },
@@ -11522,6 +11868,7 @@
     "temata": [
       "poprodejní servis",
       "prostředky zdravotnické techniky",
+      "prostųedky zdravotnické techniky",
       "zdravotní péče"
     ]
   },
@@ -11540,6 +11887,7 @@
     "temata": [
       "poprodejní servis",
       "prostředky zdravotnické techniky",
+      "prostųedky zdravotnické techniky",
       "zdravotní péče"
     ]
   },
@@ -11558,6 +11906,7 @@
     "temata": [
       "poprodejní servis",
       "prostředky zdravotnické techniky",
+      "prostųedky zdravotnické techniky",
       "zdravotní péče"
     ]
   },
@@ -11576,6 +11925,7 @@
     "temata": [
       "poprodejní servis",
       "prostředky zdravotnické techniky",
+      "prostųedky zdravotnické techniky",
       "zdravotní péče"
     ]
   },
@@ -11594,6 +11944,7 @@
     "temata": [
       "poprodejní servis",
       "prostředky zdravotnické techniky",
+      "prostųedky zdravotnické techniky",
       "zdravotní péče"
     ]
   },
@@ -11612,6 +11963,7 @@
     "temata": [
       "poprodejní servis",
       "prostředky zdravotnické techniky",
+      "prostųedky zdravotnické techniky",
       "zdravotní péče"
     ]
   },
@@ -11630,6 +11982,7 @@
     "temata": [
       "poprodejní servis",
       "prostředky zdravotnické techniky",
+      "prostųedky zdravotnické techniky",
       "zdravotní péče"
     ]
   },
@@ -11666,6 +12019,7 @@
     "temata": [
       "poprodejní servis",
       "prostředky zdravotnické techniky",
+      "prostųedky zdravotnické techniky",
       "zdravotní péče"
     ]
   },
@@ -11684,6 +12038,7 @@
     "temata": [
       "poprodejní servis",
       "prostředky zdravotnické techniky",
+      "prostųedky zdravotnické techniky",
       "zdravotní péče"
     ]
   },
@@ -11702,6 +12057,7 @@
     "temata": [
       "poprodejní servis",
       "prostředky zdravotnické techniky",
+      "prostųedky zdravotnické techniky",
       "zdravotní péče"
     ]
   },
@@ -11720,6 +12076,7 @@
     "temata": [
       "poprodejní servis",
       "prostředky zdravotnické techniky",
+      "prostųedky zdravotnické techniky",
       "zdravotní péče"
     ]
   },
@@ -11738,6 +12095,7 @@
     "temata": [
       "poprodejní servis",
       "prostředky zdravotnické techniky",
+      "prostųedky zdravotnické techniky",
       "zdravotní péče"
     ]
   },
@@ -11756,6 +12114,7 @@
     "temata": [
       "poprodejní servis",
       "prostředky zdravotnické techniky",
+      "prostųedky zdravotnické techniky",
       "zdravotní péče"
     ]
   },
@@ -11774,8 +12133,10 @@
     "temata": [
       "informační systém",
       "profesní organizace",
-      "úřední list",
-      "zájmové subjekty zemědělského sektoru"
+      "zájmové subjekty zemėdėlského sektoru",
+      "zájmové subjekty zemědělského sektoru",
+      "úøední list",
+      "úřední list"
     ]
   },
   {
@@ -12015,12 +12376,13 @@
       "not_logged": 28
     },
     "temata": [
-      "Česká republika",
       "Evropská unie",
-      "hospodářská dohoda",
       "Kanada",
+      "hospodáøská dohoda",
+      "hospodářská dohoda",
       "mezinárodní obchod",
-      "obchodní dohoda"
+      "obchodní dohoda",
+      "Česká republika"
     ]
   },
   {
@@ -12036,12 +12398,13 @@
       "not_logged": 29
     },
     "temata": [
-      "Česká republika",
       "Evropská unie",
-      "hospodářská dohoda",
       "Kanada",
+      "hospodáøská dohoda",
+      "hospodářská dohoda",
       "mezinárodní obchod",
-      "obchodní dohoda"
+      "obchodní dohoda",
+      "Česká republika"
     ]
   },
   {

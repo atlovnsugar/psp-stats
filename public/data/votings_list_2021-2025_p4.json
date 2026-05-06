@@ -2965,8 +2965,9 @@
       "kolektivní vyjednávání",
       "minimální mzda",
       "pracovní právo",
-      "zákoník práce",
-      "zaměstnanec"
+      "zamìstnanec",
+      "zaměstnanec",
+      "zákoník práce"
     ]
   },
   {
@@ -2988,6 +2989,7 @@
       "právnická osoba",
       "právní postavení",
       "společenská činnost",
+      "veøejná instituce",
       "veřejná instituce"
     ]
   },
@@ -3010,6 +3012,7 @@
       "právnická osoba",
       "právní postavení",
       "společenská činnost",
+      "veøejná instituce",
       "veřejná instituce"
     ]
   },
@@ -3032,6 +3035,7 @@
       "právnická osoba",
       "právní postavení",
       "společenská činnost",
+      "veøejná instituce",
       "veřejná instituce"
     ]
   },
@@ -3054,6 +3058,7 @@
       "právnická osoba",
       "právní postavení",
       "společenská činnost",
+      "veøejná instituce",
       "veřejná instituce"
     ]
   },
@@ -3076,6 +3081,7 @@
       "právnická osoba",
       "právní postavení",
       "společenská činnost",
+      "veøejná instituce",
       "veřejná instituce"
     ]
   },
@@ -3098,6 +3104,7 @@
       "právnická osoba",
       "právní postavení",
       "společenská činnost",
+      "veøejná instituce",
       "veřejná instituce"
     ]
   },
@@ -3120,6 +3127,7 @@
       "právnická osoba",
       "právní postavení",
       "společenská činnost",
+      "veøejná instituce",
       "veřejná instituce"
     ]
   },
@@ -3142,6 +3150,7 @@
       "právnická osoba",
       "právní postavení",
       "společenská činnost",
+      "veøejná instituce",
       "veřejná instituce"
     ]
   },
@@ -3164,6 +3173,7 @@
       "právnická osoba",
       "právní postavení",
       "společenská činnost",
+      "veøejná instituce",
       "veřejná instituce"
     ]
   },
@@ -3186,6 +3196,7 @@
       "právnická osoba",
       "právní postavení",
       "společenská činnost",
+      "veøejná instituce",
       "veřejná instituce"
     ]
   },
@@ -3208,6 +3219,7 @@
       "právnická osoba",
       "právní postavení",
       "společenská činnost",
+      "veøejná instituce",
       "veřejná instituce"
     ]
   },
@@ -3230,6 +3242,7 @@
       "právnická osoba",
       "právní postavení",
       "společenská činnost",
+      "veøejná instituce",
       "veřejná instituce"
     ]
   },
@@ -3252,6 +3265,7 @@
       "právnická osoba",
       "právní postavení",
       "společenská činnost",
+      "veøejná instituce",
       "veřejná instituce"
     ]
   },
@@ -3274,6 +3288,7 @@
       "právnická osoba",
       "právní postavení",
       "společenská činnost",
+      "veøejná instituce",
       "veřejná instituce"
     ]
   },
@@ -3296,6 +3311,7 @@
       "právnická osoba",
       "právní postavení",
       "společenská činnost",
+      "veøejná instituce",
       "veřejná instituce"
     ]
   },
@@ -3318,6 +3334,7 @@
       "právnická osoba",
       "právní postavení",
       "společenská činnost",
+      "veøejná instituce",
       "veřejná instituce"
     ]
   },
@@ -3340,6 +3357,7 @@
       "právnická osoba",
       "právní postavení",
       "společenská činnost",
+      "veøejná instituce",
       "veřejná instituce"
     ]
   },
@@ -3609,6 +3627,7 @@
     },
     "temata": [
       "elektronická součástka",
+      "elektronický prùmysl",
       "elektronický průmysl",
       "mezinárodní spolupráce"
     ]
@@ -3627,6 +3646,7 @@
     },
     "temata": [
       "elektronická součástka",
+      "elektronický prùmysl",
       "elektronický průmysl",
       "mezinárodní spolupráce"
     ]
@@ -4031,6 +4051,7 @@
       "psychologie",
       "seznam",
       "střelná zbraň a střelivo",
+      "zabavení vėci",
       "zabavení věci"
     ]
   },
@@ -4048,9 +4069,11 @@
     },
     "temata": [
       "adopce dítěte",
+      "adoptované dítė",
       "adoptované dítě",
       "ochrana dítěte",
       "ochrana rodiny",
+      "oputėné dítė",
       "opuštěné dítě",
       "práva dítěte",
       "právo dozoru",
@@ -4074,6 +4097,7 @@
     },
     "temata": [
       "finanční pomoc",
+      "občanská neposlunost",
       "občanská neposlušnost",
       "odškodnění"
     ]
@@ -4092,9 +4116,11 @@
     },
     "temata": [
       "adopce dítěte",
+      "adoptované dítė",
       "adoptované dítě",
       "ochrana dítěte",
       "ochrana rodiny",
+      "oputėné dítė",
       "opuštěné dítě",
       "práva dítěte",
       "právo dozoru",
@@ -4118,9 +4144,11 @@
     },
     "temata": [
       "adopce dítěte",
+      "adoptované dítė",
       "adoptované dítě",
       "ochrana dítěte",
       "ochrana rodiny",
+      "oputėné dítė",
       "opuštěné dítě",
       "práva dítěte",
       "právo dozoru",
@@ -4144,9 +4172,11 @@
     },
     "temata": [
       "adopce dítěte",
+      "adoptované dítė",
       "adoptované dítě",
       "ochrana dítěte",
       "ochrana rodiny",
+      "oputėné dítė",
       "opuštěné dítě",
       "práva dítěte",
       "právo dozoru",
@@ -4170,9 +4200,11 @@
     },
     "temata": [
       "adopce dítěte",
+      "adoptované dítė",
       "adoptované dítě",
       "ochrana dítěte",
       "ochrana rodiny",
+      "oputėné dítė",
       "opuštěné dítě",
       "práva dítěte",
       "právo dozoru",
@@ -4196,9 +4228,11 @@
     },
     "temata": [
       "adopce dítěte",
+      "adoptované dítė",
       "adoptované dítě",
       "ochrana dítěte",
       "ochrana rodiny",
+      "oputėné dítė",
       "opuštěné dítě",
       "práva dítěte",
       "právo dozoru",
@@ -4222,9 +4256,11 @@
     },
     "temata": [
       "adopce dítěte",
+      "adoptované dítė",
       "adoptované dítě",
       "ochrana dítěte",
       "ochrana rodiny",
+      "oputėné dítė",
       "opuštěné dítě",
       "práva dítěte",
       "právo dozoru",
@@ -4248,9 +4284,11 @@
     },
     "temata": [
       "adopce dítěte",
+      "adoptované dítė",
       "adoptované dítě",
       "ochrana dítěte",
       "ochrana rodiny",
+      "oputėné dítė",
       "opuštěné dítě",
       "práva dítěte",
       "právo dozoru",
@@ -4274,9 +4312,11 @@
     },
     "temata": [
       "adopce dítěte",
+      "adoptované dítė",
       "adoptované dítě",
       "ochrana dítěte",
       "ochrana rodiny",
+      "oputėné dítė",
       "opuštěné dítě",
       "práva dítěte",
       "právo dozoru",
@@ -4305,6 +4345,7 @@
       "autorské právo",
       "filmová tvorba",
       "filmový průmysl",
+      "filmový prųmysl",
       "kulturní akce",
       "parafiskalita"
     ]
@@ -4493,6 +4534,7 @@
       "dvoukolové hlasování",
       "horní komora",
       "parlamentní volby",
+      "vėtinové hlasování",
       "většinové hlasování"
     ]
   },
@@ -4512,6 +4554,7 @@
       "dvoukolové hlasování",
       "horní komora",
       "parlamentní volby",
+      "vėtinové hlasování",
       "většinové hlasování"
     ]
   },
@@ -4531,6 +4574,7 @@
       "dvoukolové hlasování",
       "horní komora",
       "parlamentní volby",
+      "vėtinové hlasování",
       "většinové hlasování"
     ]
   },
@@ -4550,6 +4594,7 @@
       "dvoukolové hlasování",
       "horní komora",
       "parlamentní volby",
+      "vėtinové hlasování",
       "většinové hlasování"
     ]
   },
@@ -4569,6 +4614,7 @@
       "dvoukolové hlasování",
       "horní komora",
       "parlamentní volby",
+      "vėtinové hlasování",
       "většinové hlasování"
     ]
   },
@@ -4588,6 +4634,7 @@
       "dvoukolové hlasování",
       "horní komora",
       "parlamentní volby",
+      "vėtinové hlasování",
       "většinové hlasování"
     ]
   },
@@ -4607,6 +4654,7 @@
       "dvoukolové hlasování",
       "horní komora",
       "parlamentní volby",
+      "vėtinové hlasování",
       "většinové hlasování"
     ]
   },
@@ -4626,6 +4674,7 @@
       "dvoukolové hlasování",
       "horní komora",
       "parlamentní volby",
+      "vėtinové hlasování",
       "většinové hlasování"
     ]
   },
@@ -4645,6 +4694,7 @@
       "dvoukolové hlasování",
       "horní komora",
       "parlamentní volby",
+      "vėtinové hlasování",
       "většinové hlasování"
     ]
   },
@@ -4664,6 +4714,7 @@
       "dvoukolové hlasování",
       "horní komora",
       "parlamentní volby",
+      "vėtinové hlasování",
       "většinové hlasování"
     ]
   },
@@ -4711,6 +4762,7 @@
       "dvoukolové hlasování",
       "horní komora",
       "parlamentní volby",
+      "vėtinové hlasování",
       "většinové hlasování"
     ]
   },
@@ -4730,6 +4782,7 @@
       "dvoukolové hlasování",
       "horní komora",
       "parlamentní volby",
+      "vėtinové hlasování",
       "většinové hlasování"
     ]
   },
@@ -4749,6 +4802,7 @@
       "dvoukolové hlasování",
       "horní komora",
       "parlamentní volby",
+      "vėtinové hlasování",
       "většinové hlasování"
     ]
   },
@@ -5928,6 +5982,7 @@
       "not_logged": 16
     },
     "temata": [
+      "hospodáøský rozvoj",
       "hospodářský rozvoj",
       "podpora investic",
       "rozvojová banka",
@@ -6074,6 +6129,7 @@
     },
     "temata": [
       "boj proti zločinu",
+      "finanèní instituce",
       "finanční instituce",
       "hospodářský trestný čin",
       "mezinárodní trestní právo",
@@ -6298,11 +6354,12 @@
       "not_logged": 11
     },
     "temata": [
-      "Černá Hora",
-      "Česká republika",
       "daňová úmluva",
+      "daōová úmluva",
       "dvojí zdanění",
-      "zkrácení daně"
+      "zkrácení daně",
+      "Černá Hora",
+      "Česká republika"
     ]
   },
   {
@@ -6360,6 +6417,7 @@
       "nakládání s odpadem",
       "nebezpečný odpad",
       "plast",
+      "pøeshraniční doprava",
       "přeshraniční doprava",
       "přeshraniční spolupráce",
       "ratifikace dohody",
@@ -6382,6 +6440,7 @@
       "nakládání s odpadem",
       "nebezpečný odpad",
       "plast",
+      "pøeshraniční doprava",
       "přeshraniční doprava",
       "přeshraniční spolupráce",
       "ratifikace dohody",
@@ -6404,6 +6463,7 @@
       "nakládání s odpadem",
       "nebezpečný odpad",
       "plast",
+      "pøeshraniční doprava",
       "přeshraniční doprava",
       "přeshraniční spolupráce",
       "ratifikace dohody",
@@ -6426,6 +6486,7 @@
       "nakládání s odpadem",
       "nebezpečný odpad",
       "plast",
+      "pøeshraniční doprava",
       "přeshraniční doprava",
       "přeshraniční spolupráce",
       "ratifikace dohody",
@@ -6467,6 +6528,7 @@
       "nakládání s odpadem",
       "nebezpečný odpad",
       "plast",
+      "pøeshraniční doprava",
       "přeshraniční doprava",
       "přeshraniční spolupráce",
       "ratifikace dohody",
@@ -6489,6 +6551,7 @@
       "nakládání s odpadem",
       "nebezpečný odpad",
       "plast",
+      "pøeshraniční doprava",
       "přeshraniční doprava",
       "přeshraniční spolupráce",
       "ratifikace dohody",
@@ -6626,6 +6689,7 @@
       "konopí",
       "kontrola léčiv",
       "omamná látka",
+      "povzbuzující prostøedek",
       "povzbuzující prostředek",
       "psychotropní látka"
     ]
@@ -6647,6 +6711,7 @@
       "konopí",
       "kontrola léčiv",
       "omamná látka",
+      "povzbuzující prostøedek",
       "povzbuzující prostředek",
       "psychotropní látka"
     ]
@@ -6946,8 +7011,11 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
+      "kmenová buōka",
+      "lékaøství",
       "lékařství",
-      "transplantace orgánů"
+      "transplantace orgánů",
+      "transplantace orgánų"
     ]
   },
   {
@@ -6965,8 +7033,11 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
+      "kmenová buōka",
+      "lékaøství",
       "lékařství",
-      "transplantace orgánů"
+      "transplantace orgánů",
+      "transplantace orgánų"
     ]
   },
   {
@@ -6985,7 +7056,9 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
+      "zamìstnavatel",
       "zaměstnavatel",
+      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -7005,7 +7078,9 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
+      "zamìstnavatel",
       "zaměstnavatel",
+      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -7025,7 +7100,9 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
+      "zamìstnavatel",
       "zaměstnavatel",
+      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -7045,7 +7122,9 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
+      "zamìstnavatel",
       "zaměstnavatel",
+      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -7065,7 +7144,9 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
+      "zamìstnavatel",
       "zaměstnavatel",
+      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -7085,7 +7166,9 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
+      "zamìstnavatel",
       "zaměstnavatel",
+      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -7105,7 +7188,9 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
+      "zamìstnavatel",
       "zaměstnavatel",
+      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -7125,7 +7210,9 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
+      "zamìstnavatel",
       "zaměstnavatel",
+      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -7145,7 +7232,9 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
+      "zamìstnavatel",
       "zaměstnavatel",
+      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -7192,8 +7281,11 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
+      "kmenová buōka",
+      "lékaøství",
       "lékařství",
-      "transplantace orgánů"
+      "transplantace orgánů",
+      "transplantace orgánų"
     ]
   },
   {
@@ -7211,8 +7303,11 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
+      "kmenová buōka",
+      "lékaøství",
       "lékařství",
-      "transplantace orgánů"
+      "transplantace orgánů",
+      "transplantace orgánų"
     ]
   },
   {
@@ -7230,8 +7325,11 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
+      "kmenová buōka",
+      "lékaøství",
       "lékařství",
-      "transplantace orgánů"
+      "transplantace orgánů",
+      "transplantace orgánų"
     ]
   },
   {
@@ -7249,8 +7347,11 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
+      "kmenová buōka",
+      "lékaøství",
       "lékařství",
-      "transplantace orgánů"
+      "transplantace orgánů",
+      "transplantace orgánų"
     ]
   },
   {
@@ -7268,8 +7369,11 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
+      "kmenová buōka",
+      "lékaøství",
       "lékařství",
-      "transplantace orgánů"
+      "transplantace orgánů",
+      "transplantace orgánų"
     ]
   },
   {
@@ -7287,8 +7391,11 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
+      "kmenová buōka",
+      "lékaøství",
       "lékařství",
-      "transplantace orgánů"
+      "transplantace orgánů",
+      "transplantace orgánų"
     ]
   },
   {
@@ -7306,8 +7413,11 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
+      "kmenová buōka",
+      "lékaøství",
       "lékařství",
-      "transplantace orgánů"
+      "transplantace orgánů",
+      "transplantace orgánų"
     ]
   },
   {
@@ -7325,8 +7435,11 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
+      "kmenová buōka",
+      "lékaøství",
       "lékařství",
-      "transplantace orgánů"
+      "transplantace orgánů",
+      "transplantace orgánų"
     ]
   },
   {
@@ -7344,8 +7457,11 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
+      "kmenová buōka",
+      "lékaøství",
       "lékařství",
-      "transplantace orgánů"
+      "transplantace orgánů",
+      "transplantace orgánų"
     ]
   },
   {
@@ -7363,8 +7479,11 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
+      "kmenová buōka",
+      "lékaøství",
       "lékařství",
-      "transplantace orgánů"
+      "transplantace orgánů",
+      "transplantace orgánų"
     ]
   },
   {
@@ -7382,8 +7501,11 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
+      "kmenová buōka",
+      "lékaøství",
       "lékařství",
-      "transplantace orgánů"
+      "transplantace orgánů",
+      "transplantace orgánų"
     ]
   },
   {
@@ -7435,6 +7557,7 @@
       "Evropská komise",
       "finanční pomoc",
       "fondy (EU)",
+      "hospodáøská podpora",
       "hospodářská podpora",
       "politika výzkumu",
       "soutěžní politika",
@@ -7742,8 +7865,11 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
+      "kmenová buōka",
+      "lékaøství",
       "lékařství",
-      "transplantace orgánů"
+      "transplantace orgánů",
+      "transplantace orgánų"
     ]
   },
   {
@@ -7775,8 +7901,11 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
+      "kmenová buōka",
+      "lékaøství",
       "lékařství",
-      "transplantace orgánů"
+      "transplantace orgánů",
+      "transplantace orgánų"
     ]
   },
   {
@@ -7794,8 +7923,11 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
+      "kmenová buōka",
+      "lékaøství",
       "lékařství",
-      "transplantace orgánů"
+      "transplantace orgánů",
+      "transplantace orgánų"
     ]
   },
   {
@@ -7898,6 +8030,7 @@
       "farmaceutický výrobek",
       "náklady na zdraví",
       "prostředky zdravotnické techniky",
+      "prostųedky zdravotnické techniky",
       "všeobecné zdravotní pojištění",
       "zdravotní pojištění"
     ]
@@ -7918,6 +8051,7 @@
       "farmaceutický výrobek",
       "náklady na zdraví",
       "prostředky zdravotnické techniky",
+      "prostųedky zdravotnické techniky",
       "všeobecné zdravotní pojištění",
       "zdravotní pojištění"
     ]
@@ -8760,6 +8894,7 @@
       "farmaceutický výrobek",
       "náklady na zdraví",
       "prostředky zdravotnické techniky",
+      "prostųedky zdravotnické techniky",
       "všeobecné zdravotní pojištění",
       "zdravotní pojištění"
     ]
@@ -8812,6 +8947,7 @@
     },
     "temata": [
       "alokace zdrojů",
+      "alokace zdrojų",
       "státní podpora"
     ]
   },
@@ -8829,6 +8965,7 @@
     },
     "temata": [
       "alokace zdrojů",
+      "alokace zdrojų",
       "státní podpora"
     ]
   },
@@ -8846,6 +8983,7 @@
     },
     "temata": [
       "alokace zdrojů",
+      "alokace zdrojų",
       "státní podpora"
     ]
   },
@@ -8863,6 +9001,7 @@
     },
     "temata": [
       "alokace zdrojů",
+      "alokace zdrojų",
       "státní podpora"
     ]
   },
@@ -8880,6 +9019,7 @@
     },
     "temata": [
       "alokace zdrojů",
+      "alokace zdrojų",
       "státní podpora"
     ]
   },
@@ -8897,6 +9037,7 @@
     },
     "temata": [
       "alokace zdrojů",
+      "alokace zdrojų",
       "státní podpora"
     ]
   },
@@ -8914,6 +9055,7 @@
     },
     "temata": [
       "alokace zdrojů",
+      "alokace zdrojų",
       "státní podpora"
     ]
   },
@@ -8931,6 +9073,7 @@
     },
     "temata": [
       "alokace zdrojů",
+      "alokace zdrojų",
       "státní podpora"
     ]
   },
@@ -8948,6 +9091,7 @@
     },
     "temata": [
       "alokace zdrojů",
+      "alokace zdrojų",
       "státní podpora"
     ]
   },
@@ -8965,6 +9109,7 @@
     },
     "temata": [
       "alokace zdrojů",
+      "alokace zdrojų",
       "státní podpora"
     ]
   },
@@ -9069,6 +9214,7 @@
       "farmaceutický výrobek",
       "náklady na zdraví",
       "prostředky zdravotnické techniky",
+      "prostųedky zdravotnické techniky",
       "všeobecné zdravotní pojištění",
       "zdravotní pojištění"
     ]
@@ -9526,9 +9672,10 @@
       "odborná kvalifikace",
       "regionální orgány státní správy",
       "služební stáří",
-      "ústřední orgány státní správy",
       "veřejná služba",
-      "zaměstnanec"
+      "zamìstnanec",
+      "zaměstnanec",
+      "ústřední orgány státní správy"
     ]
   },
   {
@@ -9835,6 +9982,7 @@
       "psychologie",
       "seznam",
       "střelná zbraň a střelivo",
+      "zabavení vėci",
       "zabavení věci"
     ]
   },
@@ -10202,6 +10350,7 @@
       "autorské právo",
       "filmová tvorba",
       "filmový průmysl",
+      "filmový prųmysl",
       "kulturní akce",
       "parafiskalita"
     ]
@@ -10883,6 +11032,7 @@
     },
     "temata": [
       "hospitalizace",
+      "nemocniční zaøízení",
       "nemocniční zařízení",
       "sociální služby",
       "sociální zařízení",
@@ -10904,6 +11054,7 @@
     },
     "temata": [
       "hospitalizace",
+      "nemocniční zaøízení",
       "nemocniční zařízení",
       "sociální služby",
       "sociální zařízení",
@@ -11025,6 +11176,7 @@
       "farmaceutický výrobek",
       "náklady na zdraví",
       "prostředky zdravotnické techniky",
+      "prostųedky zdravotnické techniky",
       "všeobecné zdravotní pojištění",
       "zdravotní pojištění"
     ]
@@ -11045,6 +11197,7 @@
       "farmaceutický výrobek",
       "náklady na zdraví",
       "prostředky zdravotnické techniky",
+      "prostųedky zdravotnické techniky",
       "všeobecné zdravotní pojištění",
       "zdravotní pojištění"
     ]
@@ -11065,6 +11218,7 @@
       "farmaceutický výrobek",
       "náklady na zdraví",
       "prostředky zdravotnické techniky",
+      "prostųedky zdravotnické techniky",
       "všeobecné zdravotní pojištění",
       "zdravotní pojištění"
     ]
@@ -11085,6 +11239,7 @@
       "farmaceutický výrobek",
       "náklady na zdraví",
       "prostředky zdravotnické techniky",
+      "prostųedky zdravotnické techniky",
       "všeobecné zdravotní pojištění",
       "zdravotní pojištění"
     ]
@@ -11105,6 +11260,7 @@
       "farmaceutický výrobek",
       "náklady na zdraví",
       "prostředky zdravotnické techniky",
+      "prostųedky zdravotnické techniky",
       "všeobecné zdravotní pojištění",
       "zdravotní pojištění"
     ]
@@ -11167,6 +11323,7 @@
       "farmaceutický výrobek",
       "náklady na zdraví",
       "prostředky zdravotnické techniky",
+      "prostųedky zdravotnické techniky",
       "všeobecné zdravotní pojištění",
       "zdravotní pojištění"
     ]
@@ -11999,8 +12156,12 @@
       "důchodce",
       "důchodový plán",
       "podmínky pro odchod do důchodu",
+      "podmínky pro odchod do dųchodu",
+      "populaèní prognóza",
       "populační prognóza",
+      "pøevod práva na dùchod",
       "převod práva na důchod",
+      "skončení pracovního pomėru",
       "skončení pracovního poměru",
       "sociální dávky"
     ]
@@ -12436,7 +12597,9 @@
       "not_logged": 22
     },
     "temata": [
+      "nestandardní pracovní pomėr",
       "nestandardní pracovní poměr",
+      "pøíleitostné zamėstnání",
       "příležitostné zaměstnání",
       "struktura zaměstnanosti",
       "zdravotně postižený člověk"
@@ -12455,7 +12618,9 @@
       "not_logged": 22
     },
     "temata": [
+      "nestandardní pracovní pomėr",
       "nestandardní pracovní poměr",
+      "pøíleitostné zamėstnání",
       "příležitostné zaměstnání",
       "struktura zaměstnanosti",
       "zdravotně postižený člověk"
@@ -12474,7 +12639,9 @@
       "not_logged": 20
     },
     "temata": [
+      "nestandardní pracovní pomėr",
       "nestandardní pracovní poměr",
+      "pøíleitostné zamėstnání",
       "příležitostné zaměstnání",
       "struktura zaměstnanosti",
       "zdravotně postižený člověk"
@@ -12493,7 +12660,9 @@
       "not_logged": 19
     },
     "temata": [
+      "nestandardní pracovní pomėr",
       "nestandardní pracovní poměr",
+      "pøíleitostné zamėstnání",
       "příležitostné zaměstnání",
       "struktura zaměstnanosti",
       "zdravotně postižený člověk"
@@ -12512,7 +12681,9 @@
       "not_logged": 14
     },
     "temata": [
+      "nestandardní pracovní pomėr",
       "nestandardní pracovní poměr",
+      "pøíleitostné zamėstnání",
       "příležitostné zaměstnání",
       "struktura zaměstnanosti",
       "zdravotně postižený člověk"
@@ -12531,7 +12702,9 @@
       "not_logged": 11
     },
     "temata": [
+      "nestandardní pracovní pomėr",
       "nestandardní pracovní poměr",
+      "pøíleitostné zamėstnání",
       "příležitostné zaměstnání",
       "struktura zaměstnanosti",
       "zdravotně postižený člověk"
@@ -12550,7 +12723,9 @@
       "not_logged": 10
     },
     "temata": [
+      "nestandardní pracovní pomėr",
       "nestandardní pracovní poměr",
+      "pøíleitostné zamėstnání",
       "příležitostné zaměstnání",
       "struktura zaměstnanosti",
       "zdravotně postižený člověk"
@@ -12569,7 +12744,9 @@
       "not_logged": 11
     },
     "temata": [
+      "nestandardní pracovní pomėr",
       "nestandardní pracovní poměr",
+      "pøíleitostné zamėstnání",
       "příležitostné zaměstnání",
       "struktura zaměstnanosti",
       "zdravotně postižený člověk"
@@ -12588,7 +12765,9 @@
       "not_logged": 11
     },
     "temata": [
+      "nestandardní pracovní pomėr",
       "nestandardní pracovní poměr",
+      "pøíleitostné zamėstnání",
       "příležitostné zaměstnání",
       "struktura zaměstnanosti",
       "zdravotně postižený člověk"
@@ -12607,7 +12786,9 @@
       "not_logged": 11
     },
     "temata": [
+      "nestandardní pracovní pomėr",
       "nestandardní pracovní poměr",
+      "pøíleitostné zamėstnání",
       "příležitostné zaměstnání",
       "struktura zaměstnanosti",
       "zdravotně postižený člověk"
@@ -12626,7 +12807,9 @@
       "not_logged": 11
     },
     "temata": [
+      "nestandardní pracovní pomėr",
       "nestandardní pracovní poměr",
+      "pøíleitostné zamėstnání",
       "příležitostné zaměstnání",
       "struktura zaměstnanosti",
       "zdravotně postižený člověk"
@@ -12645,7 +12828,9 @@
       "not_logged": 10
     },
     "temata": [
+      "nestandardní pracovní pomėr",
       "nestandardní pracovní poměr",
+      "pøíleitostné zamėstnání",
       "příležitostné zaměstnání",
       "struktura zaměstnanosti",
       "zdravotně postižený člověk"
@@ -12664,7 +12849,9 @@
       "not_logged": 10
     },
     "temata": [
+      "nestandardní pracovní pomėr",
       "nestandardní pracovní poměr",
+      "pøíleitostné zamėstnání",
       "příležitostné zaměstnání",
       "struktura zaměstnanosti",
       "zdravotně postižený člověk"
@@ -12683,7 +12870,9 @@
       "not_logged": 9
     },
     "temata": [
+      "nestandardní pracovní pomėr",
       "nestandardní pracovní poměr",
+      "pøíleitostné zamėstnání",
       "příležitostné zaměstnání",
       "struktura zaměstnanosti",
       "zdravotně postižený člověk"
@@ -13928,10 +14117,11 @@
     },
     "temata": [
       "2446 daňová soustava",
+      "daň ze spotřeby",
       "daňová asignace",
       "daňová kontrola",
       "daňová úleva",
-      "daň ze spotřeby",
+      "daōová asignace",
       "osvobození od daní",
       "spotřební daň"
     ]
@@ -14550,12 +14740,15 @@
       "not_logged": 4
     },
     "temata": [
+      "nezamėstnanost",
       "nezaměstnanost",
-      "zákoník práce",
+      "zamìstnanec",
+      "zamìstnavatel",
       "zaměstnanec",
       "zaměstnavatel",
+      "zdravotně postižený pracovník",
       "zdravotně postižený člověk",
-      "zdravotně postižený pracovník"
+      "zákoník práce"
     ]
   },
   {
@@ -14838,6 +15031,7 @@
     },
     "temata": [
       "financování rozpočtu",
+      "plnėní rozpočtu",
       "plnění rozpočtu",
       "státní rozpočet"
     ]
@@ -14856,6 +15050,7 @@
     },
     "temata": [
       "financování rozpočtu",
+      "plnėní rozpočtu",
       "plnění rozpočtu",
       "státní rozpočet"
     ]
@@ -14874,6 +15069,7 @@
     },
     "temata": [
       "financování rozpočtu",
+      "plnėní rozpočtu",
       "plnění rozpočtu",
       "státní rozpočet"
     ]
@@ -14892,6 +15088,7 @@
     },
     "temata": [
       "financování rozpočtu",
+      "plnėní rozpočtu",
       "plnění rozpočtu",
       "státní rozpočet"
     ]
@@ -16436,6 +16633,7 @@
     },
     "temata": [
       "financování rozpočtu",
+      "plnėní rozpočtu",
       "plnění rozpočtu",
       "státní rozpočet"
     ]
@@ -16454,6 +16652,7 @@
     },
     "temata": [
       "financování rozpočtu",
+      "plnėní rozpočtu",
       "plnění rozpočtu",
       "státní rozpočet"
     ]
@@ -16582,7 +16781,11 @@
       "absent": 15,
       "not_logged": 7
     },
-    "temata": []
+    "temata": [
+      "poruení domovní svobody",
+      "sebeobrana",
+      "trestní zákoník"
+    ]
   },
   {
     "id": 84269,
@@ -16596,7 +16799,11 @@
       "absent": 15,
       "not_logged": 4
     },
-    "temata": []
+    "temata": [
+      "poruení domovní svobody",
+      "sebeobrana",
+      "trestní zákoník"
+    ]
   },
   {
     "id": 84270,
@@ -16610,7 +16817,11 @@
       "absent": 15,
       "not_logged": 3
     },
-    "temata": []
+    "temata": [
+      "poruení domovní svobody",
+      "sebeobrana",
+      "trestní zákoník"
+    ]
   },
   {
     "id": 84271,
@@ -16624,7 +16835,11 @@
       "absent": 15,
       "not_logged": 3
     },
-    "temata": []
+    "temata": [
+      "poruení domovní svobody",
+      "sebeobrana",
+      "trestní zákoník"
+    ]
   },
   {
     "id": 84272,
@@ -16638,7 +16853,11 @@
       "absent": 15,
       "not_logged": 2
     },
-    "temata": []
+    "temata": [
+      "poruení domovní svobody",
+      "sebeobrana",
+      "trestní zákoník"
+    ]
   },
   {
     "id": 84273,
@@ -16652,7 +16871,11 @@
       "absent": 14,
       "not_logged": 3
     },
-    "temata": []
+    "temata": [
+      "poruení domovní svobody",
+      "sebeobrana",
+      "trestní zákoník"
+    ]
   },
   {
     "id": 84274,
@@ -16666,7 +16889,11 @@
       "absent": 14,
       "not_logged": 3
     },
-    "temata": []
+    "temata": [
+      "poruení domovní svobody",
+      "sebeobrana",
+      "trestní zákoník"
+    ]
   },
   {
     "id": 84275,
@@ -16680,7 +16907,11 @@
       "absent": 14,
       "not_logged": 5
     },
-    "temata": []
+    "temata": [
+      "poruení domovní svobody",
+      "sebeobrana",
+      "trestní zákoník"
+    ]
   },
   {
     "id": 84276,
@@ -16694,7 +16925,11 @@
       "absent": 14,
       "not_logged": 3
     },
-    "temata": []
+    "temata": [
+      "poruení domovní svobody",
+      "sebeobrana",
+      "trestní zákoník"
+    ]
   },
   {
     "id": 84277,
@@ -16708,7 +16943,11 @@
       "absent": 14,
       "not_logged": 3
     },
-    "temata": []
+    "temata": [
+      "poruení domovní svobody",
+      "sebeobrana",
+      "trestní zákoník"
+    ]
   },
   {
     "id": 84278,
@@ -16722,7 +16961,11 @@
       "absent": 14,
       "not_logged": 3
     },
-    "temata": []
+    "temata": [
+      "poruení domovní svobody",
+      "sebeobrana",
+      "trestní zákoník"
+    ]
   },
   {
     "id": 84279,
@@ -16736,7 +16979,11 @@
       "absent": 14,
       "not_logged": 3
     },
-    "temata": []
+    "temata": [
+      "poruení domovní svobody",
+      "sebeobrana",
+      "trestní zákoník"
+    ]
   },
   {
     "id": 84280,
@@ -16750,7 +16997,11 @@
       "absent": 14,
       "not_logged": 3
     },
-    "temata": []
+    "temata": [
+      "poruení domovní svobody",
+      "sebeobrana",
+      "trestní zákoník"
+    ]
   },
   {
     "id": 84281,
@@ -16764,7 +17015,11 @@
       "absent": 14,
       "not_logged": 3
     },
-    "temata": []
+    "temata": [
+      "poruení domovní svobody",
+      "sebeobrana",
+      "trestní zákoník"
+    ]
   },
   {
     "id": 84282,
@@ -16778,7 +17033,11 @@
       "absent": 14,
       "not_logged": 3
     },
-    "temata": []
+    "temata": [
+      "poruení domovní svobody",
+      "sebeobrana",
+      "trestní zákoník"
+    ]
   },
   {
     "id": 84283,
@@ -16792,7 +17051,11 @@
       "absent": 14,
       "not_logged": 3
     },
-    "temata": []
+    "temata": [
+      "poruení domovní svobody",
+      "sebeobrana",
+      "trestní zákoník"
+    ]
   },
   {
     "id": 84284,
@@ -16806,7 +17069,11 @@
       "absent": 14,
       "not_logged": 3
     },
-    "temata": []
+    "temata": [
+      "poruení domovní svobody",
+      "sebeobrana",
+      "trestní zákoník"
+    ]
   },
   {
     "id": 84285,
@@ -16820,7 +17087,11 @@
       "absent": 14,
       "not_logged": 3
     },
-    "temata": []
+    "temata": [
+      "poruení domovní svobody",
+      "sebeobrana",
+      "trestní zákoník"
+    ]
   },
   {
     "id": 84286,
@@ -16834,7 +17105,11 @@
       "absent": 14,
       "not_logged": 3
     },
-    "temata": []
+    "temata": [
+      "poruení domovní svobody",
+      "sebeobrana",
+      "trestní zákoník"
+    ]
   },
   {
     "id": 84287,
@@ -16848,7 +17123,11 @@
       "absent": 14,
       "not_logged": 3
     },
-    "temata": []
+    "temata": [
+      "poruení domovní svobody",
+      "sebeobrana",
+      "trestní zákoník"
+    ]
   },
   {
     "id": 84288,
@@ -16862,7 +17141,11 @@
       "absent": 14,
       "not_logged": 3
     },
-    "temata": []
+    "temata": [
+      "poruení domovní svobody",
+      "sebeobrana",
+      "trestní zákoník"
+    ]
   },
   {
     "id": 84289,
@@ -16876,7 +17159,11 @@
       "absent": 14,
       "not_logged": 3
     },
-    "temata": []
+    "temata": [
+      "poruení domovní svobody",
+      "sebeobrana",
+      "trestní zákoník"
+    ]
   },
   {
     "id": 84290,
@@ -16890,7 +17177,11 @@
       "absent": 14,
       "not_logged": 3
     },
-    "temata": []
+    "temata": [
+      "poruení domovní svobody",
+      "sebeobrana",
+      "trestní zákoník"
+    ]
   },
   {
     "id": 84291,
@@ -16904,7 +17195,11 @@
       "absent": 15,
       "not_logged": 2
     },
-    "temata": []
+    "temata": [
+      "poruení domovní svobody",
+      "sebeobrana",
+      "trestní zákoník"
+    ]
   },
   {
     "id": 84292,
@@ -16918,7 +17213,11 @@
       "absent": 15,
       "not_logged": 2
     },
-    "temata": []
+    "temata": [
+      "poruení domovní svobody",
+      "sebeobrana",
+      "trestní zákoník"
+    ]
   },
   {
     "id": 84293,
@@ -16932,7 +17231,11 @@
       "absent": 13,
       "not_logged": 4
     },
-    "temata": []
+    "temata": [
+      "poruení domovní svobody",
+      "sebeobrana",
+      "trestní zákoník"
+    ]
   },
   {
     "id": 84294,
@@ -16946,7 +17249,11 @@
       "absent": 13,
       "not_logged": 4
     },
-    "temata": []
+    "temata": [
+      "poruení domovní svobody",
+      "sebeobrana",
+      "trestní zákoník"
+    ]
   },
   {
     "id": 84295,
@@ -16960,7 +17267,11 @@
       "absent": 13,
       "not_logged": 4
     },
-    "temata": []
+    "temata": [
+      "poruení domovní svobody",
+      "sebeobrana",
+      "trestní zákoník"
+    ]
   },
   {
     "id": 84296,
@@ -16974,7 +17285,11 @@
       "absent": 13,
       "not_logged": 4
     },
-    "temata": []
+    "temata": [
+      "poruení domovní svobody",
+      "sebeobrana",
+      "trestní zákoník"
+    ]
   },
   {
     "id": 84297,
@@ -16988,7 +17303,11 @@
       "absent": 13,
       "not_logged": 4
     },
-    "temata": []
+    "temata": [
+      "poruení domovní svobody",
+      "sebeobrana",
+      "trestní zákoník"
+    ]
   },
   {
     "id": 84298,
@@ -17004,6 +17323,7 @@
     },
     "temata": [
       "hospitalizace",
+      "nemocniční zaøízení",
       "nemocniční zařízení",
       "sociální služby",
       "sociální zařízení",
@@ -17107,7 +17427,11 @@
       "absent": 29,
       "not_logged": 28
     },
-    "temata": []
+    "temata": [
+      "poruení domovní svobody",
+      "sebeobrana",
+      "trestní zákoník"
+    ]
   },
   {
     "id": 84306,
@@ -17121,7 +17445,11 @@
       "absent": 29,
       "not_logged": 27
     },
-    "temata": []
+    "temata": [
+      "poruení domovní svobody",
+      "sebeobrana",
+      "trestní zákoník"
+    ]
   },
   {
     "id": 84307,
@@ -17135,7 +17463,11 @@
       "absent": 29,
       "not_logged": 26
     },
-    "temata": []
+    "temata": [
+      "poruení domovní svobody",
+      "sebeobrana",
+      "trestní zákoník"
+    ]
   },
   {
     "id": 84308,
@@ -17149,7 +17481,11 @@
       "absent": 29,
       "not_logged": 24
     },
-    "temata": []
+    "temata": [
+      "poruení domovní svobody",
+      "sebeobrana",
+      "trestní zákoník"
+    ]
   },
   {
     "id": 84309,
@@ -17163,7 +17499,11 @@
       "absent": 30,
       "not_logged": 24
     },
-    "temata": []
+    "temata": [
+      "poruení domovní svobody",
+      "sebeobrana",
+      "trestní zákoník"
+    ]
   },
   {
     "id": 84310,
@@ -17177,7 +17517,11 @@
       "absent": 32,
       "not_logged": 35
     },
-    "temata": []
+    "temata": [
+      "poruení domovní svobody",
+      "sebeobrana",
+      "trestní zákoník"
+    ]
   },
   {
     "id": 84311,
@@ -17191,7 +17535,11 @@
       "absent": 32,
       "not_logged": 35
     },
-    "temata": []
+    "temata": [
+      "poruení domovní svobody",
+      "sebeobrana",
+      "trestní zákoník"
+    ]
   },
   {
     "id": 84312,
@@ -17205,7 +17553,11 @@
       "absent": 32,
       "not_logged": 34
     },
-    "temata": []
+    "temata": [
+      "poruení domovní svobody",
+      "sebeobrana",
+      "trestní zákoník"
+    ]
   },
   {
     "id": 84313,
@@ -17219,7 +17571,11 @@
       "absent": 33,
       "not_logged": 38
     },
-    "temata": []
+    "temata": [
+      "poruení domovní svobody",
+      "sebeobrana",
+      "trestní zákoník"
+    ]
   },
   {
     "id": 84314,
@@ -17233,7 +17589,11 @@
       "absent": 33,
       "not_logged": 38
     },
-    "temata": []
+    "temata": [
+      "poruení domovní svobody",
+      "sebeobrana",
+      "trestní zákoník"
+    ]
   },
   {
     "id": 84315,
@@ -17261,7 +17621,11 @@
       "absent": 33,
       "not_logged": 31
     },
-    "temata": []
+    "temata": [
+      "poruení domovní svobody",
+      "sebeobrana",
+      "trestní zákoník"
+    ]
   },
   {
     "id": 84317,
@@ -17275,7 +17639,11 @@
       "absent": 33,
       "not_logged": 31
     },
-    "temata": []
+    "temata": [
+      "poruení domovní svobody",
+      "sebeobrana",
+      "trestní zákoník"
+    ]
   },
   {
     "id": 84318,
@@ -17556,6 +17924,7 @@
       "not_logged": 7
     },
     "temata": [
+      "hospodáøský rozvoj",
       "hospodářský rozvoj",
       "podpora investic",
       "rozvojová banka",
@@ -17576,6 +17945,7 @@
       "not_logged": 7
     },
     "temata": [
+      "hospodáøský rozvoj",
       "hospodářský rozvoj",
       "podpora investic",
       "rozvojová banka",
@@ -17596,6 +17966,7 @@
       "not_logged": 12
     },
     "temata": [
+      "hospodáøský rozvoj",
       "hospodářský rozvoj",
       "podpora investic",
       "rozvojová banka",
@@ -17616,6 +17987,7 @@
       "not_logged": 11
     },
     "temata": [
+      "hospodáøský rozvoj",
       "hospodářský rozvoj",
       "podpora investic",
       "rozvojová banka",
@@ -17636,6 +18008,7 @@
       "not_logged": 11
     },
     "temata": [
+      "hospodáøský rozvoj",
       "hospodářský rozvoj",
       "podpora investic",
       "rozvojová banka",
@@ -17656,6 +18029,7 @@
       "not_logged": 11
     },
     "temata": [
+      "hospodáøský rozvoj",
       "hospodářský rozvoj",
       "podpora investic",
       "rozvojová banka",
@@ -17676,6 +18050,7 @@
       "not_logged": 7
     },
     "temata": [
+      "hospodáøský rozvoj",
       "hospodářský rozvoj",
       "podpora investic",
       "rozvojová banka",
@@ -17699,6 +18074,7 @@
       "bankovní dohled",
       "centrální banka",
       "digitalizace dokumentů",
+      "digitalizace dokumentų",
       "elektronické peníze",
       "finanční trh"
     ]
@@ -17719,6 +18095,7 @@
       "bankovní dohled",
       "centrální banka",
       "digitalizace dokumentů",
+      "digitalizace dokumentų",
       "elektronické peníze",
       "finanční trh"
     ]
@@ -17739,6 +18116,7 @@
       "bankovní dohled",
       "centrální banka",
       "digitalizace dokumentů",
+      "digitalizace dokumentų",
       "elektronické peníze",
       "finanční trh"
     ]
@@ -17871,6 +18249,7 @@
       "bankovní dohled",
       "centrální banka",
       "digitalizace dokumentů",
+      "digitalizace dokumentų",
       "elektronické peníze",
       "finanční trh"
     ]
@@ -17891,8 +18270,12 @@
       "důchodce",
       "důchodový plán",
       "podmínky pro odchod do důchodu",
+      "podmínky pro odchod do dųchodu",
+      "populaèní prognóza",
       "populační prognóza",
+      "pøevod práva na dùchod",
       "převod práva na důchod",
+      "skončení pracovního pomėru",
       "skončení pracovního poměru",
       "sociální dávky"
     ]
@@ -17913,8 +18296,12 @@
       "důchodce",
       "důchodový plán",
       "podmínky pro odchod do důchodu",
+      "podmínky pro odchod do dųchodu",
+      "populaèní prognóza",
       "populační prognóza",
+      "pøevod práva na dùchod",
       "převod práva na důchod",
+      "skončení pracovního pomėru",
       "skončení pracovního poměru",
       "sociální dávky"
     ]
@@ -17935,8 +18322,12 @@
       "důchodce",
       "důchodový plán",
       "podmínky pro odchod do důchodu",
+      "podmínky pro odchod do dųchodu",
+      "populaèní prognóza",
       "populační prognóza",
+      "pøevod práva na dùchod",
       "převod práva na důchod",
+      "skončení pracovního pomėru",
       "skončení pracovního poměru",
       "sociální dávky"
     ]
@@ -17957,8 +18348,12 @@
       "důchodce",
       "důchodový plán",
       "podmínky pro odchod do důchodu",
+      "podmínky pro odchod do dųchodu",
+      "populaèní prognóza",
       "populační prognóza",
+      "pøevod práva na dùchod",
       "převod práva na důchod",
+      "skončení pracovního pomėru",
       "skončení pracovního poměru",
       "sociální dávky"
     ]
@@ -17979,8 +18374,12 @@
       "důchodce",
       "důchodový plán",
       "podmínky pro odchod do důchodu",
+      "podmínky pro odchod do dųchodu",
+      "populaèní prognóza",
       "populační prognóza",
+      "pøevod práva na dùchod",
       "převod práva na důchod",
+      "skončení pracovního pomėru",
       "skončení pracovního poměru",
       "sociální dávky"
     ]
@@ -18001,8 +18400,12 @@
       "důchodce",
       "důchodový plán",
       "podmínky pro odchod do důchodu",
+      "podmínky pro odchod do dųchodu",
+      "populaèní prognóza",
       "populační prognóza",
+      "pøevod práva na dùchod",
       "převod práva na důchod",
+      "skončení pracovního pomėru",
       "skončení pracovního poměru",
       "sociální dávky"
     ]
@@ -18023,8 +18426,12 @@
       "důchodce",
       "důchodový plán",
       "podmínky pro odchod do důchodu",
+      "podmínky pro odchod do dųchodu",
+      "populaèní prognóza",
       "populační prognóza",
+      "pøevod práva na dùchod",
       "převod práva na důchod",
+      "skončení pracovního pomėru",
       "skončení pracovního poměru",
       "sociální dávky"
     ]
@@ -18045,8 +18452,12 @@
       "důchodce",
       "důchodový plán",
       "podmínky pro odchod do důchodu",
+      "podmínky pro odchod do dųchodu",
+      "populaèní prognóza",
       "populační prognóza",
+      "pøevod práva na dùchod",
       "převod práva na důchod",
+      "skončení pracovního pomėru",
       "skončení pracovního poměru",
       "sociální dávky"
     ]
@@ -18067,8 +18478,12 @@
       "důchodce",
       "důchodový plán",
       "podmínky pro odchod do důchodu",
+      "podmínky pro odchod do dųchodu",
+      "populaèní prognóza",
       "populační prognóza",
+      "pøevod práva na dùchod",
       "převod práva na důchod",
+      "skončení pracovního pomėru",
       "skončení pracovního poměru",
       "sociální dávky"
     ]
@@ -18089,8 +18504,12 @@
       "důchodce",
       "důchodový plán",
       "podmínky pro odchod do důchodu",
+      "podmínky pro odchod do dųchodu",
+      "populaèní prognóza",
       "populační prognóza",
+      "pøevod práva na dùchod",
       "převod práva na důchod",
+      "skončení pracovního pomėru",
       "skončení pracovního poměru",
       "sociální dávky"
     ]
@@ -18111,8 +18530,12 @@
       "důchodce",
       "důchodový plán",
       "podmínky pro odchod do důchodu",
+      "podmínky pro odchod do dųchodu",
+      "populaèní prognóza",
       "populační prognóza",
+      "pøevod práva na dùchod",
       "převod práva na důchod",
+      "skončení pracovního pomėru",
       "skončení pracovního poměru",
       "sociální dávky"
     ]
@@ -18130,6 +18553,7 @@
       "not_logged": 8
     },
     "temata": [
+      "látky znečiující stratosféru",
       "látky znečišťující stratosféru",
       "ochrana životního prostředí",
       "znečišťující příměsi v atmosféře"
@@ -18151,8 +18575,12 @@
       "důchodce",
       "důchodový plán",
       "podmínky pro odchod do důchodu",
+      "podmínky pro odchod do dųchodu",
+      "populaèní prognóza",
       "populační prognóza",
+      "pøevod práva na dùchod",
       "převod práva na důchod",
+      "skončení pracovního pomėru",
       "skončení pracovního poměru",
       "sociální dávky"
     ]
@@ -19256,6 +19684,7 @@
       "veterinární inspekce",
       "veterinární legislativa",
       "veterinární medicína",
+      "zdraví zvíøat",
       "zdraví zvířat"
     ]
   },
@@ -20626,12 +21055,13 @@
       "not_logged": 1
     },
     "temata": [
+      "Ukrajina",
       "azylové právo",
       "cizinecké právo",
       "povolení k pobytu",
-      "Ukrajina",
-      "válka",
-      "vstup cizinců"
+      "vstup cizinců",
+      "vstup cizincų",
+      "válka"
     ]
   },
   {
@@ -20695,6 +21125,7 @@
       "financování z veřejných prostředků",
       "obligace",
       "půjčka",
+      "pųjčka",
       "způsob financování"
     ]
   },
@@ -20717,6 +21148,7 @@
       "financování z veřejných prostředků",
       "obligace",
       "půjčka",
+      "pųjčka",
       "způsob financování"
     ]
   },
@@ -20739,6 +21171,7 @@
       "financování z veřejných prostředků",
       "obligace",
       "půjčka",
+      "pųjčka",
       "způsob financování"
     ]
   },
@@ -20761,6 +21194,7 @@
       "financování z veřejných prostředků",
       "obligace",
       "půjčka",
+      "pųjčka",
       "způsob financování"
     ]
   },
@@ -20783,6 +21217,7 @@
       "financování z veřejných prostředků",
       "obligace",
       "půjčka",
+      "pųjčka",
       "způsob financování"
     ]
   },
@@ -20805,6 +21240,7 @@
       "financování z veřejných prostředků",
       "obligace",
       "půjčka",
+      "pųjčka",
       "způsob financování"
     ]
   },
@@ -20827,6 +21263,7 @@
       "financování z veřejných prostředků",
       "obligace",
       "půjčka",
+      "pųjčka",
       "způsob financování"
     ]
   },
@@ -20849,6 +21286,7 @@
       "financování z veřejných prostředků",
       "obligace",
       "půjčka",
+      "pųjčka",
       "způsob financování"
     ]
   },
@@ -20871,6 +21309,7 @@
       "financování z veřejných prostředků",
       "obligace",
       "půjčka",
+      "pųjčka",
       "způsob financování"
     ]
   },
@@ -20893,6 +21332,7 @@
       "financování z veřejných prostředků",
       "obligace",
       "půjčka",
+      "pųjčka",
       "způsob financování"
     ]
   },
@@ -20915,6 +21355,7 @@
       "financování z veřejných prostředků",
       "obligace",
       "půjčka",
+      "pųjčka",
       "způsob financování"
     ]
   },
@@ -20958,6 +21399,7 @@
       "financování z veřejných prostředků",
       "obligace",
       "půjčka",
+      "pųjčka",
       "způsob financování"
     ]
   },
@@ -21790,6 +22232,7 @@
     "temata": [
       "jaderná bezpečnost",
       "jaderná energie",
+      "mírové vyuití energie",
       "mírové využití energie",
       "ochrana životního prostředí",
       "přibližování legislativy",
@@ -21998,6 +22441,7 @@
       "financování z veřejných prostředků",
       "obligace",
       "půjčka",
+      "pųjčka",
       "způsob financování"
     ]
   },
@@ -22020,6 +22464,7 @@
       "financování z veřejných prostředků",
       "obligace",
       "půjčka",
+      "pųjčka",
       "způsob financování"
     ]
   },
@@ -22042,6 +22487,7 @@
       "financování z veřejných prostředků",
       "obligace",
       "půjčka",
+      "pųjčka",
       "způsob financování"
     ]
   },
@@ -22064,6 +22510,7 @@
       "financování z veřejných prostředků",
       "obligace",
       "půjčka",
+      "pųjčka",
       "způsob financování"
     ]
   },
@@ -22086,6 +22533,7 @@
       "financování z veřejných prostředků",
       "obligace",
       "půjčka",
+      "pųjčka",
       "způsob financování"
     ]
   },
@@ -22108,6 +22556,7 @@
       "financování z veřejných prostředků",
       "obligace",
       "půjčka",
+      "pųjčka",
       "způsob financování"
     ]
   },
@@ -22130,6 +22579,7 @@
       "financování z veřejných prostředků",
       "obligace",
       "půjčka",
+      "pųjčka",
       "způsob financování"
     ]
   },
@@ -22152,6 +22602,7 @@
       "financování z veřejných prostředků",
       "obligace",
       "půjčka",
+      "pųjčka",
       "způsob financování"
     ]
   },
@@ -22174,6 +22625,7 @@
       "financování z veřejných prostředků",
       "obligace",
       "půjčka",
+      "pųjčka",
       "způsob financování"
     ]
   },
@@ -22196,6 +22648,7 @@
       "financování z veřejných prostředků",
       "obligace",
       "půjčka",
+      "pųjčka",
       "způsob financování"
     ]
   },
@@ -22218,6 +22671,7 @@
       "financování z veřejných prostředků",
       "obligace",
       "půjčka",
+      "pųjčka",
       "způsob financování"
     ]
   },
@@ -22240,6 +22694,7 @@
       "financování z veřejných prostředků",
       "obligace",
       "půjčka",
+      "pųjčka",
       "způsob financování"
     ]
   },
@@ -22262,6 +22717,7 @@
       "financování z veřejných prostředků",
       "obligace",
       "půjčka",
+      "pųjčka",
       "způsob financování"
     ]
   },
@@ -22284,6 +22740,7 @@
       "financování z veřejných prostředků",
       "obligace",
       "půjčka",
+      "pųjčka",
       "způsob financování"
     ]
   },
@@ -22306,6 +22763,7 @@
       "financování z veřejných prostředků",
       "obligace",
       "půjčka",
+      "pųjčka",
       "způsob financování"
     ]
   },
@@ -22328,6 +22786,7 @@
       "financování z veřejných prostředků",
       "obligace",
       "půjčka",
+      "pųjčka",
       "způsob financování"
     ]
   },
@@ -22350,6 +22809,7 @@
       "financování z veřejných prostředků",
       "obligace",
       "půjčka",
+      "pųjčka",
       "způsob financování"
     ]
   },
@@ -22386,6 +22846,7 @@
       "financování z veřejných prostředků",
       "obligace",
       "půjčka",
+      "pųjčka",
       "způsob financování"
     ]
   },
@@ -23341,9 +23802,12 @@
     },
     "temata": [
       "akciová spoleènost",
+      "akciová společnost",
       "dopravní podnik",
       "eleznièní doprava",
-      "eleznièní sí"
+      "eleznièní sí",
+      "elezniční sí",
+      "železniční doprava"
     ]
   },
   {
@@ -23719,6 +24183,7 @@
       "Evropská komise",
       "finanční pomoc",
       "fondy (EU)",
+      "hospodáøská podpora",
       "hospodářská podpora",
       "politika výzkumu",
       "soutěžní politika",
@@ -24185,6 +24650,7 @@
       "veterinární inspekce",
       "veterinární legislativa",
       "veterinární medicína",
+      "zdraví zvíøat",
       "zdraví zvířat"
     ]
   },
@@ -24743,11 +25209,13 @@
     },
     "temata": [
       "bezpečnost informačních systémů",
+      "bezpečnost informačních systémų",
       "důvěrná informace",
       "elektronická správa",
       "elektronická správa dokumentů",
-      "informační síť",
       "informační systém",
+      "informační sí",
+      "informační síť",
       "kybernetika",
       "ochrana údajů",
       "počítačový systém"
@@ -24767,11 +25235,13 @@
     },
     "temata": [
       "bezpečnost informačních systémů",
+      "bezpečnost informačních systémų",
       "důvěrná informace",
       "elektronická správa",
       "elektronická správa dokumentů",
-      "informační síť",
       "informační systém",
+      "informační sí",
+      "informační síť",
       "kybernetika",
       "ochrana údajů",
       "počítačový systém"
@@ -24791,11 +25261,13 @@
     },
     "temata": [
       "bezpečnost informačních systémů",
+      "bezpečnost informačních systémų",
       "důvěrná informace",
       "elektronická správa",
       "elektronická správa dokumentů",
-      "informační síť",
       "informační systém",
+      "informační sí",
+      "informační síť",
       "kybernetika",
       "ochrana údajů",
       "počítačový systém"
@@ -24815,11 +25287,13 @@
     },
     "temata": [
       "bezpečnost informačních systémů",
+      "bezpečnost informačních systémų",
       "důvěrná informace",
       "elektronická správa",
       "elektronická správa dokumentů",
-      "informační síť",
       "informační systém",
+      "informační sí",
+      "informační síť",
       "kybernetika",
       "ochrana údajů",
       "počítačový systém"
@@ -25568,8 +26042,11 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
+      "kmenová buōka",
+      "lékaøství",
       "lékařství",
-      "transplantace orgánů"
+      "transplantace orgánů",
+      "transplantace orgánų"
     ]
   },
   {
@@ -25587,8 +26064,11 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
+      "kmenová buōka",
+      "lékaøství",
       "lékařství",
-      "transplantace orgánů"
+      "transplantace orgánů",
+      "transplantace orgánų"
     ]
   },
   {
@@ -25606,8 +26086,11 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
+      "kmenová buōka",
+      "lékaøství",
       "lékařství",
-      "transplantace orgánů"
+      "transplantace orgánů",
+      "transplantace orgánų"
     ]
   },
   {
@@ -25625,8 +26108,11 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
+      "kmenová buōka",
+      "lékaøství",
       "lékařství",
-      "transplantace orgánů"
+      "transplantace orgánů",
+      "transplantace orgánų"
     ]
   },
   {
@@ -25644,8 +26130,11 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
+      "kmenová buōka",
+      "lékaøství",
       "lékařství",
-      "transplantace orgánů"
+      "transplantace orgánů",
+      "transplantace orgánų"
     ]
   },
   {
@@ -26174,6 +26663,7 @@
     },
     "temata": [
       "alokace zdrojů",
+      "alokace zdrojų",
       "státní podpora"
     ]
   },
@@ -26191,6 +26681,7 @@
     },
     "temata": [
       "alokace zdrojů",
+      "alokace zdrojų",
       "státní podpora"
     ]
   },
@@ -26208,6 +26699,7 @@
     },
     "temata": [
       "alokace zdrojů",
+      "alokace zdrojų",
       "státní podpora"
     ]
   },
@@ -26225,6 +26717,7 @@
     },
     "temata": [
       "alokace zdrojů",
+      "alokace zdrojų",
       "státní podpora"
     ]
   },
@@ -29887,6 +30380,7 @@
       "rozhlasové vysílání",
       "televize",
       "ukládání a vyhledávání informací",
+      "veøejná instituce",
       "veřejná instituce"
     ]
   },
@@ -31071,6 +31565,7 @@
       "financování z veřejných prostředků",
       "obligace",
       "půjčka",
+      "pųjčka",
       "způsob financování"
     ]
   },
@@ -31093,6 +31588,7 @@
       "financování z veřejných prostředků",
       "obligace",
       "půjčka",
+      "pųjčka",
       "způsob financování"
     ]
   },
@@ -31115,6 +31611,7 @@
       "financování z veřejných prostředků",
       "obligace",
       "půjčka",
+      "pųjčka",
       "způsob financování"
     ]
   },
@@ -31137,6 +31634,7 @@
       "financování z veřejných prostředků",
       "obligace",
       "půjčka",
+      "pųjčka",
       "způsob financování"
     ]
   },
@@ -31159,6 +31657,7 @@
       "financování z veřejných prostředků",
       "obligace",
       "půjčka",
+      "pųjčka",
       "způsob financování"
     ]
   },
@@ -31181,6 +31680,7 @@
       "financování z veřejných prostředků",
       "obligace",
       "půjčka",
+      "pųjčka",
       "způsob financování"
     ]
   },
@@ -31203,6 +31703,7 @@
       "financování z veřejných prostředků",
       "obligace",
       "půjčka",
+      "pųjčka",
       "způsob financování"
     ]
   },
@@ -31225,6 +31726,7 @@
       "financování z veřejných prostředků",
       "obligace",
       "půjčka",
+      "pųjčka",
       "způsob financování"
     ]
   },
@@ -31247,6 +31749,7 @@
       "financování z veřejných prostředků",
       "obligace",
       "půjčka",
+      "pųjčka",
       "způsob financování"
     ]
   },
@@ -31269,6 +31772,7 @@
       "financování z veřejných prostředků",
       "obligace",
       "půjčka",
+      "pųjčka",
       "způsob financování"
     ]
   },
@@ -31291,6 +31795,7 @@
       "financování z veřejných prostředků",
       "obligace",
       "půjčka",
+      "pųjčka",
       "způsob financování"
     ]
   },
@@ -31313,6 +31818,7 @@
       "financování z veřejných prostředků",
       "obligace",
       "půjčka",
+      "pųjčka",
       "způsob financování"
     ]
   },
@@ -31335,6 +31841,7 @@
       "financování z veřejných prostředků",
       "obligace",
       "půjčka",
+      "pųjčka",
       "způsob financování"
     ]
   },
@@ -31357,6 +31864,7 @@
       "financování z veřejných prostředků",
       "obligace",
       "půjčka",
+      "pųjčka",
       "způsob financování"
     ]
   },
@@ -31379,6 +31887,7 @@
       "financování z veřejných prostředků",
       "obligace",
       "půjčka",
+      "pųjčka",
       "způsob financování"
     ]
   },
@@ -31401,6 +31910,7 @@
       "financování z veřejných prostředků",
       "obligace",
       "půjčka",
+      "pųjčka",
       "způsob financování"
     ]
   },
@@ -31423,6 +31933,7 @@
       "financování z veřejných prostředků",
       "obligace",
       "půjčka",
+      "pųjčka",
       "způsob financování"
     ]
   },
@@ -31445,6 +31956,7 @@
       "financování z veřejných prostředků",
       "obligace",
       "půjčka",
+      "pųjčka",
       "způsob financování"
     ]
   },
@@ -31467,6 +31979,7 @@
       "financování z veřejných prostředků",
       "obligace",
       "půjčka",
+      "pųjčka",
       "způsob financování"
     ]
   },
@@ -31489,6 +32002,7 @@
       "financování z veřejných prostředků",
       "obligace",
       "půjčka",
+      "pųjčka",
       "způsob financování"
     ]
   },
@@ -31511,6 +32025,7 @@
       "financování z veřejných prostředků",
       "obligace",
       "půjčka",
+      "pųjčka",
       "způsob financování"
     ]
   },
@@ -31533,6 +32048,7 @@
       "financování z veřejných prostředků",
       "obligace",
       "půjčka",
+      "pųjčka",
       "způsob financování"
     ]
   },
@@ -31555,6 +32071,7 @@
       "financování z veřejných prostředků",
       "obligace",
       "půjčka",
+      "pųjčka",
       "způsob financování"
     ]
   },
@@ -31577,6 +32094,7 @@
       "financování z veřejných prostředků",
       "obligace",
       "půjčka",
+      "pųjčka",
       "způsob financování"
     ]
   },
@@ -31599,6 +32117,7 @@
       "financování z veřejných prostředků",
       "obligace",
       "půjčka",
+      "pųjčka",
       "způsob financování"
     ]
   },
@@ -31621,6 +32140,7 @@
       "financování z veřejných prostředků",
       "obligace",
       "půjčka",
+      "pųjčka",
       "způsob financování"
     ]
   },
@@ -31643,6 +32163,7 @@
       "financování z veřejných prostředků",
       "obligace",
       "půjčka",
+      "pųjčka",
       "způsob financování"
     ]
   },
@@ -31679,6 +32200,7 @@
       "financování z veřejných prostředků",
       "obligace",
       "půjčka",
+      "pųjčka",
       "způsob financování"
     ]
   },
@@ -31701,6 +32223,7 @@
       "financování z veřejných prostředků",
       "obligace",
       "půjčka",
+      "pųjčka",
       "způsob financování"
     ]
   },
@@ -31723,6 +32246,7 @@
       "financování z veřejných prostředků",
       "obligace",
       "půjčka",
+      "pųjčka",
       "způsob financování"
     ]
   },
@@ -31745,6 +32269,7 @@
       "financování z veřejných prostředků",
       "obligace",
       "půjčka",
+      "pųjčka",
       "způsob financování"
     ]
   },
@@ -31767,6 +32292,7 @@
       "financování z veřejných prostředků",
       "obligace",
       "půjčka",
+      "pųjčka",
       "způsob financování"
     ]
   },
@@ -31789,6 +32315,7 @@
       "financování z veřejných prostředků",
       "obligace",
       "půjčka",
+      "pųjčka",
       "způsob financování"
     ]
   },
@@ -32435,6 +32962,7 @@
       "psychologie",
       "seznam",
       "střelná zbraň a střelivo",
+      "zabavení vėci",
       "zabavení věci"
     ]
   },
@@ -32458,6 +32986,7 @@
       "psychologie",
       "seznam",
       "střelná zbraň a střelivo",
+      "zabavení vėci",
       "zabavení věci"
     ]
   },
@@ -32481,6 +33010,7 @@
       "psychologie",
       "seznam",
       "střelná zbraň a střelivo",
+      "zabavení vėci",
       "zabavení věci"
     ]
   },
@@ -32504,6 +33034,7 @@
       "psychologie",
       "seznam",
       "střelná zbraň a střelivo",
+      "zabavení vėci",
       "zabavení věci"
     ]
   },
@@ -32527,6 +33058,7 @@
       "psychologie",
       "seznam",
       "střelná zbraň a střelivo",
+      "zabavení vėci",
       "zabavení věci"
     ]
   },
@@ -32550,6 +33082,7 @@
       "psychologie",
       "seznam",
       "střelná zbraň a střelivo",
+      "zabavení vėci",
       "zabavení věci"
     ]
   },
@@ -32573,6 +33106,7 @@
       "psychologie",
       "seznam",
       "střelná zbraň a střelivo",
+      "zabavení vėci",
       "zabavení věci"
     ]
   },
@@ -32596,6 +33130,7 @@
       "psychologie",
       "seznam",
       "střelná zbraň a střelivo",
+      "zabavení vėci",
       "zabavení věci"
     ]
   },
@@ -32619,6 +33154,7 @@
       "psychologie",
       "seznam",
       "střelná zbraň a střelivo",
+      "zabavení vėci",
       "zabavení věci"
     ]
   },
@@ -32642,6 +33178,7 @@
       "psychologie",
       "seznam",
       "střelná zbraň a střelivo",
+      "zabavení vėci",
       "zabavení věci"
     ]
   },

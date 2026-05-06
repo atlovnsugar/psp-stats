@@ -494,12 +494,15 @@
       "not_logged": 77
     },
     "temata": [
+      "Vėzeōství",
       "Vězeňství",
       "nápravně výchovné zařízení",
+      "výkon trestu",
+      "vėzeō",
+      "vėzeōské právo",
       "vězeň",
       "vězeňské právo",
-      "vězeňský režim",
-      "výkon trestu"
+      "vězeňský režim"
     ]
   },
   {
@@ -515,12 +518,14 @@
       "not_logged": 41
     },
     "temata": [
-      "Řád trestní",
-      "Vězeňství",
       "Státní správa a justice",
+      "Vėzeōství",
+      "Vězeňství",
       "trestní řízení",
       "vazba",
-      "zadržení"
+      "zadrení",
+      "zadržení",
+      "Řád trestní"
     ]
   },
   {
@@ -536,12 +541,14 @@
       "not_logged": 41
     },
     "temata": [
-      "Řád trestní",
-      "Vězeňství",
       "Státní správa a justice",
+      "Vėzeōství",
+      "Vězeňství",
       "trestní řízení",
       "vazba",
-      "zadržení"
+      "zadrení",
+      "zadržení",
+      "Řád trestní"
     ]
   },
   {
@@ -557,12 +564,14 @@
       "not_logged": 41
     },
     "temata": [
-      "Řád trestní",
-      "Vězeňství",
       "Státní správa a justice",
+      "Vėzeōství",
+      "Vězeňství",
       "trestní řízení",
       "vazba",
-      "zadržení"
+      "zadrení",
+      "zadržení",
+      "Řád trestní"
     ]
   },
   {
@@ -578,12 +587,14 @@
       "not_logged": 41
     },
     "temata": [
-      "Řád trestní",
-      "Vězeňství",
       "Státní správa a justice",
+      "Vėzeōství",
+      "Vězeňství",
       "trestní řízení",
       "vazba",
-      "zadržení"
+      "zadrení",
+      "zadržení",
+      "Řád trestní"
     ]
   },
   {
@@ -599,12 +610,14 @@
       "not_logged": 41
     },
     "temata": [
-      "Řád trestní",
-      "Vězeňství",
       "Státní správa a justice",
+      "Vėzeōství",
+      "Vězeňství",
       "trestní řízení",
       "vazba",
-      "zadržení"
+      "zadrení",
+      "zadržení",
+      "Řád trestní"
     ]
   },
   {
@@ -620,12 +633,14 @@
       "not_logged": 42
     },
     "temata": [
-      "Řád trestní",
-      "Vězeňství",
       "Státní správa a justice",
+      "Vėzeōství",
+      "Vězeňství",
       "trestní řízení",
       "vazba",
-      "zadržení"
+      "zadrení",
+      "zadržení",
+      "Řád trestní"
     ]
   },
   {
@@ -641,12 +656,14 @@
       "not_logged": 42
     },
     "temata": [
-      "Řád trestní",
-      "Vězeňství",
       "Státní správa a justice",
+      "Vėzeōství",
+      "Vězeňství",
       "trestní řízení",
       "vazba",
-      "zadržení"
+      "zadrení",
+      "zadržení",
+      "Řád trestní"
     ]
   },
   {
@@ -662,12 +679,15 @@
       "not_logged": 60
     },
     "temata": [
+      "Vėzeōství",
       "Vězeňství",
       "nápravně výchovné zařízení",
+      "výkon trestu",
+      "vėzeō",
+      "vėzeōské právo",
       "vězeň",
       "vězeňské právo",
-      "vězeňský režim",
-      "výkon trestu"
+      "vězeňský režim"
     ]
   },
   {
@@ -683,12 +703,15 @@
       "not_logged": 54
     },
     "temata": [
+      "Vėzeōství",
       "Vězeňství",
       "nápravně výchovné zařízení",
+      "výkon trestu",
+      "vėzeō",
+      "vėzeōské právo",
       "vězeň",
       "vězeňské právo",
-      "vězeňský režim",
-      "výkon trestu"
+      "vězeňský režim"
     ]
   },
   {
@@ -704,12 +727,15 @@
       "not_logged": 54
     },
     "temata": [
+      "Vėzeōství",
       "Vězeňství",
       "nápravně výchovné zařízení",
+      "výkon trestu",
+      "vėzeō",
+      "vėzeōské právo",
       "vězeň",
       "vězeňské právo",
-      "vězeňský režim",
-      "výkon trestu"
+      "vězeňský režim"
     ]
   },
   {
@@ -725,12 +751,15 @@
       "not_logged": 54
     },
     "temata": [
+      "Vėzeōství",
       "Vězeňství",
       "nápravně výchovné zařízení",
+      "výkon trestu",
+      "vėzeō",
+      "vėzeōské právo",
       "vězeň",
       "vězeňské právo",
-      "vězeňský režim",
-      "výkon trestu"
+      "vězeňský režim"
     ]
   },
   {
@@ -1428,15 +1457,16 @@
       "not_logged": 83
     },
     "temata": [
-      "Školství",
       "akademické svobody",
       "právní postavení",
       "přístup ke vzdělání",
-      "školní prostředí",
       "student",
       "univerzita",
       "vysokoškolské vzdělání",
-      "vzdělávací program"
+      "vzdělávací program",
+      "kolní prostøedí",
+      "Školství",
+      "školní prostředí"
     ]
   },
   {
@@ -1452,15 +1482,16 @@
       "not_logged": 21
     },
     "temata": [
-      "Školství",
       "akademické svobody",
       "právní postavení",
       "přístup ke vzdělání",
-      "školní prostředí",
       "student",
       "univerzita",
       "vysokoškolské vzdělání",
-      "vzdělávací program"
+      "vzdělávací program",
+      "kolní prostøedí",
+      "Školství",
+      "školní prostředí"
     ]
   },
   {
@@ -1476,15 +1507,16 @@
       "not_logged": 21
     },
     "temata": [
-      "Školství",
       "akademické svobody",
       "právní postavení",
       "přístup ke vzdělání",
-      "školní prostředí",
       "student",
       "univerzita",
       "vysokoškolské vzdělání",
-      "vzdělávací program"
+      "vzdělávací program",
+      "kolní prostøedí",
+      "Školství",
+      "školní prostředí"
     ]
   },
   {
@@ -1500,15 +1532,16 @@
       "not_logged": 21
     },
     "temata": [
-      "Školství",
       "akademické svobody",
       "právní postavení",
       "přístup ke vzdělání",
-      "školní prostředí",
       "student",
       "univerzita",
       "vysokoškolské vzdělání",
-      "vzdělávací program"
+      "vzdělávací program",
+      "kolní prostøedí",
+      "Školství",
+      "školní prostředí"
     ]
   },
   {
@@ -1524,15 +1557,16 @@
       "not_logged": 22
     },
     "temata": [
-      "Školství",
       "akademické svobody",
       "právní postavení",
       "přístup ke vzdělání",
-      "školní prostředí",
       "student",
       "univerzita",
       "vysokoškolské vzdělání",
-      "vzdělávací program"
+      "vzdělávací program",
+      "kolní prostøedí",
+      "Školství",
+      "školní prostředí"
     ]
   },
   {
@@ -1646,10 +1680,14 @@
       "not_logged": 57
     },
     "temata": [
+      "Správa obcí a měst",
       "Sprįva obcķ a mģst",
+      "místní orgány státní správy",
+      "místní volby",
       "mķstnķ orgįny stįtnķ sprįvy",
       "mķstnķ volby",
       "organizace voleb",
+      "zástupce místního a regionálního zastupitelského orgánu",
       "zįstupce mķstnķho a regionįlnķho zastupitelského orgįnu"
     ]
   },
@@ -1666,10 +1704,14 @@
       "not_logged": 98
     },
     "temata": [
+      "Správa obcí a měst",
       "Sprįva obcķ a mģst",
+      "místní orgány státní správy",
+      "místní volby",
       "mķstnķ orgįny stįtnķ sprįvy",
       "mķstnķ volby",
       "organizace voleb",
+      "zástupce místního a regionálního zastupitelského orgánu",
       "zįstupce mķstnķho a regionįlnķho zastupitelského orgįnu"
     ]
   },
@@ -1686,10 +1728,14 @@
       "not_logged": 92
     },
     "temata": [
+      "Správa obcí a měst",
       "Sprįva obcķ a mģst",
+      "místní orgány státní správy",
+      "místní volby",
       "mķstnķ orgįny stįtnķ sprįvy",
       "mķstnķ volby",
       "organizace voleb",
+      "zástupce místního a regionálního zastupitelského orgánu",
       "zįstupce mķstnķho a regionįlnķho zastupitelského orgįnu"
     ]
   },
@@ -1749,16 +1795,17 @@
     },
     "temata": [
       "Bezpečnost státu",
-      "Situace krizové",
-      "Ústava České republiky, ústavní zákony",
       "Obrana a bezpečnost",
+      "Situace krizové",
       "Státní správa a justice",
       "armáda",
       "civilní ochrana",
       "obranná politika",
       "veřejná bezpečnost",
+      "zvlátní stav",
+      "zvláštní stav",
       "základní vojenská služba",
-      "zvláštní stav"
+      "Ústava České republiky, ústavní zákony"
     ]
   },
   {
@@ -1775,16 +1822,17 @@
     },
     "temata": [
       "Bezpečnost státu",
-      "Situace krizové",
-      "Ústava České republiky, ústavní zákony",
       "Obrana a bezpečnost",
+      "Situace krizové",
       "Státní správa a justice",
       "armáda",
       "civilní ochrana",
       "obranná politika",
       "veřejná bezpečnost",
+      "zvlátní stav",
+      "zvláštní stav",
       "základní vojenská služba",
-      "zvláštní stav"
+      "Ústava České republiky, ústavní zákony"
     ]
   },
   {
@@ -1815,16 +1863,17 @@
     },
     "temata": [
       "Bezpečnost státu",
-      "Situace krizové",
-      "Ústava České republiky, ústavní zákony",
       "Obrana a bezpečnost",
+      "Situace krizové",
       "Státní správa a justice",
       "armáda",
       "civilní ochrana",
       "obranná politika",
       "veřejná bezpečnost",
+      "zvlátní stav",
+      "zvláštní stav",
       "základní vojenská služba",
-      "zvláštní stav"
+      "Ústava České republiky, ústavní zákony"
     ]
   },
   {
@@ -1841,16 +1890,17 @@
     },
     "temata": [
       "Bezpečnost státu",
-      "Situace krizové",
-      "Ústava České republiky, ústavní zákony",
       "Obrana a bezpečnost",
+      "Situace krizové",
       "Státní správa a justice",
       "armáda",
       "civilní ochrana",
       "obranná politika",
       "veřejná bezpečnost",
+      "zvlátní stav",
+      "zvláštní stav",
       "základní vojenská služba",
-      "zvláštní stav"
+      "Ústava České republiky, ústavní zákony"
     ]
   },
   {
@@ -1867,16 +1917,17 @@
     },
     "temata": [
       "Bezpečnost státu",
-      "Situace krizové",
-      "Ústava České republiky, ústavní zákony",
       "Obrana a bezpečnost",
+      "Situace krizové",
       "Státní správa a justice",
       "armáda",
       "civilní ochrana",
       "obranná politika",
       "veřejná bezpečnost",
+      "zvlátní stav",
+      "zvláštní stav",
       "základní vojenská služba",
-      "zvláštní stav"
+      "Ústava České republiky, ústavní zákony"
     ]
   },
   {
@@ -1893,16 +1944,17 @@
     },
     "temata": [
       "Bezpečnost státu",
-      "Situace krizové",
-      "Ústava České republiky, ústavní zákony",
       "Obrana a bezpečnost",
+      "Situace krizové",
       "Státní správa a justice",
       "armáda",
       "civilní ochrana",
       "obranná politika",
       "veřejná bezpečnost",
+      "zvlátní stav",
+      "zvláštní stav",
       "základní vojenská služba",
-      "zvláštní stav"
+      "Ústava České republiky, ústavní zákony"
     ]
   },
   {
@@ -1919,16 +1971,17 @@
     },
     "temata": [
       "Bezpečnost státu",
-      "Situace krizové",
-      "Ústava České republiky, ústavní zákony",
       "Obrana a bezpečnost",
+      "Situace krizové",
       "Státní správa a justice",
       "armáda",
       "civilní ochrana",
       "obranná politika",
       "veřejná bezpečnost",
+      "zvlátní stav",
+      "zvláštní stav",
       "základní vojenská služba",
-      "zvláštní stav"
+      "Ústava České republiky, ústavní zákony"
     ]
   },
   {
@@ -1944,9 +1997,10 @@
       "not_logged": 92
     },
     "temata": [
-      "Česká republika",
+      "Singapur",
       "daňová úmluva",
-      "Singapur"
+      "daōová úmluva",
+      "Česká republika"
     ]
   },
   {
@@ -2177,15 +2231,16 @@
       "not_logged": 73
     },
     "temata": [
-      "bývalý Jižní Jemen",
-      "Československo",
       "Laos",
-      "mezinárodní spolupráce",
       "Mongolsko",
       "Rakousko",
       "Severní Korea",
       "Vietnam",
-      "vypovědění smlouvy"
+      "bývalý Jižní Jemen",
+      "mezinárodní spolupráce",
+      "vypovėdėní smlouvy",
+      "vypovědění smlouvy",
+      "Československo"
     ]
   },
   {
@@ -2201,15 +2256,16 @@
       "not_logged": 73
     },
     "temata": [
-      "bývalý Jižní Jemen",
-      "Československo",
       "Laos",
-      "mezinárodní spolupráce",
       "Mongolsko",
       "Rakousko",
       "Severní Korea",
       "Vietnam",
-      "vypovědění smlouvy"
+      "bývalý Jižní Jemen",
+      "mezinárodní spolupráce",
+      "vypovėdėní smlouvy",
+      "vypovědění smlouvy",
+      "Československo"
     ]
   },
   {
@@ -2225,15 +2281,16 @@
       "not_logged": 73
     },
     "temata": [
-      "bývalý Jižní Jemen",
-      "Československo",
       "Laos",
-      "mezinárodní spolupráce",
       "Mongolsko",
       "Rakousko",
       "Severní Korea",
       "Vietnam",
-      "vypovědění smlouvy"
+      "bývalý Jižní Jemen",
+      "mezinárodní spolupráce",
+      "vypovėdėní smlouvy",
+      "vypovědění smlouvy",
+      "Československo"
     ]
   },
   {
@@ -2309,6 +2366,7 @@
       "Homosexualita",
       "antidiskriminační politika",
       "registrované partnerství",
+      "sexuální menina",
       "sexuální menšina",
       "smlouva"
     ]
@@ -2329,6 +2387,7 @@
       "Homosexualita",
       "antidiskriminační politika",
       "registrované partnerství",
+      "sexuální menina",
       "sexuální menšina",
       "smlouva"
     ]
@@ -2349,6 +2408,7 @@
       "Homosexualita",
       "antidiskriminační politika",
       "registrované partnerství",
+      "sexuální menina",
       "sexuální menšina",
       "smlouva"
     ]
@@ -2369,6 +2429,7 @@
       "Homosexualita",
       "antidiskriminační politika",
       "registrované partnerství",
+      "sexuální menina",
       "sexuální menšina",
       "smlouva"
     ]
@@ -3642,10 +3703,11 @@
       "not_logged": 56
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -3667,12 +3729,15 @@
     },
     "temata": [
       "Myslivost",
-      "Zákon trestní",
       "Občan",
       "Těžba a výroba",
+      "Zákon trestní",
+      "lovná zvėø",
       "lovná zvěř",
+      "ochrana ivočiné øíe",
       "ochrana živočišné říše",
       "regulace lovu",
+      "rybáøský prųmysl",
       "rybářský průmysl",
       "trestný čin"
     ]
@@ -3690,10 +3755,11 @@
       "not_logged": 155
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -3714,10 +3780,11 @@
       "not_logged": 60
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -3738,10 +3805,11 @@
       "not_logged": 46
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -3762,13 +3830,14 @@
       "not_logged": 41
     },
     "temata": [
-      "Zakázky",
       "Doprava a spoje",
       "Občan",
       "Peněžnictví a pojišťovnictví",
       "Pracovní síla",
       "Státní správa a justice",
+      "Zakázky",
       "veřejná zakázka",
+      "vypsání soutėe",
       "vypsání soutěže"
     ]
   },
@@ -3785,10 +3854,11 @@
       "not_logged": 38
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -3809,10 +3879,11 @@
       "not_logged": 34
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -3833,10 +3904,11 @@
       "not_logged": 34
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -3857,10 +3929,11 @@
       "not_logged": 33
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -3881,10 +3954,11 @@
       "not_logged": 33
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -3905,10 +3979,11 @@
       "not_logged": 33
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -3929,10 +4004,11 @@
       "not_logged": 33
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -3953,10 +4029,11 @@
       "not_logged": 34
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -3977,10 +4054,11 @@
       "not_logged": 35
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -4001,10 +4079,11 @@
       "not_logged": 34
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -4025,10 +4104,11 @@
       "not_logged": 34
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -4049,10 +4129,11 @@
       "not_logged": 34
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -4073,10 +4154,11 @@
       "not_logged": 34
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -4097,10 +4179,11 @@
       "not_logged": 34
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -4121,10 +4204,11 @@
       "not_logged": 34
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -4145,10 +4229,11 @@
       "not_logged": 36
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -4169,10 +4254,11 @@
       "not_logged": 31
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -4193,10 +4279,11 @@
       "not_logged": 30
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -4217,10 +4304,11 @@
       "not_logged": 25
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -4241,10 +4329,11 @@
       "not_logged": 31
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -4265,10 +4354,11 @@
       "not_logged": 31
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -4289,10 +4379,11 @@
       "not_logged": 34
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -4313,10 +4404,11 @@
       "not_logged": 33
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -4337,10 +4429,11 @@
       "not_logged": 33
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -4361,10 +4454,11 @@
       "not_logged": 33
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -4385,10 +4479,11 @@
       "not_logged": 33
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -4409,10 +4504,11 @@
       "not_logged": 33
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -4433,10 +4529,11 @@
       "not_logged": 34
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -4457,10 +4554,11 @@
       "not_logged": 33
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -4481,10 +4579,11 @@
       "not_logged": 33
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -4505,10 +4604,11 @@
       "not_logged": 33
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -4529,10 +4629,11 @@
       "not_logged": 18
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -4553,10 +4654,11 @@
       "not_logged": 32
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -4577,10 +4679,11 @@
       "not_logged": 33
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -4601,10 +4704,11 @@
       "not_logged": 33
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -4625,10 +4729,11 @@
       "not_logged": 33
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -4649,10 +4754,11 @@
       "not_logged": 33
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -4673,10 +4779,11 @@
       "not_logged": 33
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -4697,10 +4804,11 @@
       "not_logged": 16
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -4721,10 +4829,11 @@
       "not_logged": 14
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -4759,10 +4868,11 @@
       "not_logged": 35
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -4783,10 +4893,11 @@
       "not_logged": 27
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -4807,10 +4918,11 @@
       "not_logged": 26
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -4831,10 +4943,11 @@
       "not_logged": 26
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -4855,10 +4968,11 @@
       "not_logged": 24
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -4879,10 +4993,11 @@
       "not_logged": 24
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -4903,10 +5018,11 @@
       "not_logged": 23
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -4927,10 +5043,11 @@
       "not_logged": 23
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -4951,10 +5068,11 @@
       "not_logged": 23
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -4975,10 +5093,11 @@
       "not_logged": 22
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -4999,10 +5118,11 @@
       "not_logged": 22
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -5023,10 +5143,11 @@
       "not_logged": 22
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -5047,10 +5168,11 @@
       "not_logged": 22
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -5071,10 +5193,11 @@
       "not_logged": 22
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -5095,10 +5218,11 @@
       "not_logged": 21
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -5119,10 +5243,11 @@
       "not_logged": 23
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -5143,10 +5268,11 @@
       "not_logged": 22
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -5167,10 +5293,11 @@
       "not_logged": 21
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -5191,10 +5318,11 @@
       "not_logged": 21
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -5215,10 +5343,11 @@
       "not_logged": 81
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -5239,10 +5368,11 @@
       "not_logged": 60
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -5263,10 +5393,11 @@
       "not_logged": 50
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -5287,10 +5418,11 @@
       "not_logged": 43
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -5311,10 +5443,11 @@
       "not_logged": 45
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -5335,10 +5468,11 @@
       "not_logged": 38
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -5359,10 +5493,11 @@
       "not_logged": 37
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -5383,10 +5518,11 @@
       "not_logged": 37
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -5407,10 +5543,11 @@
       "not_logged": 34
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -5431,10 +5568,11 @@
       "not_logged": 35
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -5455,10 +5593,11 @@
       "not_logged": 34
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -5479,10 +5618,11 @@
       "not_logged": 34
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -5503,10 +5643,11 @@
       "not_logged": 33
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -5527,10 +5668,11 @@
       "not_logged": 32
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -5551,10 +5693,11 @@
       "not_logged": 32
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -5575,10 +5718,11 @@
       "not_logged": 33
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -5599,10 +5743,11 @@
       "not_logged": 31
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -5623,10 +5768,11 @@
       "not_logged": 31
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -5647,10 +5793,11 @@
       "not_logged": 31
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -5671,10 +5818,11 @@
       "not_logged": 29
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -5695,10 +5843,11 @@
       "not_logged": 29
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -5719,10 +5868,11 @@
       "not_logged": 29
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -5743,10 +5893,11 @@
       "not_logged": 29
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -5767,10 +5918,11 @@
       "not_logged": 29
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -5791,10 +5943,11 @@
       "not_logged": 29
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -5815,10 +5968,11 @@
       "not_logged": 30
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -5839,10 +5993,11 @@
       "not_logged": 29
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -5863,10 +6018,11 @@
       "not_logged": 29
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -5887,10 +6043,11 @@
       "not_logged": 29
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -5911,10 +6068,11 @@
       "not_logged": 29
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -5935,10 +6093,11 @@
       "not_logged": 35
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -5959,10 +6118,11 @@
       "not_logged": 34
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -5983,10 +6143,11 @@
       "not_logged": 34
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -6007,10 +6168,11 @@
       "not_logged": 33
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -6031,10 +6193,11 @@
       "not_logged": 31
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -6055,10 +6218,11 @@
       "not_logged": 31
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -6079,10 +6243,11 @@
       "not_logged": 31
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -6103,10 +6268,11 @@
       "not_logged": 31
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -6127,10 +6293,11 @@
       "not_logged": 31
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -6151,10 +6318,11 @@
       "not_logged": 31
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -6175,10 +6343,11 @@
       "not_logged": 31
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -6199,10 +6368,11 @@
       "not_logged": 31
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -6223,10 +6393,11 @@
       "not_logged": 31
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -6247,10 +6418,11 @@
       "not_logged": 31
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -6271,10 +6443,11 @@
       "not_logged": 31
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -6295,10 +6468,11 @@
       "not_logged": 30
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -6319,10 +6493,11 @@
       "not_logged": 31
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -6343,10 +6518,11 @@
       "not_logged": 30
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -6367,10 +6543,11 @@
       "not_logged": 29
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -6391,10 +6568,11 @@
       "not_logged": 29
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -6415,10 +6593,11 @@
       "not_logged": 30
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -6439,10 +6618,11 @@
       "not_logged": 29
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -6463,10 +6643,11 @@
       "not_logged": 29
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -6487,10 +6668,11 @@
       "not_logged": 29
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -6511,10 +6693,11 @@
       "not_logged": 39
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -6549,10 +6732,11 @@
       "not_logged": 36
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -6573,10 +6757,11 @@
       "not_logged": 37
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -6611,10 +6796,11 @@
       "not_logged": 36
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -6635,10 +6821,11 @@
       "not_logged": 35
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -6659,10 +6846,11 @@
       "not_logged": 36
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -6683,10 +6871,11 @@
       "not_logged": 36
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -6707,10 +6896,11 @@
       "not_logged": 37
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -6731,10 +6921,11 @@
       "not_logged": 34
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -6755,10 +6946,11 @@
       "not_logged": 38
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -6779,10 +6971,11 @@
       "not_logged": 37
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -6803,10 +6996,11 @@
       "not_logged": 36
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -6827,10 +7021,11 @@
       "not_logged": 36
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -6851,10 +7046,11 @@
       "not_logged": 37
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -6875,10 +7071,11 @@
       "not_logged": 35
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -6899,10 +7096,11 @@
       "not_logged": 34
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -6923,10 +7121,11 @@
       "not_logged": 96
     },
     "temata": [
-      "Rodina",
       "Občan",
       "Politika",
+      "Rodina",
       "Státní správa a justice",
+      "manelské právo",
       "manželské právo",
       "manželství",
       "ochrana dítěte",
@@ -7087,11 +7286,12 @@
       "not_logged": 67
     },
     "temata": [
-      "Řád občanský soudní",
       "dluh",
+      "soudní pøíkaz",
       "soudní příkaz",
       "soudní řízení",
-      "vyrovnání s věřiteli"
+      "vyrovnání s věřiteli",
+      "Řád občanský soudní"
     ]
   },
   {
@@ -7137,8 +7337,9 @@
       "daň z převodu nemovitosti",
       "daň z převodu vlastnictví",
       "osvobození od daní",
-      "převod vlastnictví",
       "privatizace",
+      "pùda ve vlastnictví státu",
+      "převod vlastnictví",
       "půda ve vlastnictví státu",
       "veřejný majetek",
       "vlastnictví",
@@ -7267,8 +7468,9 @@
       "daň z převodu nemovitosti",
       "daň z převodu vlastnictví",
       "osvobození od daní",
-      "převod vlastnictví",
       "privatizace",
+      "pùda ve vlastnictví státu",
+      "převod vlastnictví",
       "půda ve vlastnictví státu",
       "veřejný majetek",
       "vlastnictví",
@@ -7292,8 +7494,9 @@
       "daň z převodu nemovitosti",
       "daň z převodu vlastnictví",
       "osvobození od daní",
-      "převod vlastnictví",
       "privatizace",
+      "pùda ve vlastnictví státu",
+      "převod vlastnictví",
       "půda ve vlastnictví státu",
       "veřejný majetek",
       "vlastnictví",
@@ -7317,8 +7520,9 @@
       "daň z převodu nemovitosti",
       "daň z převodu vlastnictví",
       "osvobození od daní",
-      "převod vlastnictví",
       "privatizace",
+      "pùda ve vlastnictví státu",
+      "převod vlastnictví",
       "půda ve vlastnictví státu",
       "veřejný majetek",
       "vlastnictví",
@@ -7342,8 +7546,9 @@
       "daň z převodu nemovitosti",
       "daň z převodu vlastnictví",
       "osvobození od daní",
-      "převod vlastnictví",
       "privatizace",
+      "pùda ve vlastnictví státu",
+      "převod vlastnictví",
       "půda ve vlastnictví státu",
       "veřejný majetek",
       "vlastnictví",
@@ -7367,8 +7572,9 @@
       "daň z převodu nemovitosti",
       "daň z převodu vlastnictví",
       "osvobození od daní",
-      "převod vlastnictví",
       "privatizace",
+      "pùda ve vlastnictví státu",
+      "převod vlastnictví",
       "půda ve vlastnictví státu",
       "veřejný majetek",
       "vlastnictví",
@@ -7727,9 +7933,11 @@
     "temata": [
       "Televize",
       "financování rozpočtu",
+      "plnėní rozpočtu",
       "plnění rozpočtu",
       "programová produkce",
       "televize",
+      "veøejná instituce",
       "veřejná instituce",
       "zpráva o činnosti"
     ]
@@ -7749,9 +7957,11 @@
     "temata": [
       "Televize",
       "financování rozpočtu",
+      "plnėní rozpočtu",
       "plnění rozpočtu",
       "programová produkce",
       "televize",
+      "veøejná instituce",
       "veřejná instituce",
       "zpráva o činnosti"
     ]
@@ -7771,9 +7981,11 @@
     "temata": [
       "Televize",
       "financování rozpočtu",
+      "plnėní rozpočtu",
       "plnění rozpočtu",
       "programová produkce",
       "televize",
+      "veøejná instituce",
       "veřejná instituce",
       "zpráva o činnosti"
     ]
@@ -7863,9 +8075,11 @@
     "temata": [
       "Televize",
       "financování rozpočtu",
+      "plnėní rozpočtu",
       "plnění rozpočtu",
       "programová produkce",
       "televize",
+      "veøejná instituce",
       "veřejná instituce",
       "zpráva o činnosti"
     ]
@@ -8025,6 +8239,7 @@
     },
     "temata": [
       "konvenční zbraň",
+      "konvenční zbraō",
       "odzbrojení"
     ]
   },
@@ -8112,9 +8327,11 @@
     "temata": [
       "Televize",
       "financování rozpočtu",
+      "plnėní rozpočtu",
       "plnění rozpočtu",
       "programová produkce",
       "televize",
+      "veøejná instituce",
       "veřejná instituce",
       "zpráva o činnosti"
     ]
@@ -8260,6 +8477,7 @@
     "temata": [
       "Armáda",
       "Irák",
+      "nemocniční zaøízení",
       "nemocniční zařízení",
       "vojenská spolupráce"
     ]
@@ -9399,11 +9617,13 @@
     "temata": [
       "Fond národního majetku",
       "financování rozpočtu",
+      "plnėní rozpočtu",
       "plnění rozpočtu",
       "privatizace",
-      "účetní uzávěrka",
       "veřejný majetek",
-      "zpráva o činnosti"
+      "zpráva o činnosti",
+      "účetní uzávėrka",
+      "účetní uzávěrka"
     ]
   },
   {
@@ -9421,11 +9641,13 @@
     "temata": [
       "Fond národního majetku",
       "financování rozpočtu",
+      "plnėní rozpočtu",
       "plnění rozpočtu",
       "privatizace",
-      "účetní uzávěrka",
       "veřejný majetek",
-      "zpráva o činnosti"
+      "zpráva o činnosti",
+      "účetní uzávėrka",
+      "účetní uzávěrka"
     ]
   },
   {
@@ -9443,11 +9665,13 @@
     "temata": [
       "Fond národního majetku",
       "financování rozpočtu",
+      "plnėní rozpočtu",
       "plnění rozpočtu",
       "privatizace",
-      "účetní uzávěrka",
       "veřejný majetek",
-      "zpráva o činnosti"
+      "zpráva o činnosti",
+      "účetní uzávėrka",
+      "účetní uzávěrka"
     ]
   },
   {
@@ -9465,11 +9689,13 @@
     "temata": [
       "Fond národního majetku",
       "financování rozpočtu",
+      "plnėní rozpočtu",
       "plnění rozpočtu",
       "privatizace",
-      "účetní uzávěrka",
       "veřejný majetek",
-      "zpráva o činnosti"
+      "zpráva o činnosti",
+      "účetní uzávėrka",
+      "účetní uzávěrka"
     ]
   },
   {
@@ -9487,11 +9713,13 @@
     "temata": [
       "Fond národního majetku",
       "financování rozpočtu",
+      "plnėní rozpočtu",
       "plnění rozpočtu",
       "privatizace",
-      "účetní uzávěrka",
       "veřejný majetek",
-      "zpráva o činnosti"
+      "zpráva o činnosti",
+      "účetní uzávėrka",
+      "účetní uzávěrka"
     ]
   },
   {
@@ -9509,11 +9737,13 @@
     "temata": [
       "Fond národního majetku",
       "financování rozpočtu",
+      "plnėní rozpočtu",
       "plnění rozpočtu",
       "privatizace",
-      "účetní uzávěrka",
       "veřejný majetek",
-      "zpráva o činnosti"
+      "zpráva o činnosti",
+      "účetní uzávėrka",
+      "účetní uzávěrka"
     ]
   },
   {
@@ -9531,11 +9761,13 @@
     "temata": [
       "Fond národního majetku",
       "financování rozpočtu",
+      "plnėní rozpočtu",
       "plnění rozpočtu",
       "privatizace",
-      "účetní uzávěrka",
       "veřejný majetek",
-      "zpráva o činnosti"
+      "zpráva o činnosti",
+      "účetní uzávėrka",
+      "účetní uzávěrka"
     ]
   },
   {
@@ -9553,11 +9785,13 @@
     "temata": [
       "Fond národního majetku",
       "financování rozpočtu",
+      "plnėní rozpočtu",
       "plnění rozpočtu",
       "privatizace",
-      "účetní uzávěrka",
       "veřejný majetek",
-      "zpráva o činnosti"
+      "zpráva o činnosti",
+      "účetní uzávėrka",
+      "účetní uzávěrka"
     ]
   },
   {
@@ -9575,11 +9809,13 @@
     "temata": [
       "Fond národního majetku",
       "financování rozpočtu",
+      "plnėní rozpočtu",
       "plnění rozpočtu",
       "privatizace",
-      "účetní uzávěrka",
       "veřejný majetek",
-      "zpráva o činnosti"
+      "zpráva o činnosti",
+      "účetní uzávėrka",
+      "účetní uzávěrka"
     ]
   },
   {
@@ -9597,11 +9833,13 @@
     "temata": [
       "Fond národního majetku",
       "financování rozpočtu",
+      "plnėní rozpočtu",
       "plnění rozpočtu",
       "privatizace",
-      "účetní uzávěrka",
       "veřejný majetek",
-      "zpráva o činnosti"
+      "zpráva o činnosti",
+      "účetní uzávėrka",
+      "účetní uzávěrka"
     ]
   },
   {
@@ -9619,11 +9857,13 @@
     "temata": [
       "Fond národního majetku",
       "financování rozpočtu",
+      "plnėní rozpočtu",
       "plnění rozpočtu",
       "privatizace",
-      "účetní uzávěrka",
       "veřejný majetek",
-      "zpráva o činnosti"
+      "zpráva o činnosti",
+      "účetní uzávėrka",
+      "účetní uzávěrka"
     ]
   },
   {
@@ -9641,11 +9881,13 @@
     "temata": [
       "Fond národního majetku",
       "financování rozpočtu",
+      "plnėní rozpočtu",
       "plnění rozpočtu",
       "privatizace",
-      "účetní uzávěrka",
       "veřejný majetek",
-      "zpráva o činnosti"
+      "zpráva o činnosti",
+      "účetní uzávėrka",
+      "účetní uzávěrka"
     ]
   },
   {
@@ -11005,16 +11247,19 @@
       "not_logged": 23
     },
     "temata": [
-      "Ochrana hospodářského a služebního tajemství",
       "Národní hospodářství",
       "Obrana a bezpečnost",
+      "Ochrana hospodáøského a sluebního tajemství",
+      "Ochrana hospodářského a služebního tajemství",
       "Pracovní síla",
       "Státní správa a justice",
       "Zdravotnictví",
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "průmyslové tajemství",
+      "prųmyslové tajemství",
       "služební tajemství",
       "státní tajemství",
       "veřejná bezpečnost"
@@ -11056,16 +11301,19 @@
       "not_logged": 20
     },
     "temata": [
-      "Ochrana hospodářského a služebního tajemství",
       "Národní hospodářství",
       "Obrana a bezpečnost",
+      "Ochrana hospodáøského a sluebního tajemství",
+      "Ochrana hospodářského a služebního tajemství",
       "Pracovní síla",
       "Státní správa a justice",
       "Zdravotnictví",
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "průmyslové tajemství",
+      "prųmyslové tajemství",
       "služební tajemství",
       "státní tajemství",
       "veřejná bezpečnost"
@@ -11084,16 +11332,19 @@
       "not_logged": 19
     },
     "temata": [
-      "Ochrana hospodářského a služebního tajemství",
       "Národní hospodářství",
       "Obrana a bezpečnost",
+      "Ochrana hospodáøského a sluebního tajemství",
+      "Ochrana hospodářského a služebního tajemství",
       "Pracovní síla",
       "Státní správa a justice",
       "Zdravotnictví",
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "průmyslové tajemství",
+      "prųmyslové tajemství",
       "služební tajemství",
       "státní tajemství",
       "veřejná bezpečnost"
@@ -11135,16 +11386,19 @@
       "not_logged": 24
     },
     "temata": [
-      "Ochrana hospodářského a služebního tajemství",
       "Národní hospodářství",
       "Obrana a bezpečnost",
+      "Ochrana hospodáøského a sluebního tajemství",
+      "Ochrana hospodářského a služebního tajemství",
       "Pracovní síla",
       "Státní správa a justice",
       "Zdravotnictví",
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "průmyslové tajemství",
+      "prųmyslové tajemství",
       "služební tajemství",
       "státní tajemství",
       "veřejná bezpečnost"
@@ -11246,12 +11500,13 @@
       "not_logged": 46
     },
     "temata": [
-      "Ochrana požární",
-      "Občan",
       "Obrana a bezpečnost",
+      "Občan",
+      "Ochrana požární",
       "Pracovní síla",
       "odstupné",
       "pracovní právo",
+      "skončení pracovního pomėru",
       "skončení pracovního poměru",
       "sociální zabezpečení"
     ]
@@ -11269,10 +11524,14 @@
       "not_logged": 46
     },
     "temata": [
+      "Správa obcí a měst",
       "Sprįva obcķ a mģst",
+      "místní orgány státní správy",
+      "místní volby",
       "mķstnķ orgįny stįtnķ sprįvy",
       "mķstnķ volby",
       "organizace voleb",
+      "zástupce místního a regionálního zastupitelského orgánu",
       "zįstupce mķstnķho a regionįlnķho zastupitelského orgįnu"
     ]
   },
@@ -11289,10 +11548,14 @@
       "not_logged": 44
     },
     "temata": [
+      "Správa obcí a měst",
       "Sprįva obcķ a mģst",
+      "místní orgány státní správy",
+      "místní volby",
       "mķstnķ orgįny stįtnķ sprįvy",
       "mķstnķ volby",
       "organizace voleb",
+      "zástupce místního a regionálního zastupitelského orgánu",
       "zįstupce mķstnķho a regionįlnķho zastupitelského orgįnu"
     ]
   },
@@ -11412,10 +11675,11 @@
       "not_logged": 88
     },
     "temata": [
+      "nemocniční zaøízení",
       "nemocniční zařízení",
       "organizace zdravotnictví",
-      "zdravotní péče",
-      "zdravotní politika"
+      "zdravotní politika",
+      "zdravotní péče"
     ]
   },
   {
@@ -11431,10 +11695,11 @@
       "not_logged": 69
     },
     "temata": [
+      "nemocniční zaøízení",
       "nemocniční zařízení",
       "organizace zdravotnictví",
-      "zdravotní péče",
-      "zdravotní politika"
+      "zdravotní politika",
+      "zdravotní péče"
     ]
   },
   {
@@ -11450,10 +11715,11 @@
       "not_logged": 65
     },
     "temata": [
+      "nemocniční zaøízení",
       "nemocniční zařízení",
       "organizace zdravotnictví",
-      "zdravotní péče",
-      "zdravotní politika"
+      "zdravotní politika",
+      "zdravotní péče"
     ]
   },
   {
@@ -11469,10 +11735,11 @@
       "not_logged": 99
     },
     "temata": [
+      "nemocniční zaøízení",
       "nemocniční zařízení",
       "organizace zdravotnictví",
-      "zdravotní péče",
-      "zdravotní politika"
+      "zdravotní politika",
+      "zdravotní péče"
     ]
   },
   {
@@ -11488,10 +11755,11 @@
       "not_logged": 95
     },
     "temata": [
+      "nemocniční zaøízení",
       "nemocniční zařízení",
       "organizace zdravotnictví",
-      "zdravotní péče",
-      "zdravotní politika"
+      "zdravotní politika",
+      "zdravotní péče"
     ]
   },
   {
@@ -11507,10 +11775,11 @@
       "not_logged": 94
     },
     "temata": [
+      "nemocniční zaøízení",
       "nemocniční zařízení",
       "organizace zdravotnictví",
-      "zdravotní péče",
-      "zdravotní politika"
+      "zdravotní politika",
+      "zdravotní péče"
     ]
   },
   {
@@ -11526,10 +11795,11 @@
       "not_logged": 78
     },
     "temata": [
+      "nemocniční zaøízení",
       "nemocniční zařízení",
       "organizace zdravotnictví",
-      "zdravotní péče",
-      "zdravotní politika"
+      "zdravotní politika",
+      "zdravotní péče"
     ]
   },
   {
@@ -11559,10 +11829,11 @@
       "not_logged": 74
     },
     "temata": [
+      "nemocniční zaøízení",
       "nemocniční zařízení",
       "organizace zdravotnictví",
-      "zdravotní péče",
-      "zdravotní politika"
+      "zdravotní politika",
+      "zdravotní péče"
     ]
   },
   {
@@ -11578,10 +11849,11 @@
       "not_logged": 87
     },
     "temata": [
+      "nemocniční zaøízení",
       "nemocniční zařízení",
       "organizace zdravotnictví",
-      "zdravotní péče",
-      "zdravotní politika"
+      "zdravotní politika",
+      "zdravotní péče"
     ]
   },
   {
@@ -11597,10 +11869,11 @@
       "not_logged": 79
     },
     "temata": [
+      "nemocniční zaøízení",
       "nemocniční zařízení",
       "organizace zdravotnictví",
-      "zdravotní péče",
-      "zdravotní politika"
+      "zdravotní politika",
+      "zdravotní péče"
     ]
   },
   {
@@ -11616,10 +11889,11 @@
       "not_logged": 78
     },
     "temata": [
+      "nemocniční zaøízení",
       "nemocniční zařízení",
       "organizace zdravotnictví",
-      "zdravotní péče",
-      "zdravotní politika"
+      "zdravotní politika",
+      "zdravotní péče"
     ]
   },
   {
@@ -11635,10 +11909,11 @@
       "not_logged": 79
     },
     "temata": [
+      "nemocniční zaøízení",
       "nemocniční zařízení",
       "organizace zdravotnictví",
-      "zdravotní péče",
-      "zdravotní politika"
+      "zdravotní politika",
+      "zdravotní péče"
     ]
   },
   {
@@ -11654,10 +11929,11 @@
       "not_logged": 71
     },
     "temata": [
+      "nemocniční zaøízení",
       "nemocniční zařízení",
       "organizace zdravotnictví",
-      "zdravotní péče",
-      "zdravotní politika"
+      "zdravotní politika",
+      "zdravotní péče"
     ]
   },
   {
@@ -11673,10 +11949,11 @@
       "not_logged": 73
     },
     "temata": [
+      "nemocniční zaøízení",
       "nemocniční zařízení",
       "organizace zdravotnictví",
-      "zdravotní péče",
-      "zdravotní politika"
+      "zdravotní politika",
+      "zdravotní péče"
     ]
   },
   {
@@ -11692,10 +11969,11 @@
       "not_logged": 66
     },
     "temata": [
+      "nemocniční zaøízení",
       "nemocniční zařízení",
       "organizace zdravotnictví",
-      "zdravotní péče",
-      "zdravotní politika"
+      "zdravotní politika",
+      "zdravotní péče"
     ]
   },
   {
@@ -11744,6 +12022,7 @@
       "kontrola vývozu",
       "kulturní dědictví",
       "kulturní majetek",
+      "obchod s umėním",
       "obchod s uměním",
       "ochrana kulturního dědictví",
       "umělecké dílo"
@@ -11843,11 +12122,12 @@
       "not_logged": 59
     },
     "temata": [
+      "Charta lidských práv",
       "Listina základních práv a svobod",
       "Občan",
       "Státní správa a justice",
-      "Charta lidských práv",
       "lidská práva",
+      "policejní zadrení",
       "policejní zadržení",
       "trestní řízení",
       "vazba"
@@ -11866,12 +12146,14 @@
       "not_logged": 52
     },
     "temata": [
-      "Řád trestní",
-      "Vězeňství",
       "Státní správa a justice",
+      "Vėzeōství",
+      "Vězeňství",
       "trestní řízení",
       "vazba",
-      "zadržení"
+      "zadrení",
+      "zadržení",
+      "Řád trestní"
     ]
   },
   {
@@ -12171,6 +12453,7 @@
       "kontrola vývozu",
       "kulturní dědictví",
       "kulturní majetek",
+      "obchod s umėním",
       "obchod s uměním",
       "ochrana kulturního dědictví",
       "umělecké dílo"
@@ -12194,6 +12477,7 @@
       "kontrola vývozu",
       "kulturní dědictví",
       "kulturní majetek",
+      "obchod s umėním",
       "obchod s uměním",
       "ochrana kulturního dědictví",
       "umělecké dílo"
@@ -12217,6 +12501,7 @@
       "kontrola vývozu",
       "kulturní dědictví",
       "kulturní majetek",
+      "obchod s umėním",
       "obchod s uměním",
       "ochrana kulturního dědictví",
       "umělecké dílo"
@@ -12240,6 +12525,7 @@
       "kontrola vývozu",
       "kulturní dědictví",
       "kulturní majetek",
+      "obchod s umėním",
       "obchod s uměním",
       "ochrana kulturního dědictví",
       "umělecké dílo"
@@ -12263,6 +12549,7 @@
       "kontrola vývozu",
       "kulturní dědictví",
       "kulturní majetek",
+      "obchod s umėním",
       "obchod s uměním",
       "ochrana kulturního dědictví",
       "umělecké dílo"
@@ -12286,6 +12573,7 @@
       "kontrola vývozu",
       "kulturní dědictví",
       "kulturní majetek",
+      "obchod s umėním",
       "obchod s uměním",
       "ochrana kulturního dědictví",
       "umělecké dílo"
@@ -12309,6 +12597,7 @@
       "kontrola vývozu",
       "kulturní dědictví",
       "kulturní majetek",
+      "obchod s umėním",
       "obchod s uměním",
       "ochrana kulturního dědictví",
       "umělecké dílo"
@@ -12908,6 +13197,7 @@
     "temata": [
       "Armáda",
       "Irák",
+      "nemocniční zaøízení",
       "nemocniční zařízení",
       "vojenská spolupráce"
     ]
@@ -12927,6 +13217,7 @@
     "temata": [
       "Armáda",
       "Irák",
+      "nemocniční zaøízení",
       "nemocniční zařízení",
       "vojenská spolupráce"
     ]
@@ -12946,6 +13237,7 @@
     "temata": [
       "Armáda",
       "Irák",
+      "nemocniční zaøízení",
       "nemocniční zařízení",
       "vojenská spolupráce"
     ]
@@ -12965,6 +13257,7 @@
     "temata": [
       "Armáda",
       "Irák",
+      "nemocniční zaøízení",
       "nemocniční zařízení",
       "vojenská spolupráce"
     ]
@@ -12984,6 +13277,7 @@
     "temata": [
       "Armáda",
       "Irák",
+      "nemocniční zaøízení",
       "nemocniční zařízení",
       "vojenská spolupráce"
     ]
@@ -13031,14 +13325,15 @@
     "temata": [
       "Armáda",
       "Bosna a Hercegovina",
-      "Severoatlantická aliance /NATO/",
-      "Česká republika",
-      "nadnárodní ozbrojené síly",
       "NATO",
+      "Severoatlantická aliance /NATO/",
+      "nadnárodní ozbrojené síly",
       "rozpočet na obranu",
+      "udrování míru",
       "udržování míru",
       "vojenská spolupráce",
-      "vojska v zahraničí"
+      "vojska v zahraničí",
+      "Česká republika"
     ]
   },
   {
@@ -13056,14 +13351,15 @@
     "temata": [
       "Armáda",
       "Bosna a Hercegovina",
-      "Severoatlantická aliance /NATO/",
-      "Česká republika",
-      "nadnárodní ozbrojené síly",
       "NATO",
+      "Severoatlantická aliance /NATO/",
+      "nadnárodní ozbrojené síly",
       "rozpočet na obranu",
+      "udrování míru",
       "udržování míru",
       "vojenská spolupráce",
-      "vojska v zahraničí"
+      "vojska v zahraničí",
+      "Česká republika"
     ]
   },
   {
@@ -13079,16 +13375,19 @@
       "not_logged": 23
     },
     "temata": [
-      "Ochrana hospodářského a služebního tajemství",
       "Národní hospodářství",
       "Obrana a bezpečnost",
+      "Ochrana hospodáøského a sluebního tajemství",
+      "Ochrana hospodářského a služebního tajemství",
       "Pracovní síla",
       "Státní správa a justice",
       "Zdravotnictví",
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "průmyslové tajemství",
+      "prųmyslové tajemství",
       "služební tajemství",
       "státní tajemství",
       "veřejná bezpečnost"
@@ -13107,16 +13406,19 @@
       "not_logged": 19
     },
     "temata": [
-      "Ochrana hospodářského a služebního tajemství",
       "Národní hospodářství",
       "Obrana a bezpečnost",
+      "Ochrana hospodáøského a sluebního tajemství",
+      "Ochrana hospodářského a služebního tajemství",
       "Pracovní síla",
       "Státní správa a justice",
       "Zdravotnictví",
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "průmyslové tajemství",
+      "prųmyslové tajemství",
       "služební tajemství",
       "státní tajemství",
       "veřejná bezpečnost"
@@ -13135,16 +13437,19 @@
       "not_logged": 20
     },
     "temata": [
-      "Ochrana hospodářského a služebního tajemství",
       "Národní hospodářství",
       "Obrana a bezpečnost",
+      "Ochrana hospodáøského a sluebního tajemství",
+      "Ochrana hospodářského a služebního tajemství",
       "Pracovní síla",
       "Státní správa a justice",
       "Zdravotnictví",
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "průmyslové tajemství",
+      "prųmyslové tajemství",
       "služební tajemství",
       "státní tajemství",
       "veřejná bezpečnost"
@@ -13163,16 +13468,19 @@
       "not_logged": 20
     },
     "temata": [
-      "Ochrana hospodářského a služebního tajemství",
       "Národní hospodářství",
       "Obrana a bezpečnost",
+      "Ochrana hospodáøského a sluebního tajemství",
+      "Ochrana hospodářského a služebního tajemství",
       "Pracovní síla",
       "Státní správa a justice",
       "Zdravotnictví",
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "průmyslové tajemství",
+      "prųmyslové tajemství",
       "služební tajemství",
       "státní tajemství",
       "veřejná bezpečnost"
@@ -13191,16 +13499,19 @@
       "not_logged": 21
     },
     "temata": [
-      "Ochrana hospodářského a služebního tajemství",
       "Národní hospodářství",
       "Obrana a bezpečnost",
+      "Ochrana hospodáøského a sluebního tajemství",
+      "Ochrana hospodářského a služebního tajemství",
       "Pracovní síla",
       "Státní správa a justice",
       "Zdravotnictví",
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "průmyslové tajemství",
+      "prųmyslové tajemství",
       "služební tajemství",
       "státní tajemství",
       "veřejná bezpečnost"
@@ -13219,16 +13530,19 @@
       "not_logged": 21
     },
     "temata": [
-      "Ochrana hospodářského a služebního tajemství",
       "Národní hospodářství",
       "Obrana a bezpečnost",
+      "Ochrana hospodáøského a sluebního tajemství",
+      "Ochrana hospodářského a služebního tajemství",
       "Pracovní síla",
       "Státní správa a justice",
       "Zdravotnictví",
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "průmyslové tajemství",
+      "prųmyslové tajemství",
       "služební tajemství",
       "státní tajemství",
       "veřejná bezpečnost"
@@ -13247,16 +13561,19 @@
       "not_logged": 21
     },
     "temata": [
-      "Ochrana hospodářského a služebního tajemství",
       "Národní hospodářství",
       "Obrana a bezpečnost",
+      "Ochrana hospodáøského a sluebního tajemství",
+      "Ochrana hospodářského a služebního tajemství",
       "Pracovní síla",
       "Státní správa a justice",
       "Zdravotnictví",
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "průmyslové tajemství",
+      "prųmyslové tajemství",
       "služební tajemství",
       "státní tajemství",
       "veřejná bezpečnost"
@@ -13275,16 +13592,19 @@
       "not_logged": 21
     },
     "temata": [
-      "Ochrana hospodářského a služebního tajemství",
       "Národní hospodářství",
       "Obrana a bezpečnost",
+      "Ochrana hospodáøského a sluebního tajemství",
+      "Ochrana hospodářského a služebního tajemství",
       "Pracovní síla",
       "Státní správa a justice",
       "Zdravotnictví",
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "průmyslové tajemství",
+      "prųmyslové tajemství",
       "služební tajemství",
       "státní tajemství",
       "veřejná bezpečnost"
@@ -13303,16 +13623,19 @@
       "not_logged": 21
     },
     "temata": [
-      "Ochrana hospodářského a služebního tajemství",
       "Národní hospodářství",
       "Obrana a bezpečnost",
+      "Ochrana hospodáøského a sluebního tajemství",
+      "Ochrana hospodářského a služebního tajemství",
       "Pracovní síla",
       "Státní správa a justice",
       "Zdravotnictví",
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "průmyslové tajemství",
+      "prųmyslové tajemství",
       "služební tajemství",
       "státní tajemství",
       "veřejná bezpečnost"
@@ -13331,16 +13654,19 @@
       "not_logged": 21
     },
     "temata": [
-      "Ochrana hospodářského a služebního tajemství",
       "Národní hospodářství",
       "Obrana a bezpečnost",
+      "Ochrana hospodáøského a sluebního tajemství",
+      "Ochrana hospodářského a služebního tajemství",
       "Pracovní síla",
       "Státní správa a justice",
       "Zdravotnictví",
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "průmyslové tajemství",
+      "prųmyslové tajemství",
       "služební tajemství",
       "státní tajemství",
       "veřejná bezpečnost"
@@ -13359,16 +13685,19 @@
       "not_logged": 20
     },
     "temata": [
-      "Ochrana hospodářského a služebního tajemství",
       "Národní hospodářství",
       "Obrana a bezpečnost",
+      "Ochrana hospodáøského a sluebního tajemství",
+      "Ochrana hospodářského a služebního tajemství",
       "Pracovní síla",
       "Státní správa a justice",
       "Zdravotnictví",
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "průmyslové tajemství",
+      "prųmyslové tajemství",
       "služební tajemství",
       "státní tajemství",
       "veřejná bezpečnost"
@@ -13387,16 +13716,19 @@
       "not_logged": 23
     },
     "temata": [
-      "Ochrana hospodářského a služebního tajemství",
       "Národní hospodářství",
       "Obrana a bezpečnost",
+      "Ochrana hospodáøského a sluebního tajemství",
+      "Ochrana hospodářského a služebního tajemství",
       "Pracovní síla",
       "Státní správa a justice",
       "Zdravotnictví",
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "průmyslové tajemství",
+      "prųmyslové tajemství",
       "služební tajemství",
       "státní tajemství",
       "veřejná bezpečnost"
@@ -13415,16 +13747,19 @@
       "not_logged": 21
     },
     "temata": [
-      "Ochrana hospodářského a služebního tajemství",
       "Národní hospodářství",
       "Obrana a bezpečnost",
+      "Ochrana hospodáøského a sluebního tajemství",
+      "Ochrana hospodářského a služebního tajemství",
       "Pracovní síla",
       "Státní správa a justice",
       "Zdravotnictví",
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "průmyslové tajemství",
+      "prųmyslové tajemství",
       "služební tajemství",
       "státní tajemství",
       "veřejná bezpečnost"
@@ -13443,16 +13778,19 @@
       "not_logged": 21
     },
     "temata": [
-      "Ochrana hospodářského a služebního tajemství",
       "Národní hospodářství",
       "Obrana a bezpečnost",
+      "Ochrana hospodáøského a sluebního tajemství",
+      "Ochrana hospodářského a služebního tajemství",
       "Pracovní síla",
       "Státní správa a justice",
       "Zdravotnictví",
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "průmyslové tajemství",
+      "prųmyslové tajemství",
       "služební tajemství",
       "státní tajemství",
       "veřejná bezpečnost"
@@ -13471,16 +13809,19 @@
       "not_logged": 21
     },
     "temata": [
-      "Ochrana hospodářského a služebního tajemství",
       "Národní hospodářství",
       "Obrana a bezpečnost",
+      "Ochrana hospodáøského a sluebního tajemství",
+      "Ochrana hospodářského a služebního tajemství",
       "Pracovní síla",
       "Státní správa a justice",
       "Zdravotnictví",
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "průmyslové tajemství",
+      "prųmyslové tajemství",
       "služební tajemství",
       "státní tajemství",
       "veřejná bezpečnost"
@@ -13499,16 +13840,19 @@
       "not_logged": 23
     },
     "temata": [
-      "Ochrana hospodářského a služebního tajemství",
       "Národní hospodářství",
       "Obrana a bezpečnost",
+      "Ochrana hospodáøského a sluebního tajemství",
+      "Ochrana hospodářského a služebního tajemství",
       "Pracovní síla",
       "Státní správa a justice",
       "Zdravotnictví",
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "průmyslové tajemství",
+      "prųmyslové tajemství",
       "služební tajemství",
       "státní tajemství",
       "veřejná bezpečnost"
@@ -13527,16 +13871,19 @@
       "not_logged": 21
     },
     "temata": [
-      "Ochrana hospodářského a služebního tajemství",
       "Národní hospodářství",
       "Obrana a bezpečnost",
+      "Ochrana hospodáøského a sluebního tajemství",
+      "Ochrana hospodářského a služebního tajemství",
       "Pracovní síla",
       "Státní správa a justice",
       "Zdravotnictví",
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "průmyslové tajemství",
+      "prųmyslové tajemství",
       "služební tajemství",
       "státní tajemství",
       "veřejná bezpečnost"
@@ -13555,16 +13902,19 @@
       "not_logged": 20
     },
     "temata": [
-      "Ochrana hospodářského a služebního tajemství",
       "Národní hospodářství",
       "Obrana a bezpečnost",
+      "Ochrana hospodáøského a sluebního tajemství",
+      "Ochrana hospodářského a služebního tajemství",
       "Pracovní síla",
       "Státní správa a justice",
       "Zdravotnictví",
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "průmyslové tajemství",
+      "prųmyslové tajemství",
       "služební tajemství",
       "státní tajemství",
       "veřejná bezpečnost"
@@ -13583,16 +13933,19 @@
       "not_logged": 20
     },
     "temata": [
-      "Ochrana hospodářského a služebního tajemství",
       "Národní hospodářství",
       "Obrana a bezpečnost",
+      "Ochrana hospodáøského a sluebního tajemství",
+      "Ochrana hospodářského a služebního tajemství",
       "Pracovní síla",
       "Státní správa a justice",
       "Zdravotnictví",
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "průmyslové tajemství",
+      "prųmyslové tajemství",
       "služební tajemství",
       "státní tajemství",
       "veřejná bezpečnost"
@@ -13611,16 +13964,19 @@
       "not_logged": 20
     },
     "temata": [
-      "Ochrana hospodářského a služebního tajemství",
       "Národní hospodářství",
       "Obrana a bezpečnost",
+      "Ochrana hospodáøského a sluebního tajemství",
+      "Ochrana hospodářského a služebního tajemství",
       "Pracovní síla",
       "Státní správa a justice",
       "Zdravotnictví",
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "průmyslové tajemství",
+      "prųmyslové tajemství",
       "služební tajemství",
       "státní tajemství",
       "veřejná bezpečnost"
@@ -13639,16 +13995,19 @@
       "not_logged": 21
     },
     "temata": [
-      "Ochrana hospodářského a služebního tajemství",
       "Národní hospodářství",
       "Obrana a bezpečnost",
+      "Ochrana hospodáøského a sluebního tajemství",
+      "Ochrana hospodářského a služebního tajemství",
       "Pracovní síla",
       "Státní správa a justice",
       "Zdravotnictví",
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "průmyslové tajemství",
+      "prųmyslové tajemství",
       "služební tajemství",
       "státní tajemství",
       "veřejná bezpečnost"
@@ -13667,16 +14026,19 @@
       "not_logged": 20
     },
     "temata": [
-      "Ochrana hospodářského a služebního tajemství",
       "Národní hospodářství",
       "Obrana a bezpečnost",
+      "Ochrana hospodáøského a sluebního tajemství",
+      "Ochrana hospodářského a služebního tajemství",
       "Pracovní síla",
       "Státní správa a justice",
       "Zdravotnictví",
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "průmyslové tajemství",
+      "prųmyslové tajemství",
       "služební tajemství",
       "státní tajemství",
       "veřejná bezpečnost"
@@ -13695,16 +14057,19 @@
       "not_logged": 20
     },
     "temata": [
-      "Ochrana hospodářského a služebního tajemství",
       "Národní hospodářství",
       "Obrana a bezpečnost",
+      "Ochrana hospodáøského a sluebního tajemství",
+      "Ochrana hospodářského a služebního tajemství",
       "Pracovní síla",
       "Státní správa a justice",
       "Zdravotnictví",
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "průmyslové tajemství",
+      "prųmyslové tajemství",
       "služební tajemství",
       "státní tajemství",
       "veřejná bezpečnost"
@@ -13723,16 +14088,19 @@
       "not_logged": 20
     },
     "temata": [
-      "Ochrana hospodářského a služebního tajemství",
       "Národní hospodářství",
       "Obrana a bezpečnost",
+      "Ochrana hospodáøského a sluebního tajemství",
+      "Ochrana hospodářského a služebního tajemství",
       "Pracovní síla",
       "Státní správa a justice",
       "Zdravotnictví",
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "průmyslové tajemství",
+      "prųmyslové tajemství",
       "služební tajemství",
       "státní tajemství",
       "veřejná bezpečnost"
@@ -13751,16 +14119,19 @@
       "not_logged": 20
     },
     "temata": [
-      "Ochrana hospodářského a služebního tajemství",
       "Národní hospodářství",
       "Obrana a bezpečnost",
+      "Ochrana hospodáøského a sluebního tajemství",
+      "Ochrana hospodářského a služebního tajemství",
       "Pracovní síla",
       "Státní správa a justice",
       "Zdravotnictví",
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "průmyslové tajemství",
+      "prųmyslové tajemství",
       "služební tajemství",
       "státní tajemství",
       "veřejná bezpečnost"
@@ -13779,16 +14150,19 @@
       "not_logged": 20
     },
     "temata": [
-      "Ochrana hospodářského a služebního tajemství",
       "Národní hospodářství",
       "Obrana a bezpečnost",
+      "Ochrana hospodáøského a sluebního tajemství",
+      "Ochrana hospodářského a služebního tajemství",
       "Pracovní síla",
       "Státní správa a justice",
       "Zdravotnictví",
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "průmyslové tajemství",
+      "prųmyslové tajemství",
       "služební tajemství",
       "státní tajemství",
       "veřejná bezpečnost"
@@ -13807,16 +14181,19 @@
       "not_logged": 21
     },
     "temata": [
-      "Ochrana hospodářského a služebního tajemství",
       "Národní hospodářství",
       "Obrana a bezpečnost",
+      "Ochrana hospodáøského a sluebního tajemství",
+      "Ochrana hospodářského a služebního tajemství",
       "Pracovní síla",
       "Státní správa a justice",
       "Zdravotnictví",
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "průmyslové tajemství",
+      "prųmyslové tajemství",
       "služební tajemství",
       "státní tajemství",
       "veřejná bezpečnost"
@@ -13835,16 +14212,19 @@
       "not_logged": 20
     },
     "temata": [
-      "Ochrana hospodářského a služebního tajemství",
       "Národní hospodářství",
       "Obrana a bezpečnost",
+      "Ochrana hospodáøského a sluebního tajemství",
+      "Ochrana hospodářského a služebního tajemství",
       "Pracovní síla",
       "Státní správa a justice",
       "Zdravotnictví",
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "průmyslové tajemství",
+      "prųmyslové tajemství",
       "služební tajemství",
       "státní tajemství",
       "veřejná bezpečnost"
@@ -13863,16 +14243,19 @@
       "not_logged": 22
     },
     "temata": [
-      "Ochrana hospodářského a služebního tajemství",
       "Národní hospodářství",
       "Obrana a bezpečnost",
+      "Ochrana hospodáøského a sluebního tajemství",
+      "Ochrana hospodářského a služebního tajemství",
       "Pracovní síla",
       "Státní správa a justice",
       "Zdravotnictví",
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "průmyslové tajemství",
+      "prųmyslové tajemství",
       "služební tajemství",
       "státní tajemství",
       "veřejná bezpečnost"
@@ -13891,16 +14274,19 @@
       "not_logged": 23
     },
     "temata": [
-      "Ochrana hospodářského a služebního tajemství",
       "Národní hospodářství",
       "Obrana a bezpečnost",
+      "Ochrana hospodáøského a sluebního tajemství",
+      "Ochrana hospodářského a služebního tajemství",
       "Pracovní síla",
       "Státní správa a justice",
       "Zdravotnictví",
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "průmyslové tajemství",
+      "prųmyslové tajemství",
       "služební tajemství",
       "státní tajemství",
       "veřejná bezpečnost"
@@ -13919,16 +14305,19 @@
       "not_logged": 23
     },
     "temata": [
-      "Ochrana hospodářského a služebního tajemství",
       "Národní hospodářství",
       "Obrana a bezpečnost",
+      "Ochrana hospodáøského a sluebního tajemství",
+      "Ochrana hospodářského a služebního tajemství",
       "Pracovní síla",
       "Státní správa a justice",
       "Zdravotnictví",
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "průmyslové tajemství",
+      "prųmyslové tajemství",
       "služební tajemství",
       "státní tajemství",
       "veřejná bezpečnost"
@@ -13947,16 +14336,19 @@
       "not_logged": 22
     },
     "temata": [
-      "Ochrana hospodářského a služebního tajemství",
       "Národní hospodářství",
       "Obrana a bezpečnost",
+      "Ochrana hospodáøského a sluebního tajemství",
+      "Ochrana hospodářského a služebního tajemství",
       "Pracovní síla",
       "Státní správa a justice",
       "Zdravotnictví",
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "průmyslové tajemství",
+      "prųmyslové tajemství",
       "služební tajemství",
       "státní tajemství",
       "veřejná bezpečnost"
@@ -13975,16 +14367,19 @@
       "not_logged": 23
     },
     "temata": [
-      "Ochrana hospodářského a služebního tajemství",
       "Národní hospodářství",
       "Obrana a bezpečnost",
+      "Ochrana hospodáøského a sluebního tajemství",
+      "Ochrana hospodářského a služebního tajemství",
       "Pracovní síla",
       "Státní správa a justice",
       "Zdravotnictví",
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "průmyslové tajemství",
+      "prųmyslové tajemství",
       "služební tajemství",
       "státní tajemství",
       "veřejná bezpečnost"
@@ -14003,16 +14398,19 @@
       "not_logged": 23
     },
     "temata": [
-      "Ochrana hospodářského a služebního tajemství",
       "Národní hospodářství",
       "Obrana a bezpečnost",
+      "Ochrana hospodáøského a sluebního tajemství",
+      "Ochrana hospodářského a služebního tajemství",
       "Pracovní síla",
       "Státní správa a justice",
       "Zdravotnictví",
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "průmyslové tajemství",
+      "prųmyslové tajemství",
       "služební tajemství",
       "státní tajemství",
       "veřejná bezpečnost"
@@ -14031,16 +14429,19 @@
       "not_logged": 23
     },
     "temata": [
-      "Ochrana hospodářského a služebního tajemství",
       "Národní hospodářství",
       "Obrana a bezpečnost",
+      "Ochrana hospodáøského a sluebního tajemství",
+      "Ochrana hospodářského a služebního tajemství",
       "Pracovní síla",
       "Státní správa a justice",
       "Zdravotnictví",
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "průmyslové tajemství",
+      "prųmyslové tajemství",
       "služební tajemství",
       "státní tajemství",
       "veřejná bezpečnost"
@@ -14059,16 +14460,19 @@
       "not_logged": 23
     },
     "temata": [
-      "Ochrana hospodářského a služebního tajemství",
       "Národní hospodářství",
       "Obrana a bezpečnost",
+      "Ochrana hospodáøského a sluebního tajemství",
+      "Ochrana hospodářského a služebního tajemství",
       "Pracovní síla",
       "Státní správa a justice",
       "Zdravotnictví",
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "průmyslové tajemství",
+      "prųmyslové tajemství",
       "služební tajemství",
       "státní tajemství",
       "veřejná bezpečnost"
@@ -14087,16 +14491,19 @@
       "not_logged": 23
     },
     "temata": [
-      "Ochrana hospodářského a služebního tajemství",
       "Národní hospodářství",
       "Obrana a bezpečnost",
+      "Ochrana hospodáøského a sluebního tajemství",
+      "Ochrana hospodářského a služebního tajemství",
       "Pracovní síla",
       "Státní správa a justice",
       "Zdravotnictví",
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "průmyslové tajemství",
+      "prųmyslové tajemství",
       "služební tajemství",
       "státní tajemství",
       "veřejná bezpečnost"
@@ -14115,16 +14522,19 @@
       "not_logged": 22
     },
     "temata": [
-      "Ochrana hospodářského a služebního tajemství",
       "Národní hospodářství",
       "Obrana a bezpečnost",
+      "Ochrana hospodáøského a sluebního tajemství",
+      "Ochrana hospodářského a služebního tajemství",
       "Pracovní síla",
       "Státní správa a justice",
       "Zdravotnictví",
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "průmyslové tajemství",
+      "prųmyslové tajemství",
       "služební tajemství",
       "státní tajemství",
       "veřejná bezpečnost"
@@ -14143,16 +14553,19 @@
       "not_logged": 22
     },
     "temata": [
-      "Ochrana hospodářského a služebního tajemství",
       "Národní hospodářství",
       "Obrana a bezpečnost",
+      "Ochrana hospodáøského a sluebního tajemství",
+      "Ochrana hospodářského a služebního tajemství",
       "Pracovní síla",
       "Státní správa a justice",
       "Zdravotnictví",
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "průmyslové tajemství",
+      "prųmyslové tajemství",
       "služební tajemství",
       "státní tajemství",
       "veřejná bezpečnost"
@@ -14171,16 +14584,19 @@
       "not_logged": 22
     },
     "temata": [
-      "Ochrana hospodářského a služebního tajemství",
       "Národní hospodářství",
       "Obrana a bezpečnost",
+      "Ochrana hospodáøského a sluebního tajemství",
+      "Ochrana hospodářského a služebního tajemství",
       "Pracovní síla",
       "Státní správa a justice",
       "Zdravotnictví",
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "průmyslové tajemství",
+      "prųmyslové tajemství",
       "služební tajemství",
       "státní tajemství",
       "veřejná bezpečnost"
@@ -14199,16 +14615,19 @@
       "not_logged": 21
     },
     "temata": [
-      "Ochrana hospodářského a služebního tajemství",
       "Národní hospodářství",
       "Obrana a bezpečnost",
+      "Ochrana hospodáøského a sluebního tajemství",
+      "Ochrana hospodářského a služebního tajemství",
       "Pracovní síla",
       "Státní správa a justice",
       "Zdravotnictví",
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "průmyslové tajemství",
+      "prųmyslové tajemství",
       "služební tajemství",
       "státní tajemství",
       "veřejná bezpečnost"
@@ -14227,16 +14646,19 @@
       "not_logged": 21
     },
     "temata": [
-      "Ochrana hospodářského a služebního tajemství",
       "Národní hospodářství",
       "Obrana a bezpečnost",
+      "Ochrana hospodáøského a sluebního tajemství",
+      "Ochrana hospodářského a služebního tajemství",
       "Pracovní síla",
       "Státní správa a justice",
       "Zdravotnictví",
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "průmyslové tajemství",
+      "prųmyslové tajemství",
       "služební tajemství",
       "státní tajemství",
       "veřejná bezpečnost"
@@ -14255,16 +14677,19 @@
       "not_logged": 20
     },
     "temata": [
-      "Ochrana hospodářského a služebního tajemství",
       "Národní hospodářství",
       "Obrana a bezpečnost",
+      "Ochrana hospodáøského a sluebního tajemství",
+      "Ochrana hospodářského a služebního tajemství",
       "Pracovní síla",
       "Státní správa a justice",
       "Zdravotnictví",
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "průmyslové tajemství",
+      "prųmyslové tajemství",
       "služební tajemství",
       "státní tajemství",
       "veřejná bezpečnost"
@@ -14283,16 +14708,19 @@
       "not_logged": 20
     },
     "temata": [
-      "Ochrana hospodářského a služebního tajemství",
       "Národní hospodářství",
       "Obrana a bezpečnost",
+      "Ochrana hospodáøského a sluebního tajemství",
+      "Ochrana hospodářského a služebního tajemství",
       "Pracovní síla",
       "Státní správa a justice",
       "Zdravotnictví",
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "průmyslové tajemství",
+      "prųmyslové tajemství",
       "služební tajemství",
       "státní tajemství",
       "veřejná bezpečnost"
@@ -14311,16 +14739,19 @@
       "not_logged": 20
     },
     "temata": [
-      "Ochrana hospodářského a služebního tajemství",
       "Národní hospodářství",
       "Obrana a bezpečnost",
+      "Ochrana hospodáøského a sluebního tajemství",
+      "Ochrana hospodářského a služebního tajemství",
       "Pracovní síla",
       "Státní správa a justice",
       "Zdravotnictví",
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "průmyslové tajemství",
+      "prųmyslové tajemství",
       "služební tajemství",
       "státní tajemství",
       "veřejná bezpečnost"
@@ -14339,16 +14770,19 @@
       "not_logged": 20
     },
     "temata": [
-      "Ochrana hospodářského a služebního tajemství",
       "Národní hospodářství",
       "Obrana a bezpečnost",
+      "Ochrana hospodáøského a sluebního tajemství",
+      "Ochrana hospodářského a služebního tajemství",
       "Pracovní síla",
       "Státní správa a justice",
       "Zdravotnictví",
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "průmyslové tajemství",
+      "prųmyslové tajemství",
       "služební tajemství",
       "státní tajemství",
       "veřejná bezpečnost"
@@ -14367,16 +14801,19 @@
       "not_logged": 20
     },
     "temata": [
-      "Ochrana hospodářského a služebního tajemství",
       "Národní hospodářství",
       "Obrana a bezpečnost",
+      "Ochrana hospodáøského a sluebního tajemství",
+      "Ochrana hospodářského a služebního tajemství",
       "Pracovní síla",
       "Státní správa a justice",
       "Zdravotnictví",
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "průmyslové tajemství",
+      "prųmyslové tajemství",
       "služební tajemství",
       "státní tajemství",
       "veřejná bezpečnost"
@@ -14395,16 +14832,19 @@
       "not_logged": 20
     },
     "temata": [
-      "Ochrana hospodářského a služebního tajemství",
       "Národní hospodářství",
       "Obrana a bezpečnost",
+      "Ochrana hospodáøského a sluebního tajemství",
+      "Ochrana hospodářského a služebního tajemství",
       "Pracovní síla",
       "Státní správa a justice",
       "Zdravotnictví",
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "průmyslové tajemství",
+      "prųmyslové tajemství",
       "služební tajemství",
       "státní tajemství",
       "veřejná bezpečnost"
@@ -14423,16 +14863,19 @@
       "not_logged": 28
     },
     "temata": [
-      "Ochrana hospodářského a služebního tajemství",
       "Národní hospodářství",
       "Obrana a bezpečnost",
+      "Ochrana hospodáøského a sluebního tajemství",
+      "Ochrana hospodářského a služebního tajemství",
       "Pracovní síla",
       "Státní správa a justice",
       "Zdravotnictví",
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "průmyslové tajemství",
+      "prųmyslové tajemství",
       "služební tajemství",
       "státní tajemství",
       "veřejná bezpečnost"
@@ -14451,16 +14894,19 @@
       "not_logged": 27
     },
     "temata": [
-      "Ochrana hospodářského a služebního tajemství",
       "Národní hospodářství",
       "Obrana a bezpečnost",
+      "Ochrana hospodáøského a sluebního tajemství",
+      "Ochrana hospodářského a služebního tajemství",
       "Pracovní síla",
       "Státní správa a justice",
       "Zdravotnictví",
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "průmyslové tajemství",
+      "prųmyslové tajemství",
       "služební tajemství",
       "státní tajemství",
       "veřejná bezpečnost"
@@ -14479,16 +14925,19 @@
       "not_logged": 27
     },
     "temata": [
-      "Ochrana hospodářského a služebního tajemství",
       "Národní hospodářství",
       "Obrana a bezpečnost",
+      "Ochrana hospodáøského a sluebního tajemství",
+      "Ochrana hospodářského a služebního tajemství",
       "Pracovní síla",
       "Státní správa a justice",
       "Zdravotnictví",
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "průmyslové tajemství",
+      "prųmyslové tajemství",
       "služební tajemství",
       "státní tajemství",
       "veřejná bezpečnost"
@@ -14507,16 +14956,19 @@
       "not_logged": 27
     },
     "temata": [
-      "Ochrana hospodářského a služebního tajemství",
       "Národní hospodářství",
       "Obrana a bezpečnost",
+      "Ochrana hospodáøského a sluebního tajemství",
+      "Ochrana hospodářského a služebního tajemství",
       "Pracovní síla",
       "Státní správa a justice",
       "Zdravotnictví",
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "průmyslové tajemství",
+      "prųmyslové tajemství",
       "služební tajemství",
       "státní tajemství",
       "veřejná bezpečnost"
@@ -14535,16 +14987,19 @@
       "not_logged": 27
     },
     "temata": [
-      "Ochrana hospodářského a služebního tajemství",
       "Národní hospodářství",
       "Obrana a bezpečnost",
+      "Ochrana hospodáøského a sluebního tajemství",
+      "Ochrana hospodářského a služebního tajemství",
       "Pracovní síla",
       "Státní správa a justice",
       "Zdravotnictví",
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "průmyslové tajemství",
+      "prųmyslové tajemství",
       "služební tajemství",
       "státní tajemství",
       "veřejná bezpečnost"
@@ -14563,16 +15018,19 @@
       "not_logged": 26
     },
     "temata": [
-      "Ochrana hospodářského a služebního tajemství",
       "Národní hospodářství",
       "Obrana a bezpečnost",
+      "Ochrana hospodáøského a sluebního tajemství",
+      "Ochrana hospodářského a služebního tajemství",
       "Pracovní síla",
       "Státní správa a justice",
       "Zdravotnictví",
       "důvěrná informace",
       "ochrana údajů",
+      "omezené íøení informací",
       "omezené šíření informací",
       "průmyslové tajemství",
+      "prųmyslové tajemství",
       "služební tajemství",
       "státní tajemství",
       "veřejná bezpečnost"
@@ -14591,10 +15049,14 @@
       "not_logged": 50
     },
     "temata": [
+      "Správa obcí a měst",
       "Sprįva obcķ a mģst",
+      "místní orgány státní správy",
+      "místní volby",
       "mķstnķ orgįny stįtnķ sprįvy",
       "mķstnķ volby",
       "organizace voleb",
+      "zástupce místního a regionálního zastupitelského orgánu",
       "zįstupce mķstnķho a regionįlnķho zastupitelského orgįnu"
     ]
   },
@@ -14611,10 +15073,14 @@
       "not_logged": 42
     },
     "temata": [
+      "Správa obcí a měst",
       "Sprįva obcķ a mģst",
+      "místní orgány státní správy",
+      "místní volby",
       "mķstnķ orgįny stįtnķ sprįvy",
       "mķstnķ volby",
       "organizace voleb",
+      "zástupce místního a regionálního zastupitelského orgánu",
       "zįstupce mķstnķho a regionįlnķho zastupitelského orgįnu"
     ]
   },
@@ -14631,10 +15097,14 @@
       "not_logged": 43
     },
     "temata": [
+      "Správa obcí a měst",
       "Sprįva obcķ a mģst",
+      "místní orgány státní správy",
+      "místní volby",
       "mķstnķ orgįny stįtnķ sprįvy",
       "mķstnķ volby",
       "organizace voleb",
+      "zástupce místního a regionálního zastupitelského orgánu",
       "zįstupce mķstnķho a regionįlnķho zastupitelského orgįnu"
     ]
   },
@@ -14651,10 +15121,14 @@
       "not_logged": 41
     },
     "temata": [
+      "Správa obcí a měst",
       "Sprįva obcķ a mģst",
+      "místní orgány státní správy",
+      "místní volby",
       "mķstnķ orgįny stįtnķ sprįvy",
       "mķstnķ volby",
       "organizace voleb",
+      "zástupce místního a regionálního zastupitelského orgánu",
       "zįstupce mķstnķho a regionįlnķho zastupitelského orgįnu"
     ]
   },
@@ -14671,10 +15145,14 @@
       "not_logged": 41
     },
     "temata": [
+      "Správa obcí a měst",
       "Sprįva obcķ a mģst",
+      "místní orgány státní správy",
+      "místní volby",
       "mķstnķ orgįny stįtnķ sprįvy",
       "mķstnķ volby",
       "organizace voleb",
+      "zástupce místního a regionálního zastupitelského orgánu",
       "zįstupce mķstnķho a regionįlnķho zastupitelského orgįnu"
     ]
   },
@@ -14691,10 +15169,14 @@
       "not_logged": 42
     },
     "temata": [
+      "Správa obcí a měst",
       "Sprįva obcķ a mģst",
+      "místní orgány státní správy",
+      "místní volby",
       "mķstnķ orgįny stįtnķ sprįvy",
       "mķstnķ volby",
       "organizace voleb",
+      "zástupce místního a regionálního zastupitelského orgánu",
       "zįstupce mķstnķho a regionįlnķho zastupitelského orgįnu"
     ]
   },
@@ -14711,10 +15193,14 @@
       "not_logged": 41
     },
     "temata": [
+      "Správa obcí a měst",
       "Sprįva obcķ a mģst",
+      "místní orgány státní správy",
+      "místní volby",
       "mķstnķ orgįny stįtnķ sprįvy",
       "mķstnķ volby",
       "organizace voleb",
+      "zástupce místního a regionálního zastupitelského orgánu",
       "zįstupce mķstnķho a regionįlnķho zastupitelského orgįnu"
     ]
   },
@@ -14731,10 +15217,14 @@
       "not_logged": 40
     },
     "temata": [
+      "Správa obcí a měst",
       "Sprįva obcķ a mģst",
+      "místní orgány státní správy",
+      "místní volby",
       "mķstnķ orgįny stįtnķ sprįvy",
       "mķstnķ volby",
       "organizace voleb",
+      "zástupce místního a regionálního zastupitelského orgánu",
       "zįstupce mķstnķho a regionįlnķho zastupitelského orgįnu"
     ]
   },
@@ -14751,10 +15241,14 @@
       "not_logged": 41
     },
     "temata": [
+      "Správa obcí a měst",
       "Sprįva obcķ a mģst",
+      "místní orgány státní správy",
+      "místní volby",
       "mķstnķ orgįny stįtnķ sprįvy",
       "mķstnķ volby",
       "organizace voleb",
+      "zástupce místního a regionálního zastupitelského orgánu",
       "zįstupce mķstnķho a regionįlnķho zastupitelského orgįnu"
     ]
   },
@@ -14771,10 +15265,14 @@
       "not_logged": 40
     },
     "temata": [
+      "Správa obcí a měst",
       "Sprįva obcķ a mģst",
+      "místní orgány státní správy",
+      "místní volby",
       "mķstnķ orgįny stįtnķ sprįvy",
       "mķstnķ volby",
       "organizace voleb",
+      "zástupce místního a regionálního zastupitelského orgánu",
       "zįstupce mķstnķho a regionįlnķho zastupitelského orgįnu"
     ]
   },
@@ -14791,10 +15289,14 @@
       "not_logged": 40
     },
     "temata": [
+      "Správa obcí a měst",
       "Sprįva obcķ a mģst",
+      "místní orgány státní správy",
+      "místní volby",
       "mķstnķ orgįny stįtnķ sprįvy",
       "mķstnķ volby",
       "organizace voleb",
+      "zástupce místního a regionálního zastupitelského orgánu",
       "zįstupce mķstnķho a regionįlnķho zastupitelského orgįnu"
     ]
   },
@@ -14811,10 +15313,14 @@
       "not_logged": 41
     },
     "temata": [
+      "Správa obcí a měst",
       "Sprįva obcķ a mģst",
+      "místní orgány státní správy",
+      "místní volby",
       "mķstnķ orgįny stįtnķ sprįvy",
       "mķstnķ volby",
       "organizace voleb",
+      "zástupce místního a regionálního zastupitelského orgánu",
       "zįstupce mķstnķho a regionįlnķho zastupitelského orgįnu"
     ]
   },
@@ -14831,10 +15337,14 @@
       "not_logged": 39
     },
     "temata": [
+      "Správa obcí a měst",
       "Sprįva obcķ a mģst",
+      "místní orgány státní správy",
+      "místní volby",
       "mķstnķ orgįny stįtnķ sprįvy",
       "mķstnķ volby",
       "organizace voleb",
+      "zástupce místního a regionálního zastupitelského orgánu",
       "zįstupce mķstnķho a regionįlnķho zastupitelského orgįnu"
     ]
   },
@@ -14851,10 +15361,14 @@
       "not_logged": 40
     },
     "temata": [
+      "Správa obcí a měst",
       "Sprįva obcķ a mģst",
+      "místní orgány státní správy",
+      "místní volby",
       "mķstnķ orgįny stįtnķ sprįvy",
       "mķstnķ volby",
       "organizace voleb",
+      "zástupce místního a regionálního zastupitelského orgánu",
       "zįstupce mķstnķho a regionįlnķho zastupitelského orgįnu"
     ]
   },
@@ -14871,10 +15385,14 @@
       "not_logged": 39
     },
     "temata": [
+      "Správa obcí a měst",
       "Sprįva obcķ a mģst",
+      "místní orgány státní správy",
+      "místní volby",
       "mķstnķ orgįny stįtnķ sprįvy",
       "mķstnķ volby",
       "organizace voleb",
+      "zástupce místního a regionálního zastupitelského orgánu",
       "zįstupce mķstnķho a regionįlnķho zastupitelského orgįnu"
     ]
   },
@@ -14891,10 +15409,14 @@
       "not_logged": 40
     },
     "temata": [
+      "Správa obcí a měst",
       "Sprįva obcķ a mģst",
+      "místní orgány státní správy",
+      "místní volby",
       "mķstnķ orgįny stįtnķ sprįvy",
       "mķstnķ volby",
       "organizace voleb",
+      "zástupce místního a regionálního zastupitelského orgánu",
       "zįstupce mķstnķho a regionįlnķho zastupitelského orgįnu"
     ]
   },
@@ -14911,10 +15433,14 @@
       "not_logged": 40
     },
     "temata": [
+      "Správa obcí a měst",
       "Sprįva obcķ a mģst",
+      "místní orgány státní správy",
+      "místní volby",
       "mķstnķ orgįny stįtnķ sprįvy",
       "mķstnķ volby",
       "organizace voleb",
+      "zástupce místního a regionálního zastupitelského orgánu",
       "zįstupce mķstnķho a regionįlnķho zastupitelského orgįnu"
     ]
   },
@@ -14931,10 +15457,14 @@
       "not_logged": 42
     },
     "temata": [
+      "Správa obcí a měst",
       "Sprįva obcķ a mģst",
+      "místní orgány státní správy",
+      "místní volby",
       "mķstnķ orgįny stįtnķ sprįvy",
       "mķstnķ volby",
       "organizace voleb",
+      "zástupce místního a regionálního zastupitelského orgánu",
       "zįstupce mķstnķho a regionįlnķho zastupitelského orgįnu"
     ]
   },
@@ -14951,10 +15481,14 @@
       "not_logged": 41
     },
     "temata": [
+      "Správa obcí a měst",
       "Sprįva obcķ a mģst",
+      "místní orgány státní správy",
+      "místní volby",
       "mķstnķ orgįny stįtnķ sprįvy",
       "mķstnķ volby",
       "organizace voleb",
+      "zástupce místního a regionálního zastupitelského orgánu",
       "zįstupce mķstnķho a regionįlnķho zastupitelského orgįnu"
     ]
   },
@@ -14971,10 +15505,14 @@
       "not_logged": 44
     },
     "temata": [
+      "Správa obcí a měst",
       "Sprįva obcķ a mģst",
+      "místní orgány státní správy",
+      "místní volby",
       "mķstnķ orgįny stįtnķ sprįvy",
       "mķstnķ volby",
       "organizace voleb",
+      "zástupce místního a regionálního zastupitelského orgánu",
       "zįstupce mķstnķho a regionįlnķho zastupitelského orgįnu"
     ]
   },
@@ -14991,10 +15529,14 @@
       "not_logged": 41
     },
     "temata": [
+      "Správa obcí a měst",
       "Sprįva obcķ a mģst",
+      "místní orgány státní správy",
+      "místní volby",
       "mķstnķ orgįny stįtnķ sprįvy",
       "mķstnķ volby",
       "organizace voleb",
+      "zástupce místního a regionálního zastupitelského orgánu",
       "zįstupce mķstnķho a regionįlnķho zastupitelského orgįnu"
     ]
   },
@@ -15011,10 +15553,14 @@
       "not_logged": 42
     },
     "temata": [
+      "Správa obcí a měst",
       "Sprįva obcķ a mģst",
+      "místní orgány státní správy",
+      "místní volby",
       "mķstnķ orgįny stįtnķ sprįvy",
       "mķstnķ volby",
       "organizace voleb",
+      "zástupce místního a regionálního zastupitelského orgánu",
       "zįstupce mķstnķho a regionįlnķho zastupitelského orgįnu"
     ]
   },
@@ -15031,10 +15577,14 @@
       "not_logged": 43
     },
     "temata": [
+      "Správa obcí a měst",
       "Sprįva obcķ a mģst",
+      "místní orgány státní správy",
+      "místní volby",
       "mķstnķ orgįny stįtnķ sprįvy",
       "mķstnķ volby",
       "organizace voleb",
+      "zástupce místního a regionálního zastupitelského orgánu",
       "zįstupce mķstnķho a regionįlnķho zastupitelského orgįnu"
     ]
   },
@@ -15051,10 +15601,14 @@
       "not_logged": 55
     },
     "temata": [
+      "Správa obcí a měst",
       "Sprįva obcķ a mģst",
+      "místní orgány státní správy",
+      "místní volby",
       "mķstnķ orgįny stįtnķ sprįvy",
       "mķstnķ volby",
       "organizace voleb",
+      "zástupce místního a regionálního zastupitelského orgánu",
       "zįstupce mķstnķho a regionįlnķho zastupitelského orgįnu"
     ]
   },
@@ -15071,10 +15625,14 @@
       "not_logged": 52
     },
     "temata": [
+      "Správa obcí a měst",
       "Sprįva obcķ a mģst",
+      "místní orgány státní správy",
+      "místní volby",
       "mķstnķ orgįny stįtnķ sprįvy",
       "mķstnķ volby",
       "organizace voleb",
+      "zástupce místního a regionálního zastupitelského orgánu",
       "zįstupce mķstnķho a regionįlnķho zastupitelského orgįnu"
     ]
   },
@@ -15091,10 +15649,14 @@
       "not_logged": 51
     },
     "temata": [
+      "Správa obcí a měst",
       "Sprįva obcķ a mģst",
+      "místní orgány státní správy",
+      "místní volby",
       "mķstnķ orgįny stįtnķ sprįvy",
       "mķstnķ volby",
       "organizace voleb",
+      "zástupce místního a regionálního zastupitelského orgánu",
       "zįstupce mķstnķho a regionįlnķho zastupitelského orgįnu"
     ]
   },
@@ -15111,10 +15673,14 @@
       "not_logged": 51
     },
     "temata": [
+      "Správa obcí a měst",
       "Sprįva obcķ a mģst",
+      "místní orgány státní správy",
+      "místní volby",
       "mķstnķ orgįny stįtnķ sprįvy",
       "mķstnķ volby",
       "organizace voleb",
+      "zástupce místního a regionálního zastupitelského orgánu",
       "zįstupce mķstnķho a regionįlnķho zastupitelského orgįnu"
     ]
   },
@@ -15131,10 +15697,14 @@
       "not_logged": 49
     },
     "temata": [
+      "Správa obcí a měst",
       "Sprįva obcķ a mģst",
+      "místní orgány státní správy",
+      "místní volby",
       "mķstnķ orgįny stįtnķ sprįvy",
       "mķstnķ volby",
       "organizace voleb",
+      "zástupce místního a regionálního zastupitelského orgánu",
       "zįstupce mķstnķho a regionįlnķho zastupitelského orgįnu"
     ]
   },
@@ -15151,10 +15721,14 @@
       "not_logged": 50
     },
     "temata": [
+      "Správa obcí a měst",
       "Sprįva obcķ a mģst",
+      "místní orgány státní správy",
+      "místní volby",
       "mķstnķ orgįny stįtnķ sprįvy",
       "mķstnķ volby",
       "organizace voleb",
+      "zástupce místního a regionálního zastupitelského orgánu",
       "zįstupce mķstnķho a regionįlnķho zastupitelského orgįnu"
     ]
   },
@@ -15171,10 +15745,14 @@
       "not_logged": 49
     },
     "temata": [
+      "Správa obcí a měst",
       "Sprįva obcķ a mģst",
+      "místní orgány státní správy",
+      "místní volby",
       "mķstnķ orgįny stįtnķ sprįvy",
       "mķstnķ volby",
       "organizace voleb",
+      "zástupce místního a regionálního zastupitelského orgánu",
       "zįstupce mķstnķho a regionįlnķho zastupitelského orgįnu"
     ]
   },
@@ -15191,10 +15769,14 @@
       "not_logged": 49
     },
     "temata": [
+      "Správa obcí a měst",
       "Sprįva obcķ a mģst",
+      "místní orgány státní správy",
+      "místní volby",
       "mķstnķ orgįny stįtnķ sprįvy",
       "mķstnķ volby",
       "organizace voleb",
+      "zástupce místního a regionálního zastupitelského orgánu",
       "zįstupce mķstnķho a regionįlnķho zastupitelského orgįnu"
     ]
   },
@@ -15211,10 +15793,14 @@
       "not_logged": 48
     },
     "temata": [
+      "Správa obcí a měst",
       "Sprįva obcķ a mģst",
+      "místní orgány státní správy",
+      "místní volby",
       "mķstnķ orgįny stįtnķ sprįvy",
       "mķstnķ volby",
       "organizace voleb",
+      "zástupce místního a regionálního zastupitelského orgánu",
       "zįstupce mķstnķho a regionįlnķho zastupitelského orgįnu"
     ]
   },
@@ -15231,10 +15817,14 @@
       "not_logged": 55
     },
     "temata": [
+      "Správa obcí a měst",
       "Sprįva obcķ a mģst",
+      "místní orgány státní správy",
+      "místní volby",
       "mķstnķ orgįny stįtnķ sprįvy",
       "mķstnķ volby",
       "organizace voleb",
+      "zástupce místního a regionálního zastupitelského orgánu",
       "zįstupce mķstnķho a regionįlnķho zastupitelského orgįnu"
     ]
   },
@@ -15251,10 +15841,14 @@
       "not_logged": 54
     },
     "temata": [
+      "Správa obcí a měst",
       "Sprįva obcķ a mģst",
+      "místní orgány státní správy",
+      "místní volby",
       "mķstnķ orgįny stįtnķ sprįvy",
       "mķstnķ volby",
       "organizace voleb",
+      "zástupce místního a regionálního zastupitelského orgánu",
       "zįstupce mķstnķho a regionįlnķho zastupitelského orgįnu"
     ]
   },
@@ -15271,10 +15865,14 @@
       "not_logged": 50
     },
     "temata": [
+      "Správa obcí a měst",
       "Sprįva obcķ a mģst",
+      "místní orgány státní správy",
+      "místní volby",
       "mķstnķ orgįny stįtnķ sprįvy",
       "mķstnķ volby",
       "organizace voleb",
+      "zástupce místního a regionálního zastupitelského orgánu",
       "zįstupce mķstnķho a regionįlnķho zastupitelského orgįnu"
     ]
   },
@@ -15291,10 +15889,14 @@
       "not_logged": 48
     },
     "temata": [
+      "Správa obcí a měst",
       "Sprįva obcķ a mģst",
+      "místní orgány státní správy",
+      "místní volby",
       "mķstnķ orgįny stįtnķ sprįvy",
       "mķstnķ volby",
       "organizace voleb",
+      "zástupce místního a regionálního zastupitelského orgánu",
       "zįstupce mķstnķho a regionįlnķho zastupitelského orgįnu"
     ]
   },
@@ -15311,10 +15913,14 @@
       "not_logged": 47
     },
     "temata": [
+      "Správa obcí a měst",
       "Sprįva obcķ a mģst",
+      "místní orgány státní správy",
+      "místní volby",
       "mķstnķ orgįny stįtnķ sprįvy",
       "mķstnķ volby",
       "organizace voleb",
+      "zástupce místního a regionálního zastupitelského orgánu",
       "zįstupce mķstnķho a regionįlnķho zastupitelského orgįnu"
     ]
   },
@@ -15331,10 +15937,14 @@
       "not_logged": 45
     },
     "temata": [
+      "Správa obcí a měst",
       "Sprįva obcķ a mģst",
+      "místní orgány státní správy",
+      "místní volby",
       "mķstnķ orgįny stįtnķ sprįvy",
       "mķstnķ volby",
       "organizace voleb",
+      "zástupce místního a regionálního zastupitelského orgánu",
       "zįstupce mķstnķho a regionįlnķho zastupitelského orgįnu"
     ]
   },
@@ -15351,10 +15961,14 @@
       "not_logged": 41
     },
     "temata": [
+      "Správa obcí a měst",
       "Sprįva obcķ a mģst",
+      "místní orgány státní správy",
+      "místní volby",
       "mķstnķ orgįny stįtnķ sprįvy",
       "mķstnķ volby",
       "organizace voleb",
+      "zástupce místního a regionálního zastupitelského orgánu",
       "zįstupce mķstnķho a regionįlnķho zastupitelského orgįnu"
     ]
   },
@@ -18035,11 +18649,12 @@
       "not_logged": 33
     },
     "temata": [
+      "Charta lidských práv",
       "Listina základních práv a svobod",
       "Občan",
       "Státní správa a justice",
-      "Charta lidských práv",
       "lidská práva",
+      "policejní zadrení",
       "policejní zadržení",
       "trestní řízení",
       "vazba"
@@ -18072,12 +18687,14 @@
       "not_logged": 33
     },
     "temata": [
-      "Řád trestní",
-      "Vězeňství",
       "Státní správa a justice",
+      "Vėzeōství",
+      "Vězeňství",
       "trestní řízení",
       "vazba",
-      "zadržení"
+      "zadrení",
+      "zadržení",
+      "Řád trestní"
     ]
   },
   {
@@ -18093,12 +18710,14 @@
       "not_logged": 43
     },
     "temata": [
-      "Řád trestní",
-      "Vězeňství",
       "Státní správa a justice",
+      "Vėzeōství",
+      "Vězeňství",
       "trestní řízení",
       "vazba",
-      "zadržení"
+      "zadrení",
+      "zadržení",
+      "Řád trestní"
     ]
   },
   {
@@ -18114,12 +18733,14 @@
       "not_logged": 42
     },
     "temata": [
-      "Řád trestní",
-      "Vězeňství",
       "Státní správa a justice",
+      "Vėzeōství",
+      "Vězeňství",
       "trestní řízení",
       "vazba",
-      "zadržení"
+      "zadrení",
+      "zadržení",
+      "Řád trestní"
     ]
   },
   {
@@ -18135,12 +18756,14 @@
       "not_logged": 41
     },
     "temata": [
-      "Řád trestní",
-      "Vězeňství",
       "Státní správa a justice",
+      "Vėzeōství",
+      "Vězeňství",
       "trestní řízení",
       "vazba",
-      "zadržení"
+      "zadrení",
+      "zadržení",
+      "Řád trestní"
     ]
   },
   {
@@ -18156,12 +18779,14 @@
       "not_logged": 40
     },
     "temata": [
-      "Řád trestní",
-      "Vězeňství",
       "Státní správa a justice",
+      "Vėzeōství",
+      "Vězeňství",
       "trestní řízení",
       "vazba",
-      "zadržení"
+      "zadrení",
+      "zadržení",
+      "Řád trestní"
     ]
   },
   {
@@ -18177,12 +18802,14 @@
       "not_logged": 36
     },
     "temata": [
-      "Řád trestní",
-      "Vězeňství",
       "Státní správa a justice",
+      "Vėzeōství",
+      "Vězeňství",
       "trestní řízení",
       "vazba",
-      "zadržení"
+      "zadrení",
+      "zadržení",
+      "Řád trestní"
     ]
   },
   {
@@ -18526,10 +19153,11 @@
       "not_logged": 90
     },
     "temata": [
-      "Česká republika",
       "Evropská investiční banka",
       "finanční spolupráce",
-      "úvěry EIB"
+      "úvėry EIB",
+      "úvěry EIB",
+      "Česká republika"
     ]
   },
   {
@@ -18545,10 +19173,11 @@
       "not_logged": 62
     },
     "temata": [
-      "Česká republika",
       "Evropská investiční banka",
       "finanční spolupráce",
-      "úvěry EIB"
+      "úvėry EIB",
+      "úvěry EIB",
+      "Česká republika"
     ]
   },
   {
@@ -18622,11 +19251,12 @@
       "not_logged": 75
     },
     "temata": [
+      "Charta lidských práv",
       "Listina základních práv a svobod",
       "Občan",
       "Státní správa a justice",
-      "Charta lidských práv",
       "lidská práva",
+      "policejní zadrení",
       "policejní zadržení",
       "trestní řízení",
       "vazba"
@@ -18645,15 +19275,16 @@
       "not_logged": 72
     },
     "temata": [
-      "bývalý Jižní Jemen",
-      "Československo",
       "Laos",
-      "mezinárodní spolupráce",
       "Mongolsko",
       "Rakousko",
       "Severní Korea",
       "Vietnam",
-      "vypovědění smlouvy"
+      "bývalý Jižní Jemen",
+      "mezinárodní spolupráce",
+      "vypovėdėní smlouvy",
+      "vypovědění smlouvy",
+      "Československo"
     ]
   },
   {
