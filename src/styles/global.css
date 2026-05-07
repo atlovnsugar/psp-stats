@@ -803,7 +803,9 @@ select option:checked { /* V některých prohlížečích lze stylovat */
   /* Změna: Místo left: 0; right: 0; zarovnáme vlevo podle inputu a nastavíme šířku */
   left: 0; /* Zarovnává levý okraj seznamu s levým okrajem vstupního pole */
   /* right: 0; <- Toto odstraníme */ 
-  width: 100%; /* Nebo nastav konkrétní šířku v pixelech, např. width: 300px; */
+  width: max-content; 
+  min-width: 200px; /* Stejná šířka jako má input */
+  max-width: 350px;/* Nebo nastav konkrétní šířku v pixelech, např. width: 300px; */
   /* max-width: 400px; <- Volitelně: omezení maximální šířky */
   /* min-width: 200px; <- Volitelně: zajištění minimální šířky */
   z-index: 1000; /* Zajistí, že bude nad ostatními prvky */
