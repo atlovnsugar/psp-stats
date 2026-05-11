@@ -1,1 +1,130 @@
-[]
+﻿[
+  {
+    "party_id": "ČMUS",
+    "mps_count": 18,
+    "avg_attendance": 49.49,
+    "unity_score": 0.926,
+    "total_eligible_votes": 62430,
+    "total_attended": 30898
+  },
+  {
+    "party_id": "cssd",
+    "mps_count": 27,
+    "avg_attendance": 49.03,
+    "unity_score": 0.93,
+    "total_eligible_votes": 106428,
+    "total_attended": 52186
+  },
+  {
+    "party_id": "HSD-SMS",
+    "mps_count": 7,
+    "avg_attendance": 39.08,
+    "unity_score": 0.98,
+    "total_eligible_votes": 5509,
+    "total_attended": 2153
+  },
+  {
+    "party_id": "kdu-csl",
+    "mps_count": 24,
+    "avg_attendance": 63.8,
+    "unity_score": 0.93,
+    "total_eligible_votes": 95501,
+    "total_attended": 60926
+  },
+  {
+    "party_id": "LB",
+    "mps_count": 36,
+    "avg_attendance": 58.19,
+    "unity_score": 0.946,
+    "total_eligible_votes": 127401,
+    "total_attended": 74132
+  },
+  {
+    "party_id": "LSU",
+    "mps_count": 16,
+    "avg_attendance": 48.47,
+    "unity_score": 0.912,
+    "total_eligible_votes": 24239,
+    "total_attended": 11749
+  },
+  {
+    "party_id": "ods",
+    "mps_count": 76,
+    "avg_attendance": 64.76,
+    "unity_score": 0.938,
+    "total_eligible_votes": 340711,
+    "total_attended": 220646
+  },
+  {
+    "party_id": "KDS",
+    "mps_count": 11,
+    "avg_attendance": 65.94,
+    "unity_score": 0.955,
+    "total_eligible_votes": 41550,
+    "total_attended": 27398
+  },
+  {
+    "party_id": "oda",
+    "mps_count": 17,
+    "avg_attendance": 54.65,
+    "unity_score": 0.936,
+    "total_eligible_votes": 82315,
+    "total_attended": 44982
+  },
+  {
+    "party_id": "LSNS",
+    "mps_count": 10,
+    "avg_attendance": 40.42,
+    "unity_score": 0.947,
+    "total_eligible_votes": 22959,
+    "total_attended": 9281
+  },
+  {
+    "party_id": "spr-rsc",
+    "mps_count": 8,
+    "avg_attendance": 35.73,
+    "unity_score": 0.99,
+    "total_eligible_votes": 32285,
+    "total_attended": 11537
+  },
+  {
+    "party_id": "kscm",
+    "mps_count": 10,
+    "avg_attendance": 62.69,
+    "unity_score": 0.954,
+    "total_eligible_votes": 48400,
+    "total_attended": 30344
+  },
+  {
+    "party_id": "ČMSS",
+    "mps_count": 1,
+    "avg_attendance": 55.31,
+    "unity_score": null,
+    "total_eligible_votes": 1929,
+    "total_attended": 1067
+  },
+  {
+    "party_id": "Nezařazení",
+    "mps_count": 24,
+    "avg_attendance": 47.2,
+    "unity_score": 0.895,
+    "total_eligible_votes": 37025,
+    "total_attended": 17477
+  },
+  {
+    "party_id": "KDS1",
+    "mps_count": 5,
+    "avg_attendance": 64.59,
+    "unity_score": 0.963,
+    "total_eligible_votes": 3550,
+    "total_attended": 2293
+  },
+  {
+    "party_id": "ONH",
+    "mps_count": 6,
+    "avg_attendance": 23.68,
+    "unity_score": 0.965,
+    "total_eligible_votes": 2568,
+    "total_attended": 608
+  }
+]

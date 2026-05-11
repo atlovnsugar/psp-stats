@@ -1,4 +1,371 @@
-[
+﻿[
+  {
+    "id": 77031,
+    "date": "2021-07-28",
+    "title": "Ověřovatelé 113. schůze",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 83,
+      "no": 0,
+      "abstain": 6,
+      "absent": 83,
+      "not_logged": 28
+    },
+    "temata": []
+  },
+  {
+    "id": 77032,
+    "date": "2021-07-28",
+    "title": "Pořad 113. schůze",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 96,
+      "no": 0,
+      "abstain": 2,
+      "absent": 84,
+      "not_logged": 18
+    },
+    "temata": []
+  },
+  {
+    "id": 77033,
+    "date": "2021-07-28",
+    "title": "Vládní návrh zákona, kterým se mění zákon č. 247/2014 Sb., o poskytová",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 105,
+      "no": 0,
+      "abstain": 5,
+      "absent": 83,
+      "not_logged": 7
+    },
+    "temata": [
+      "inflace",
+      "práva dítěte",
+      "rodinné právo",
+      "sociální dávky",
+      "vyživovací povinnost"
+    ]
+  },
+  {
+    "id": 77034,
+    "date": "2021-07-28",
+    "title": "Vládní návrh zákona, kterým se mění zákon č. 247/2014 Sb., o poskytová",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 99,
+      "no": 0,
+      "abstain": 11,
+      "absent": 83,
+      "not_logged": 7
+    },
+    "temata": [
+      "inflace",
+      "práva dítěte",
+      "rodinné právo",
+      "sociální dávky",
+      "vyživovací povinnost"
+    ]
+  },
+  {
+    "id": 77035,
+    "date": "2021-07-28",
+    "title": "Vládní návrh zákona, kterým se mění zákon č. 247/2014 Sb., o poskytová",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 105,
+      "no": 0,
+      "abstain": 5,
+      "absent": 83,
+      "not_logged": 7
+    },
+    "temata": [
+      "dítě",
+      "hlídání dětí",
+      "mateřská škola",
+      "neformální výuka",
+      "předškolní výchova",
+      "rodinná politika",
+      "služba ve veřejném zájmu",
+      "sociální služby"
+    ]
+  },
+  {
+    "id": 77036,
+    "date": "2021-07-28",
+    "title": "Návrh poslanců Aleny Gajdůškové, Jana Chvojky, Kateřiny Valachové, Rom",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 94,
+      "no": 0,
+      "abstain": 13,
+      "absent": 84,
+      "not_logged": 9
+    },
+    "temata": []
+  },
+  {
+    "id": 77037,
+    "date": "2021-07-28",
+    "title": "Návrh poslanců Aleny Gajdůškové, Jana Chvojky, Kateřiny Valachové, Rom",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 94,
+      "no": 0,
+      "abstain": 15,
+      "absent": 84,
+      "not_logged": 7
+    },
+    "temata": []
+  },
+  {
+    "id": 77038,
+    "date": "2021-07-28",
+    "title": "Návrh poslanců Aleny Gajdůškové, Jana Chvojky, Kateřiny Valachové, Rom",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 104,
+      "no": 0,
+      "abstain": 5,
+      "absent": 84,
+      "not_logged": 7
+    },
+    "temata": []
+  },
+  {
+    "id": 77039,
+    "date": "2021-07-28",
+    "title": "Návrh poslanců Aleny Gajdůškové, Jana Chvojky, Kateřiny Valachové, Rom",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 99,
+      "no": 0,
+      "abstain": 9,
+      "absent": 84,
+      "not_logged": 8
+    },
+    "temata": []
+  },
+  {
+    "id": 77040,
+    "date": "2021-07-28",
+    "title": "Návrh poslanců Aleny Gajdůškové, Jana Chvojky, Kateřiny Valachové, Rom",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 105,
+      "no": 0,
+      "abstain": 4,
+      "absent": 84,
+      "not_logged": 7
+    },
+    "temata": [
+      "ošetřovatelská péče",
+      "otcovská dovolená",
+      "péče o postižené osoby",
+      "sociální dávky",
+      "zdravotní pojištění"
+    ]
+  },
+  {
+    "id": 77041,
+    "date": "2021-07-28",
+    "title": "Vládní návrh zákona, kterým se mění zákon č. 359/1999 Sb., o sociálně-",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 65,
+      "no": 15,
+      "abstain": 29,
+      "absent": 84,
+      "not_logged": 7
+    },
+    "temata": [
+      "inflace",
+      "práva dítěte",
+      "rodinné právo",
+      "sociální dávky",
+      "vyživovací povinnost"
+    ]
+  },
+  {
+    "id": 77042,
+    "date": "2021-07-28",
+    "title": "Ověřovatelé 114. schůze",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 66,
+      "no": 5,
+      "abstain": 39,
+      "absent": 86,
+      "not_logged": 4
+    },
+    "temata": []
+  },
+  {
+    "id": 77043,
+    "date": "2021-07-28",
+    "title": "Pořad 114. schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 53,
+      "no": 22,
+      "abstain": 34,
+      "absent": 86,
+      "not_logged": 5
+    },
+    "temata": []
+  },
+  {
+    "id": 77044,
+    "date": "2021-07-28",
+    "title": "Pořad 114. schůze",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 71,
+      "no": 24,
+      "abstain": 6,
+      "absent": 86,
+      "not_logged": 13
+    },
+    "temata": []
+  },
+  {
+    "id": 77045,
+    "date": "2021-07-28",
+    "title": "Pořad 114. schůze",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 85,
+      "no": 6,
+      "abstain": 7,
+      "absent": 87,
+      "not_logged": 15
+    },
+    "temata": []
+  },
+  {
+    "id": 77046,
+    "date": "2021-07-28",
+    "title": "114. schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 26,
+      "no": 28,
+      "abstain": 46,
+      "absent": 87,
+      "not_logged": 13
+    },
+    "temata": []
+  },
+  {
+    "id": 77047,
+    "date": "2021-07-28",
+    "title": "114. schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 32,
+      "no": 26,
+      "abstain": 42,
+      "absent": 86,
+      "not_logged": 14
+    },
+    "temata": []
+  },
+  {
+    "id": 77048,
+    "date": "2021-07-30",
+    "title": "Ověřovatelé 115. schůze",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 83,
+      "no": 0,
+      "abstain": 9,
+      "absent": 74,
+      "not_logged": 34
+    },
+    "temata": []
+  },
+  {
+    "id": 77049,
+    "date": "2021-07-30",
+    "title": "Pořad 115. schůze",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 99,
+      "no": 0,
+      "abstain": 8,
+      "absent": 73,
+      "not_logged": 20
+    },
+    "temata": []
+  },
+  {
+    "id": 77050,
+    "date": "2021-07-30",
+    "title": "Vládní návrh zákona, kterým se mění zákon č. 155/1995 Sb., o důchodové",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 14,
+      "no": 6,
+      "abstain": 100,
+      "absent": 73,
+      "not_logged": 7
+    },
+    "temata": [
+      "důchodový plán",
+      "sociální dávky"
+    ]
+  },
+  {
+    "id": 77051,
+    "date": "2021-07-30",
+    "title": "Vládní návrh zákona, kterým se mění zákon č. 155/1995 Sb., o důchodové",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 72,
+      "no": 1,
+      "abstain": 48,
+      "absent": 73,
+      "not_logged": 6
+    },
+    "temata": [
+      "důchodový plán",
+      "sociální dávky"
+    ]
+  },
+  {
+    "id": 77052,
+    "date": "2021-07-30",
+    "title": "Vládní návrh zákona, kterým se mění zákon č. 155/1995 Sb., o důchodové",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 33,
+      "no": 5,
+      "abstain": 84,
+      "absent": 73,
+      "not_logged": 5
+    },
+    "temata": [
+      "důchodový plán",
+      "sociální dávky"
+    ]
+  },
+  {
+    "id": 77053,
+    "date": "2021-07-30",
+    "title": "Vládní návrh zákona, kterým se mění zákon č. 155/1995 Sb., o důchodové",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 47,
+      "no": 6,
+      "abstain": 70,
+      "absent": 73,
+      "not_logged": 4
+    },
+    "temata": [
+      "důchodový plán",
+      "sociální dávky"
+    ]
+  },
   {
     "id": 77054,
     "date": "2021-07-30",
@@ -270,9 +637,7 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
-      "kmenová buōka",
-      "transplantace orgánů",
-      "transplantace orgánų"
+      "transplantace orgánů"
     ]
   },
   {
@@ -290,9 +655,7 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
-      "kmenová buōka",
-      "transplantace orgánů",
-      "transplantace orgánų"
+      "transplantace orgánů"
     ]
   },
   {
@@ -310,9 +673,7 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
-      "kmenová buōka",
-      "transplantace orgánů",
-      "transplantace orgánų"
+      "transplantace orgánů"
     ]
   },
   {
@@ -330,9 +691,7 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
-      "kmenová buōka",
-      "transplantace orgánů",
-      "transplantace orgánų"
+      "transplantace orgánů"
     ]
   },
   {
@@ -350,9 +709,7 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
-      "kmenová buōka",
-      "transplantace orgánů",
-      "transplantace orgánų"
+      "transplantace orgánů"
     ]
   },
   {
@@ -370,9 +727,7 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
-      "kmenová buōka",
-      "transplantace orgánů",
-      "transplantace orgánų"
+      "transplantace orgánů"
     ]
   },
   {
@@ -390,9 +745,7 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
-      "kmenová buōka",
-      "transplantace orgánů",
-      "transplantace orgánų"
+      "transplantace orgánů"
     ]
   },
   {
@@ -410,9 +763,7 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
-      "kmenová buōka",
-      "transplantace orgánů",
-      "transplantace orgánų"
+      "transplantace orgánů"
     ]
   },
   {
@@ -430,9 +781,7 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
-      "kmenová buōka",
-      "transplantace orgánů",
-      "transplantace orgánų"
+      "transplantace orgánů"
     ]
   },
   {
@@ -450,9 +799,7 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
-      "kmenová buōka",
-      "transplantace orgánů",
-      "transplantace orgánų"
+      "transplantace orgánů"
     ]
   },
   {
@@ -470,9 +817,7 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
-      "kmenová buōka",
-      "transplantace orgánů",
-      "transplantace orgánų"
+      "transplantace orgánů"
     ]
   },
   {
@@ -490,9 +835,7 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
-      "kmenová buōka",
-      "transplantace orgánů",
-      "transplantace orgánų"
+      "transplantace orgánů"
     ]
   },
   {
@@ -510,9 +853,7 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
-      "kmenová buōka",
-      "transplantace orgánů",
-      "transplantace orgánų"
+      "transplantace orgánů"
     ]
   },
   {
@@ -530,9 +871,7 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
-      "kmenová buōka",
-      "transplantace orgánů",
-      "transplantace orgánų"
+      "transplantace orgánů"
     ]
   },
   {
@@ -550,9 +889,7 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
-      "kmenová buōka",
-      "transplantace orgánů",
-      "transplantace orgánų"
+      "transplantace orgánů"
     ]
   },
   {
@@ -570,9 +907,7 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
-      "kmenová buōka",
-      "transplantace orgánů",
-      "transplantace orgánų"
+      "transplantace orgánů"
     ]
   },
   {
@@ -590,9 +925,7 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
-      "kmenová buōka",
-      "transplantace orgánů",
-      "transplantace orgánų"
+      "transplantace orgánů"
     ]
   },
   {
@@ -610,9 +943,7 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
-      "kmenová buōka",
-      "transplantace orgánů",
-      "transplantace orgánų"
+      "transplantace orgánů"
     ]
   },
   {
@@ -630,9 +961,7 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
-      "kmenová buōka",
-      "transplantace orgánů",
-      "transplantace orgánų"
+      "transplantace orgánů"
     ]
   },
   {
@@ -650,9 +979,7 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
-      "kmenová buōka",
-      "transplantace orgánů",
-      "transplantace orgánų"
+      "transplantace orgánů"
     ]
   },
   {
@@ -670,9 +997,7 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
-      "kmenová buōka",
-      "transplantace orgánů",
-      "transplantace orgánų"
+      "transplantace orgánů"
     ]
   },
   {
@@ -690,9 +1015,7 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
-      "kmenová buōka",
-      "transplantace orgánů",
-      "transplantace orgánų"
+      "transplantace orgánů"
     ]
   },
   {
@@ -710,9 +1033,7 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
-      "kmenová buōka",
-      "transplantace orgánů",
-      "transplantace orgánų"
+      "transplantace orgánů"
     ]
   },
   {
@@ -730,9 +1051,7 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
-      "kmenová buōka",
-      "transplantace orgánů",
-      "transplantace orgánų"
+      "transplantace orgánů"
     ]
   },
   {
@@ -750,9 +1069,7 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
-      "kmenová buōka",
-      "transplantace orgánů",
-      "transplantace orgánų"
+      "transplantace orgánů"
     ]
   },
   {
@@ -770,9 +1087,7 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
-      "kmenová buōka",
-      "transplantace orgánů",
-      "transplantace orgánų"
+      "transplantace orgánů"
     ]
   },
   {
@@ -790,9 +1105,7 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
-      "kmenová buōka",
-      "transplantace orgánů",
-      "transplantace orgánų"
+      "transplantace orgánů"
     ]
   },
   {
@@ -810,9 +1123,7 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
-      "kmenová buōka",
-      "transplantace orgánů",
-      "transplantace orgánų"
+      "transplantace orgánů"
     ]
   },
   {
@@ -830,9 +1141,7 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
-      "kmenová buōka",
-      "transplantace orgánů",
-      "transplantace orgánų"
+      "transplantace orgánů"
     ]
   },
   {
@@ -850,9 +1159,7 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
-      "kmenová buōka",
-      "transplantace orgánů",
-      "transplantace orgánų"
+      "transplantace orgánů"
     ]
   },
   {
@@ -870,9 +1177,7 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
-      "kmenová buōka",
-      "transplantace orgánů",
-      "transplantace orgánų"
+      "transplantace orgánů"
     ]
   },
   {
@@ -890,9 +1195,7 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
-      "kmenová buōka",
-      "transplantace orgánů",
-      "transplantace orgánų"
+      "transplantace orgánů"
     ]
   },
   {
@@ -910,9 +1213,7 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
-      "kmenová buōka",
-      "transplantace orgánů",
-      "transplantace orgánų"
+      "transplantace orgánů"
     ]
   },
   {
@@ -930,9 +1231,7 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
-      "kmenová buōka",
-      "transplantace orgánů",
-      "transplantace orgánų"
+      "transplantace orgánů"
     ]
   },
   {
@@ -950,9 +1249,7 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
-      "kmenová buōka",
-      "transplantace orgánů",
-      "transplantace orgánų"
+      "transplantace orgánů"
     ]
   },
   {
@@ -970,9 +1267,7 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
-      "kmenová buōka",
-      "transplantace orgánů",
-      "transplantace orgánų"
+      "transplantace orgánů"
     ]
   },
   {
@@ -990,9 +1285,7 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
-      "kmenová buōka",
-      "transplantace orgánů",
-      "transplantace orgánų"
+      "transplantace orgánů"
     ]
   },
   {
@@ -1010,9 +1303,7 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
-      "kmenová buōka",
-      "transplantace orgánů",
-      "transplantace orgánų"
+      "transplantace orgánů"
     ]
   },
   {
@@ -1030,9 +1321,7 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
-      "kmenová buōka",
-      "transplantace orgánů",
-      "transplantace orgánų"
+      "transplantace orgánů"
     ]
   },
   {
@@ -1050,9 +1339,7 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
-      "kmenová buōka",
-      "transplantace orgánů",
-      "transplantace orgánų"
+      "transplantace orgánů"
     ]
   },
   {
@@ -1070,9 +1357,7 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
-      "kmenová buōka",
-      "transplantace orgánů",
-      "transplantace orgánų"
+      "transplantace orgánů"
     ]
   },
   {
@@ -1090,9 +1375,7 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
-      "kmenová buōka",
-      "transplantace orgánů",
-      "transplantace orgánų"
+      "transplantace orgánů"
     ]
   },
   {
@@ -1110,9 +1393,7 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
-      "kmenová buōka",
-      "transplantace orgánů",
-      "transplantace orgánų"
+      "transplantace orgánů"
     ]
   },
   {
@@ -1130,9 +1411,7 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
-      "kmenová buōka",
-      "transplantace orgánů",
-      "transplantace orgánų"
+      "transplantace orgánů"
     ]
   },
   {
@@ -1150,9 +1429,7 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
-      "kmenová buōka",
-      "transplantace orgánů",
-      "transplantace orgánų"
+      "transplantace orgánů"
     ]
   },
   {
@@ -1170,9 +1447,7 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
-      "kmenová buōka",
-      "transplantace orgánů",
-      "transplantace orgánų"
+      "transplantace orgánů"
     ]
   },
   {
@@ -1190,9 +1465,7 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
-      "kmenová buōka",
-      "transplantace orgánů",
-      "transplantace orgánų"
+      "transplantace orgánů"
     ]
   },
   {
@@ -1210,9 +1483,7 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
-      "kmenová buōka",
-      "transplantace orgánů",
-      "transplantace orgánų"
+      "transplantace orgánů"
     ]
   },
   {
@@ -1230,9 +1501,7 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
-      "kmenová buōka",
-      "transplantace orgánů",
-      "transplantace orgánų"
+      "transplantace orgánů"
     ]
   },
   {
@@ -1250,9 +1519,7 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
-      "kmenová buōka",
-      "transplantace orgánů",
-      "transplantace orgánų"
+      "transplantace orgánů"
     ]
   },
   {
@@ -1270,9 +1537,7 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
-      "kmenová buōka",
-      "transplantace orgánů",
-      "transplantace orgánų"
+      "transplantace orgánů"
     ]
   },
   {
@@ -1288,19 +1553,31 @@
       "not_logged": 8
     },
     "temata": [
-      "ochrana dítěte",
       "ochrana dķtģte",
-      "oputėné dítė",
       "oputģné dķtģ",
-      "práva dítěte",
-      "právo na spravedlnost",
       "prįva dķtģte",
       "prįvo na spravedlnost",
       "sirotek",
-      "sociální politika",
-      "sociální práva",
       "sociįlnķ politika",
       "sociįlnķ prįva"
+    ]
+  },
+  {
+    "id": 77123,
+    "date": "2021-08-06",
+    "title": "Vládní návrh zákona, kterým se mění zákon č. 359/1999 Sb., o sociálně-",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 76,
+      "no": 0,
+      "abstain": 37,
+      "absent": 79,
+      "not_logged": 8
+    },
+    "temata": [
+      "bioetika",
+      "kmenová buňka",
+      "transplantace orgánů"
     ]
   },
   {
@@ -1760,11 +2037,9 @@
     },
     "temata": [
       "daò z pøidané hodnoty",
-      "daň z přidané hodnoty",
       "dovoz",
       "elektronický obchod",
-      "pøibližování legislativy",
-      "přibližování legislativy"
+      "pøibližování legislativy"
     ]
   },
   {
@@ -1781,17 +2056,12 @@
     },
     "temata": [
       "akvakultura",
-      "biologická diverzita",
       "biologickį diverzita",
-      "invazní druhy",
       "invaznķ druhy",
-      "kontrolní moc",
       "kontrolnķ moc",
-      "rostlinná říše",
       "rostlinnį ųķe",
       "seznam",
-      "ivočinį ųķe",
-      "živočišná říše"
+      "ivočinį ųķe"
     ]
   },
   {
@@ -1813,7 +2083,6 @@
       "energetické právo",
       "obchodní zprostředkovatel",
       "plynárenský průmysl",
-      "plynárenský prųmysl",
       "výroba energie"
     ]
   },
@@ -1859,7 +2128,6 @@
       "energetické právo",
       "obchodní zprostředkovatel",
       "plynárenský průmysl",
-      "plynárenský prųmysl",
       "výroba energie"
     ]
   },
@@ -1876,25 +2144,16 @@
       "not_logged": 21
     },
     "temata": [
-      "farmaceutické náklady",
       "farmaceutické nįklady",
-      "farmaceutický výrobek",
       "farmaceutickż vżrobek",
       "pojistné",
       "pojiovna",
-      "pojišťovna",
       "veobecné zdravotnķ pojitģnķ",
-      "výdaje na zdraví",
-      "všeobecné zdravotní pojištění",
       "vżdaje na zdravķ",
-      "zdravotnická služba",
       "zdravotnickį sluba",
-      "zdravotní pojištění",
-      "zdravotní politika",
-      "zdravotní péče",
+      "zdravotnķ péče",
       "zdravotnķ pojitģnķ",
       "zdravotnķ politika",
-      "zdravotnķ péče",
       "zubnķ lékaųstvķ"
     ]
   },
@@ -2012,7 +2271,6 @@
       "naléhavá pomoc",
       "ochrana proti požáru",
       "polovojenské síly",
-      "signalizační zaøízení",
       "signalizační zařízení",
       "sociální zařízení"
     ]
@@ -2033,7 +2291,6 @@
       "naléhavá pomoc",
       "ochrana proti požáru",
       "polovojenské síly",
-      "signalizační zaøízení",
       "signalizační zařízení",
       "sociální zařízení"
     ]
@@ -2054,7 +2311,6 @@
       "naléhavá pomoc",
       "ochrana proti požáru",
       "polovojenské síly",
-      "signalizační zaøízení",
       "signalizační zařízení",
       "sociální zařízení"
     ]
@@ -2075,7 +2331,6 @@
       "naléhavá pomoc",
       "ochrana proti požáru",
       "polovojenské síly",
-      "signalizační zaøízení",
       "signalizační zařízení",
       "sociální zařízení"
     ]
@@ -2096,7 +2351,6 @@
       "naléhavá pomoc",
       "ochrana proti požáru",
       "polovojenské síly",
-      "signalizační zaøízení",
       "signalizační zařízení",
       "sociální zařízení"
     ]
@@ -2117,7 +2371,6 @@
       "naléhavá pomoc",
       "ochrana proti požáru",
       "polovojenské síly",
-      "signalizační zaøízení",
       "signalizační zařízení",
       "sociální zařízení"
     ]
@@ -2137,7 +2390,6 @@
     "temata": [
       "ministerstvo",
       "státní symbol",
-      "úøední razítko",
       "úřední dokument",
       "úřední razítko"
     ]
@@ -2158,7 +2410,6 @@
       "naléhavá pomoc",
       "ochrana proti požáru",
       "polovojenské síly",
-      "signalizační zaøízení",
       "signalizační zařízení",
       "sociální zařízení"
     ]
@@ -2179,7 +2430,6 @@
       "naléhavá pomoc",
       "ochrana proti požáru",
       "polovojenské síly",
-      "signalizační zaøízení",
       "signalizační zařízení",
       "sociální zařízení"
     ]
@@ -2200,7 +2450,26 @@
       "naléhavá pomoc",
       "ochrana proti požáru",
       "polovojenské síly",
-      "signalizační zaøízení",
+      "signalizační zařízení",
+      "sociální zařízení"
+    ]
+  },
+  {
+    "id": 77178,
+    "date": "2021-09-15",
+    "title": "Novela z. o požární ochraně",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 135,
+      "no": 0,
+      "abstain": 23,
+      "absent": 22,
+      "not_logged": 20
+    },
+    "temata": [
+      "naléhavá pomoc",
+      "ochrana proti požáru",
+      "polovojenské síly",
       "signalizační zařízení",
       "sociální zařízení"
     ]
@@ -2221,7 +2490,6 @@
       "naléhavá pomoc",
       "ochrana proti požáru",
       "polovojenské síly",
-      "signalizační zaøízení",
       "signalizační zařízení",
       "sociální zařízení"
     ]
@@ -2242,7 +2510,6 @@
       "naléhavá pomoc",
       "ochrana proti požáru",
       "polovojenské síly",
-      "signalizační zaøízení",
       "signalizační zařízení",
       "sociální zařízení"
     ]
@@ -2263,7 +2530,6 @@
       "naléhavá pomoc",
       "ochrana proti požáru",
       "polovojenské síly",
-      "signalizační zaøízení",
       "signalizační zařízení",
       "sociální zařízení"
     ]
@@ -2284,7 +2550,6 @@
       "naléhavá pomoc",
       "ochrana proti požáru",
       "polovojenské síly",
-      "signalizační zaøízení",
       "signalizační zařízení",
       "sociální zařízení"
     ]
@@ -2305,7 +2570,6 @@
       "naléhavá pomoc",
       "ochrana proti požáru",
       "polovojenské síly",
-      "signalizační zaøízení",
       "signalizační zařízení",
       "sociální zařízení"
     ]
@@ -2326,7 +2590,6 @@
       "naléhavá pomoc",
       "ochrana proti požáru",
       "polovojenské síly",
-      "signalizační zaøízení",
       "signalizační zařízení",
       "sociální zařízení"
     ]
@@ -2347,7 +2610,6 @@
       "naléhavá pomoc",
       "ochrana proti požáru",
       "polovojenské síly",
-      "signalizační zaøízení",
       "signalizační zařízení",
       "sociální zařízení"
     ]
@@ -2368,7 +2630,6 @@
       "ochrana soukromí",
       "odborná kvalifikace",
       "ohňostroj",
-      "ohōostroj",
       "orgány veřejné správy",
       "osobní údaje",
       "správní delikt",
@@ -2392,7 +2653,6 @@
       "naléhavá pomoc",
       "ochrana proti požáru",
       "polovojenské síly",
-      "signalizační zaøízení",
       "signalizační zařízení",
       "sociální zařízení"
     ]
@@ -2413,7 +2673,6 @@
       "naléhavá pomoc",
       "ochrana proti požáru",
       "polovojenské síly",
-      "signalizační zaøízení",
       "signalizační zařízení",
       "sociální zařízení"
     ]
@@ -2434,7 +2693,6 @@
       "naléhavá pomoc",
       "ochrana proti požáru",
       "polovojenské síly",
-      "signalizační zaøízení",
       "signalizační zařízení",
       "sociální zařízení"
     ]
@@ -2454,7 +2712,6 @@
     "temata": [
       "bezpečnost silničního provozu",
       "celní kontrola",
-      "dopravní pøestupek",
       "dopravní předpisy",
       "dopravní přestupek",
       "pokuta",
@@ -2478,7 +2735,6 @@
       "naléhavá pomoc",
       "ochrana proti požáru",
       "polovojenské síly",
-      "signalizační zaøízení",
       "signalizační zařízení",
       "sociální zařízení"
     ]
@@ -2499,7 +2755,6 @@
       "naléhavá pomoc",
       "ochrana proti požáru",
       "polovojenské síly",
-      "signalizační zaøízení",
       "signalizační zařízení",
       "sociální zařízení"
     ]
@@ -2520,7 +2775,6 @@
       "naléhavá pomoc",
       "ochrana proti požáru",
       "polovojenské síly",
-      "signalizační zaøízení",
       "signalizační zařízení",
       "sociální zařízení"
     ]
@@ -2541,7 +2795,6 @@
       "archiv",
       "region",
       "sídlo správy",
-      "veøejná instituce",
       "veřejná instituce"
     ]
   },
@@ -2561,7 +2814,6 @@
       "naléhavá pomoc",
       "ochrana proti požáru",
       "polovojenské síly",
-      "signalizační zaøízení",
       "signalizační zařízení",
       "sociální zařízení"
     ]
@@ -2582,7 +2834,6 @@
       "naléhavá pomoc",
       "ochrana proti požáru",
       "polovojenské síly",
-      "signalizační zaøízení",
       "signalizační zařízení",
       "sociální zařízení"
     ]
@@ -2603,7 +2854,6 @@
       "naléhavá pomoc",
       "ochrana proti požáru",
       "polovojenské síly",
-      "signalizační zaøízení",
       "signalizační zařízení",
       "sociální zařízení"
     ]
@@ -2624,7 +2874,6 @@
       "naléhavá pomoc",
       "ochrana proti požáru",
       "polovojenské síly",
-      "signalizační zaøízení",
       "signalizační zařízení",
       "sociální zařízení"
     ]
@@ -2645,7 +2894,6 @@
       "naléhavá pomoc",
       "ochrana proti požáru",
       "polovojenské síly",
-      "signalizační zaøízení",
       "signalizační zařízení",
       "sociální zařízení"
     ]
@@ -2666,7 +2914,6 @@
       "naléhavá pomoc",
       "ochrana proti požáru",
       "polovojenské síly",
-      "signalizační zaøízení",
       "signalizační zařízení",
       "sociální zařízení"
     ]
@@ -2687,7 +2934,6 @@
       "naléhavá pomoc",
       "ochrana proti požáru",
       "polovojenské síly",
-      "signalizační zaøízení",
       "signalizační zařízení",
       "sociální zařízení"
     ]
@@ -2725,7 +2971,6 @@
     },
     "temata": [
       "financování rozpočtu",
-      "plnėní rozpočtu",
       "plnění rozpočtu",
       "státní rozpočet"
     ]
@@ -2746,7 +2991,6 @@
       "naléhavá pomoc",
       "ochrana proti požáru",
       "polovojenské síly",
-      "signalizační zaøízení",
       "signalizační zařízení",
       "sociální zařízení"
     ]
@@ -2791,7 +3035,6 @@
       "obnovitelná energie",
       "obnovitelné zdroje",
       "podpůrná cena",
-      "podpųrná cena",
       "státní podpora"
     ]
   },
@@ -2808,15 +3051,14 @@
       "not_logged": 34
     },
     "temata": [
+      "čistá technologie",
       "elektrická energie",
       "jaderná elektrárna",
       "jaderná energie",
       "obnovitelná energie",
       "ochrana životního prostředí",
       "zachycování a ukládání oxidu uhličitého",
-      "zaruèená cena",
-      "zaručená cena",
-      "čistá technologie"
+      "zaručená cena"
     ]
   },
   {
@@ -2835,7 +3077,6 @@
       "naléhavá pomoc",
       "ochrana proti požáru",
       "polovojenské síly",
-      "signalizační zaøízení",
       "signalizační zařízení",
       "sociální zařízení"
     ]
@@ -2891,7 +3132,6 @@
     },
     "temata": [
       "bezpečnost dopravy",
-      "dopravní pøestupek",
       "dopravní přestupek",
       "dopravní značky",
       "hromadná doprava",
@@ -2914,7 +3154,6 @@
     },
     "temata": [
       "financování rozpočtu",
-      "plnėní rozpočtu",
       "plnění rozpočtu",
       "státní rozpočet"
     ]
@@ -2933,7 +3172,6 @@
     },
     "temata": [
       "financování rozpočtu",
-      "plnėní rozpočtu",
       "plnění rozpočtu",
       "státní rozpočet"
     ]
@@ -2952,7 +3190,6 @@
     },
     "temata": [
       "financování rozpočtu",
-      "plnėní rozpočtu",
       "plnění rozpočtu",
       "státní rozpočet"
     ]
@@ -2971,7 +3208,6 @@
     },
     "temata": [
       "financování rozpočtu",
-      "plnėní rozpočtu",
       "plnění rozpočtu",
       "státní rozpočet"
     ]
@@ -3101,13 +3337,12 @@
       "not_logged": 10
     },
     "temata": [
+      "Česká republika",
+      "členský stát EU",
       "dvoustranná dohoda",
       "ochrana investic",
       "podpora investic",
-      "vypovėdėní smlouvy",
-      "vypovědění smlouvy",
-      "Česká republika",
-      "členský stát EU"
+      "vypovědění smlouvy"
     ]
   },
   {
@@ -3123,13 +3358,12 @@
       "not_logged": 11
     },
     "temata": [
-      "Unesco",
+      "Česká republika",
       "dopování",
-      "povzbuzující prostøedek",
       "povzbuzující prostředek",
       "profesionální sport",
       "sport",
-      "Česká republika"
+      "Unesco"
     ]
   },
   {
@@ -3145,13 +3379,10 @@
       "not_logged": 13
     },
     "temata": [
-      "osvìdèení o pùvodu",
-      "osvėdčení o pųvodu",
-      "pùvodní výrobek",
-      "pųvodní výrobek",
-      "ratifikace dohody",
       "Èeská republika",
-      "Česká republika"
+      "osvìdèení o pùvodu",
+      "pùvodní výrobek",
+      "ratifikace dohody"
     ]
   },
   {
@@ -3567,9 +3798,8 @@
       "pracovní právo",
       "předmět podnikání",
       "rovné zacházení",
-      "zamìstnanec",
-      "zaměstnanec",
-      "zákoník práce"
+      "zákoník práce",
+      "zaměstnanec"
     ]
   },
   {
@@ -3589,9 +3819,8 @@
       "pracovní právo",
       "předmět podnikání",
       "rovné zacházení",
-      "zamìstnanec",
-      "zaměstnanec",
-      "zákoník práce"
+      "zákoník práce",
+      "zaměstnanec"
     ]
   },
   {
@@ -3611,9 +3840,8 @@
       "pracovní právo",
       "předmět podnikání",
       "rovné zacházení",
-      "zamìstnanec",
-      "zaměstnanec",
-      "zákoník práce"
+      "zákoník práce",
+      "zaměstnanec"
     ]
   },
   {
@@ -3633,9 +3861,8 @@
       "pracovní právo",
       "předmět podnikání",
       "rovné zacházení",
-      "zamìstnanec",
-      "zaměstnanec",
-      "zákoník práce"
+      "zákoník práce",
+      "zaměstnanec"
     ]
   },
   {
@@ -3655,9 +3882,8 @@
       "pracovní právo",
       "předmět podnikání",
       "rovné zacházení",
-      "zamìstnanec",
-      "zaměstnanec",
-      "zákoník práce"
+      "zákoník práce",
+      "zaměstnanec"
     ]
   },
   {
@@ -3677,9 +3903,8 @@
       "pracovní právo",
       "předmět podnikání",
       "rovné zacházení",
-      "zamìstnanec",
-      "zaměstnanec",
-      "zákoník práce"
+      "zákoník práce",
+      "zaměstnanec"
     ]
   },
   {
@@ -3699,9 +3924,8 @@
       "pracovní právo",
       "předmět podnikání",
       "rovné zacházení",
-      "zamìstnanec",
-      "zaměstnanec",
-      "zákoník práce"
+      "zákoník práce",
+      "zaměstnanec"
     ]
   },
   {
@@ -3721,9 +3945,8 @@
       "pracovní právo",
       "předmět podnikání",
       "rovné zacházení",
-      "zamìstnanec",
-      "zaměstnanec",
-      "zákoník práce"
+      "zákoník práce",
+      "zaměstnanec"
     ]
   },
   {
@@ -3743,9 +3966,8 @@
       "pracovní právo",
       "předmět podnikání",
       "rovné zacházení",
-      "zamìstnanec",
-      "zaměstnanec",
-      "zákoník práce"
+      "zákoník práce",
+      "zaměstnanec"
     ]
   },
   {
@@ -3765,9 +3987,8 @@
       "pracovní právo",
       "předmět podnikání",
       "rovné zacházení",
-      "zamìstnanec",
-      "zaměstnanec",
-      "zákoník práce"
+      "zákoník práce",
+      "zaměstnanec"
     ]
   },
   {
@@ -3787,9 +4008,8 @@
       "pracovní právo",
       "předmět podnikání",
       "rovné zacházení",
-      "zamìstnanec",
-      "zaměstnanec",
-      "zákoník práce"
+      "zákoník práce",
+      "zaměstnanec"
     ]
   },
   {
@@ -3809,9 +4029,8 @@
       "pracovní právo",
       "předmět podnikání",
       "rovné zacházení",
-      "zamìstnanec",
-      "zaměstnanec",
-      "zákoník práce"
+      "zákoník práce",
+      "zaměstnanec"
     ]
   },
   {
@@ -3831,9 +4050,8 @@
       "pracovní právo",
       "předmět podnikání",
       "rovné zacházení",
-      "zamìstnanec",
-      "zaměstnanec",
-      "zákoník práce"
+      "zákoník práce",
+      "zaměstnanec"
     ]
   },
   {
@@ -3853,9 +4071,8 @@
       "pracovní právo",
       "předmět podnikání",
       "rovné zacházení",
-      "zamìstnanec",
-      "zaměstnanec",
-      "zákoník práce"
+      "zákoník práce",
+      "zaměstnanec"
     ]
   },
   {
@@ -3875,9 +4092,8 @@
       "pracovní právo",
       "předmět podnikání",
       "rovné zacházení",
-      "zamìstnanec",
-      "zaměstnanec",
-      "zákoník práce"
+      "zákoník práce",
+      "zaměstnanec"
     ]
   },
   {
@@ -3897,9 +4113,8 @@
       "pracovní právo",
       "předmět podnikání",
       "rovné zacházení",
-      "zamìstnanec",
-      "zaměstnanec",
-      "zákoník práce"
+      "zákoník práce",
+      "zaměstnanec"
     ]
   },
   {
@@ -3919,9 +4134,8 @@
       "pracovní právo",
       "předmět podnikání",
       "rovné zacházení",
-      "zamìstnanec",
-      "zaměstnanec",
-      "zákoník práce"
+      "zákoník práce",
+      "zaměstnanec"
     ]
   },
   {
@@ -3941,9 +4155,8 @@
       "pracovní právo",
       "předmět podnikání",
       "rovné zacházení",
-      "zamìstnanec",
-      "zaměstnanec",
-      "zákoník práce"
+      "zákoník práce",
+      "zaměstnanec"
     ]
   },
   {
@@ -3963,9 +4176,8 @@
       "pracovní právo",
       "předmět podnikání",
       "rovné zacházení",
-      "zamìstnanec",
-      "zaměstnanec",
-      "zákoník práce"
+      "zákoník práce",
+      "zaměstnanec"
     ]
   },
   {
@@ -3985,9 +4197,8 @@
       "pracovní právo",
       "předmět podnikání",
       "rovné zacházení",
-      "zamìstnanec",
-      "zaměstnanec",
-      "zákoník práce"
+      "zákoník práce",
+      "zaměstnanec"
     ]
   },
   {
@@ -4007,9 +4218,8 @@
       "pracovní právo",
       "předmět podnikání",
       "rovné zacházení",
-      "zamìstnanec",
-      "zaměstnanec",
-      "zákoník práce"
+      "zákoník práce",
+      "zaměstnanec"
     ]
   },
   {
@@ -4029,9 +4239,8 @@
       "pracovní právo",
       "předmět podnikání",
       "rovné zacházení",
-      "zamìstnanec",
-      "zaměstnanec",
-      "zákoník práce"
+      "zákoník práce",
+      "zaměstnanec"
     ]
   },
   {
@@ -4051,9 +4260,8 @@
       "pracovní právo",
       "předmět podnikání",
       "rovné zacházení",
-      "zamìstnanec",
-      "zaměstnanec",
-      "zákoník práce"
+      "zákoník práce",
+      "zaměstnanec"
     ]
   },
   {
@@ -4073,9 +4281,8 @@
       "pracovní právo",
       "předmět podnikání",
       "rovné zacházení",
-      "zamìstnanec",
-      "zaměstnanec",
-      "zákoník práce"
+      "zákoník práce",
+      "zaměstnanec"
     ]
   },
   {
@@ -4095,9 +4302,8 @@
       "pracovní právo",
       "předmět podnikání",
       "rovné zacházení",
-      "zamìstnanec",
-      "zaměstnanec",
-      "zákoník práce"
+      "zákoník práce",
+      "zaměstnanec"
     ]
   },
   {
@@ -4117,9 +4323,8 @@
       "pracovní právo",
       "předmět podnikání",
       "rovné zacházení",
-      "zamìstnanec",
-      "zaměstnanec",
-      "zákoník práce"
+      "zákoník práce",
+      "zaměstnanec"
     ]
   },
   {
@@ -4139,9 +4344,8 @@
       "pracovní právo",
       "předmět podnikání",
       "rovné zacházení",
-      "zamìstnanec",
-      "zaměstnanec",
-      "zákoník práce"
+      "zákoník práce",
+      "zaměstnanec"
     ]
   },
   {
@@ -4161,9 +4365,8 @@
       "pracovní právo",
       "předmět podnikání",
       "rovné zacházení",
-      "zamìstnanec",
-      "zaměstnanec",
-      "zákoník práce"
+      "zákoník práce",
+      "zaměstnanec"
     ]
   },
   {
@@ -4183,9 +4386,8 @@
       "pracovní právo",
       "předmět podnikání",
       "rovné zacházení",
-      "zamìstnanec",
-      "zaměstnanec",
-      "zákoník práce"
+      "zákoník práce",
+      "zaměstnanec"
     ]
   },
   {
@@ -4207,7 +4409,6 @@
       "přibližování legislativy",
       "společná dopravní politika",
       "vysokorychlostní doprava",
-      "elezniční sí",
       "železniční doprava",
       "železniční síť"
     ]
@@ -4249,9 +4450,8 @@
       "pracovní právo",
       "předmět podnikání",
       "rovné zacházení",
-      "zamìstnanec",
-      "zaměstnanec",
-      "zákoník práce"
+      "zákoník práce",
+      "zaměstnanec"
     ]
   },
   {
@@ -4269,7 +4469,6 @@
     "temata": [
       "dědictví",
       "hlava státu",
-      "sochaøství",
       "sochařství",
       "umělecká profese"
     ]
@@ -4289,7 +4488,6 @@
     "temata": [
       "dědictví",
       "hlava státu",
-      "sochaøství",
       "sochařství",
       "umělecká profese"
     ]
@@ -4323,7 +4521,6 @@
     "temata": [
       "dědictví",
       "hlava státu",
-      "sochaøství",
       "sochařství",
       "umělecká profese"
     ]
@@ -4343,7 +4540,6 @@
     "temata": [
       "dědictví",
       "hlava státu",
-      "sochaøství",
       "sochařství",
       "umělecká profese"
     ]
@@ -4363,7 +4559,6 @@
     "temata": [
       "dědictví",
       "hlava státu",
-      "sochaøství",
       "sochařství",
       "umělecká profese"
     ]
@@ -4383,7 +4578,6 @@
     "temata": [
       "dědictví",
       "hlava státu",
-      "sochaøství",
       "sochařství",
       "umělecká profese"
     ]
@@ -4403,7 +4597,6 @@
     "temata": [
       "dědictví",
       "hlava státu",
-      "sochaøství",
       "sochařství",
       "umělecká profese"
     ]
@@ -4423,7 +4616,6 @@
     "temata": [
       "dědictví",
       "hlava státu",
-      "sochaøství",
       "sochařství",
       "umělecká profese"
     ]
@@ -4485,9 +4677,6 @@
     "temata": [
       "agrární sektor",
       "hospodářský výsledek zemědělství",
-      "zemėdėlská ekonomika",
-      "zemėdėlská politika",
-      "zemėdėlská situace",
       "zemědělská ekonomika",
       "zemědělská politika",
       "zemědělská produktivita",
@@ -4510,9 +4699,6 @@
     "temata": [
       "agrární sektor",
       "hospodářský výsledek zemědělství",
-      "zemėdėlská ekonomika",
-      "zemėdėlská politika",
-      "zemėdėlská situace",
       "zemědělská ekonomika",
       "zemědělská politika",
       "zemědělská produktivita",
@@ -4564,7 +4750,6 @@
       "bezpečnost při práci",
       "důchodový plán",
       "podmínky pro odchod do důchodu",
-      "podmínky pro odchod do dųchodu",
       "sociální dávky"
     ]
   },

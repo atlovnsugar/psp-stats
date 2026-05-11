@@ -1,4 +1,48 @@
-[
+﻿[
+  {
+    "id": 79304,
+    "date": "2022-12-01",
+    "title": "Novela z. o státní sociální podpoře",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 147,
+      "no": 0,
+      "abstain": 0,
+      "absent": 47,
+      "not_logged": 6
+    },
+    "temata": [
+      "evropský soudní prostor",
+      "evropský zatýkací rozkaz",
+      "politika spolupráce",
+      "přeshraniční spolupráce",
+      "soudní spolupráce",
+      "soudní spolupráce EU v trestních věcech",
+      "trestní právo"
+    ]
+  },
+  {
+    "id": 79305,
+    "date": "2022-12-01",
+    "title": "Novela z. o státní sociální podpoře",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 147,
+      "no": 0,
+      "abstain": 0,
+      "absent": 47,
+      "not_logged": 6
+    },
+    "temata": [
+      "evropský soudní prostor",
+      "evropský zatýkací rozkaz",
+      "politika spolupráce",
+      "přeshraniční spolupráce",
+      "soudní spolupráce",
+      "soudní spolupráce EU v trestních věcech",
+      "trestní právo"
+    ]
+  },
   {
     "id": 79306,
     "date": "2022-12-01",
@@ -160,7 +204,6 @@
     },
     "temata": [
       "filmový průmysl",
-      "filmový prųmysl",
       "návrh rozpočtu",
       "rozpočet",
       "střednědobá prognóza",
@@ -623,7 +666,6 @@
     "temata": [
       "důchodový plán",
       "podmínky pro odchod do důchodu",
-      "podmínky pro odchod do dųchodu",
       "předčasný důchod",
       "zdravotnické povolání"
     ]
@@ -656,7 +698,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -677,7 +718,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -697,14 +737,13 @@
       "not_logged": 23
     },
     "temata": [
-      "Ukrajina",
       "azylové právo",
       "cizí státní občan",
       "migrace",
       "povolení k pobytu",
-      "vnėjí hranice Evropské unie",
-      "vnější hranice Evropské unie",
-      "válka"
+      "Ukrajina",
+      "válka",
+      "vnější hranice Evropské unie"
     ]
   },
   {
@@ -913,10 +952,9 @@
       "daňový systém",
       "derogace",
       "maloobchodní prodej",
-      "pøíjem – platba",
       "příjem – platba",
-      "ukládání a vyhledávání informací",
-      "účetnictví"
+      "účetnictví",
+      "ukládání a vyhledávání informací"
     ]
   },
   {
@@ -935,10 +973,9 @@
       "daňový systém",
       "derogace",
       "maloobchodní prodej",
-      "pøíjem – platba",
       "příjem – platba",
-      "ukládání a vyhledávání informací",
-      "účetnictví"
+      "účetnictví",
+      "ukládání a vyhledávání informací"
     ]
   },
   {
@@ -957,10 +994,9 @@
       "daňový systém",
       "derogace",
       "maloobchodní prodej",
-      "pøíjem – platba",
       "příjem – platba",
-      "ukládání a vyhledávání informací",
-      "účetnictví"
+      "účetnictví",
+      "ukládání a vyhledávání informací"
     ]
   },
   {
@@ -979,10 +1015,9 @@
       "daňový systém",
       "derogace",
       "maloobchodní prodej",
-      "pøíjem – platba",
       "příjem – platba",
-      "ukládání a vyhledávání informací",
-      "účetnictví"
+      "účetnictví",
+      "ukládání a vyhledávání informací"
     ]
   },
   {
@@ -1001,10 +1036,9 @@
       "daňový systém",
       "derogace",
       "maloobchodní prodej",
-      "pøíjem – platba",
       "příjem – platba",
-      "ukládání a vyhledávání informací",
-      "účetnictví"
+      "účetnictví",
+      "ukládání a vyhledávání informací"
     ]
   },
   {
@@ -1023,10 +1057,9 @@
       "daňový systém",
       "derogace",
       "maloobchodní prodej",
-      "pøíjem – platba",
       "příjem – platba",
-      "ukládání a vyhledávání informací",
-      "účetnictví"
+      "účetnictví",
+      "ukládání a vyhledávání informací"
     ]
   },
   {
@@ -1045,10 +1078,9 @@
       "daňový systém",
       "derogace",
       "maloobchodní prodej",
-      "pøíjem – platba",
       "příjem – platba",
-      "ukládání a vyhledávání informací",
-      "účetnictví"
+      "účetnictví",
+      "ukládání a vyhledávání informací"
     ]
   },
   {
@@ -1067,10 +1099,9 @@
       "daňový systém",
       "derogace",
       "maloobchodní prodej",
-      "pøíjem – platba",
       "příjem – platba",
-      "ukládání a vyhledávání informací",
-      "účetnictví"
+      "účetnictví",
+      "ukládání a vyhledávání informací"
     ]
   },
   {
@@ -1089,7 +1120,6 @@
       "bezpečnost dodávky",
       "energetická politika",
       "energetické právo",
-      "spotøeba energie",
       "spotřeba energie",
       "stavební právo"
     ]
@@ -1110,7 +1140,6 @@
       "daňové orgány",
       "interinstitucionální spolupráce (EU)",
       "podvod",
-      "podvody pokozující EU",
       "podvody poškozující EU",
       "přibližování legislativy",
       "spolupráce mezi institucemi",
@@ -1132,10 +1161,8 @@
     "temata": [
       "bankovní tajemství",
       "družstevní banka",
-      "finanèní instituce",
       "finanční instituce",
       "podvod",
-      "podvody pokozující EU",
       "podvody poškozující EU",
       "seznam",
       "spořitelna",
@@ -1401,10 +1428,9 @@
       "daňový systém",
       "derogace",
       "maloobchodní prodej",
-      "pøíjem – platba",
       "příjem – platba",
-      "ukládání a vyhledávání informací",
-      "účetnictví"
+      "účetnictví",
+      "ukládání a vyhledávání informací"
     ]
   },
   {
@@ -1423,10 +1449,9 @@
       "daňový systém",
       "derogace",
       "maloobchodní prodej",
-      "pøíjem – platba",
       "příjem – platba",
-      "ukládání a vyhledávání informací",
-      "účetnictví"
+      "účetnictví",
+      "ukládání a vyhledávání informací"
     ]
   },
   {
@@ -1445,10 +1470,9 @@
       "daňový systém",
       "derogace",
       "maloobchodní prodej",
-      "pøíjem – platba",
       "příjem – platba",
-      "ukládání a vyhledávání informací",
-      "účetnictví"
+      "účetnictví",
+      "ukládání a vyhledávání informací"
     ]
   },
   {
@@ -1467,10 +1491,9 @@
       "daňový systém",
       "derogace",
       "maloobchodní prodej",
-      "pøíjem – platba",
       "příjem – platba",
-      "ukládání a vyhledávání informací",
-      "účetnictví"
+      "účetnictví",
+      "ukládání a vyhledávání informací"
     ]
   },
   {
@@ -1529,10 +1552,8 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronický obchod",
       "informaèní služba",
-      "informační sluba",
       "internet"
     ]
   },
@@ -1550,10 +1571,8 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronický obchod",
       "informaèní služba",
-      "informační sluba",
       "internet"
     ]
   },
@@ -1571,10 +1590,8 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronický obchod",
       "informaèní služba",
-      "informační sluba",
       "internet"
     ]
   },
@@ -1592,10 +1609,8 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronický obchod",
       "informaèní služba",
-      "informační sluba",
       "internet"
     ]
   },
@@ -1613,10 +1628,8 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronický obchod",
       "informaèní služba",
-      "informační sluba",
       "internet"
     ]
   },
@@ -1634,10 +1647,8 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronický obchod",
       "informaèní služba",
-      "informační sluba",
       "internet"
     ]
   },
@@ -1655,10 +1666,8 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronický obchod",
       "informaèní služba",
-      "informační sluba",
       "internet"
     ]
   },
@@ -1676,10 +1685,8 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronický obchod",
       "informaèní služba",
-      "informační sluba",
       "internet"
     ]
   },
@@ -2440,7 +2447,6 @@
     },
     "temata": [
       "chirurg",
-      "nemocniční zaøízení",
       "nemocniční zařízení",
       "zdravotní péče"
     ]
@@ -2459,7 +2465,6 @@
     },
     "temata": [
       "chirurg",
-      "nemocniční zaøízení",
       "nemocniční zařízení",
       "zdravotní péče"
     ]
@@ -2509,12 +2514,10 @@
       "odborná kvalifikace",
       "politika vzdělávání",
       "průběžná profesní příprava",
-      "prųbėná profesní pøíprava",
+      "školská legislativa",
       "speciální vzdělávání",
       "učitel",
-      "vzdėlávání pedagogų",
-      "vzdělávání pedagogů",
-      "školská legislativa"
+      "vzdělávání pedagogů"
     ]
   },
   {
@@ -2530,23 +2533,16 @@
       "not_logged": 15
     },
     "temata": [
-      "Svėtová antidopingová agentura",
-      "Svģtovį antidopingovį agentura",
-      "chemický výrobek",
+      "Českį republika",
       "chemickż vżrobek",
-      "dopování",
       "dopovįnķ",
-      "farmaceutický výrobek",
       "farmaceutickż vżrobek",
       "hormon",
-      "mezinárodní dohoda",
       "mezinįrodnķ dohoda",
-      "povzbuzující prostøedek",
       "povzbuzujķcķ prostųedek",
       "ratifikace dohody",
       "sport",
-      "Česká republika",
-      "Českį republika"
+      "Svģtovį antidopingovį agentura"
     ]
   },
   {
@@ -2562,23 +2558,16 @@
       "not_logged": 14
     },
     "temata": [
-      "Svėtová antidopingová agentura",
-      "Svģtovį antidopingovį agentura",
-      "chemický výrobek",
+      "Českį republika",
       "chemickż vżrobek",
-      "dopování",
       "dopovįnķ",
-      "farmaceutický výrobek",
       "farmaceutickż vżrobek",
       "hormon",
-      "mezinárodní dohoda",
       "mezinįrodnķ dohoda",
-      "povzbuzující prostøedek",
       "povzbuzujķcķ prostųedek",
       "ratifikace dohody",
       "sport",
-      "Česká republika",
-      "Českį republika"
+      "Svģtovį antidopingovį agentura"
     ]
   },
   {
@@ -2595,10 +2584,9 @@
     },
     "temata": [
       "Andorra",
+      "Česká republika",
       "daňová úmluva",
-      "daōová úmluva",
-      "dvojí zdanění",
-      "Česká republika"
+      "dvojí zdanění"
     ]
   },
   {
@@ -2615,10 +2603,9 @@
     },
     "temata": [
       "Andorra",
+      "Česká republika",
       "daňová úmluva",
-      "daōová úmluva",
-      "dvojí zdanění",
-      "Česká republika"
+      "dvojí zdanění"
     ]
   },
   {
@@ -2682,12 +2669,10 @@
       "odborná kvalifikace",
       "politika vzdělávání",
       "průběžná profesní příprava",
-      "prųbėná profesní pøíprava",
+      "školská legislativa",
       "speciální vzdělávání",
       "učitel",
-      "vzdėlávání pedagogų",
-      "vzdělávání pedagogů",
-      "školská legislativa"
+      "vzdělávání pedagogů"
     ]
   },
   {
@@ -2707,12 +2692,10 @@
       "odborná kvalifikace",
       "politika vzdělávání",
       "průběžná profesní příprava",
-      "prųbėná profesní pøíprava",
+      "školská legislativa",
       "speciální vzdělávání",
       "učitel",
-      "vzdėlávání pedagogų",
-      "vzdělávání pedagogů",
-      "školská legislativa"
+      "vzdělávání pedagogů"
     ]
   },
   {
@@ -2732,12 +2715,10 @@
       "odborná kvalifikace",
       "politika vzdělávání",
       "průběžná profesní příprava",
-      "prųbėná profesní pøíprava",
+      "školská legislativa",
       "speciální vzdělávání",
       "učitel",
-      "vzdėlávání pedagogų",
-      "vzdělávání pedagogů",
-      "školská legislativa"
+      "vzdělávání pedagogů"
     ]
   },
   {
@@ -2757,12 +2738,10 @@
       "odborná kvalifikace",
       "politika vzdělávání",
       "průběžná profesní příprava",
-      "prųbėná profesní pøíprava",
+      "školská legislativa",
       "speciální vzdělávání",
       "učitel",
-      "vzdėlávání pedagogų",
-      "vzdělávání pedagogů",
-      "školská legislativa"
+      "vzdělávání pedagogů"
     ]
   },
   {
@@ -2801,10 +2780,8 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronický obchod",
       "informaèní služba",
-      "informační sluba",
       "internet"
     ]
   },
@@ -2821,13 +2798,10 @@
       "not_logged": 16
     },
     "temata": [
-      "látky znečiující stratosféru",
       "látky znečišťující stratosféru",
       "ozon",
-      "politika v oblasti zmìny klimatu",
       "politika v oblasti změny klimatu",
       "skleníkový plyn",
-      "sniování plynných emisí",
       "snižování plynných emisí"
     ]
   },
@@ -2845,10 +2819,8 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronický obchod",
       "informaèní služba",
-      "informační sluba",
       "internet"
     ]
   },
@@ -2866,10 +2838,8 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronický obchod",
       "informaèní služba",
-      "informační sluba",
       "internet"
     ]
   },
@@ -2927,10 +2897,8 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronický obchod",
       "informaèní služba",
-      "informační sluba",
       "internet"
     ]
   },
@@ -2948,10 +2916,8 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronický obchod",
       "informaèní služba",
-      "informační sluba",
       "internet"
     ]
   },
@@ -2969,10 +2935,8 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronický obchod",
       "informaèní služba",
-      "informační sluba",
       "internet"
     ]
   },
@@ -2990,10 +2954,8 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronický obchod",
       "informaèní služba",
-      "informační sluba",
       "internet"
     ]
   },
@@ -3011,10 +2973,8 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronický obchod",
       "informaèní služba",
-      "informační sluba",
       "internet"
     ]
   },
@@ -3032,10 +2992,8 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronický obchod",
       "informaèní služba",
-      "informační sluba",
       "internet"
     ]
   },
@@ -3053,10 +3011,8 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronický obchod",
       "informaèní služba",
-      "informační sluba",
       "internet"
     ]
   },
@@ -3074,10 +3030,8 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronický obchod",
       "informaèní služba",
-      "informační sluba",
       "internet"
     ]
   },
@@ -3095,10 +3049,8 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronický obchod",
       "informaèní služba",
-      "informační sluba",
       "internet"
     ]
   },
@@ -3854,12 +3806,10 @@
     },
     "temata": [
       "financování rozpočtu",
-      "plnėní rozpočtu",
       "plnění rozpočtu",
       "tisková agentura",
-      "zpráva o činnosti",
-      "účetní uzávėrka",
-      "účetní uzávěrka"
+      "účetní uzávěrka",
+      "zpráva o činnosti"
     ]
   },
   {
@@ -3924,7 +3874,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -3945,7 +3894,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -3966,7 +3914,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -3987,7 +3934,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -4008,7 +3954,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -4029,7 +3974,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -4050,12 +3994,10 @@
     },
     "temata": [
       "financování rozpočtu",
-      "plnėní rozpočtu",
       "plnění rozpočtu",
       "tisková agentura",
-      "zpráva o činnosti",
-      "účetní uzávėrka",
-      "účetní uzávěrka"
+      "účetní uzávěrka",
+      "zpráva o činnosti"
     ]
   },
   {
@@ -4071,7 +4013,6 @@
       "not_logged": 11
     },
     "temata": [
-      "plnėní rozpočtu",
       "plnění rozpočtu",
       "státní rozpočet"
     ]
@@ -4090,12 +4031,10 @@
     },
     "temata": [
       "financování rozpočtu",
-      "plnėní rozpočtu",
       "plnění rozpočtu",
       "tisková agentura",
-      "zpráva o činnosti",
-      "účetní uzávėrka",
-      "účetní uzávěrka"
+      "účetní uzávěrka",
+      "zpráva o činnosti"
     ]
   },
   {
@@ -4111,7 +4050,6 @@
       "not_logged": 10
     },
     "temata": [
-      "plnėní rozpočtu",
       "plnění rozpočtu",
       "státní rozpočet"
     ]
@@ -4130,12 +4068,10 @@
     },
     "temata": [
       "financování rozpočtu",
-      "plnėní rozpočtu",
       "plnění rozpočtu",
       "tisková agentura",
-      "zpráva o činnosti",
-      "účetní uzávėrka",
-      "účetní uzávěrka"
+      "účetní uzávěrka",
+      "zpráva o činnosti"
     ]
   },
   {
@@ -4151,16 +4087,13 @@
       "not_logged": 30
     },
     "temata": [
-      "hromadné sdėlovací prostøedky",
       "hromadné sdělovací prostředky",
       "komunikační politika",
-      "plnėní rozpočtu",
       "plnění rozpočtu",
       "programová produkce",
       "rozhlasové vysílání",
-      "zpráva o činnosti",
-      "účetní uzávėrka",
-      "účetní uzávěrka"
+      "účetní uzávěrka",
+      "zpráva o činnosti"
     ]
   },
   {
@@ -4176,16 +4109,13 @@
       "not_logged": 25
     },
     "temata": [
-      "hromadné sdėlovací prostøedky",
       "hromadné sdělovací prostředky",
       "komunikační politika",
-      "plnėní rozpočtu",
       "plnění rozpočtu",
       "programová produkce",
       "rozhlasové vysílání",
-      "zpráva o činnosti",
-      "účetní uzávėrka",
-      "účetní uzávěrka"
+      "účetní uzávěrka",
+      "zpráva o činnosti"
     ]
   },
   {
@@ -4201,7 +4131,6 @@
       "not_logged": 27
     },
     "temata": [
-      "hromadné sdėlovací prostøedky",
       "hromadné sdělovací prostředky",
       "komunikační politika",
       "programová produkce",
@@ -4223,12 +4152,10 @@
     },
     "temata": [
       "financování rozpočtu",
-      "plnėní rozpočtu",
       "plnění rozpočtu",
       "tisková agentura",
-      "zpráva o činnosti",
-      "účetní uzávėrka",
-      "účetní uzávěrka"
+      "účetní uzávěrka",
+      "zpráva o činnosti"
     ]
   },
   {
@@ -4244,16 +4171,13 @@
       "not_logged": 25
     },
     "temata": [
-      "hromadné sdėlovací prostøedky",
       "hromadné sdělovací prostředky",
       "komunikační politika",
-      "plnėní rozpočtu",
       "plnění rozpočtu",
       "programová produkce",
       "rozhlasové vysílání",
-      "zpráva o činnosti",
-      "účetní uzávėrka",
-      "účetní uzávěrka"
+      "účetní uzávěrka",
+      "zpráva o činnosti"
     ]
   },
   {
@@ -4290,12 +4214,10 @@
     },
     "temata": [
       "financování rozpočtu",
-      "plnėní rozpočtu",
       "plnění rozpočtu",
       "tisková agentura",
-      "zpráva o činnosti",
-      "účetní uzávėrka",
-      "účetní uzávěrka"
+      "účetní uzávěrka",
+      "zpráva o činnosti"
     ]
   },
   {
@@ -4311,16 +4233,13 @@
       "not_logged": 20
     },
     "temata": [
-      "hromadné sdėlovací prostøedky",
       "hromadné sdělovací prostředky",
       "komunikační politika",
-      "plnėní rozpočtu",
       "plnění rozpočtu",
       "programová produkce",
       "rozhlasové vysílání",
-      "zpráva o činnosti",
-      "účetní uzávėrka",
-      "účetní uzávěrka"
+      "účetní uzávěrka",
+      "zpráva o činnosti"
     ]
   },
   {
@@ -4336,7 +4255,6 @@
       "not_logged": 18
     },
     "temata": [
-      "hromadné sdėlovací prostøedky",
       "hromadné sdělovací prostředky",
       "komunikační politika",
       "programová produkce",
@@ -4358,12 +4276,10 @@
     },
     "temata": [
       "financování rozpočtu",
-      "plnėní rozpočtu",
       "plnění rozpočtu",
       "tisková agentura",
-      "zpráva o činnosti",
-      "účetní uzávėrka",
-      "účetní uzávěrka"
+      "účetní uzávěrka",
+      "zpráva o činnosti"
     ]
   },
   {
@@ -4380,12 +4296,10 @@
     },
     "temata": [
       "financování rozpočtu",
-      "plnėní rozpočtu",
       "plnění rozpočtu",
       "tisková agentura",
-      "zpráva o činnosti",
-      "účetní uzávėrka",
-      "účetní uzávěrka"
+      "účetní uzávěrka",
+      "zpráva o činnosti"
     ]
   },
   {
@@ -4402,12 +4316,10 @@
     },
     "temata": [
       "financování rozpočtu",
-      "plnėní rozpočtu",
       "plnění rozpočtu",
       "tisková agentura",
-      "zpráva o činnosti",
-      "účetní uzávėrka",
-      "účetní uzávěrka"
+      "účetní uzávěrka",
+      "zpráva o činnosti"
     ]
   },
   {
@@ -4424,12 +4336,10 @@
     },
     "temata": [
       "financování rozpočtu",
-      "plnėní rozpočtu",
       "plnění rozpočtu",
       "tisková agentura",
-      "zpráva o činnosti",
-      "účetní uzávėrka",
-      "účetní uzávěrka"
+      "účetní uzávěrka",
+      "zpráva o činnosti"
     ]
   },
   {
@@ -4463,12 +4373,10 @@
     },
     "temata": [
       "financování rozpočtu",
-      "plnėní rozpočtu",
       "plnění rozpočtu",
       "televize",
-      "zpráva o činnosti",
-      "účetní uzávėrka",
-      "účetní uzávěrka"
+      "účetní uzávěrka",
+      "zpráva o činnosti"
     ]
   },
   {
@@ -4502,12 +4410,10 @@
     },
     "temata": [
       "financování rozpočtu",
-      "plnėní rozpočtu",
       "plnění rozpočtu",
       "televize",
-      "zpráva o činnosti",
-      "účetní uzávėrka",
-      "účetní uzávěrka"
+      "účetní uzávěrka",
+      "zpráva o činnosti"
     ]
   },
   {
@@ -5089,7 +4995,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -5110,7 +5015,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -5131,7 +5035,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -5432,10 +5335,8 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronický obchod",
       "informaèní služba",
-      "informační sluba",
       "internet"
     ]
   },
@@ -5453,10 +5354,8 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronický obchod",
       "informaèní služba",
-      "informační sluba",
       "internet"
     ]
   },
@@ -5474,10 +5373,8 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronický obchod",
       "informaèní služba",
-      "informační sluba",
       "internet"
     ]
   },
@@ -5495,10 +5392,8 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronický obchod",
       "informaèní služba",
-      "informační sluba",
       "internet"
     ]
   },
@@ -5516,10 +5411,8 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronický obchod",
       "informaèní služba",
-      "informační sluba",
       "internet"
     ]
   },
@@ -5537,10 +5430,8 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronický obchod",
       "informaèní služba",
-      "informační sluba",
       "internet"
     ]
   },
@@ -5558,10 +5449,8 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronický obchod",
       "informaèní služba",
-      "informační sluba",
       "internet"
     ]
   },
@@ -7399,10 +7288,8 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronický obchod",
       "informaèní služba",
-      "informační sluba",
       "internet"
     ]
   },
@@ -7420,10 +7307,8 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronický obchod",
       "informaèní služba",
-      "informační sluba",
       "internet"
     ]
   },
@@ -7441,10 +7326,8 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronický obchod",
       "informaèní služba",
-      "informační sluba",
       "internet"
     ]
   },
@@ -7462,10 +7345,8 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronický obchod",
       "informaèní služba",
-      "informační sluba",
       "internet"
     ]
   },
@@ -7483,10 +7364,8 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronický obchod",
       "informaèní služba",
-      "informační sluba",
       "internet"
     ]
   },
@@ -7504,10 +7383,8 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronický obchod",
       "informaèní služba",
-      "informační sluba",
       "internet"
     ]
   },
@@ -7818,7 +7695,6 @@
       "investiční společnost",
       "kapitálová společnost",
       "ochrana investic",
-      "státní investièní fond",
       "státní investiční fond"
     ]
   },
@@ -7840,7 +7716,6 @@
       "investiční společnost",
       "kapitálová společnost",
       "ochrana investic",
-      "státní investièní fond",
       "státní investiční fond"
     ]
   },
@@ -7862,7 +7737,6 @@
       "investiční společnost",
       "kapitálová společnost",
       "ochrana investic",
-      "státní investièní fond",
       "státní investiční fond"
     ]
   },
@@ -7884,7 +7758,6 @@
       "investiční společnost",
       "kapitálová společnost",
       "ochrana investic",
-      "státní investièní fond",
       "státní investiční fond"
     ]
   },
@@ -7901,12 +7774,11 @@
       "not_logged": 3
     },
     "temata": [
-      "Ukrajina",
       "cizí státní občan",
       "migrace",
-      "nezamėstnanost",
       "nezaměstnanost",
       "sociální zabezpečení",
+      "Ukrajina",
       "válka"
     ]
   },
@@ -7928,7 +7800,6 @@
       "investiční společnost",
       "kapitálová společnost",
       "ochrana investic",
-      "státní investièní fond",
       "státní investiční fond"
     ]
   },
@@ -7950,7 +7821,6 @@
       "investiční společnost",
       "kapitálová společnost",
       "ochrana investic",
-      "státní investièní fond",
       "státní investiční fond"
     ]
   },
@@ -7972,7 +7842,6 @@
       "investiční společnost",
       "kapitálová společnost",
       "ochrana investic",
-      "státní investièní fond",
       "státní investiční fond"
     ]
   },
@@ -7994,7 +7863,6 @@
       "investiční společnost",
       "kapitálová společnost",
       "ochrana investic",
-      "státní investièní fond",
       "státní investiční fond"
     ]
   },
@@ -8011,10 +7879,8 @@
       "not_logged": 29
     },
     "temata": [
-      "občanskoprávní øízení",
       "občanskoprávní řízení",
       "orgány veřejné správy",
-      "soudní pøezkum",
       "soudní přezkum",
       "soudní řízení",
       "správní kontrola"
@@ -8734,10 +8600,8 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronický obchod",
       "informaèní služba",
-      "informační sluba",
       "internet"
     ]
   },
@@ -8755,7 +8619,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -8776,7 +8639,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -8797,7 +8659,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -8818,7 +8679,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -8839,7 +8699,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -8860,7 +8719,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -8881,7 +8739,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -8902,7 +8759,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -8923,7 +8779,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -8944,7 +8799,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -8965,7 +8819,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -8986,7 +8839,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -9007,7 +8859,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -9028,7 +8879,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -9049,7 +8899,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -9070,7 +8919,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -9091,7 +8939,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -9112,7 +8959,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -9133,7 +8979,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -9154,7 +8999,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -9175,7 +9019,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -9196,7 +9039,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -9217,7 +9059,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -9238,7 +9079,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -9259,7 +9099,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -9280,7 +9119,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -9301,7 +9139,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -9322,7 +9159,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -9343,7 +9179,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -9364,7 +9199,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -9385,7 +9219,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -9406,7 +9239,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -9427,7 +9259,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -9448,7 +9279,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -9469,7 +9299,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -9490,7 +9319,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -9511,7 +9339,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -9532,7 +9359,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -9553,7 +9379,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -9574,7 +9399,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -9595,7 +9419,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -9616,7 +9439,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -9637,7 +9459,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -9658,7 +9479,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -9679,7 +9499,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -9700,7 +9519,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -9721,7 +9539,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -9742,7 +9559,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -9763,7 +9579,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -9784,7 +9599,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -9805,7 +9619,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -9826,7 +9639,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -9847,7 +9659,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -9868,7 +9679,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -9889,7 +9699,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -9910,7 +9719,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -9931,7 +9739,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -9952,7 +9759,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -9973,7 +9779,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -9994,7 +9799,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -10015,7 +9819,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -10036,7 +9839,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -10057,7 +9859,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -10078,7 +9879,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -10099,7 +9899,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -10120,7 +9919,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -10141,7 +9939,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -10162,7 +9959,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -10183,7 +9979,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -10204,7 +9999,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -10225,7 +10019,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -10246,7 +10039,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -10267,7 +10059,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -10288,7 +10079,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -10309,7 +10099,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -10330,7 +10119,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -10351,7 +10139,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -10372,7 +10159,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -10393,7 +10179,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -10414,7 +10199,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -10435,7 +10219,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -10456,7 +10239,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -10477,7 +10259,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -10498,7 +10279,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -10519,7 +10299,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -10540,7 +10319,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -10561,7 +10339,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -10582,7 +10359,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -10603,7 +10379,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -10624,7 +10399,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -10645,7 +10419,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -10666,7 +10439,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -10687,7 +10459,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -10708,7 +10479,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -10729,7 +10499,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -10750,7 +10519,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -10771,7 +10539,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -10792,7 +10559,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -10813,7 +10579,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -10834,7 +10599,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -10855,7 +10619,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -10876,7 +10639,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -10897,7 +10659,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -10918,7 +10679,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -10939,7 +10699,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -10960,7 +10719,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -10981,7 +10739,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -11002,7 +10759,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -11023,7 +10779,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -11044,7 +10799,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -11065,7 +10819,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -11086,7 +10839,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -11107,7 +10859,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -11128,7 +10879,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -11149,7 +10899,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -11170,7 +10919,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -11191,7 +10939,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -11212,7 +10959,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -11233,7 +10979,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -11254,7 +10999,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -11275,7 +11019,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -11296,7 +11039,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -11317,7 +11059,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -11338,7 +11079,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -11359,7 +11099,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -11380,7 +11119,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -11401,7 +11139,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -11422,7 +11159,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -11443,7 +11179,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -11464,7 +11199,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -11485,7 +11219,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -11506,7 +11239,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -11527,7 +11259,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -11548,7 +11279,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -11569,7 +11299,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -11590,7 +11319,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -11611,7 +11339,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -11632,7 +11359,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -11653,7 +11379,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -11674,7 +11399,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -11695,7 +11419,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -11716,7 +11439,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -11737,7 +11459,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -11758,7 +11479,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -11779,7 +11499,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -11800,7 +11519,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -11821,7 +11539,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -11842,7 +11559,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -11863,7 +11579,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -11884,7 +11599,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -11905,7 +11619,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -11926,7 +11639,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -11947,7 +11659,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -11968,7 +11679,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -11989,7 +11699,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -12010,7 +11719,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -12031,7 +11739,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -12052,7 +11759,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -12073,7 +11779,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -12094,7 +11799,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -12115,7 +11819,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -12136,7 +11839,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -12157,7 +11859,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -12178,7 +11879,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -12199,7 +11899,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -12220,7 +11919,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -12241,7 +11939,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -12262,7 +11959,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -12283,7 +11979,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -12304,7 +11999,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -12325,7 +12019,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -12346,7 +12039,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -12367,7 +12059,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -12388,7 +12079,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -12409,7 +12099,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -12430,7 +12119,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -12451,7 +12139,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -12472,7 +12159,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -12493,7 +12179,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -12514,7 +12199,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -12535,7 +12219,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -12556,7 +12239,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -12577,7 +12259,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -12598,7 +12279,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -12619,7 +12299,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -12640,7 +12319,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -12661,7 +12339,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -12682,7 +12359,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -12703,7 +12379,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -12724,7 +12399,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -12745,7 +12419,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -12766,7 +12439,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -12787,7 +12459,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -12808,7 +12479,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -12829,7 +12499,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -12850,7 +12519,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -12871,7 +12539,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -12892,7 +12559,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -12913,7 +12579,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -12934,7 +12599,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -12955,7 +12619,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -12976,7 +12639,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -12997,7 +12659,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -13018,7 +12679,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -13039,7 +12699,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -13060,7 +12719,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -13081,7 +12739,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -13102,7 +12759,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -13123,7 +12779,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -13144,7 +12799,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -13165,7 +12819,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -13186,7 +12839,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -13207,7 +12859,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -13228,7 +12879,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -13249,7 +12899,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -13270,7 +12919,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -13291,7 +12939,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -13312,7 +12959,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -13333,7 +12979,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -13354,7 +12999,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -13375,7 +13019,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -13396,7 +13039,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -13417,7 +13059,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -13438,7 +13079,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -13459,7 +13099,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -13480,7 +13119,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -13501,7 +13139,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -13522,7 +13159,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -13543,7 +13179,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -13564,7 +13199,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -13585,7 +13219,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -13606,7 +13239,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -13627,7 +13259,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -13648,7 +13279,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -13669,7 +13299,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -13690,7 +13319,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -13711,7 +13339,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -13732,7 +13359,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -13753,7 +13379,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -13774,7 +13399,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -13795,7 +13419,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -13816,7 +13439,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -13837,7 +13459,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -13858,7 +13479,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -13879,7 +13499,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -13900,7 +13519,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -13921,7 +13539,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -13942,7 +13559,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -13963,7 +13579,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -13984,7 +13599,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -14005,7 +13619,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -14026,7 +13639,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -14047,7 +13659,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -14068,7 +13679,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -14089,7 +13699,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -14110,7 +13719,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -14131,7 +13739,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -14152,7 +13759,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -14173,7 +13779,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -14194,7 +13799,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -14215,7 +13819,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -14236,7 +13839,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -14257,7 +13859,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -14278,7 +13879,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -14299,7 +13899,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -14320,7 +13919,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -14341,7 +13939,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -14362,7 +13959,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -14383,7 +13979,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -14404,7 +13999,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -14425,7 +14019,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -14446,7 +14039,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -14467,7 +14059,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -14488,7 +14079,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -14509,7 +14099,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -14530,7 +14119,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -14551,7 +14139,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -14572,7 +14159,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -14593,7 +14179,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -14614,7 +14199,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -14635,7 +14219,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -14656,7 +14239,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -14677,7 +14259,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -14698,7 +14279,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -14719,7 +14299,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -14740,7 +14319,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -14761,7 +14339,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -14782,7 +14359,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -14803,7 +14379,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -14824,7 +14399,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -14845,7 +14419,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -14866,7 +14439,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -14887,7 +14459,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -14908,7 +14479,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -14929,7 +14499,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -14950,7 +14519,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -14971,7 +14539,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -14992,7 +14559,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -15013,7 +14579,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -15034,7 +14599,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -15055,7 +14619,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -15076,7 +14639,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -15097,7 +14659,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -15118,7 +14679,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -15139,7 +14699,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -15160,7 +14719,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -15181,7 +14739,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -15202,7 +14759,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -15223,7 +14779,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -15244,7 +14799,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -15265,7 +14819,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -15286,7 +14839,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -15307,7 +14859,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -15328,7 +14879,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -15349,7 +14899,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -15370,7 +14919,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -15391,7 +14939,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -15412,7 +14959,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -15433,7 +14979,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -15454,7 +14999,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -15475,7 +15019,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -15496,7 +15039,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -15517,7 +15059,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -15538,7 +15079,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -15559,7 +15099,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -15580,7 +15119,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -15601,7 +15139,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -15622,7 +15159,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -15643,7 +15179,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -15664,7 +15199,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -15685,7 +15219,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -15706,7 +15239,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -15727,7 +15259,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -15748,7 +15279,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -15769,7 +15299,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -15790,7 +15319,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -15811,7 +15339,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -15832,7 +15359,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -15853,7 +15379,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -15874,7 +15399,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -15895,7 +15419,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -15916,7 +15439,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -15937,7 +15459,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -15958,7 +15479,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -15979,7 +15499,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -16000,7 +15519,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -16021,7 +15539,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -16042,7 +15559,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -16063,7 +15579,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -16084,7 +15599,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -16105,7 +15619,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -16126,7 +15639,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -16147,7 +15659,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -16168,7 +15679,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -16189,7 +15699,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -16210,7 +15719,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -16231,7 +15739,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -16252,7 +15759,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -16273,7 +15779,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -16294,7 +15799,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -16315,7 +15819,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -16336,7 +15839,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -16357,7 +15859,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -16378,7 +15879,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -16399,7 +15899,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -16420,7 +15919,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -16441,7 +15939,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -16462,7 +15959,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -16483,7 +15979,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -16504,7 +15999,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -16525,7 +16019,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -16546,7 +16039,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -16567,7 +16059,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -16588,7 +16079,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -16609,7 +16099,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -16631,7 +16120,6 @@
     "temata": [
       "důchodový plán",
       "podmínky pro odchod do důchodu",
-      "podmínky pro odchod do dųchodu",
       "sociální zabezpečení"
     ]
   },
@@ -16874,10 +16362,8 @@
       "přidělení zakázky",
       "soutěžní řízení",
       "veřejná zakázka",
-      "vypsání soutėe",
-      "vypsání soutěže",
-      "vítėzná zakázka",
-      "vítězná zakázka"
+      "vítězná zakázka",
+      "vypsání soutěže"
     ]
   },
   {
@@ -16894,10 +16380,8 @@
     },
     "temata": [
       "elektrárna",
-      "energetická rozvodná sí",
       "energetická rozvodná síť",
       "jaderná elektrárna",
-      "mėstská infrastruktura",
       "městská infrastruktura"
     ]
   },
@@ -16915,7 +16399,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -16936,7 +16419,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -16957,7 +16439,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -16978,7 +16459,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -17155,10 +16635,8 @@
       "přidělení zakázky",
       "soutěžní řízení",
       "veřejná zakázka",
-      "vypsání soutėe",
-      "vypsání soutěže",
-      "vítėzná zakázka",
-      "vítězná zakázka"
+      "vítězná zakázka",
+      "vypsání soutěže"
     ]
   },
   {
@@ -17177,10 +16655,8 @@
       "přidělení zakázky",
       "soutěžní řízení",
       "veřejná zakázka",
-      "vypsání soutėe",
-      "vypsání soutěže",
-      "vítėzná zakázka",
-      "vítězná zakázka"
+      "vítězná zakázka",
+      "vypsání soutěže"
     ]
   },
   {
@@ -17199,10 +16675,8 @@
       "přidělení zakázky",
       "soutěžní řízení",
       "veřejná zakázka",
-      "vypsání soutėe",
-      "vypsání soutěže",
-      "vítėzná zakázka",
-      "vítězná zakázka"
+      "vítězná zakázka",
+      "vypsání soutěže"
     ]
   },
   {
@@ -17221,10 +16695,8 @@
       "přidělení zakázky",
       "soutěžní řízení",
       "veřejná zakázka",
-      "vypsání soutėe",
-      "vypsání soutěže",
-      "vítėzná zakázka",
-      "vítězná zakázka"
+      "vítězná zakázka",
+      "vypsání soutěže"
     ]
   },
   {
@@ -17243,10 +16715,8 @@
       "přidělení zakázky",
       "soutěžní řízení",
       "veřejná zakázka",
-      "vypsání soutėe",
-      "vypsání soutěže",
-      "vítėzná zakázka",
-      "vítězná zakázka"
+      "vítězná zakázka",
+      "vypsání soutěže"
     ]
   },
   {
@@ -17268,8 +16738,6 @@
       "ochrana práv a svobod",
       "pracovní právo",
       "solventnost",
-      "zamìstnanec",
-      "zamìstnavatel",
       "zaměstnanec",
       "zaměstnavatel"
     ]
@@ -17290,10 +16758,8 @@
       "přidělení zakázky",
       "soutěžní řízení",
       "veřejná zakázka",
-      "vypsání soutėe",
-      "vypsání soutěže",
-      "vítėzná zakázka",
-      "vítězná zakázka"
+      "vítězná zakázka",
+      "vypsání soutěže"
     ]
   },
   {
@@ -17312,10 +16778,8 @@
       "přidělení zakázky",
       "soutěžní řízení",
       "veřejná zakázka",
-      "vypsání soutėe",
-      "vypsání soutěže",
-      "vítėzná zakázka",
-      "vítězná zakázka"
+      "vítězná zakázka",
+      "vypsání soutěže"
     ]
   },
   {
@@ -17334,10 +16798,8 @@
       "přidělení zakázky",
       "soutěžní řízení",
       "veřejná zakázka",
-      "vypsání soutėe",
-      "vypsání soutěže",
-      "vítėzná zakázka",
-      "vítězná zakázka"
+      "vítězná zakázka",
+      "vypsání soutěže"
     ]
   },
   {
@@ -17356,10 +16818,8 @@
       "přidělení zakázky",
       "soutěžní řízení",
       "veřejná zakázka",
-      "vypsání soutėe",
-      "vypsání soutěže",
-      "vítėzná zakázka",
-      "vítězná zakázka"
+      "vítězná zakázka",
+      "vypsání soutěže"
     ]
   },
   {
@@ -17378,10 +16838,8 @@
       "přidělení zakázky",
       "soutěžní řízení",
       "veřejná zakázka",
-      "vypsání soutėe",
-      "vypsání soutěže",
-      "vítėzná zakázka",
-      "vítězná zakázka"
+      "vítězná zakázka",
+      "vypsání soutěže"
     ]
   },
   {
@@ -17635,7 +17093,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -17656,7 +17113,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -17677,7 +17133,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -17698,7 +17153,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -17719,7 +17173,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -17740,7 +17193,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -17761,7 +17213,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -17782,7 +17233,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -17803,7 +17253,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -17824,7 +17273,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -17845,7 +17293,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -17866,7 +17313,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -17887,7 +17333,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -17908,7 +17353,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -17929,7 +17373,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -17950,7 +17393,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -17971,7 +17413,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -17992,7 +17433,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -18013,7 +17453,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -18034,7 +17473,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -18055,7 +17493,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -18076,7 +17513,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -18097,7 +17533,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -18118,21 +17553,14 @@
     },
     "temata": [
       "stavba",
-      "stavební povolení",
-      "stavební právo",
       "stavebnķ politika",
       "stavebnķ povolenķ",
       "stavebnķ prįvo",
-      "technické předpisy a normy",
       "technické pųedpisy a normy",
-      "trestní sankce",
       "trestnķ sankce",
-      "veřejná správa",
-      "veųejnį sprįva",
-      "územní plánování",
-      "územní samospráva",
       "śzemnķ plįnovįnķ",
-      "śzemnķ samosprįva"
+      "śzemnķ samosprįva",
+      "veųejnį sprįva"
     ]
   },
   {
@@ -18149,7 +17577,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -18170,7 +17597,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -18191,7 +17617,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -18212,7 +17637,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -18233,7 +17657,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -18254,7 +17677,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -18275,7 +17697,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -18296,7 +17717,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -18317,7 +17737,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -18338,7 +17757,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -18359,7 +17777,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -18380,7 +17797,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -18401,7 +17817,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -18422,7 +17837,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -18443,7 +17857,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -18464,7 +17877,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -18487,10 +17899,8 @@
       "přidělení zakázky",
       "soutěžní řízení",
       "veřejná zakázka",
-      "vypsání soutėe",
-      "vypsání soutěže",
-      "vítėzná zakázka",
-      "vítězná zakázka"
+      "vítězná zakázka",
+      "vypsání soutěže"
     ]
   },
   {
@@ -18788,6 +18198,20 @@
     "temata": []
   },
   {
+    "id": 80331,
+    "date": "2023-04-04",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 76,
+      "no": 75,
+      "abstain": 20,
+      "absent": 22,
+      "not_logged": 7
+    },
+    "temata": []
+  },
+  {
     "id": 80332,
     "date": "2023-04-04",
     "title": "Pořad schůze",
@@ -18888,9 +18312,7 @@
       "dominantní postavení",
       "kontrola restriktivních praktik",
       "omezování soutěže",
-      "politika hospodáøské soutìže EU",
       "politika hospodářské soutěže EU",
-      "soutė",
       "soutěž",
       "soutěžní politika",
       "soutěžní právo",
@@ -18928,9 +18350,7 @@
       "dominantní postavení",
       "kontrola restriktivních praktik",
       "omezování soutěže",
-      "politika hospodáøské soutìže EU",
       "politika hospodářské soutěže EU",
-      "soutė",
       "soutěž",
       "soutěžní politika",
       "soutěžní právo",
@@ -18950,14 +18370,11 @@
       "not_logged": 49
     },
     "temata": [
-      "ochrana svėdkų",
       "ochrana svědků",
       "pracovní podmínky",
       "trestní řízení",
       "trestný čin",
       "whistleblowing",
-      "zamìstnanec",
-      "zamìstnavatel",
       "zaměstnanec",
       "zaměstnavatel"
     ]
@@ -18975,14 +18392,11 @@
       "not_logged": 42
     },
     "temata": [
-      "ochrana svėdkų",
       "ochrana svědků",
       "pracovní podmínky",
       "trestní řízení",
       "trestný čin",
       "whistleblowing",
-      "zamìstnanec",
-      "zamìstnavatel",
       "zaměstnanec",
       "zaměstnavatel"
     ]
@@ -19044,7 +18458,6 @@
     "temata": [
       "dluh",
       "odpis daňového dluhu",
-      "odpis daōového dluhu",
       "penále",
       "sociální zabezpečení",
       "výkon rozhodnutí"
@@ -19065,7 +18478,6 @@
     "temata": [
       "dluh",
       "odpis daňového dluhu",
-      "odpis daōového dluhu",
       "penále",
       "sociální zabezpečení",
       "výkon rozhodnutí"
@@ -19086,7 +18498,6 @@
     "temata": [
       "dluh",
       "odpis daňového dluhu",
-      "odpis daōového dluhu",
       "penále",
       "sociální zabezpečení",
       "výkon rozhodnutí"
@@ -19107,7 +18518,6 @@
     "temata": [
       "dluh",
       "odpis daňového dluhu",
-      "odpis daōového dluhu",
       "penále",
       "sociální zabezpečení",
       "výkon rozhodnutí"
@@ -19131,7 +18541,6 @@
       "investiční společnost",
       "kapitálová společnost",
       "ochrana investic",
-      "státní investièní fond",
       "státní investiční fond"
     ]
   },
@@ -19153,7 +18562,6 @@
       "investiční společnost",
       "kapitálová společnost",
       "ochrana investic",
-      "státní investièní fond",
       "státní investiční fond"
     ]
   },
@@ -19194,7 +18602,6 @@
       "investiční společnost",
       "kapitálová společnost",
       "ochrana investic",
-      "státní investièní fond",
       "státní investiční fond"
     ]
   },
@@ -19216,7 +18623,6 @@
       "investiční společnost",
       "kapitálová společnost",
       "ochrana investic",
-      "státní investièní fond",
       "státní investiční fond"
     ]
   },
@@ -19235,7 +18641,6 @@
     "temata": [
       "bezpečnost dopravy",
       "bezpečnost silničního provozu",
-      "dopravní pøestupek",
       "dopravní přestupek",
       "psychometrický test",
       "trestný čin"
@@ -19259,7 +18664,6 @@
       "investiční společnost",
       "kapitálová společnost",
       "ochrana investic",
-      "státní investièní fond",
       "státní investiční fond"
     ]
   },
@@ -19281,7 +18685,6 @@
       "investiční společnost",
       "kapitálová společnost",
       "ochrana investic",
-      "státní investièní fond",
       "státní investiční fond"
     ]
   },
@@ -19303,7 +18706,6 @@
       "investiční společnost",
       "kapitálová společnost",
       "ochrana investic",
-      "státní investièní fond",
       "státní investiční fond"
     ]
   },
@@ -19325,7 +18727,6 @@
       "investiční společnost",
       "kapitálová společnost",
       "ochrana investic",
-      "státní investièní fond",
       "státní investiční fond"
     ]
   },
@@ -19347,7 +18748,6 @@
       "investiční společnost",
       "kapitálová společnost",
       "ochrana investic",
-      "státní investièní fond",
       "státní investiční fond"
     ]
   },
@@ -19369,7 +18769,6 @@
       "investiční společnost",
       "kapitálová společnost",
       "ochrana investic",
-      "státní investièní fond",
       "státní investiční fond"
     ]
   },
@@ -19391,7 +18790,6 @@
       "investiční společnost",
       "kapitálová společnost",
       "ochrana investic",
-      "státní investièní fond",
       "státní investiční fond"
     ]
   },
@@ -19413,7 +18811,6 @@
       "investiční společnost",
       "kapitálová společnost",
       "ochrana investic",
-      "státní investièní fond",
       "státní investiční fond"
     ]
   },
@@ -19435,7 +18832,6 @@
       "investiční společnost",
       "kapitálová společnost",
       "ochrana investic",
-      "státní investièní fond",
       "státní investiční fond"
     ]
   },
@@ -19453,11 +18849,10 @@
     },
     "temata": [
       "pitná voda",
-      "zdravotnická legislativa",
-      "zdravotní politika",
+      "řízení rizik",
       "zdraví veřejnosti",
-      "øízení rizik",
-      "řízení rizik"
+      "zdravotnická legislativa",
+      "zdravotní politika"
     ]
   },
   {
@@ -19913,7 +19308,6 @@
     "temata": [
       "ekologie",
       "environmentální politika",
-      "kontrola znečitėní",
       "kontrola znečištění",
       "právo na informace",
       "přírodní zdroje",
@@ -19936,7 +19330,6 @@
     "temata": [
       "ekologie",
       "environmentální politika",
-      "kontrola znečitėní",
       "kontrola znečištění",
       "právo na informace",
       "přírodní zdroje",
@@ -19959,7 +19352,6 @@
     "temata": [
       "ekologie",
       "environmentální politika",
-      "kontrola znečitėní",
       "kontrola znečištění",
       "právo na informace",
       "přírodní zdroje",
@@ -20283,8 +19675,6 @@
       "ochrana práv a svobod",
       "pracovní právo",
       "solventnost",
-      "zamìstnanec",
-      "zamìstnavatel",
       "zaměstnanec",
       "zaměstnavatel"
     ]
@@ -20308,8 +19698,6 @@
       "ochrana práv a svobod",
       "pracovní právo",
       "solventnost",
-      "zamìstnanec",
-      "zamìstnavatel",
       "zaměstnanec",
       "zaměstnavatel"
     ]
@@ -20333,8 +19721,6 @@
       "ochrana práv a svobod",
       "pracovní právo",
       "solventnost",
-      "zamìstnanec",
-      "zamìstnavatel",
       "zaměstnanec",
       "zaměstnavatel"
     ]
@@ -20358,8 +19744,6 @@
       "ochrana práv a svobod",
       "pracovní právo",
       "solventnost",
-      "zamìstnanec",
-      "zamìstnavatel",
       "zaměstnanec",
       "zaměstnavatel"
     ]
@@ -20383,8 +19767,6 @@
       "ochrana práv a svobod",
       "pracovní právo",
       "solventnost",
-      "zamìstnanec",
-      "zamìstnavatel",
       "zaměstnanec",
       "zaměstnavatel"
     ]
@@ -20408,8 +19790,6 @@
       "ochrana práv a svobod",
       "pracovní právo",
       "solventnost",
-      "zamìstnanec",
-      "zamìstnavatel",
       "zaměstnanec",
       "zaměstnavatel"
     ]
@@ -20433,8 +19813,6 @@
       "ochrana práv a svobod",
       "pracovní právo",
       "solventnost",
-      "zamìstnanec",
-      "zamìstnavatel",
       "zaměstnanec",
       "zaměstnavatel"
     ]
@@ -20458,8 +19836,6 @@
       "ochrana práv a svobod",
       "pracovní právo",
       "solventnost",
-      "zamìstnanec",
-      "zamìstnavatel",
       "zaměstnanec",
       "zaměstnavatel"
     ]
@@ -20483,8 +19859,6 @@
       "ochrana práv a svobod",
       "pracovní právo",
       "solventnost",
-      "zamìstnanec",
-      "zamìstnavatel",
       "zaměstnanec",
       "zaměstnavatel"
     ]
@@ -20508,8 +19882,6 @@
       "ochrana práv a svobod",
       "pracovní právo",
       "solventnost",
-      "zamìstnanec",
-      "zamìstnavatel",
       "zaměstnanec",
       "zaměstnavatel"
     ]
@@ -20533,8 +19905,6 @@
       "ochrana práv a svobod",
       "pracovní právo",
       "solventnost",
-      "zamìstnanec",
-      "zamìstnavatel",
       "zaměstnanec",
       "zaměstnavatel"
     ]
@@ -20552,7 +19922,6 @@
       "not_logged": 6
     },
     "temata": [
-      "UNHCR",
       "azylové právo",
       "cizinecké právo",
       "cizí státní občan",
@@ -20560,8 +19929,8 @@
       "integrace přistěhovalců",
       "politický azyl",
       "pomoc uprchlíkům",
-      "pomoc uprchlíkųm",
       "povolení k pobytu",
+      "UNHCR",
       "uprchlík"
     ]
   },
@@ -20584,8 +19953,6 @@
       "ochrana práv a svobod",
       "pracovní právo",
       "solventnost",
-      "zamìstnanec",
-      "zamìstnavatel",
       "zaměstnanec",
       "zaměstnavatel"
     ]
@@ -20609,8 +19976,6 @@
       "ochrana práv a svobod",
       "pracovní právo",
       "solventnost",
-      "zamìstnanec",
-      "zamìstnavatel",
       "zaměstnanec",
       "zaměstnavatel"
     ]
@@ -20634,8 +19999,6 @@
       "ochrana práv a svobod",
       "pracovní právo",
       "solventnost",
-      "zamìstnanec",
-      "zamìstnavatel",
       "zaměstnanec",
       "zaměstnavatel"
     ]
@@ -20724,10 +20087,9 @@
     },
     "temata": [
       "Andorra",
+      "Česká republika",
       "daňová úmluva",
-      "daōová úmluva",
-      "dvojí zdanění",
-      "Česká republika"
+      "dvojí zdanění"
     ]
   },
   {
@@ -20840,13 +20202,12 @@
       "not_logged": 9
     },
     "temata": [
-      "Evropská agentura pro chemické látky",
       "chemická sloučenina",
       "chemický výrobek",
+      "Evropská agentura pro chemické látky",
       "mezinárodní úmluva",
       "nebezpečná látka",
       "pesticidy",
-      "pøeprava nebezpečného nákladu",
       "přeprava nebezpečného nákladu",
       "ratifikace dohody"
     ]
@@ -20864,13 +20225,12 @@
       "not_logged": 9
     },
     "temata": [
-      "Evropská agentura pro chemické látky",
       "chemická sloučenina",
       "chemický výrobek",
+      "Evropská agentura pro chemické látky",
       "mezinárodní úmluva",
       "nebezpečná látka",
       "pesticidy",
-      "pøeprava nebezpečného nákladu",
       "přeprava nebezpečného nákladu",
       "ratifikace dohody"
     ]
@@ -20888,13 +20248,12 @@
       "not_logged": 8
     },
     "temata": [
-      "Evropská agentura pro chemické látky",
       "chemická sloučenina",
       "chemický výrobek",
+      "Evropská agentura pro chemické látky",
       "mezinárodní úmluva",
       "nebezpečná látka",
       "pesticidy",
-      "pøeprava nebezpečného nákladu",
       "přeprava nebezpečného nákladu",
       "ratifikace dohody"
     ]
@@ -20949,12 +20308,11 @@
     },
     "temata": [
       "Bosna a Hercegovina",
-      "Kosovo",
+      "Česká republika",
       "daňová úmluva",
-      "daōová úmluva",
       "dvojí zdanění",
-      "zkrácení daně",
-      "Česká republika"
+      "Kosovo",
+      "zkrácení daně"
     ]
   },
   {
@@ -21042,7 +20400,6 @@
       "not_logged": 22
     },
     "temata": [
-      "hromadné sdėlovací prostøedky",
       "hromadné sdělovací prostředky",
       "komunikační politika",
       "programová produkce",
@@ -21370,12 +20727,10 @@
       "odborná kvalifikace",
       "politika vzdělávání",
       "průběžná profesní příprava",
-      "prųbėná profesní pøíprava",
+      "školská legislativa",
       "speciální vzdělávání",
       "učitel",
-      "vzdėlávání pedagogų",
-      "vzdělávání pedagogů",
-      "školská legislativa"
+      "vzdělávání pedagogů"
     ]
   },
   {
@@ -21395,12 +20750,10 @@
       "odborná kvalifikace",
       "politika vzdělávání",
       "průběžná profesní příprava",
-      "prųbėná profesní pøíprava",
+      "školská legislativa",
       "speciální vzdělávání",
       "učitel",
-      "vzdėlávání pedagogų",
-      "vzdělávání pedagogů",
-      "školská legislativa"
+      "vzdělávání pedagogů"
     ]
   },
   {
@@ -21420,12 +20773,10 @@
       "odborná kvalifikace",
       "politika vzdělávání",
       "průběžná profesní příprava",
-      "prųbėná profesní pøíprava",
+      "školská legislativa",
       "speciální vzdělávání",
       "učitel",
-      "vzdėlávání pedagogų",
-      "vzdělávání pedagogů",
-      "školská legislativa"
+      "vzdělávání pedagogů"
     ]
   },
   {
@@ -21445,12 +20796,10 @@
       "odborná kvalifikace",
       "politika vzdělávání",
       "průběžná profesní příprava",
-      "prųbėná profesní pøíprava",
+      "školská legislativa",
       "speciální vzdělávání",
       "učitel",
-      "vzdėlávání pedagogų",
-      "vzdělávání pedagogů",
-      "školská legislativa"
+      "vzdělávání pedagogů"
     ]
   },
   {
@@ -21470,12 +20819,10 @@
       "odborná kvalifikace",
       "politika vzdělávání",
       "průběžná profesní příprava",
-      "prųbėná profesní pøíprava",
+      "školská legislativa",
       "speciální vzdělávání",
       "učitel",
-      "vzdėlávání pedagogų",
-      "vzdělávání pedagogů",
-      "školská legislativa"
+      "vzdělávání pedagogů"
     ]
   },
   {
@@ -21495,12 +20842,10 @@
       "odborná kvalifikace",
       "politika vzdělávání",
       "průběžná profesní příprava",
-      "prųbėná profesní pøíprava",
+      "školská legislativa",
       "speciální vzdělávání",
       "učitel",
-      "vzdėlávání pedagogų",
-      "vzdělávání pedagogů",
-      "školská legislativa"
+      "vzdělávání pedagogů"
     ]
   },
   {
@@ -21520,12 +20865,10 @@
       "odborná kvalifikace",
       "politika vzdělávání",
       "průběžná profesní příprava",
-      "prųbėná profesní pøíprava",
+      "školská legislativa",
       "speciální vzdělávání",
       "učitel",
-      "vzdėlávání pedagogų",
-      "vzdělávání pedagogů",
-      "školská legislativa"
+      "vzdělávání pedagogů"
     ]
   },
   {
@@ -21545,12 +20888,10 @@
       "odborná kvalifikace",
       "politika vzdělávání",
       "průběžná profesní příprava",
-      "prųbėná profesní pøíprava",
+      "školská legislativa",
       "speciální vzdělávání",
       "učitel",
-      "vzdėlávání pedagogų",
-      "vzdělávání pedagogů",
-      "školská legislativa"
+      "vzdělávání pedagogů"
     ]
   },
   {
@@ -21570,12 +20911,10 @@
       "odborná kvalifikace",
       "politika vzdělávání",
       "průběžná profesní příprava",
-      "prųbėná profesní pøíprava",
+      "školská legislativa",
       "speciální vzdělávání",
       "učitel",
-      "vzdėlávání pedagogų",
-      "vzdělávání pedagogů",
-      "školská legislativa"
+      "vzdělávání pedagogů"
     ]
   },
   {
@@ -21595,12 +20934,10 @@
       "odborná kvalifikace",
       "politika vzdělávání",
       "průběžná profesní příprava",
-      "prųbėná profesní pøíprava",
+      "školská legislativa",
       "speciální vzdělávání",
       "učitel",
-      "vzdėlávání pedagogų",
-      "vzdělávání pedagogů",
-      "školská legislativa"
+      "vzdělávání pedagogů"
     ]
   },
   {
@@ -21620,12 +20957,10 @@
       "odborná kvalifikace",
       "politika vzdělávání",
       "průběžná profesní příprava",
-      "prųbėná profesní pøíprava",
+      "školská legislativa",
       "speciální vzdělávání",
       "učitel",
-      "vzdėlávání pedagogų",
-      "vzdělávání pedagogů",
-      "školská legislativa"
+      "vzdělávání pedagogů"
     ]
   },
   {
@@ -21664,12 +20999,10 @@
       "odborná kvalifikace",
       "politika vzdělávání",
       "průběžná profesní příprava",
-      "prųbėná profesní pøíprava",
+      "školská legislativa",
       "speciální vzdělávání",
       "učitel",
-      "vzdėlávání pedagogų",
-      "vzdělávání pedagogů",
-      "školská legislativa"
+      "vzdělávání pedagogů"
     ]
   },
   {
@@ -21689,12 +21022,10 @@
       "odborná kvalifikace",
       "politika vzdělávání",
       "průběžná profesní příprava",
-      "prųbėná profesní pøíprava",
+      "školská legislativa",
       "speciální vzdělávání",
       "učitel",
-      "vzdėlávání pedagogų",
-      "vzdělávání pedagogů",
-      "školská legislativa"
+      "vzdělávání pedagogů"
     ]
   },
   {
@@ -21714,12 +21045,10 @@
       "odborná kvalifikace",
       "politika vzdělávání",
       "průběžná profesní příprava",
-      "prųbėná profesní pøíprava",
+      "školská legislativa",
       "speciální vzdělávání",
       "učitel",
-      "vzdėlávání pedagogų",
-      "vzdělávání pedagogů",
-      "školská legislativa"
+      "vzdělávání pedagogů"
     ]
   },
   {
@@ -21735,14 +21064,11 @@
       "not_logged": 11
     },
     "temata": [
-      "ochrana svėdkų",
       "ochrana svědků",
       "pracovní podmínky",
       "trestní řízení",
       "trestný čin",
       "whistleblowing",
-      "zamìstnanec",
-      "zamìstnavatel",
       "zaměstnanec",
       "zaměstnavatel"
     ]
@@ -21760,14 +21086,11 @@
       "not_logged": 9
     },
     "temata": [
-      "ochrana svėdkų",
       "ochrana svědků",
       "pracovní podmínky",
       "trestní řízení",
       "trestný čin",
       "whistleblowing",
-      "zamìstnanec",
-      "zamìstnavatel",
       "zaměstnanec",
       "zaměstnavatel"
     ]
@@ -21785,14 +21108,11 @@
       "not_logged": 8
     },
     "temata": [
-      "ochrana svėdkų",
       "ochrana svědků",
       "pracovní podmínky",
       "trestní řízení",
       "trestný čin",
       "whistleblowing",
-      "zamìstnanec",
-      "zamìstnavatel",
       "zaměstnanec",
       "zaměstnavatel"
     ]
@@ -21810,14 +21130,11 @@
       "not_logged": 8
     },
     "temata": [
-      "ochrana svėdkų",
       "ochrana svědků",
       "pracovní podmínky",
       "trestní řízení",
       "trestný čin",
       "whistleblowing",
-      "zamìstnanec",
-      "zamìstnavatel",
       "zaměstnanec",
       "zaměstnavatel"
     ]
@@ -21835,14 +21152,11 @@
       "not_logged": 7
     },
     "temata": [
-      "ochrana svėdkų",
       "ochrana svědků",
       "pracovní podmínky",
       "trestní řízení",
       "trestný čin",
       "whistleblowing",
-      "zamìstnanec",
-      "zamìstnavatel",
       "zaměstnanec",
       "zaměstnavatel"
     ]
@@ -21860,14 +21174,11 @@
       "not_logged": 7
     },
     "temata": [
-      "ochrana svėdkų",
       "ochrana svědků",
       "pracovní podmínky",
       "trestní řízení",
       "trestný čin",
       "whistleblowing",
-      "zamìstnanec",
-      "zamìstnavatel",
       "zaměstnanec",
       "zaměstnavatel"
     ]
@@ -21889,12 +21200,10 @@
       "odborná kvalifikace",
       "politika vzdělávání",
       "průběžná profesní příprava",
-      "prųbėná profesní pøíprava",
+      "školská legislativa",
       "speciální vzdělávání",
       "učitel",
-      "vzdėlávání pedagogų",
-      "vzdělávání pedagogů",
-      "školská legislativa"
+      "vzdělávání pedagogů"
     ]
   },
   {
@@ -21910,13 +21219,10 @@
       "not_logged": 14
     },
     "temata": [
-      "ochrana svėdkų",
       "ochrana svědků",
       "trestní řízení",
       "trestný čin",
       "whistleblowing",
-      "zamìstnanec",
-      "zamìstnavatel",
       "zaměstnanec",
       "zaměstnavatel"
     ]
@@ -21938,12 +21244,10 @@
       "odborná kvalifikace",
       "politika vzdělávání",
       "průběžná profesní příprava",
-      "prųbėná profesní pøíprava",
+      "školská legislativa",
       "speciální vzdělávání",
       "učitel",
-      "vzdėlávání pedagogų",
-      "vzdělávání pedagogů",
-      "školská legislativa"
+      "vzdělávání pedagogů"
     ]
   },
   {
@@ -21963,12 +21267,10 @@
       "odborná kvalifikace",
       "politika vzdělávání",
       "průběžná profesní příprava",
-      "prųbėná profesní pøíprava",
+      "školská legislativa",
       "speciální vzdělávání",
       "učitel",
-      "vzdėlávání pedagogų",
-      "vzdělávání pedagogů",
-      "školská legislativa"
+      "vzdělávání pedagogů"
     ]
   },
   {
@@ -21988,12 +21290,10 @@
       "odborná kvalifikace",
       "politika vzdělávání",
       "průběžná profesní příprava",
-      "prųbėná profesní pøíprava",
+      "školská legislativa",
       "speciální vzdělávání",
       "učitel",
-      "vzdėlávání pedagogų",
-      "vzdělávání pedagogů",
-      "školská legislativa"
+      "vzdělávání pedagogů"
     ]
   },
   {
@@ -22013,12 +21313,10 @@
       "odborná kvalifikace",
       "politika vzdělávání",
       "průběžná profesní příprava",
-      "prųbėná profesní pøíprava",
+      "školská legislativa",
       "speciální vzdělávání",
       "učitel",
-      "vzdėlávání pedagogų",
-      "vzdělávání pedagogů",
-      "školská legislativa"
+      "vzdělávání pedagogů"
     ]
   },
   {
@@ -22038,12 +21336,10 @@
       "odborná kvalifikace",
       "politika vzdělávání",
       "průběžná profesní příprava",
-      "prųbėná profesní pøíprava",
+      "školská legislativa",
       "speciální vzdělávání",
       "učitel",
-      "vzdėlávání pedagogų",
-      "vzdělávání pedagogů",
-      "školská legislativa"
+      "vzdělávání pedagogů"
     ]
   },
   {
@@ -22063,12 +21359,10 @@
       "odborná kvalifikace",
       "politika vzdělávání",
       "průběžná profesní příprava",
-      "prųbėná profesní pøíprava",
+      "školská legislativa",
       "speciální vzdělávání",
       "učitel",
-      "vzdėlávání pedagogų",
-      "vzdělávání pedagogů",
-      "školská legislativa"
+      "vzdělávání pedagogů"
     ]
   },
   {
@@ -22088,12 +21382,10 @@
       "odborná kvalifikace",
       "politika vzdělávání",
       "průběžná profesní příprava",
-      "prųbėná profesní pøíprava",
+      "školská legislativa",
       "speciální vzdělávání",
       "učitel",
-      "vzdėlávání pedagogų",
-      "vzdělávání pedagogů",
-      "školská legislativa"
+      "vzdělávání pedagogů"
     ]
   },
   {
@@ -22113,12 +21405,10 @@
       "odborná kvalifikace",
       "politika vzdělávání",
       "průběžná profesní příprava",
-      "prųbėná profesní pøíprava",
+      "školská legislativa",
       "speciální vzdělávání",
       "učitel",
-      "vzdėlávání pedagogų",
-      "vzdělávání pedagogů",
-      "školská legislativa"
+      "vzdělávání pedagogů"
     ]
   },
   {
@@ -22138,12 +21428,10 @@
       "odborná kvalifikace",
       "politika vzdělávání",
       "průběžná profesní příprava",
-      "prųbėná profesní pøíprava",
+      "školská legislativa",
       "speciální vzdělávání",
       "učitel",
-      "vzdėlávání pedagogų",
-      "vzdělávání pedagogů",
-      "školská legislativa"
+      "vzdělávání pedagogů"
     ]
   },
   {
@@ -22163,12 +21451,10 @@
       "odborná kvalifikace",
       "politika vzdělávání",
       "průběžná profesní příprava",
-      "prųbėná profesní pøíprava",
+      "školská legislativa",
       "speciální vzdělávání",
       "učitel",
-      "vzdėlávání pedagogų",
-      "vzdělávání pedagogů",
-      "školská legislativa"
+      "vzdělávání pedagogů"
     ]
   },
   {
@@ -22188,12 +21474,10 @@
       "odborná kvalifikace",
       "politika vzdělávání",
       "průběžná profesní příprava",
-      "prųbėná profesní pøíprava",
+      "školská legislativa",
       "speciální vzdělávání",
       "učitel",
-      "vzdėlávání pedagogų",
-      "vzdělávání pedagogů",
-      "školská legislativa"
+      "vzdělávání pedagogů"
     ]
   },
   {
@@ -22213,12 +21497,10 @@
       "odborná kvalifikace",
       "politika vzdělávání",
       "průběžná profesní příprava",
-      "prųbėná profesní pøíprava",
+      "školská legislativa",
       "speciální vzdělávání",
       "učitel",
-      "vzdėlávání pedagogų",
-      "vzdělávání pedagogů",
-      "školská legislativa"
+      "vzdělávání pedagogů"
     ]
   },
   {
@@ -22238,12 +21520,10 @@
       "odborná kvalifikace",
       "politika vzdělávání",
       "průběžná profesní příprava",
-      "prųbėná profesní pøíprava",
+      "školská legislativa",
       "speciální vzdělávání",
       "učitel",
-      "vzdėlávání pedagogų",
-      "vzdělávání pedagogů",
-      "školská legislativa"
+      "vzdělávání pedagogů"
     ]
   },
   {
@@ -22263,12 +21543,10 @@
       "odborná kvalifikace",
       "politika vzdělávání",
       "průběžná profesní příprava",
-      "prųbėná profesní pøíprava",
+      "školská legislativa",
       "speciální vzdělávání",
       "učitel",
-      "vzdėlávání pedagogų",
-      "vzdělávání pedagogů",
-      "školská legislativa"
+      "vzdělávání pedagogů"
     ]
   },
   {
@@ -22288,12 +21566,10 @@
       "odborná kvalifikace",
       "politika vzdělávání",
       "průběžná profesní příprava",
-      "prųbėná profesní pøíprava",
+      "školská legislativa",
       "speciální vzdělávání",
       "učitel",
-      "vzdėlávání pedagogų",
-      "vzdělávání pedagogů",
-      "školská legislativa"
+      "vzdělávání pedagogů"
     ]
   },
   {
@@ -22313,12 +21589,10 @@
       "odborná kvalifikace",
       "politika vzdělávání",
       "průběžná profesní příprava",
-      "prųbėná profesní pøíprava",
+      "školská legislativa",
       "speciální vzdělávání",
       "učitel",
-      "vzdėlávání pedagogų",
-      "vzdělávání pedagogů",
-      "školská legislativa"
+      "vzdělávání pedagogů"
     ]
   },
   {
@@ -22338,12 +21612,10 @@
       "odborná kvalifikace",
       "politika vzdělávání",
       "průběžná profesní příprava",
-      "prųbėná profesní pøíprava",
+      "školská legislativa",
       "speciální vzdělávání",
       "učitel",
-      "vzdėlávání pedagogų",
-      "vzdělávání pedagogů",
-      "školská legislativa"
+      "vzdělávání pedagogů"
     ]
   },
   {
@@ -22363,12 +21635,10 @@
       "odborná kvalifikace",
       "politika vzdělávání",
       "průběžná profesní příprava",
-      "prųbėná profesní pøíprava",
+      "školská legislativa",
       "speciální vzdělávání",
       "učitel",
-      "vzdėlávání pedagogų",
-      "vzdělávání pedagogů",
-      "školská legislativa"
+      "vzdělávání pedagogů"
     ]
   },
   {
@@ -22388,12 +21658,10 @@
       "odborná kvalifikace",
       "politika vzdělávání",
       "průběžná profesní příprava",
-      "prųbėná profesní pøíprava",
+      "školská legislativa",
       "speciální vzdělávání",
       "učitel",
-      "vzdėlávání pedagogų",
-      "vzdělávání pedagogů",
-      "školská legislativa"
+      "vzdělávání pedagogů"
     ]
   },
   {
@@ -22413,12 +21681,10 @@
       "odborná kvalifikace",
       "politika vzdělávání",
       "průběžná profesní příprava",
-      "prųbėná profesní pøíprava",
+      "školská legislativa",
       "speciální vzdělávání",
       "učitel",
-      "vzdėlávání pedagogų",
-      "vzdělávání pedagogů",
-      "školská legislativa"
+      "vzdělávání pedagogů"
     ]
   },
   {
@@ -22438,12 +21704,10 @@
       "odborná kvalifikace",
       "politika vzdělávání",
       "průběžná profesní příprava",
-      "prųbėná profesní pøíprava",
+      "školská legislativa",
       "speciální vzdělávání",
       "učitel",
-      "vzdėlávání pedagogų",
-      "vzdělávání pedagogů",
-      "školská legislativa"
+      "vzdělávání pedagogů"
     ]
   },
   {
@@ -22463,12 +21727,10 @@
       "odborná kvalifikace",
       "politika vzdělávání",
       "průběžná profesní příprava",
-      "prųbėná profesní pøíprava",
+      "školská legislativa",
       "speciální vzdělávání",
       "učitel",
-      "vzdėlávání pedagogų",
-      "vzdělávání pedagogů",
-      "školská legislativa"
+      "vzdělávání pedagogů"
     ]
   },
   {
@@ -22724,7 +21986,6 @@
     "temata": [
       "dluh",
       "odpis daňového dluhu",
-      "odpis daōového dluhu",
       "penále",
       "sociální zabezpečení",
       "výkon rozhodnutí"
@@ -22745,7 +22006,6 @@
     "temata": [
       "dluh",
       "odpis daňového dluhu",
-      "odpis daōového dluhu",
       "penále",
       "sociální zabezpečení",
       "výkon rozhodnutí"
@@ -22767,10 +22027,8 @@
       "přidělení zakázky",
       "soutěžní řízení",
       "veřejná zakázka",
-      "vypsání soutėe",
-      "vypsání soutěže",
-      "vítėzná zakázka",
-      "vítězná zakázka"
+      "vítězná zakázka",
+      "vypsání soutěže"
     ]
   },
   {
@@ -22789,10 +22047,8 @@
       "přidělení zakázky",
       "soutěžní řízení",
       "veřejná zakázka",
-      "vypsání soutėe",
-      "vypsání soutěže",
-      "vítėzná zakázka",
-      "vítězná zakázka"
+      "vítězná zakázka",
+      "vypsání soutěže"
     ]
   },
   {
@@ -22810,7 +22066,6 @@
     "temata": [
       "ekologie",
       "environmentální politika",
-      "kontrola znečitėní",
       "kontrola znečištění",
       "právo na informace",
       "přírodní zdroje",
@@ -22833,7 +22088,6 @@
     "temata": [
       "ekologie",
       "environmentální politika",
-      "kontrola znečitėní",
       "kontrola znečištění",
       "právo na informace",
       "přírodní zdroje",
@@ -22856,7 +22110,6 @@
     "temata": [
       "ekologie",
       "environmentální politika",
-      "kontrola znečitėní",
       "kontrola znečištění",
       "právo na informace",
       "přírodní zdroje",
@@ -22879,7 +22132,6 @@
     "temata": [
       "ekologie",
       "environmentální politika",
-      "kontrola znečitėní",
       "kontrola znečištění",
       "právo na informace",
       "přírodní zdroje",
@@ -22902,7 +22154,6 @@
     "temata": [
       "ekologie",
       "environmentální politika",
-      "kontrola znečitėní",
       "kontrola znečištění",
       "právo na informace",
       "přírodní zdroje",
@@ -22925,7 +22176,6 @@
     "temata": [
       "ekologie",
       "environmentální politika",
-      "kontrola znečitėní",
       "kontrola znečištění",
       "právo na informace",
       "přírodní zdroje",
@@ -22948,7 +22198,6 @@
     "temata": [
       "ekologie",
       "environmentální politika",
-      "kontrola znečitėní",
       "kontrola znečištění",
       "právo na informace",
       "přírodní zdroje",
@@ -22971,7 +22220,6 @@
     "temata": [
       "ekologie",
       "environmentální politika",
-      "kontrola znečitėní",
       "kontrola znečištění",
       "právo na informace",
       "přírodní zdroje",
@@ -22994,7 +22242,6 @@
     "temata": [
       "ekologie",
       "environmentální politika",
-      "kontrola znečitėní",
       "kontrola znečištění",
       "právo na informace",
       "přírodní zdroje",
@@ -23017,7 +22264,6 @@
     "temata": [
       "ekologie",
       "environmentální politika",
-      "kontrola znečitėní",
       "kontrola znečištění",
       "právo na informace",
       "přírodní zdroje",
@@ -23042,9 +22288,7 @@
       "dominantní postavení",
       "kontrola restriktivních praktik",
       "omezování soutěže",
-      "politika hospodáøské soutìže EU",
       "politika hospodářské soutěže EU",
-      "soutė",
       "soutěž",
       "soutěžní politika",
       "soutěžní právo",
@@ -23066,7 +22310,6 @@
     "temata": [
       "ekologie",
       "environmentální politika",
-      "kontrola znečitėní",
       "kontrola znečištění",
       "právo na informace",
       "přírodní zdroje",
@@ -23089,7 +22332,6 @@
     "temata": [
       "ekologie",
       "environmentální politika",
-      "kontrola znečitėní",
       "kontrola znečištění",
       "právo na informace",
       "přírodní zdroje",
@@ -23112,7 +22354,6 @@
     "temata": [
       "ekologie",
       "environmentální politika",
-      "kontrola znečitėní",
       "kontrola znečištění",
       "právo na informace",
       "přírodní zdroje",
@@ -23135,7 +22376,6 @@
     "temata": [
       "ekologie",
       "environmentální politika",
-      "kontrola znečitėní",
       "kontrola znečištění",
       "právo na informace",
       "přírodní zdroje",
@@ -23158,7 +22398,6 @@
     "temata": [
       "ekologie",
       "environmentální politika",
-      "kontrola znečitėní",
       "kontrola znečištění",
       "právo na informace",
       "přírodní zdroje",
@@ -23201,7 +22440,6 @@
     "temata": [
       "ekologie",
       "environmentální politika",
-      "kontrola znečitėní",
       "kontrola znečištění",
       "právo na informace",
       "přírodní zdroje",
@@ -23227,7 +22465,6 @@
       "přibližování legislativy",
       "střelná zbraň a střelivo",
       "výbušnina",
-      "zbrojaøský prųmysl",
       "zbrojařský průmysl"
     ]
   },
@@ -23293,6 +22530,20 @@
       "radioaktivní odpad",
       "skladování odpadu"
     ]
+  },
+  {
+    "id": 80557,
+    "date": "2023-05-03",
+    "title": "63. schůze, 235. hlasování , 3. května 2023, 12:08:00",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 121,
+      "no": 3,
+      "abstain": 11,
+      "absent": 42,
+      "not_logged": 23
+    },
+    "temata": []
   },
   {
     "id": 80558,
@@ -23728,21 +22979,14 @@
     },
     "temata": [
       "stavba",
-      "stavební povolení",
-      "stavební právo",
       "stavebnķ politika",
       "stavebnķ povolenķ",
       "stavebnķ prįvo",
-      "technické předpisy a normy",
       "technické pųedpisy a normy",
-      "trestní sankce",
       "trestnķ sankce",
-      "veřejná správa",
-      "veųejnį sprįva",
-      "územní plánování",
-      "územní samospráva",
       "śzemnķ plįnovįnķ",
-      "śzemnķ samosprįva"
+      "śzemnķ samosprįva",
+      "veųejnį sprįva"
     ]
   },
   {
@@ -23759,21 +23003,14 @@
     },
     "temata": [
       "stavba",
-      "stavební povolení",
-      "stavební právo",
       "stavebnķ politika",
       "stavebnķ povolenķ",
       "stavebnķ prįvo",
-      "technické předpisy a normy",
       "technické pųedpisy a normy",
-      "trestní sankce",
       "trestnķ sankce",
-      "veřejná správa",
-      "veųejnį sprįva",
-      "územní plánování",
-      "územní samospráva",
       "śzemnķ plįnovįnķ",
-      "śzemnķ samosprįva"
+      "śzemnķ samosprįva",
+      "veųejnį sprįva"
     ]
   },
   {
@@ -23790,21 +23027,14 @@
     },
     "temata": [
       "stavba",
-      "stavební povolení",
-      "stavební právo",
       "stavebnķ politika",
       "stavebnķ povolenķ",
       "stavebnķ prįvo",
-      "technické předpisy a normy",
       "technické pųedpisy a normy",
-      "trestní sankce",
       "trestnķ sankce",
-      "veřejná správa",
-      "veųejnį sprįva",
-      "územní plánování",
-      "územní samospráva",
       "śzemnķ plįnovįnķ",
-      "śzemnķ samosprįva"
+      "śzemnķ samosprįva",
+      "veųejnį sprįva"
     ]
   },
   {
@@ -23849,21 +23079,14 @@
     },
     "temata": [
       "stavba",
-      "stavební povolení",
-      "stavební právo",
       "stavebnķ politika",
       "stavebnķ povolenķ",
       "stavebnķ prįvo",
-      "technické předpisy a normy",
       "technické pųedpisy a normy",
-      "trestní sankce",
       "trestnķ sankce",
-      "veřejná správa",
-      "veųejnį sprįva",
-      "územní plánování",
-      "územní samospráva",
       "śzemnķ plįnovįnķ",
-      "śzemnķ samosprįva"
+      "śzemnķ samosprįva",
+      "veųejnį sprįva"
     ]
   },
   {
@@ -23880,21 +23103,14 @@
     },
     "temata": [
       "stavba",
-      "stavební povolení",
-      "stavební právo",
       "stavebnķ politika",
       "stavebnķ povolenķ",
       "stavebnķ prįvo",
-      "technické předpisy a normy",
       "technické pųedpisy a normy",
-      "trestní sankce",
       "trestnķ sankce",
-      "veřejná správa",
-      "veųejnį sprįva",
-      "územní plánování",
-      "územní samospráva",
       "śzemnķ plįnovįnķ",
-      "śzemnķ samosprįva"
+      "śzemnķ samosprįva",
+      "veųejnį sprįva"
     ]
   },
   {
@@ -23911,21 +23127,14 @@
     },
     "temata": [
       "stavba",
-      "stavební povolení",
-      "stavební právo",
       "stavebnķ politika",
       "stavebnķ povolenķ",
       "stavebnķ prįvo",
-      "technické předpisy a normy",
       "technické pųedpisy a normy",
-      "trestní sankce",
       "trestnķ sankce",
-      "veřejná správa",
-      "veųejnį sprįva",
-      "územní plánování",
-      "územní samospráva",
       "śzemnķ plįnovįnķ",
-      "śzemnķ samosprįva"
+      "śzemnķ samosprįva",
+      "veųejnį sprįva"
     ]
   },
   {
@@ -23942,21 +23151,14 @@
     },
     "temata": [
       "stavba",
-      "stavební povolení",
-      "stavební právo",
       "stavebnķ politika",
       "stavebnķ povolenķ",
       "stavebnķ prįvo",
-      "technické předpisy a normy",
       "technické pųedpisy a normy",
-      "trestní sankce",
       "trestnķ sankce",
-      "veřejná správa",
-      "veųejnį sprįva",
-      "územní plánování",
-      "územní samospráva",
       "śzemnķ plįnovįnķ",
-      "śzemnķ samosprįva"
+      "śzemnķ samosprįva",
+      "veųejnį sprįva"
     ]
   },
   {
@@ -23973,21 +23175,14 @@
     },
     "temata": [
       "stavba",
-      "stavební povolení",
-      "stavební právo",
       "stavebnķ politika",
       "stavebnķ povolenķ",
       "stavebnķ prįvo",
-      "technické předpisy a normy",
       "technické pųedpisy a normy",
-      "trestní sankce",
       "trestnķ sankce",
-      "veřejná správa",
-      "veųejnį sprįva",
-      "územní plánování",
-      "územní samospráva",
       "śzemnķ plįnovįnķ",
-      "śzemnķ samosprįva"
+      "śzemnķ samosprįva",
+      "veųejnį sprįva"
     ]
   },
   {
@@ -24004,21 +23199,14 @@
     },
     "temata": [
       "stavba",
-      "stavební povolení",
-      "stavební právo",
       "stavebnķ politika",
       "stavebnķ povolenķ",
       "stavebnķ prįvo",
-      "technické předpisy a normy",
       "technické pųedpisy a normy",
-      "trestní sankce",
       "trestnķ sankce",
-      "veřejná správa",
-      "veųejnį sprįva",
-      "územní plánování",
-      "územní samospráva",
       "śzemnķ plįnovįnķ",
-      "śzemnķ samosprįva"
+      "śzemnķ samosprįva",
+      "veųejnį sprįva"
     ]
   },
   {
@@ -24035,21 +23223,14 @@
     },
     "temata": [
       "stavba",
-      "stavební povolení",
-      "stavební právo",
       "stavebnķ politika",
       "stavebnķ povolenķ",
       "stavebnķ prįvo",
-      "technické předpisy a normy",
       "technické pųedpisy a normy",
-      "trestní sankce",
       "trestnķ sankce",
-      "veřejná správa",
-      "veųejnį sprįva",
-      "územní plánování",
-      "územní samospráva",
       "śzemnķ plįnovįnķ",
-      "śzemnķ samosprįva"
+      "śzemnķ samosprįva",
+      "veųejnį sprįva"
     ]
   },
   {
@@ -24066,21 +23247,14 @@
     },
     "temata": [
       "stavba",
-      "stavební povolení",
-      "stavební právo",
       "stavebnķ politika",
       "stavebnķ povolenķ",
       "stavebnķ prįvo",
-      "technické předpisy a normy",
       "technické pųedpisy a normy",
-      "trestní sankce",
       "trestnķ sankce",
-      "veřejná správa",
-      "veųejnį sprįva",
-      "územní plánování",
-      "územní samospráva",
       "śzemnķ plįnovįnķ",
-      "śzemnķ samosprįva"
+      "śzemnķ samosprįva",
+      "veųejnį sprįva"
     ]
   },
   {
@@ -24097,21 +23271,14 @@
     },
     "temata": [
       "stavba",
-      "stavební povolení",
-      "stavební právo",
       "stavebnķ politika",
       "stavebnķ povolenķ",
       "stavebnķ prįvo",
-      "technické předpisy a normy",
       "technické pųedpisy a normy",
-      "trestní sankce",
       "trestnķ sankce",
-      "veřejná správa",
-      "veųejnį sprįva",
-      "územní plánování",
-      "územní samospráva",
       "śzemnķ plįnovįnķ",
-      "śzemnķ samosprįva"
+      "śzemnķ samosprįva",
+      "veųejnį sprįva"
     ]
   },
   {
@@ -24128,21 +23295,14 @@
     },
     "temata": [
       "stavba",
-      "stavební povolení",
-      "stavební právo",
       "stavebnķ politika",
       "stavebnķ povolenķ",
       "stavebnķ prįvo",
-      "technické předpisy a normy",
       "technické pųedpisy a normy",
-      "trestní sankce",
       "trestnķ sankce",
-      "veřejná správa",
-      "veųejnį sprįva",
-      "územní plánování",
-      "územní samospráva",
       "śzemnķ plįnovįnķ",
-      "śzemnķ samosprįva"
+      "śzemnķ samosprįva",
+      "veųejnį sprįva"
     ]
   },
   {
@@ -24328,7 +23488,6 @@
     "temata": [
       "dluh",
       "odpis daňového dluhu",
-      "odpis daōového dluhu",
       "penále",
       "sociální zabezpečení",
       "výkon rozhodnutí"
@@ -24349,7 +23508,6 @@
     "temata": [
       "dluh",
       "odpis daňového dluhu",
-      "odpis daōového dluhu",
       "penále",
       "sociální zabezpečení",
       "výkon rozhodnutí"
@@ -24370,7 +23528,6 @@
     "temata": [
       "dluh",
       "odpis daňového dluhu",
-      "odpis daōového dluhu",
       "penále",
       "sociální zabezpečení",
       "výkon rozhodnutí"
@@ -24391,7 +23548,6 @@
     "temata": [
       "dluh",
       "odpis daňového dluhu",
-      "odpis daōového dluhu",
       "penále",
       "sociální zabezpečení",
       "výkon rozhodnutí"
@@ -24412,7 +23568,6 @@
     "temata": [
       "dluh",
       "odpis daňového dluhu",
-      "odpis daōového dluhu",
       "penále",
       "sociální zabezpečení",
       "výkon rozhodnutí"
@@ -24433,7 +23588,6 @@
     "temata": [
       "dluh",
       "odpis daňového dluhu",
-      "odpis daōového dluhu",
       "penále",
       "sociální zabezpečení",
       "výkon rozhodnutí"
@@ -24454,7 +23608,6 @@
     "temata": [
       "dluh",
       "odpis daňového dluhu",
-      "odpis daōového dluhu",
       "penále",
       "sociální zabezpečení",
       "výkon rozhodnutí"
@@ -24475,7 +23628,6 @@
     "temata": [
       "dluh",
       "odpis daňového dluhu",
-      "odpis daōového dluhu",
       "penále",
       "sociální zabezpečení",
       "výkon rozhodnutí"
@@ -24496,7 +23648,6 @@
     "temata": [
       "dluh",
       "odpis daňového dluhu",
-      "odpis daōového dluhu",
       "penále",
       "sociální zabezpečení",
       "výkon rozhodnutí"
@@ -24517,7 +23668,6 @@
     "temata": [
       "dluh",
       "odpis daňového dluhu",
-      "odpis daōového dluhu",
       "penále",
       "sociální zabezpečení",
       "výkon rozhodnutí"
@@ -24538,8 +23688,7 @@
     "temata": [
       "daň",
       "daňová úleva",
-      "odpis daňového dluhu",
-      "odpis daōového dluhu"
+      "odpis daňového dluhu"
     ]
   },
   {
@@ -24556,7 +23705,6 @@
     },
     "temata": [
       "financování rozpočtu",
-      "plnėní rozpočtu",
       "plnění rozpočtu",
       "státní rozpočet"
     ]
@@ -24575,7 +23723,6 @@
     },
     "temata": [
       "financování rozpočtu",
-      "plnėní rozpočtu",
       "plnění rozpočtu",
       "státní rozpočet"
     ]
@@ -24594,7 +23741,6 @@
     },
     "temata": [
       "financování rozpočtu",
-      "plnėní rozpočtu",
       "plnění rozpočtu",
       "státní rozpočet"
     ]
@@ -24814,7 +23960,6 @@
     },
     "temata": [
       "financování rozpočtu",
-      "plnėní rozpočtu",
       "plnění rozpočtu",
       "státní rozpočet"
     ]
@@ -24833,7 +23978,6 @@
     },
     "temata": [
       "financování rozpočtu",
-      "plnėní rozpočtu",
       "plnění rozpočtu",
       "státní rozpočet"
     ]
@@ -24852,7 +23996,6 @@
     },
     "temata": [
       "financování rozpočtu",
-      "plnėní rozpočtu",
       "plnění rozpočtu",
       "státní rozpočet"
     ]
@@ -24974,10 +24117,8 @@
       "not_logged": 17
     },
     "temata": [
-      "Mezinárodní námoøní organizace",
-      "Mezinárodní námořní organizace",
       "mezinárodní dohoda",
-      "námoøní bezpečnost",
+      "Mezinárodní námořní organizace",
       "námořní bezpečnost",
       "námořní doprava",
       "ratifikace dohody",
@@ -24998,10 +24139,8 @@
       "not_logged": 15
     },
     "temata": [
-      "Mezinárodní námoøní organizace",
-      "Mezinárodní námořní organizace",
       "mezinárodní dohoda",
-      "námoøní bezpečnost",
+      "Mezinárodní námořní organizace",
       "námořní bezpečnost",
       "námořní doprava",
       "ratifikace dohody",
@@ -25022,10 +24161,8 @@
       "not_logged": 13
     },
     "temata": [
-      "Mezinárodní námoøní organizace",
-      "Mezinárodní námořní organizace",
       "mezinárodní dohoda",
-      "námoøní bezpečnost",
+      "Mezinárodní námořní organizace",
       "námořní bezpečnost",
       "námořní doprava",
       "ratifikace dohody",
@@ -25046,10 +24183,8 @@
       "not_logged": 12
     },
     "temata": [
-      "Mezinárodní námoøní organizace",
-      "Mezinárodní námořní organizace",
       "mezinárodní dohoda",
-      "námoøní bezpečnost",
+      "Mezinárodní námořní organizace",
       "námořní bezpečnost",
       "námořní doprava",
       "ratifikace dohody",
@@ -25385,10 +24520,8 @@
       "přidělení zakázky",
       "soutěžní řízení",
       "veřejná zakázka",
-      "vypsání soutėe",
-      "vypsání soutěže",
-      "vítėzná zakázka",
-      "vítězná zakázka"
+      "vítězná zakázka",
+      "vypsání soutěže"
     ]
   },
   {
@@ -25407,10 +24540,8 @@
       "přidělení zakázky",
       "soutěžní řízení",
       "veřejná zakázka",
-      "vypsání soutėe",
-      "vypsání soutěže",
-      "vítėzná zakázka",
-      "vítězná zakázka"
+      "vítězná zakázka",
+      "vypsání soutěže"
     ]
   },
   {
@@ -25427,11 +24558,10 @@
     },
     "temata": [
       "pitná voda",
-      "zdravotnická legislativa",
-      "zdravotní politika",
+      "řízení rizik",
       "zdraví veřejnosti",
-      "øízení rizik",
-      "řízení rizik"
+      "zdravotnická legislativa",
+      "zdravotní politika"
     ]
   },
   {
@@ -25450,10 +24580,8 @@
       "přidělení zakázky",
       "soutěžní řízení",
       "veřejná zakázka",
-      "vypsání soutėe",
-      "vypsání soutěže",
-      "vítėzná zakázka",
-      "vítězná zakázka"
+      "vítězná zakázka",
+      "vypsání soutěže"
     ]
   },
   {
@@ -25491,10 +24619,8 @@
       "přidělení zakázky",
       "soutěžní řízení",
       "veřejná zakázka",
-      "vypsání soutėe",
-      "vypsání soutěže",
-      "vítėzná zakázka",
-      "vítězná zakázka"
+      "vítězná zakázka",
+      "vypsání soutěže"
     ]
   },
   {
@@ -25513,10 +24639,8 @@
       "přidělení zakázky",
       "soutěžní řízení",
       "veřejná zakázka",
-      "vypsání soutėe",
-      "vypsání soutěže",
-      "vítėzná zakázka",
-      "vítězná zakázka"
+      "vítězná zakázka",
+      "vypsání soutěže"
     ]
   },
   {
@@ -25535,10 +24659,8 @@
       "přidělení zakázky",
       "soutěžní řízení",
       "veřejná zakázka",
-      "vypsání soutėe",
-      "vypsání soutěže",
-      "vítėzná zakázka",
-      "vítězná zakázka"
+      "vítězná zakázka",
+      "vypsání soutěže"
     ]
   },
   {
@@ -25557,10 +24679,8 @@
       "přidělení zakázky",
       "soutěžní řízení",
       "veřejná zakázka",
-      "vypsání soutėe",
-      "vypsání soutěže",
-      "vítėzná zakázka",
-      "vítězná zakázka"
+      "vítězná zakázka",
+      "vypsání soutěže"
     ]
   },
   {
@@ -25579,10 +24699,8 @@
       "přidělení zakázky",
       "soutěžní řízení",
       "veřejná zakázka",
-      "vypsání soutėe",
-      "vypsání soutěže",
-      "vítėzná zakázka",
-      "vítězná zakázka"
+      "vítězná zakázka",
+      "vypsání soutěže"
     ]
   },
   {
@@ -25894,14 +25012,11 @@
       "not_logged": 25
     },
     "temata": [
-      "ochrana svėdkų",
       "ochrana svědků",
       "pracovní podmínky",
       "trestní řízení",
       "trestný čin",
       "whistleblowing",
-      "zamìstnanec",
-      "zamìstnavatel",
       "zaměstnanec",
       "zaměstnavatel"
     ]
@@ -25919,14 +25034,11 @@
       "not_logged": 12
     },
     "temata": [
-      "ochrana svėdkų",
       "ochrana svědků",
       "pracovní podmínky",
       "trestní řízení",
       "trestný čin",
       "whistleblowing",
-      "zamìstnanec",
-      "zamìstnavatel",
       "zaměstnanec",
       "zaměstnavatel"
     ]
@@ -25944,14 +25056,11 @@
       "not_logged": 14
     },
     "temata": [
-      "ochrana svėdkų",
       "ochrana svědků",
       "pracovní podmínky",
       "trestní řízení",
       "trestný čin",
       "whistleblowing",
-      "zamìstnanec",
-      "zamìstnavatel",
       "zaměstnanec",
       "zaměstnavatel"
     ]
@@ -25967,6 +25076,28 @@
       "abstain": 3,
       "absent": 64,
       "not_logged": 41
+    },
+    "temata": [
+      "armáda",
+      "mezinárodní konflikt",
+      "Polsko",
+      "Rusko",
+      "Ukrajina",
+      "válečné právo",
+      "vojenský zásah"
+    ]
+  },
+  {
+    "id": 80705,
+    "date": "2023-06-01",
+    "title": "Písemná interpelace K. Havlíčka na P. Fialu ve věci najímání novináře",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 89,
+      "no": 2,
+      "abstain": 8,
+      "absent": 64,
+      "not_logged": 37
     },
     "temata": [
       "armáda",
@@ -26218,7 +25349,6 @@
       "trestní odpovědnost",
       "trestní zákoník",
       "trestný čin",
-      "trestnķ odpovģdnost",
       "učitel",
       "veřejná bezpečnost"
     ]
@@ -28521,7 +27651,6 @@
       "manželství",
       "občanský zákoník",
       "registrované partnerství",
-      "sexuální menina",
       "sexuální menšina"
     ]
   },
@@ -28541,7 +27670,6 @@
       "manželství",
       "občanský zákoník",
       "registrované partnerství",
-      "sexuální menina",
       "sexuální menšina"
     ]
   },
@@ -28561,7 +27689,6 @@
       "manželství",
       "občanský zákoník",
       "registrované partnerství",
-      "sexuální menina",
       "sexuální menšina"
     ]
   },
@@ -28581,7 +27708,6 @@
       "manželství",
       "občanský zákoník",
       "registrované partnerství",
-      "sexuální menina",
       "sexuální menšina"
     ]
   },
@@ -28601,7 +27727,6 @@
       "manželství",
       "občanský zákoník",
       "registrované partnerství",
-      "sexuální menina",
       "sexuální menšina"
     ]
   },
@@ -28623,7 +27748,6 @@
       "ochrana spotřebitele",
       "osobní doprava",
       "pozemní doprava",
-      "elezniční sí",
       "železniční doprava",
       "železniční síť"
     ]
@@ -28644,7 +27768,6 @@
       "manželství",
       "občanský zákoník",
       "registrované partnerství",
-      "sexuální menina",
       "sexuální menšina"
     ]
   },
@@ -28664,7 +27787,6 @@
       "manželství",
       "občanský zákoník",
       "registrované partnerství",
-      "sexuální menina",
       "sexuální menšina"
     ]
   },
@@ -28684,7 +27806,6 @@
       "manželství",
       "občanský zákoník",
       "registrované partnerství",
-      "sexuální menina",
       "sexuální menšina"
     ]
   },
@@ -28704,7 +27825,6 @@
       "manželství",
       "občanský zákoník",
       "registrované partnerství",
-      "sexuální menina",
       "sexuální menšina"
     ]
   },
@@ -28724,7 +27844,6 @@
       "manželství",
       "občanský zákoník",
       "registrované partnerství",
-      "sexuální menina",
       "sexuální menšina"
     ]
   },
@@ -28744,7 +27863,6 @@
       "manželství",
       "občanský zákoník",
       "registrované partnerství",
-      "sexuální menina",
       "sexuální menšina"
     ]
   },
@@ -28764,7 +27882,6 @@
       "manželství",
       "občanský zákoník",
       "registrované partnerství",
-      "sexuální menina",
       "sexuální menšina"
     ]
   },
@@ -28784,7 +27901,6 @@
       "manželství",
       "občanský zákoník",
       "registrované partnerství",
-      "sexuální menina",
       "sexuální menšina"
     ]
   },
@@ -28804,7 +27920,6 @@
       "manželství",
       "občanský zákoník",
       "registrované partnerství",
-      "sexuální menina",
       "sexuální menšina"
     ]
   },
@@ -28822,9 +27937,7 @@
     },
     "temata": [
       "chov zvířat",
-      "domácí zvíøe",
       "domácí zvíře",
-      "finance místních úøadù",
       "finance místních úřadů",
       "místní daň"
     ]
@@ -28879,10 +27992,8 @@
       "přidělení zakázky",
       "soutěžní řízení",
       "veřejná zakázka",
-      "vypsání soutėe",
-      "vypsání soutěže",
-      "vítėzná zakázka",
-      "vítězná zakázka"
+      "vítězná zakázka",
+      "vypsání soutěže"
     ]
   },
   {
@@ -28901,10 +28012,8 @@
       "přidělení zakázky",
       "soutěžní řízení",
       "veřejná zakázka",
-      "vypsání soutėe",
-      "vypsání soutěže",
-      "vítėzná zakázka",
-      "vítězná zakázka"
+      "vítězná zakázka",
+      "vypsání soutěže"
     ]
   },
   {
@@ -28940,10 +28049,8 @@
       "přidělení zakázky",
       "soutěžní řízení",
       "veřejná zakázka",
-      "vypsání soutėe",
-      "vypsání soutěže",
-      "vítėzná zakázka",
-      "vítězná zakázka"
+      "vítězná zakázka",
+      "vypsání soutěže"
     ]
   },
   {
@@ -28962,10 +28069,8 @@
       "přidělení zakázky",
       "soutěžní řízení",
       "veřejná zakázka",
-      "vypsání soutėe",
-      "vypsání soutěže",
-      "vítėzná zakázka",
-      "vítězná zakázka"
+      "vítězná zakázka",
+      "vypsání soutěže"
     ]
   },
   {
@@ -29057,7 +28162,6 @@
       "manželství",
       "občanský zákoník",
       "registrované partnerství",
-      "sexuální menina",
       "sexuální menšina"
     ]
   },
@@ -29077,7 +28181,6 @@
       "manželství",
       "občanský zákoník",
       "registrované partnerství",
-      "sexuální menina",
       "sexuální menšina"
     ]
   },
@@ -29097,7 +28200,6 @@
       "manželství",
       "občanský zákoník",
       "registrované partnerství",
-      "sexuální menina",
       "sexuální menšina"
     ]
   },
@@ -29396,7 +28498,6 @@
     "temata": [
       "ekologie",
       "environmentální politika",
-      "kontrola znečitėní",
       "kontrola znečištění",
       "právo na informace",
       "přírodní zdroje",
@@ -29419,7 +28520,6 @@
     "temata": [
       "ekologie",
       "environmentální politika",
-      "kontrola znečitėní",
       "kontrola znečištění",
       "právo na informace",
       "přírodní zdroje",
@@ -29442,7 +28542,6 @@
     "temata": [
       "ekologie",
       "environmentální politika",
-      "kontrola znečitėní",
       "kontrola znečištění",
       "právo na informace",
       "přírodní zdroje",
@@ -29509,7 +28608,6 @@
     "temata": [
       "ekologie",
       "environmentální politika",
-      "kontrola znečitėní",
       "kontrola znečištění",
       "právo na informace",
       "přírodní zdroje",
@@ -29532,7 +28630,6 @@
     "temata": [
       "ekologie",
       "environmentální politika",
-      "kontrola znečitėní",
       "kontrola znečištění",
       "právo na informace",
       "přírodní zdroje",
@@ -29554,12 +28651,10 @@
     },
     "temata": [
       "financování rozpočtu",
-      "plnėní rozpočtu",
       "plnění rozpočtu",
       "televize",
-      "zpráva o činnosti",
-      "účetní uzávėrka",
-      "účetní uzávěrka"
+      "účetní uzávěrka",
+      "zpráva o činnosti"
     ]
   },
   {
@@ -29575,16 +28670,13 @@
       "not_logged": 16
     },
     "temata": [
-      "hromadné sdėlovací prostøedky",
       "hromadné sdělovací prostředky",
       "komunikační politika",
-      "plnėní rozpočtu",
       "plnění rozpočtu",
       "programová produkce",
       "rozhlasové vysílání",
-      "zpráva o činnosti",
-      "účetní uzávėrka",
-      "účetní uzávěrka"
+      "účetní uzávěrka",
+      "zpráva o činnosti"
     ]
   },
   {
@@ -29600,7 +28692,6 @@
       "not_logged": 18
     },
     "temata": [
-      "plnėní rozpočtu",
       "plnění rozpočtu",
       "televize",
       "zpráva o činnosti"
@@ -29620,12 +28711,10 @@
     },
     "temata": [
       "financování rozpočtu",
-      "plnėní rozpočtu",
       "plnění rozpočtu",
       "tisková agentura",
-      "zpráva o činnosti",
-      "účetní uzávėrka",
-      "účetní uzávěrka"
+      "účetní uzávěrka",
+      "zpráva o činnosti"
     ]
   },
   {
@@ -29642,12 +28731,10 @@
     },
     "temata": [
       "financování rozpočtu",
-      "plnėní rozpočtu",
       "plnění rozpočtu",
       "televize",
-      "zpráva o činnosti",
-      "účetní uzávėrka",
-      "účetní uzávěrka"
+      "účetní uzávěrka",
+      "zpráva o činnosti"
     ]
   },
   {
@@ -29664,7 +28751,6 @@
     },
     "temata": [
       "dlouhodobá prognóza",
-      "dlouhodobį prognóza",
       "ekonomická prognóza",
       "fiskální politika",
       "veřejné finance",
@@ -29685,12 +28771,10 @@
     },
     "temata": [
       "financování rozpočtu",
-      "plnėní rozpočtu",
       "plnění rozpočtu",
       "televize",
-      "zpráva o činnosti",
-      "účetní uzávėrka",
-      "účetní uzávěrka"
+      "účetní uzávěrka",
+      "zpráva o činnosti"
     ]
   },
   {
@@ -29707,12 +28791,10 @@
     },
     "temata": [
       "financování rozpočtu",
-      "plnėní rozpočtu",
       "plnění rozpočtu",
       "televize",
-      "zpráva o činnosti",
-      "účetní uzávėrka",
-      "účetní uzávěrka"
+      "účetní uzávěrka",
+      "zpráva o činnosti"
     ]
   },
   {
@@ -29729,12 +28811,10 @@
     },
     "temata": [
       "financování rozpočtu",
-      "plnėní rozpočtu",
       "plnění rozpočtu",
       "televize",
-      "zpráva o činnosti",
-      "účetní uzávėrka",
-      "účetní uzávěrka"
+      "účetní uzávěrka",
+      "zpráva o činnosti"
     ]
   },
   {
@@ -29754,9 +28834,7 @@
       "dominantní postavení",
       "kontrola restriktivních praktik",
       "omezování soutěže",
-      "politika hospodáøské soutìže EU",
       "politika hospodářské soutěže EU",
-      "soutė",
       "soutěž",
       "soutěžní politika",
       "soutěžní právo",
@@ -29780,9 +28858,7 @@
       "dominantní postavení",
       "kontrola restriktivních praktik",
       "omezování soutěže",
-      "politika hospodáøské soutìže EU",
       "politika hospodářské soutěže EU",
-      "soutė",
       "soutěž",
       "soutěžní politika",
       "soutěžní právo",
@@ -29806,9 +28882,7 @@
       "dominantní postavení",
       "kontrola restriktivních praktik",
       "omezování soutěže",
-      "politika hospodáøské soutìže EU",
       "politika hospodářské soutěže EU",
-      "soutė",
       "soutěž",
       "soutěžní politika",
       "soutěžní právo",
@@ -29832,9 +28906,7 @@
       "dominantní postavení",
       "kontrola restriktivních praktik",
       "omezování soutěže",
-      "politika hospodáøské soutìže EU",
       "politika hospodářské soutěže EU",
-      "soutė",
       "soutěž",
       "soutěžní politika",
       "soutěžní právo",
@@ -29858,9 +28930,7 @@
       "dominantní postavení",
       "kontrola restriktivních praktik",
       "omezování soutěže",
-      "politika hospodáøské soutìže EU",
       "politika hospodářské soutěže EU",
-      "soutė",
       "soutěž",
       "soutěžní politika",
       "soutěžní právo",
@@ -29884,9 +28954,7 @@
       "dominantní postavení",
       "kontrola restriktivních praktik",
       "omezování soutěže",
-      "politika hospodáøské soutìže EU",
       "politika hospodářské soutěže EU",
-      "soutė",
       "soutěž",
       "soutěžní politika",
       "soutěžní právo",
@@ -29910,9 +28978,7 @@
       "dominantní postavení",
       "kontrola restriktivních praktik",
       "omezování soutěže",
-      "politika hospodáøské soutìže EU",
       "politika hospodářské soutěže EU",
-      "soutė",
       "soutěž",
       "soutěžní politika",
       "soutěžní právo",
@@ -29936,9 +29002,7 @@
       "dominantní postavení",
       "kontrola restriktivních praktik",
       "omezování soutěže",
-      "politika hospodáøské soutìže EU",
       "politika hospodářské soutěže EU",
-      "soutė",
       "soutěž",
       "soutěžní politika",
       "soutěžní právo",
@@ -29962,9 +29026,7 @@
       "dominantní postavení",
       "kontrola restriktivních praktik",
       "omezování soutěže",
-      "politika hospodáøské soutìže EU",
       "politika hospodářské soutěže EU",
-      "soutė",
       "soutěž",
       "soutěžní politika",
       "soutěžní právo",
@@ -29988,9 +29050,7 @@
       "dominantní postavení",
       "kontrola restriktivních praktik",
       "omezování soutěže",
-      "politika hospodáøské soutìže EU",
       "politika hospodářské soutěže EU",
-      "soutė",
       "soutěž",
       "soutěžní politika",
       "soutěžní právo",
@@ -30014,9 +29074,7 @@
       "dominantní postavení",
       "kontrola restriktivních praktik",
       "omezování soutěže",
-      "politika hospodáøské soutìže EU",
       "politika hospodářské soutěže EU",
-      "soutė",
       "soutěž",
       "soutěžní politika",
       "soutěžní právo",
@@ -30311,9 +29369,7 @@
     },
     "temata": [
       "chov zvířat",
-      "domácí zvíøe",
       "domácí zvíře",
-      "finance místních úøadù",
       "finance místních úřadů",
       "místní daň"
     ]
@@ -30349,9 +29405,7 @@
     },
     "temata": [
       "chov zvířat",
-      "domácí zvíøe",
       "domácí zvíře",
-      "finance místních úøadù",
       "finance místních úřadů",
       "místní daň"
     ]
@@ -30370,9 +29424,7 @@
     },
     "temata": [
       "chov zvířat",
-      "domácí zvíøe",
       "domácí zvíře",
-      "finance místních úøadù",
       "finance místních úřadů",
       "místní daň"
     ]
@@ -30774,7 +29826,6 @@
     "temata": [
       "ekologie",
       "environmentální politika",
-      "kontrola znečitėní",
       "kontrola znečištění",
       "právo na informace",
       "přírodní zdroje",
@@ -30795,12 +29846,10 @@
       "not_logged": 10
     },
     "temata": [
-      "propadnutí vėcí",
       "propadnutí věcí",
       "soudní řízení",
-      "výkon rozhodnutí",
       "výkonný orgán",
-      "zabavení vėci",
+      "výkon rozhodnutí",
       "zabavení věci"
     ]
   },
@@ -30819,7 +29868,6 @@
     "temata": [
       "ekologie",
       "environmentální politika",
-      "kontrola znečitėní",
       "kontrola znečištění",
       "právo na informace",
       "přírodní zdroje",
@@ -30842,7 +29890,6 @@
     "temata": [
       "ekologie",
       "environmentální politika",
-      "kontrola znečitėní",
       "kontrola znečištění",
       "právo na informace",
       "přírodní zdroje",
@@ -30865,7 +29912,6 @@
     "temata": [
       "ekologie",
       "environmentální politika",
-      "kontrola znečitėní",
       "kontrola znečištění",
       "právo na informace",
       "přírodní zdroje",
@@ -30888,7 +29934,6 @@
     "temata": [
       "ekologie",
       "environmentální politika",
-      "kontrola znečitėní",
       "kontrola znečištění",
       "právo na informace",
       "přírodní zdroje",
@@ -31532,18 +30577,16 @@
     },
     "temata": [
       "bezpečnost silničního provozu",
-      "dopravní pøestupek",
       "dopravní předpisy",
       "dopravní přestupek",
-      "dopravní kolení",
       "dopravní školení",
       "pokuta",
       "pozemní doprava",
       "pravidla silničního provozu",
+      "řidičský průkaz",
       "silniční doprava",
       "silniční provoz",
-      "trestní sankce",
-      "řidičský průkaz"
+      "trestní sankce"
     ]
   },
   {
@@ -31560,18 +30603,16 @@
     },
     "temata": [
       "bezpečnost silničního provozu",
-      "dopravní pøestupek",
       "dopravní předpisy",
       "dopravní přestupek",
-      "dopravní kolení",
       "dopravní školení",
       "pokuta",
       "pozemní doprava",
       "pravidla silničního provozu",
+      "řidičský průkaz",
       "silniční doprava",
       "silniční provoz",
-      "trestní sankce",
-      "řidičský průkaz"
+      "trestní sankce"
     ]
   },
   {
@@ -31588,18 +30629,16 @@
     },
     "temata": [
       "bezpečnost silničního provozu",
-      "dopravní pøestupek",
       "dopravní předpisy",
       "dopravní přestupek",
-      "dopravní kolení",
       "dopravní školení",
       "pokuta",
       "pozemní doprava",
       "pravidla silničního provozu",
+      "řidičský průkaz",
       "silniční doprava",
       "silniční provoz",
-      "trestní sankce",
-      "řidičský průkaz"
+      "trestní sankce"
     ]
   },
   {
@@ -31616,18 +30655,16 @@
     },
     "temata": [
       "bezpečnost silničního provozu",
-      "dopravní pøestupek",
       "dopravní předpisy",
       "dopravní přestupek",
-      "dopravní kolení",
       "dopravní školení",
       "pokuta",
       "pozemní doprava",
       "pravidla silničního provozu",
+      "řidičský průkaz",
       "silniční doprava",
       "silniční provoz",
-      "trestní sankce",
-      "řidičský průkaz"
+      "trestní sankce"
     ]
   },
   {
@@ -31644,18 +30681,16 @@
     },
     "temata": [
       "bezpečnost silničního provozu",
-      "dopravní pøestupek",
       "dopravní předpisy",
       "dopravní přestupek",
-      "dopravní kolení",
       "dopravní školení",
       "pokuta",
       "pozemní doprava",
       "pravidla silničního provozu",
+      "řidičský průkaz",
       "silniční doprava",
       "silniční provoz",
-      "trestní sankce",
-      "řidičský průkaz"
+      "trestní sankce"
     ]
   },
   {
@@ -31672,18 +30707,16 @@
     },
     "temata": [
       "bezpečnost silničního provozu",
-      "dopravní pøestupek",
       "dopravní předpisy",
       "dopravní přestupek",
-      "dopravní kolení",
       "dopravní školení",
       "pokuta",
       "pozemní doprava",
       "pravidla silničního provozu",
+      "řidičský průkaz",
       "silniční doprava",
       "silniční provoz",
-      "trestní sankce",
-      "řidičský průkaz"
+      "trestní sankce"
     ]
   },
   {
@@ -31700,18 +30733,16 @@
     },
     "temata": [
       "bezpečnost silničního provozu",
-      "dopravní pøestupek",
       "dopravní předpisy",
       "dopravní přestupek",
-      "dopravní kolení",
       "dopravní školení",
       "pokuta",
       "pozemní doprava",
       "pravidla silničního provozu",
+      "řidičský průkaz",
       "silniční doprava",
       "silniční provoz",
-      "trestní sankce",
-      "řidičský průkaz"
+      "trestní sankce"
     ]
   },
   {
@@ -31728,18 +30759,16 @@
     },
     "temata": [
       "bezpečnost silničního provozu",
-      "dopravní pøestupek",
       "dopravní předpisy",
       "dopravní přestupek",
-      "dopravní kolení",
       "dopravní školení",
       "pokuta",
       "pozemní doprava",
       "pravidla silničního provozu",
+      "řidičský průkaz",
       "silniční doprava",
       "silniční provoz",
-      "trestní sankce",
-      "řidičský průkaz"
+      "trestní sankce"
     ]
   },
   {
@@ -31756,18 +30785,16 @@
     },
     "temata": [
       "bezpečnost silničního provozu",
-      "dopravní pøestupek",
       "dopravní předpisy",
       "dopravní přestupek",
-      "dopravní kolení",
       "dopravní školení",
       "pokuta",
       "pozemní doprava",
       "pravidla silničního provozu",
+      "řidičský průkaz",
       "silniční doprava",
       "silniční provoz",
-      "trestní sankce",
-      "řidičský průkaz"
+      "trestní sankce"
     ]
   },
   {
@@ -31784,18 +30811,16 @@
     },
     "temata": [
       "bezpečnost silničního provozu",
-      "dopravní pøestupek",
       "dopravní předpisy",
       "dopravní přestupek",
-      "dopravní kolení",
       "dopravní školení",
       "pokuta",
       "pozemní doprava",
       "pravidla silničního provozu",
+      "řidičský průkaz",
       "silniční doprava",
       "silniční provoz",
-      "trestní sankce",
-      "řidičský průkaz"
+      "trestní sankce"
     ]
   },
   {
@@ -31812,18 +30837,16 @@
     },
     "temata": [
       "bezpečnost silničního provozu",
-      "dopravní pøestupek",
       "dopravní předpisy",
       "dopravní přestupek",
-      "dopravní kolení",
       "dopravní školení",
       "pokuta",
       "pozemní doprava",
       "pravidla silničního provozu",
+      "řidičský průkaz",
       "silniční doprava",
       "silniční provoz",
-      "trestní sankce",
-      "řidičský průkaz"
+      "trestní sankce"
     ]
   },
   {
@@ -31840,18 +30863,16 @@
     },
     "temata": [
       "bezpečnost silničního provozu",
-      "dopravní pøestupek",
       "dopravní předpisy",
       "dopravní přestupek",
-      "dopravní kolení",
       "dopravní školení",
       "pokuta",
       "pozemní doprava",
       "pravidla silničního provozu",
+      "řidičský průkaz",
       "silniční doprava",
       "silniční provoz",
-      "trestní sankce",
-      "řidičský průkaz"
+      "trestní sankce"
     ]
   },
   {
@@ -31868,18 +30889,16 @@
     },
     "temata": [
       "bezpečnost silničního provozu",
-      "dopravní pøestupek",
       "dopravní předpisy",
       "dopravní přestupek",
-      "dopravní kolení",
       "dopravní školení",
       "pokuta",
       "pozemní doprava",
       "pravidla silničního provozu",
+      "řidičský průkaz",
       "silniční doprava",
       "silniční provoz",
-      "trestní sankce",
-      "řidičský průkaz"
+      "trestní sankce"
     ]
   },
   {
@@ -31896,18 +30915,16 @@
     },
     "temata": [
       "bezpečnost silničního provozu",
-      "dopravní pøestupek",
       "dopravní předpisy",
       "dopravní přestupek",
-      "dopravní kolení",
       "dopravní školení",
       "pokuta",
       "pozemní doprava",
       "pravidla silničního provozu",
+      "řidičský průkaz",
       "silniční doprava",
       "silniční provoz",
-      "trestní sankce",
-      "řidičský průkaz"
+      "trestní sankce"
     ]
   },
   {
@@ -31924,18 +30941,16 @@
     },
     "temata": [
       "bezpečnost silničního provozu",
-      "dopravní pøestupek",
       "dopravní předpisy",
       "dopravní přestupek",
-      "dopravní kolení",
       "dopravní školení",
       "pokuta",
       "pozemní doprava",
       "pravidla silničního provozu",
+      "řidičský průkaz",
       "silniční doprava",
       "silniční provoz",
-      "trestní sankce",
-      "řidičský průkaz"
+      "trestní sankce"
     ]
   },
   {
@@ -31952,18 +30967,16 @@
     },
     "temata": [
       "bezpečnost silničního provozu",
-      "dopravní pøestupek",
       "dopravní předpisy",
       "dopravní přestupek",
-      "dopravní kolení",
       "dopravní školení",
       "pokuta",
       "pozemní doprava",
       "pravidla silničního provozu",
+      "řidičský průkaz",
       "silniční doprava",
       "silniční provoz",
-      "trestní sankce",
-      "řidičský průkaz"
+      "trestní sankce"
     ]
   },
   {
@@ -31980,18 +30993,16 @@
     },
     "temata": [
       "bezpečnost silničního provozu",
-      "dopravní pøestupek",
       "dopravní předpisy",
       "dopravní přestupek",
-      "dopravní kolení",
       "dopravní školení",
       "pokuta",
       "pozemní doprava",
       "pravidla silničního provozu",
+      "řidičský průkaz",
       "silniční doprava",
       "silniční provoz",
-      "trestní sankce",
-      "řidičský průkaz"
+      "trestní sankce"
     ]
   },
   {
@@ -32008,18 +31019,16 @@
     },
     "temata": [
       "bezpečnost silničního provozu",
-      "dopravní pøestupek",
       "dopravní předpisy",
       "dopravní přestupek",
-      "dopravní kolení",
       "dopravní školení",
       "pokuta",
       "pozemní doprava",
       "pravidla silničního provozu",
+      "řidičský průkaz",
       "silniční doprava",
       "silniční provoz",
-      "trestní sankce",
-      "řidičský průkaz"
+      "trestní sankce"
     ]
   },
   {
@@ -32036,18 +31045,16 @@
     },
     "temata": [
       "bezpečnost silničního provozu",
-      "dopravní pøestupek",
       "dopravní předpisy",
       "dopravní přestupek",
-      "dopravní kolení",
       "dopravní školení",
       "pokuta",
       "pozemní doprava",
       "pravidla silničního provozu",
+      "řidičský průkaz",
       "silniční doprava",
       "silniční provoz",
-      "trestní sankce",
-      "řidičský průkaz"
+      "trestní sankce"
     ]
   },
   {
@@ -32064,18 +31071,16 @@
     },
     "temata": [
       "bezpečnost silničního provozu",
-      "dopravní pøestupek",
       "dopravní předpisy",
       "dopravní přestupek",
-      "dopravní kolení",
       "dopravní školení",
       "pokuta",
       "pozemní doprava",
       "pravidla silničního provozu",
+      "řidičský průkaz",
       "silniční doprava",
       "silniční provoz",
-      "trestní sankce",
-      "řidičský průkaz"
+      "trestní sankce"
     ]
   },
   {
@@ -32092,18 +31097,16 @@
     },
     "temata": [
       "bezpečnost silničního provozu",
-      "dopravní pøestupek",
       "dopravní předpisy",
       "dopravní přestupek",
-      "dopravní kolení",
       "dopravní školení",
       "pokuta",
       "pozemní doprava",
       "pravidla silničního provozu",
+      "řidičský průkaz",
       "silniční doprava",
       "silniční provoz",
-      "trestní sankce",
-      "řidičský průkaz"
+      "trestní sankce"
     ]
   },
   {
@@ -32120,18 +31123,16 @@
     },
     "temata": [
       "bezpečnost silničního provozu",
-      "dopravní pøestupek",
       "dopravní předpisy",
       "dopravní přestupek",
-      "dopravní kolení",
       "dopravní školení",
       "pokuta",
       "pozemní doprava",
       "pravidla silničního provozu",
+      "řidičský průkaz",
       "silniční doprava",
       "silniční provoz",
-      "trestní sankce",
-      "řidičský průkaz"
+      "trestní sankce"
     ]
   },
   {
@@ -32148,18 +31149,16 @@
     },
     "temata": [
       "bezpečnost silničního provozu",
-      "dopravní pøestupek",
       "dopravní předpisy",
       "dopravní přestupek",
-      "dopravní kolení",
       "dopravní školení",
       "pokuta",
       "pozemní doprava",
       "pravidla silničního provozu",
+      "řidičský průkaz",
       "silniční doprava",
       "silniční provoz",
-      "trestní sankce",
-      "řidičský průkaz"
+      "trestní sankce"
     ]
   },
   {
@@ -32176,18 +31175,16 @@
     },
     "temata": [
       "bezpečnost silničního provozu",
-      "dopravní pøestupek",
       "dopravní předpisy",
       "dopravní přestupek",
-      "dopravní kolení",
       "dopravní školení",
       "pokuta",
       "pozemní doprava",
       "pravidla silničního provozu",
+      "řidičský průkaz",
       "silniční doprava",
       "silniční provoz",
-      "trestní sankce",
-      "řidičský průkaz"
+      "trestní sankce"
     ]
   },
   {
@@ -32204,18 +31201,16 @@
     },
     "temata": [
       "bezpečnost silničního provozu",
-      "dopravní pøestupek",
       "dopravní předpisy",
       "dopravní přestupek",
-      "dopravní kolení",
       "dopravní školení",
       "pokuta",
       "pozemní doprava",
       "pravidla silničního provozu",
+      "řidičský průkaz",
       "silniční doprava",
       "silniční provoz",
-      "trestní sankce",
-      "řidičský průkaz"
+      "trestní sankce"
     ]
   },
   {
@@ -32232,18 +31227,16 @@
     },
     "temata": [
       "bezpečnost silničního provozu",
-      "dopravní pøestupek",
       "dopravní předpisy",
       "dopravní přestupek",
-      "dopravní kolení",
       "dopravní školení",
       "pokuta",
       "pozemní doprava",
       "pravidla silničního provozu",
+      "řidičský průkaz",
       "silniční doprava",
       "silniční provoz",
-      "trestní sankce",
-      "řidičský průkaz"
+      "trestní sankce"
     ]
   },
   {
@@ -32260,18 +31253,16 @@
     },
     "temata": [
       "bezpečnost silničního provozu",
-      "dopravní pøestupek",
       "dopravní předpisy",
       "dopravní přestupek",
-      "dopravní kolení",
       "dopravní školení",
       "pokuta",
       "pozemní doprava",
       "pravidla silničního provozu",
+      "řidičský průkaz",
       "silniční doprava",
       "silniční provoz",
-      "trestní sankce",
-      "řidičský průkaz"
+      "trestní sankce"
     ]
   },
   {
@@ -32288,18 +31279,16 @@
     },
     "temata": [
       "bezpečnost silničního provozu",
-      "dopravní pøestupek",
       "dopravní předpisy",
       "dopravní přestupek",
-      "dopravní kolení",
       "dopravní školení",
       "pokuta",
       "pozemní doprava",
       "pravidla silničního provozu",
+      "řidičský průkaz",
       "silniční doprava",
       "silniční provoz",
-      "trestní sankce",
-      "řidičský průkaz"
+      "trestní sankce"
     ]
   },
   {
@@ -32316,18 +31305,16 @@
     },
     "temata": [
       "bezpečnost silničního provozu",
-      "dopravní pøestupek",
       "dopravní předpisy",
       "dopravní přestupek",
-      "dopravní kolení",
       "dopravní školení",
       "pokuta",
       "pozemní doprava",
       "pravidla silničního provozu",
+      "řidičský průkaz",
       "silniční doprava",
       "silniční provoz",
-      "trestní sankce",
-      "řidičský průkaz"
+      "trestní sankce"
     ]
   },
   {
@@ -32344,18 +31331,16 @@
     },
     "temata": [
       "bezpečnost silničního provozu",
-      "dopravní pøestupek",
       "dopravní předpisy",
       "dopravní přestupek",
-      "dopravní kolení",
       "dopravní školení",
       "pokuta",
       "pozemní doprava",
       "pravidla silničního provozu",
+      "řidičský průkaz",
       "silniční doprava",
       "silniční provoz",
-      "trestní sankce",
-      "řidičský průkaz"
+      "trestní sankce"
     ]
   },
   {
@@ -32372,18 +31357,16 @@
     },
     "temata": [
       "bezpečnost silničního provozu",
-      "dopravní pøestupek",
       "dopravní předpisy",
       "dopravní přestupek",
-      "dopravní kolení",
       "dopravní školení",
       "pokuta",
       "pozemní doprava",
       "pravidla silničního provozu",
+      "řidičský průkaz",
       "silniční doprava",
       "silniční provoz",
-      "trestní sankce",
-      "řidičský průkaz"
+      "trestní sankce"
     ]
   },
   {
@@ -32400,18 +31383,16 @@
     },
     "temata": [
       "bezpečnost silničního provozu",
-      "dopravní pøestupek",
       "dopravní předpisy",
       "dopravní přestupek",
-      "dopravní kolení",
       "dopravní školení",
       "pokuta",
       "pozemní doprava",
       "pravidla silničního provozu",
+      "řidičský průkaz",
       "silniční doprava",
       "silniční provoz",
-      "trestní sankce",
-      "řidičský průkaz"
+      "trestní sankce"
     ]
   },
   {
@@ -32428,18 +31409,16 @@
     },
     "temata": [
       "bezpečnost silničního provozu",
-      "dopravní pøestupek",
       "dopravní předpisy",
       "dopravní přestupek",
-      "dopravní kolení",
       "dopravní školení",
       "pokuta",
       "pozemní doprava",
       "pravidla silničního provozu",
+      "řidičský průkaz",
       "silniční doprava",
       "silniční provoz",
-      "trestní sankce",
-      "řidičský průkaz"
+      "trestní sankce"
     ]
   },
   {
@@ -32456,18 +31435,16 @@
     },
     "temata": [
       "bezpečnost silničního provozu",
-      "dopravní pøestupek",
       "dopravní předpisy",
       "dopravní přestupek",
-      "dopravní kolení",
       "dopravní školení",
       "pokuta",
       "pozemní doprava",
       "pravidla silničního provozu",
+      "řidičský průkaz",
       "silniční doprava",
       "silniční provoz",
-      "trestní sankce",
-      "řidičský průkaz"
+      "trestní sankce"
     ]
   },
   {
@@ -32484,18 +31461,16 @@
     },
     "temata": [
       "bezpečnost silničního provozu",
-      "dopravní pøestupek",
       "dopravní předpisy",
       "dopravní přestupek",
-      "dopravní kolení",
       "dopravní školení",
       "pokuta",
       "pozemní doprava",
       "pravidla silničního provozu",
+      "řidičský průkaz",
       "silniční doprava",
       "silniční provoz",
-      "trestní sankce",
-      "řidičský průkaz"
+      "trestní sankce"
     ]
   },
   {
@@ -32512,18 +31487,16 @@
     },
     "temata": [
       "bezpečnost silničního provozu",
-      "dopravní pøestupek",
       "dopravní předpisy",
       "dopravní přestupek",
-      "dopravní kolení",
       "dopravní školení",
       "pokuta",
       "pozemní doprava",
       "pravidla silničního provozu",
+      "řidičský průkaz",
       "silniční doprava",
       "silniční provoz",
-      "trestní sankce",
-      "řidičský průkaz"
+      "trestní sankce"
     ]
   },
   {
@@ -32540,18 +31513,16 @@
     },
     "temata": [
       "bezpečnost silničního provozu",
-      "dopravní pøestupek",
       "dopravní předpisy",
       "dopravní přestupek",
-      "dopravní kolení",
       "dopravní školení",
       "pokuta",
       "pozemní doprava",
       "pravidla silničního provozu",
+      "řidičský průkaz",
       "silniční doprava",
       "silniční provoz",
-      "trestní sankce",
-      "řidičský průkaz"
+      "trestní sankce"
     ]
   },
   {
@@ -32568,18 +31539,16 @@
     },
     "temata": [
       "bezpečnost silničního provozu",
-      "dopravní pøestupek",
       "dopravní předpisy",
       "dopravní přestupek",
-      "dopravní kolení",
       "dopravní školení",
       "pokuta",
       "pozemní doprava",
       "pravidla silničního provozu",
+      "řidičský průkaz",
       "silniční doprava",
       "silniční provoz",
-      "trestní sankce",
-      "řidičský průkaz"
+      "trestní sankce"
     ]
   },
   {
@@ -32596,18 +31565,16 @@
     },
     "temata": [
       "bezpečnost silničního provozu",
-      "dopravní pøestupek",
       "dopravní předpisy",
       "dopravní přestupek",
-      "dopravní kolení",
       "dopravní školení",
       "pokuta",
       "pozemní doprava",
       "pravidla silničního provozu",
+      "řidičský průkaz",
       "silniční doprava",
       "silniční provoz",
-      "trestní sankce",
-      "řidičský průkaz"
+      "trestní sankce"
     ]
   },
   {
@@ -32624,18 +31591,16 @@
     },
     "temata": [
       "bezpečnost silničního provozu",
-      "dopravní pøestupek",
       "dopravní předpisy",
       "dopravní přestupek",
-      "dopravní kolení",
       "dopravní školení",
       "pokuta",
       "pozemní doprava",
       "pravidla silničního provozu",
+      "řidičský průkaz",
       "silniční doprava",
       "silniční provoz",
-      "trestní sankce",
-      "řidičský průkaz"
+      "trestní sankce"
     ]
   },
   {
@@ -32652,18 +31617,16 @@
     },
     "temata": [
       "bezpečnost silničního provozu",
-      "dopravní pøestupek",
       "dopravní předpisy",
       "dopravní přestupek",
-      "dopravní kolení",
       "dopravní školení",
       "pokuta",
       "pozemní doprava",
       "pravidla silničního provozu",
+      "řidičský průkaz",
       "silniční doprava",
       "silniční provoz",
-      "trestní sankce",
-      "řidičský průkaz"
+      "trestní sankce"
     ]
   },
   {
@@ -32680,18 +31643,16 @@
     },
     "temata": [
       "bezpečnost silničního provozu",
-      "dopravní pøestupek",
       "dopravní předpisy",
       "dopravní přestupek",
-      "dopravní kolení",
       "dopravní školení",
       "pokuta",
       "pozemní doprava",
       "pravidla silničního provozu",
+      "řidičský průkaz",
       "silniční doprava",
       "silniční provoz",
-      "trestní sankce",
-      "řidičský průkaz"
+      "trestní sankce"
     ]
   },
   {
@@ -32708,18 +31669,16 @@
     },
     "temata": [
       "bezpečnost silničního provozu",
-      "dopravní pøestupek",
       "dopravní předpisy",
       "dopravní přestupek",
-      "dopravní kolení",
       "dopravní školení",
       "pokuta",
       "pozemní doprava",
       "pravidla silničního provozu",
+      "řidičský průkaz",
       "silniční doprava",
       "silniční provoz",
-      "trestní sankce",
-      "řidičský průkaz"
+      "trestní sankce"
     ]
   },
   {
@@ -32736,18 +31695,16 @@
     },
     "temata": [
       "bezpečnost silničního provozu",
-      "dopravní pøestupek",
       "dopravní předpisy",
       "dopravní přestupek",
-      "dopravní kolení",
       "dopravní školení",
       "pokuta",
       "pozemní doprava",
       "pravidla silničního provozu",
+      "řidičský průkaz",
       "silniční doprava",
       "silniční provoz",
-      "trestní sankce",
-      "řidičský průkaz"
+      "trestní sankce"
     ]
   },
   {
@@ -32764,18 +31721,16 @@
     },
     "temata": [
       "bezpečnost silničního provozu",
-      "dopravní pøestupek",
       "dopravní předpisy",
       "dopravní přestupek",
-      "dopravní kolení",
       "dopravní školení",
       "pokuta",
       "pozemní doprava",
       "pravidla silničního provozu",
+      "řidičský průkaz",
       "silniční doprava",
       "silniční provoz",
-      "trestní sankce",
-      "řidičský průkaz"
+      "trestní sankce"
     ]
   },
   {
@@ -32792,18 +31747,16 @@
     },
     "temata": [
       "bezpečnost silničního provozu",
-      "dopravní pøestupek",
       "dopravní předpisy",
       "dopravní přestupek",
-      "dopravní kolení",
       "dopravní školení",
       "pokuta",
       "pozemní doprava",
       "pravidla silničního provozu",
+      "řidičský průkaz",
       "silniční doprava",
       "silniční provoz",
-      "trestní sankce",
-      "řidičský průkaz"
+      "trestní sankce"
     ]
   },
   {
@@ -32820,18 +31773,16 @@
     },
     "temata": [
       "bezpečnost silničního provozu",
-      "dopravní pøestupek",
       "dopravní předpisy",
       "dopravní přestupek",
-      "dopravní kolení",
       "dopravní školení",
       "pokuta",
       "pozemní doprava",
       "pravidla silničního provozu",
+      "řidičský průkaz",
       "silniční doprava",
       "silniční provoz",
-      "trestní sankce",
-      "řidičský průkaz"
+      "trestní sankce"
     ]
   },
   {
@@ -32848,18 +31799,16 @@
     },
     "temata": [
       "bezpečnost silničního provozu",
-      "dopravní pøestupek",
       "dopravní předpisy",
       "dopravní přestupek",
-      "dopravní kolení",
       "dopravní školení",
       "pokuta",
       "pozemní doprava",
       "pravidla silničního provozu",
+      "řidičský průkaz",
       "silniční doprava",
       "silniční provoz",
-      "trestní sankce",
-      "řidičský průkaz"
+      "trestní sankce"
     ]
   },
   {
@@ -32876,18 +31825,16 @@
     },
     "temata": [
       "bezpečnost silničního provozu",
-      "dopravní pøestupek",
       "dopravní předpisy",
       "dopravní přestupek",
-      "dopravní kolení",
       "dopravní školení",
       "pokuta",
       "pozemní doprava",
       "pravidla silničního provozu",
+      "řidičský průkaz",
       "silniční doprava",
       "silniční provoz",
-      "trestní sankce",
-      "řidičský průkaz"
+      "trestní sankce"
     ]
   },
   {
@@ -32904,18 +31851,16 @@
     },
     "temata": [
       "bezpečnost silničního provozu",
-      "dopravní pøestupek",
       "dopravní předpisy",
       "dopravní přestupek",
-      "dopravní kolení",
       "dopravní školení",
       "pokuta",
       "pozemní doprava",
       "pravidla silničního provozu",
+      "řidičský průkaz",
       "silniční doprava",
       "silniční provoz",
-      "trestní sankce",
-      "řidičský průkaz"
+      "trestní sankce"
     ]
   },
   {
@@ -32932,18 +31877,16 @@
     },
     "temata": [
       "bezpečnost silničního provozu",
-      "dopravní pøestupek",
       "dopravní předpisy",
       "dopravní přestupek",
-      "dopravní kolení",
       "dopravní školení",
       "pokuta",
       "pozemní doprava",
       "pravidla silničního provozu",
+      "řidičský průkaz",
       "silniční doprava",
       "silniční provoz",
-      "trestní sankce",
-      "řidičský průkaz"
+      "trestní sankce"
     ]
   },
   {
@@ -32960,18 +31903,16 @@
     },
     "temata": [
       "bezpečnost silničního provozu",
-      "dopravní pøestupek",
       "dopravní předpisy",
       "dopravní přestupek",
-      "dopravní kolení",
       "dopravní školení",
       "pokuta",
       "pozemní doprava",
       "pravidla silničního provozu",
+      "řidičský průkaz",
       "silniční doprava",
       "silniční provoz",
-      "trestní sankce",
-      "řidičský průkaz"
+      "trestní sankce"
     ]
   },
   {
@@ -32988,18 +31929,16 @@
     },
     "temata": [
       "bezpečnost silničního provozu",
-      "dopravní pøestupek",
       "dopravní předpisy",
       "dopravní přestupek",
-      "dopravní kolení",
       "dopravní školení",
       "pokuta",
       "pozemní doprava",
       "pravidla silničního provozu",
+      "řidičský průkaz",
       "silniční doprava",
       "silniční provoz",
-      "trestní sankce",
-      "řidičský průkaz"
+      "trestní sankce"
     ]
   },
   {
@@ -33016,18 +31955,16 @@
     },
     "temata": [
       "bezpečnost silničního provozu",
-      "dopravní pøestupek",
       "dopravní předpisy",
       "dopravní přestupek",
-      "dopravní kolení",
       "dopravní školení",
       "pokuta",
       "pozemní doprava",
       "pravidla silničního provozu",
+      "řidičský průkaz",
       "silniční doprava",
       "silniční provoz",
-      "trestní sankce",
-      "řidičský průkaz"
+      "trestní sankce"
     ]
   },
   {
@@ -33044,18 +31981,16 @@
     },
     "temata": [
       "bezpečnost silničního provozu",
-      "dopravní pøestupek",
       "dopravní předpisy",
       "dopravní přestupek",
-      "dopravní kolení",
       "dopravní školení",
       "pokuta",
       "pozemní doprava",
       "pravidla silničního provozu",
+      "řidičský průkaz",
       "silniční doprava",
       "silniční provoz",
-      "trestní sankce",
-      "řidičský průkaz"
+      "trestní sankce"
     ]
   },
   {
@@ -33072,18 +32007,16 @@
     },
     "temata": [
       "bezpečnost silničního provozu",
-      "dopravní pøestupek",
       "dopravní předpisy",
       "dopravní přestupek",
-      "dopravní kolení",
       "dopravní školení",
       "pokuta",
       "pozemní doprava",
       "pravidla silničního provozu",
+      "řidičský průkaz",
       "silniční doprava",
       "silniční provoz",
-      "trestní sankce",
-      "řidičský průkaz"
+      "trestní sankce"
     ]
   },
   {
@@ -33100,18 +32033,16 @@
     },
     "temata": [
       "bezpečnost silničního provozu",
-      "dopravní pøestupek",
       "dopravní předpisy",
       "dopravní přestupek",
-      "dopravní kolení",
       "dopravní školení",
       "pokuta",
       "pozemní doprava",
       "pravidla silničního provozu",
+      "řidičský průkaz",
       "silniční doprava",
       "silniční provoz",
-      "trestní sankce",
-      "řidičský průkaz"
+      "trestní sankce"
     ]
   },
   {
@@ -33427,7 +32358,6 @@
       "manželství",
       "občanský zákoník",
       "registrované partnerství",
-      "sexuální menina",
       "sexuální menšina"
     ]
   },
@@ -33447,7 +32377,6 @@
       "manželství",
       "občanský zákoník",
       "registrované partnerství",
-      "sexuální menina",
       "sexuální menšina"
     ]
   },
@@ -33481,7 +32410,6 @@
       "manželství",
       "občanský zákoník",
       "registrované partnerství",
-      "sexuální menina",
       "sexuální menšina"
     ]
   },
@@ -33501,7 +32429,6 @@
       "manželství",
       "občanský zákoník",
       "registrované partnerství",
-      "sexuální menina",
       "sexuální menšina"
     ]
   },
@@ -33521,7 +32448,6 @@
       "manželství",
       "občanský zákoník",
       "registrované partnerství",
-      "sexuální menina",
       "sexuální menšina"
     ]
   },
@@ -33541,7 +32467,6 @@
       "manželství",
       "občanský zákoník",
       "registrované partnerství",
-      "sexuální menina",
       "sexuální menšina"
     ]
   },
@@ -33561,7 +32486,6 @@
       "manželství",
       "občanský zákoník",
       "registrované partnerství",
-      "sexuální menina",
       "sexuální menšina"
     ]
   },
@@ -33871,7 +32795,6 @@
     "temata": [
       "ekologie",
       "environmentální politika",
-      "kontrola znečitėní",
       "kontrola znečištění",
       "právo na informace",
       "přírodní zdroje",
@@ -33894,7 +32817,6 @@
     "temata": [
       "ekologie",
       "environmentální politika",
-      "kontrola znečitėní",
       "kontrola znečištění",
       "právo na informace",
       "přírodní zdroje",
@@ -33917,7 +32839,6 @@
     "temata": [
       "ekologie",
       "environmentální politika",
-      "kontrola znečitėní",
       "kontrola znečištění",
       "právo na informace",
       "přírodní zdroje",
@@ -33940,7 +32861,6 @@
     "temata": [
       "ekologie",
       "environmentální politika",
-      "kontrola znečitėní",
       "kontrola znečištění",
       "právo na informace",
       "přírodní zdroje",
@@ -33963,7 +32883,6 @@
     "temata": [
       "ekologie",
       "environmentální politika",
-      "kontrola znečitėní",
       "kontrola znečištění",
       "právo na informace",
       "přírodní zdroje",
@@ -33986,7 +32905,6 @@
     "temata": [
       "ekologie",
       "environmentální politika",
-      "kontrola znečitėní",
       "kontrola znečištění",
       "právo na informace",
       "přírodní zdroje",
@@ -34009,7 +32927,6 @@
     "temata": [
       "ekologie",
       "environmentální politika",
-      "kontrola znečitėní",
       "kontrola znečištění",
       "právo na informace",
       "přírodní zdroje",
@@ -34032,7 +32949,6 @@
     "temata": [
       "ekologie",
       "environmentální politika",
-      "kontrola znečitėní",
       "kontrola znečištění",
       "právo na informace",
       "přírodní zdroje",
@@ -34055,7 +32971,6 @@
     "temata": [
       "ekologie",
       "environmentální politika",
-      "kontrola znečitėní",
       "kontrola znečištění",
       "právo na informace",
       "přírodní zdroje",
@@ -34078,7 +32993,6 @@
     "temata": [
       "ekologie",
       "environmentální politika",
-      "kontrola znečitėní",
       "kontrola znečištění",
       "právo na informace",
       "přírodní zdroje",
@@ -34101,7 +33015,6 @@
     "temata": [
       "ekologie",
       "environmentální politika",
-      "kontrola znečitėní",
       "kontrola znečištění",
       "právo na informace",
       "přírodní zdroje",
@@ -34124,7 +33037,6 @@
     "temata": [
       "ekologie",
       "environmentální politika",
-      "kontrola znečitėní",
       "kontrola znečištění",
       "právo na informace",
       "přírodní zdroje",
@@ -34147,7 +33059,6 @@
     "temata": [
       "ekologie",
       "environmentální politika",
-      "kontrola znečitėní",
       "kontrola znečištění",
       "právo na informace",
       "přírodní zdroje",
@@ -34446,7 +33357,6 @@
     "temata": [
       "akciový kapitál",
       "typ podniku",
-      "veøejná instituce",
       "veřejná instituce",
       "veřejné vlastnictví",
       "veřejný majetek",
@@ -34885,7 +33795,6 @@
       "not_logged": 2
     },
     "temata": [
-      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -34905,7 +33814,6 @@
       "not_logged": 2
     },
     "temata": [
-      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -34925,7 +33833,6 @@
       "not_logged": 2
     },
     "temata": [
-      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -34945,7 +33852,6 @@
       "not_logged": 2
     },
     "temata": [
-      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -34965,7 +33871,6 @@
       "not_logged": 2
     },
     "temata": [
-      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -34985,7 +33890,6 @@
       "not_logged": 2
     },
     "temata": [
-      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -35005,7 +33909,6 @@
       "not_logged": 2
     },
     "temata": [
-      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -35025,7 +33928,6 @@
       "not_logged": 2
     },
     "temata": [
-      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -35045,7 +33947,6 @@
       "not_logged": 9
     },
     "temata": [
-      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -35065,7 +33966,6 @@
       "not_logged": 7
     },
     "temata": [
-      "hospodáøská recese",
       "hospodářská recese",
       "konsolidace státního dluhu",
       "státní rozpočet",
@@ -35681,13 +34581,9 @@
     "temata": [
       "dùchodce",
       "dùchodový plán",
-      "důchodce",
-      "důchodový plán",
       "inflace",
       "podmínky pro odchod do dùchodu",
-      "podmínky pro odchod do dųchodu",
-      "skonèení pracovního pomìru",
-      "skončení pracovního pomėru"
+      "skonèení pracovního pomìru"
     ]
   },
   {
@@ -36000,7 +34896,6 @@
       "not_logged": 17
     },
     "temata": [
-      "alternativní investièní fond",
       "alternativní investiční fond",
       "daňová úleva",
       "finanční trh",
@@ -36024,7 +34919,6 @@
       "not_logged": 11
     },
     "temata": [
-      "alternativní investièní fond",
       "alternativní investiční fond",
       "daňová úleva",
       "finanční trh",
@@ -36048,7 +34942,6 @@
       "not_logged": 10
     },
     "temata": [
-      "alternativní investièní fond",
       "alternativní investiční fond",
       "daňová úleva",
       "finanční trh",
@@ -36612,76 +35505,6 @@
       "abstain": 13,
       "absent": 28,
       "not_logged": 4
-    },
-    "temata": []
-  },
-  {
-    "id": 81305,
-    "date": "2023-09-06",
-    "title": "Pořad schůze",
-    "result": "zamitnuto",
-    "vote_summary": {
-      "yes": 64,
-      "no": 87,
-      "abstain": 19,
-      "absent": 28,
-      "not_logged": 2
-    },
-    "temata": []
-  },
-  {
-    "id": 81306,
-    "date": "2023-09-06",
-    "title": "Pořad schůze",
-    "result": "zamitnuto",
-    "vote_summary": {
-      "yes": 82,
-      "no": 85,
-      "abstain": 3,
-      "absent": 28,
-      "not_logged": 2
-    },
-    "temata": []
-  },
-  {
-    "id": 81307,
-    "date": "2023-09-06",
-    "title": "Pořad schůze",
-    "result": "zamitnuto",
-    "vote_summary": {
-      "yes": 80,
-      "no": 86,
-      "abstain": 4,
-      "absent": 28,
-      "not_logged": 2
-    },
-    "temata": []
-  },
-  {
-    "id": 81308,
-    "date": "2023-09-06",
-    "title": "Pořad schůze",
-    "result": "zamitnuto",
-    "vote_summary": {
-      "yes": 82,
-      "no": 83,
-      "abstain": 5,
-      "absent": 28,
-      "not_logged": 2
-    },
-    "temata": []
-  },
-  {
-    "id": 81309,
-    "date": "2023-09-06",
-    "title": "Pořad schůze",
-    "result": "zamitnuto",
-    "vote_summary": {
-      "yes": 82,
-      "no": 78,
-      "abstain": 10,
-      "absent": 28,
-      "not_logged": 2
     },
     "temata": []
   }

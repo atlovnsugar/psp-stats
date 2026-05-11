@@ -1,67 +1,67 @@
-[
+﻿[
   {
     "party_id": "cssd",
     "mps_count": 55,
     "avg_attendance": 75.97,
     "unity_score": 0.856,
-    "total_eligible_votes": 435417,
-    "total_attended": 330807
+    "total_eligible_votes": 435567,
+    "total_attended": 330913
   },
   {
     "party_id": "ano",
     "mps_count": 53,
     "avg_attendance": 74.96,
     "unity_score": 0.91,
-    "total_eligible_votes": 410368,
-    "total_attended": 307627
+    "total_eligible_votes": 410509,
+    "total_attended": 307719
   },
   {
     "party_id": "kscm",
     "mps_count": 34,
     "avg_attendance": 84.44,
     "unity_score": 0.916,
-    "total_eligible_votes": 287318,
-    "total_attended": 242621
+    "total_eligible_votes": 287416,
+    "total_attended": 242699
   },
   {
     "party_id": "top09-s",
     "mps_count": 28,
-    "avg_attendance": 69.94,
+    "avg_attendance": 69.93,
     "unity_score": 0.9,
-    "total_eligible_votes": 223315,
-    "total_attended": 156188
+    "total_eligible_votes": 223393,
+    "total_attended": 156228
   },
   {
     "party_id": "ods",
     "mps_count": 18,
     "avg_attendance": 74.46,
-    "unity_score": 0.924,
-    "total_eligible_votes": 138652,
-    "total_attended": 103245
+    "unity_score": 0.925,
+    "total_eligible_votes": 138699,
+    "total_attended": 103279
   },
   {
     "party_id": "kdu-csl",
     "mps_count": 15,
     "avg_attendance": 75.87,
     "unity_score": 0.883,
-    "total_eligible_votes": 121898,
-    "total_attended": 92480
+    "total_eligible_votes": 121940,
+    "total_attended": 92510
   },
   {
     "party_id": "usvit",
     "mps_count": 14,
     "avg_attendance": 77.54,
     "unity_score": 0.896,
-    "total_eligible_votes": 80471,
-    "total_attended": 62401
+    "total_eligible_votes": 80489,
+    "total_attended": 62413
   },
   {
     "party_id": "Nezařaz",
     "mps_count": 11,
-    "avg_attendance": 68.47,
+    "avg_attendance": 68.46,
     "unity_score": 0.812,
-    "total_eligible_votes": 44057,
-    "total_attended": 30165
+    "total_eligible_votes": 44080,
+    "total_attended": 30178
   },
   {
     "party_id": "nezaraz",
@@ -69,6 +69,30 @@
     "avg_attendance": 0.0,
     "unity_score": null,
     "total_eligible_votes": 97,
+    "total_attended": 0
+  },
+  {
+    "party_id": "Poslaneck klub Obansk demokratick strany",
+    "mps_count": 1,
+    "avg_attendance": 0.0,
+    "unity_score": null,
+    "total_eligible_votes": 14,
+    "total_attended": 0
+  },
+  {
+    "party_id": "Poslaneck klub Komunistick strany ech a Moravy",
+    "mps_count": 1,
+    "avg_attendance": 0.0,
+    "unity_score": null,
+    "total_eligible_votes": 14,
+    "total_attended": 0
+  },
+  {
+    "party_id": "Nezaazen",
+    "mps_count": 1,
+    "avg_attendance": 0.0,
+    "unity_score": null,
+    "total_eligible_votes": 14,
     "total_attended": 0
   }
 ]

@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "mp_id": 4,
     "eligible_votes": 14026,
@@ -1092,6 +1092,18 @@
     "additional_stats": {}
   },
   {
+    "mp_id": 295,
+    "eligible_votes": 14026,
+    "attended": 10028,
+    "attendance_pct": 71.5,
+    "voted_yes": 5856,
+    "voted_no": 2336,
+    "abstained": 1836,
+    "party_loyalty": 0.831,
+    "party_id": "kdu-csl",
+    "additional_stats": {}
+  },
+  {
     "mp_id": 297,
     "eligible_votes": 14026,
     "attended": 12465,
@@ -1317,6 +1329,18 @@
     "abstained": 1463,
     "party_loyalty": 0.864,
     "party_id": "kdu-csl",
+    "additional_stats": {}
+  },
+  {
+    "mp_id": 344,
+    "eligible_votes": 14026,
+    "attended": 12319,
+    "attendance_pct": 87.83,
+    "voted_yes": 7198,
+    "voted_no": 3523,
+    "abstained": 1598,
+    "party_loyalty": 0.891,
+    "party_id": "cssd",
     "additional_stats": {}
   },
   {
@@ -2373,30 +2397,6 @@
     "abstained": 1215,
     "party_loyalty": 0.888,
     "party_id": "ods",
-    "additional_stats": {}
-  },
-  {
-    "mp_id": 295,
-    "eligible_votes": 14026,
-    "attended": 10028,
-    "attendance_pct": 71.5,
-    "voted_yes": 5856,
-    "voted_no": 2336,
-    "abstained": 1836,
-    "party_loyalty": 0.831,
-    "party_id": "kdu-csl",
-    "additional_stats": {}
-  },
-  {
-    "mp_id": 344,
-    "eligible_votes": 14026,
-    "attended": 12319,
-    "attendance_pct": 87.83,
-    "voted_yes": 7198,
-    "voted_no": 3523,
-    "abstained": 1598,
-    "party_loyalty": 0.891,
-    "party_id": "cssd",
     "additional_stats": {}
   },
   {

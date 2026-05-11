@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "id": 49798,
     "date": "2009-05-15",
@@ -288,15 +288,14 @@
       "not_logged": 15
     },
     "temata": [
+      "Ochrana průmyslového vlastnictví",
+      "Rozhlas",
       "Informační služby",
       "Národní hospodářství",
-      "Ochrana průmyslového vlastnictví",
       "Pracovní síla",
-      "Rozhlas",
       "digitální technologie",
       "obchodní licence",
       "rozhlasové vysílání",
-      "televize s vysokou rozliovací schopností",
       "televize s vysokou rozlišovací schopností"
     ]
   },
@@ -313,15 +312,14 @@
       "not_logged": 13
     },
     "temata": [
+      "Ochrana průmyslového vlastnictví",
+      "Rozhlas",
       "Informační služby",
       "Národní hospodářství",
-      "Ochrana průmyslového vlastnictví",
       "Pracovní síla",
-      "Rozhlas",
       "digitální technologie",
       "obchodní licence",
       "rozhlasové vysílání",
-      "televize s vysokou rozliovací schopností",
       "televize s vysokou rozlišovací schopností"
     ]
   },
@@ -338,15 +336,14 @@
       "not_logged": 13
     },
     "temata": [
+      "Ochrana průmyslového vlastnictví",
+      "Rozhlas",
       "Informační služby",
       "Národní hospodářství",
-      "Ochrana průmyslového vlastnictví",
       "Pracovní síla",
-      "Rozhlas",
       "digitální technologie",
       "obchodní licence",
       "rozhlasové vysílání",
-      "televize s vysokou rozliovací schopností",
       "televize s vysokou rozlišovací schopností"
     ]
   },
@@ -384,15 +381,14 @@
       "not_logged": 12
     },
     "temata": [
+      "Ochrana průmyslového vlastnictví",
+      "Rozhlas",
       "Informační služby",
       "Národní hospodářství",
-      "Ochrana průmyslového vlastnictví",
       "Pracovní síla",
-      "Rozhlas",
       "digitální technologie",
       "obchodní licence",
       "rozhlasové vysílání",
-      "televize s vysokou rozliovací schopností",
       "televize s vysokou rozlišovací schopností"
     ]
   },
@@ -409,15 +405,14 @@
       "not_logged": 12
     },
     "temata": [
+      "Ochrana průmyslového vlastnictví",
+      "Rozhlas",
       "Informační služby",
       "Národní hospodářství",
-      "Ochrana průmyslového vlastnictví",
       "Pracovní síla",
-      "Rozhlas",
       "digitální technologie",
       "obchodní licence",
       "rozhlasové vysílání",
-      "televize s vysokou rozliovací schopností",
       "televize s vysokou rozlišovací schopností"
     ]
   },
@@ -1705,7 +1700,15 @@
       "absent": 10,
       "not_logged": 72
     },
-    "temata": []
+    "temata": [
+      "Odškodnění",
+      "Vztahy vlastnické",
+      "Občan",
+      "Politika",
+      "Československo",
+      "náhrada škody",
+      "Ukrajina"
+    ]
   },
   {
     "id": 49900,
@@ -2066,12 +2069,11 @@
       "not_logged": 33
     },
     "temata": [
+      "Školství",
       "Zájem veřejný",
       "veřejná funkce",
       "veřejné školství",
-      "zneuitķ pravomoci",
-      "zneužití pravomoci",
-      "Školství"
+      "zneužití pravomoci"
     ]
   },
   {
@@ -2725,9 +2727,7 @@
     "temata": [
       "Spoření",
       "finanční pomoc",
-      "hypotekární úvėr",
       "hypotekární úvěr",
-      "náklady na vzdėlávání",
       "náklady na vzdělávání",
       "přístup ke vzdělání",
       "stavební výpomoc"
@@ -3439,23 +3439,19 @@
       "Daně a poplatky",
       "Krize",
       "Nejvyí kontrolní úřad",
-      "Nejvyšší kontrolní úřad",
-      "Národní hospodářství",
-      "Obchod",
       "Obchod zahraniční",
-      "Občan",
-      "Peněnictví a pojiovnictví",
       "Pojitění",
-      "Pojištění",
-      "Politika",
       "Poplatky",
+      "Národní hospodářství",
+      "Občan",
+      "Obchod",
+      "Peněnictví a pojiovnictví",
+      "Politika",
       "podpora vývozu",
       "pojitění vývozních úvěrů",
-      "pojištění vývozních úvěrů",
       "protikrizový plán",
-      "vývozní politika",
-      "ústøední plánování",
-      "ústřední plánování"
+      "ústřední plánování",
+      "vývozní politika"
     ]
   },
   {
@@ -3529,7 +3525,6 @@
       "parlamentní volby",
       "poslanecký mandát",
       "sčítání hlasů",
-      "sčítání hlasų",
       "volební systém"
     ]
   },
@@ -3601,23 +3596,22 @@
     },
     "temata": [
       "Evropská unie /EU/",
+      "Rostliny",
       "Informační služby",
       "Mezinárodní styky",
       "Národní hospodářství",
-      "Obrana a bezpečnost",
       "Občan",
+      "Obrana a bezpečnost",
       "Politika",
       "Pracovní síla",
-      "Rostliny",
       "Státní správa a justice",
       "Těžba a výroba",
       "ochrana rostlin",
       "osivo",
       "rozmnožování rostlin",
       "sadba",
-      "zemėdėlská politika",
-      "zemědělská politika",
-      "šlechtění rostlin"
+      "šlechtění rostlin",
+      "zemědělská politika"
     ]
   },
   {
@@ -3736,21 +3730,18 @@
       "not_logged": 112
     },
     "temata": [
+      "Pojištění",
+      "Zabezpečení sociální",
+      "Zaměstnanci",
       "Národní hospodářství",
       "Občan",
       "Peněžnictví a pojišťovnictví",
-      "Pojištění",
       "Pracovní síla",
-      "Zabezpeèení sociální",
-      "Zabezpečení sociální",
-      "Zaměstnanci",
-      "Zamģstnanci",
-      "pojitėní proti pracovnímu úrazu",
       "pojištění proti pracovnímu úrazu",
       "pracovní úraz",
       "sociální zabezpečení",
-      "zaměstnanci",
-      "úrazové pojištění"
+      "úrazové pojištění",
+      "zaměstnanci"
     ]
   },
   {
@@ -3803,10 +3794,7 @@
       "Státní správa a justice",
       "centrální banka",
       "finanční trh",
-      "hospodáøská situace",
       "hospodářská situace",
-      "mėnová krize",
-      "mėnová politika",
       "měnová krize",
       "měnová politika"
     ]
@@ -4147,11 +4135,9 @@
       "elektronická správa dokumentů",
       "ochrana kulturního dědictví",
       "ukládání dokumentů",
-      "ukládání dokumentų",
-      "veøejná instituce",
+      "úřední dokument",
       "veřejná instituce",
-      "veřejná správa",
-      "úřední dokument"
+      "veřejná správa"
     ]
   },
   {
@@ -4232,11 +4218,9 @@
       "elektronická správa dokumentů",
       "ochrana kulturního dědictví",
       "ukládání dokumentů",
-      "ukládání dokumentų",
-      "veøejná instituce",
+      "úřední dokument",
       "veřejná instituce",
-      "veřejná správa",
-      "úřední dokument"
+      "veřejná správa"
     ]
   },
   {
@@ -4252,12 +4236,11 @@
       "not_logged": 104
     },
     "temata": [
+      "Pojištění",
+      "Zabezpečení sociální",
       "Národní hospodářství",
       "Občan",
       "Peněžnictví a pojišťovnictví",
-      "Pojištění",
-      "Zabezpeèení sociální",
-      "Zabezpečení sociální",
       "formulář",
       "pracovní nezpůsobilost",
       "zdravotní pojištění"
@@ -4276,11 +4259,10 @@
       "not_logged": 105
     },
     "temata": [
-      "Kamboda",
+      "Česká republika",
       "Kambodža",
       "ochrana investic",
-      "podpora investic",
-      "Česká republika"
+      "podpora investic"
     ]
   },
   {
@@ -4296,12 +4278,11 @@
       "not_logged": 101
     },
     "temata": [
-      "Sýrie",
+      "Česká republika",
       "daňová úmluva",
-      "daōová úmluva",
       "dvojí zdanění",
-      "zkrácení daně",
-      "Česká republika"
+      "Sýrie",
+      "zkrácení daně"
     ]
   },
   {
@@ -4317,18 +4298,13 @@
       "not_logged": 98
     },
     "temata": [
-      "environmentální politika",
+      "Českį republika",
       "environmentįlnķ politika",
-      "kontrola znečitėní",
       "kontrola znečitģnķ",
       "ratifikace dohody",
       "seznam",
-      "spolupráce v oblasti ivotního prostøedí",
       "spoluprįce v oblasti ivotnķho prostųedķ",
-      "znečiujķcķ pųķmģsi v atmosféųe",
-      "znečišťující příměsi v atmosféře",
-      "Česká republika",
-      "Českį republika"
+      "znečiujķcķ pųķmģsi v atmosféųe"
     ]
   },
   {
@@ -4364,10 +4340,9 @@
     },
     "temata": [
       "Arménie",
+      "Česká republika",
       "daňová úmluva",
-      "daōová úmluva",
-      "dvojí zdanění",
-      "Česká republika"
+      "dvojí zdanění"
     ]
   },
   {
@@ -4383,11 +4358,10 @@
       "not_logged": 99
     },
     "temata": [
+      "Česká republika",
       "důvěrná informace",
       "ochrana komunikací",
       "ochrana údajů",
-      "védsko",
-      "Česká republika",
       "Švédsko"
     ]
   },
@@ -4489,7 +4463,6 @@
       "ochrana krajiny",
       "ochrana životního prostředí",
       "trvale udržitelný rozvoj",
-      "zemė støední a východní Evropy",
       "země střední a východní Evropy"
     ]
   },
@@ -4568,7 +4541,6 @@
       "astronautika",
       "astronomie",
       "mezinárodní organizace",
-      "vėdecká spolupráce",
       "vědecká spolupráce"
     ]
   },
@@ -4586,10 +4558,8 @@
     },
     "temata": [
       "ochrana lesa",
-      "pėstování lesų",
       "pěstování lesů",
       "tropické dřevo",
-      "udritelné lesní hospodáøství",
       "udržitelné lesní hospodářství"
     ]
   },
@@ -5081,23 +5051,21 @@
       "not_logged": 68
     },
     "temata": [
-      "Doprava a spoje",
       "Evropská unie /EU/",
+      "Pojišťovnictví",
+      "Doprava a spoje",
       "Mezinárodní styky",
       "Národní hospodářství",
-      "Obrana a bezpečnost",
       "Občan",
+      "Obrana a bezpečnost",
       "Peněžnictví a pojišťovnictví",
-      "Pojišťovnictví",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
-      "pojistná smlouva",
       "pojištění",
+      "pojistná smlouva",
       "pojišťovna",
-      "soukromé pojitėní",
       "soukromé pojištění",
-      "zajitėní",
       "zajištění"
     ]
   },
@@ -5144,17 +5112,16 @@
     },
     "temata": [
       "Bankovnictví",
+      "Správa státní",
       "Peněžnictví a pojišťovnictví",
       "Politika",
       "Pracovní síla",
-      "Správa státní",
       "Státní správa a justice",
       "důvěrná informace",
-      "informační systém pro potøeby øízení",
       "informační systém pro potřeby řízení",
       "ministerstvo",
-      "vláda",
-      "ústřední orgány státní správy"
+      "ústřední orgány státní správy",
+      "vláda"
     ]
   },
   {
@@ -5171,17 +5138,16 @@
     },
     "temata": [
       "Bankovnictví",
+      "Správa státní",
       "Peněžnictví a pojišťovnictví",
       "Politika",
       "Pracovní síla",
-      "Správa státní",
       "Státní správa a justice",
       "důvěrná informace",
-      "informační systém pro potøeby øízení",
       "informační systém pro potřeby řízení",
       "ministerstvo",
-      "vláda",
-      "ústřední orgány státní správy"
+      "ústřední orgány státní správy",
+      "vláda"
     ]
   },
   {
@@ -5198,17 +5164,16 @@
     },
     "temata": [
       "Bankovnictví",
+      "Správa státní",
       "Peněžnictví a pojišťovnictví",
       "Politika",
       "Pracovní síla",
-      "Správa státní",
       "Státní správa a justice",
       "důvěrná informace",
-      "informační systém pro potøeby øízení",
       "informační systém pro potřeby řízení",
       "ministerstvo",
-      "vláda",
-      "ústřední orgány státní správy"
+      "ústřední orgány státní správy",
+      "vláda"
     ]
   },
   {
@@ -5225,17 +5190,16 @@
     },
     "temata": [
       "Bankovnictví",
+      "Správa státní",
       "Peněžnictví a pojišťovnictví",
       "Politika",
       "Pracovní síla",
-      "Správa státní",
       "Státní správa a justice",
       "důvěrná informace",
-      "informační systém pro potøeby øízení",
       "informační systém pro potřeby řízení",
       "ministerstvo",
-      "vláda",
-      "ústřední orgány státní správy"
+      "ústřední orgány státní správy",
+      "vláda"
     ]
   },
   {
@@ -5252,17 +5216,16 @@
     },
     "temata": [
       "Bankovnictví",
+      "Správa státní",
       "Peněžnictví a pojišťovnictví",
       "Politika",
       "Pracovní síla",
-      "Správa státní",
       "Státní správa a justice",
       "důvěrná informace",
-      "informační systém pro potøeby øízení",
       "informační systém pro potřeby řízení",
       "ministerstvo",
-      "vláda",
-      "ústřední orgány státní správy"
+      "ústřední orgány státní správy",
+      "vláda"
     ]
   },
   {
@@ -5279,17 +5242,16 @@
     },
     "temata": [
       "Bankovnictví",
+      "Správa státní",
       "Peněžnictví a pojišťovnictví",
       "Politika",
       "Pracovní síla",
-      "Správa státní",
       "Státní správa a justice",
       "důvěrná informace",
-      "informační systém pro potøeby øízení",
       "informační systém pro potřeby řízení",
       "ministerstvo",
-      "vláda",
-      "ústřední orgány státní správy"
+      "ústřední orgány státní správy",
+      "vláda"
     ]
   },
   {
@@ -5306,17 +5268,16 @@
     },
     "temata": [
       "Bankovnictví",
+      "Správa státní",
       "Peněžnictví a pojišťovnictví",
       "Politika",
       "Pracovní síla",
-      "Správa státní",
       "Státní správa a justice",
       "důvěrná informace",
-      "informační systém pro potøeby øízení",
       "informační systém pro potřeby řízení",
       "ministerstvo",
-      "vláda",
-      "ústřední orgány státní správy"
+      "ústřední orgány státní správy",
+      "vláda"
     ]
   },
   {
@@ -5333,17 +5294,16 @@
     },
     "temata": [
       "Bankovnictví",
+      "Správa státní",
       "Peněžnictví a pojišťovnictví",
       "Politika",
       "Pracovní síla",
-      "Správa státní",
       "Státní správa a justice",
       "důvěrná informace",
-      "informační systém pro potøeby øízení",
       "informační systém pro potřeby řízení",
       "ministerstvo",
-      "vláda",
-      "ústřední orgány státní správy"
+      "ústřední orgány státní správy",
+      "vláda"
     ]
   },
   {
@@ -5360,17 +5320,16 @@
     },
     "temata": [
       "Bankovnictví",
+      "Správa státní",
       "Peněžnictví a pojišťovnictví",
       "Politika",
       "Pracovní síla",
-      "Správa státní",
       "Státní správa a justice",
       "důvěrná informace",
-      "informační systém pro potøeby øízení",
       "informační systém pro potřeby řízení",
       "ministerstvo",
-      "vláda",
-      "ústřední orgány státní správy"
+      "ústřední orgány státní správy",
+      "vláda"
     ]
   },
   {
@@ -5387,17 +5346,16 @@
     },
     "temata": [
       "Bankovnictví",
+      "Správa státní",
       "Peněžnictví a pojišťovnictví",
       "Politika",
       "Pracovní síla",
-      "Správa státní",
       "Státní správa a justice",
       "důvěrná informace",
-      "informační systém pro potøeby øízení",
       "informační systém pro potřeby řízení",
       "ministerstvo",
-      "vláda",
-      "ústřední orgány státní správy"
+      "ústřední orgány státní správy",
+      "vláda"
     ]
   },
   {
@@ -5414,18 +5372,18 @@
     },
     "temata": [
       "Doprava",
-      "Doprava a spoje",
       "Evropská unie /EU/",
       "Hranice státní",
+      "Správa státní",
+      "Doprava a spoje",
       "Informační služby",
       "Mezinárodní styky",
       "Národní hospodářství",
+      "Občan",
       "Obchod",
       "Obrana a bezpečnost",
-      "Občan",
       "Politika",
       "Pracovní síla",
-      "Správa státní",
       "Státní správa a justice",
       "Zdravotnictví",
       "civilní letectví",
@@ -5435,8 +5393,7 @@
       "odborná kvalifikace",
       "posádka",
       "profesní příprava",
-      "výuka jazyků",
-      "výuka jazykų"
+      "výuka jazyků"
     ]
   },
   {
@@ -5453,17 +5410,16 @@
     },
     "temata": [
       "Bankovnictví",
+      "Správa státní",
       "Peněžnictví a pojišťovnictví",
       "Politika",
       "Pracovní síla",
-      "Správa státní",
       "Státní správa a justice",
       "důvěrná informace",
-      "informační systém pro potøeby øízení",
       "informační systém pro potřeby řízení",
       "ministerstvo",
-      "vláda",
-      "ústřední orgány státní správy"
+      "ústřední orgány státní správy",
+      "vláda"
     ]
   },
   {
@@ -5480,17 +5436,16 @@
     },
     "temata": [
       "Bankovnictví",
+      "Správa státní",
       "Peněžnictví a pojišťovnictví",
       "Politika",
       "Pracovní síla",
-      "Správa státní",
       "Státní správa a justice",
       "důvěrná informace",
-      "informační systém pro potøeby øízení",
       "informační systém pro potřeby řízení",
       "ministerstvo",
-      "vláda",
-      "ústřední orgány státní správy"
+      "ústřední orgány státní správy",
+      "vláda"
     ]
   },
   {
@@ -5507,17 +5462,16 @@
     },
     "temata": [
       "Bankovnictví",
+      "Správa státní",
       "Peněžnictví a pojišťovnictví",
       "Politika",
       "Pracovní síla",
-      "Správa státní",
       "Státní správa a justice",
       "důvěrná informace",
-      "informační systém pro potøeby øízení",
       "informační systém pro potřeby řízení",
       "ministerstvo",
-      "vláda",
-      "ústřední orgány státní správy"
+      "ústřední orgány státní správy",
+      "vláda"
     ]
   },
   {
@@ -5534,17 +5488,16 @@
     },
     "temata": [
       "Bankovnictví",
+      "Správa státní",
       "Peněžnictví a pojišťovnictví",
       "Politika",
       "Pracovní síla",
-      "Správa státní",
       "Státní správa a justice",
       "důvěrná informace",
-      "informační systém pro potøeby øízení",
       "informační systém pro potřeby řízení",
       "ministerstvo",
-      "vláda",
-      "ústřední orgány státní správy"
+      "ústřední orgány státní správy",
+      "vláda"
     ]
   },
   {
@@ -5561,17 +5514,16 @@
     },
     "temata": [
       "Bankovnictví",
+      "Správa státní",
       "Peněžnictví a pojišťovnictví",
       "Politika",
       "Pracovní síla",
-      "Správa státní",
       "Státní správa a justice",
       "důvěrná informace",
-      "informační systém pro potøeby øízení",
       "informační systém pro potřeby řízení",
       "ministerstvo",
-      "vláda",
-      "ústřední orgány státní správy"
+      "ústřední orgány státní správy",
+      "vláda"
     ]
   },
   {
@@ -5622,17 +5574,16 @@
     },
     "temata": [
       "Bankovnictví",
+      "Správa státní",
       "Peněžnictví a pojišťovnictví",
       "Politika",
       "Pracovní síla",
-      "Správa státní",
       "Státní správa a justice",
       "důvěrná informace",
-      "informační systém pro potøeby øízení",
       "informační systém pro potřeby řízení",
       "ministerstvo",
-      "vláda",
-      "ústřední orgány státní správy"
+      "ústřední orgány státní správy",
+      "vláda"
     ]
   },
   {
@@ -5648,10 +5599,8 @@
       "not_logged": 87
     },
     "temata": [
-      "Politika",
-      "Shromáždění občanů",
       "Shromįdģnķ občanł",
-      "právo na demonstrace",
+      "Politika",
       "prįvo na demonstrace"
     ]
   },
@@ -6057,18 +6006,17 @@
     },
     "temata": [
       "Důchody",
-      "Evropský parlament",
       "Evropský parlament /EP/",
-      "Mezinárodní styky",
       "Náležitosti členů Parlamentu",
+      "Mezinárodní styky",
       "Národní hospodářství",
-      "Obrana a bezpečnost",
       "Občan",
+      "Obrana a bezpečnost",
       "Peněžnictví a pojišťovnictví",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
-      "nemzdové pøíjmy",
+      "Evropský parlament",
       "nemzdové příjmy",
       "poslanec EP"
     ]
@@ -6087,18 +6035,17 @@
     },
     "temata": [
       "Důchody",
-      "Evropský parlament",
       "Evropský parlament /EP/",
-      "Mezinárodní styky",
       "Náležitosti členů Parlamentu",
+      "Mezinárodní styky",
       "Národní hospodářství",
-      "Obrana a bezpečnost",
       "Občan",
+      "Obrana a bezpečnost",
       "Peněžnictví a pojišťovnictví",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
-      "nemzdové pøíjmy",
+      "Evropský parlament",
       "nemzdové příjmy",
       "poslanec EP"
     ]
@@ -6117,18 +6064,17 @@
     },
     "temata": [
       "Důchody",
-      "Evropský parlament",
       "Evropský parlament /EP/",
-      "Mezinárodní styky",
       "Náležitosti členů Parlamentu",
+      "Mezinárodní styky",
       "Národní hospodářství",
-      "Obrana a bezpečnost",
       "Občan",
+      "Obrana a bezpečnost",
       "Peněžnictví a pojišťovnictví",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
-      "nemzdové pøíjmy",
+      "Evropský parlament",
       "nemzdové příjmy",
       "poslanec EP"
     ]
@@ -6549,14 +6495,12 @@
       "Evropská unie /EU/",
       "Poplatky",
       "Rostliny",
+      "Živočichové",
       "chráněný druh",
       "obchodní licence",
-      "ochrana rostlinné øíe",
       "ochrana rostlinné říše",
-      "ochrana zvířat",
-      "ochrana ivočiné øíe",
       "ochrana živočišné říše",
-      "Živočichové",
+      "ochrana zvířat",
       "živočišná říše"
     ]
   },
@@ -7099,7 +7043,6 @@
       "národní park",
       "ochrana krajiny",
       "ochrana životního prostředí",
-      "odlesòování",
       "odlesňování"
     ]
   },
@@ -8628,17 +8571,16 @@
     },
     "temata": [
       "Bankovnictví",
+      "Správa státní",
       "Peněžnictví a pojišťovnictví",
       "Politika",
       "Pracovní síla",
-      "Správa státní",
       "Státní správa a justice",
       "důvěrná informace",
-      "informační systém pro potøeby øízení",
       "informační systém pro potřeby řízení",
       "ministerstvo",
-      "vláda",
-      "ústřední orgány státní správy"
+      "ústřední orgány státní správy",
+      "vláda"
     ]
   },
   {
@@ -8859,11 +8801,9 @@
       "not_logged": 103
     },
     "temata": [
-      "porušení práva (EU)",
-      "pėstování lesų",
-      "pěstování lesů",
-      "aloba pro poruení smlouvy",
       "Česká republika",
+      "pěstování lesů",
+      "porušení práva (EU)",
       "žaloba pro porušení smlouvy"
     ]
   },
@@ -8880,12 +8820,11 @@
       "not_logged": 102
     },
     "temata": [
+      "Školství",
       "Zájem veřejný",
       "veřejná funkce",
       "veřejné školství",
-      "zneuitķ pravomoci",
-      "zneužití pravomoci",
-      "Školství"
+      "zneužití pravomoci"
     ]
   },
   {
@@ -8901,12 +8840,11 @@
       "not_logged": 100
     },
     "temata": [
+      "Školství",
       "Zájem veřejný",
       "veřejná funkce",
       "veřejné školství",
-      "zneuitķ pravomoci",
-      "zneužití pravomoci",
-      "Školství"
+      "zneužití pravomoci"
     ]
   },
   {
@@ -9228,12 +9166,12 @@
       "not_logged": 59
     },
     "temata": [
-      "Daně - daň z příjmu",
       "Daně a poplatky",
+      "Daně - daň z příjmu",
       "Líh",
       "Národní hospodářství",
-      "Obchod",
       "Občan",
+      "Obchod",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
@@ -9242,7 +9180,6 @@
       "chemický alkohol",
       "ochrana spotřebitele",
       "označení výrobku",
-      "značení zboí nálepkami",
       "značení zboží nálepkami"
     ]
   },
@@ -9259,12 +9196,12 @@
       "not_logged": 68
     },
     "temata": [
-      "Daně - daň z příjmu",
       "Daně a poplatky",
+      "Daně - daň z příjmu",
       "Líh",
       "Národní hospodářství",
-      "Obchod",
       "Občan",
+      "Obchod",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
@@ -9273,7 +9210,6 @@
       "chemický alkohol",
       "ochrana spotřebitele",
       "označení výrobku",
-      "značení zboí nálepkami",
       "značení zboží nálepkami"
     ]
   },
@@ -9290,12 +9226,12 @@
       "not_logged": 65
     },
     "temata": [
-      "Daně - daň z příjmu",
       "Daně a poplatky",
+      "Daně - daň z příjmu",
       "Líh",
       "Národní hospodářství",
-      "Obchod",
       "Občan",
+      "Obchod",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
@@ -9304,7 +9240,6 @@
       "chemický alkohol",
       "ochrana spotřebitele",
       "označení výrobku",
-      "značení zboí nálepkami",
       "značení zboží nálepkami"
     ]
   },
@@ -9321,12 +9256,12 @@
       "not_logged": 64
     },
     "temata": [
-      "Daně - daň z příjmu",
       "Daně a poplatky",
+      "Daně - daň z příjmu",
       "Líh",
       "Národní hospodářství",
-      "Obchod",
       "Občan",
+      "Obchod",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
@@ -9335,7 +9270,6 @@
       "chemický alkohol",
       "ochrana spotřebitele",
       "označení výrobku",
-      "značení zboí nálepkami",
       "značení zboží nálepkami"
     ]
   },
@@ -9352,12 +9286,12 @@
       "not_logged": 61
     },
     "temata": [
-      "Daně - daň z příjmu",
       "Daně a poplatky",
+      "Daně - daň z příjmu",
       "Líh",
       "Národní hospodářství",
-      "Obchod",
       "Občan",
+      "Obchod",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
@@ -9366,7 +9300,6 @@
       "chemický alkohol",
       "ochrana spotřebitele",
       "označení výrobku",
-      "značení zboí nálepkami",
       "značení zboží nálepkami"
     ]
   },
@@ -9386,16 +9319,15 @@
       "Armáda",
       "Mzdy, odměny za práci",
       "Národní hospodářství",
-      "Obrana a bezpečnost",
       "Občan",
+      "Obrana a bezpečnost",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
       "mzda",
       "pracovní povinnost",
-      "profesionální armáda",
-      "pøíspėvek pozųstalým",
       "příspěvek pozůstalým",
+      "profesionální armáda",
       "vojenský výcvik",
       "vojska v zahraničí"
     ]
@@ -9428,21 +9360,19 @@
     },
     "temata": [
       "Evropská unie /EU/",
+      "Pojišťovnictví",
       "Informační služby",
       "Mezinárodní styky",
       "Národní hospodářství",
-      "Obrana a bezpečnost",
       "Občan",
+      "Obrana a bezpečnost",
       "Peněžnictví a pojišťovnictví",
-      "Pojišťovnictví",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
-      "pojistné právo",
       "pojištění",
-      "soukromé pojitėní",
+      "pojistné právo",
       "soukromé pojištění",
-      "zajitėní",
       "zajištění"
     ]
   },
@@ -9460,21 +9390,19 @@
     },
     "temata": [
       "Evropská unie /EU/",
+      "Pojišťovnictví",
       "Informační služby",
       "Mezinárodní styky",
       "Národní hospodářství",
-      "Obrana a bezpečnost",
       "Občan",
+      "Obrana a bezpečnost",
       "Peněžnictví a pojišťovnictví",
-      "Pojišťovnictví",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
-      "pojistné právo",
       "pojištění",
-      "soukromé pojitėní",
+      "pojistné právo",
       "soukromé pojištění",
-      "zajitėní",
       "zajištění"
     ]
   },
@@ -9492,21 +9420,19 @@
     },
     "temata": [
       "Evropská unie /EU/",
+      "Pojišťovnictví",
       "Informační služby",
       "Mezinárodní styky",
       "Národní hospodářství",
-      "Obrana a bezpečnost",
       "Občan",
+      "Obrana a bezpečnost",
       "Peněžnictví a pojišťovnictví",
-      "Pojišťovnictví",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
-      "pojistné právo",
       "pojištění",
-      "soukromé pojitėní",
+      "pojistné právo",
       "soukromé pojištění",
-      "zajitėní",
       "zajištění"
     ]
   },
@@ -9524,21 +9450,19 @@
     },
     "temata": [
       "Evropská unie /EU/",
+      "Pojišťovnictví",
       "Informační služby",
       "Mezinárodní styky",
       "Národní hospodářství",
-      "Obrana a bezpečnost",
       "Občan",
+      "Obrana a bezpečnost",
       "Peněžnictví a pojišťovnictví",
-      "Pojišťovnictví",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
-      "pojistné právo",
       "pojištění",
-      "soukromé pojitėní",
+      "pojistné právo",
       "soukromé pojištění",
-      "zajitėní",
       "zajištění"
     ]
   },
@@ -9556,21 +9480,19 @@
     },
     "temata": [
       "Evropská unie /EU/",
+      "Pojišťovnictví",
       "Informační služby",
       "Mezinárodní styky",
       "Národní hospodářství",
-      "Obrana a bezpečnost",
       "Občan",
+      "Obrana a bezpečnost",
       "Peněžnictví a pojišťovnictví",
-      "Pojišťovnictví",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
-      "pojistné právo",
       "pojištění",
-      "soukromé pojitėní",
+      "pojistné právo",
       "soukromé pojištění",
-      "zajitėní",
       "zajištění"
     ]
   },
@@ -9588,21 +9510,19 @@
     },
     "temata": [
       "Evropská unie /EU/",
+      "Pojišťovnictví",
       "Informační služby",
       "Mezinárodní styky",
       "Národní hospodářství",
-      "Obrana a bezpečnost",
       "Občan",
+      "Obrana a bezpečnost",
       "Peněžnictví a pojišťovnictví",
-      "Pojišťovnictví",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
-      "pojistné právo",
       "pojištění",
-      "soukromé pojitėní",
+      "pojistné právo",
       "soukromé pojištění",
-      "zajitėní",
       "zajištění"
     ]
   },
@@ -9620,21 +9540,19 @@
     },
     "temata": [
       "Evropská unie /EU/",
+      "Pojišťovnictví",
       "Informační služby",
       "Mezinárodní styky",
       "Národní hospodářství",
-      "Obrana a bezpečnost",
       "Občan",
+      "Obrana a bezpečnost",
       "Peněžnictví a pojišťovnictví",
-      "Pojišťovnictví",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
-      "pojistné právo",
       "pojištění",
-      "soukromé pojitėní",
+      "pojistné právo",
       "soukromé pojištění",
-      "zajitėní",
       "zajištění"
     ]
   },
@@ -9652,21 +9570,19 @@
     },
     "temata": [
       "Evropská unie /EU/",
+      "Pojišťovnictví",
       "Informační služby",
       "Mezinárodní styky",
       "Národní hospodářství",
-      "Obrana a bezpečnost",
       "Občan",
+      "Obrana a bezpečnost",
       "Peněžnictví a pojišťovnictví",
-      "Pojišťovnictví",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
-      "pojistné právo",
       "pojištění",
-      "soukromé pojitėní",
+      "pojistné právo",
       "soukromé pojištění",
-      "zajitėní",
       "zajištění"
     ]
   },
@@ -9684,21 +9600,19 @@
     },
     "temata": [
       "Evropská unie /EU/",
+      "Pojišťovnictví",
       "Informační služby",
       "Mezinárodní styky",
       "Národní hospodářství",
-      "Obrana a bezpečnost",
       "Občan",
+      "Obrana a bezpečnost",
       "Peněžnictví a pojišťovnictví",
-      "Pojišťovnictví",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
-      "pojistné právo",
       "pojištění",
-      "soukromé pojitėní",
+      "pojistné právo",
       "soukromé pojištění",
-      "zajitėní",
       "zajištění"
     ]
   },
@@ -9716,21 +9630,19 @@
     },
     "temata": [
       "Evropská unie /EU/",
+      "Pojišťovnictví",
       "Informační služby",
       "Mezinárodní styky",
       "Národní hospodářství",
-      "Obrana a bezpečnost",
       "Občan",
+      "Obrana a bezpečnost",
       "Peněžnictví a pojišťovnictví",
-      "Pojišťovnictví",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
-      "pojistné právo",
       "pojištění",
-      "soukromé pojitėní",
+      "pojistné právo",
       "soukromé pojištění",
-      "zajitėní",
       "zajištění"
     ]
   },
@@ -9748,21 +9660,19 @@
     },
     "temata": [
       "Evropská unie /EU/",
+      "Pojišťovnictví",
       "Informační služby",
       "Mezinárodní styky",
       "Národní hospodářství",
-      "Obrana a bezpečnost",
       "Občan",
+      "Obrana a bezpečnost",
       "Peněžnictví a pojišťovnictví",
-      "Pojišťovnictví",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
-      "pojistné právo",
       "pojištění",
-      "soukromé pojitėní",
+      "pojistné právo",
       "soukromé pojištění",
-      "zajitėní",
       "zajištění"
     ]
   },
@@ -9780,21 +9690,19 @@
     },
     "temata": [
       "Evropská unie /EU/",
+      "Pojišťovnictví",
       "Informační služby",
       "Mezinárodní styky",
       "Národní hospodářství",
-      "Obrana a bezpečnost",
       "Občan",
+      "Obrana a bezpečnost",
       "Peněžnictví a pojišťovnictví",
-      "Pojišťovnictví",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
-      "pojistné právo",
       "pojištění",
-      "soukromé pojitėní",
+      "pojistné právo",
       "soukromé pojištění",
-      "zajitėní",
       "zajištění"
     ]
   },
@@ -9811,23 +9719,21 @@
       "not_logged": 68
     },
     "temata": [
-      "Doprava a spoje",
       "Evropská unie /EU/",
+      "Pojišťovnictví",
+      "Doprava a spoje",
       "Mezinárodní styky",
       "Národní hospodářství",
-      "Obrana a bezpečnost",
       "Občan",
+      "Obrana a bezpečnost",
       "Peněžnictví a pojišťovnictví",
-      "Pojišťovnictví",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
-      "pojistná smlouva",
       "pojištění",
+      "pojistná smlouva",
       "pojišťovna",
-      "soukromé pojitėní",
       "soukromé pojištění",
-      "zajitėní",
       "zajištění"
     ]
   },
@@ -9844,12 +9750,11 @@
       "not_logged": 68
     },
     "temata": [
-      "Bosna a Hercegovina",
-      "Evropská dohoda o pøidruení",
-      "Evropská dohoda o přidružení",
-      "Evropské společenství",
       "asociační dohoda",
-      "dohoda o přidružení (EU)"
+      "Bosna a Hercegovina",
+      "dohoda o přidružení (EU)",
+      "Evropská dohoda o přidružení",
+      "Evropské společenství"
     ]
   },
   {
@@ -9885,12 +9790,12 @@
       "not_logged": 69
     },
     "temata": [
-      "Daně - daň z příjmu",
       "Daně a poplatky",
+      "Daně - daň z příjmu",
       "Líh",
       "Národní hospodářství",
-      "Obchod",
       "Občan",
+      "Obchod",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
@@ -9899,7 +9804,6 @@
       "chemický alkohol",
       "ochrana spotřebitele",
       "označení výrobku",
-      "značení zboí nálepkami",
       "značení zboží nálepkami"
     ]
   },
@@ -9916,12 +9820,12 @@
       "not_logged": 68
     },
     "temata": [
-      "Daně - daň z příjmu",
       "Daně a poplatky",
+      "Daně - daň z příjmu",
       "Líh",
       "Národní hospodářství",
-      "Obchod",
       "Občan",
+      "Obchod",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
@@ -9930,7 +9834,6 @@
       "chemický alkohol",
       "ochrana spotřebitele",
       "označení výrobku",
-      "značení zboí nálepkami",
       "značení zboží nálepkami"
     ]
   },
@@ -9947,12 +9850,12 @@
       "not_logged": 69
     },
     "temata": [
-      "Daně - daň z příjmu",
       "Daně a poplatky",
+      "Daně - daň z příjmu",
       "Líh",
       "Národní hospodářství",
-      "Obchod",
       "Občan",
+      "Obchod",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
@@ -9961,7 +9864,6 @@
       "chemický alkohol",
       "ochrana spotřebitele",
       "označení výrobku",
-      "značení zboí nálepkami",
       "značení zboží nálepkami"
     ]
   },
@@ -9978,12 +9880,12 @@
       "not_logged": 68
     },
     "temata": [
-      "Daně - daň z příjmu",
       "Daně a poplatky",
+      "Daně - daň z příjmu",
       "Líh",
       "Národní hospodářství",
-      "Obchod",
       "Občan",
+      "Obchod",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
@@ -9992,7 +9894,6 @@
       "chemický alkohol",
       "ochrana spotřebitele",
       "označení výrobku",
-      "značení zboí nálepkami",
       "značení zboží nálepkami"
     ]
   },
@@ -10009,12 +9910,12 @@
       "not_logged": 69
     },
     "temata": [
-      "Daně - daň z příjmu",
       "Daně a poplatky",
+      "Daně - daň z příjmu",
       "Líh",
       "Národní hospodářství",
-      "Obchod",
       "Občan",
+      "Obchod",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
@@ -10023,7 +9924,6 @@
       "chemický alkohol",
       "ochrana spotřebitele",
       "označení výrobku",
-      "značení zboí nálepkami",
       "značení zboží nálepkami"
     ]
   },
@@ -10041,27 +9941,24 @@
     },
     "temata": [
       "Evropská unie /EU/",
+      "Politika agrární",
       "Informační služby",
       "Mezinárodní styky",
       "Národní hospodářství",
-      "Obrana a bezpečnost",
       "Občan",
+      "Obrana a bezpečnost",
       "Politika",
-      "Politika agrární",
       "Pracovní síla",
       "Státní správa a justice",
       "Těžba a výroba",
       "Zdravotnictví",
+      "Životní prostředí",
       "agrární sektor",
       "ochrana životního prostředí",
-      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
-      "zemėdėlská politika",
       "zemědělská politika",
-      "znevýhodnėná oblast",
-      "znevýhodněná oblast",
-      "Životní prostředí"
+      "znevýhodněná oblast"
     ]
   },
   {
@@ -10077,12 +9974,12 @@
       "not_logged": 70
     },
     "temata": [
-      "Daně - daň z příjmu",
       "Daně a poplatky",
+      "Daně - daň z příjmu",
       "Líh",
       "Národní hospodářství",
-      "Obchod",
       "Občan",
+      "Obchod",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
@@ -10091,7 +9988,6 @@
       "chemický alkohol",
       "ochrana spotřebitele",
       "označení výrobku",
-      "značení zboí nálepkami",
       "značení zboží nálepkami"
     ]
   },
@@ -10109,21 +10005,20 @@
     },
     "temata": [
       "Evropská unie /EU/",
+      "Veterinářství",
       "Mezinárodní styky",
       "Národní hospodářství",
+      "Občan",
       "Obchod",
       "Obrana a bezpečnost",
-      "Občan",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
       "Těžba a výroba",
-      "Veterinářství",
       "Zdravotnictví",
       "dovozní omezení",
       "veterinární legislativa",
       "vývozní omezení",
-      "zdraví zvíøat",
       "zdraví zvířat",
       "zvířecí kůže"
     ]
@@ -10146,7 +10041,6 @@
       "Občan",
       "Peněžnictví a pojišťovnictví",
       "družstevní banka",
-      "zajitėní",
       "zajištění",
       "zrušení společnosti"
     ]
@@ -10169,7 +10063,6 @@
       "Občan",
       "Peněžnictví a pojišťovnictví",
       "družstevní banka",
-      "zajitėní",
       "zajištění",
       "zrušení společnosti"
     ]
@@ -10192,7 +10085,6 @@
       "Občan",
       "Peněžnictví a pojišťovnictví",
       "družstevní banka",
-      "zajitėní",
       "zajištění",
       "zrušení společnosti"
     ]
@@ -10215,7 +10107,6 @@
       "Občan",
       "Peněžnictví a pojišťovnictví",
       "družstevní banka",
-      "zajitėní",
       "zajištění",
       "zrušení společnosti"
     ]
@@ -10238,7 +10129,6 @@
       "Občan",
       "Peněžnictví a pojišťovnictví",
       "družstevní banka",
-      "zajitėní",
       "zajištění",
       "zrušení společnosti"
     ]
@@ -10280,12 +10170,12 @@
       "not_logged": 73
     },
     "temata": [
-      "Daně - daň z příjmu",
       "Daně a poplatky",
+      "Daně - daň z příjmu",
       "Líh",
       "Národní hospodářství",
-      "Obchod",
       "Občan",
+      "Obchod",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
@@ -10294,7 +10184,6 @@
       "chemický alkohol",
       "ochrana spotřebitele",
       "označení výrobku",
-      "značení zboí nálepkami",
       "značení zboží nálepkami"
     ]
   },
@@ -10311,12 +10200,12 @@
       "not_logged": 73
     },
     "temata": [
-      "Daně - daň z příjmu",
       "Daně a poplatky",
+      "Daně - daň z příjmu",
       "Líh",
       "Národní hospodářství",
-      "Obchod",
       "Občan",
+      "Obchod",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
@@ -10325,7 +10214,6 @@
       "chemický alkohol",
       "ochrana spotřebitele",
       "označení výrobku",
-      "značení zboí nálepkami",
       "značení zboží nálepkami"
     ]
   },
@@ -10342,12 +10230,12 @@
       "not_logged": 72
     },
     "temata": [
-      "Daně - daň z příjmu",
       "Daně a poplatky",
+      "Daně - daň z příjmu",
       "Líh",
       "Národní hospodářství",
-      "Obchod",
       "Občan",
+      "Obchod",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
@@ -10356,7 +10244,6 @@
       "chemický alkohol",
       "ochrana spotřebitele",
       "označení výrobku",
-      "značení zboí nálepkami",
       "značení zboží nálepkami"
     ]
   },
@@ -10397,27 +10284,24 @@
     },
     "temata": [
       "Evropská unie /EU/",
+      "Politika agrární",
       "Informační služby",
       "Mezinárodní styky",
       "Národní hospodářství",
-      "Obrana a bezpečnost",
       "Občan",
+      "Obrana a bezpečnost",
       "Politika",
-      "Politika agrární",
       "Pracovní síla",
       "Státní správa a justice",
       "Těžba a výroba",
       "Zdravotnictví",
+      "Životní prostředí",
       "agrární sektor",
       "ochrana životního prostředí",
-      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
-      "zemėdėlská politika",
       "zemědělská politika",
-      "znevýhodnėná oblast",
-      "znevýhodněná oblast",
-      "Životní prostředí"
+      "znevýhodněná oblast"
     ]
   },
   {
@@ -10468,7 +10352,6 @@
       "Občan",
       "Peněžnictví a pojišťovnictví",
       "družstevní banka",
-      "zajitėní",
       "zajištění",
       "zrušení společnosti"
     ]
@@ -10491,7 +10374,6 @@
       "Občan",
       "Peněžnictví a pojišťovnictví",
       "družstevní banka",
-      "zajitėní",
       "zajištění",
       "zrušení společnosti"
     ]
@@ -10509,12 +10391,12 @@
       "not_logged": 78
     },
     "temata": [
-      "Daně - daň z příjmu",
       "Daně a poplatky",
+      "Daně - daň z příjmu",
       "Líh",
       "Národní hospodářství",
-      "Obchod",
       "Občan",
+      "Obchod",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
@@ -10523,7 +10405,6 @@
       "chemický alkohol",
       "ochrana spotřebitele",
       "označení výrobku",
-      "značení zboí nálepkami",
       "značení zboží nálepkami"
     ]
   },
@@ -10540,12 +10421,12 @@
       "not_logged": 78
     },
     "temata": [
-      "Daně - daň z příjmu",
       "Daně a poplatky",
+      "Daně - daň z příjmu",
       "Líh",
       "Národní hospodářství",
-      "Obchod",
       "Občan",
+      "Obchod",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
@@ -10554,7 +10435,6 @@
       "chemický alkohol",
       "ochrana spotřebitele",
       "označení výrobku",
-      "značení zboí nálepkami",
       "značení zboží nálepkami"
     ]
   },
@@ -10571,12 +10451,12 @@
       "not_logged": 78
     },
     "temata": [
-      "Daně - daň z příjmu",
       "Daně a poplatky",
+      "Daně - daň z příjmu",
       "Líh",
       "Národní hospodářství",
-      "Obchod",
       "Občan",
+      "Obchod",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
@@ -10585,7 +10465,6 @@
       "chemický alkohol",
       "ochrana spotřebitele",
       "označení výrobku",
-      "značení zboí nálepkami",
       "značení zboží nálepkami"
     ]
   },
@@ -10602,12 +10481,12 @@
       "not_logged": 81
     },
     "temata": [
-      "Daně - daň z příjmu",
       "Daně a poplatky",
+      "Daně - daň z příjmu",
       "Líh",
       "Národní hospodářství",
-      "Obchod",
       "Občan",
+      "Obchod",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
@@ -10616,7 +10495,6 @@
       "chemický alkohol",
       "ochrana spotřebitele",
       "označení výrobku",
-      "značení zboí nálepkami",
       "značení zboží nálepkami"
     ]
   },
@@ -10633,12 +10511,12 @@
       "not_logged": 80
     },
     "temata": [
-      "Daně - daň z příjmu",
       "Daně a poplatky",
+      "Daně - daň z příjmu",
       "Líh",
       "Národní hospodářství",
-      "Obchod",
       "Občan",
+      "Obchod",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
@@ -10647,7 +10525,6 @@
       "chemický alkohol",
       "ochrana spotřebitele",
       "označení výrobku",
-      "značení zboí nálepkami",
       "značení zboží nálepkami"
     ]
   },
@@ -10664,12 +10541,12 @@
       "not_logged": 80
     },
     "temata": [
-      "Daně - daň z příjmu",
       "Daně a poplatky",
+      "Daně - daň z příjmu",
       "Líh",
       "Národní hospodářství",
-      "Obchod",
       "Občan",
+      "Obchod",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
@@ -10678,7 +10555,6 @@
       "chemický alkohol",
       "ochrana spotřebitele",
       "označení výrobku",
-      "značení zboí nálepkami",
       "značení zboží nálepkami"
     ]
   },
@@ -10695,12 +10571,12 @@
       "not_logged": 75
     },
     "temata": [
-      "Daně - daň z příjmu",
       "Daně a poplatky",
+      "Daně - daň z příjmu",
       "Líh",
       "Národní hospodářství",
-      "Obchod",
       "Občan",
+      "Obchod",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
@@ -10709,7 +10585,6 @@
       "chemický alkohol",
       "ochrana spotřebitele",
       "označení výrobku",
-      "značení zboí nálepkami",
       "značení zboží nálepkami"
     ]
   },
@@ -10726,12 +10601,12 @@
       "not_logged": 74
     },
     "temata": [
-      "Daně - daň z příjmu",
       "Daně a poplatky",
+      "Daně - daň z příjmu",
       "Líh",
       "Národní hospodářství",
-      "Obchod",
       "Občan",
+      "Obchod",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
@@ -10740,7 +10615,6 @@
       "chemický alkohol",
       "ochrana spotřebitele",
       "označení výrobku",
-      "značení zboí nálepkami",
       "značení zboží nálepkami"
     ]
   },
@@ -10757,12 +10631,12 @@
       "not_logged": 75
     },
     "temata": [
-      "Daně - daň z příjmu",
       "Daně a poplatky",
+      "Daně - daň z příjmu",
       "Líh",
       "Národní hospodářství",
-      "Obchod",
       "Občan",
+      "Obchod",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
@@ -10771,7 +10645,6 @@
       "chemický alkohol",
       "ochrana spotřebitele",
       "označení výrobku",
-      "značení zboí nálepkami",
       "značení zboží nálepkami"
     ]
   },
@@ -10788,12 +10661,12 @@
       "not_logged": 75
     },
     "temata": [
-      "Daně - daň z příjmu",
       "Daně a poplatky",
+      "Daně - daň z příjmu",
       "Líh",
       "Národní hospodářství",
-      "Obchod",
       "Občan",
+      "Obchod",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
@@ -10802,7 +10675,6 @@
       "chemický alkohol",
       "ochrana spotřebitele",
       "označení výrobku",
-      "značení zboí nálepkami",
       "značení zboží nálepkami"
     ]
   },
@@ -10819,12 +10691,12 @@
       "not_logged": 75
     },
     "temata": [
-      "Daně - daň z příjmu",
       "Daně a poplatky",
+      "Daně - daň z příjmu",
       "Líh",
       "Národní hospodářství",
-      "Obchod",
       "Občan",
+      "Obchod",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
@@ -10833,7 +10705,6 @@
       "chemický alkohol",
       "ochrana spotřebitele",
       "označení výrobku",
-      "značení zboí nálepkami",
       "značení zboží nálepkami"
     ]
   },
@@ -10850,12 +10721,12 @@
       "not_logged": 75
     },
     "temata": [
-      "Daně - daň z příjmu",
       "Daně a poplatky",
+      "Daně - daň z příjmu",
       "Líh",
       "Národní hospodářství",
-      "Obchod",
       "Občan",
+      "Obchod",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
@@ -10864,7 +10735,6 @@
       "chemický alkohol",
       "ochrana spotřebitele",
       "označení výrobku",
-      "značení zboí nálepkami",
       "značení zboží nálepkami"
     ]
   },
@@ -10881,12 +10751,12 @@
       "not_logged": 74
     },
     "temata": [
-      "Daně - daň z příjmu",
       "Daně a poplatky",
+      "Daně - daň z příjmu",
       "Líh",
       "Národní hospodářství",
-      "Obchod",
       "Občan",
+      "Obchod",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
@@ -10895,7 +10765,6 @@
       "chemický alkohol",
       "ochrana spotřebitele",
       "označení výrobku",
-      "značení zboí nálepkami",
       "značení zboží nálepkami"
     ]
   },
@@ -10912,12 +10781,12 @@
       "not_logged": 74
     },
     "temata": [
-      "Daně - daň z příjmu",
       "Daně a poplatky",
+      "Daně - daň z příjmu",
       "Líh",
       "Národní hospodářství",
-      "Obchod",
       "Občan",
+      "Obchod",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
@@ -10926,7 +10795,6 @@
       "chemický alkohol",
       "ochrana spotřebitele",
       "označení výrobku",
-      "značení zboí nálepkami",
       "značení zboží nálepkami"
     ]
   },
@@ -10943,12 +10811,12 @@
       "not_logged": 74
     },
     "temata": [
-      "Daně - daň z příjmu",
       "Daně a poplatky",
+      "Daně - daň z příjmu",
       "Líh",
       "Národní hospodářství",
-      "Obchod",
       "Občan",
+      "Obchod",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
@@ -10957,7 +10825,6 @@
       "chemický alkohol",
       "ochrana spotřebitele",
       "označení výrobku",
-      "značení zboí nálepkami",
       "značení zboží nálepkami"
     ]
   },
@@ -10974,28 +10841,25 @@
       "not_logged": 86
     },
     "temata": [
+      "Řád trestní",
+      "Zákon trestní",
       "Informační služby",
       "Mezinárodní styky",
       "Národní hospodářství",
-      "Obrana a bezpečnost",
       "Občan",
+      "Obrana a bezpečnost",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
-      "Zákon trestní",
       "fyzické násilí",
       "mučení",
       "obchodování s drogami",
-      "odnėtí svobody",
       "odnětí svobody",
       "sebevražda",
-      "sexuálnė motivované násilí",
       "sexuálně motivované násilí",
       "trestní sankce",
       "trestní zákoník",
-      "vrada",
-      "vražda",
-      "Řád trestní"
+      "vražda"
     ]
   },
   {
@@ -11011,12 +10875,12 @@
       "not_logged": 85
     },
     "temata": [
-      "Daně - daň z příjmu",
       "Daně a poplatky",
+      "Daně - daň z příjmu",
       "Líh",
       "Národní hospodářství",
-      "Obchod",
       "Občan",
+      "Obchod",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
@@ -11025,7 +10889,6 @@
       "chemický alkohol",
       "ochrana spotřebitele",
       "označení výrobku",
-      "značení zboí nálepkami",
       "značení zboží nálepkami"
     ]
   },
@@ -11070,12 +10933,12 @@
       "not_logged": 84
     },
     "temata": [
-      "Daně - daň z příjmu",
       "Daně a poplatky",
+      "Daně - daň z příjmu",
       "Líh",
       "Národní hospodářství",
-      "Obchod",
       "Občan",
+      "Obchod",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
@@ -11084,7 +10947,6 @@
       "chemický alkohol",
       "ochrana spotřebitele",
       "označení výrobku",
-      "značení zboí nálepkami",
       "značení zboží nálepkami"
     ]
   },
@@ -11101,12 +10963,12 @@
       "not_logged": 84
     },
     "temata": [
-      "Daně - daň z příjmu",
       "Daně a poplatky",
+      "Daně - daň z příjmu",
       "Líh",
       "Národní hospodářství",
-      "Obchod",
       "Občan",
+      "Obchod",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
@@ -11115,7 +10977,6 @@
       "chemický alkohol",
       "ochrana spotřebitele",
       "označení výrobku",
-      "značení zboí nálepkami",
       "značení zboží nálepkami"
     ]
   },
@@ -11132,12 +10993,12 @@
       "not_logged": 94
     },
     "temata": [
-      "Daně - daň z příjmu",
       "Daně a poplatky",
+      "Daně - daň z příjmu",
       "Líh",
       "Národní hospodářství",
-      "Obchod",
       "Občan",
+      "Obchod",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
@@ -11146,7 +11007,6 @@
       "chemický alkohol",
       "ochrana spotřebitele",
       "označení výrobku",
-      "značení zboí nálepkami",
       "značení zboží nálepkami"
     ]
   },
@@ -11163,12 +11023,12 @@
       "not_logged": 91
     },
     "temata": [
-      "Daně - daň z příjmu",
       "Daně a poplatky",
+      "Daně - daň z příjmu",
       "Líh",
       "Národní hospodářství",
-      "Obchod",
       "Občan",
+      "Obchod",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
@@ -11177,7 +11037,6 @@
       "chemický alkohol",
       "ochrana spotřebitele",
       "označení výrobku",
-      "značení zboí nálepkami",
       "značení zboží nálepkami"
     ]
   },
@@ -11194,12 +11053,12 @@
       "not_logged": 89
     },
     "temata": [
-      "Daně - daň z příjmu",
       "Daně a poplatky",
+      "Daně - daň z příjmu",
       "Líh",
       "Národní hospodářství",
-      "Obchod",
       "Občan",
+      "Obchod",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
@@ -11208,7 +11067,6 @@
       "chemický alkohol",
       "ochrana spotřebitele",
       "označení výrobku",
-      "značení zboí nálepkami",
       "značení zboží nálepkami"
     ]
   },
@@ -11225,12 +11083,12 @@
       "not_logged": 88
     },
     "temata": [
-      "Daně - daň z příjmu",
       "Daně a poplatky",
+      "Daně - daň z příjmu",
       "Líh",
       "Národní hospodářství",
-      "Obchod",
       "Občan",
+      "Obchod",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
@@ -11239,7 +11097,6 @@
       "chemický alkohol",
       "ochrana spotřebitele",
       "označení výrobku",
-      "značení zboí nálepkami",
       "značení zboží nálepkami"
     ]
   },
@@ -11256,12 +11113,12 @@
       "not_logged": 88
     },
     "temata": [
-      "Daně - daň z příjmu",
       "Daně a poplatky",
+      "Daně - daň z příjmu",
       "Líh",
       "Národní hospodářství",
-      "Obchod",
       "Občan",
+      "Obchod",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
@@ -11270,7 +11127,6 @@
       "chemický alkohol",
       "ochrana spotřebitele",
       "označení výrobku",
-      "značení zboí nálepkami",
       "značení zboží nálepkami"
     ]
   },
@@ -11288,7 +11144,6 @@
     },
     "temata": [
       "Pozemkový fond",
-      "Pøevody vlastnictví",
       "Převody vlastnictví",
       "les",
       "odškodnění",
@@ -11492,10 +11347,9 @@
       "not_logged": 91
     },
     "temata": [
-      "Kypr",
+      "Česká republika",
       "daňová úmluva",
-      "daōová úmluva",
-      "Česká republika"
+      "Kypr"
     ]
   },
   {
@@ -11570,12 +11424,9 @@
     "temata": [
       "Belgie",
       "boj proti zloèinnosti",
-      "boj proti zločinnosti",
-      "policejní spolupráce",
-      "trestná èinnost",
-      "trestná činnost",
       "Èeská republika",
-      "Česká republika"
+      "policejní spolupráce",
+      "trestná èinnost"
     ]
   },
   {
@@ -12201,15 +12052,14 @@
       "not_logged": 8
     },
     "temata": [
-      "Občan",
       "Parlament České republiky",
+      "Ústava České republiky",
+      "Občan",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
       "dolní komora",
-      "rozputėní parlamentu",
       "rozpuštění parlamentu",
-      "Ústava České republiky",
       "ústava"
     ]
   },
@@ -12226,15 +12076,14 @@
       "not_logged": 15
     },
     "temata": [
-      "Občan",
       "Parlament České republiky",
+      "Ústava České republiky",
+      "Občan",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
       "dolní komora",
-      "rozputėní parlamentu",
       "rozpuštění parlamentu",
-      "Ústava České republiky",
       "ústava"
     ]
   },
@@ -12279,15 +12128,14 @@
       "not_logged": 16
     },
     "temata": [
-      "Občan",
       "Parlament České republiky",
+      "Ústava České republiky",
+      "Občan",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
       "dolní komora",
-      "rozputėní parlamentu",
       "rozpuštění parlamentu",
-      "Ústava České republiky",
       "ústava"
     ]
   },
@@ -12304,15 +12152,14 @@
       "not_logged": 17
     },
     "temata": [
-      "Občan",
       "Parlament České republiky",
+      "Ústava České republiky",
+      "Občan",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
       "dolní komora",
-      "rozputėní parlamentu",
       "rozpuštění parlamentu",
-      "Ústava České republiky",
       "ústava"
     ]
   },
@@ -12329,15 +12176,14 @@
       "not_logged": 18
     },
     "temata": [
-      "Občan",
       "Parlament České republiky",
+      "Ústava České republiky",
+      "Občan",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
       "dolní komora",
-      "rozputėní parlamentu",
       "rozpuštění parlamentu",
-      "Ústava České republiky",
       "ústava"
     ]
   },
@@ -12354,15 +12200,14 @@
       "not_logged": 17
     },
     "temata": [
-      "Občan",
       "Parlament České republiky",
+      "Ústava České republiky",
+      "Občan",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
       "dolní komora",
-      "rozputėní parlamentu",
       "rozpuštění parlamentu",
-      "Ústava České republiky",
       "ústava"
     ]
   },
@@ -12421,15 +12266,14 @@
       "not_logged": 42
     },
     "temata": [
-      "Občan",
       "Parlament České republiky",
+      "Ústava České republiky",
+      "Občan",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
       "dolní komora",
-      "rozputėní parlamentu",
       "rozpuštění parlamentu",
-      "Ústava České republiky",
       "ústava"
     ]
   },
@@ -12771,21 +12615,18 @@
       "Elektrárny",
       "Evropská unie /EU/",
       "Krize",
+      "Situace krizové",
+      "Zabezpečení sociální",
+      "Zaměstnanost",
       "Národní hospodářství",
       "Občan",
       "Politika",
       "Pracovní síla",
-      "Situace krizové",
       "Státní správa a justice",
       "Těžba a výroba",
-      "Zabezpeèení sociální",
-      "Zabezpečení sociální",
-      "Zaměstnanost",
-      "boj proti nezamėstnanosti",
       "boj proti nezaměstnanosti",
       "daň z příjmů",
       "důchodový plán",
-      "hospodáøská recese",
       "hospodářská recese",
       "hospodářský růst",
       "konkurz",
@@ -12838,9 +12679,7 @@
     "temata": [
       "Spoření",
       "finanční pomoc",
-      "hypotekární úvėr",
       "hypotekární úvěr",
-      "náklady na vzdėlávání",
       "náklady na vzdělávání",
       "přístup ke vzdělání",
       "stavební výpomoc"
@@ -12907,14 +12746,12 @@
       "Evropská unie /EU/",
       "Poplatky",
       "Rostliny",
+      "Živočichové",
       "chráněný druh",
       "obchodní licence",
-      "ochrana rostlinné øíe",
       "ochrana rostlinné říše",
-      "ochrana zvířat",
-      "ochrana ivočiné øíe",
       "ochrana živočišné říše",
-      "Živočichové",
+      "ochrana zvířat",
       "živočišná říše"
     ]
   },
@@ -12931,15 +12768,14 @@
       "not_logged": 8
     },
     "temata": [
-      "Občan",
       "Parlament České republiky",
+      "Ústava České republiky",
+      "Občan",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
       "dolní komora",
-      "rozputėní parlamentu",
       "rozpuštění parlamentu",
-      "Ústava České republiky",
       "ústava"
     ]
   },
@@ -13016,15 +12852,14 @@
       "not_logged": 70
     },
     "temata": [
-      "Občan",
       "Parlament České republiky",
+      "Ústava České republiky",
+      "Občan",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
       "dolní komora",
-      "rozputėní parlamentu",
       "rozpuštění parlamentu",
-      "Ústava České republiky",
       "ústava"
     ]
   },
@@ -13041,15 +12876,14 @@
       "not_logged": 25
     },
     "temata": [
-      "Občan",
       "Parlament České republiky",
+      "Ústava České republiky",
+      "Občan",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
       "dolní komora",
-      "rozputėní parlamentu",
       "rozpuštění parlamentu",
-      "Ústava České republiky",
       "ústava"
     ]
   },
@@ -13066,15 +12900,14 @@
       "not_logged": 43
     },
     "temata": [
-      "Občan",
       "Parlament České republiky",
+      "Ústava České republiky",
+      "Občan",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
       "dolní komora",
-      "rozputėní parlamentu",
       "rozpuštění parlamentu",
-      "Ústava České republiky",
       "ústava"
     ]
   },
@@ -13091,15 +12924,14 @@
       "not_logged": 37
     },
     "temata": [
-      "Občan",
       "Parlament České republiky",
+      "Ústava České republiky",
+      "Občan",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
       "dolní komora",
-      "rozputėní parlamentu",
       "rozpuštění parlamentu",
-      "Ústava České republiky",
       "ústava"
     ]
   },
@@ -13116,15 +12948,14 @@
       "not_logged": 35
     },
     "temata": [
-      "Občan",
       "Parlament České republiky",
+      "Ústava České republiky",
+      "Občan",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
       "dolní komora",
-      "rozputėní parlamentu",
       "rozpuštění parlamentu",
-      "Ústava České republiky",
       "ústava"
     ]
   },
@@ -13141,15 +12972,14 @@
       "not_logged": 34
     },
     "temata": [
-      "Občan",
       "Parlament České republiky",
+      "Ústava České republiky",
+      "Občan",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
       "dolní komora",
-      "rozputėní parlamentu",
       "rozpuštění parlamentu",
-      "Ústava České republiky",
       "ústava"
     ]
   },
@@ -13166,15 +12996,14 @@
       "not_logged": 35
     },
     "temata": [
-      "Občan",
       "Parlament České republiky",
+      "Ústava České republiky",
+      "Občan",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
       "dolní komora",
-      "rozputėní parlamentu",
       "rozpuštění parlamentu",
-      "Ústava České republiky",
       "ústava"
     ]
   },
@@ -13191,15 +13020,14 @@
       "not_logged": 30
     },
     "temata": [
-      "Občan",
       "Parlament České republiky",
+      "Ústava České republiky",
+      "Občan",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
       "dolní komora",
-      "rozputėní parlamentu",
       "rozpuštění parlamentu",
-      "Ústava České republiky",
       "ústava"
     ]
   },
@@ -13219,10 +13047,8 @@
       "Zakázky",
       "soutěžní řízení",
       "veřejná zakázka",
-      "vypsání soutėe",
-      "vypsání soutěže",
-      "vítėzná zakázka",
-      "vítězná zakázka"
+      "vítězná zakázka",
+      "vypsání soutěže"
     ]
   },
   {
@@ -13395,15 +13221,14 @@
       "not_logged": 51
     },
     "temata": [
-      "Občan",
       "Parlament České republiky",
+      "Ústava České republiky",
+      "Občan",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
       "dolní komora",
-      "rozputėní parlamentu",
       "rozpuštění parlamentu",
-      "Ústava České republiky",
       "ústava"
     ]
   },
@@ -13438,15 +13263,14 @@
       "not_logged": 44
     },
     "temata": [
-      "Občan",
       "Parlament České republiky",
+      "Ústava České republiky",
+      "Občan",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
       "dolní komora",
-      "rozputėní parlamentu",
       "rozpuštění parlamentu",
-      "Ústava České republiky",
       "ústava"
     ]
   },
@@ -13463,13 +13287,10 @@
       "not_logged": 43
     },
     "temata": [
+      "Ųįd jednacķ - PS",
       "Rozpočet",
-      "dolní komora",
       "dolnķ komora",
-      "jednací řád parlamentu",
-      "jednacķ ųįd parlamentu",
-      "Øád jednací - PS",
-      "Ųįd jednacķ - PS"
+      "jednacķ ųįd parlamentu"
     ]
   },
   {
@@ -13485,15 +13306,14 @@
       "not_logged": 60
     },
     "temata": [
-      "Občan",
       "Parlament České republiky",
+      "Ústava České republiky",
+      "Občan",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
       "dolní komora",
-      "rozputėní parlamentu",
       "rozpuštění parlamentu",
-      "Ústava České republiky",
       "ústava"
     ]
   },
@@ -13510,14 +13330,10 @@
       "not_logged": 58
     },
     "temata": [
-      "střední vzdělání",
-      "stųednķ vzdģlįnķ",
-      "vysvědčení",
-      "vysvģdčenķ",
-      "zkouka",
-      "zkouška",
       "kolstvķ",
-      "Školství"
+      "stųednķ vzdģlįnķ",
+      "vysvģdčenķ",
+      "zkouka"
     ]
   },
   {
@@ -13533,15 +13349,14 @@
       "not_logged": 63
     },
     "temata": [
-      "Občan",
       "Parlament České republiky",
+      "Ústava České republiky",
+      "Občan",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
       "dolní komora",
-      "rozputėní parlamentu",
       "rozpuštění parlamentu",
-      "Ústava České republiky",
       "ústava"
     ]
   },
@@ -13558,15 +13373,14 @@
       "not_logged": 63
     },
     "temata": [
-      "Občan",
       "Parlament České republiky",
+      "Ústava České republiky",
+      "Občan",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
       "dolní komora",
-      "rozputėní parlamentu",
       "rozpuštění parlamentu",
-      "Ústava České republiky",
       "ústava"
     ]
   },
@@ -13583,15 +13397,14 @@
       "not_logged": 82
     },
     "temata": [
-      "Občan",
       "Parlament České republiky",
+      "Ústava České republiky",
+      "Občan",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
       "dolní komora",
-      "rozputėní parlamentu",
       "rozpuštění parlamentu",
-      "Ústava České republiky",
       "ústava"
     ]
   },
@@ -13629,15 +13442,14 @@
       "not_logged": 80
     },
     "temata": [
-      "Občan",
       "Parlament České republiky",
+      "Ústava České republiky",
+      "Občan",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
       "dolní komora",
-      "rozputėní parlamentu",
       "rozpuštění parlamentu",
-      "Ústava České republiky",
       "ústava"
     ]
   },
@@ -13775,13 +13587,12 @@
       "not_logged": 76
     },
     "temata": [
-      "Evropská unie",
-      "Spojené státy",
-      "cestující veøejnost",
+      "Česká republika",
       "cestující veřejnost",
       "evidence obyvatelstva",
+      "Evropská unie",
       "letecká doprava",
-      "Česká republika"
+      "Spojené státy"
     ]
   },
   {
@@ -13797,13 +13608,12 @@
       "not_logged": 79
     },
     "temata": [
-      "Evropská unie",
-      "Spojené státy",
-      "cestující veøejnost",
+      "Česká republika",
       "cestující veřejnost",
       "evidence obyvatelstva",
+      "Evropská unie",
       "letecká doprava",
-      "Česká republika"
+      "Spojené státy"
     ]
   },
   {
@@ -13820,14 +13630,13 @@
     },
     "temata": [
       "Austrálie",
-      "Evropská unie",
-      "cestující veøejnost",
+      "Česká republika",
       "cestující veřejnost",
       "evidence obyvatelstva",
+      "Evropská unie",
       "hraniční kontrola",
       "letecká doprava",
-      "letištní pozemní odbavení",
-      "Česká republika"
+      "letištní pozemní odbavení"
     ]
   },
   {
@@ -13851,7 +13660,6 @@
       "ceny",
       "ochrana spotřebitele",
       "správní delikt",
-      "trní cena",
       "tržní cena"
     ]
   },
@@ -13868,18 +13676,13 @@
       "not_logged": 111
     },
     "temata": [
-      "Evropská unie /EU/",
       "Evropskį unie /EU/",
-      "Funkcionáøi Poslanecké snėmovny",
       "Funkcionįųi Poslanecké snģmovny",
       "bezpečnost dopravy",
-      "cestující",
       "cestujķcķ",
       "dopravce",
-      "správní delikt",
       "sprįvnķ delikt",
-      "elezničnķ doprava",
-      "železniční doprava"
+      "elezničnķ doprava"
     ]
   },
   {
@@ -13895,19 +13698,16 @@
       "not_logged": 102
     },
     "temata": [
-      "Mezinárodní telekomunikační unie",
+      "Česká republika",
       "digitální technologie",
       "frekvenční pásmo",
-      "pøenosová sí",
+      "Írán",
+      "Mezinárodní telekomunikační unie",
       "přenosová síť",
       "rozhlasové vysílání",
       "telekomunikace",
       "televize",
-      "televize s vysokou rozliovací schopností",
-      "televize s vysokou rozlišovací schopností",
-      "Írán",
-      "Česká republika",
-      "Ķrįn"
+      "televize s vysokou rozlišovací schopností"
     ]
   },
   {
@@ -13923,19 +13723,16 @@
       "not_logged": 95
     },
     "temata": [
-      "Mezinárodní telekomunikační unie",
+      "Česká republika",
       "digitální technologie",
       "frekvenční pásmo",
-      "pøenosová sí",
+      "Írán",
+      "Mezinárodní telekomunikační unie",
       "přenosová síť",
       "rozhlasové vysílání",
       "telekomunikace",
       "televize",
-      "televize s vysokou rozliovací schopností",
-      "televize s vysokou rozlišovací schopností",
-      "Írán",
-      "Česká republika",
-      "Ķrįn"
+      "televize s vysokou rozlišovací schopností"
     ]
   },
   {
@@ -13980,7 +13777,6 @@
       "ceny",
       "ochrana spotřebitele",
       "správní delikt",
-      "trní cena",
       "tržní cena"
     ]
   },
@@ -14005,7 +13801,6 @@
       "ceny",
       "ochrana spotřebitele",
       "správní delikt",
-      "trní cena",
       "tržní cena"
     ]
   },
@@ -14030,7 +13825,6 @@
       "ceny",
       "ochrana spotřebitele",
       "správní delikt",
-      "trní cena",
       "tržní cena"
     ]
   },
@@ -14055,7 +13849,6 @@
       "ceny",
       "ochrana spotřebitele",
       "správní delikt",
-      "trní cena",
       "tržní cena"
     ]
   },
@@ -14080,7 +13873,6 @@
       "ceny",
       "ochrana spotřebitele",
       "správní delikt",
-      "trní cena",
       "tržní cena"
     ]
   },
@@ -14105,7 +13897,6 @@
       "ceny",
       "ochrana spotřebitele",
       "správní delikt",
-      "trní cena",
       "tržní cena"
     ]
   },
@@ -14136,9 +13927,8 @@
       "not_logged": 92
     },
     "temata": [
-      "Mezinárodní telekomunikační unie",
       "družice",
-      "satelitní pøenos",
+      "Mezinárodní telekomunikační unie",
       "satelitní přenos",
       "telekomunikace"
     ]
@@ -14156,19 +13946,16 @@
       "not_logged": 89
     },
     "temata": [
-      "Mezinárodní telekomunikační unie",
+      "Česká republika",
       "digitální technologie",
       "frekvenční pásmo",
-      "pøenosová sí",
+      "Írán",
+      "Mezinárodní telekomunikační unie",
       "přenosová síť",
       "rozhlasové vysílání",
       "telekomunikace",
       "televize",
-      "televize s vysokou rozliovací schopností",
-      "televize s vysokou rozlišovací schopností",
-      "Írán",
-      "Česká republika",
-      "Ķrįn"
+      "televize s vysokou rozlišovací schopností"
     ]
   },
   {
@@ -14184,13 +13971,10 @@
       "not_logged": 90
     },
     "temata": [
-      "Gruzie",
-      "dùvìrná informace",
-      "důvěrná informace",
-      "ochrana údajù",
-      "ochrana údajů",
       "Èeská republika",
-      "Česká republika"
+      "dùvìrná informace",
+      "Gruzie",
+      "ochrana údajù"
     ]
   },
   {
@@ -14206,13 +13990,10 @@
       "not_logged": 117
     },
     "temata": [
-      "Gruzie",
-      "dùvìrná informace",
-      "důvěrná informace",
-      "ochrana údajù",
-      "ochrana údajů",
       "Èeská republika",
-      "Česká republika"
+      "dùvìrná informace",
+      "Gruzie",
+      "ochrana údajù"
     ]
   },
   {
@@ -14228,13 +14009,10 @@
       "not_logged": 113
     },
     "temata": [
-      "Gruzie",
-      "dùvìrná informace",
-      "důvěrná informace",
-      "ochrana údajù",
-      "ochrana údajů",
       "Èeská republika",
-      "Česká republika"
+      "dùvìrná informace",
+      "Gruzie",
+      "ochrana údajù"
     ]
   },
   {
@@ -14310,12 +14088,11 @@
       "not_logged": 98
     },
     "temata": [
+      "Česká republika",
       "Dánsko",
       "ochrana investic",
       "podpora investic",
-      "vypovėdėní smlouvy",
-      "vypovědění smlouvy",
-      "Česká republika"
+      "vypovědění smlouvy"
     ]
   },
   {
@@ -14350,10 +14127,9 @@
       "not_logged": 96
     },
     "temata": [
-      "Kypr",
+      "Česká republika",
       "daňová úmluva",
-      "daōová úmluva",
-      "Česká republika"
+      "Kypr"
     ]
   },
   {
@@ -14428,10 +14204,8 @@
     "temata": [
       "Albánie",
       "boj proti zloèinu",
-      "boj proti zločinu",
-      "policejní spolupráce",
       "Èeská republika",
-      "Česká republika"
+      "policejní spolupráce"
     ]
   },
   {
@@ -14489,15 +14263,14 @@
       "not_logged": 6
     },
     "temata": [
-      "Občan",
       "Parlament České republiky",
+      "Ústava České republiky",
+      "Občan",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
       "dolní komora",
-      "rozputėní parlamentu",
       "rozpuštění parlamentu",
-      "Ústava České republiky",
       "ústava"
     ]
   },
@@ -14514,15 +14287,14 @@
       "not_logged": 5
     },
     "temata": [
-      "Občan",
       "Parlament České republiky",
+      "Ústava České republiky",
+      "Občan",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
       "dolní komora",
-      "rozputėní parlamentu",
       "rozpuštění parlamentu",
-      "Ústava České republiky",
       "ústava"
     ]
   },
@@ -14539,15 +14311,14 @@
       "not_logged": 5
     },
     "temata": [
-      "Občan",
       "Parlament České republiky",
+      "Ústava České republiky",
+      "Občan",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
       "dolní komora",
-      "rozputėní parlamentu",
       "rozpuštění parlamentu",
-      "Ústava České republiky",
       "ústava"
     ]
   },
@@ -14564,15 +14335,14 @@
       "not_logged": 19
     },
     "temata": [
-      "Občan",
       "Parlament České republiky",
+      "Ústava České republiky",
+      "Občan",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
       "dolní komora",
-      "rozputėní parlamentu",
       "rozpuštění parlamentu",
-      "Ústava České republiky",
       "ústava"
     ]
   },
@@ -14589,15 +14359,14 @@
       "not_logged": 5
     },
     "temata": [
-      "Občan",
       "Parlament České republiky",
+      "Ústava České republiky",
+      "Občan",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
       "dolní komora",
-      "rozputėní parlamentu",
       "rozpuštění parlamentu",
-      "Ústava České republiky",
       "ústava"
     ]
   },
@@ -14614,15 +14383,14 @@
       "not_logged": 5
     },
     "temata": [
-      "Občan",
       "Parlament České republiky",
+      "Ústava České republiky",
+      "Občan",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
       "dolní komora",
-      "rozputėní parlamentu",
       "rozpuštění parlamentu",
-      "Ústava České republiky",
       "ústava"
     ]
   },
@@ -14639,15 +14407,14 @@
       "not_logged": 5
     },
     "temata": [
-      "Občan",
       "Parlament České republiky",
+      "Ústava České republiky",
+      "Občan",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
       "dolní komora",
-      "rozputėní parlamentu",
       "rozpuštění parlamentu",
-      "Ústava České republiky",
       "ústava"
     ]
   },
@@ -14678,15 +14445,14 @@
       "not_logged": 8
     },
     "temata": [
-      "Občan",
       "Parlament České republiky",
+      "Ústava České republiky",
+      "Občan",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
       "dolní komora",
-      "rozputėní parlamentu",
       "rozpuštění parlamentu",
-      "Ústava České republiky",
       "ústava"
     ]
   },
@@ -14703,15 +14469,14 @@
       "not_logged": 6
     },
     "temata": [
-      "Občan",
       "Parlament České republiky",
+      "Ústava České republiky",
+      "Občan",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
       "dolní komora",
-      "rozputėní parlamentu",
       "rozpuštění parlamentu",
-      "Ústava České republiky",
       "ústava"
     ]
   },
@@ -14787,7 +14552,6 @@
       "národní park",
       "ochrana krajiny",
       "ochrana životního prostředí",
-      "odlesòování",
       "odlesňování"
     ]
   },
@@ -14804,15 +14568,14 @@
       "not_logged": 15
     },
     "temata": [
-      "Občan",
       "Parlament České republiky",
+      "Ústava České republiky",
+      "Občan",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
       "dolní komora",
-      "rozputėní parlamentu",
       "rozpuštění parlamentu",
-      "Ústava České republiky",
       "ústava"
     ]
   },
@@ -14830,17 +14593,11 @@
     },
     "temata": [
       "Ekologie",
-      "Správa obcí a měst",
       "Sprįva obcķ a mģst",
       "Vyķ śzemnķ samosprįvné celky (VŚSC)",
-      "Vyšší územní samosprávné celky (VÚSC)",
-      "chráněné území",
       "chrįnģné śzemķ",
-      "environmentální politika",
       "environmentįlnķ politika",
       "ochrana ivotnķho prostųedķ",
-      "ochrana životního prostředí",
-      "správní dohled",
       "sprįvnķ dohled"
     ]
   },
@@ -14885,12 +14642,11 @@
       "not_logged": 11
     },
     "temata": [
+      "Školství",
       "Zájem veřejný",
       "veřejná funkce",
       "veřejné školství",
-      "zneuitķ pravomoci",
-      "zneužití pravomoci",
-      "Školství"
+      "zneužití pravomoci"
     ]
   },
   {
@@ -15037,15 +14793,14 @@
       "not_logged": 28
     },
     "temata": [
-      "Občan",
       "Parlament České republiky",
+      "Ústava České republiky",
+      "Občan",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
       "dolní komora",
-      "rozputėní parlamentu",
       "rozpuštění parlamentu",
-      "Ústava České republiky",
       "ústava"
     ]
   },
@@ -15063,7 +14818,6 @@
     },
     "temata": [
       "Pozemkový fond",
-      "Pøevody vlastnictví",
       "Převody vlastnictví",
       "les",
       "odškodnění",
@@ -15086,15 +14840,14 @@
       "not_logged": 39
     },
     "temata": [
-      "Občan",
       "Parlament České republiky",
+      "Ústava České republiky",
+      "Občan",
       "Politika",
       "Pracovní síla",
       "Státní správa a justice",
       "dolní komora",
-      "rozputėní parlamentu",
       "rozpuštění parlamentu",
-      "Ústava České republiky",
       "ústava"
     ]
   },
@@ -15351,7 +15104,6 @@
     "temata": [
       "daňová reforma",
       "financování rozpočtu",
-      "hospodáøská recese",
       "hospodářská recese",
       "rozpočtový schodek",
       "státní rozpočet",
@@ -15373,7 +15125,6 @@
     "temata": [
       "daňová reforma",
       "financování rozpočtu",
-      "hospodáøská recese",
       "hospodářská recese",
       "rozpočtový schodek",
       "státní rozpočet",
@@ -15395,7 +15146,6 @@
     "temata": [
       "daňová reforma",
       "financování rozpočtu",
-      "hospodáøská recese",
       "hospodářská recese",
       "rozpočtový schodek",
       "státní rozpočet",
@@ -15417,7 +15167,6 @@
     "temata": [
       "daňová reforma",
       "financování rozpočtu",
-      "hospodáøská recese",
       "hospodářská recese",
       "rozpočtový schodek",
       "státní rozpočet",
@@ -15439,7 +15188,6 @@
     "temata": [
       "daňová reforma",
       "financování rozpočtu",
-      "hospodáøská recese",
       "hospodářská recese",
       "rozpočtový schodek",
       "státní rozpočet",
@@ -15461,7 +15209,6 @@
     "temata": [
       "daňová reforma",
       "financování rozpočtu",
-      "hospodáøská recese",
       "hospodářská recese",
       "rozpočtový schodek",
       "státní rozpočet",
@@ -15483,7 +15230,6 @@
     "temata": [
       "daňová reforma",
       "financování rozpočtu",
-      "hospodáøská recese",
       "hospodářská recese",
       "rozpočtový schodek",
       "státní rozpočet",
@@ -15505,7 +15251,6 @@
     "temata": [
       "daňová reforma",
       "financování rozpočtu",
-      "hospodáøská recese",
       "hospodářská recese",
       "rozpočtový schodek",
       "státní rozpočet",
@@ -15527,7 +15272,6 @@
     "temata": [
       "daňová reforma",
       "financování rozpočtu",
-      "hospodáøská recese",
       "hospodářská recese",
       "rozpočtový schodek",
       "státní rozpočet",
@@ -15549,7 +15293,6 @@
     "temata": [
       "daňová reforma",
       "financování rozpočtu",
-      "hospodáøská recese",
       "hospodářská recese",
       "rozpočtový schodek",
       "státní rozpočet",
@@ -15571,7 +15314,6 @@
     "temata": [
       "daňová reforma",
       "financování rozpočtu",
-      "hospodáøská recese",
       "hospodářská recese",
       "rozpočtový schodek",
       "státní rozpočet",
@@ -15593,7 +15335,6 @@
     "temata": [
       "daňová reforma",
       "financování rozpočtu",
-      "hospodáøská recese",
       "hospodářská recese",
       "rozpočtový schodek",
       "státní rozpočet",
@@ -15615,7 +15356,6 @@
     "temata": [
       "daňová reforma",
       "financování rozpočtu",
-      "hospodáøská recese",
       "hospodářská recese",
       "rozpočtový schodek",
       "státní rozpočet",
@@ -15637,7 +15377,6 @@
     "temata": [
       "daňová reforma",
       "financování rozpočtu",
-      "hospodáøská recese",
       "hospodářská recese",
       "rozpočtový schodek",
       "státní rozpočet",
@@ -15659,7 +15398,6 @@
     "temata": [
       "daňová reforma",
       "financování rozpočtu",
-      "hospodáøská recese",
       "hospodářská recese",
       "rozpočtový schodek",
       "státní rozpočet",
@@ -15681,7 +15419,6 @@
     "temata": [
       "daňová reforma",
       "financování rozpočtu",
-      "hospodáøská recese",
       "hospodářská recese",
       "rozpočtový schodek",
       "státní rozpočet",
@@ -15703,7 +15440,6 @@
     "temata": [
       "daňová reforma",
       "financování rozpočtu",
-      "hospodáøská recese",
       "hospodářská recese",
       "rozpočtový schodek",
       "státní rozpočet",
@@ -15725,7 +15461,6 @@
     "temata": [
       "daňová reforma",
       "financování rozpočtu",
-      "hospodáøská recese",
       "hospodářská recese",
       "rozpočtový schodek",
       "státní rozpočet",
@@ -15747,7 +15482,6 @@
     "temata": [
       "daňová reforma",
       "financování rozpočtu",
-      "hospodáøská recese",
       "hospodářská recese",
       "rozpočtový schodek",
       "státní rozpočet",
@@ -15769,7 +15503,6 @@
     "temata": [
       "daňová reforma",
       "financování rozpočtu",
-      "hospodáøská recese",
       "hospodářská recese",
       "rozpočtový schodek",
       "státní rozpočet",
@@ -15791,7 +15524,6 @@
     "temata": [
       "daňová reforma",
       "financování rozpočtu",
-      "hospodáøská recese",
       "hospodářská recese",
       "rozpočtový schodek",
       "státní rozpočet",
@@ -15813,7 +15545,6 @@
     "temata": [
       "daňová reforma",
       "financování rozpočtu",
-      "hospodáøská recese",
       "hospodářská recese",
       "rozpočtový schodek",
       "státní rozpočet",
@@ -15835,7 +15566,6 @@
     "temata": [
       "daňová reforma",
       "financování rozpočtu",
-      "hospodáøská recese",
       "hospodářská recese",
       "rozpočtový schodek",
       "státní rozpočet",
@@ -15857,7 +15587,6 @@
     "temata": [
       "daňová reforma",
       "financování rozpočtu",
-      "hospodáøská recese",
       "hospodářská recese",
       "rozpočtový schodek",
       "státní rozpočet",
@@ -15879,7 +15608,6 @@
     "temata": [
       "daňová reforma",
       "financování rozpočtu",
-      "hospodáøská recese",
       "hospodářská recese",
       "rozpočtový schodek",
       "státní rozpočet",
@@ -15901,7 +15629,6 @@
     "temata": [
       "daňová reforma",
       "financování rozpočtu",
-      "hospodáøská recese",
       "hospodářská recese",
       "rozpočtový schodek",
       "státní rozpočet",
@@ -15923,7 +15650,6 @@
     "temata": [
       "daňová reforma",
       "financování rozpočtu",
-      "hospodáøská recese",
       "hospodářská recese",
       "rozpočtový schodek",
       "státní rozpočet",
@@ -15945,7 +15671,6 @@
     "temata": [
       "daňová reforma",
       "financování rozpočtu",
-      "hospodáøská recese",
       "hospodářská recese",
       "rozpočtový schodek",
       "státní rozpočet",
@@ -15967,7 +15692,6 @@
     "temata": [
       "daňová reforma",
       "financování rozpočtu",
-      "hospodáøská recese",
       "hospodářská recese",
       "rozpočtový schodek",
       "státní rozpočet",
@@ -15989,7 +15713,6 @@
     "temata": [
       "daňová reforma",
       "financování rozpočtu",
-      "hospodáøská recese",
       "hospodářská recese",
       "rozpočtový schodek",
       "státní rozpočet",
@@ -16011,7 +15734,6 @@
     "temata": [
       "daňová reforma",
       "financování rozpočtu",
-      "hospodáøská recese",
       "hospodářská recese",
       "rozpočtový schodek",
       "státní rozpočet",
@@ -16033,7 +15755,6 @@
     "temata": [
       "daňová reforma",
       "financování rozpočtu",
-      "hospodáøská recese",
       "hospodářská recese",
       "rozpočtový schodek",
       "státní rozpočet",
@@ -16055,7 +15776,6 @@
     "temata": [
       "daňová reforma",
       "financování rozpočtu",
-      "hospodáøská recese",
       "hospodářská recese",
       "rozpočtový schodek",
       "státní rozpočet",
@@ -16077,7 +15797,6 @@
     "temata": [
       "daňová reforma",
       "financování rozpočtu",
-      "hospodáøská recese",
       "hospodářská recese",
       "rozpočtový schodek",
       "státní rozpočet",
@@ -16099,7 +15818,6 @@
     "temata": [
       "daňová reforma",
       "financování rozpočtu",
-      "hospodáøská recese",
       "hospodářská recese",
       "rozpočtový schodek",
       "státní rozpočet",
@@ -16121,7 +15839,6 @@
     "temata": [
       "daňová reforma",
       "financování rozpočtu",
-      "hospodáøská recese",
       "hospodářská recese",
       "rozpočtový schodek",
       "státní rozpočet",
@@ -16143,7 +15860,6 @@
     "temata": [
       "daňová reforma",
       "financování rozpočtu",
-      "hospodáøská recese",
       "hospodářská recese",
       "rozpočtový schodek",
       "státní rozpočet",
@@ -16165,7 +15881,6 @@
     "temata": [
       "daňová reforma",
       "financování rozpočtu",
-      "hospodáøská recese",
       "hospodářská recese",
       "rozpočtový schodek",
       "státní rozpočet",
@@ -16187,7 +15902,6 @@
     "temata": [
       "daňová reforma",
       "financování rozpočtu",
-      "hospodáøská recese",
       "hospodářská recese",
       "rozpočtový schodek",
       "státní rozpočet",
@@ -16209,7 +15923,6 @@
     "temata": [
       "daňová reforma",
       "financování rozpočtu",
-      "hospodáøská recese",
       "hospodářská recese",
       "rozpočtový schodek",
       "státní rozpočet",
@@ -16231,7 +15944,6 @@
     "temata": [
       "daňová reforma",
       "financování rozpočtu",
-      "hospodáøská recese",
       "hospodářská recese",
       "rozpočtový schodek",
       "státní rozpočet",
@@ -16253,7 +15965,6 @@
     "temata": [
       "daňová reforma",
       "financování rozpočtu",
-      "hospodáøská recese",
       "hospodářská recese",
       "rozpočtový schodek",
       "státní rozpočet",
@@ -16275,7 +15986,6 @@
     "temata": [
       "daňová reforma",
       "financování rozpočtu",
-      "hospodáøská recese",
       "hospodářská recese",
       "rozpočtový schodek",
       "státní rozpočet",
@@ -16297,7 +16007,6 @@
     "temata": [
       "daňová reforma",
       "financování rozpočtu",
-      "hospodáøská recese",
       "hospodářská recese",
       "rozpočtový schodek",
       "státní rozpočet",
@@ -16319,7 +16028,6 @@
     "temata": [
       "daňová reforma",
       "financování rozpočtu",
-      "hospodáøská recese",
       "hospodářská recese",
       "rozpočtový schodek",
       "státní rozpočet",
@@ -16362,7 +16070,6 @@
     "temata": [
       "daňová reforma",
       "financování rozpočtu",
-      "hospodáøská recese",
       "hospodářská recese",
       "rozpočtový schodek",
       "státní rozpočet",
@@ -17170,21 +16877,19 @@
     "temata": [
       "Evropská unie /EU/",
       "Katastr",
-      "Pøestupky",
       "Přestupky",
+      "Vodohospodářství",
       "Státní správa a justice",
       "Těžba a výroba",
-      "Vodohospodářství",
       "Zdravotnictví",
+      "Životní prostředí",
       "ochrana vod",
       "odpadní voda",
       "pitná voda",
       "povodeň",
       "voda",
       "vodní zdroje",
-      "vyuití vody",
-      "využití vody",
-      "Životní prostředí"
+      "využití vody"
     ]
   },
   {
@@ -17202,21 +16907,19 @@
     "temata": [
       "Evropská unie /EU/",
       "Katastr",
-      "Pøestupky",
       "Přestupky",
+      "Vodohospodářství",
       "Státní správa a justice",
       "Těžba a výroba",
-      "Vodohospodářství",
       "Zdravotnictví",
+      "Životní prostředí",
       "ochrana vod",
       "odpadní voda",
       "pitná voda",
       "povodeň",
       "voda",
       "vodní zdroje",
-      "vyuití vody",
-      "využití vody",
-      "Životní prostředí"
+      "využití vody"
     ]
   },
   {
@@ -17234,21 +16937,19 @@
     "temata": [
       "Evropská unie /EU/",
       "Katastr",
-      "Pøestupky",
       "Přestupky",
+      "Vodohospodářství",
       "Státní správa a justice",
       "Těžba a výroba",
-      "Vodohospodářství",
       "Zdravotnictví",
+      "Životní prostředí",
       "ochrana vod",
       "odpadní voda",
       "pitná voda",
       "povodeň",
       "voda",
       "vodní zdroje",
-      "vyuití vody",
-      "využití vody",
-      "Životní prostředí"
+      "využití vody"
     ]
   },
   {
@@ -17266,21 +16967,19 @@
     "temata": [
       "Evropská unie /EU/",
       "Katastr",
-      "Pøestupky",
       "Přestupky",
+      "Vodohospodářství",
       "Státní správa a justice",
       "Těžba a výroba",
-      "Vodohospodářství",
       "Zdravotnictví",
+      "Životní prostředí",
       "ochrana vod",
       "odpadní voda",
       "pitná voda",
       "povodeň",
       "voda",
       "vodní zdroje",
-      "vyuití vody",
-      "využití vody",
-      "Životní prostředí"
+      "využití vody"
     ]
   },
   {
@@ -17341,13 +17040,11 @@
     },
     "temata": [
       "Bankovnictví",
-      "Evropská centrální banka",
       "Evropská unie /EU/",
       "centrální banka",
-      "mėnová politika",
-      "měnová politika",
       "činnost orgánů",
-      "činnost orgánų"
+      "Evropská centrální banka",
+      "měnová politika"
     ]
   },
   {
@@ -17364,13 +17061,11 @@
     },
     "temata": [
       "Bankovnictví",
-      "Evropská centrální banka",
       "Evropská unie /EU/",
       "centrální banka",
-      "mėnová politika",
-      "měnová politika",
       "činnost orgánů",
-      "činnost orgánų"
+      "Evropská centrální banka",
+      "měnová politika"
     ]
   },
   {
@@ -17712,7 +17407,6 @@
       "Evropská unie /EU/",
       "Zákoník obchodní",
       "burza cenných papírů",
-      "burza cenných papírų",
       "cenné papíry",
       "finanční trh",
       "kapitálová společnost",
@@ -17831,14 +17525,13 @@
       "not_logged": 29
     },
     "temata": [
-      "Politika",
       "Referendum",
-      "Státní správa a justice",
       "Vyšší územní samosprávné celky (VÚSC)",
+      "Politika",
+      "Státní správa a justice",
       "kampaň na získání veřejnosti",
-      "kampaō na získání veøejnosti",
-      "obec",
       "občanská práva",
+      "obec",
       "referendum",
       "region",
       "územní samospráva"
@@ -17857,14 +17550,13 @@
       "not_logged": 32
     },
     "temata": [
-      "Politika",
       "Referendum",
-      "Státní správa a justice",
       "Vyšší územní samosprávné celky (VÚSC)",
+      "Politika",
+      "Státní správa a justice",
       "kampaň na získání veřejnosti",
-      "kampaō na získání veøejnosti",
-      "obec",
       "občanská práva",
+      "obec",
       "referendum",
       "region",
       "územní samospráva"
@@ -17883,14 +17575,13 @@
       "not_logged": 32
     },
     "temata": [
-      "Politika",
       "Referendum",
-      "Státní správa a justice",
       "Vyšší územní samosprávné celky (VÚSC)",
+      "Politika",
+      "Státní správa a justice",
       "kampaň na získání veřejnosti",
-      "kampaō na získání veøejnosti",
-      "obec",
       "občanská práva",
+      "obec",
       "referendum",
       "region",
       "územní samospráva"
@@ -18220,11 +17911,10 @@
     "temata": [
       "Evropská unie /EU/",
       "Zdravotnictví",
-      "hygiena výivy",
       "hygiena výživy",
       "veřejná hygiena",
-      "zdravotní politika",
-      "zdraví veřejnosti"
+      "zdraví veřejnosti",
+      "zdravotní politika"
     ]
   },
   {
@@ -18240,14 +17930,13 @@
       "not_logged": 44
     },
     "temata": [
-      "Politika",
       "Referendum",
-      "Státní správa a justice",
       "Vyšší územní samosprávné celky (VÚSC)",
+      "Politika",
+      "Státní správa a justice",
       "kampaň na získání veřejnosti",
-      "kampaō na získání veøejnosti",
-      "obec",
       "občanská práva",
+      "obec",
       "referendum",
       "region",
       "územní samospráva"
@@ -18266,14 +17955,13 @@
       "not_logged": 42
     },
     "temata": [
-      "Politika",
       "Referendum",
-      "Státní správa a justice",
       "Vyšší územní samosprávné celky (VÚSC)",
+      "Politika",
+      "Státní správa a justice",
       "kampaň na získání veřejnosti",
-      "kampaō na získání veøejnosti",
-      "obec",
       "občanská práva",
+      "obec",
       "referendum",
       "region",
       "územní samospráva"
@@ -18671,9 +18359,8 @@
       "eurotrh",
       "kontrola dovozu",
       "kontrola vývozu",
-      "volný trh",
-      "øízení jakosti prųmyslových výrobkų",
-      "řízení jakosti průmyslových výrobků"
+      "řízení jakosti průmyslových výrobků",
+      "volný trh"
     ]
   },
   {
@@ -18695,9 +18382,8 @@
       "eurotrh",
       "kontrola dovozu",
       "kontrola vývozu",
-      "volný trh",
-      "øízení jakosti prųmyslových výrobkų",
-      "řízení jakosti průmyslových výrobků"
+      "řízení jakosti průmyslových výrobků",
+      "volný trh"
     ]
   },
   {
@@ -18719,9 +18405,8 @@
       "eurotrh",
       "kontrola dovozu",
       "kontrola vývozu",
-      "volný trh",
-      "øízení jakosti prųmyslových výrobkų",
-      "řízení jakosti průmyslových výrobků"
+      "řízení jakosti průmyslových výrobků",
+      "volný trh"
     ]
   },
   {
@@ -18758,13 +18443,12 @@
       "not_logged": 66
     },
     "temata": [
+      "Školství",
       "odborná kvalifikace",
       "politika vzdělávání",
+      "školská legislativa",
       "učitel",
-      "vzdėlávání pedagogų",
-      "vzdělávání pedagogů",
-      "Školství",
-      "školská legislativa"
+      "vzdělávání pedagogů"
     ]
   },
   {
@@ -18780,9 +18464,8 @@
       "not_logged": 69
     },
     "temata": [
-      "Mezinárodní mėnový fond",
-      "Mezinárodní měnový fond",
-      "Česká republika"
+      "Česká republika",
+      "Mezinárodní měnový fond"
     ]
   },
   {
@@ -18798,9 +18481,8 @@
       "not_logged": 70
     },
     "temata": [
-      "Mezinárodní mėnový fond",
-      "Mezinárodní měnový fond",
-      "Česká republika"
+      "Česká republika",
+      "Mezinárodní měnový fond"
     ]
   },
   {
@@ -18856,11 +18538,10 @@
       "not_logged": 67
     },
     "temata": [
-      "Uruguay",
+      "Českį republika",
       "ochrana investic",
       "podpora investic",
-      "Česká republika",
-      "Českį republika"
+      "Uruguay"
     ]
   },
   {
@@ -19156,11 +18837,9 @@
     "temata": [
       "Odškodnění",
       "Rehabilitace",
-      "autoritativní reim",
       "autoritativní režim",
       "finanční zrovnoprávnění",
       "politická diskriminace",
-      "zruení pracovních míst",
       "zrušení pracovních míst"
     ]
   },
@@ -19179,11 +18858,9 @@
     "temata": [
       "Odškodnění",
       "Rehabilitace",
-      "autoritativní reim",
       "autoritativní režim",
       "finanční zrovnoprávnění",
       "politická diskriminace",
-      "zruení pracovních míst",
       "zrušení pracovních míst"
     ]
   },
@@ -19202,11 +18879,9 @@
     "temata": [
       "Odškodnění",
       "Rehabilitace",
-      "autoritativní reim",
       "autoritativní režim",
       "finanční zrovnoprávnění",
       "politická diskriminace",
-      "zruení pracovních míst",
       "zrušení pracovních míst"
     ]
   },
@@ -19411,10 +19086,8 @@
       "Bankovnictví",
       "Rodina",
       "finanční pomoc",
-      "manelé",
       "manželé",
       "půjčka",
-      "pųjčka",
       "státní podpora"
     ]
   },
@@ -19434,10 +19107,8 @@
       "Bankovnictví",
       "Rodina",
       "finanční pomoc",
-      "manelé",
       "manželé",
       "půjčka",
-      "pųjčka",
       "státní podpora"
     ]
   },
@@ -19457,10 +19128,8 @@
       "Bankovnictví",
       "Rodina",
       "finanční pomoc",
-      "manelé",
       "manželé",
       "půjčka",
-      "pųjčka",
       "státní podpora"
     ]
   },
@@ -20518,7 +20187,6 @@
       "finanční pomoc",
       "oběť",
       "odškodnění",
-      "válečná obė",
       "válečná oběť"
     ]
   },
@@ -20540,7 +20208,6 @@
       "finanční pomoc",
       "oběť",
       "odškodnění",
-      "válečná obė",
       "válečná oběť"
     ]
   },
@@ -20562,7 +20229,6 @@
       "finanční pomoc",
       "oběť",
       "odškodnění",
-      "válečná obė",
       "válečná oběť"
     ]
   },
@@ -20809,9 +20475,8 @@
     "temata": [
       "Doprava",
       "dopravní infrastruktura",
-      "zpráva o činnosti",
-      "účetní uzávėrka",
-      "účetní uzávěrka"
+      "účetní uzávěrka",
+      "zpráva o činnosti"
     ]
   },
   {
@@ -20832,7 +20497,6 @@
       "finanční pomoc",
       "oběť",
       "odškodnění",
-      "válečná obė",
       "válečná oběť"
     ]
   },
@@ -20854,7 +20518,6 @@
       "finanční pomoc",
       "oběť",
       "odškodnění",
-      "válečná obė",
       "válečná oběť"
     ]
   },
@@ -20876,7 +20539,6 @@
       "finanční pomoc",
       "oběť",
       "odškodnění",
-      "válečná obė",
       "válečná oběť"
     ]
   },
@@ -20926,7 +20588,6 @@
       "finanční pomoc",
       "oběť",
       "odškodnění",
-      "válečná obė",
       "válečná oběť"
     ]
   },
@@ -20943,14 +20604,13 @@
       "not_logged": 45
     },
     "temata": [
-      "Politika",
       "Referendum",
-      "Státní správa a justice",
       "Vyšší územní samosprávné celky (VÚSC)",
+      "Politika",
+      "Státní správa a justice",
       "kampaň na získání veřejnosti",
-      "kampaō na získání veøejnosti",
-      "obec",
       "občanská práva",
+      "obec",
       "referendum",
       "region",
       "územní samospráva"
@@ -20974,7 +20634,6 @@
       "finanční pomoc",
       "oběť",
       "odškodnění",
-      "válečná obė",
       "válečná oběť"
     ]
   },
@@ -20996,7 +20655,6 @@
       "finanční pomoc",
       "oběť",
       "odškodnění",
-      "válečná obė",
       "válečná oběť"
     ]
   },
@@ -21018,7 +20676,6 @@
       "finanční pomoc",
       "oběť",
       "odškodnění",
-      "válečná obė",
       "válečná oběť"
     ]
   },
@@ -21040,7 +20697,6 @@
       "finanční pomoc",
       "oběť",
       "odškodnění",
-      "válečná obė",
       "válečná oběť"
     ]
   },
@@ -21062,7 +20718,6 @@
       "finanční pomoc",
       "oběť",
       "odškodnění",
-      "válečná obė",
       "válečná oběť"
     ]
   },
@@ -21084,7 +20739,6 @@
       "finanční pomoc",
       "oběť",
       "odškodnění",
-      "válečná obė",
       "válečná oběť"
     ]
   },
@@ -21106,7 +20760,6 @@
       "finanční pomoc",
       "oběť",
       "odškodnění",
-      "válečná obė",
       "válečná oběť"
     ]
   },
@@ -21128,7 +20781,6 @@
       "finanční pomoc",
       "oběť",
       "odškodnění",
-      "válečná obė",
       "válečná oběť"
     ]
   },
@@ -21150,7 +20802,6 @@
       "finanční pomoc",
       "oběť",
       "odškodnění",
-      "válečná obė",
       "válečná oběť"
     ]
   },
@@ -21172,7 +20823,6 @@
       "finanční pomoc",
       "oběť",
       "odškodnění",
-      "válečná obė",
       "válečná oběť"
     ]
   },
@@ -21194,7 +20844,6 @@
       "finanční pomoc",
       "oběť",
       "odškodnění",
-      "válečná obė",
       "válečná oběť"
     ]
   },
@@ -21216,7 +20865,6 @@
       "finanční pomoc",
       "oběť",
       "odškodnění",
-      "válečná obė",
       "válečná oběť"
     ]
   },
@@ -21677,11 +21325,9 @@
       "Geologie",
       "Hornictví",
       "Správa státní",
-      "loiska rud",
       "ložiska rud",
       "nerostné zdroje",
       "průzkum nerostných surovin",
-      "prųzkum nerostných surovin",
       "těžební průmysl",
       "vodohospodářské stavby"
     ]
@@ -21702,11 +21348,9 @@
       "Geologie",
       "Hornictví",
       "Správa státní",
-      "loiska rud",
       "ložiska rud",
       "nerostné zdroje",
       "průzkum nerostných surovin",
-      "prųzkum nerostných surovin",
       "těžební průmysl",
       "vodohospodářské stavby"
     ]
@@ -21727,11 +21371,9 @@
       "Geologie",
       "Hornictví",
       "Správa státní",
-      "loiska rud",
       "ložiska rud",
       "nerostné zdroje",
       "průzkum nerostných surovin",
-      "prųzkum nerostných surovin",
       "těžební průmysl",
       "vodohospodářské stavby"
     ]
@@ -21754,10 +21396,9 @@
       "Pracovní síla",
       "chudoba",
       "evropská sociální politika",
-      "sociální pomoc",
-      "základní ivotní potøeby",
-      "základní životní potřeby",
       "škoda",
+      "sociální pomoc",
+      "základní životní potřeby",
       "životní minimum"
     ]
   },
@@ -21791,11 +21432,9 @@
       "Geologie",
       "Hornictví",
       "Správa státní",
-      "loiska rud",
       "ložiska rud",
       "nerostné zdroje",
       "průzkum nerostných surovin",
-      "prųzkum nerostných surovin",
       "těžební průmysl",
       "vodohospodářské stavby"
     ]
@@ -21816,11 +21455,9 @@
       "Geologie",
       "Hornictví",
       "Správa státní",
-      "loiska rud",
       "ložiska rud",
       "nerostné zdroje",
       "průzkum nerostných surovin",
-      "prųzkum nerostných surovin",
       "těžební průmysl",
       "vodohospodářské stavby"
     ]
@@ -21841,11 +21478,9 @@
       "Geologie",
       "Hornictví",
       "Správa státní",
-      "loiska rud",
       "ložiska rud",
       "nerostné zdroje",
       "průzkum nerostných surovin",
-      "prųzkum nerostných surovin",
       "těžební průmysl",
       "vodohospodářské stavby"
     ]
@@ -21922,10 +21557,8 @@
       "Zakázky",
       "soutěžní řízení",
       "veřejná zakázka",
-      "vypsání soutėe",
-      "vypsání soutěže",
-      "vítėzná zakázka",
-      "vítězná zakázka"
+      "vítězná zakázka",
+      "vypsání soutěže"
     ]
   },
   {
@@ -21944,11 +21577,9 @@
       "Geologie",
       "Hornictví",
       "Správa státní",
-      "loiska rud",
       "ložiska rud",
       "nerostné zdroje",
       "průzkum nerostných surovin",
-      "prųzkum nerostných surovin",
       "těžební průmysl",
       "vodohospodářské stavby"
     ]
@@ -21969,11 +21600,9 @@
       "Geologie",
       "Hornictví",
       "Správa státní",
-      "loiska rud",
       "ložiska rud",
       "nerostné zdroje",
       "průzkum nerostných surovin",
-      "prųzkum nerostných surovin",
       "těžební průmysl",
       "vodohospodářské stavby"
     ]
@@ -22017,11 +21646,9 @@
       "Geologie",
       "Hornictví",
       "Správa státní",
-      "loiska rud",
       "ložiska rud",
       "nerostné zdroje",
       "průzkum nerostných surovin",
-      "prųzkum nerostných surovin",
       "těžební průmysl",
       "vodohospodářské stavby"
     ]
@@ -22042,11 +21669,9 @@
       "Geologie",
       "Hornictví",
       "Správa státní",
-      "loiska rud",
       "ložiska rud",
       "nerostné zdroje",
       "průzkum nerostných surovin",
-      "prųzkum nerostných surovin",
       "těžební průmysl",
       "vodohospodářské stavby"
     ]
@@ -22065,9 +21690,8 @@
     },
     "temata": [
       "Daně - daň z přidané hodnoty",
-      "daň z přidané hodnoty",
       "daňová úleva",
-      "sluby obyvatelstvu",
+      "daň z přidané hodnoty",
       "služby obyvatelstvu",
       "zlepšování bydlení"
     ]
@@ -22088,11 +21712,9 @@
       "Geologie",
       "Hornictví",
       "Správa státní",
-      "loiska rud",
       "ložiska rud",
       "nerostné zdroje",
       "průzkum nerostných surovin",
-      "prųzkum nerostných surovin",
       "těžební průmysl",
       "vodohospodářské stavby"
     ]
@@ -22113,11 +21735,9 @@
       "Geologie",
       "Hornictví",
       "Správa státní",
-      "loiska rud",
       "ložiska rud",
       "nerostné zdroje",
       "průzkum nerostných surovin",
-      "prųzkum nerostných surovin",
       "těžební průmysl",
       "vodohospodářské stavby"
     ]
@@ -22138,11 +21758,9 @@
       "Geologie",
       "Hornictví",
       "Správa státní",
-      "loiska rud",
       "ložiska rud",
       "nerostné zdroje",
       "průzkum nerostných surovin",
-      "prųzkum nerostných surovin",
       "těžební průmysl",
       "vodohospodářské stavby"
     ]
@@ -22163,11 +21781,9 @@
       "Geologie",
       "Hornictví",
       "Správa státní",
-      "loiska rud",
       "ložiska rud",
       "nerostné zdroje",
       "průzkum nerostných surovin",
-      "prųzkum nerostných surovin",
       "těžební průmysl",
       "vodohospodářské stavby"
     ]
@@ -22629,7 +22245,6 @@
       "Měna",
       "centrální banka",
       "inflace",
-      "mėnová politika",
       "měnová politika",
       "zpráva o činnosti"
     ]
@@ -22651,7 +22266,6 @@
       "Měna",
       "centrální banka",
       "inflace",
-      "mėnová politika",
       "měnová politika",
       "zpráva o činnosti"
     ]
@@ -22673,7 +22287,6 @@
       "Měna",
       "centrální banka",
       "inflace",
-      "mėnová politika",
       "měnová politika",
       "zpráva o činnosti"
     ]
@@ -22695,7 +22308,6 @@
       "Měna",
       "centrální banka",
       "inflace",
-      "mėnová politika",
       "měnová politika",
       "zpráva o činnosti"
     ]
@@ -22717,7 +22329,6 @@
       "Měna",
       "centrální banka",
       "inflace",
-      "mėnová politika",
       "měnová politika",
       "zpráva o činnosti"
     ]
@@ -22739,7 +22350,6 @@
       "Měna",
       "centrální banka",
       "inflace",
-      "mėnová politika",
       "měnová politika",
       "zpráva o činnosti"
     ]
@@ -22761,7 +22371,6 @@
       "Měna",
       "centrální banka",
       "inflace",
-      "mėnová politika",
       "měnová politika",
       "zpráva o činnosti"
     ]
@@ -22928,29 +22537,18 @@
       "not_logged": 67
     },
     "temata": [
-      "Daně a poplatky",
       "Danģ a poplatky",
       "Rozpočet",
-      "Správa obcí a měst",
-      "Správa státní",
       "Sprįva obcķ a mģst",
       "Sprįva stįtnķ",
       "alokace zdrojł",
-      "alokace zdrojų",
-      "garantovaný pøíjem",
       "garantovanż pųķjem",
-      "pøídėl rozpočtových prostøedkų",
-      "přerozdělování příjmů",
       "pųerozdģlovįnķ pųķjmł",
       "pųķdģl rozpočtovżch prostųedkł",
-      "rozdėlování pøíjmų",
       "rozdģlovįnķ pųķjmł",
-      "rozpočtová pravidla",
-      "rozpočtové zdroje",
       "rozpočtovį pravidla",
-      "rozvod elektřiny",
+      "rozpočtové zdroje",
       "rozvod elektųiny",
-      "samosprávná obec",
       "samosprįvnį obec"
     ]
   },
@@ -22967,29 +22565,18 @@
       "not_logged": 66
     },
     "temata": [
-      "Daně a poplatky",
       "Danģ a poplatky",
       "Rozpočet",
-      "Správa obcí a měst",
-      "Správa státní",
       "Sprįva obcķ a mģst",
       "Sprįva stįtnķ",
       "alokace zdrojł",
-      "alokace zdrojų",
-      "garantovaný pøíjem",
       "garantovanż pųķjem",
-      "pøídėl rozpočtových prostøedkų",
-      "přerozdělování příjmů",
       "pųerozdģlovįnķ pųķjmł",
       "pųķdģl rozpočtovżch prostųedkł",
-      "rozdėlování pøíjmų",
       "rozdģlovįnķ pųķjmł",
-      "rozpočtová pravidla",
-      "rozpočtové zdroje",
       "rozpočtovį pravidla",
-      "rozvod elektřiny",
+      "rozpočtové zdroje",
       "rozvod elektųiny",
-      "samosprávná obec",
       "samosprįvnį obec"
     ]
   },
@@ -23181,10 +22768,9 @@
     "temata": [
       "Elektrárny",
       "Obchod zahraniční",
-      "jaderná elektrárna",
-      "obchodní omezení",
       "Írán",
-      "Ķrįn"
+      "jaderná elektrárna",
+      "obchodní omezení"
     ]
   },
   {
@@ -23202,10 +22788,9 @@
     "temata": [
       "Elektrárny",
       "Obchod zahraniční",
-      "jaderná elektrárna",
-      "obchodní omezení",
       "Írán",
-      "Ķrįn"
+      "jaderná elektrárna",
+      "obchodní omezení"
     ]
   },
   {
@@ -23223,10 +22808,9 @@
     "temata": [
       "Elektrárny",
       "Obchod zahraniční",
-      "jaderná elektrárna",
-      "obchodní omezení",
       "Írán",
-      "Ķrįn"
+      "jaderná elektrárna",
+      "obchodní omezení"
     ]
   },
   {
@@ -23244,10 +22828,9 @@
     "temata": [
       "Elektrárny",
       "Obchod zahraniční",
-      "jaderná elektrárna",
-      "obchodní omezení",
       "Írán",
-      "Ķrįn"
+      "jaderná elektrárna",
+      "obchodní omezení"
     ]
   },
   {
@@ -23265,10 +22848,9 @@
     "temata": [
       "Elektrárny",
       "Obchod zahraniční",
-      "jaderná elektrárna",
-      "obchodní omezení",
       "Írán",
-      "Ķrįn"
+      "jaderná elektrárna",
+      "obchodní omezení"
     ]
   },
   {
@@ -23286,10 +22868,9 @@
     "temata": [
       "Elektrárny",
       "Obchod zahraniční",
-      "jaderná elektrárna",
-      "obchodní omezení",
       "Írán",
-      "Ķrįn"
+      "jaderná elektrárna",
+      "obchodní omezení"
     ]
   },
   {
@@ -23305,29 +22886,18 @@
       "not_logged": 78
     },
     "temata": [
-      "Daně a poplatky",
       "Danģ a poplatky",
       "Rozpočet",
-      "Správa obcí a měst",
-      "Správa státní",
       "Sprįva obcķ a mģst",
       "Sprįva stįtnķ",
       "alokace zdrojł",
-      "alokace zdrojų",
-      "garantovaný pøíjem",
       "garantovanż pųķjem",
-      "pøídėl rozpočtových prostøedkų",
-      "přerozdělování příjmů",
       "pųerozdģlovįnķ pųķjmł",
       "pųķdģl rozpočtovżch prostųedkł",
-      "rozdėlování pøíjmų",
       "rozdģlovįnķ pųķjmł",
-      "rozpočtová pravidla",
-      "rozpočtové zdroje",
       "rozpočtovį pravidla",
-      "rozvod elektřiny",
+      "rozpočtové zdroje",
       "rozvod elektųiny",
-      "samosprávná obec",
       "samosprįvnį obec"
     ]
   },
@@ -23344,29 +22914,18 @@
       "not_logged": 81
     },
     "temata": [
-      "Daně a poplatky",
       "Danģ a poplatky",
       "Rozpočet",
-      "Správa obcí a měst",
-      "Správa státní",
       "Sprįva obcķ a mģst",
       "Sprįva stįtnķ",
       "alokace zdrojł",
-      "alokace zdrojų",
-      "garantovaný pøíjem",
       "garantovanż pųķjem",
-      "pøídėl rozpočtových prostøedkų",
-      "přerozdělování příjmů",
       "pųerozdģlovįnķ pųķjmł",
       "pųķdģl rozpočtovżch prostųedkł",
-      "rozdėlování pøíjmų",
       "rozdģlovįnķ pųķjmł",
-      "rozpočtová pravidla",
-      "rozpočtové zdroje",
       "rozpočtovį pravidla",
-      "rozvod elektřiny",
+      "rozpočtové zdroje",
       "rozvod elektųiny",
-      "samosprávná obec",
       "samosprįvnį obec"
     ]
   },
@@ -23383,29 +22942,18 @@
       "not_logged": 80
     },
     "temata": [
-      "Daně a poplatky",
       "Danģ a poplatky",
       "Rozpočet",
-      "Správa obcí a měst",
-      "Správa státní",
       "Sprįva obcķ a mģst",
       "Sprįva stįtnķ",
       "alokace zdrojł",
-      "alokace zdrojų",
-      "garantovaný pøíjem",
       "garantovanż pųķjem",
-      "pøídėl rozpočtových prostøedkų",
-      "přerozdělování příjmů",
       "pųerozdģlovįnķ pųķjmł",
       "pųķdģl rozpočtovżch prostųedkł",
-      "rozdėlování pøíjmų",
       "rozdģlovįnķ pųķjmł",
-      "rozpočtová pravidla",
-      "rozpočtové zdroje",
       "rozpočtovį pravidla",
-      "rozvod elektřiny",
+      "rozpočtové zdroje",
       "rozvod elektųiny",
-      "samosprávná obec",
       "samosprįvnį obec"
     ]
   },
@@ -23473,7 +23021,6 @@
       "Situace krizové",
       "chemická havárie",
       "chemický výrobek",
-      "havarijní znečitėní",
       "havarijní znečištění",
       "nebezpečná látka",
       "prevence environmentálních rizik"
@@ -23498,9 +23045,8 @@
       "eurotrh",
       "kontrola dovozu",
       "kontrola vývozu",
-      "volný trh",
-      "øízení jakosti prųmyslových výrobkų",
-      "řízení jakosti průmyslových výrobků"
+      "řízení jakosti průmyslových výrobků",
+      "volný trh"
     ]
   },
   {
@@ -23522,9 +23068,8 @@
       "eurotrh",
       "kontrola dovozu",
       "kontrola vývozu",
-      "volný trh",
-      "øízení jakosti prųmyslových výrobkų",
-      "řízení jakosti průmyslových výrobků"
+      "řízení jakosti průmyslových výrobků",
+      "volný trh"
     ]
   },
   {
@@ -23708,14 +23253,13 @@
       "not_logged": 66
     },
     "temata": [
-      "Politika",
       "Referendum",
-      "Státní správa a justice",
       "Vyšší územní samosprávné celky (VÚSC)",
+      "Politika",
+      "Státní správa a justice",
       "kampaň na získání veřejnosti",
-      "kampaō na získání veøejnosti",
-      "obec",
       "občanská práva",
+      "obec",
       "referendum",
       "region",
       "územní samospráva"
@@ -23781,7 +23325,6 @@
       "finanční pomoc",
       "oběť",
       "odškodnění",
-      "válečná obė",
       "válečná oběť"
     ]
   },
@@ -23803,7 +23346,6 @@
       "finanční pomoc",
       "oběť",
       "odškodnění",
-      "válečná obė",
       "válečná oběť"
     ]
   },
@@ -23825,7 +23367,6 @@
       "finanční pomoc",
       "oběť",
       "odškodnění",
-      "válečná obė",
       "válečná oběť"
     ]
   },
@@ -23847,7 +23388,6 @@
       "finanční pomoc",
       "oběť",
       "odškodnění",
-      "válečná obė",
       "válečná oběť"
     ]
   },
@@ -24385,18 +23925,12 @@
       "not_logged": 14
     },
     "temata": [
-      "horní komora",
+      "Ųįd jednacķ - Senįt",
       "hornķ komora",
-      "jednací řád parlamentu",
       "jednacķ ųįd parlamentu",
-      "legislativní proces",
       "legislativnķ proces",
-      "parlamentní dokument",
       "parlamentnķ dokument",
-      "pozmėōovací návrh",
-      "pozmģņovacķ nįvrh",
-      "Øád jednací - Senát",
-      "Ųįd jednacķ - Senįt"
+      "pozmģņovacķ nįvrh"
     ]
   },
   {
@@ -24433,18 +23967,12 @@
       "not_logged": 36
     },
     "temata": [
-      "horní komora",
+      "Ųįd jednacķ - Senįt",
       "hornķ komora",
-      "jednací řád parlamentu",
       "jednacķ ųįd parlamentu",
-      "legislativní proces",
       "legislativnķ proces",
-      "parlamentní dokument",
       "parlamentnķ dokument",
-      "pozmėōovací návrh",
-      "pozmģņovacķ nįvrh",
-      "Øád jednací - Senát",
-      "Ųįd jednacķ - Senįt"
+      "pozmģņovacķ nįvrh"
     ]
   },
   {
@@ -24460,18 +23988,12 @@
       "not_logged": 36
     },
     "temata": [
-      "horní komora",
+      "Ųįd jednacķ - Senįt",
       "hornķ komora",
-      "jednací řád parlamentu",
       "jednacķ ųįd parlamentu",
-      "legislativní proces",
       "legislativnķ proces",
-      "parlamentní dokument",
       "parlamentnķ dokument",
-      "pozmėōovací návrh",
-      "pozmģņovacķ nįvrh",
-      "Øád jednací - Senát",
-      "Ųįd jednacķ - Senįt"
+      "pozmģņovacķ nįvrh"
     ]
   },
   {
@@ -24487,18 +24009,12 @@
       "not_logged": 37
     },
     "temata": [
-      "horní komora",
+      "Ųįd jednacķ - Senįt",
       "hornķ komora",
-      "jednací řád parlamentu",
       "jednacķ ųįd parlamentu",
-      "legislativní proces",
       "legislativnķ proces",
-      "parlamentní dokument",
       "parlamentnķ dokument",
-      "pozmėōovací návrh",
-      "pozmģņovacķ nįvrh",
-      "Øád jednací - Senát",
-      "Ųįd jednacķ - Senįt"
+      "pozmģņovacķ nįvrh"
     ]
   },
   {
@@ -24744,18 +24260,12 @@
       "not_logged": 49
     },
     "temata": [
-      "horní komora",
+      "Ųįd jednacķ - Senįt",
       "hornķ komora",
-      "jednací řád parlamentu",
       "jednacķ ųįd parlamentu",
-      "legislativní proces",
       "legislativnķ proces",
-      "parlamentní dokument",
       "parlamentnķ dokument",
-      "pozmėōovací návrh",
-      "pozmģņovacķ nįvrh",
-      "Øád jednací - Senát",
-      "Ųįd jednacķ - Senįt"
+      "pozmģņovacķ nįvrh"
     ]
   },
   {
@@ -24771,18 +24281,12 @@
       "not_logged": 49
     },
     "temata": [
-      "horní komora",
+      "Ųįd jednacķ - Senįt",
       "hornķ komora",
-      "jednací řád parlamentu",
       "jednacķ ųįd parlamentu",
-      "legislativní proces",
       "legislativnķ proces",
-      "parlamentní dokument",
       "parlamentnķ dokument",
-      "pozmėōovací návrh",
-      "pozmģņovacķ nįvrh",
-      "Øád jednací - Senát",
-      "Ųįd jednacķ - Senįt"
+      "pozmģņovacķ nįvrh"
     ]
   },
   {
@@ -24798,18 +24302,12 @@
       "not_logged": 47
     },
     "temata": [
-      "horní komora",
+      "Ųįd jednacķ - Senįt",
       "hornķ komora",
-      "jednací řád parlamentu",
       "jednacķ ųįd parlamentu",
-      "legislativní proces",
       "legislativnķ proces",
-      "parlamentní dokument",
       "parlamentnķ dokument",
-      "pozmėōovací návrh",
-      "pozmģņovacķ nįvrh",
-      "Øád jednací - Senát",
-      "Ųįd jednacķ - Senįt"
+      "pozmģņovacķ nįvrh"
     ]
   },
   {
@@ -24825,18 +24323,12 @@
       "not_logged": 46
     },
     "temata": [
-      "horní komora",
+      "Ųįd jednacķ - Senįt",
       "hornķ komora",
-      "jednací řád parlamentu",
       "jednacķ ųįd parlamentu",
-      "legislativní proces",
       "legislativnķ proces",
-      "parlamentní dokument",
       "parlamentnķ dokument",
-      "pozmėōovací návrh",
-      "pozmģņovacķ nįvrh",
-      "Øád jednací - Senát",
-      "Ųįd jednacķ - Senįt"
+      "pozmģņovacķ nįvrh"
     ]
   },
   {
@@ -24852,18 +24344,12 @@
       "not_logged": 47
     },
     "temata": [
-      "horní komora",
+      "Ųįd jednacķ - Senįt",
       "hornķ komora",
-      "jednací řád parlamentu",
       "jednacķ ųįd parlamentu",
-      "legislativní proces",
       "legislativnķ proces",
-      "parlamentní dokument",
       "parlamentnķ dokument",
-      "pozmėōovací návrh",
-      "pozmģņovacķ nįvrh",
-      "Øád jednací - Senát",
-      "Ųįd jednacķ - Senįt"
+      "pozmģņovacķ nįvrh"
     ]
   },
   {
@@ -24879,18 +24365,12 @@
       "not_logged": 74
     },
     "temata": [
-      "horní komora",
+      "Ųįd jednacķ - Senįt",
       "hornķ komora",
-      "jednací řád parlamentu",
       "jednacķ ųįd parlamentu",
-      "legislativní proces",
       "legislativnķ proces",
-      "parlamentní dokument",
       "parlamentnķ dokument",
-      "pozmėōovací návrh",
-      "pozmģņovacķ nįvrh",
-      "Øád jednací - Senát",
-      "Ųįd jednacķ - Senįt"
+      "pozmģņovacķ nįvrh"
     ]
   },
   {
@@ -24906,18 +24386,12 @@
       "not_logged": 69
     },
     "temata": [
-      "horní komora",
+      "Ųįd jednacķ - Senįt",
       "hornķ komora",
-      "jednací řád parlamentu",
       "jednacķ ųįd parlamentu",
-      "legislativní proces",
       "legislativnķ proces",
-      "parlamentní dokument",
       "parlamentnķ dokument",
-      "pozmėōovací návrh",
-      "pozmģņovacķ nįvrh",
-      "Øád jednací - Senát",
-      "Ųįd jednacķ - Senįt"
+      "pozmģņovacķ nįvrh"
     ]
   },
   {
@@ -24933,18 +24407,12 @@
       "not_logged": 69
     },
     "temata": [
-      "horní komora",
+      "Ųįd jednacķ - Senįt",
       "hornķ komora",
-      "jednací řád parlamentu",
       "jednacķ ųįd parlamentu",
-      "legislativní proces",
       "legislativnķ proces",
-      "parlamentní dokument",
       "parlamentnķ dokument",
-      "pozmėōovací návrh",
-      "pozmģņovacķ nįvrh",
-      "Øád jednací - Senát",
-      "Ųįd jednacķ - Senįt"
+      "pozmģņovacķ nįvrh"
     ]
   },
   {
@@ -24960,18 +24428,12 @@
       "not_logged": 69
     },
     "temata": [
-      "horní komora",
+      "Ųįd jednacķ - Senįt",
       "hornķ komora",
-      "jednací řád parlamentu",
       "jednacķ ųįd parlamentu",
-      "legislativní proces",
       "legislativnķ proces",
-      "parlamentní dokument",
       "parlamentnķ dokument",
-      "pozmėōovací návrh",
-      "pozmģņovacķ nįvrh",
-      "Øád jednací - Senát",
-      "Ųįd jednacķ - Senįt"
+      "pozmģņovacķ nįvrh"
     ]
   },
   {
@@ -24987,18 +24449,12 @@
       "not_logged": 70
     },
     "temata": [
-      "horní komora",
+      "Ųįd jednacķ - Senįt",
       "hornķ komora",
-      "jednací řád parlamentu",
       "jednacķ ųįd parlamentu",
-      "legislativní proces",
       "legislativnķ proces",
-      "parlamentní dokument",
       "parlamentnķ dokument",
-      "pozmėōovací návrh",
-      "pozmģņovacķ nįvrh",
-      "Øád jednací - Senát",
-      "Ųįd jednacķ - Senįt"
+      "pozmģņovacķ nįvrh"
     ]
   },
   {
@@ -25197,7 +24653,6 @@
       "finanční pomoc",
       "oběť",
       "odškodnění",
-      "válečná obė",
       "válečná oběť"
     ]
   },
@@ -25219,7 +24674,6 @@
       "finanční pomoc",
       "oběť",
       "odškodnění",
-      "válečná obė",
       "válečná oběť"
     ]
   },
@@ -25531,12 +24985,10 @@
       "mzda",
       "náklady na zdraví",
       "všeobecné zdravotní pojištění",
-      "zamìstnanec",
-      "zamìstnavatel",
+      "zákoník práce",
       "zaměstnanec",
       "zaměstnavatel",
-      "zdravotní pojištění",
-      "zákoník práce"
+      "zdravotní pojištění"
     ]
   },
   {
@@ -25557,12 +25009,10 @@
       "mzda",
       "náklady na zdraví",
       "všeobecné zdravotní pojištění",
-      "zamìstnanec",
-      "zamìstnavatel",
+      "zákoník práce",
       "zaměstnanec",
       "zaměstnavatel",
-      "zdravotní pojištění",
-      "zákoník práce"
+      "zdravotní pojištění"
     ]
   },
   {
@@ -25583,12 +25033,10 @@
       "mzda",
       "náklady na zdraví",
       "všeobecné zdravotní pojištění",
-      "zamìstnanec",
-      "zamìstnavatel",
+      "zákoník práce",
       "zaměstnanec",
       "zaměstnavatel",
-      "zdravotní pojištění",
-      "zákoník práce"
+      "zdravotní pojištění"
     ]
   },
   {
@@ -25609,12 +25057,10 @@
       "mzda",
       "náklady na zdraví",
       "všeobecné zdravotní pojištění",
-      "zamìstnanec",
-      "zamìstnavatel",
+      "zákoník práce",
       "zaměstnanec",
       "zaměstnavatel",
-      "zdravotní pojištění",
-      "zákoník práce"
+      "zdravotní pojištění"
     ]
   },
   {
@@ -25709,12 +25155,10 @@
       "mzda",
       "náklady na zdraví",
       "všeobecné zdravotní pojištění",
-      "zamìstnanec",
-      "zamìstnavatel",
+      "zákoník práce",
       "zaměstnanec",
       "zaměstnavatel",
-      "zdravotní pojištění",
-      "zákoník práce"
+      "zdravotní pojištění"
     ]
   },
   {
@@ -25735,12 +25179,10 @@
       "mzda",
       "náklady na zdraví",
       "všeobecné zdravotní pojištění",
-      "zamìstnanec",
-      "zamìstnavatel",
+      "zákoník práce",
       "zaměstnanec",
       "zaměstnavatel",
-      "zdravotní pojištění",
-      "zákoník práce"
+      "zdravotní pojištění"
     ]
   },
   {
@@ -25761,12 +25203,10 @@
       "mzda",
       "náklady na zdraví",
       "všeobecné zdravotní pojištění",
-      "zamìstnanec",
-      "zamìstnavatel",
+      "zákoník práce",
       "zaměstnanec",
       "zaměstnavatel",
-      "zdravotní pojištění",
-      "zákoník práce"
+      "zdravotní pojištění"
     ]
   },
   {
@@ -25787,12 +25227,10 @@
       "mzda",
       "náklady na zdraví",
       "všeobecné zdravotní pojištění",
-      "zamìstnanec",
-      "zamìstnavatel",
+      "zákoník práce",
       "zaměstnanec",
       "zaměstnavatel",
-      "zdravotní pojištění",
-      "zákoník práce"
+      "zdravotní pojištění"
     ]
   },
   {
@@ -26088,29 +25526,18 @@
       "not_logged": 78
     },
     "temata": [
-      "Daně a poplatky",
       "Danģ a poplatky",
       "Rozpočet",
-      "Správa obcí a měst",
-      "Správa státní",
       "Sprįva obcķ a mģst",
       "Sprįva stįtnķ",
       "alokace zdrojł",
-      "alokace zdrojų",
-      "garantovaný pøíjem",
       "garantovanż pųķjem",
-      "pøídėl rozpočtových prostøedkų",
-      "přerozdělování příjmů",
       "pųerozdģlovįnķ pųķjmł",
       "pųķdģl rozpočtovżch prostųedkł",
-      "rozdėlování pøíjmų",
       "rozdģlovįnķ pųķjmł",
-      "rozpočtová pravidla",
-      "rozpočtové zdroje",
       "rozpočtovį pravidla",
-      "rozvod elektřiny",
+      "rozpočtové zdroje",
       "rozvod elektųiny",
-      "samosprávná obec",
       "samosprįvnį obec"
     ]
   },
@@ -26127,29 +25554,18 @@
       "not_logged": 65
     },
     "temata": [
-      "Daně a poplatky",
       "Danģ a poplatky",
       "Rozpočet",
-      "Správa obcí a měst",
-      "Správa státní",
       "Sprįva obcķ a mģst",
       "Sprįva stįtnķ",
       "alokace zdrojł",
-      "alokace zdrojų",
-      "garantovaný pøíjem",
       "garantovanż pųķjem",
-      "pøídėl rozpočtových prostøedkų",
-      "přerozdělování příjmů",
       "pųerozdģlovįnķ pųķjmł",
       "pųķdģl rozpočtovżch prostųedkł",
-      "rozdėlování pøíjmų",
       "rozdģlovįnķ pųķjmł",
-      "rozpočtová pravidla",
-      "rozpočtové zdroje",
       "rozpočtovį pravidla",
-      "rozvod elektřiny",
+      "rozpočtové zdroje",
       "rozvod elektųiny",
-      "samosprávná obec",
       "samosprįvnį obec"
     ]
   },
@@ -26166,29 +25582,18 @@
       "not_logged": 74
     },
     "temata": [
-      "Daně a poplatky",
       "Danģ a poplatky",
       "Rozpočet",
-      "Správa obcí a měst",
-      "Správa státní",
       "Sprįva obcķ a mģst",
       "Sprįva stįtnķ",
       "alokace zdrojł",
-      "alokace zdrojų",
-      "garantovaný pøíjem",
       "garantovanż pųķjem",
-      "pøídėl rozpočtových prostøedkų",
-      "přerozdělování příjmů",
       "pųerozdģlovįnķ pųķjmł",
       "pųķdģl rozpočtovżch prostųedkł",
-      "rozdėlování pøíjmų",
       "rozdģlovįnķ pųķjmł",
-      "rozpočtová pravidla",
-      "rozpočtové zdroje",
       "rozpočtovį pravidla",
-      "rozvod elektřiny",
+      "rozpočtové zdroje",
       "rozvod elektųiny",
-      "samosprávná obec",
       "samosprįvnį obec"
     ]
   },
@@ -26205,29 +25610,18 @@
       "not_logged": 73
     },
     "temata": [
-      "Daně a poplatky",
       "Danģ a poplatky",
       "Rozpočet",
-      "Správa obcí a měst",
-      "Správa státní",
       "Sprįva obcķ a mģst",
       "Sprįva stįtnķ",
       "alokace zdrojł",
-      "alokace zdrojų",
-      "garantovaný pøíjem",
       "garantovanż pųķjem",
-      "pøídėl rozpočtových prostøedkų",
-      "přerozdělování příjmů",
       "pųerozdģlovįnķ pųķjmł",
       "pųķdģl rozpočtovżch prostųedkł",
-      "rozdėlování pøíjmų",
       "rozdģlovįnķ pųķjmł",
-      "rozpočtová pravidla",
-      "rozpočtové zdroje",
       "rozpočtovį pravidla",
-      "rozvod elektřiny",
+      "rozpočtové zdroje",
       "rozvod elektųiny",
-      "samosprávná obec",
       "samosprįvnį obec"
     ]
   },
@@ -26244,29 +25638,18 @@
       "not_logged": 64
     },
     "temata": [
-      "Daně a poplatky",
       "Danģ a poplatky",
       "Rozpočet",
-      "Správa obcí a měst",
-      "Správa státní",
       "Sprįva obcķ a mģst",
       "Sprįva stįtnķ",
       "alokace zdrojł",
-      "alokace zdrojų",
-      "garantovaný pøíjem",
       "garantovanż pųķjem",
-      "pøídėl rozpočtových prostøedkų",
-      "přerozdělování příjmů",
       "pųerozdģlovįnķ pųķjmł",
       "pųķdģl rozpočtovżch prostųedkł",
-      "rozdėlování pøíjmų",
       "rozdģlovįnķ pųķjmł",
-      "rozpočtová pravidla",
-      "rozpočtové zdroje",
       "rozpočtovį pravidla",
-      "rozvod elektřiny",
+      "rozpočtové zdroje",
       "rozvod elektųiny",
-      "samosprávná obec",
       "samosprįvnį obec"
     ]
   },
@@ -26283,29 +25666,18 @@
       "not_logged": 60
     },
     "temata": [
-      "Daně a poplatky",
       "Danģ a poplatky",
       "Rozpočet",
-      "Správa obcí a měst",
-      "Správa státní",
       "Sprįva obcķ a mģst",
       "Sprįva stįtnķ",
       "alokace zdrojł",
-      "alokace zdrojų",
-      "garantovaný pøíjem",
       "garantovanż pųķjem",
-      "pøídėl rozpočtových prostøedkų",
-      "přerozdělování příjmů",
       "pųerozdģlovįnķ pųķjmł",
       "pųķdģl rozpočtovżch prostųedkł",
-      "rozdėlování pøíjmų",
       "rozdģlovįnķ pųķjmł",
-      "rozpočtová pravidla",
-      "rozpočtové zdroje",
       "rozpočtovį pravidla",
-      "rozvod elektřiny",
+      "rozpočtové zdroje",
       "rozvod elektųiny",
-      "samosprávná obec",
       "samosprįvnį obec"
     ]
   },
@@ -26494,14 +25866,13 @@
       "not_logged": 5
     },
     "temata": [
-      "Politika",
       "Referendum",
-      "Státní správa a justice",
       "Vyšší územní samosprávné celky (VÚSC)",
+      "Politika",
+      "Státní správa a justice",
       "kampaň na získání veřejnosti",
-      "kampaō na získání veøejnosti",
-      "obec",
       "občanská práva",
+      "obec",
       "referendum",
       "region",
       "územní samospráva"
@@ -26520,14 +25891,13 @@
       "not_logged": 5
     },
     "temata": [
-      "Politika",
       "Referendum",
-      "Státní správa a justice",
       "Vyšší územní samosprávné celky (VÚSC)",
+      "Politika",
+      "Státní správa a justice",
       "kampaň na získání veřejnosti",
-      "kampaō na získání veøejnosti",
-      "obec",
       "občanská práva",
+      "obec",
       "referendum",
       "region",
       "územní samospráva"
@@ -26546,14 +25916,13 @@
       "not_logged": 5
     },
     "temata": [
-      "Politika",
       "Referendum",
-      "Státní správa a justice",
       "Vyšší územní samosprávné celky (VÚSC)",
+      "Politika",
+      "Státní správa a justice",
       "kampaň na získání veřejnosti",
-      "kampaō na získání veøejnosti",
-      "obec",
       "občanská práva",
+      "obec",
       "referendum",
       "region",
       "územní samospráva"
@@ -26572,14 +25941,13 @@
       "not_logged": 5
     },
     "temata": [
-      "Politika",
       "Referendum",
-      "Státní správa a justice",
       "Vyšší územní samosprávné celky (VÚSC)",
+      "Politika",
+      "Státní správa a justice",
       "kampaň na získání veřejnosti",
-      "kampaō na získání veøejnosti",
-      "obec",
       "občanská práva",
+      "obec",
       "referendum",
       "region",
       "územní samospráva"
@@ -26598,14 +25966,13 @@
       "not_logged": 5
     },
     "temata": [
-      "Politika",
       "Referendum",
-      "Státní správa a justice",
       "Vyšší územní samosprávné celky (VÚSC)",
+      "Politika",
+      "Státní správa a justice",
       "kampaň na získání veřejnosti",
-      "kampaō na získání veøejnosti",
-      "obec",
       "občanská práva",
+      "obec",
       "referendum",
       "region",
       "územní samospráva"
@@ -27516,10 +26883,8 @@
     "temata": [
       "Politika agrární",
       "agrární sektor",
-      "podpora zemėdėlství",
       "podpora zemědělství",
       "státní podpora",
-      "zemėdėlská politika",
       "zemědělská politika"
     ]
   },
@@ -28914,7 +28279,6 @@
     "temata": [
       "Příspěvky státní",
       "Rozpočet",
-      "mateøský pøíspėvek",
       "mateřský příspěvek",
       "sociální dávky",
       "sociální příspěvek",
@@ -28936,7 +28300,6 @@
     "temata": [
       "Příspěvky státní",
       "Rozpočet",
-      "mateøský pøíspėvek",
       "mateřský příspěvek",
       "sociální dávky",
       "sociální příspěvek",
@@ -28958,7 +28321,6 @@
     "temata": [
       "Příspěvky státní",
       "Rozpočet",
-      "mateøský pøíspėvek",
       "mateřský příspěvek",
       "sociální dávky",
       "sociální příspěvek",
@@ -28980,7 +28342,6 @@
     "temata": [
       "Příspěvky státní",
       "Rozpočet",
-      "mateøský pøíspėvek",
       "mateřský příspěvek",
       "sociální dávky",
       "sociální příspěvek",
@@ -29002,7 +28363,6 @@
     "temata": [
       "Příspěvky státní",
       "Rozpočet",
-      "mateøský pøíspėvek",
       "mateřský příspěvek",
       "sociální dávky",
       "sociální příspěvek",
@@ -29024,7 +28384,6 @@
     "temata": [
       "Příspěvky státní",
       "Rozpočet",
-      "mateøský pøíspėvek",
       "mateřský příspěvek",
       "sociální dávky",
       "sociální příspěvek",
@@ -29046,7 +28405,6 @@
     "temata": [
       "Příspěvky státní",
       "Rozpočet",
-      "mateøský pøíspėvek",
       "mateřský příspěvek",
       "sociální dávky",
       "sociální příspěvek",
@@ -29068,7 +28426,6 @@
     "temata": [
       "Příspěvky státní",
       "Rozpočet",
-      "mateøský pøíspėvek",
       "mateřský příspěvek",
       "sociální dávky",
       "sociální příspěvek",
@@ -29088,18 +28445,12 @@
       "not_logged": 63
     },
     "temata": [
-      "horní komora",
+      "Ųįd jednacķ - Senįt",
       "hornķ komora",
-      "jednací řád parlamentu",
       "jednacķ ųįd parlamentu",
-      "legislativní proces",
       "legislativnķ proces",
-      "parlamentní dokument",
       "parlamentnķ dokument",
-      "pozmėōovací návrh",
-      "pozmģņovacķ nįvrh",
-      "Øád jednací - Senát",
-      "Ųįd jednacķ - Senįt"
+      "pozmģņovacķ nįvrh"
     ]
   },
   {
@@ -29115,18 +28466,12 @@
       "not_logged": 59
     },
     "temata": [
-      "horní komora",
+      "Ųįd jednacķ - Senįt",
       "hornķ komora",
-      "jednací řád parlamentu",
       "jednacķ ųįd parlamentu",
-      "legislativní proces",
       "legislativnķ proces",
-      "parlamentní dokument",
       "parlamentnķ dokument",
-      "pozmėōovací návrh",
-      "pozmģņovacķ nįvrh",
-      "Øád jednací - Senát",
-      "Ųįd jednacķ - Senįt"
+      "pozmģņovacķ nįvrh"
     ]
   },
   {
@@ -29142,18 +28487,12 @@
       "not_logged": 58
     },
     "temata": [
-      "horní komora",
+      "Ųįd jednacķ - Senįt",
       "hornķ komora",
-      "jednací řád parlamentu",
       "jednacķ ųįd parlamentu",
-      "legislativní proces",
       "legislativnķ proces",
-      "parlamentní dokument",
       "parlamentnķ dokument",
-      "pozmėōovací návrh",
-      "pozmģņovacķ nįvrh",
-      "Øád jednací - Senát",
-      "Ųįd jednacķ - Senįt"
+      "pozmģņovacķ nįvrh"
     ]
   },
   {
@@ -29169,18 +28508,12 @@
       "not_logged": 61
     },
     "temata": [
-      "horní komora",
+      "Ųįd jednacķ - Senįt",
       "hornķ komora",
-      "jednací řád parlamentu",
       "jednacķ ųįd parlamentu",
-      "legislativní proces",
       "legislativnķ proces",
-      "parlamentní dokument",
       "parlamentnķ dokument",
-      "pozmėōovací návrh",
-      "pozmģņovacķ nįvrh",
-      "Øád jednací - Senát",
-      "Ųįd jednacķ - Senįt"
+      "pozmģņovacķ nįvrh"
     ]
   },
   {
@@ -29196,18 +28529,12 @@
       "not_logged": 73
     },
     "temata": [
-      "horní komora",
+      "Ųįd jednacķ - Senįt",
       "hornķ komora",
-      "jednací řád parlamentu",
       "jednacķ ųįd parlamentu",
-      "legislativní proces",
       "legislativnķ proces",
-      "parlamentní dokument",
       "parlamentnķ dokument",
-      "pozmėōovací návrh",
-      "pozmģņovacķ nįvrh",
-      "Øád jednací - Senát",
-      "Ųįd jednacķ - Senįt"
+      "pozmģņovacķ nįvrh"
     ]
   },
   {
@@ -29223,18 +28550,12 @@
       "not_logged": 73
     },
     "temata": [
-      "horní komora",
+      "Ųįd jednacķ - Senįt",
       "hornķ komora",
-      "jednací řád parlamentu",
       "jednacķ ųįd parlamentu",
-      "legislativní proces",
       "legislativnķ proces",
-      "parlamentní dokument",
       "parlamentnķ dokument",
-      "pozmėōovací návrh",
-      "pozmģņovacķ nįvrh",
-      "Øád jednací - Senát",
-      "Ųįd jednacķ - Senįt"
+      "pozmģņovacķ nįvrh"
     ]
   },
   {
@@ -29250,18 +28571,12 @@
       "not_logged": 94
     },
     "temata": [
-      "horní komora",
+      "Ųįd jednacķ - Senįt",
       "hornķ komora",
-      "jednací řád parlamentu",
       "jednacķ ųįd parlamentu",
-      "legislativní proces",
       "legislativnķ proces",
-      "parlamentní dokument",
       "parlamentnķ dokument",
-      "pozmėōovací návrh",
-      "pozmģņovacķ nįvrh",
-      "Øád jednací - Senát",
-      "Ųįd jednacķ - Senįt"
+      "pozmģņovacķ nįvrh"
     ]
   },
   {
@@ -29277,18 +28592,12 @@
       "not_logged": 95
     },
     "temata": [
-      "horní komora",
+      "Ųįd jednacķ - Senįt",
       "hornķ komora",
-      "jednací řád parlamentu",
       "jednacķ ųįd parlamentu",
-      "legislativní proces",
       "legislativnķ proces",
-      "parlamentní dokument",
       "parlamentnķ dokument",
-      "pozmėōovací návrh",
-      "pozmģņovacķ nįvrh",
-      "Øád jednací - Senát",
-      "Ųįd jednacķ - Senįt"
+      "pozmģņovacķ nįvrh"
     ]
   },
   {
@@ -29304,18 +28613,12 @@
       "not_logged": 93
     },
     "temata": [
-      "horní komora",
+      "Ųįd jednacķ - Senįt",
       "hornķ komora",
-      "jednací řád parlamentu",
       "jednacķ ųįd parlamentu",
-      "legislativní proces",
       "legislativnķ proces",
-      "parlamentní dokument",
       "parlamentnķ dokument",
-      "pozmėōovací návrh",
-      "pozmģņovacķ nįvrh",
-      "Øád jednací - Senát",
-      "Ųįd jednacķ - Senįt"
+      "pozmģņovacķ nįvrh"
     ]
   },
   {
@@ -29331,18 +28634,12 @@
       "not_logged": 97
     },
     "temata": [
-      "horní komora",
+      "Ųįd jednacķ - Senįt",
       "hornķ komora",
-      "jednací řád parlamentu",
       "jednacķ ųįd parlamentu",
-      "legislativní proces",
       "legislativnķ proces",
-      "parlamentní dokument",
       "parlamentnķ dokument",
-      "pozmėōovací návrh",
-      "pozmģņovacķ nįvrh",
-      "Øád jednací - Senát",
-      "Ųįd jednacķ - Senįt"
+      "pozmģņovacķ nįvrh"
     ]
   },
   {
@@ -29891,7 +29188,6 @@
     },
     "temata": [
       "pracovní podmínky",
-      "skončení pracovního pomėru",
       "skončení pracovního poměru",
       "veřejná hygiena",
       "zdravotnické povolání",
@@ -29954,9 +29250,8 @@
       "not_logged": 59
     },
     "temata": [
-      "Mezinárodní mėnový fond",
-      "Mezinárodní měnový fond",
-      "Česká republika"
+      "Česká republika",
+      "Mezinárodní měnový fond"
     ]
   },
   {
@@ -29992,11 +29287,10 @@
       "not_logged": 58
     },
     "temata": [
-      "Uruguay",
+      "Českį republika",
       "ochrana investic",
       "podpora investic",
-      "Česká republika",
-      "Českį republika"
+      "Uruguay"
     ]
   },
   {
@@ -30012,12 +29306,11 @@
       "not_logged": 58
     },
     "temata": [
+      "Česká republika",
       "Malta",
       "ochrana investic",
       "podpora investic",
-      "vypovėdėní smlouvy",
-      "vypovědění smlouvy",
-      "Česká republika"
+      "vypovědění smlouvy"
     ]
   },
   {
@@ -30053,12 +29346,11 @@
       "not_logged": 59
     },
     "temata": [
-      "Slovinsko",
+      "Česká republika",
       "ochrana investic",
       "podpora investic",
-      "vypovėdėní smlouvy",
-      "vypovědění smlouvy",
-      "Česká republika"
+      "Slovinsko",
+      "vypovědění smlouvy"
     ]
   },
   {
@@ -30174,12 +29466,11 @@
       "not_logged": 70
     },
     "temata": [
+      "Česká republika",
       "evropská obranná politika",
       "technologie",
       "vojenský výzkum",
-      "zbrojaøský prųmysl",
-      "zbrojařský průmysl",
-      "Česká republika"
+      "zbrojařský průmysl"
     ]
   },
   {
@@ -30195,12 +29486,11 @@
       "not_logged": 70
     },
     "temata": [
+      "Česká republika",
       "evropská obranná politika",
       "technologie",
       "vojenský výzkum",
-      "zbrojaøský prųmysl",
-      "zbrojařský průmysl",
-      "Česká republika"
+      "zbrojařský průmysl"
     ]
   },
   {
@@ -31173,7 +30463,6 @@
       "Poplatky",
       "finanční pomoc",
       "komunismus",
-      "občanská neposlunost",
       "občanská neposlušnost",
       "odškodnění",
       "válečný veterán"
@@ -31197,7 +30486,6 @@
       "Poplatky",
       "finanční pomoc",
       "komunismus",
-      "občanská neposlunost",
       "občanská neposlušnost",
       "odškodnění",
       "válečný veterán"
@@ -31221,7 +30509,6 @@
       "Poplatky",
       "finanční pomoc",
       "komunismus",
-      "občanská neposlunost",
       "občanská neposlušnost",
       "odškodnění",
       "válečný veterán"
@@ -31245,7 +30532,6 @@
       "Poplatky",
       "finanční pomoc",
       "komunismus",
-      "občanská neposlunost",
       "občanská neposlušnost",
       "odškodnění",
       "válečný veterán"
@@ -31269,7 +30555,6 @@
       "Poplatky",
       "finanční pomoc",
       "komunismus",
-      "občanská neposlunost",
       "občanská neposlušnost",
       "odškodnění",
       "válečný veterán"
@@ -31293,7 +30578,6 @@
       "Poplatky",
       "finanční pomoc",
       "komunismus",
-      "občanská neposlunost",
       "občanská neposlušnost",
       "odškodnění",
       "válečný veterán"
@@ -31317,7 +30601,6 @@
       "Poplatky",
       "finanční pomoc",
       "komunismus",
-      "občanská neposlunost",
       "občanská neposlušnost",
       "odškodnění",
       "válečný veterán"
@@ -31341,7 +30624,6 @@
       "Poplatky",
       "finanční pomoc",
       "komunismus",
-      "občanská neposlunost",
       "občanská neposlušnost",
       "odškodnění",
       "válečný veterán"
@@ -31360,15 +30642,13 @@
       "not_logged": 41
     },
     "temata": [
-      "ochrana údajů",
-      "ovėøování znalostí",
-      "ověřování znalostí",
-      "střední vzdělání",
-      "zkouška",
-      "kolní výsledky",
       "Školství",
+      "ochrana údajů",
+      "ověřování znalostí",
       "školní práce",
-      "školní výsledky"
+      "školní výsledky",
+      "střední vzdělání",
+      "zkouška"
     ]
   },
   {
@@ -31384,15 +30664,13 @@
       "not_logged": 40
     },
     "temata": [
-      "ochrana údajů",
-      "ovėøování znalostí",
-      "ověřování znalostí",
-      "střední vzdělání",
-      "zkouška",
-      "kolní výsledky",
       "Školství",
+      "ochrana údajů",
+      "ověřování znalostí",
       "školní práce",
-      "školní výsledky"
+      "školní výsledky",
+      "střední vzdělání",
+      "zkouška"
     ]
   },
   {
@@ -31408,15 +30686,13 @@
       "not_logged": 38
     },
     "temata": [
-      "ochrana údajů",
-      "ovėøování znalostí",
-      "ověřování znalostí",
-      "střední vzdělání",
-      "zkouška",
-      "kolní výsledky",
       "Školství",
+      "ochrana údajů",
+      "ověřování znalostí",
       "školní práce",
-      "školní výsledky"
+      "školní výsledky",
+      "střední vzdělání",
+      "zkouška"
     ]
   },
   {
@@ -31438,9 +30714,8 @@
       "bydlení",
       "družstevní dům",
       "spoluvlastnictví",
-      "zlepšování bydlení",
-      "údrba",
-      "údržba"
+      "údržba",
+      "zlepšování bydlení"
     ]
   },
   {
@@ -31462,9 +30737,8 @@
       "bydlení",
       "družstevní dům",
       "spoluvlastnictví",
-      "zlepšování bydlení",
-      "údrba",
-      "údržba"
+      "údržba",
+      "zlepšování bydlení"
     ]
   },
   {
@@ -31486,9 +30760,8 @@
       "bydlení",
       "družstevní dům",
       "spoluvlastnictví",
-      "zlepšování bydlení",
-      "údrba",
-      "údržba"
+      "údržba",
+      "zlepšování bydlení"
     ]
   },
   {
@@ -31504,15 +30777,13 @@
       "not_logged": 36
     },
     "temata": [
-      "ochrana údajů",
-      "ovėøování znalostí",
-      "ověřování znalostí",
-      "střední vzdělání",
-      "zkouška",
-      "kolní výsledky",
       "Školství",
+      "ochrana údajů",
+      "ověřování znalostí",
       "školní práce",
-      "školní výsledky"
+      "školní výsledky",
+      "střední vzdělání",
+      "zkouška"
     ]
   },
   {
@@ -31528,15 +30799,13 @@
       "not_logged": 37
     },
     "temata": [
-      "ochrana údajů",
-      "ovėøování znalostí",
-      "ověřování znalostí",
-      "střední vzdělání",
-      "zkouška",
-      "kolní výsledky",
       "Školství",
+      "ochrana údajů",
+      "ověřování znalostí",
       "školní práce",
-      "školní výsledky"
+      "školní výsledky",
+      "střední vzdělání",
+      "zkouška"
     ]
   },
   {
@@ -31552,15 +30821,13 @@
       "not_logged": 37
     },
     "temata": [
-      "ochrana údajů",
-      "ovėøování znalostí",
-      "ověřování znalostí",
-      "střední vzdělání",
-      "zkouška",
-      "kolní výsledky",
       "Školství",
+      "ochrana údajů",
+      "ověřování znalostí",
       "školní práce",
-      "školní výsledky"
+      "školní výsledky",
+      "střední vzdělání",
+      "zkouška"
     ]
   },
   {
@@ -31576,15 +30843,13 @@
       "not_logged": 42
     },
     "temata": [
-      "ochrana údajů",
-      "ovėøování znalostí",
-      "ověřování znalostí",
-      "střední vzdělání",
-      "zkouška",
-      "kolní výsledky",
       "Školství",
+      "ochrana údajů",
+      "ověřování znalostí",
       "školní práce",
-      "školní výsledky"
+      "školní výsledky",
+      "střední vzdělání",
+      "zkouška"
     ]
   },
   {
@@ -32910,16 +32175,14 @@
       "not_logged": 11
     },
     "temata": [
+      "Česká republika",
       "doprava v rámci EU",
       "dopravní doklady",
       "mezinárodní doprava",
       "mezinárodní silniční doprava",
       "nákladní doprava",
-      "pøepravní pøedpisy",
       "přepravní předpisy",
-      "smlouva o dopravė",
-      "smlouva o dopravě",
-      "Česká republika"
+      "smlouva o dopravě"
     ]
   },
   {
@@ -32935,16 +32198,14 @@
       "not_logged": 10
     },
     "temata": [
+      "Česká republika",
       "doprava v rámci EU",
       "dopravní doklady",
       "mezinárodní doprava",
       "mezinárodní silniční doprava",
       "nákladní doprava",
-      "pøepravní pøedpisy",
       "přepravní předpisy",
-      "smlouva o dopravė",
-      "smlouva o dopravě",
-      "Česká republika"
+      "smlouva o dopravě"
     ]
   },
   {
@@ -32960,16 +32221,14 @@
       "not_logged": 10
     },
     "temata": [
+      "Česká republika",
       "doprava v rámci EU",
       "dopravní doklady",
       "mezinárodní doprava",
       "mezinárodní silniční doprava",
       "nákladní doprava",
-      "pøepravní pøedpisy",
       "přepravní předpisy",
-      "smlouva o dopravė",
-      "smlouva o dopravě",
-      "Česká republika"
+      "smlouva o dopravě"
     ]
   },
   {
@@ -33189,7 +32448,6 @@
       "Vozidla silniční",
       "bezpečnost silničního provozu",
       "chodec",
-      "dopravní pøestupek",
       "dopravní předpisy",
       "dopravní přestupek",
       "pravidla silničního provozu",
@@ -33473,13 +32731,12 @@
       "Občan",
       "Státní správa a justice",
       "Zdravotnictví",
+      "Životní prostředí",
       "letadlo",
       "letecká doprava",
       "obchodovatelné emisní povolení",
       "skleníkový plyn",
-      "sniování plynných emisí",
-      "snižování plynných emisí",
-      "Životní prostředí"
+      "snižování plynných emisí"
     ]
   },
   {
@@ -33503,13 +32760,12 @@
       "Občan",
       "Státní správa a justice",
       "Zdravotnictví",
+      "Životní prostředí",
       "letadlo",
       "letecká doprava",
       "obchodovatelné emisní povolení",
       "skleníkový plyn",
-      "sniování plynných emisí",
-      "snižování plynných emisí",
-      "Životní prostředí"
+      "snižování plynných emisí"
     ]
   },
   {
@@ -33533,13 +32789,12 @@
       "Občan",
       "Státní správa a justice",
       "Zdravotnictví",
+      "Životní prostředí",
       "letadlo",
       "letecká doprava",
       "obchodovatelné emisní povolení",
       "skleníkový plyn",
-      "sniování plynných emisí",
-      "snižování plynných emisí",
-      "Životní prostředí"
+      "snižování plynných emisí"
     ]
   },
   {
@@ -33555,21 +32810,16 @@
       "not_logged": 61
     },
     "temata": [
+      "Rostliny",
       "Mezinįrodnķ styky",
       "Nįrodnķ hospodįųstvķ",
       "Občan",
-      "Rostliny",
       "Tģba a vżroba",
-      "dovozní omezení",
       "dovoznķ omezenķ",
-      "ochrana zdraví rostlin",
       "ochrana zdravķ rostlin",
-      "pokusný podnik",
       "pokusnż podnik",
-      "rostlinolékařská legislativa",
       "rostlinolékaųskį legislativa",
-      "kodlivé rostliny",
-      "škodlivé rostliny"
+      "kodlivé rostliny"
     ]
   },
   {
@@ -33593,13 +32843,12 @@
       "Občan",
       "Státní správa a justice",
       "Zdravotnictví",
+      "Životní prostředí",
       "letadlo",
       "letecká doprava",
       "obchodovatelné emisní povolení",
       "skleníkový plyn",
-      "sniování plynných emisí",
-      "snižování plynných emisí",
-      "Životní prostředí"
+      "snižování plynných emisí"
     ]
   },
   {
@@ -33623,13 +32872,12 @@
       "Občan",
       "Státní správa a justice",
       "Zdravotnictví",
+      "Životní prostředí",
       "letadlo",
       "letecká doprava",
       "obchodovatelné emisní povolení",
       "skleníkový plyn",
-      "sniování plynných emisí",
-      "snižování plynných emisí",
-      "Životní prostředí"
+      "snižování plynných emisí"
     ]
   },
   {
@@ -33645,12 +32893,11 @@
       "not_logged": 58
     },
     "temata": [
-      "Republika Srbsko",
-      "Srbsko a Černá Hora",
+      "Česká republika",
       "daňová úmluva",
-      "daōová úmluva",
       "dvojí zdanění",
-      "Česká republika"
+      "Republika Srbsko",
+      "Srbsko a Černá Hora"
     ]
   },
   {
@@ -33666,12 +32913,11 @@
       "not_logged": 59
     },
     "temata": [
-      "Republika Srbsko",
-      "Srbsko a Černá Hora",
+      "Česká republika",
       "daňová úmluva",
-      "daōová úmluva",
       "dvojí zdanění",
-      "Česká republika"
+      "Republika Srbsko",
+      "Srbsko a Černá Hora"
     ]
   },
   {
@@ -33741,12 +32987,11 @@
       "not_logged": 53
     },
     "temata": [
-      "Republika Srbsko",
-      "Srbsko a Černá Hora",
+      "Česká republika",
       "daňová úmluva",
-      "daōová úmluva",
       "dvojí zdanění",
-      "Česká republika"
+      "Republika Srbsko",
+      "Srbsko a Černá Hora"
     ]
   },
   {
@@ -33762,12 +33007,11 @@
       "not_logged": 53
     },
     "temata": [
-      "Republika Srbsko",
-      "Srbsko a Černá Hora",
+      "Česká republika",
       "daňová úmluva",
-      "daōová úmluva",
       "dvojí zdanění",
-      "Česká republika"
+      "Republika Srbsko",
+      "Srbsko a Černá Hora"
     ]
   },
   {
@@ -33785,7 +33029,6 @@
     "temata": [
       "celní spolupráce",
       "celní unie",
-      "celnķ unie",
       "jednotná celní deklarace",
       "společná celní politika"
     ]
@@ -33805,7 +33048,6 @@
     "temata": [
       "celní spolupráce",
       "celní unie",
-      "celnķ unie",
       "jednotná celní deklarace",
       "společná celní politika"
     ]
@@ -33865,14 +33107,13 @@
       "not_logged": 56
     },
     "temata": [
+      "Česká republika",
       "důvěrná informace",
       "ochrana komunikací",
       "ochrana údajů",
+      "Španělsko",
       "státní tajemství",
-      "zpřístupňování informací",
-      "panėlsko",
-      "Česká republika",
-      "Španělsko"
+      "zpřístupňování informací"
     ]
   },
   {
@@ -33888,14 +33129,13 @@
       "not_logged": 55
     },
     "temata": [
+      "Česká republika",
       "důvěrná informace",
       "ochrana komunikací",
       "ochrana údajů",
+      "Španělsko",
       "státní tajemství",
-      "zpřístupňování informací",
-      "panėlsko",
-      "Česká republika",
-      "Španělsko"
+      "zpřístupňování informací"
     ]
   },
   {
@@ -33911,14 +33151,12 @@
       "not_logged": 53
     },
     "temata": [
+      "Česká republika",
       "nelegální migrace",
       "policejní spolupráce",
+      "Švýcarsko",
       "vstup cizinců",
-      "vstup cizincų",
-      "vyhoštění",
-      "výcarsko",
-      "Česká republika",
-      "Švýcarsko"
+      "vyhoštění"
     ]
   },
   {
@@ -33934,14 +33172,12 @@
       "not_logged": 54
     },
     "temata": [
+      "Česká republika",
       "nelegální migrace",
       "policejní spolupráce",
+      "Švýcarsko",
       "vstup cizinců",
-      "vstup cizincų",
-      "vyhoštění",
-      "výcarsko",
-      "Česká republika",
-      "Švýcarsko"
+      "vyhoštění"
     ]
   },
   {
@@ -33957,14 +33193,13 @@
       "not_logged": 53
     },
     "temata": [
+      "Česká republika",
       "důvěrná informace",
       "ochrana komunikací",
       "ochrana údajů",
+      "Španělsko",
       "státní tajemství",
-      "zpřístupňování informací",
-      "panėlsko",
-      "Česká republika",
-      "Španělsko"
+      "zpřístupňování informací"
     ]
   },
   {
@@ -33980,14 +33215,13 @@
       "not_logged": 53
     },
     "temata": [
+      "Česká republika",
       "důvěrná informace",
       "ochrana komunikací",
       "ochrana údajů",
+      "Španělsko",
       "státní tajemství",
-      "zpřístupňování informací",
-      "panėlsko",
-      "Česká republika",
-      "Španělsko"
+      "zpřístupňování informací"
     ]
   },
   {
@@ -34083,16 +33317,14 @@
       "not_logged": 56
     },
     "temata": [
+      "Česká republika",
       "doprava v rámci EU",
       "dopravní doklady",
       "mezinárodní doprava",
       "mezinárodní silniční doprava",
       "nákladní doprava",
-      "pøepravní pøedpisy",
       "přepravní předpisy",
-      "smlouva o dopravė",
-      "smlouva o dopravě",
-      "Česká republika"
+      "smlouva o dopravě"
     ]
   },
   {
@@ -34108,16 +33340,14 @@
       "not_logged": 55
     },
     "temata": [
+      "Česká republika",
       "doprava v rámci EU",
       "dopravní doklady",
       "mezinárodní doprava",
       "mezinárodní silniční doprava",
       "nákladní doprava",
-      "pøepravní pøedpisy",
       "přepravní předpisy",
-      "smlouva o dopravė",
-      "smlouva o dopravě",
-      "Česká republika"
+      "smlouva o dopravě"
     ]
   },
   {
@@ -34134,7 +33364,6 @@
     },
     "temata": [
       "environmentální politika",
-      "ochrana ivočiné øíe",
       "ochrana živočišné říše",
       "ptáci",
       "vztahy mezi Severem a Jihem"
@@ -34154,7 +33383,6 @@
     },
     "temata": [
       "environmentální politika",
-      "ochrana ivočiné øíe",
       "ochrana živočišné říše",
       "ptáci",
       "vztahy mezi Severem a Jihem"
@@ -34489,19 +33717,13 @@
       "not_logged": 16
     },
     "temata": [
-      "Bankovnictví",
       "Bankovnictvķ",
+      "Rozpočet",
       "Nįrodnķ hospodįųstvķ",
       "Penģnictvķ a pojiovnictvķ",
-      "Rozpočet",
-      "emise cenných papírů",
       "emise cennżch papķrł",
-      "financování rozpočtu",
       "financovįnķ rozpočtu",
-      "rozpočtový schodek",
       "rozpočtovż schodek",
-      "veřejné půjčky",
-      "veřejný dluh",
       "veųejné płjčky",
       "veųejnż dluh"
     ]
@@ -34519,19 +33741,13 @@
       "not_logged": 16
     },
     "temata": [
-      "Bankovnictví",
       "Bankovnictvķ",
+      "Rozpočet",
       "Nįrodnķ hospodįųstvķ",
       "Penģnictvķ a pojiovnictvķ",
-      "Rozpočet",
-      "emise cenných papírů",
       "emise cennżch papķrł",
-      "financování rozpočtu",
       "financovįnķ rozpočtu",
-      "rozpočtový schodek",
       "rozpočtovż schodek",
-      "veřejné půjčky",
-      "veřejný dluh",
       "veųejné płjčky",
       "veųejnż dluh"
     ]
@@ -34582,19 +33798,13 @@
       "not_logged": 32
     },
     "temata": [
-      "Bankovnictví",
       "Bankovnictvķ",
+      "Rozpočet",
       "Nįrodnķ hospodįųstvķ",
       "Penģnictvķ a pojiovnictvķ",
-      "Rozpočet",
-      "emise cenných papírů",
       "emise cennżch papķrł",
-      "financování rozpočtu",
       "financovįnķ rozpočtu",
-      "rozpočtový schodek",
       "rozpočtovż schodek",
-      "veřejné půjčky",
-      "veřejný dluh",
       "veųejné płjčky",
       "veųejnż dluh"
     ]
@@ -34612,19 +33822,13 @@
       "not_logged": 29
     },
     "temata": [
-      "Bankovnictví",
       "Bankovnictvķ",
+      "Rozpočet",
       "Nįrodnķ hospodįųstvķ",
       "Penģnictvķ a pojiovnictvķ",
-      "Rozpočet",
-      "emise cenných papírů",
       "emise cennżch papķrł",
-      "financování rozpočtu",
       "financovįnķ rozpočtu",
-      "rozpočtový schodek",
       "rozpočtovż schodek",
-      "veřejné půjčky",
-      "veřejný dluh",
       "veųejné płjčky",
       "veųejnż dluh"
     ]
@@ -34642,19 +33846,13 @@
       "not_logged": 29
     },
     "temata": [
-      "Bankovnictví",
       "Bankovnictvķ",
+      "Rozpočet",
       "Nįrodnķ hospodįųstvķ",
       "Penģnictvķ a pojiovnictvķ",
-      "Rozpočet",
-      "emise cenných papírů",
       "emise cennżch papķrł",
-      "financování rozpočtu",
       "financovįnķ rozpočtu",
-      "rozpočtový schodek",
       "rozpočtovż schodek",
-      "veřejné půjčky",
-      "veřejný dluh",
       "veųejné płjčky",
       "veųejnż dluh"
     ]
@@ -34672,19 +33870,13 @@
       "not_logged": 87
     },
     "temata": [
-      "Bankovnictví",
       "Bankovnictvķ",
+      "Rozpočet",
       "Nįrodnķ hospodįųstvķ",
       "Penģnictvķ a pojiovnictvķ",
-      "Rozpočet",
-      "emise cenných papírů",
       "emise cennżch papķrł",
-      "financování rozpočtu",
       "financovįnķ rozpočtu",
-      "rozpočtový schodek",
       "rozpočtovż schodek",
-      "veřejné půjčky",
-      "veřejný dluh",
       "veųejné płjčky",
       "veųejnż dluh"
     ]
@@ -34702,19 +33894,13 @@
       "not_logged": 35
     },
     "temata": [
-      "Bankovnictví",
       "Bankovnictvķ",
+      "Rozpočet",
       "Nįrodnķ hospodįųstvķ",
       "Penģnictvķ a pojiovnictvķ",
-      "Rozpočet",
-      "emise cenných papírů",
       "emise cennżch papķrł",
-      "financování rozpočtu",
       "financovįnķ rozpočtu",
-      "rozpočtový schodek",
       "rozpočtovż schodek",
-      "veřejné půjčky",
-      "veřejný dluh",
       "veųejné płjčky",
       "veųejnż dluh"
     ]
@@ -34757,16 +33943,14 @@
     },
     "temata": [
       "Doprava",
-      "Doprava a spoje",
       "Evropská unie /EU/",
-      "Funkcionáøi Poslanecké snėmovny",
       "Funkcionáři Poslanecké sněmovny",
+      "Obchod a služby",
+      "Doprava a spoje",
       "Mezinárodní styky",
       "Národní hospodářství",
-      "Obchod a služby",
       "Občan",
       "Státní správa a justice",
-      "cestující veøejnost",
       "cestující veřejnost",
       "dopravní infrastruktura",
       "osobní doprava",
@@ -34789,16 +33973,14 @@
     },
     "temata": [
       "Doprava",
-      "Doprava a spoje",
       "Evropská unie /EU/",
-      "Funkcionáøi Poslanecké snėmovny",
       "Funkcionáři Poslanecké sněmovny",
+      "Obchod a služby",
+      "Doprava a spoje",
       "Mezinárodní styky",
       "Národní hospodářství",
-      "Obchod a služby",
       "Občan",
       "Státní správa a justice",
-      "cestující veøejnost",
       "cestující veřejnost",
       "dopravní infrastruktura",
       "osobní doprava",
@@ -34821,16 +34003,14 @@
     },
     "temata": [
       "Doprava",
-      "Doprava a spoje",
       "Evropská unie /EU/",
-      "Funkcionáøi Poslanecké snėmovny",
       "Funkcionáři Poslanecké sněmovny",
+      "Obchod a služby",
+      "Doprava a spoje",
       "Mezinárodní styky",
       "Národní hospodářství",
-      "Obchod a služby",
       "Občan",
       "Státní správa a justice",
-      "cestující veøejnost",
       "cestující veřejnost",
       "dopravní infrastruktura",
       "osobní doprava",
@@ -34853,16 +34033,14 @@
     },
     "temata": [
       "Doprava",
-      "Doprava a spoje",
       "Evropská unie /EU/",
-      "Funkcionáøi Poslanecké snėmovny",
       "Funkcionáři Poslanecké sněmovny",
+      "Obchod a služby",
+      "Doprava a spoje",
       "Mezinárodní styky",
       "Národní hospodářství",
-      "Obchod a služby",
       "Občan",
       "Státní správa a justice",
-      "cestující veøejnost",
       "cestující veřejnost",
       "dopravní infrastruktura",
       "osobní doprava",
@@ -34885,16 +34063,14 @@
     },
     "temata": [
       "Doprava",
-      "Doprava a spoje",
       "Evropská unie /EU/",
-      "Funkcionáøi Poslanecké snėmovny",
       "Funkcionáři Poslanecké sněmovny",
+      "Obchod a služby",
+      "Doprava a spoje",
       "Mezinárodní styky",
       "Národní hospodářství",
-      "Obchod a služby",
       "Občan",
       "Státní správa a justice",
-      "cestující veøejnost",
       "cestující veřejnost",
       "dopravní infrastruktura",
       "osobní doprava",
@@ -34917,16 +34093,14 @@
     },
     "temata": [
       "Doprava",
-      "Doprava a spoje",
       "Evropská unie /EU/",
-      "Funkcionáøi Poslanecké snėmovny",
       "Funkcionáři Poslanecké sněmovny",
+      "Obchod a služby",
+      "Doprava a spoje",
       "Mezinárodní styky",
       "Národní hospodářství",
-      "Obchod a služby",
       "Občan",
       "Státní správa a justice",
-      "cestující veøejnost",
       "cestující veřejnost",
       "dopravní infrastruktura",
       "osobní doprava",
@@ -34949,16 +34123,14 @@
     },
     "temata": [
       "Doprava",
-      "Doprava a spoje",
       "Evropská unie /EU/",
-      "Funkcionáøi Poslanecké snėmovny",
       "Funkcionáři Poslanecké sněmovny",
+      "Obchod a služby",
+      "Doprava a spoje",
       "Mezinárodní styky",
       "Národní hospodářství",
-      "Obchod a služby",
       "Občan",
       "Státní správa a justice",
-      "cestující veøejnost",
       "cestující veřejnost",
       "dopravní infrastruktura",
       "osobní doprava",
@@ -34981,16 +34153,14 @@
     },
     "temata": [
       "Doprava",
-      "Doprava a spoje",
       "Evropská unie /EU/",
-      "Funkcionáøi Poslanecké snėmovny",
       "Funkcionáři Poslanecké sněmovny",
+      "Obchod a služby",
+      "Doprava a spoje",
       "Mezinárodní styky",
       "Národní hospodářství",
-      "Obchod a služby",
       "Občan",
       "Státní správa a justice",
-      "cestující veøejnost",
       "cestující veřejnost",
       "dopravní infrastruktura",
       "osobní doprava",
@@ -35013,16 +34183,14 @@
     },
     "temata": [
       "Doprava",
-      "Doprava a spoje",
       "Evropská unie /EU/",
-      "Funkcionáøi Poslanecké snėmovny",
       "Funkcionáři Poslanecké sněmovny",
+      "Obchod a služby",
+      "Doprava a spoje",
       "Mezinárodní styky",
       "Národní hospodářství",
-      "Obchod a služby",
       "Občan",
       "Státní správa a justice",
-      "cestující veøejnost",
       "cestující veřejnost",
       "dopravní infrastruktura",
       "osobní doprava",
@@ -35045,16 +34213,14 @@
     },
     "temata": [
       "Doprava",
-      "Doprava a spoje",
       "Evropská unie /EU/",
-      "Funkcionáøi Poslanecké snėmovny",
       "Funkcionáři Poslanecké sněmovny",
+      "Obchod a služby",
+      "Doprava a spoje",
       "Mezinárodní styky",
       "Národní hospodářství",
-      "Obchod a služby",
       "Občan",
       "Státní správa a justice",
-      "cestující veøejnost",
       "cestující veřejnost",
       "dopravní infrastruktura",
       "osobní doprava",
@@ -35077,16 +34243,14 @@
     },
     "temata": [
       "Doprava",
-      "Doprava a spoje",
       "Evropská unie /EU/",
-      "Funkcionáøi Poslanecké snėmovny",
       "Funkcionáři Poslanecké sněmovny",
+      "Obchod a služby",
+      "Doprava a spoje",
       "Mezinárodní styky",
       "Národní hospodářství",
-      "Obchod a služby",
       "Občan",
       "Státní správa a justice",
-      "cestující veøejnost",
       "cestující veřejnost",
       "dopravní infrastruktura",
       "osobní doprava",
@@ -35109,16 +34273,14 @@
     },
     "temata": [
       "Doprava",
-      "Doprava a spoje",
       "Evropská unie /EU/",
-      "Funkcionáøi Poslanecké snėmovny",
       "Funkcionáři Poslanecké sněmovny",
+      "Obchod a služby",
+      "Doprava a spoje",
       "Mezinárodní styky",
       "Národní hospodářství",
-      "Obchod a služby",
       "Občan",
       "Státní správa a justice",
-      "cestující veøejnost",
       "cestující veřejnost",
       "dopravní infrastruktura",
       "osobní doprava",
@@ -35141,16 +34303,14 @@
     },
     "temata": [
       "Doprava",
-      "Doprava a spoje",
       "Evropská unie /EU/",
-      "Funkcionáøi Poslanecké snėmovny",
       "Funkcionáři Poslanecké sněmovny",
+      "Obchod a služby",
+      "Doprava a spoje",
       "Mezinárodní styky",
       "Národní hospodářství",
-      "Obchod a služby",
       "Občan",
       "Státní správa a justice",
-      "cestující veøejnost",
       "cestující veřejnost",
       "dopravní infrastruktura",
       "osobní doprava",
@@ -35173,16 +34333,14 @@
     },
     "temata": [
       "Doprava",
-      "Doprava a spoje",
       "Evropská unie /EU/",
-      "Funkcionáøi Poslanecké snėmovny",
       "Funkcionáři Poslanecké sněmovny",
+      "Obchod a služby",
+      "Doprava a spoje",
       "Mezinárodní styky",
       "Národní hospodářství",
-      "Obchod a služby",
       "Občan",
       "Státní správa a justice",
-      "cestující veøejnost",
       "cestující veřejnost",
       "dopravní infrastruktura",
       "osobní doprava",
@@ -35205,16 +34363,14 @@
     },
     "temata": [
       "Doprava",
-      "Doprava a spoje",
       "Evropská unie /EU/",
-      "Funkcionáøi Poslanecké snėmovny",
       "Funkcionáři Poslanecké sněmovny",
+      "Obchod a služby",
+      "Doprava a spoje",
       "Mezinárodní styky",
       "Národní hospodářství",
-      "Obchod a služby",
       "Občan",
       "Státní správa a justice",
-      "cestující veøejnost",
       "cestující veřejnost",
       "dopravní infrastruktura",
       "osobní doprava",
@@ -35237,16 +34393,14 @@
     },
     "temata": [
       "Doprava",
-      "Doprava a spoje",
       "Evropská unie /EU/",
-      "Funkcionáøi Poslanecké snėmovny",
       "Funkcionáři Poslanecké sněmovny",
+      "Obchod a služby",
+      "Doprava a spoje",
       "Mezinárodní styky",
       "Národní hospodářství",
-      "Obchod a služby",
       "Občan",
       "Státní správa a justice",
-      "cestující veøejnost",
       "cestující veřejnost",
       "dopravní infrastruktura",
       "osobní doprava",
@@ -35296,13 +34450,12 @@
       "not_logged": 46
     },
     "temata": [
+      "Školství",
       "Národní hospodářství",
       "Pracovní síla",
       "odborná kvalifikace",
       "průběžná profesní příprava",
-      "prųbėná profesní pøíprava",
-      "učitel",
-      "Školství"
+      "učitel"
     ]
   },
   {
@@ -35750,15 +34903,13 @@
       "not_logged": 27
     },
     "temata": [
+      "Řízení rozhodčí",
       "Zákon trestní",
       "boj proti zločinnosti",
       "hospodářský trestný čin",
       "korupce",
       "organizovaný zločin",
-      "výslech svėdka",
-      "výslech svědka",
-      "Øízení rozhodčí",
-      "Řízení rozhodčí"
+      "výslech svědka"
     ]
   },
   {
@@ -35774,15 +34925,13 @@
       "not_logged": 27
     },
     "temata": [
+      "Řízení rozhodčí",
       "Zákon trestní",
       "boj proti zločinnosti",
       "hospodářský trestný čin",
       "korupce",
       "organizovaný zločin",
-      "výslech svėdka",
-      "výslech svědka",
-      "Øízení rozhodčí",
-      "Řízení rozhodčí"
+      "výslech svědka"
     ]
   },
   {
@@ -35798,15 +34947,13 @@
       "not_logged": 27
     },
     "temata": [
+      "Řízení rozhodčí",
       "Zákon trestní",
       "boj proti zločinnosti",
       "hospodářský trestný čin",
       "korupce",
       "organizovaný zločin",
-      "výslech svėdka",
-      "výslech svědka",
-      "Øízení rozhodčí",
-      "Řízení rozhodčí"
+      "výslech svědka"
     ]
   },
   {
@@ -35822,15 +34969,13 @@
       "not_logged": 27
     },
     "temata": [
+      "Řízení rozhodčí",
       "Zákon trestní",
       "boj proti zločinnosti",
       "hospodářský trestný čin",
       "korupce",
       "organizovaný zločin",
-      "výslech svėdka",
-      "výslech svědka",
-      "Øízení rozhodčí",
-      "Řízení rozhodčí"
+      "výslech svědka"
     ]
   },
   {
@@ -35846,15 +34991,13 @@
       "not_logged": 28
     },
     "temata": [
+      "Řízení rozhodčí",
       "Zákon trestní",
       "boj proti zločinnosti",
       "hospodářský trestný čin",
       "korupce",
       "organizovaný zločin",
-      "výslech svėdka",
-      "výslech svědka",
-      "Øízení rozhodčí",
-      "Řízení rozhodčí"
+      "výslech svědka"
     ]
   },
   {
@@ -36004,7 +35147,6 @@
       "jaderná bezpečnost",
       "jaderná politika",
       "obnovitelná energie",
-      "vyuívání zdrojų",
       "využívání zdrojů",
       "zásobování energií"
     ]
@@ -36023,7 +35165,6 @@
     },
     "temata": [
       "Papíry cenné",
-      "akcionáø",
       "akcionář",
       "cenné papíry",
       "finanční akcie",
@@ -36332,13 +35473,11 @@
       "not_logged": 18
     },
     "temata": [
+      "Pojištění",
+      "Zabezpečení sociální",
       "Národní hospodářství",
       "Peněžnictví a pojišťovnictví",
-      "Pojištění",
       "Pracovní síla",
-      "Zabezpeèení sociální",
-      "Zabezpečení sociální",
-      "mateøský pøíspėvek",
       "mateřský příspěvek",
       "sociální dávky",
       "zdravotní pojištění"
@@ -36470,7 +35609,6 @@
     },
     "temata": [
       "Papíry cenné",
-      "akcionáø",
       "akcionář",
       "cenné papíry",
       "finanční akcie",
@@ -36492,7 +35630,6 @@
     },
     "temata": [
       "Papíry cenné",
-      "akcionáø",
       "akcionář",
       "cenné papíry",
       "finanční akcie",
@@ -36514,7 +35651,6 @@
     },
     "temata": [
       "Papíry cenné",
-      "akcionáø",
       "akcionář",
       "cenné papíry",
       "finanční akcie",
@@ -36536,7 +35672,6 @@
     },
     "temata": [
       "Papíry cenné",
-      "akcionáø",
       "akcionář",
       "cenné papíry",
       "finanční akcie",
@@ -36558,7 +35693,6 @@
     },
     "temata": [
       "Papíry cenné",
-      "akcionáø",
       "akcionář",
       "cenné papíry",
       "finanční akcie",
@@ -36586,13 +35720,12 @@
       "neslučitelnost",
       "parlament",
       "parlamentní výbor",
-      "politický funkcionáø",
       "politický funkcionář",
       "poslanec parlamentu",
       "seznam",
       "veřejná funkce",
-      "zpřístupňování informací",
-      "zájmová skupina"
+      "zájmová skupina",
+      "zpřístupňování informací"
     ]
   },
   {
@@ -36615,13 +35748,12 @@
       "neslučitelnost",
       "parlament",
       "parlamentní výbor",
-      "politický funkcionáø",
       "politický funkcionář",
       "poslanec parlamentu",
       "seznam",
       "veřejná funkce",
-      "zpřístupňování informací",
-      "zájmová skupina"
+      "zájmová skupina",
+      "zpřístupňování informací"
     ]
   },
   {
@@ -36644,13 +35776,12 @@
       "neslučitelnost",
       "parlament",
       "parlamentní výbor",
-      "politický funkcionáø",
       "politický funkcionář",
       "poslanec parlamentu",
       "seznam",
       "veřejná funkce",
-      "zpřístupňování informací",
-      "zájmová skupina"
+      "zájmová skupina",
+      "zpřístupňování informací"
     ]
   },
   {
@@ -36673,13 +35804,12 @@
       "neslučitelnost",
       "parlament",
       "parlamentní výbor",
-      "politický funkcionáø",
       "politický funkcionář",
       "poslanec parlamentu",
       "seznam",
       "veřejná funkce",
-      "zpřístupňování informací",
-      "zájmová skupina"
+      "zájmová skupina",
+      "zpřístupňování informací"
     ]
   },
   {
@@ -36702,13 +35832,12 @@
       "neslučitelnost",
       "parlament",
       "parlamentní výbor",
-      "politický funkcionáø",
       "politický funkcionář",
       "poslanec parlamentu",
       "seznam",
       "veřejná funkce",
-      "zpřístupňování informací",
-      "zájmová skupina"
+      "zájmová skupina",
+      "zpřístupňování informací"
     ]
   },
   {
@@ -36731,13 +35860,12 @@
       "neslučitelnost",
       "parlament",
       "parlamentní výbor",
-      "politický funkcionáø",
       "politický funkcionář",
       "poslanec parlamentu",
       "seznam",
       "veřejná funkce",
-      "zpřístupňování informací",
-      "zájmová skupina"
+      "zájmová skupina",
+      "zpřístupňování informací"
     ]
   },
   {
@@ -36760,13 +35888,12 @@
       "neslučitelnost",
       "parlament",
       "parlamentní výbor",
-      "politický funkcionáø",
       "politický funkcionář",
       "poslanec parlamentu",
       "seznam",
       "veřejná funkce",
-      "zpřístupňování informací",
-      "zájmová skupina"
+      "zájmová skupina",
+      "zpřístupňování informací"
     ]
   },
   {
@@ -36852,19 +35979,13 @@
       "not_logged": 39
     },
     "temata": [
-      "Bankovnictví",
       "Bankovnictvķ",
+      "Rozpočet",
       "Nįrodnķ hospodįųstvķ",
       "Penģnictvķ a pojiovnictvķ",
-      "Rozpočet",
-      "emise cenných papírů",
       "emise cennżch papķrł",
-      "financování rozpočtu",
       "financovįnķ rozpočtu",
-      "rozpočtový schodek",
       "rozpočtovż schodek",
-      "veřejné půjčky",
-      "veřejný dluh",
       "veųejné płjčky",
       "veųejnż dluh"
     ]
@@ -36882,19 +36003,13 @@
       "not_logged": 40
     },
     "temata": [
-      "Bankovnictví",
       "Bankovnictvķ",
+      "Rozpočet",
       "Nįrodnķ hospodįųstvķ",
       "Penģnictvķ a pojiovnictvķ",
-      "Rozpočet",
-      "emise cenných papírů",
       "emise cennżch papķrł",
-      "financování rozpočtu",
       "financovįnķ rozpočtu",
-      "rozpočtový schodek",
       "rozpočtovż schodek",
-      "veřejné půjčky",
-      "veřejný dluh",
       "veųejné płjčky",
       "veųejnż dluh"
     ]
@@ -36912,19 +36027,13 @@
       "not_logged": 46
     },
     "temata": [
-      "Bankovnictví",
       "Bankovnictvķ",
+      "Rozpočet",
       "Nįrodnķ hospodįųstvķ",
       "Penģnictvķ a pojiovnictvķ",
-      "Rozpočet",
-      "emise cenných papírů",
       "emise cennżch papķrł",
-      "financování rozpočtu",
       "financovįnķ rozpočtu",
-      "rozpočtový schodek",
       "rozpočtovż schodek",
-      "veřejné půjčky",
-      "veřejný dluh",
       "veųejné płjčky",
       "veųejnż dluh"
     ]
@@ -36942,19 +36051,13 @@
       "not_logged": 48
     },
     "temata": [
-      "Bankovnictví",
       "Bankovnictvķ",
+      "Rozpočet",
       "Nįrodnķ hospodįųstvķ",
       "Penģnictvķ a pojiovnictvķ",
-      "Rozpočet",
-      "emise cenných papírů",
       "emise cennżch papķrł",
-      "financování rozpočtu",
       "financovįnķ rozpočtu",
-      "rozpočtový schodek",
       "rozpočtovż schodek",
-      "veřejné půjčky",
-      "veřejný dluh",
       "veųejné płjčky",
       "veųejnż dluh"
     ]
@@ -37493,10 +36596,9 @@
       "Pracovní síla",
       "chudoba",
       "evropská sociální politika",
-      "sociální pomoc",
-      "základní ivotní potøeby",
-      "základní životní potřeby",
       "škoda",
+      "sociální pomoc",
+      "základní životní potřeby",
       "životní minimum"
     ]
   },
@@ -37570,14 +36672,13 @@
       "not_logged": 6
     },
     "temata": [
-      "Politika",
       "Referendum",
-      "Státní správa a justice",
       "Vyšší územní samosprávné celky (VÚSC)",
+      "Politika",
+      "Státní správa a justice",
       "kampaň na získání veřejnosti",
-      "kampaō na získání veøejnosti",
-      "obec",
       "občanská práva",
+      "obec",
       "referendum",
       "region",
       "územní samospráva"

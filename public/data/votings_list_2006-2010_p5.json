@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "id": 51840,
     "date": "2010-03-10",
@@ -153,21 +153,18 @@
     },
     "temata": [
       "Evropská unie /EU/",
+      "Obchod a služby",
+      "Spotřebitel",
       "Mezinárodní styky",
       "Národní hospodářství",
-      "Obchod a služby",
       "Občan",
       "Peněžnictví a pojišťovnictví",
-      "Spotøebitel",
-      "Spotřebitel",
       "Státní správa a justice",
       "banka",
-      "nákup na úvėr",
       "nákup na úvěr",
       "ochrana spotřebitele",
       "právo na informace",
       "spotřební úvěr",
-      "úvėr",
       "úvěr"
     ]
   },
@@ -185,21 +182,18 @@
     },
     "temata": [
       "Evropská unie /EU/",
+      "Obchod a služby",
+      "Spotřebitel",
       "Mezinárodní styky",
       "Národní hospodářství",
-      "Obchod a služby",
       "Občan",
       "Peněžnictví a pojišťovnictví",
-      "Spotøebitel",
-      "Spotřebitel",
       "Státní správa a justice",
       "banka",
-      "nákup na úvėr",
       "nákup na úvěr",
       "ochrana spotřebitele",
       "právo na informace",
       "spotřební úvěr",
-      "úvėr",
       "úvěr"
     ]
   },
@@ -273,10 +267,9 @@
       "banka",
       "bankovní vklad",
       "družstevní banka",
-      "pojistné",
-      "pojistné plnėní",
-      "pojistné plnění",
       "pojištění zákonné odpovědnosti",
+      "pojistné",
+      "pojistné plnění",
       "úvěrová instituce"
     ]
   },
@@ -306,7 +299,6 @@
       "ekonomická analýza",
       "finanční trh",
       "kapitálový trh",
-      "úvìrové hodnocení",
       "úvěrové hodnocení"
     ]
   },
@@ -336,7 +328,6 @@
       "ekonomická analýza",
       "finanční trh",
       "kapitálový trh",
-      "úvìrové hodnocení",
       "úvěrové hodnocení"
     ]
   },
@@ -368,13 +359,11 @@
     },
     "temata": [
       "Bankovnictví",
-      "Evropská centrální banka",
       "Evropská unie /EU/",
       "centrální banka",
-      "mėnová politika",
-      "měnová politika",
       "činnost orgánů",
-      "činnost orgánų"
+      "Evropská centrální banka",
+      "měnová politika"
     ]
   },
   {
@@ -414,16 +403,13 @@
       "not_logged": 61
     },
     "temata": [
-      "Pracovní síla",
       "Zaměstnanost",
-      "boj proti nezamėstnanosti",
+      "Pracovní síla",
       "boj proti nezaměstnanosti",
-      "hájené zamėstnání",
       "hájené zaměstnání",
       "mzda",
       "naturální mzda",
       "politika zaměstnanosti",
-      "zamìstnavatel",
       "zaměstnavatel",
       "zdravotně postižený pracovník"
     ]
@@ -471,7 +457,6 @@
       "chudoba",
       "sociální dávky",
       "výživa",
-      "základní ivotní potøeby",
       "základní životní potřeby",
       "životní minimum"
     ]
@@ -654,7 +639,6 @@
     },
     "temata": [
       "pracovní podmínky",
-      "skončení pracovního pomėru",
       "skončení pracovního poměru",
       "veřejná hygiena",
       "zdravotnické povolání",
@@ -676,7 +660,6 @@
     },
     "temata": [
       "pracovní podmínky",
-      "skončení pracovního pomėru",
       "skončení pracovního poměru",
       "veřejná hygiena",
       "zdravotnické povolání",
@@ -705,13 +688,12 @@
       "Občan",
       "Státní správa a justice",
       "Zdravotnictví",
+      "Životní prostředí",
       "letadlo",
       "letecká doprava",
       "obchodovatelné emisní povolení",
       "skleníkový plyn",
-      "sniování plynných emisí",
-      "snižování plynných emisí",
-      "Životní prostředí"
+      "snižování plynných emisí"
     ]
   },
   {
@@ -735,13 +717,12 @@
       "Občan",
       "Státní správa a justice",
       "Zdravotnictví",
+      "Životní prostředí",
       "letadlo",
       "letecká doprava",
       "obchodovatelné emisní povolení",
       "skleníkový plyn",
-      "sniování plynných emisí",
-      "snižování plynných emisí",
-      "Životní prostředí"
+      "snižování plynných emisí"
     ]
   },
   {
@@ -765,13 +746,12 @@
       "Občan",
       "Státní správa a justice",
       "Zdravotnictví",
+      "Životní prostředí",
       "letadlo",
       "letecká doprava",
       "obchodovatelné emisní povolení",
       "skleníkový plyn",
-      "sniování plynných emisí",
-      "snižování plynných emisí",
-      "Životní prostředí"
+      "snižování plynných emisí"
     ]
   },
   {
@@ -795,13 +775,12 @@
       "Občan",
       "Státní správa a justice",
       "Zdravotnictví",
+      "Životní prostředí",
       "letadlo",
       "letecká doprava",
       "obchodovatelné emisní povolení",
       "skleníkový plyn",
-      "sniování plynných emisí",
-      "snižování plynných emisí",
-      "Životní prostředí"
+      "snižování plynných emisí"
     ]
   },
   {
@@ -825,13 +804,12 @@
       "Občan",
       "Státní správa a justice",
       "Zdravotnictví",
+      "Životní prostředí",
       "letadlo",
       "letecká doprava",
       "obchodovatelné emisní povolení",
       "skleníkový plyn",
-      "sniování plynných emisí",
-      "snižování plynných emisí",
-      "Životní prostředí"
+      "snižování plynných emisí"
     ]
   },
   {
@@ -855,13 +833,12 @@
       "Občan",
       "Státní správa a justice",
       "Zdravotnictví",
+      "Životní prostředí",
       "letadlo",
       "letecká doprava",
       "obchodovatelné emisní povolení",
       "skleníkový plyn",
-      "sniování plynných emisí",
-      "snižování plynných emisí",
-      "Životní prostředí"
+      "snižování plynných emisí"
     ]
   },
   {
@@ -943,13 +920,12 @@
       "Občan",
       "Státní správa a justice",
       "Zdravotnictví",
+      "Životní prostředí",
       "letadlo",
       "letecká doprava",
       "obchodovatelné emisní povolení",
       "skleníkový plyn",
-      "sniování plynných emisí",
-      "snižování plynných emisí",
-      "Životní prostředí"
+      "snižování plynných emisí"
     ]
   },
   {
@@ -1495,16 +1471,14 @@
     },
     "temata": [
       "Doprava",
-      "Doprava a spoje",
       "Evropská unie /EU/",
-      "Funkcionáøi Poslanecké snėmovny",
       "Funkcionáři Poslanecké sněmovny",
+      "Obchod a služby",
+      "Doprava a spoje",
       "Mezinárodní styky",
       "Národní hospodářství",
-      "Obchod a služby",
       "Občan",
       "Státní správa a justice",
-      "cestující veøejnost",
       "cestující veřejnost",
       "dopravní infrastruktura",
       "osobní doprava",
@@ -1527,16 +1501,14 @@
     },
     "temata": [
       "Doprava",
-      "Doprava a spoje",
       "Evropská unie /EU/",
-      "Funkcionáøi Poslanecké snėmovny",
       "Funkcionáři Poslanecké sněmovny",
+      "Obchod a služby",
+      "Doprava a spoje",
       "Mezinárodní styky",
       "Národní hospodářství",
-      "Obchod a služby",
       "Občan",
       "Státní správa a justice",
-      "cestující veøejnost",
       "cestující veřejnost",
       "dopravní infrastruktura",
       "osobní doprava",
@@ -1937,14 +1909,13 @@
       "not_logged": 39
     },
     "temata": [
-      "Informační služby",
       "Majetek České republiky",
-      "Národní hospodářství",
-      "Pardubický",
-      "Pøevody vlastnictví",
       "Převody vlastnictví",
-      "Státní správa a justice",
       "Vyšší územní samosprávné celky (VÚSC)",
+      "Informační služby",
+      "Národní hospodářství",
+      "Státní správa a justice",
+      "Pardubický",
       "převod vlastnictví",
       "veřejný majetek"
     ]
@@ -2661,22 +2632,21 @@
     },
     "temata": [
       "Evropská unie /EU/",
+      "Zbraně",
       "Informační služby",
       "Mezinárodní styky",
       "Národní hospodářství",
-      "Obrana a bezpečnost",
       "Občan",
-      "Zbraně",
+      "Obrana a bezpečnost",
       "kontrola dovozu",
       "kontrola vývozu",
       "nebezpečná látka",
       "ohňostroj",
-      "ohōostroj",
       "osobní zbraň",
+      "řízení výroby",
       "střelná zbraň a střelivo",
-      "výbušnina",
       "úrazová prevence",
-      "řízení výroby"
+      "výbušnina"
     ]
   },
   {
@@ -2987,21 +2957,19 @@
     "temata": [
       "Evropská unie /EU/",
       "Katastr",
-      "Pøestupky",
       "Přestupky",
+      "Vodohospodářství",
       "Státní správa a justice",
       "Těžba a výroba",
-      "Vodohospodářství",
       "Zdravotnictví",
+      "Životní prostředí",
       "ochrana vod",
       "odpadní voda",
       "pitná voda",
       "povodeň",
       "voda",
       "vodní zdroje",
-      "vyuití vody",
-      "využití vody",
-      "Životní prostředí"
+      "využití vody"
     ]
   },
   {
@@ -3019,21 +2987,19 @@
     "temata": [
       "Evropská unie /EU/",
       "Katastr",
-      "Pøestupky",
       "Přestupky",
+      "Vodohospodářství",
       "Státní správa a justice",
       "Těžba a výroba",
-      "Vodohospodářství",
       "Zdravotnictví",
+      "Životní prostředí",
       "ochrana vod",
       "odpadní voda",
       "pitná voda",
       "povodeň",
       "voda",
       "vodní zdroje",
-      "vyuití vody",
-      "využití vody",
-      "Životní prostředí"
+      "využití vody"
     ]
   },
   {
@@ -3051,21 +3017,19 @@
     "temata": [
       "Evropská unie /EU/",
       "Katastr",
-      "Pøestupky",
       "Přestupky",
+      "Vodohospodářství",
       "Státní správa a justice",
       "Těžba a výroba",
-      "Vodohospodářství",
       "Zdravotnictví",
+      "Životní prostředí",
       "ochrana vod",
       "odpadní voda",
       "pitná voda",
       "povodeň",
       "voda",
       "vodní zdroje",
-      "vyuití vody",
-      "využití vody",
-      "Životní prostředí"
+      "využití vody"
     ]
   },
   {
@@ -3083,21 +3047,19 @@
     "temata": [
       "Evropská unie /EU/",
       "Katastr",
-      "Pøestupky",
       "Přestupky",
+      "Vodohospodářství",
       "Státní správa a justice",
       "Těžba a výroba",
-      "Vodohospodářství",
       "Zdravotnictví",
+      "Životní prostředí",
       "ochrana vod",
       "odpadní voda",
       "pitná voda",
       "povodeň",
       "voda",
       "vodní zdroje",
-      "vyuití vody",
-      "využití vody",
-      "Životní prostředí"
+      "využití vody"
     ]
   },
   {
@@ -3115,21 +3077,19 @@
     "temata": [
       "Evropská unie /EU/",
       "Katastr",
-      "Pøestupky",
       "Přestupky",
+      "Vodohospodářství",
       "Státní správa a justice",
       "Těžba a výroba",
-      "Vodohospodářství",
       "Zdravotnictví",
+      "Životní prostředí",
       "ochrana vod",
       "odpadní voda",
       "pitná voda",
       "povodeň",
       "voda",
       "vodní zdroje",
-      "vyuití vody",
-      "využití vody",
-      "Životní prostředí"
+      "využití vody"
     ]
   },
   {
@@ -3147,21 +3107,19 @@
     "temata": [
       "Evropská unie /EU/",
       "Katastr",
-      "Pøestupky",
       "Přestupky",
+      "Vodohospodářství",
       "Státní správa a justice",
       "Těžba a výroba",
-      "Vodohospodářství",
       "Zdravotnictví",
+      "Životní prostředí",
       "ochrana vod",
       "odpadní voda",
       "pitná voda",
       "povodeň",
       "voda",
       "vodní zdroje",
-      "vyuití vody",
-      "využití vody",
-      "Životní prostředí"
+      "využití vody"
     ]
   },
   {
@@ -3179,21 +3137,19 @@
     "temata": [
       "Evropská unie /EU/",
       "Katastr",
-      "Pøestupky",
       "Přestupky",
+      "Vodohospodářství",
       "Státní správa a justice",
       "Těžba a výroba",
-      "Vodohospodářství",
       "Zdravotnictví",
+      "Životní prostředí",
       "ochrana vod",
       "odpadní voda",
       "pitná voda",
       "povodeň",
       "voda",
       "vodní zdroje",
-      "vyuití vody",
-      "využití vody",
-      "Životní prostředí"
+      "využití vody"
     ]
   },
   {
@@ -3211,21 +3167,19 @@
     "temata": [
       "Evropská unie /EU/",
       "Katastr",
-      "Pøestupky",
       "Přestupky",
+      "Vodohospodářství",
       "Státní správa a justice",
       "Těžba a výroba",
-      "Vodohospodářství",
       "Zdravotnictví",
+      "Životní prostředí",
       "ochrana vod",
       "odpadní voda",
       "pitná voda",
       "povodeň",
       "voda",
       "vodní zdroje",
-      "vyuití vody",
-      "využití vody",
-      "Životní prostředí"
+      "využití vody"
     ]
   },
   {
@@ -3243,21 +3197,19 @@
     "temata": [
       "Evropská unie /EU/",
       "Katastr",
-      "Pøestupky",
       "Přestupky",
+      "Vodohospodářství",
       "Státní správa a justice",
       "Těžba a výroba",
-      "Vodohospodářství",
       "Zdravotnictví",
+      "Životní prostředí",
       "ochrana vod",
       "odpadní voda",
       "pitná voda",
       "povodeň",
       "voda",
       "vodní zdroje",
-      "vyuití vody",
-      "využití vody",
-      "Životní prostředí"
+      "využití vody"
     ]
   },
   {
@@ -3275,21 +3227,19 @@
     "temata": [
       "Evropská unie /EU/",
       "Katastr",
-      "Pøestupky",
       "Přestupky",
+      "Vodohospodářství",
       "Státní správa a justice",
       "Těžba a výroba",
-      "Vodohospodářství",
       "Zdravotnictví",
+      "Životní prostředí",
       "ochrana vod",
       "odpadní voda",
       "pitná voda",
       "povodeň",
       "voda",
       "vodní zdroje",
-      "vyuití vody",
-      "využití vody",
-      "Životní prostředí"
+      "využití vody"
     ]
   },
   {
@@ -3307,21 +3257,19 @@
     "temata": [
       "Evropská unie /EU/",
       "Katastr",
-      "Pøestupky",
       "Přestupky",
+      "Vodohospodářství",
       "Státní správa a justice",
       "Těžba a výroba",
-      "Vodohospodářství",
       "Zdravotnictví",
+      "Životní prostředí",
       "ochrana vod",
       "odpadní voda",
       "pitná voda",
       "povodeň",
       "voda",
       "vodní zdroje",
-      "vyuití vody",
-      "využití vody",
-      "Životní prostředí"
+      "využití vody"
     ]
   },
   {
@@ -3339,21 +3287,19 @@
     "temata": [
       "Evropská unie /EU/",
       "Katastr",
-      "Pøestupky",
       "Přestupky",
+      "Vodohospodářství",
       "Státní správa a justice",
       "Těžba a výroba",
-      "Vodohospodářství",
       "Zdravotnictví",
+      "Životní prostředí",
       "ochrana vod",
       "odpadní voda",
       "pitná voda",
       "povodeň",
       "voda",
       "vodní zdroje",
-      "vyuití vody",
-      "využití vody",
-      "Životní prostředí"
+      "využití vody"
     ]
   },
   {
@@ -3371,21 +3317,19 @@
     "temata": [
       "Evropská unie /EU/",
       "Katastr",
-      "Pøestupky",
       "Přestupky",
+      "Vodohospodářství",
       "Státní správa a justice",
       "Těžba a výroba",
-      "Vodohospodářství",
       "Zdravotnictví",
+      "Životní prostředí",
       "ochrana vod",
       "odpadní voda",
       "pitná voda",
       "povodeň",
       "voda",
       "vodní zdroje",
-      "vyuití vody",
-      "využití vody",
-      "Životní prostředí"
+      "využití vody"
     ]
   },
   {
@@ -3403,21 +3347,19 @@
     "temata": [
       "Evropská unie /EU/",
       "Katastr",
-      "Pøestupky",
       "Přestupky",
+      "Vodohospodářství",
       "Státní správa a justice",
       "Těžba a výroba",
-      "Vodohospodářství",
       "Zdravotnictví",
+      "Životní prostředí",
       "ochrana vod",
       "odpadní voda",
       "pitná voda",
       "povodeň",
       "voda",
       "vodní zdroje",
-      "vyuití vody",
-      "využití vody",
-      "Životní prostředí"
+      "využití vody"
     ]
   },
   {
@@ -3435,21 +3377,19 @@
     "temata": [
       "Evropská unie /EU/",
       "Katastr",
-      "Pøestupky",
       "Přestupky",
+      "Vodohospodářství",
       "Státní správa a justice",
       "Těžba a výroba",
-      "Vodohospodářství",
       "Zdravotnictví",
+      "Životní prostředí",
       "ochrana vod",
       "odpadní voda",
       "pitná voda",
       "povodeň",
       "voda",
       "vodní zdroje",
-      "vyuití vody",
-      "využití vody",
-      "Životní prostředí"
+      "využití vody"
     ]
   },
   {
@@ -3467,21 +3407,19 @@
     "temata": [
       "Evropská unie /EU/",
       "Katastr",
-      "Pøestupky",
       "Přestupky",
+      "Vodohospodářství",
       "Státní správa a justice",
       "Těžba a výroba",
-      "Vodohospodářství",
       "Zdravotnictví",
+      "Životní prostředí",
       "ochrana vod",
       "odpadní voda",
       "pitná voda",
       "povodeň",
       "voda",
       "vodní zdroje",
-      "vyuití vody",
-      "využití vody",
-      "Životní prostředí"
+      "využití vody"
     ]
   },
   {
@@ -3499,21 +3437,19 @@
     "temata": [
       "Evropská unie /EU/",
       "Katastr",
-      "Pøestupky",
       "Přestupky",
+      "Vodohospodářství",
       "Státní správa a justice",
       "Těžba a výroba",
-      "Vodohospodářství",
       "Zdravotnictví",
+      "Životní prostředí",
       "ochrana vod",
       "odpadní voda",
       "pitná voda",
       "povodeň",
       "voda",
       "vodní zdroje",
-      "vyuití vody",
-      "využití vody",
-      "Životní prostředí"
+      "využití vody"
     ]
   },
   {
@@ -3531,21 +3467,19 @@
     "temata": [
       "Evropská unie /EU/",
       "Katastr",
-      "Pøestupky",
       "Přestupky",
+      "Vodohospodářství",
       "Státní správa a justice",
       "Těžba a výroba",
-      "Vodohospodářství",
       "Zdravotnictví",
+      "Životní prostředí",
       "ochrana vod",
       "odpadní voda",
       "pitná voda",
       "povodeň",
       "voda",
       "vodní zdroje",
-      "vyuití vody",
-      "využití vody",
-      "Životní prostředí"
+      "využití vody"
     ]
   },
   {
@@ -3563,21 +3497,19 @@
     "temata": [
       "Evropská unie /EU/",
       "Katastr",
-      "Pøestupky",
       "Přestupky",
+      "Vodohospodářství",
       "Státní správa a justice",
       "Těžba a výroba",
-      "Vodohospodářství",
       "Zdravotnictví",
+      "Životní prostředí",
       "ochrana vod",
       "odpadní voda",
       "pitná voda",
       "povodeň",
       "voda",
       "vodní zdroje",
-      "vyuití vody",
-      "využití vody",
-      "Životní prostředí"
+      "využití vody"
     ]
   },
   {
@@ -3595,21 +3527,19 @@
     "temata": [
       "Evropská unie /EU/",
       "Katastr",
-      "Pøestupky",
       "Přestupky",
+      "Vodohospodářství",
       "Státní správa a justice",
       "Těžba a výroba",
-      "Vodohospodářství",
       "Zdravotnictví",
+      "Životní prostředí",
       "ochrana vod",
       "odpadní voda",
       "pitná voda",
       "povodeň",
       "voda",
       "vodní zdroje",
-      "vyuití vody",
-      "využití vody",
-      "Životní prostředí"
+      "využití vody"
     ]
   },
   {
@@ -3627,21 +3557,19 @@
     "temata": [
       "Evropská unie /EU/",
       "Katastr",
-      "Pøestupky",
       "Přestupky",
+      "Vodohospodářství",
       "Státní správa a justice",
       "Těžba a výroba",
-      "Vodohospodářství",
       "Zdravotnictví",
+      "Životní prostředí",
       "ochrana vod",
       "odpadní voda",
       "pitná voda",
       "povodeň",
       "voda",
       "vodní zdroje",
-      "vyuití vody",
-      "využití vody",
-      "Životní prostředí"
+      "využití vody"
     ]
   },
   {
@@ -3659,21 +3587,19 @@
     "temata": [
       "Evropská unie /EU/",
       "Katastr",
-      "Pøestupky",
       "Přestupky",
+      "Vodohospodářství",
       "Státní správa a justice",
       "Těžba a výroba",
-      "Vodohospodářství",
       "Zdravotnictví",
+      "Životní prostředí",
       "ochrana vod",
       "odpadní voda",
       "pitná voda",
       "povodeň",
       "voda",
       "vodní zdroje",
-      "vyuití vody",
-      "využití vody",
-      "Životní prostředí"
+      "využití vody"
     ]
   },
   {
@@ -3691,21 +3617,19 @@
     "temata": [
       "Evropská unie /EU/",
       "Katastr",
-      "Pøestupky",
       "Přestupky",
+      "Vodohospodářství",
       "Státní správa a justice",
       "Těžba a výroba",
-      "Vodohospodářství",
       "Zdravotnictví",
+      "Životní prostředí",
       "ochrana vod",
       "odpadní voda",
       "pitná voda",
       "povodeň",
       "voda",
       "vodní zdroje",
-      "vyuití vody",
-      "využití vody",
-      "Životní prostředí"
+      "využití vody"
     ]
   },
   {
@@ -3723,21 +3647,19 @@
     "temata": [
       "Evropská unie /EU/",
       "Katastr",
-      "Pøestupky",
       "Přestupky",
+      "Vodohospodářství",
       "Státní správa a justice",
       "Těžba a výroba",
-      "Vodohospodářství",
       "Zdravotnictví",
+      "Životní prostředí",
       "ochrana vod",
       "odpadní voda",
       "pitná voda",
       "povodeň",
       "voda",
       "vodní zdroje",
-      "vyuití vody",
-      "využití vody",
-      "Životní prostředí"
+      "využití vody"
     ]
   },
   {
@@ -3755,21 +3677,19 @@
     "temata": [
       "Evropská unie /EU/",
       "Katastr",
-      "Pøestupky",
       "Přestupky",
+      "Vodohospodářství",
       "Státní správa a justice",
       "Těžba a výroba",
-      "Vodohospodářství",
       "Zdravotnictví",
+      "Životní prostředí",
       "ochrana vod",
       "odpadní voda",
       "pitná voda",
       "povodeň",
       "voda",
       "vodní zdroje",
-      "vyuití vody",
-      "využití vody",
-      "Životní prostředí"
+      "využití vody"
     ]
   },
   {
@@ -3787,21 +3707,19 @@
     "temata": [
       "Evropská unie /EU/",
       "Katastr",
-      "Pøestupky",
       "Přestupky",
+      "Vodohospodářství",
       "Státní správa a justice",
       "Těžba a výroba",
-      "Vodohospodářství",
       "Zdravotnictví",
+      "Životní prostředí",
       "ochrana vod",
       "odpadní voda",
       "pitná voda",
       "povodeň",
       "voda",
       "vodní zdroje",
-      "vyuití vody",
-      "využití vody",
-      "Životní prostředí"
+      "využití vody"
     ]
   },
   {
@@ -3819,21 +3737,19 @@
     "temata": [
       "Evropská unie /EU/",
       "Katastr",
-      "Pøestupky",
       "Přestupky",
+      "Vodohospodářství",
       "Státní správa a justice",
       "Těžba a výroba",
-      "Vodohospodářství",
       "Zdravotnictví",
+      "Životní prostředí",
       "ochrana vod",
       "odpadní voda",
       "pitná voda",
       "povodeň",
       "voda",
       "vodní zdroje",
-      "vyuití vody",
-      "využití vody",
-      "Životní prostředí"
+      "využití vody"
     ]
   },
   {
@@ -3851,21 +3767,19 @@
     "temata": [
       "Evropská unie /EU/",
       "Katastr",
-      "Pøestupky",
       "Přestupky",
+      "Vodohospodářství",
       "Státní správa a justice",
       "Těžba a výroba",
-      "Vodohospodářství",
       "Zdravotnictví",
+      "Životní prostředí",
       "ochrana vod",
       "odpadní voda",
       "pitná voda",
       "povodeň",
       "voda",
       "vodní zdroje",
-      "vyuití vody",
-      "využití vody",
-      "Životní prostředí"
+      "využití vody"
     ]
   },
   {
@@ -3883,21 +3797,19 @@
     "temata": [
       "Evropská unie /EU/",
       "Katastr",
-      "Pøestupky",
       "Přestupky",
+      "Vodohospodářství",
       "Státní správa a justice",
       "Těžba a výroba",
-      "Vodohospodářství",
       "Zdravotnictví",
+      "Životní prostředí",
       "ochrana vod",
       "odpadní voda",
       "pitná voda",
       "povodeň",
       "voda",
       "vodní zdroje",
-      "vyuití vody",
-      "využití vody",
-      "Životní prostředí"
+      "využití vody"
     ]
   },
   {
@@ -3915,21 +3827,19 @@
     "temata": [
       "Evropská unie /EU/",
       "Katastr",
-      "Pøestupky",
       "Přestupky",
+      "Vodohospodářství",
       "Státní správa a justice",
       "Těžba a výroba",
-      "Vodohospodářství",
       "Zdravotnictví",
+      "Životní prostředí",
       "ochrana vod",
       "odpadní voda",
       "pitná voda",
       "povodeň",
       "voda",
       "vodní zdroje",
-      "vyuití vody",
-      "využití vody",
-      "Životní prostředí"
+      "využití vody"
     ]
   },
   {
@@ -3947,21 +3857,19 @@
     "temata": [
       "Evropská unie /EU/",
       "Katastr",
-      "Pøestupky",
       "Přestupky",
+      "Vodohospodářství",
       "Státní správa a justice",
       "Těžba a výroba",
-      "Vodohospodářství",
       "Zdravotnictví",
+      "Životní prostředí",
       "ochrana vod",
       "odpadní voda",
       "pitná voda",
       "povodeň",
       "voda",
       "vodní zdroje",
-      "vyuití vody",
-      "využití vody",
-      "Životní prostředí"
+      "využití vody"
     ]
   },
   {
@@ -3979,21 +3887,19 @@
     "temata": [
       "Evropská unie /EU/",
       "Katastr",
-      "Pøestupky",
       "Přestupky",
+      "Vodohospodářství",
       "Státní správa a justice",
       "Těžba a výroba",
-      "Vodohospodářství",
       "Zdravotnictví",
+      "Životní prostředí",
       "ochrana vod",
       "odpadní voda",
       "pitná voda",
       "povodeň",
       "voda",
       "vodní zdroje",
-      "vyuití vody",
-      "využití vody",
-      "Životní prostředí"
+      "využití vody"
     ]
   },
   {
@@ -4011,21 +3917,19 @@
     "temata": [
       "Evropská unie /EU/",
       "Katastr",
-      "Pøestupky",
       "Přestupky",
+      "Vodohospodářství",
       "Státní správa a justice",
       "Těžba a výroba",
-      "Vodohospodářství",
       "Zdravotnictví",
+      "Životní prostředí",
       "ochrana vod",
       "odpadní voda",
       "pitná voda",
       "povodeň",
       "voda",
       "vodní zdroje",
-      "vyuití vody",
-      "využití vody",
-      "Životní prostředí"
+      "využití vody"
     ]
   },
   {
@@ -4043,21 +3947,19 @@
     "temata": [
       "Evropská unie /EU/",
       "Katastr",
-      "Pøestupky",
       "Přestupky",
+      "Vodohospodářství",
       "Státní správa a justice",
       "Těžba a výroba",
-      "Vodohospodářství",
       "Zdravotnictví",
+      "Životní prostředí",
       "ochrana vod",
       "odpadní voda",
       "pitná voda",
       "povodeň",
       "voda",
       "vodní zdroje",
-      "vyuití vody",
-      "využití vody",
-      "Životní prostředí"
+      "využití vody"
     ]
   },
   {
@@ -4075,21 +3977,19 @@
     "temata": [
       "Evropská unie /EU/",
       "Katastr",
-      "Pøestupky",
       "Přestupky",
+      "Vodohospodářství",
       "Státní správa a justice",
       "Těžba a výroba",
-      "Vodohospodářství",
       "Zdravotnictví",
+      "Životní prostředí",
       "ochrana vod",
       "odpadní voda",
       "pitná voda",
       "povodeň",
       "voda",
       "vodní zdroje",
-      "vyuití vody",
-      "využití vody",
-      "Životní prostředí"
+      "využití vody"
     ]
   },
   {
@@ -4107,21 +4007,19 @@
     "temata": [
       "Evropská unie /EU/",
       "Katastr",
-      "Pøestupky",
       "Přestupky",
+      "Vodohospodářství",
       "Státní správa a justice",
       "Těžba a výroba",
-      "Vodohospodářství",
       "Zdravotnictví",
+      "Životní prostředí",
       "ochrana vod",
       "odpadní voda",
       "pitná voda",
       "povodeň",
       "voda",
       "vodní zdroje",
-      "vyuití vody",
-      "využití vody",
-      "Životní prostředí"
+      "využití vody"
     ]
   },
   {
@@ -4139,21 +4037,19 @@
     "temata": [
       "Evropská unie /EU/",
       "Katastr",
-      "Pøestupky",
       "Přestupky",
+      "Vodohospodářství",
       "Státní správa a justice",
       "Těžba a výroba",
-      "Vodohospodářství",
       "Zdravotnictví",
+      "Životní prostředí",
       "ochrana vod",
       "odpadní voda",
       "pitná voda",
       "povodeň",
       "voda",
       "vodní zdroje",
-      "vyuití vody",
-      "využití vody",
-      "Životní prostředí"
+      "využití vody"
     ]
   },
   {
@@ -4171,21 +4067,19 @@
     "temata": [
       "Evropská unie /EU/",
       "Katastr",
-      "Pøestupky",
       "Přestupky",
+      "Vodohospodářství",
       "Státní správa a justice",
       "Těžba a výroba",
-      "Vodohospodářství",
       "Zdravotnictví",
+      "Životní prostředí",
       "ochrana vod",
       "odpadní voda",
       "pitná voda",
       "povodeň",
       "voda",
       "vodní zdroje",
-      "vyuití vody",
-      "využití vody",
-      "Životní prostředí"
+      "využití vody"
     ]
   },
   {
@@ -4203,21 +4097,19 @@
     "temata": [
       "Evropská unie /EU/",
       "Katastr",
-      "Pøestupky",
       "Přestupky",
+      "Vodohospodářství",
       "Státní správa a justice",
       "Těžba a výroba",
-      "Vodohospodářství",
       "Zdravotnictví",
+      "Životní prostředí",
       "ochrana vod",
       "odpadní voda",
       "pitná voda",
       "povodeň",
       "voda",
       "vodní zdroje",
-      "vyuití vody",
-      "využití vody",
-      "Životní prostředí"
+      "využití vody"
     ]
   },
   {
@@ -4235,21 +4127,19 @@
     "temata": [
       "Evropská unie /EU/",
       "Katastr",
-      "Pøestupky",
       "Přestupky",
+      "Vodohospodářství",
       "Státní správa a justice",
       "Těžba a výroba",
-      "Vodohospodářství",
       "Zdravotnictví",
+      "Životní prostředí",
       "ochrana vod",
       "odpadní voda",
       "pitná voda",
       "povodeň",
       "voda",
       "vodní zdroje",
-      "vyuití vody",
-      "využití vody",
-      "Životní prostředí"
+      "využití vody"
     ]
   },
   {
@@ -4267,21 +4157,19 @@
     "temata": [
       "Evropská unie /EU/",
       "Katastr",
-      "Pøestupky",
       "Přestupky",
+      "Vodohospodářství",
       "Státní správa a justice",
       "Těžba a výroba",
-      "Vodohospodářství",
       "Zdravotnictví",
+      "Životní prostředí",
       "ochrana vod",
       "odpadní voda",
       "pitná voda",
       "povodeň",
       "voda",
       "vodní zdroje",
-      "vyuití vody",
-      "využití vody",
-      "Životní prostředí"
+      "využití vody"
     ]
   },
   {
@@ -4299,21 +4187,19 @@
     "temata": [
       "Evropská unie /EU/",
       "Katastr",
-      "Pøestupky",
       "Přestupky",
+      "Vodohospodářství",
       "Státní správa a justice",
       "Těžba a výroba",
-      "Vodohospodářství",
       "Zdravotnictví",
+      "Životní prostředí",
       "ochrana vod",
       "odpadní voda",
       "pitná voda",
       "povodeň",
       "voda",
       "vodní zdroje",
-      "vyuití vody",
-      "využití vody",
-      "Životní prostředí"
+      "využití vody"
     ]
   },
   {
@@ -4331,21 +4217,19 @@
     "temata": [
       "Evropská unie /EU/",
       "Katastr",
-      "Pøestupky",
       "Přestupky",
+      "Vodohospodářství",
       "Státní správa a justice",
       "Těžba a výroba",
-      "Vodohospodářství",
       "Zdravotnictví",
+      "Životní prostředí",
       "ochrana vod",
       "odpadní voda",
       "pitná voda",
       "povodeň",
       "voda",
       "vodní zdroje",
-      "vyuití vody",
-      "využití vody",
-      "Životní prostředí"
+      "využití vody"
     ]
   },
   {
@@ -4363,21 +4247,19 @@
     "temata": [
       "Evropská unie /EU/",
       "Katastr",
-      "Pøestupky",
       "Přestupky",
+      "Vodohospodářství",
       "Státní správa a justice",
       "Těžba a výroba",
-      "Vodohospodářství",
       "Zdravotnictví",
+      "Životní prostředí",
       "ochrana vod",
       "odpadní voda",
       "pitná voda",
       "povodeň",
       "voda",
       "vodní zdroje",
-      "vyuití vody",
-      "využití vody",
-      "Životní prostředí"
+      "využití vody"
     ]
   },
   {
@@ -4395,21 +4277,19 @@
     "temata": [
       "Evropská unie /EU/",
       "Katastr",
-      "Pøestupky",
       "Přestupky",
+      "Vodohospodářství",
       "Státní správa a justice",
       "Těžba a výroba",
-      "Vodohospodářství",
       "Zdravotnictví",
+      "Životní prostředí",
       "ochrana vod",
       "odpadní voda",
       "pitná voda",
       "povodeň",
       "voda",
       "vodní zdroje",
-      "vyuití vody",
-      "využití vody",
-      "Životní prostředí"
+      "využití vody"
     ]
   },
   {
@@ -4427,21 +4307,19 @@
     "temata": [
       "Evropská unie /EU/",
       "Katastr",
-      "Pøestupky",
       "Přestupky",
+      "Vodohospodářství",
       "Státní správa a justice",
       "Těžba a výroba",
-      "Vodohospodářství",
       "Zdravotnictví",
+      "Životní prostředí",
       "ochrana vod",
       "odpadní voda",
       "pitná voda",
       "povodeň",
       "voda",
       "vodní zdroje",
-      "vyuití vody",
-      "využití vody",
-      "Životní prostředí"
+      "využití vody"
     ]
   },
   {
@@ -4459,21 +4337,19 @@
     "temata": [
       "Evropská unie /EU/",
       "Katastr",
-      "Pøestupky",
       "Přestupky",
+      "Vodohospodářství",
       "Státní správa a justice",
       "Těžba a výroba",
-      "Vodohospodářství",
       "Zdravotnictví",
+      "Životní prostředí",
       "ochrana vod",
       "odpadní voda",
       "pitná voda",
       "povodeň",
       "voda",
       "vodní zdroje",
-      "vyuití vody",
-      "využití vody",
-      "Životní prostředí"
+      "využití vody"
     ]
   },
   {
@@ -4491,21 +4367,19 @@
     "temata": [
       "Evropská unie /EU/",
       "Katastr",
-      "Pøestupky",
       "Přestupky",
+      "Vodohospodářství",
       "Státní správa a justice",
       "Těžba a výroba",
-      "Vodohospodářství",
       "Zdravotnictví",
+      "Životní prostředí",
       "ochrana vod",
       "odpadní voda",
       "pitná voda",
       "povodeň",
       "voda",
       "vodní zdroje",
-      "vyuití vody",
-      "využití vody",
-      "Životní prostředí"
+      "využití vody"
     ]
   },
   {
@@ -4523,21 +4397,19 @@
     "temata": [
       "Evropská unie /EU/",
       "Katastr",
-      "Pøestupky",
       "Přestupky",
+      "Vodohospodářství",
       "Státní správa a justice",
       "Těžba a výroba",
-      "Vodohospodářství",
       "Zdravotnictví",
+      "Životní prostředí",
       "ochrana vod",
       "odpadní voda",
       "pitná voda",
       "povodeň",
       "voda",
       "vodní zdroje",
-      "vyuití vody",
-      "využití vody",
-      "Životní prostředí"
+      "využití vody"
     ]
   },
   {
@@ -4555,21 +4427,19 @@
     "temata": [
       "Evropská unie /EU/",
       "Katastr",
-      "Pøestupky",
       "Přestupky",
+      "Vodohospodářství",
       "Státní správa a justice",
       "Těžba a výroba",
-      "Vodohospodářství",
       "Zdravotnictví",
+      "Životní prostředí",
       "ochrana vod",
       "odpadní voda",
       "pitná voda",
       "povodeň",
       "voda",
       "vodní zdroje",
-      "vyuití vody",
-      "využití vody",
-      "Životní prostředí"
+      "využití vody"
     ]
   },
   {
@@ -4587,21 +4457,19 @@
     "temata": [
       "Evropská unie /EU/",
       "Katastr",
-      "Pøestupky",
       "Přestupky",
+      "Vodohospodářství",
       "Státní správa a justice",
       "Těžba a výroba",
-      "Vodohospodářství",
       "Zdravotnictví",
+      "Životní prostředí",
       "ochrana vod",
       "odpadní voda",
       "pitná voda",
       "povodeň",
       "voda",
       "vodní zdroje",
-      "vyuití vody",
-      "využití vody",
-      "Životní prostředí"
+      "využití vody"
     ]
   },
   {
@@ -5113,13 +4981,12 @@
       "not_logged": 24
     },
     "temata": [
+      "Školství",
       "Národní hospodářství",
       "Pracovní síla",
       "odborná kvalifikace",
       "průběžná profesní příprava",
-      "prųbėná profesní pøíprava",
-      "učitel",
-      "Školství"
+      "učitel"
     ]
   },
   {
@@ -5191,13 +5058,12 @@
       "Občan",
       "Státní správa a justice",
       "Zdravotnictví",
+      "Životní prostředí",
       "letadlo",
       "letecká doprava",
       "obchodovatelné emisní povolení",
       "skleníkový plyn",
-      "sniování plynných emisí",
-      "snižování plynných emisí",
-      "Životní prostředí"
+      "snižování plynných emisí"
     ]
   },
   {
@@ -5237,17 +5103,16 @@
       "not_logged": 42
     },
     "temata": [
+      "Pozemkový fond",
       "Informační služby",
       "Národní hospodářství",
       "Občan",
-      "Pozemkový fond",
       "Státní správa a justice",
       "Těžba a výroba",
       "nemovitost",
       "pozemková reforma",
-      "privatizace",
-      "pùda ve vlastnictví státu",
       "převod vlastnictví",
+      "privatizace",
       "půda ve vlastnictví státu",
       "správní celek",
       "územní management"
@@ -5526,13 +5391,11 @@
     },
     "temata": [
       "Bankovnictví",
-      "Evropská centrální banka",
       "Evropská unie /EU/",
       "centrální banka",
-      "mėnová politika",
-      "měnová politika",
       "činnost orgánů",
-      "činnost orgánų"
+      "Evropská centrální banka",
+      "měnová politika"
     ]
   },
   {
@@ -5600,15 +5463,13 @@
       "not_logged": 64
     },
     "temata": [
-      "Peněžnictví a pojišťovnictví",
       "Pojištění",
       "Poštovní služby",
-      "Pracovní síla",
-      "Zabezpeèení sociální",
       "Zabezpečení sociální",
+      "Peněžnictví a pojišťovnictví",
+      "Pracovní síla",
       "lékař",
       "lékařský posudek",
-      "potovní sazba",
       "poštovní sazba",
       "poštovní služba",
       "pracovní nezpůsobilost",
@@ -6201,10 +6062,8 @@
     },
     "temata": [
       "Pěstitelství",
-      "Sdruení občanská",
       "Sdružení občanská",
       "ovocný sad",
-      "uitková zahrada",
       "užitková zahrada",
       "zájmová skupina"
     ]
@@ -6246,15 +6105,13 @@
       "not_logged": 34
     },
     "temata": [
+      "Zákoník obchodní",
       "Národní hospodářství",
       "Občan",
-      "Zákoník obchodní",
-      "chování spotøebitele",
       "chování spotřebitele",
-      "informace pro spotøebitele",
       "informace pro spotřebitele",
-      "nekalá reklama",
       "nákupní zvyklosti",
+      "nekalá reklama",
       "ochrana spotřebitele",
       "omezování soutěže"
     ]
@@ -7037,13 +6894,12 @@
     },
     "temata": [
       "Evropská unie /EU/",
+      "Zakázky",
       "Národní hospodářství",
       "Občan",
       "Státní správa a justice",
-      "Zakázky",
       "soutěžní řízení",
       "veřejná zakázka",
-      "vypsání soutėe",
       "vypsání soutěže"
     ]
   },
@@ -7108,11 +6964,10 @@
       "not_logged": 40
     },
     "temata": [
+      "Rozpočet",
       "Mezinárodní styky",
       "Národní hospodářství",
       "Občan",
-      "Rozpočet",
-      "hospodáøská podpora",
       "hospodářská podpora",
       "investiční podpora",
       "rozpočtová pravidla",
@@ -7133,14 +6988,13 @@
       "not_logged": 43
     },
     "temata": [
-      "Informační služby",
       "Majetek České republiky",
-      "Národní hospodářství",
-      "Pardubický",
-      "Pøevody vlastnictví",
       "Převody vlastnictví",
-      "Státní správa a justice",
       "Vyšší územní samosprávné celky (VÚSC)",
+      "Informační služby",
+      "Národní hospodářství",
+      "Státní správa a justice",
+      "Pardubický",
       "převod vlastnictví",
       "veřejný majetek"
     ]
@@ -7238,14 +7092,13 @@
       "not_logged": 51
     },
     "temata": [
-      "Politika",
       "Referendum",
-      "Státní správa a justice",
       "Vyšší územní samosprávné celky (VÚSC)",
+      "Politika",
+      "Státní správa a justice",
       "kampaň na získání veřejnosti",
-      "kampaō na získání veøejnosti",
-      "obec",
       "občanská práva",
+      "obec",
       "referendum",
       "region",
       "územní samospráva"
@@ -7264,14 +7117,13 @@
       "not_logged": 50
     },
     "temata": [
-      "Politika",
       "Referendum",
-      "Státní správa a justice",
       "Vyšší územní samosprávné celky (VÚSC)",
+      "Politika",
+      "Státní správa a justice",
       "kampaň na získání veřejnosti",
-      "kampaō na získání veøejnosti",
-      "obec",
       "občanská práva",
+      "obec",
       "referendum",
       "region",
       "územní samospráva"
@@ -7290,14 +7142,13 @@
       "not_logged": 50
     },
     "temata": [
-      "Politika",
       "Referendum",
-      "Státní správa a justice",
       "Vyšší územní samosprávné celky (VÚSC)",
+      "Politika",
+      "Státní správa a justice",
       "kampaň na získání veřejnosti",
-      "kampaō na získání veøejnosti",
-      "obec",
       "občanská práva",
+      "obec",
       "referendum",
       "region",
       "územní samospráva"
@@ -7316,14 +7167,13 @@
       "not_logged": 51
     },
     "temata": [
-      "Politika",
       "Referendum",
-      "Státní správa a justice",
       "Vyšší územní samosprávné celky (VÚSC)",
+      "Politika",
+      "Státní správa a justice",
       "kampaň na získání veřejnosti",
-      "kampaō na získání veøejnosti",
-      "obec",
       "občanská práva",
+      "obec",
       "referendum",
       "region",
       "územní samospráva"
@@ -7650,14 +7500,13 @@
       "not_logged": 3
     },
     "temata": [
-      "Politika",
       "Referendum",
-      "Státní správa a justice",
       "Vyšší územní samosprávné celky (VÚSC)",
+      "Politika",
+      "Státní správa a justice",
       "kampaň na získání veřejnosti",
-      "kampaō na získání veøejnosti",
-      "obec",
       "občanská práva",
+      "obec",
       "referendum",
       "region",
       "územní samospráva"
@@ -7677,22 +7526,21 @@
     },
     "temata": [
       "Evropská unie /EU/",
+      "Zbraně",
       "Informační služby",
       "Mezinárodní styky",
       "Národní hospodářství",
-      "Obrana a bezpečnost",
       "Občan",
-      "Zbraně",
+      "Obrana a bezpečnost",
       "kontrola dovozu",
       "kontrola vývozu",
       "nebezpečná látka",
       "ohňostroj",
-      "ohōostroj",
       "osobní zbraň",
+      "řízení výroby",
       "střelná zbraň a střelivo",
-      "výbušnina",
       "úrazová prevence",
-      "řízení výroby"
+      "výbušnina"
     ]
   },
   {
@@ -7722,13 +7570,11 @@
       "not_logged": 5
     },
     "temata": [
+      "Pojištění",
+      "Zabezpečení sociální",
       "Národní hospodářství",
       "Peněžnictví a pojišťovnictví",
-      "Pojištění",
       "Pracovní síla",
-      "Zabezpeèení sociální",
-      "Zabezpečení sociální",
-      "mateøský pøíspėvek",
       "mateřský příspěvek",
       "sociální dávky",
       "zdravotní pojištění"
@@ -7776,22 +7622,21 @@
     },
     "temata": [
       "Evropská unie /EU/",
+      "Zbraně",
       "Informační služby",
       "Mezinárodní styky",
       "Národní hospodářství",
-      "Obrana a bezpečnost",
       "Občan",
-      "Zbraně",
+      "Obrana a bezpečnost",
       "kontrola dovozu",
       "kontrola vývozu",
       "nebezpečná látka",
       "ohňostroj",
-      "ohōostroj",
       "osobní zbraň",
+      "řízení výroby",
       "střelná zbraň a střelivo",
-      "výbušnina",
       "úrazová prevence",
-      "řízení výroby"
+      "výbušnina"
     ]
   },
   {
@@ -7829,22 +7674,21 @@
     },
     "temata": [
       "Evropská unie /EU/",
+      "Zbraně",
       "Informační služby",
       "Mezinárodní styky",
       "Národní hospodářství",
-      "Obrana a bezpečnost",
       "Občan",
-      "Zbraně",
+      "Obrana a bezpečnost",
       "kontrola dovozu",
       "kontrola vývozu",
       "nebezpečná látka",
       "ohňostroj",
-      "ohōostroj",
       "osobní zbraň",
+      "řízení výroby",
       "střelná zbraň a střelivo",
-      "výbušnina",
       "úrazová prevence",
-      "řízení výroby"
+      "výbušnina"
     ]
   },
   {
@@ -7886,22 +7730,21 @@
     },
     "temata": [
       "Evropská unie /EU/",
+      "Zbraně",
       "Informační služby",
       "Mezinárodní styky",
       "Národní hospodářství",
-      "Obrana a bezpečnost",
       "Občan",
-      "Zbraně",
+      "Obrana a bezpečnost",
       "kontrola dovozu",
       "kontrola vývozu",
       "nebezpečná látka",
       "ohňostroj",
-      "ohōostroj",
       "osobní zbraň",
+      "řízení výroby",
       "střelná zbraň a střelivo",
-      "výbušnina",
       "úrazová prevence",
-      "řízení výroby"
+      "výbušnina"
     ]
   },
   {
@@ -7918,22 +7761,21 @@
     },
     "temata": [
       "Evropská unie /EU/",
+      "Zbraně",
       "Informační služby",
       "Mezinárodní styky",
       "Národní hospodářství",
-      "Obrana a bezpečnost",
       "Občan",
-      "Zbraně",
+      "Obrana a bezpečnost",
       "kontrola dovozu",
       "kontrola vývozu",
       "nebezpečná látka",
       "ohňostroj",
-      "ohōostroj",
       "osobní zbraň",
+      "řízení výroby",
       "střelná zbraň a střelivo",
-      "výbušnina",
       "úrazová prevence",
-      "řízení výroby"
+      "výbušnina"
     ]
   },
   {
@@ -7950,22 +7792,21 @@
     },
     "temata": [
       "Evropská unie /EU/",
+      "Zbraně",
       "Informační služby",
       "Mezinárodní styky",
       "Národní hospodářství",
-      "Obrana a bezpečnost",
       "Občan",
-      "Zbraně",
+      "Obrana a bezpečnost",
       "kontrola dovozu",
       "kontrola vývozu",
       "nebezpečná látka",
       "ohňostroj",
-      "ohōostroj",
       "osobní zbraň",
+      "řízení výroby",
       "střelná zbraň a střelivo",
-      "výbušnina",
       "úrazová prevence",
-      "řízení výroby"
+      "výbušnina"
     ]
   },
   {
@@ -7982,22 +7823,21 @@
     },
     "temata": [
       "Evropská unie /EU/",
+      "Zbraně",
       "Informační služby",
       "Mezinárodní styky",
       "Národní hospodářství",
-      "Obrana a bezpečnost",
       "Občan",
-      "Zbraně",
+      "Obrana a bezpečnost",
       "kontrola dovozu",
       "kontrola vývozu",
       "nebezpečná látka",
       "ohňostroj",
-      "ohōostroj",
       "osobní zbraň",
+      "řízení výroby",
       "střelná zbraň a střelivo",
-      "výbušnina",
       "úrazová prevence",
-      "řízení výroby"
+      "výbušnina"
     ]
   },
   {
@@ -8014,22 +7854,21 @@
     },
     "temata": [
       "Evropská unie /EU/",
+      "Zbraně",
       "Informační služby",
       "Mezinárodní styky",
       "Národní hospodářství",
-      "Obrana a bezpečnost",
       "Občan",
-      "Zbraně",
+      "Obrana a bezpečnost",
       "kontrola dovozu",
       "kontrola vývozu",
       "nebezpečná látka",
       "ohňostroj",
-      "ohōostroj",
       "osobní zbraň",
+      "řízení výroby",
       "střelná zbraň a střelivo",
-      "výbušnina",
       "úrazová prevence",
-      "řízení výroby"
+      "výbušnina"
     ]
   },
   {
@@ -8046,22 +7885,21 @@
     },
     "temata": [
       "Evropská unie /EU/",
+      "Zbraně",
       "Informační služby",
       "Mezinárodní styky",
       "Národní hospodářství",
-      "Obrana a bezpečnost",
       "Občan",
-      "Zbraně",
+      "Obrana a bezpečnost",
       "kontrola dovozu",
       "kontrola vývozu",
       "nebezpečná látka",
       "ohňostroj",
-      "ohōostroj",
       "osobní zbraň",
+      "řízení výroby",
       "střelná zbraň a střelivo",
-      "výbušnina",
       "úrazová prevence",
-      "řízení výroby"
+      "výbušnina"
     ]
   },
   {
@@ -8078,22 +7916,21 @@
     },
     "temata": [
       "Evropská unie /EU/",
+      "Zbraně",
       "Informační služby",
       "Mezinárodní styky",
       "Národní hospodářství",
-      "Obrana a bezpečnost",
       "Občan",
-      "Zbraně",
+      "Obrana a bezpečnost",
       "kontrola dovozu",
       "kontrola vývozu",
       "nebezpečná látka",
       "ohňostroj",
-      "ohōostroj",
       "osobní zbraň",
+      "řízení výroby",
       "střelná zbraň a střelivo",
-      "výbušnina",
       "úrazová prevence",
-      "řízení výroby"
+      "výbušnina"
     ]
   },
   {
@@ -8202,10 +8039,9 @@
       "banka",
       "bankovní vklad",
       "družstevní banka",
-      "pojistné",
-      "pojistné plnėní",
-      "pojistné plnění",
       "pojištění zákonné odpovědnosti",
+      "pojistné",
+      "pojistné plnění",
       "úvěrová instituce"
     ]
   },
@@ -8231,10 +8067,9 @@
       "banka",
       "bankovní vklad",
       "družstevní banka",
-      "pojistné",
-      "pojistné plnėní",
-      "pojistné plnění",
       "pojištění zákonné odpovědnosti",
+      "pojistné",
+      "pojistné plnění",
       "úvěrová instituce"
     ]
   },
@@ -8260,10 +8095,9 @@
       "banka",
       "bankovní vklad",
       "družstevní banka",
-      "pojistné",
-      "pojistné plnėní",
-      "pojistné plnění",
       "pojištění zákonné odpovědnosti",
+      "pojistné",
+      "pojistné plnění",
       "úvěrová instituce"
     ]
   },
@@ -8289,10 +8123,9 @@
       "banka",
       "bankovní vklad",
       "družstevní banka",
-      "pojistné",
-      "pojistné plnėní",
-      "pojistné plnění",
       "pojištění zákonné odpovědnosti",
+      "pojistné",
+      "pojistné plnění",
       "úvěrová instituce"
     ]
   },
@@ -8318,10 +8151,9 @@
       "banka",
       "bankovní vklad",
       "družstevní banka",
-      "pojistné",
-      "pojistné plnėní",
-      "pojistné plnění",
       "pojištění zákonné odpovědnosti",
+      "pojistné",
+      "pojistné plnění",
       "úvěrová instituce"
     ]
   },
@@ -8347,10 +8179,9 @@
       "banka",
       "bankovní vklad",
       "družstevní banka",
-      "pojistné",
-      "pojistné plnėní",
-      "pojistné plnění",
       "pojištění zákonné odpovědnosti",
+      "pojistné",
+      "pojistné plnění",
       "úvěrová instituce"
     ]
   },
@@ -8376,10 +8207,9 @@
       "banka",
       "bankovní vklad",
       "družstevní banka",
-      "pojistné",
-      "pojistné plnėní",
-      "pojistné plnění",
       "pojištění zákonné odpovědnosti",
+      "pojistné",
+      "pojistné plnění",
       "úvěrová instituce"
     ]
   },
@@ -8397,14 +8227,12 @@
     },
     "temata": [
       "Evropská unie /EU/",
+      "Zdravotnictví",
       "Mezinárodní styky",
       "Národní hospodářství",
       "Občan",
-      "Zdravotnictví",
-      "lékaøská diagnóza",
       "lékařská diagnóza",
       "prostředky zdravotnické techniky",
-      "prostųedky zdravotnické techniky",
       "správní kontrola",
       "testování",
       "vědecký přístroj",
@@ -8426,16 +8254,14 @@
     },
     "temata": [
       "Doprava",
-      "Doprava a spoje",
       "Evropská unie /EU/",
-      "Funkcionáøi Poslanecké snėmovny",
       "Funkcionáři Poslanecké sněmovny",
+      "Obchod a služby",
+      "Doprava a spoje",
       "Mezinárodní styky",
       "Národní hospodářství",
-      "Obchod a služby",
       "Občan",
       "Státní správa a justice",
-      "cestující veøejnost",
       "cestující veřejnost",
       "dopravní infrastruktura",
       "osobní doprava",
@@ -8458,16 +8284,14 @@
     },
     "temata": [
       "Doprava",
-      "Doprava a spoje",
       "Evropská unie /EU/",
-      "Funkcionáøi Poslanecké snėmovny",
       "Funkcionáři Poslanecké sněmovny",
+      "Obchod a služby",
+      "Doprava a spoje",
       "Mezinárodní styky",
       "Národní hospodářství",
-      "Obchod a služby",
       "Občan",
       "Státní správa a justice",
-      "cestující veøejnost",
       "cestující veřejnost",
       "dopravní infrastruktura",
       "osobní doprava",
@@ -8490,16 +8314,14 @@
     },
     "temata": [
       "Doprava",
-      "Doprava a spoje",
       "Evropská unie /EU/",
-      "Funkcionáøi Poslanecké snėmovny",
       "Funkcionáři Poslanecké sněmovny",
+      "Obchod a služby",
+      "Doprava a spoje",
       "Mezinárodní styky",
       "Národní hospodářství",
-      "Obchod a služby",
       "Občan",
       "Státní správa a justice",
-      "cestující veøejnost",
       "cestující veřejnost",
       "dopravní infrastruktura",
       "osobní doprava",
@@ -8522,16 +8344,14 @@
     },
     "temata": [
       "Doprava",
-      "Doprava a spoje",
       "Evropská unie /EU/",
-      "Funkcionáøi Poslanecké snėmovny",
       "Funkcionáři Poslanecké sněmovny",
+      "Obchod a služby",
+      "Doprava a spoje",
       "Mezinárodní styky",
       "Národní hospodářství",
-      "Obchod a služby",
       "Občan",
       "Státní správa a justice",
-      "cestující veøejnost",
       "cestující veřejnost",
       "dopravní infrastruktura",
       "osobní doprava",
@@ -8554,16 +8374,14 @@
     },
     "temata": [
       "Doprava",
-      "Doprava a spoje",
       "Evropská unie /EU/",
-      "Funkcionáøi Poslanecké snėmovny",
       "Funkcionáři Poslanecké sněmovny",
+      "Obchod a služby",
+      "Doprava a spoje",
       "Mezinárodní styky",
       "Národní hospodářství",
-      "Obchod a služby",
       "Občan",
       "Státní správa a justice",
-      "cestující veøejnost",
       "cestující veřejnost",
       "dopravní infrastruktura",
       "osobní doprava",
@@ -8586,16 +8404,14 @@
     },
     "temata": [
       "Doprava",
-      "Doprava a spoje",
       "Evropská unie /EU/",
-      "Funkcionáøi Poslanecké snėmovny",
       "Funkcionáři Poslanecké sněmovny",
+      "Obchod a služby",
+      "Doprava a spoje",
       "Mezinárodní styky",
       "Národní hospodářství",
-      "Obchod a služby",
       "Občan",
       "Státní správa a justice",
-      "cestující veøejnost",
       "cestující veřejnost",
       "dopravní infrastruktura",
       "osobní doprava",
@@ -8617,16 +8433,13 @@
       "not_logged": 31
     },
     "temata": [
-      "hromadné sdėlovací prostøedky",
       "hromadné sdělovací prostředky",
       "kampaň na získání veřejnosti",
-      "kampaō na získání veøejnosti",
       "místní médium",
       "obec",
       "politická reprezentace",
       "politika",
       "právo na informace",
-      "sdėlovací prostøedky",
       "sdělovací prostředky",
       "zpřístupňování informací"
     ]
@@ -8644,16 +8457,13 @@
       "not_logged": 25
     },
     "temata": [
-      "hromadné sdėlovací prostøedky",
       "hromadné sdělovací prostředky",
       "kampaň na získání veřejnosti",
-      "kampaō na získání veøejnosti",
       "místní médium",
       "obec",
       "politická reprezentace",
       "politika",
       "právo na informace",
-      "sdėlovací prostøedky",
       "sdělovací prostředky",
       "zpřístupňování informací"
     ]
@@ -8671,16 +8481,13 @@
       "not_logged": 27
     },
     "temata": [
-      "hromadné sdėlovací prostøedky",
       "hromadné sdělovací prostředky",
       "kampaň na získání veřejnosti",
-      "kampaō na získání veøejnosti",
       "místní médium",
       "obec",
       "politická reprezentace",
       "politika",
       "právo na informace",
-      "sdėlovací prostøedky",
       "sdělovací prostředky",
       "zpřístupňování informací"
     ]
@@ -8698,16 +8505,13 @@
       "not_logged": 26
     },
     "temata": [
-      "hromadné sdėlovací prostøedky",
       "hromadné sdělovací prostředky",
       "kampaň na získání veřejnosti",
-      "kampaō na získání veøejnosti",
       "místní médium",
       "obec",
       "politická reprezentace",
       "politika",
       "právo na informace",
-      "sdėlovací prostøedky",
       "sdělovací prostředky",
       "zpřístupňování informací"
     ]
@@ -8725,16 +8529,13 @@
       "not_logged": 26
     },
     "temata": [
-      "hromadné sdėlovací prostøedky",
       "hromadné sdělovací prostředky",
       "kampaň na získání veřejnosti",
-      "kampaō na získání veøejnosti",
       "místní médium",
       "obec",
       "politická reprezentace",
       "politika",
       "právo na informace",
-      "sdėlovací prostøedky",
       "sdělovací prostředky",
       "zpřístupňování informací"
     ]
@@ -8752,16 +8553,13 @@
       "not_logged": 23
     },
     "temata": [
-      "hromadné sdėlovací prostøedky",
       "hromadné sdělovací prostředky",
       "kampaň na získání veřejnosti",
-      "kampaō na získání veøejnosti",
       "místní médium",
       "obec",
       "politická reprezentace",
       "politika",
       "právo na informace",
-      "sdėlovací prostøedky",
       "sdělovací prostředky",
       "zpřístupňování informací"
     ]
@@ -8800,11 +8598,9 @@
     "temata": [
       "Odškodnění",
       "Rehabilitace",
-      "autoritativní reim",
       "autoritativní režim",
       "finanční zrovnoprávnění",
       "politická diskriminace",
-      "zruení pracovních míst",
       "zrušení pracovních míst"
     ]
   },
@@ -8823,11 +8619,9 @@
     "temata": [
       "Odškodnění",
       "Rehabilitace",
-      "autoritativní reim",
       "autoritativní režim",
       "finanční zrovnoprávnění",
       "politická diskriminace",
-      "zruení pracovních míst",
       "zrušení pracovních míst"
     ]
   },
@@ -8846,11 +8640,9 @@
     "temata": [
       "Odškodnění",
       "Rehabilitace",
-      "autoritativní reim",
       "autoritativní režim",
       "finanční zrovnoprávnění",
       "politická diskriminace",
-      "zruení pracovních míst",
       "zrušení pracovních míst"
     ]
   },
@@ -8869,11 +8661,9 @@
     "temata": [
       "Odškodnění",
       "Rehabilitace",
-      "autoritativní reim",
       "autoritativní režim",
       "finanční zrovnoprávnění",
       "politická diskriminace",
-      "zruení pracovních míst",
       "zrušení pracovních míst"
     ]
   },
@@ -8892,11 +8682,9 @@
     "temata": [
       "Odškodnění",
       "Rehabilitace",
-      "autoritativní reim",
       "autoritativní režim",
       "finanční zrovnoprávnění",
       "politická diskriminace",
-      "zruení pracovních míst",
       "zrušení pracovních míst"
     ]
   },
@@ -8915,11 +8703,9 @@
     "temata": [
       "Odškodnění",
       "Rehabilitace",
-      "autoritativní reim",
       "autoritativní režim",
       "finanční zrovnoprávnění",
       "politická diskriminace",
-      "zruení pracovních míst",
       "zrušení pracovních míst"
     ]
   },
@@ -8945,10 +8731,9 @@
       "banka",
       "bankovní vklad",
       "družstevní banka",
-      "pojistné",
-      "pojistné plnėní",
-      "pojistné plnění",
       "pojištění zákonné odpovědnosti",
+      "pojistné",
+      "pojistné plnění",
       "úvěrová instituce"
     ]
   },
@@ -8974,10 +8759,9 @@
       "banka",
       "bankovní vklad",
       "družstevní banka",
-      "pojistné",
-      "pojistné plnėní",
-      "pojistné plnění",
       "pojištění zákonné odpovědnosti",
+      "pojistné",
+      "pojistné plnění",
       "úvěrová instituce"
     ]
   },
@@ -9003,10 +8787,9 @@
       "banka",
       "bankovní vklad",
       "družstevní banka",
-      "pojistné",
-      "pojistné plnėní",
-      "pojistné plnění",
       "pojištění zákonné odpovědnosti",
+      "pojistné",
+      "pojistné plnění",
       "úvěrová instituce"
     ]
   },
@@ -9032,10 +8815,9 @@
       "banka",
       "bankovní vklad",
       "družstevní banka",
-      "pojistné",
-      "pojistné plnėní",
-      "pojistné plnění",
       "pojištění zákonné odpovědnosti",
+      "pojistné",
+      "pojistné plnění",
       "úvěrová instituce"
     ]
   },
@@ -9114,15 +8896,13 @@
       "not_logged": 59
     },
     "temata": [
+      "Řízení rozhodčí",
       "Zákon trestní",
       "boj proti zločinnosti",
       "hospodářský trestný čin",
       "korupce",
       "organizovaný zločin",
-      "výslech svėdka",
-      "výslech svědka",
-      "Øízení rozhodčí",
-      "Řízení rozhodčí"
+      "výslech svědka"
     ]
   },
   {
@@ -9142,11 +8922,9 @@
       "finanční kontrola",
       "nemovitý majetek",
       "převod vlastnictví",
-      "zemėdėlsky vyuívaná pųda",
+      "účetní uzávěrka",
       "zemědělsky využívaná půda",
-      "zpráva o činnosti",
-      "účetní uzávėrka",
-      "účetní uzávěrka"
+      "zpráva o činnosti"
     ]
   },
   {
@@ -9164,9 +8942,8 @@
     "temata": [
       "Pozemkový fond",
       "návrh rozpočtu",
-      "zemėdėlsky vyuívaná pųda",
-      "zemědělsky využívaná půda",
-      "zemědělská nemovitost"
+      "zemědělská nemovitost",
+      "zemědělsky využívaná půda"
     ]
   },
   {
@@ -9208,13 +8985,12 @@
       "neslučitelnost",
       "parlament",
       "parlamentní výbor",
-      "politický funkcionáø",
       "politický funkcionář",
       "poslanec parlamentu",
       "seznam",
       "veřejná funkce",
-      "zpřístupňování informací",
-      "zájmová skupina"
+      "zájmová skupina",
+      "zpřístupňování informací"
     ]
   },
   {
@@ -9237,13 +9013,12 @@
       "neslučitelnost",
       "parlament",
       "parlamentní výbor",
-      "politický funkcionáø",
       "politický funkcionář",
       "poslanec parlamentu",
       "seznam",
       "veřejná funkce",
-      "zpřístupňování informací",
-      "zájmová skupina"
+      "zájmová skupina",
+      "zpřístupňování informací"
     ]
   },
   {
@@ -9266,13 +9041,12 @@
       "neslučitelnost",
       "parlament",
       "parlamentní výbor",
-      "politický funkcionáø",
       "politický funkcionář",
       "poslanec parlamentu",
       "seznam",
       "veřejná funkce",
-      "zpřístupňování informací",
-      "zájmová skupina"
+      "zájmová skupina",
+      "zpřístupňování informací"
     ]
   },
   {
@@ -9449,7 +9223,6 @@
     },
     "temata": [
       "environmentální politika",
-      "ochrana ivočiné øíe",
       "ochrana živočišné říše",
       "ptáci",
       "vztahy mezi Severem a Jihem"
@@ -10554,13 +10327,12 @@
       "Občan",
       "Státní správa a justice",
       "Zdravotnictví",
+      "Životní prostředí",
       "letadlo",
       "letecká doprava",
       "obchodovatelné emisní povolení",
       "skleníkový plyn",
-      "sniování plynných emisí",
-      "snižování plynných emisí",
-      "Životní prostředí"
+      "snižování plynných emisí"
     ]
   },
   {
@@ -10576,13 +10348,11 @@
       "not_logged": 4
     },
     "temata": [
+      "Pojištění",
+      "Zabezpečení sociální",
       "Národní hospodářství",
       "Peněžnictví a pojišťovnictví",
-      "Pojištění",
       "Pracovní síla",
-      "Zabezpeèení sociální",
-      "Zabezpečení sociální",
-      "mateøský pøíspėvek",
       "mateřský příspěvek",
       "sociální dávky",
       "zdravotní pojištění"
@@ -10602,10 +10372,8 @@
     },
     "temata": [
       "Pěstitelství",
-      "Sdruení občanská",
       "Sdružení občanská",
       "ovocný sad",
-      "uitková zahrada",
       "užitková zahrada",
       "zájmová skupina"
     ]
@@ -10624,10 +10392,8 @@
     },
     "temata": [
       "Pěstitelství",
-      "Sdruení občanská",
       "Sdružení občanská",
       "ovocný sad",
-      "uitková zahrada",
       "užitková zahrada",
       "zájmová skupina"
     ]
@@ -10646,10 +10412,8 @@
     },
     "temata": [
       "Pěstitelství",
-      "Sdruení občanská",
       "Sdružení občanská",
       "ovocný sad",
-      "uitková zahrada",
       "užitková zahrada",
       "zájmová skupina"
     ]
@@ -10668,10 +10432,8 @@
     },
     "temata": [
       "Pěstitelství",
-      "Sdruení občanská",
       "Sdružení občanská",
       "ovocný sad",
-      "uitková zahrada",
       "užitková zahrada",
       "zájmová skupina"
     ]
@@ -10690,10 +10452,8 @@
     },
     "temata": [
       "Pěstitelství",
-      "Sdruení občanská",
       "Sdružení občanská",
       "ovocný sad",
-      "uitková zahrada",
       "užitková zahrada",
       "zájmová skupina"
     ]
@@ -10734,13 +10494,11 @@
     },
     "temata": [
       "Bankovnictví",
-      "Evropská centrální banka",
       "Evropská unie /EU/",
       "centrální banka",
-      "mėnová politika",
-      "měnová politika",
       "činnost orgánů",
-      "činnost orgánų"
+      "Evropská centrální banka",
+      "měnová politika"
     ]
   },
   {
@@ -10757,13 +10515,11 @@
     },
     "temata": [
       "Bankovnictví",
-      "Evropská centrální banka",
       "Evropská unie /EU/",
       "centrální banka",
-      "mėnová politika",
-      "měnová politika",
       "činnost orgánů",
-      "činnost orgánų"
+      "Evropská centrální banka",
+      "měnová politika"
     ]
   },
   {
@@ -10780,13 +10536,12 @@
     },
     "temata": [
       "Evropská unie /EU/",
+      "Zakázky",
       "Národní hospodářství",
       "Občan",
       "Státní správa a justice",
-      "Zakázky",
       "soutěžní řízení",
       "veřejná zakázka",
-      "vypsání soutėe",
       "vypsání soutěže"
     ]
   },
@@ -10811,13 +10566,12 @@
       "Občan",
       "Státní správa a justice",
       "Zdravotnictví",
+      "Životní prostředí",
       "letadlo",
       "letecká doprava",
       "obchodovatelné emisní povolení",
       "skleníkový plyn",
-      "sniování plynných emisí",
-      "snižování plynných emisí",
-      "Životní prostředí"
+      "snižování plynných emisí"
     ]
   },
   {
@@ -10841,13 +10595,12 @@
       "Občan",
       "Státní správa a justice",
       "Zdravotnictví",
+      "Životní prostředí",
       "letadlo",
       "letecká doprava",
       "obchodovatelné emisní povolení",
       "skleníkový plyn",
-      "sniování plynných emisí",
-      "snižování plynných emisí",
-      "Životní prostředí"
+      "snižování plynných emisí"
     ]
   },
   {
@@ -10871,13 +10624,12 @@
       "Občan",
       "Státní správa a justice",
       "Zdravotnictví",
+      "Životní prostředí",
       "letadlo",
       "letecká doprava",
       "obchodovatelné emisní povolení",
       "skleníkový plyn",
-      "sniování plynných emisí",
-      "snižování plynných emisí",
-      "Životní prostředí"
+      "snižování plynných emisí"
     ]
   },
   {
@@ -10901,13 +10653,12 @@
       "Občan",
       "Státní správa a justice",
       "Zdravotnictví",
+      "Životní prostředí",
       "letadlo",
       "letecká doprava",
       "obchodovatelné emisní povolení",
       "skleníkový plyn",
-      "sniování plynných emisí",
-      "snižování plynných emisí",
-      "Životní prostředí"
+      "snižování plynných emisí"
     ]
   },
   {
@@ -10923,12 +10674,11 @@
       "not_logged": 12
     },
     "temata": [
+      "Organizace neziskové",
       "Kultura",
       "Národní hospodářství",
       "Občan",
-      "Organizace neziskové",
       "nezisková organizace",
-      "obecnė prospėný podnik",
       "obecně prospěšný podnik",
       "odpovědnost",
       "správní rada",
@@ -10948,15 +10698,13 @@
       "not_logged": 49
     },
     "temata": [
+      "Řízení rozhodčí",
       "Zákon trestní",
       "boj proti zločinnosti",
       "hospodářský trestný čin",
       "korupce",
       "organizovaný zločin",
-      "výslech svėdka",
-      "výslech svědka",
-      "Øízení rozhodčí",
-      "Řízení rozhodčí"
+      "výslech svědka"
     ]
   },
   {
@@ -10972,15 +10720,13 @@
       "not_logged": 49
     },
     "temata": [
+      "Řízení rozhodčí",
       "Zákon trestní",
       "boj proti zločinnosti",
       "hospodářský trestný čin",
       "korupce",
       "organizovaný zločin",
-      "výslech svėdka",
-      "výslech svědka",
-      "Øízení rozhodčí",
-      "Řízení rozhodčí"
+      "výslech svědka"
     ]
   },
   {
@@ -10996,15 +10742,13 @@
       "not_logged": 45
     },
     "temata": [
+      "Řízení rozhodčí",
       "Zákon trestní",
       "boj proti zločinnosti",
       "hospodářský trestný čin",
       "korupce",
       "organizovaný zločin",
-      "výslech svėdka",
-      "výslech svědka",
-      "Øízení rozhodčí",
-      "Řízení rozhodčí"
+      "výslech svědka"
     ]
   },
   {
@@ -11020,15 +10764,13 @@
       "not_logged": 43
     },
     "temata": [
+      "Řízení rozhodčí",
       "Zákon trestní",
       "boj proti zločinnosti",
       "hospodářský trestný čin",
       "korupce",
       "organizovaný zločin",
-      "výslech svėdka",
-      "výslech svědka",
-      "Øízení rozhodčí",
-      "Řízení rozhodčí"
+      "výslech svědka"
     ]
   },
   {
@@ -11044,15 +10786,13 @@
       "not_logged": 42
     },
     "temata": [
+      "Řízení rozhodčí",
       "Zákon trestní",
       "boj proti zločinnosti",
       "hospodářský trestný čin",
       "korupce",
       "organizovaný zločin",
-      "výslech svėdka",
-      "výslech svědka",
-      "Øízení rozhodčí",
-      "Řízení rozhodčí"
+      "výslech svědka"
     ]
   },
   {
@@ -11068,15 +10808,13 @@
       "not_logged": 41
     },
     "temata": [
+      "Řízení rozhodčí",
       "Zákon trestní",
       "boj proti zločinnosti",
       "hospodářský trestný čin",
       "korupce",
       "organizovaný zločin",
-      "výslech svėdka",
-      "výslech svědka",
-      "Øízení rozhodčí",
-      "Řízení rozhodčí"
+      "výslech svědka"
     ]
   },
   {
@@ -11092,15 +10830,13 @@
       "not_logged": 41
     },
     "temata": [
+      "Řízení rozhodčí",
       "Zákon trestní",
       "boj proti zločinnosti",
       "hospodářský trestný čin",
       "korupce",
       "organizovaný zločin",
-      "výslech svėdka",
-      "výslech svědka",
-      "Øízení rozhodčí",
-      "Řízení rozhodčí"
+      "výslech svědka"
     ]
   },
   {
@@ -11116,15 +10852,13 @@
       "not_logged": 41
     },
     "temata": [
+      "Řízení rozhodčí",
       "Zákon trestní",
       "boj proti zločinnosti",
       "hospodářský trestný čin",
       "korupce",
       "organizovaný zločin",
-      "výslech svėdka",
-      "výslech svědka",
-      "Øízení rozhodčí",
-      "Řízení rozhodčí"
+      "výslech svědka"
     ]
   },
   {
@@ -11140,15 +10874,13 @@
       "not_logged": 39
     },
     "temata": [
+      "Řízení rozhodčí",
       "Zákon trestní",
       "boj proti zločinnosti",
       "hospodářský trestný čin",
       "korupce",
       "organizovaný zločin",
-      "výslech svėdka",
-      "výslech svědka",
-      "Øízení rozhodčí",
-      "Řízení rozhodčí"
+      "výslech svědka"
     ]
   },
   {
@@ -11171,13 +10903,12 @@
       "neslučitelnost",
       "parlament",
       "parlamentní výbor",
-      "politický funkcionáø",
       "politický funkcionář",
       "poslanec parlamentu",
       "seznam",
       "veřejná funkce",
-      "zpřístupňování informací",
-      "zájmová skupina"
+      "zájmová skupina",
+      "zpřístupňování informací"
     ]
   },
   {
@@ -11200,13 +10931,12 @@
       "neslučitelnost",
       "parlament",
       "parlamentní výbor",
-      "politický funkcionáø",
       "politický funkcionář",
       "poslanec parlamentu",
       "seznam",
       "veřejná funkce",
-      "zpřístupňování informací",
-      "zájmová skupina"
+      "zájmová skupina",
+      "zpřístupňování informací"
     ]
   },
   {
@@ -11229,13 +10959,12 @@
       "neslučitelnost",
       "parlament",
       "parlamentní výbor",
-      "politický funkcionáø",
       "politický funkcionář",
       "poslanec parlamentu",
       "seznam",
       "veřejná funkce",
-      "zpřístupňování informací",
-      "zájmová skupina"
+      "zájmová skupina",
+      "zpřístupňování informací"
     ]
   },
   {
@@ -11258,13 +10987,12 @@
       "neslučitelnost",
       "parlament",
       "parlamentní výbor",
-      "politický funkcionáø",
       "politický funkcionář",
       "poslanec parlamentu",
       "seznam",
       "veřejná funkce",
-      "zpřístupňování informací",
-      "zájmová skupina"
+      "zájmová skupina",
+      "zpřístupňování informací"
     ]
   },
   {
@@ -11287,13 +11015,12 @@
       "neslučitelnost",
       "parlament",
       "parlamentní výbor",
-      "politický funkcionáø",
       "politický funkcionář",
       "poslanec parlamentu",
       "seznam",
       "veřejná funkce",
-      "zpřístupňování informací",
-      "zájmová skupina"
+      "zájmová skupina",
+      "zpřístupňování informací"
     ]
   },
   {
@@ -11317,13 +11044,12 @@
       "Občan",
       "Státní správa a justice",
       "Zdravotnictví",
+      "Životní prostředí",
       "letadlo",
       "letecká doprava",
       "obchodovatelné emisní povolení",
       "skleníkový plyn",
-      "sniování plynných emisí",
-      "snižování plynných emisí",
-      "Životní prostředí"
+      "snižování plynných emisí"
     ]
   },
   {
@@ -11439,15 +11165,11 @@
     "temata": [
       "Nįrodnķ hospodįųstvķ",
       "Občan",
+      "ivotnķ prostųedķ",
       "povodeņ",
-      "povodeň",
-      "převoditelný cenný papír",
-      "přírodní katastrofa",
       "pųevoditelnż cennż papķr",
       "pųķrodnķ katastrofa",
-      "veřejný dluh",
-      "veųejnż dluh",
-      "ivotnķ prostųedķ"
+      "veųejnż dluh"
     ]
   },
   {

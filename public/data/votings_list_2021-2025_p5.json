@@ -1,4 +1,158 @@
-[
+﻿[
+  {
+    "id": 85306,
+    "date": "2025-04-15",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 81,
+      "no": 74,
+      "abstain": 22,
+      "absent": 22,
+      "not_logged": 1
+    },
+    "temata": []
+  },
+  {
+    "id": 85307,
+    "date": "2025-04-15",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 85,
+      "no": 54,
+      "abstain": 38,
+      "absent": 22,
+      "not_logged": 1
+    },
+    "temata": []
+  },
+  {
+    "id": 85308,
+    "date": "2025-04-15",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 83,
+      "no": 62,
+      "abstain": 32,
+      "absent": 22,
+      "not_logged": 1
+    },
+    "temata": []
+  },
+  {
+    "id": 85309,
+    "date": "2025-04-15",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 82,
+      "no": 74,
+      "abstain": 21,
+      "absent": 22,
+      "not_logged": 1
+    },
+    "temata": []
+  },
+  {
+    "id": 85310,
+    "date": "2025-04-15",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 83,
+      "no": 63,
+      "abstain": 31,
+      "absent": 22,
+      "not_logged": 1
+    },
+    "temata": []
+  },
+  {
+    "id": 85311,
+    "date": "2025-04-15",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 4,
+      "no": 43,
+      "abstain": 130,
+      "absent": 22,
+      "not_logged": 1
+    },
+    "temata": []
+  },
+  {
+    "id": 85312,
+    "date": "2025-04-15",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 79,
+      "no": 61,
+      "abstain": 37,
+      "absent": 22,
+      "not_logged": 1
+    },
+    "temata": []
+  },
+  {
+    "id": 85313,
+    "date": "2025-04-15",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 78,
+      "no": 79,
+      "abstain": 20,
+      "absent": 22,
+      "not_logged": 1
+    },
+    "temata": []
+  },
+  {
+    "id": 85314,
+    "date": "2025-04-15",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 83,
+      "no": 58,
+      "abstain": 36,
+      "absent": 22,
+      "not_logged": 1
+    },
+    "temata": []
+  },
+  {
+    "id": 85315,
+    "date": "2025-04-15",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 81,
+      "no": 76,
+      "abstain": 21,
+      "absent": 21,
+      "not_logged": 1
+    },
+    "temata": []
+  },
+  {
+    "id": 85316,
+    "date": "2025-04-15",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 80,
+      "no": 86,
+      "abstain": 12,
+      "absent": 21,
+      "not_logged": 1
+    },
+    "temata": []
+  },
   {
     "id": 85317,
     "date": "2025-04-15",
@@ -1162,7 +1316,6 @@
       "politika",
       "seznam",
       "veøejná funkce",
-      "veřejná funkce",
       "zájmová skupina",
       "zákonodárná iniciativa"
     ]
@@ -3942,11 +4095,8 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
-      "kmenová buōka",
-      "lékaøství",
       "lékařství",
-      "transplantace orgánů",
-      "transplantace orgánų"
+      "transplantace orgánů"
     ]
   },
   {
@@ -3964,11 +4114,8 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
-      "kmenová buōka",
-      "lékaøství",
       "lékařství",
-      "transplantace orgánů",
-      "transplantace orgánų"
+      "transplantace orgánů"
     ]
   },
   {
@@ -3986,11 +4133,8 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
-      "kmenová buōka",
-      "lékaøství",
       "lékařství",
-      "transplantace orgánů",
-      "transplantace orgánų"
+      "transplantace orgánů"
     ]
   },
   {
@@ -4106,11 +4250,8 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
-      "kmenová buōka",
-      "lékaøství",
       "lékařství",
-      "transplantace orgánů",
-      "transplantace orgánų"
+      "transplantace orgánů"
     ]
   },
   {
@@ -4128,11 +4269,8 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
-      "kmenová buōka",
-      "lékaøství",
       "lékařství",
-      "transplantace orgánů",
-      "transplantace orgánų"
+      "transplantace orgánů"
     ]
   },
   {
@@ -4150,11 +4288,8 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
-      "kmenová buōka",
-      "lékaøství",
       "lékařství",
-      "transplantace orgánů",
-      "transplantace orgánų"
+      "transplantace orgánů"
     ]
   },
   {
@@ -4172,11 +4307,8 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
-      "kmenová buōka",
-      "lékaøství",
       "lékařství",
-      "transplantace orgánů",
-      "transplantace orgánų"
+      "transplantace orgánů"
     ]
   },
   {
@@ -4194,11 +4326,8 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
-      "kmenová buōka",
-      "lékaøství",
       "lékařství",
-      "transplantace orgánů",
-      "transplantace orgánų"
+      "transplantace orgánů"
     ]
   },
   {
@@ -4216,11 +4345,8 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
-      "kmenová buōka",
-      "lékaøství",
       "lékařství",
-      "transplantace orgánů",
-      "transplantace orgánų"
+      "transplantace orgánů"
     ]
   },
   {
@@ -4238,11 +4364,8 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
-      "kmenová buōka",
-      "lékaøství",
       "lékařství",
-      "transplantace orgánů",
-      "transplantace orgánų"
+      "transplantace orgánů"
     ]
   },
   {
@@ -4260,11 +4383,8 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
-      "kmenová buōka",
-      "lékaøství",
       "lékařství",
-      "transplantace orgánů",
-      "transplantace orgánų"
+      "transplantace orgánů"
     ]
   },
   {
@@ -4282,11 +4402,8 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
-      "kmenová buōka",
-      "lékaøství",
       "lékařství",
-      "transplantace orgánů",
-      "transplantace orgánų"
+      "transplantace orgánů"
     ]
   },
   {
@@ -4304,11 +4421,8 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
-      "kmenová buōka",
-      "lékaøství",
       "lékařství",
-      "transplantace orgánů",
-      "transplantace orgánų"
+      "transplantace orgánů"
     ]
   },
   {
@@ -4326,11 +4440,8 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
-      "kmenová buōka",
-      "lékaøství",
       "lékařství",
-      "transplantace orgánů",
-      "transplantace orgánų"
+      "transplantace orgánů"
     ]
   },
   {
@@ -4361,13 +4472,11 @@
     },
     "temata": [
       "bezpečnost informačních systémů",
-      "bezpečnost informačních systémų",
       "důvěrná informace",
       "elektronická správa",
       "elektronická správa dokumentů",
-      "informační systém",
-      "informační sí",
       "informační síť",
+      "informační systém",
       "kybernetika",
       "ochrana údajů",
       "počítačový systém"
@@ -4387,13 +4496,11 @@
     },
     "temata": [
       "bezpečnost informačních systémů",
-      "bezpečnost informačních systémų",
       "důvěrná informace",
       "elektronická správa",
       "elektronická správa dokumentů",
-      "informační systém",
-      "informační sí",
       "informační síť",
+      "informační systém",
       "kybernetika",
       "ochrana údajů",
       "počítačový systém"
@@ -4413,13 +4520,11 @@
     },
     "temata": [
       "bezpečnost informačních systémů",
-      "bezpečnost informačních systémų",
       "důvěrná informace",
       "elektronická správa",
       "elektronická správa dokumentů",
-      "informační systém",
-      "informační sí",
       "informační síť",
+      "informační systém",
       "kybernetika",
       "ochrana údajů",
       "počítačový systém"
@@ -4439,13 +4544,11 @@
     },
     "temata": [
       "bezpečnost informačních systémů",
-      "bezpečnost informačních systémų",
       "důvěrná informace",
       "elektronická správa",
       "elektronická správa dokumentů",
-      "informační systém",
-      "informační sí",
       "informační síť",
+      "informační systém",
       "kybernetika",
       "ochrana údajů",
       "počítačový systém"
@@ -4465,13 +4568,11 @@
     },
     "temata": [
       "bezpečnost informačních systémů",
-      "bezpečnost informačních systémų",
       "důvěrná informace",
       "elektronická správa",
       "elektronická správa dokumentů",
-      "informační systém",
-      "informační sí",
       "informační síť",
+      "informační systém",
       "kybernetika",
       "ochrana údajů",
       "počítačový systém"
@@ -4491,13 +4592,11 @@
     },
     "temata": [
       "bezpečnost informačních systémů",
-      "bezpečnost informačních systémų",
       "důvěrná informace",
       "elektronická správa",
       "elektronická správa dokumentů",
-      "informační systém",
-      "informační sí",
       "informační síť",
+      "informační systém",
       "kybernetika",
       "ochrana údajů",
       "počítačový systém"
@@ -4517,13 +4616,11 @@
     },
     "temata": [
       "bezpečnost informačních systémů",
-      "bezpečnost informačních systémų",
       "důvěrná informace",
       "elektronická správa",
       "elektronická správa dokumentů",
-      "informační systém",
-      "informační sí",
       "informační síť",
+      "informační systém",
       "kybernetika",
       "ochrana údajů",
       "počítačový systém"
@@ -4543,13 +4640,11 @@
     },
     "temata": [
       "bezpečnost informačních systémů",
-      "bezpečnost informačních systémų",
       "důvěrná informace",
       "elektronická správa",
       "elektronická správa dokumentů",
-      "informační systém",
-      "informační sí",
       "informační síť",
+      "informační systém",
       "kybernetika",
       "ochrana údajů",
       "počítačový systém"
@@ -4569,13 +4664,11 @@
     },
     "temata": [
       "bezpečnost informačních systémů",
-      "bezpečnost informačních systémų",
       "důvěrná informace",
       "elektronická správa",
       "elektronická správa dokumentů",
-      "informační systém",
-      "informační sí",
       "informační síť",
+      "informační systém",
       "kybernetika",
       "ochrana údajů",
       "počítačový systém"
@@ -4595,13 +4688,11 @@
     },
     "temata": [
       "bezpečnost informačních systémů",
-      "bezpečnost informačních systémų",
       "důvěrná informace",
       "elektronická správa",
       "elektronická správa dokumentů",
-      "informační systém",
-      "informační sí",
       "informační síť",
+      "informační systém",
       "kybernetika",
       "ochrana údajů",
       "počítačový systém"
@@ -4621,13 +4712,11 @@
     },
     "temata": [
       "bezpečnost informačních systémů",
-      "bezpečnost informačních systémų",
       "důvěrná informace",
       "elektronická správa",
       "elektronická správa dokumentů",
-      "informační systém",
-      "informační sí",
       "informační síť",
+      "informační systém",
       "kybernetika",
       "ochrana údajů",
       "počítačový systém"
@@ -4647,13 +4736,11 @@
     },
     "temata": [
       "bezpečnost informačních systémů",
-      "bezpečnost informačních systémų",
       "důvěrná informace",
       "elektronická správa",
       "elektronická správa dokumentů",
-      "informační systém",
-      "informační sí",
       "informační síť",
+      "informační systém",
       "kybernetika",
       "ochrana údajů",
       "počítačový systém"
@@ -4673,13 +4760,11 @@
     },
     "temata": [
       "bezpečnost informačních systémů",
-      "bezpečnost informačních systémų",
       "důvěrná informace",
       "elektronická správa",
       "elektronická správa dokumentů",
-      "informační systém",
-      "informační sí",
       "informační síť",
+      "informační systém",
       "kybernetika",
       "ochrana údajů",
       "počítačový systém"
@@ -4699,13 +4784,11 @@
     },
     "temata": [
       "bezpečnost informačních systémů",
-      "bezpečnost informačních systémų",
       "důvěrná informace",
       "elektronická správa",
       "elektronická správa dokumentů",
-      "informační systém",
-      "informační sí",
       "informační síť",
+      "informační systém",
       "kybernetika",
       "ochrana údajů",
       "počítačový systém"
@@ -4725,13 +4808,11 @@
     },
     "temata": [
       "bezpečnost informačních systémů",
-      "bezpečnost informačních systémų",
       "důvěrná informace",
       "elektronická správa",
       "elektronická správa dokumentů",
-      "informační systém",
-      "informační sí",
       "informační síť",
+      "informační systém",
       "kybernetika",
       "ochrana údajů",
       "počítačový systém"
@@ -7532,7 +7613,6 @@
       "osoba samostatně výdělečně činná",
       "poradenství",
       "profesní status",
-      "veøejná instituce",
       "veřejná instituce",
       "veřejná správa",
       "znalecký posudek"
@@ -11716,7 +11796,6 @@
       "psychologie",
       "seznam",
       "střelná zbraň a střelivo",
-      "zabavení vėci",
       "zabavení věci"
     ]
   },
@@ -11749,11 +11828,8 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
-      "kmenová buōka",
-      "lékaøství",
       "lékařství",
-      "transplantace orgánů",
-      "transplantace orgánų"
+      "transplantace orgánů"
     ]
   },
   {
@@ -11785,11 +11861,8 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
-      "kmenová buōka",
-      "lékaøství",
       "lékařství",
-      "transplantace orgánů",
-      "transplantace orgánų"
+      "transplantace orgánů"
     ]
   },
   {
@@ -11821,11 +11894,8 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
-      "kmenová buōka",
-      "lékaøství",
       "lékařství",
-      "transplantace orgánů",
-      "transplantace orgánų"
+      "transplantace orgánů"
     ]
   },
   {
@@ -12046,11 +12116,8 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
-      "kmenová buōka",
-      "lékaøství",
       "lékařství",
-      "transplantace orgánů",
-      "transplantace orgánų"
+      "transplantace orgánů"
     ]
   },
   {
@@ -12082,11 +12149,8 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
-      "kmenová buōka",
-      "lékaøství",
       "lékařství",
-      "transplantace orgánů",
-      "transplantace orgánų"
+      "transplantace orgánů"
     ]
   },
   {
@@ -12104,11 +12168,8 @@
     "temata": [
       "bioetika",
       "kmenová buňka",
-      "kmenová buōka",
-      "lékaøství",
       "lékařství",
-      "transplantace orgánů",
-      "transplantace orgánų"
+      "transplantace orgánů"
     ]
   },
   {
@@ -12197,9 +12258,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -12219,9 +12278,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -12241,9 +12298,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -12263,9 +12318,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -12285,9 +12338,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -12307,9 +12358,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -12329,9 +12378,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -12351,9 +12398,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -12373,9 +12418,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -12395,9 +12438,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -12417,9 +12458,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -12439,9 +12478,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -12461,9 +12498,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -12483,9 +12518,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -12505,9 +12538,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -12527,9 +12558,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -12549,9 +12578,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -12585,9 +12612,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -12607,9 +12632,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -12629,9 +12652,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -12651,9 +12672,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -12673,9 +12692,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -12695,9 +12712,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -12717,9 +12732,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -12739,9 +12752,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -12761,9 +12772,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -12783,9 +12792,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -12805,9 +12812,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -12827,9 +12832,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -12849,9 +12852,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -12871,9 +12872,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -12893,9 +12892,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -12915,9 +12912,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -12937,9 +12932,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -12959,9 +12952,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -12981,9 +12972,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -13017,9 +13006,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -13039,9 +13026,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -13061,9 +13046,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -13083,9 +13066,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -13105,9 +13086,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -13127,9 +13106,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -13149,9 +13126,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -13171,9 +13146,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -13193,9 +13166,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -13215,9 +13186,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -13237,9 +13206,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -13259,9 +13226,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -13281,9 +13246,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -13303,9 +13266,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -13325,9 +13286,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -13347,9 +13306,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -13369,9 +13326,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -13391,9 +13346,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -13511,9 +13464,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -13533,9 +13484,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -13555,9 +13504,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -13577,9 +13524,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -13599,9 +13544,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -13621,9 +13564,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -13643,9 +13584,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -13665,9 +13604,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -13687,9 +13624,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -13709,9 +13644,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -13745,9 +13678,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -13767,9 +13698,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -13789,9 +13718,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -13825,9 +13752,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -13847,9 +13772,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -13883,9 +13806,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -13905,9 +13826,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -13941,9 +13860,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -13963,9 +13880,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -13985,9 +13900,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -14203,9 +14116,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -14225,9 +14136,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -14681,9 +14590,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -14703,9 +14610,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -14781,9 +14686,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },
@@ -14817,9 +14720,7 @@
       "bezpečnost při práci",
       "pracovní podmínky",
       "pracovní právo",
-      "zamìstnavatel",
       "zaměstnavatel",
-      "zdraví na pracoviti",
       "zdraví na pracovišti"
     ]
   },

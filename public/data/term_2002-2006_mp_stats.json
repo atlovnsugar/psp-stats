@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "mp_id": 16,
     "eligible_votes": 6775,
@@ -672,6 +672,18 @@
     "additional_stats": {}
   },
   {
+    "mp_id": 295,
+    "eligible_votes": 14148,
+    "attended": 8687,
+    "attendance_pct": 61.4,
+    "voted_yes": 4579,
+    "voted_no": 1962,
+    "abstained": 2146,
+    "party_loyalty": 0.799,
+    "party_id": "kdu-csl",
+    "additional_stats": {}
+  },
+  {
     "mp_id": 297,
     "eligible_votes": 14148,
     "attended": 12694,
@@ -849,6 +861,18 @@
     "abstained": 1886,
     "party_loyalty": 0.885,
     "party_id": "kdu-csl",
+    "additional_stats": {}
+  },
+  {
+    "mp_id": 344,
+    "eligible_votes": 14148,
+    "attended": 12265,
+    "attendance_pct": 86.69,
+    "voted_yes": 6920,
+    "voted_no": 2504,
+    "abstained": 2841,
+    "party_loyalty": 0.806,
+    "party_id": "cssd",
     "additional_stats": {}
   },
   {
@@ -2208,6 +2232,18 @@
     "additional_stats": {}
   },
   {
+    "mp_id": 5312,
+    "eligible_votes": 14148,
+    "attended": 13297,
+    "attendance_pct": 93.99,
+    "voted_yes": 8840,
+    "voted_no": 2264,
+    "abstained": 2193,
+    "party_loyalty": 0.908,
+    "party_id": "kscm",
+    "additional_stats": {}
+  },
+  {
     "mp_id": 5313,
     "eligible_votes": 14148,
     "attended": 13781,
@@ -2361,42 +2397,6 @@
     "abstained": 2775,
     "party_loyalty": 0.884,
     "party_id": "us-deu",
-    "additional_stats": {}
-  },
-  {
-    "mp_id": 295,
-    "eligible_votes": 14148,
-    "attended": 8687,
-    "attendance_pct": 61.4,
-    "voted_yes": 4579,
-    "voted_no": 1962,
-    "abstained": 2146,
-    "party_loyalty": 0.799,
-    "party_id": "kdu-csl",
-    "additional_stats": {}
-  },
-  {
-    "mp_id": 344,
-    "eligible_votes": 14148,
-    "attended": 12265,
-    "attendance_pct": 86.69,
-    "voted_yes": 6920,
-    "voted_no": 2504,
-    "abstained": 2841,
-    "party_loyalty": 0.806,
-    "party_id": "cssd",
-    "additional_stats": {}
-  },
-  {
-    "mp_id": 5312,
-    "eligible_votes": 14148,
-    "attended": 13297,
-    "attendance_pct": 93.99,
-    "voted_yes": 8840,
-    "voted_no": 2264,
-    "abstained": 2193,
-    "party_loyalty": 0.908,
-    "party_id": "kscm",
     "additional_stats": {}
   },
   {

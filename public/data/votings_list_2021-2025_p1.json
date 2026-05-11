@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "id": 77302,
     "date": "2021-11-08",
@@ -1565,7 +1565,6 @@
       "osoba samostatně výdělečně činná",
       "podnikatel",
       "příjem",
-      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -1796,7 +1795,6 @@
       "osoba samostatně výdělečně činná",
       "podnikatel",
       "příjem",
-      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -1820,7 +1818,6 @@
       "osoba samostatně výdělečně činná",
       "podnikatel",
       "příjem",
-      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -1844,7 +1841,6 @@
       "osoba samostatně výdělečně činná",
       "podnikatel",
       "příjem",
-      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -1868,7 +1864,6 @@
       "osoba samostatně výdělečně činná",
       "podnikatel",
       "příjem",
-      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -1892,7 +1887,6 @@
       "osoba samostatně výdělečně činná",
       "podnikatel",
       "příjem",
-      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -1916,7 +1910,6 @@
       "osoba samostatně výdělečně činná",
       "podnikatel",
       "příjem",
-      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -2186,11 +2179,10 @@
     },
     "temata": [
       "pojišťovna",
+      "účetní uzávěrka",
       "všeobecné zdravotní pojištění",
       "zdravotní pojištění",
-      "zpráva o činnosti",
-      "účetní uzávėrka",
-      "účetní uzávěrka"
+      "zpráva o činnosti"
     ]
   },
   {
@@ -2207,11 +2199,10 @@
     },
     "temata": [
       "pojišťovna",
+      "účetní uzávěrka",
       "všeobecné zdravotní pojištění",
       "zdravotní pojištění",
-      "zpráva o činnosti",
-      "účetní uzávėrka",
-      "účetní uzávěrka"
+      "zpráva o činnosti"
     ]
   },
   {
@@ -2227,13 +2218,12 @@
       "not_logged": 4
     },
     "temata": [
-      "Mezinárodní finanční korporace",
-      "Svėtová banka",
-      "Světová banka",
       "bankovnictví",
       "mezinárodní dohoda",
+      "Mezinárodní finanční korporace",
       "ratifikace dohody",
-      "revize dohody"
+      "revize dohody",
+      "Světová banka"
     ]
   },
   {
@@ -2263,13 +2253,12 @@
       "not_logged": 8
     },
     "temata": [
+      "Česká republika",
+      "Československo",
       "Finsko",
       "ochrana investic",
       "podpora investic",
-      "vypovėdėní smlouvy",
-      "vypovědění smlouvy",
-      "Československo",
-      "Česká republika"
+      "vypovědění smlouvy"
     ]
   },
   {
@@ -2285,13 +2274,12 @@
       "not_logged": 8
     },
     "temata": [
-      "Spojené království",
+      "Česká republika",
+      "Československo",
       "ochrana investic",
       "podpora investic",
-      "vypovėdėní smlouvy",
-      "vypovědění smlouvy",
-      "Československo",
-      "Česká republika"
+      "Spojené království",
+      "vypovědění smlouvy"
     ]
   },
   {
@@ -2307,13 +2295,12 @@
       "not_logged": 8
     },
     "temata": [
-      "Spojené království",
+      "Česká republika",
+      "Československo",
       "ochrana investic",
       "podpora investic",
-      "vypovėdėní smlouvy",
-      "vypovědění smlouvy",
-      "Československo",
-      "Česká republika"
+      "Spojené království",
+      "vypovědění smlouvy"
     ]
   },
   {
@@ -2331,7 +2318,6 @@
     "temata": [
       "elektronické peníze",
       "finanční kontrola",
-      "finanční sluby",
       "finanční služby",
       "finanční trh",
       "penzijní připojištění",
@@ -2356,7 +2342,6 @@
     "temata": [
       "elektronické peníze",
       "finanční kontrola",
-      "finanční sluby",
       "finanční služby",
       "finanční trh",
       "penzijní připojištění",
@@ -2381,7 +2366,6 @@
     "temata": [
       "elektronické peníze",
       "finanční kontrola",
-      "finanční sluby",
       "finanční služby",
       "finanční trh",
       "penzijní připojištění",
@@ -3232,12 +3216,10 @@
     },
     "temata": [
       "financování rozpočtu",
-      "plnėní rozpočtu",
       "plnění rozpočtu",
       "tisková agentura",
-      "zpráva o činnosti",
-      "účetní uzávėrka",
-      "účetní uzávěrka"
+      "účetní uzávěrka",
+      "zpráva o činnosti"
     ]
   },
   {
@@ -3325,7 +3307,6 @@
     "temata": [
       "daň z příjmů",
       "osoba samostatně výdělečně činná",
-      "pauální daō",
       "paušální daň"
     ]
   },
@@ -3344,7 +3325,6 @@
     "temata": [
       "daň z příjmů",
       "osoba samostatně výdělečně činná",
-      "pauální daō",
       "paušální daň"
     ]
   },
@@ -3363,7 +3343,6 @@
     "temata": [
       "daň z příjmů",
       "osoba samostatně výdělečně činná",
-      "pauální daō",
       "paušální daň"
     ]
   },
@@ -3384,11 +3363,10 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
-      "vyhlášení zákona",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství",
+      "vyhlášení zákona"
     ]
   },
   {
@@ -3559,13 +3537,11 @@
     },
     "temata": [
       "epidemie",
-      "krizové øízení",
       "krizové řízení",
-      "ochranné zaøízení",
       "ochranné zařízení",
+      "zdraví veřejnosti",
       "zdravotnické zařízení",
-      "zdravotní politika",
-      "zdraví veřejnosti"
+      "zdravotní politika"
     ]
   },
   {
@@ -3582,13 +3558,11 @@
     },
     "temata": [
       "epidemie",
-      "krizové øízení",
       "krizové řízení",
-      "ochranné zaøízení",
       "ochranné zařízení",
+      "zdraví veřejnosti",
       "zdravotnické zařízení",
-      "zdravotní politika",
-      "zdraví veřejnosti"
+      "zdravotní politika"
     ]
   },
   {
@@ -3604,13 +3578,11 @@
       "not_logged": 2
     },
     "temata": [
-      "distanční vzdėlávání",
       "distanční vzdělávání",
       "domácí péče",
       "epidemie",
       "organizace školního roku",
       "organizace školství",
-      "oetøovatelská péče",
       "ošetřovatelská péče",
       "rozvržení prázdnin"
     ]
@@ -3629,13 +3601,11 @@
     },
     "temata": [
       "epidemie",
-      "krizové øízení",
       "krizové řízení",
-      "ochranné zaøízení",
       "ochranné zařízení",
+      "zdraví veřejnosti",
       "zdravotnické zařízení",
-      "zdravotní politika",
-      "zdraví veřejnosti"
+      "zdravotní politika"
     ]
   },
   {
@@ -3652,11 +3622,10 @@
     },
     "temata": [
       "pojišťovna",
+      "účetní uzávěrka",
       "všeobecné zdravotní pojištění",
       "zdravotní pojištění",
-      "zpráva o činnosti",
-      "účetní uzávėrka",
-      "účetní uzávěrka"
+      "zpráva o činnosti"
     ]
   },
   {
@@ -3673,11 +3642,10 @@
     },
     "temata": [
       "pojišťovna",
+      "účetní uzávěrka",
       "všeobecné zdravotní pojištění",
       "zdravotní pojištění",
-      "zpráva o činnosti",
-      "účetní uzávėrka",
-      "účetní uzávěrka"
+      "zpráva o činnosti"
     ]
   },
   {
@@ -3697,8 +3665,7 @@
       "silniční doprava",
       "silniční provoz",
       "tělesně postižený člověk",
-      "zdravotní průkaz",
-      "zdravotní prųkaz"
+      "zdravotní průkaz"
     ]
   },
   {
@@ -3718,8 +3685,7 @@
       "silniční doprava",
       "silniční provoz",
       "tělesně postižený člověk",
-      "zdravotní průkaz",
-      "zdravotní prųkaz"
+      "zdravotní průkaz"
     ]
   },
   {
@@ -3735,12 +3701,10 @@
       "not_logged": 20
     },
     "temata": [
-      "nevyuitelný odpad",
       "nevyužitelný odpad",
       "ochrana životního prostředí",
       "plast",
       "průmysl plastů",
-      "prųmysl plastų",
       "recyklovaný výrobek",
       "znečišťování životního prostředí"
     ]
@@ -3758,12 +3722,10 @@
       "not_logged": 19
     },
     "temata": [
-      "nevyuitelný odpad",
       "nevyužitelný odpad",
       "ochrana životního prostředí",
       "plast",
       "průmysl plastů",
-      "prųmysl plastų",
       "recyklovaný výrobek",
       "znečišťování životního prostředí"
     ]
@@ -3781,12 +3743,10 @@
       "not_logged": 17
     },
     "temata": [
-      "nevyuitelný odpad",
       "nevyužitelný odpad",
       "ochrana životního prostředí",
       "plast",
       "průmysl plastů",
-      "prųmysl plastų",
       "recyklovaný výrobek",
       "znečišťování životního prostředí"
     ]
@@ -3804,12 +3764,10 @@
       "not_logged": 17
     },
     "temata": [
-      "nevyuitelný odpad",
       "nevyužitelný odpad",
       "ochrana životního prostředí",
       "plast",
       "průmysl plastů",
-      "prųmysl plastų",
       "recyklovaný výrobek",
       "znečišťování životního prostředí"
     ]
@@ -3827,12 +3785,10 @@
       "not_logged": 17
     },
     "temata": [
-      "nevyuitelný odpad",
       "nevyužitelný odpad",
       "ochrana životního prostředí",
       "plast",
       "průmysl plastů",
-      "prųmysl plastų",
       "recyklovaný výrobek",
       "znečišťování životního prostředí"
     ]
@@ -3850,12 +3806,10 @@
       "not_logged": 13
     },
     "temata": [
-      "nevyuitelný odpad",
       "nevyužitelný odpad",
       "ochrana životního prostředí",
       "plast",
       "průmysl plastů",
-      "prųmysl plastų",
       "recyklovaný výrobek",
       "znečišťování životního prostředí"
     ]
@@ -4223,13 +4177,12 @@
       "not_logged": 20
     },
     "temata": [
-      "EUTELSAT",
+      "Česká republika",
       "družice",
+      "EUTELSAT",
       "přistoupení k dohodě",
-      "satelitní pøenos",
       "satelitní přenos",
-      "telekomunikace",
-      "Česká republika"
+      "telekomunikace"
     ]
   },
   {
@@ -4245,13 +4198,12 @@
       "not_logged": 13
     },
     "temata": [
-      "EUTELSAT",
+      "Česká republika",
       "družice",
+      "EUTELSAT",
       "přistoupení k dohodě",
-      "satelitní pøenos",
       "satelitní přenos",
-      "telekomunikace",
-      "Česká republika"
+      "telekomunikace"
     ]
   },
   {
@@ -4267,11 +4219,10 @@
       "not_logged": 16
     },
     "temata": [
-      "Svėtová potovní unie",
-      "Světová poštovní unie",
       "poštovní služba",
       "ratifikace dohody",
-      "specializovaná instituce OSN"
+      "specializovaná instituce OSN",
+      "Světová poštovní unie"
     ]
   },
   {
@@ -4287,11 +4238,10 @@
       "not_logged": 10
     },
     "temata": [
-      "Svėtová potovní unie",
-      "Světová poštovní unie",
       "poštovní služba",
       "ratifikace dohody",
-      "specializovaná instituce OSN"
+      "specializovaná instituce OSN",
+      "Světová poštovní unie"
     ]
   },
   {
@@ -4307,11 +4257,10 @@
       "not_logged": 13
     },
     "temata": [
+      "činžovní dům",
       "hotelový průmysl",
       "kolaborativní ekonomika",
       "rodinný dům",
-      "činovní dųm",
-      "činžovní dům",
       "živnost",
       "živnostník"
     ]
@@ -4960,13 +4909,11 @@
     },
     "temata": [
       "epidemie",
-      "krizové øízení",
       "krizové řízení",
-      "ochranné zaøízení",
       "ochranné zařízení",
+      "zdraví veřejnosti",
       "zdravotnické zařízení",
-      "zdravotní politika",
-      "zdraví veřejnosti"
+      "zdravotní politika"
     ]
   },
   {
@@ -4983,13 +4930,11 @@
     },
     "temata": [
       "epidemie",
-      "krizové øízení",
       "krizové řízení",
-      "ochranné zaøízení",
       "ochranné zařízení",
+      "zdraví veřejnosti",
       "zdravotnické zařízení",
-      "zdravotní politika",
-      "zdraví veřejnosti"
+      "zdravotní politika"
     ]
   },
   {
@@ -5006,13 +4951,11 @@
     },
     "temata": [
       "epidemie",
-      "krizové øízení",
       "krizové řízení",
-      "ochranné zaøízení",
       "ochranné zařízení",
+      "zdraví veřejnosti",
       "zdravotnické zařízení",
-      "zdravotní politika",
-      "zdraví veřejnosti"
+      "zdravotní politika"
     ]
   },
   {
@@ -5029,13 +4972,11 @@
     },
     "temata": [
       "epidemie",
-      "krizové øízení",
       "krizové řízení",
-      "ochranné zaøízení",
       "ochranné zařízení",
+      "zdraví veřejnosti",
       "zdravotnické zařízení",
-      "zdravotní politika",
-      "zdraví veřejnosti"
+      "zdravotní politika"
     ]
   },
   {
@@ -5052,13 +4993,11 @@
     },
     "temata": [
       "epidemie",
-      "krizové øízení",
       "krizové řízení",
-      "ochranné zaøízení",
       "ochranné zařízení",
+      "zdraví veřejnosti",
       "zdravotnické zařízení",
-      "zdravotní politika",
-      "zdraví veřejnosti"
+      "zdravotní politika"
     ]
   },
   {
@@ -5075,13 +5014,11 @@
     },
     "temata": [
       "epidemie",
-      "krizové øízení",
       "krizové řízení",
-      "ochranné zaøízení",
       "ochranné zařízení",
+      "zdraví veřejnosti",
       "zdravotnické zařízení",
-      "zdravotní politika",
-      "zdraví veřejnosti"
+      "zdravotní politika"
     ]
   },
   {
@@ -5098,13 +5035,11 @@
     },
     "temata": [
       "epidemie",
-      "krizové øízení",
       "krizové řízení",
-      "ochranné zaøízení",
       "ochranné zařízení",
+      "zdraví veřejnosti",
       "zdravotnické zařízení",
-      "zdravotní politika",
-      "zdraví veřejnosti"
+      "zdravotní politika"
     ]
   },
   {
@@ -5121,13 +5056,11 @@
     },
     "temata": [
       "epidemie",
-      "krizové øízení",
       "krizové řízení",
-      "ochranné zaøízení",
       "ochranné zařízení",
+      "zdraví veřejnosti",
       "zdravotnické zařízení",
-      "zdravotní politika",
-      "zdraví veřejnosti"
+      "zdravotní politika"
     ]
   },
   {
@@ -5144,13 +5077,11 @@
     },
     "temata": [
       "epidemie",
-      "krizové øízení",
       "krizové řízení",
-      "ochranné zaøízení",
       "ochranné zařízení",
+      "zdraví veřejnosti",
       "zdravotnické zařízení",
-      "zdravotní politika",
-      "zdraví veřejnosti"
+      "zdravotní politika"
     ]
   },
   {
@@ -5167,13 +5098,11 @@
     },
     "temata": [
       "epidemie",
-      "krizové øízení",
       "krizové řízení",
-      "ochranné zaøízení",
       "ochranné zařízení",
+      "zdraví veřejnosti",
       "zdravotnické zařízení",
-      "zdravotní politika",
-      "zdraví veřejnosti"
+      "zdravotní politika"
     ]
   },
   {
@@ -5190,13 +5119,11 @@
     },
     "temata": [
       "epidemie",
-      "krizové øízení",
       "krizové řízení",
-      "ochranné zaøízení",
       "ochranné zařízení",
+      "zdraví veřejnosti",
       "zdravotnické zařízení",
-      "zdravotní politika",
-      "zdraví veřejnosti"
+      "zdravotní politika"
     ]
   },
   {
@@ -5213,13 +5140,11 @@
     },
     "temata": [
       "epidemie",
-      "krizové øízení",
       "krizové řízení",
-      "ochranné zaøízení",
       "ochranné zařízení",
+      "zdraví veřejnosti",
       "zdravotnické zařízení",
-      "zdravotní politika",
-      "zdraví veřejnosti"
+      "zdravotní politika"
     ]
   },
   {
@@ -5236,13 +5161,11 @@
     },
     "temata": [
       "epidemie",
-      "krizové øízení",
       "krizové řízení",
-      "ochranné zaøízení",
       "ochranné zařízení",
+      "zdraví veřejnosti",
       "zdravotnické zařízení",
-      "zdravotní politika",
-      "zdraví veřejnosti"
+      "zdravotní politika"
     ]
   },
   {
@@ -5259,13 +5182,11 @@
     },
     "temata": [
       "epidemie",
-      "krizové øízení",
       "krizové řízení",
-      "ochranné zaøízení",
       "ochranné zařízení",
+      "zdraví veřejnosti",
       "zdravotnické zařízení",
-      "zdravotní politika",
-      "zdraví veřejnosti"
+      "zdravotní politika"
     ]
   },
   {
@@ -6459,7 +6380,6 @@
     "temata": [
       "daň z příjmů",
       "osoba samostatně výdělečně činná",
-      "pauální daō",
       "paušální daň"
     ]
   },
@@ -6667,13 +6587,11 @@
     },
     "temata": [
       "epidemie",
-      "krizové øízení",
       "krizové řízení",
-      "ochranné zaøízení",
       "ochranné zařízení",
+      "zdraví veřejnosti",
       "zdravotnické zařízení",
-      "zdravotní politika",
-      "zdraví veřejnosti"
+      "zdravotní politika"
     ]
   },
   {
@@ -7111,7 +7029,6 @@
       "elektronická správa dokumentů",
       "elektronický dokument",
       "ukládání dokumentů",
-      "ukládání dokumentų",
       "veřejná správa"
     ]
   },
@@ -7132,7 +7049,6 @@
       "elektronická správa dokumentů",
       "elektronický dokument",
       "ukládání dokumentů",
-      "ukládání dokumentų",
       "veřejná správa"
     ]
   },
@@ -7149,12 +7065,10 @@
       "not_logged": 7
     },
     "temata": [
-      "nevyuitelný odpad",
       "nevyužitelný odpad",
       "ochrana životního prostředí",
       "plast",
       "průmysl plastů",
-      "prųmysl plastų",
       "recyklovaný výrobek",
       "znečišťování životního prostředí",
       "zneškodňování odpadu"
@@ -7177,7 +7091,6 @@
       "elektronická správa dokumentů",
       "elektronický dokument",
       "ukládání dokumentů",
-      "ukládání dokumentų",
       "veřejná správa"
     ]
   },
@@ -7198,7 +7111,6 @@
       "elektronická správa dokumentů",
       "elektronický dokument",
       "ukládání dokumentů",
-      "ukládání dokumentų",
       "veřejná správa"
     ]
   },
@@ -7282,7 +7194,6 @@
       "elektronická správa dokumentů",
       "elektronický dokument",
       "ukládání dokumentů",
-      "ukládání dokumentų",
       "veřejná správa"
     ]
   },
@@ -7368,7 +7279,6 @@
       "elektronická správa dokumentů",
       "elektronický dokument",
       "ukládání dokumentů",
-      "ukládání dokumentų",
       "veřejná správa"
     ]
   },
@@ -7386,10 +7296,7 @@
     },
     "temata": [
       "dopravní předpisy",
-      "loï",
       "loď",
-      "námoøní bezpečnost",
-      "námoøní plavba",
       "námořní bezpečnost",
       "námořní doprava",
       "námořní plavba",
@@ -7417,7 +7324,6 @@
       "elektronická správa dokumentů",
       "elektronický dokument",
       "ukládání dokumentů",
-      "ukládání dokumentų",
       "veřejná správa"
     ]
   },
@@ -7438,7 +7344,6 @@
       "elektronická správa dokumentů",
       "elektronický dokument",
       "ukládání dokumentů",
-      "ukládání dokumentų",
       "veřejná správa"
     ]
   },
@@ -7459,7 +7364,6 @@
       "elektronická správa dokumentů",
       "elektronický dokument",
       "ukládání dokumentů",
-      "ukládání dokumentų",
       "veřejná správa"
     ]
   },
@@ -7480,7 +7384,6 @@
       "elektronická správa dokumentů",
       "elektronický dokument",
       "ukládání dokumentů",
-      "ukládání dokumentų",
       "veřejná správa"
     ]
   },
@@ -7501,7 +7404,6 @@
       "elektronická správa dokumentů",
       "elektronický dokument",
       "ukládání dokumentů",
-      "ukládání dokumentų",
       "veřejná správa"
     ]
   },
@@ -7522,7 +7424,6 @@
       "elektronická správa dokumentů",
       "elektronický dokument",
       "ukládání dokumentů",
-      "ukládání dokumentų",
       "veřejná správa"
     ]
   },
@@ -7543,7 +7444,6 @@
       "elektronická správa dokumentů",
       "elektronický dokument",
       "ukládání dokumentů",
-      "ukládání dokumentų",
       "veřejná správa"
     ]
   },
@@ -7564,7 +7464,6 @@
       "elektronická správa dokumentů",
       "elektronický dokument",
       "ukládání dokumentů",
-      "ukládání dokumentų",
       "veřejná správa"
     ]
   },
@@ -7585,7 +7484,6 @@
       "elektronická správa dokumentů",
       "elektronický dokument",
       "ukládání dokumentů",
-      "ukládání dokumentų",
       "veřejná správa"
     ]
   },
@@ -7603,7 +7501,6 @@
     },
     "temata": [
       "druhá světová válka",
-      "občanská neposlunost",
       "občanská neposlušnost",
       "politické násilí",
       "státní svátek",
@@ -7627,7 +7524,6 @@
       "elektronická správa dokumentů",
       "elektronický dokument",
       "ukládání dokumentů",
-      "ukládání dokumentų",
       "veřejná správa"
     ]
   },
@@ -7648,7 +7544,6 @@
       "elektronická správa dokumentů",
       "elektronický dokument",
       "ukládání dokumentů",
-      "ukládání dokumentų",
       "veřejná správa"
     ]
   },
@@ -7770,9 +7665,7 @@
       "not_logged": 11
     },
     "temata": [
-      "kosmická loï",
       "kosmická loď",
-      "kosmická pøeprava",
       "kosmická přeprava",
       "nosná raketa",
       "ratifikace dohody"
@@ -7848,12 +7741,11 @@
       "not_logged": 12
     },
     "temata": [
-      "San Marino",
+      "Česká republika",
       "daňová úmluva",
-      "daōová úmluva",
       "dvojí zdanění",
-      "zkrácení daně",
-      "Česká republika"
+      "San Marino",
+      "zkrácení daně"
     ]
   },
   {
@@ -9701,10 +9593,8 @@
     },
     "temata": [
       "podpora podnikání",
-      "podpora zemėdėlství",
       "podpora zemědělství",
       "státní podpora",
-      "zemėdėlská politika",
       "zemědělská politika",
       "zemědělská výroba"
     ]
@@ -9765,7 +9655,6 @@
       "intervenční politika",
       "návrh rozpočtu",
       "rozpočet",
-      "společná zemėdėlská politika",
       "společná zemědělská politika",
       "účty agrárního sektoru"
     ]
@@ -9784,13 +9673,10 @@
     },
     "temata": [
       "filmový průmysl",
-      "filmový prųmysl",
       "financování rozpočtu",
-      "plnėní rozpočtu",
       "plnění rozpočtu",
-      "zpráva o činnosti",
-      "účetní uzávėrka",
-      "účetní uzávěrka"
+      "účetní uzávěrka",
+      "zpráva o činnosti"
     ]
   },
   {
@@ -9848,14 +9734,13 @@
       "not_logged": 11
     },
     "temata": [
-      "Ukrajina",
       "azylové právo",
       "cizí státní občan",
       "migrace",
       "povolení k pobytu",
-      "vnėjí hranice Evropské unie",
-      "vnější hranice Evropské unie",
-      "válka"
+      "Ukrajina",
+      "válka",
+      "vnější hranice Evropské unie"
     ]
   },
   {
@@ -9871,14 +9756,13 @@
       "not_logged": 19
     },
     "temata": [
-      "Ukrajina",
       "azylové právo",
       "cizí státní občan",
       "migrace",
       "povolení k pobytu",
-      "vnėjí hranice Evropské unie",
-      "vnější hranice Evropské unie",
-      "válka"
+      "Ukrajina",
+      "válka",
+      "vnější hranice Evropské unie"
     ]
   },
   {
@@ -9894,14 +9778,13 @@
       "not_logged": 6
     },
     "temata": [
-      "Ukrajina",
       "azylové právo",
       "cizí státní občan",
       "migrace",
       "povolení k pobytu",
-      "vnėjí hranice Evropské unie",
-      "vnější hranice Evropské unie",
-      "válka"
+      "Ukrajina",
+      "válka",
+      "vnější hranice Evropské unie"
     ]
   },
   {
@@ -9917,14 +9800,13 @@
       "not_logged": 37
     },
     "temata": [
-      "Ukrajina",
       "azylové právo",
       "cizí státní občan",
       "migrace",
       "povolení k pobytu",
-      "vnėjí hranice Evropské unie",
-      "vnější hranice Evropské unie",
-      "válka"
+      "Ukrajina",
+      "válka",
+      "vnější hranice Evropské unie"
     ]
   },
   {
@@ -9940,14 +9822,13 @@
       "not_logged": 17
     },
     "temata": [
-      "Ukrajina",
       "azylové právo",
       "cizí státní občan",
       "migrace",
       "povolení k pobytu",
-      "vnėjí hranice Evropské unie",
-      "vnější hranice Evropské unie",
-      "válka"
+      "Ukrajina",
+      "válka",
+      "vnější hranice Evropské unie"
     ]
   },
   {
@@ -9963,14 +9844,13 @@
       "not_logged": 35
     },
     "temata": [
-      "Ukrajina",
       "azylové právo",
       "cizí státní občan",
       "migrace",
       "povolení k pobytu",
-      "vnėjí hranice Evropské unie",
-      "vnější hranice Evropské unie",
-      "válka"
+      "Ukrajina",
+      "válka",
+      "vnější hranice Evropské unie"
     ]
   },
   {
@@ -9986,14 +9866,13 @@
       "not_logged": 6
     },
     "temata": [
-      "Ukrajina",
       "azylové právo",
       "cizí státní občan",
       "migrace",
       "povolení k pobytu",
-      "vnėjí hranice Evropské unie",
-      "vnější hranice Evropské unie",
-      "válka"
+      "Ukrajina",
+      "válka",
+      "vnější hranice Evropské unie"
     ]
   },
   {
@@ -10009,14 +9888,13 @@
       "not_logged": 6
     },
     "temata": [
-      "Ukrajina",
       "azylové právo",
       "cizí státní občan",
       "migrace",
       "povolení k pobytu",
-      "vnėjí hranice Evropské unie",
-      "vnější hranice Evropské unie",
-      "válka"
+      "Ukrajina",
+      "válka",
+      "vnější hranice Evropské unie"
     ]
   },
   {
@@ -10032,14 +9910,13 @@
       "not_logged": 6
     },
     "temata": [
-      "Ukrajina",
       "azylové právo",
       "cizí státní občan",
       "migrace",
       "povolení k pobytu",
-      "vnėjí hranice Evropské unie",
-      "vnější hranice Evropské unie",
-      "válka"
+      "Ukrajina",
+      "válka",
+      "vnější hranice Evropské unie"
     ]
   },
   {
@@ -10055,14 +9932,13 @@
       "not_logged": 5
     },
     "temata": [
-      "Ukrajina",
       "azylové právo",
       "cizí státní občan",
       "migrace",
       "povolení k pobytu",
-      "vnėjí hranice Evropské unie",
-      "vnější hranice Evropské unie",
-      "válka"
+      "Ukrajina",
+      "válka",
+      "vnější hranice Evropské unie"
     ]
   },
   {
@@ -10078,14 +9954,13 @@
       "not_logged": 7
     },
     "temata": [
-      "Ukrajina",
       "azylové právo",
       "cizí státní občan",
       "migrace",
       "povolení k pobytu",
-      "vnėjí hranice Evropské unie",
-      "vnější hranice Evropské unie",
-      "válka"
+      "Ukrajina",
+      "válka",
+      "vnější hranice Evropské unie"
     ]
   },
   {
@@ -10101,14 +9976,13 @@
       "not_logged": 5
     },
     "temata": [
-      "Ukrajina",
       "azylové právo",
       "cizí státní občan",
       "migrace",
       "povolení k pobytu",
-      "vnėjí hranice Evropské unie",
-      "vnější hranice Evropské unie",
-      "válka"
+      "Ukrajina",
+      "válka",
+      "vnější hranice Evropské unie"
     ]
   },
   {
@@ -10124,14 +9998,13 @@
       "not_logged": 4
     },
     "temata": [
-      "Ukrajina",
       "azylové právo",
       "cizí státní občan",
       "migrace",
       "povolení k pobytu",
-      "vnėjí hranice Evropské unie",
-      "vnější hranice Evropské unie",
-      "válka"
+      "Ukrajina",
+      "válka",
+      "vnější hranice Evropské unie"
     ]
   },
   {
@@ -10147,14 +10020,13 @@
       "not_logged": 4
     },
     "temata": [
-      "Ukrajina",
       "azylové právo",
       "cizí státní občan",
       "migrace",
       "povolení k pobytu",
-      "vnėjí hranice Evropské unie",
-      "vnější hranice Evropské unie",
-      "válka"
+      "Ukrajina",
+      "válka",
+      "vnější hranice Evropské unie"
     ]
   },
   {
@@ -10170,14 +10042,13 @@
       "not_logged": 4
     },
     "temata": [
-      "Ukrajina",
       "azylové právo",
       "cizí státní občan",
       "migrace",
       "povolení k pobytu",
-      "vnėjí hranice Evropské unie",
-      "vnější hranice Evropské unie",
-      "válka"
+      "Ukrajina",
+      "válka",
+      "vnější hranice Evropské unie"
     ]
   },
   {
@@ -10193,14 +10064,13 @@
       "not_logged": 4
     },
     "temata": [
-      "Ukrajina",
       "azylové právo",
       "cizí státní občan",
       "migrace",
       "povolení k pobytu",
-      "vnėjí hranice Evropské unie",
-      "vnější hranice Evropské unie",
-      "válka"
+      "Ukrajina",
+      "válka",
+      "vnější hranice Evropské unie"
     ]
   },
   {
@@ -10238,14 +10108,13 @@
       "not_logged": 4
     },
     "temata": [
-      "Ukrajina",
       "azylové právo",
       "cizí státní občan",
       "migrace",
       "povolení k pobytu",
-      "vnėjí hranice Evropské unie",
-      "vnější hranice Evropské unie",
-      "válka"
+      "Ukrajina",
+      "válka",
+      "vnější hranice Evropské unie"
     ]
   },
   {
@@ -10261,14 +10130,13 @@
       "not_logged": 4
     },
     "temata": [
-      "Ukrajina",
       "azylové právo",
       "cizí státní občan",
       "migrace",
       "povolení k pobytu",
-      "vnėjí hranice Evropské unie",
-      "vnější hranice Evropské unie",
-      "válka"
+      "Ukrajina",
+      "válka",
+      "vnější hranice Evropské unie"
     ]
   },
   {
@@ -10284,14 +10152,13 @@
       "not_logged": 4
     },
     "temata": [
-      "Ukrajina",
       "azylové právo",
       "cizí státní občan",
       "migrace",
       "povolení k pobytu",
-      "vnėjí hranice Evropské unie",
-      "vnější hranice Evropské unie",
-      "válka"
+      "Ukrajina",
+      "válka",
+      "vnější hranice Evropské unie"
     ]
   },
   {
@@ -10668,15 +10535,12 @@
     "temata": [
       "audiovizuální politika",
       "audiovizuální průmysl",
-      "audiovizuální prųmysl",
       "dezinformace",
       "evropský audiovizuální prostor",
       "kontrola komunikace",
-      "poskytovatel internetových slueb",
       "poskytovatel internetových služeb",
       "svoboda projevu",
       "videokomunikace",
-      "volný pohyb programù",
       "volný pohyb programů"
     ]
   },
@@ -10695,15 +10559,12 @@
     "temata": [
       "audiovizuální politika",
       "audiovizuální průmysl",
-      "audiovizuální prųmysl",
       "dezinformace",
       "evropský audiovizuální prostor",
       "kontrola komunikace",
-      "poskytovatel internetových slueb",
       "poskytovatel internetových služeb",
       "svoboda projevu",
       "videokomunikace",
-      "volný pohyb programù",
       "volný pohyb programů"
     ]
   },
@@ -10727,7 +10588,6 @@
       "energetická politika",
       "obnovitelná energie",
       "obnovitelné zdroje",
-      "pøechodné období (EU)",
       "přechodné období (EU)"
     ]
   },
@@ -10751,7 +10611,6 @@
       "energetická politika",
       "obnovitelná energie",
       "obnovitelné zdroje",
-      "pøechodné období (EU)",
       "přechodné období (EU)"
     ]
   },
@@ -10775,7 +10634,6 @@
       "energetická politika",
       "obnovitelná energie",
       "obnovitelné zdroje",
-      "pøechodné období (EU)",
       "přechodné období (EU)"
     ]
   },
@@ -10799,7 +10657,6 @@
       "energetická politika",
       "obnovitelná energie",
       "obnovitelné zdroje",
-      "pøechodné období (EU)",
       "přechodné období (EU)"
     ]
   },
@@ -10843,7 +10700,6 @@
       "energetická politika",
       "obnovitelná energie",
       "obnovitelné zdroje",
-      "pøechodné období (EU)",
       "přechodné období (EU)"
     ]
   },
@@ -10867,7 +10723,6 @@
       "energetická politika",
       "obnovitelná energie",
       "obnovitelné zdroje",
-      "pøechodné období (EU)",
       "přechodné období (EU)"
     ]
   },
@@ -10914,7 +10769,6 @@
       "energetická politika",
       "obnovitelná energie",
       "obnovitelné zdroje",
-      "pøechodné období (EU)",
       "přechodné období (EU)"
     ]
   },
@@ -10938,7 +10792,6 @@
       "energetická politika",
       "obnovitelná energie",
       "obnovitelné zdroje",
-      "pøechodné období (EU)",
       "přechodné období (EU)"
     ]
   },
@@ -10962,7 +10815,6 @@
       "energetická politika",
       "obnovitelná energie",
       "obnovitelné zdroje",
-      "pøechodné období (EU)",
       "přechodné období (EU)"
     ]
   },
@@ -10986,7 +10838,6 @@
       "energetická politika",
       "obnovitelná energie",
       "obnovitelné zdroje",
-      "pøechodné období (EU)",
       "přechodné období (EU)"
     ]
   },
@@ -11010,7 +10861,6 @@
       "energetická politika",
       "obnovitelná energie",
       "obnovitelné zdroje",
-      "pøechodné období (EU)",
       "přechodné období (EU)"
     ]
   },
@@ -11034,7 +10884,6 @@
       "energetická politika",
       "obnovitelná energie",
       "obnovitelné zdroje",
-      "pøechodné období (EU)",
       "přechodné období (EU)"
     ]
   },
@@ -11216,7 +11065,6 @@
       "investiční banka",
       "mezinárodní dohoda",
       "mezinárodní investice",
-      "vypovėdėní smlouvy",
       "vypovědění smlouvy"
     ]
   },
@@ -11237,7 +11085,6 @@
       "investiční banka",
       "mezinárodní dohoda",
       "mezinárodní investice",
-      "vypovėdėní smlouvy",
       "vypovědění smlouvy"
     ]
   },
@@ -11258,7 +11105,6 @@
       "investiční banka",
       "mezinárodní dohoda",
       "mezinárodní investice",
-      "vypovėdėní smlouvy",
       "vypovědění smlouvy"
     ]
   },
@@ -11279,7 +11125,6 @@
       "investiční banka",
       "mezinárodní dohoda",
       "mezinárodní investice",
-      "vypovėdėní smlouvy",
       "vypovědění smlouvy"
     ]
   },
@@ -11300,7 +11145,6 @@
       "investiční banka",
       "mezinárodní dohoda",
       "mezinárodní investice",
-      "vypovėdėní smlouvy",
       "vypovědění smlouvy"
     ]
   },
@@ -11321,7 +11165,6 @@
       "investiční banka",
       "mezinárodní dohoda",
       "mezinárodní investice",
-      "vypovėdėní smlouvy",
       "vypovědění smlouvy"
     ]
   },
@@ -11338,13 +11181,12 @@
       "not_logged": 22
     },
     "temata": [
+      "Česká republika",
+      "Československo",
       "Finsko",
       "ochrana investic",
       "podpora investic",
-      "vypovėdėní smlouvy",
-      "vypovědění smlouvy",
-      "Československo",
-      "Česká republika"
+      "vypovědění smlouvy"
     ]
   },
   {
@@ -11360,13 +11202,12 @@
       "not_logged": 12
     },
     "temata": [
-      "Spojené království",
+      "Česká republika",
+      "Československo",
       "ochrana investic",
       "podpora investic",
-      "vypovėdėní smlouvy",
-      "vypovědění smlouvy",
-      "Československo",
-      "Česká republika"
+      "Spojené království",
+      "vypovědění smlouvy"
     ]
   },
   {
@@ -11382,13 +11223,12 @@
       "not_logged": 11
     },
     "temata": [
-      "Mezinárodní finanční korporace",
-      "Svėtová banka",
-      "Světová banka",
       "bankovnictví",
       "mezinárodní dohoda",
+      "Mezinárodní finanční korporace",
       "ratifikace dohody",
-      "revize dohody"
+      "revize dohody",
+      "Světová banka"
     ]
   },
   {
@@ -11589,15 +11429,12 @@
       "bydlení",
       "chudoba",
       "pomoc sociálně znevýhodněným skupinám",
-      "poptávka po zamėstnání",
       "poptávka po zaměstnání",
       "práce na černo",
       "rodinné přídavky",
       "sociální dávky",
       "sociální pomoc",
-      "veøejná instituce",
       "veřejná instituce",
-      "základní ivotní potøeby",
       "základní životní potřeby",
       "životní minimum"
     ]
@@ -11618,15 +11455,12 @@
       "bydlení",
       "chudoba",
       "pomoc sociálně znevýhodněným skupinám",
-      "poptávka po zamėstnání",
       "poptávka po zaměstnání",
       "práce na černo",
       "rodinné přídavky",
       "sociální dávky",
       "sociální pomoc",
-      "veøejná instituce",
       "veřejná instituce",
-      "základní ivotní potøeby",
       "základní životní potřeby",
       "životní minimum"
     ]
@@ -11647,15 +11481,12 @@
       "bydlení",
       "chudoba",
       "pomoc sociálně znevýhodněným skupinám",
-      "poptávka po zamėstnání",
       "poptávka po zaměstnání",
       "práce na černo",
       "rodinné přídavky",
       "sociální dávky",
       "sociální pomoc",
-      "veøejná instituce",
       "veřejná instituce",
-      "základní ivotní potøeby",
       "základní životní potřeby",
       "životní minimum"
     ]
@@ -11675,7 +11506,6 @@
     "temata": [
       "elektronické peníze",
       "finanční kontrola",
-      "finanční sluby",
       "finanční služby",
       "finanční trh",
       "penzijní připojištění",
@@ -11720,11 +11550,10 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
-      "vyhlášení zákona",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství",
+      "vyhlášení zákona"
     ]
   },
   {
@@ -11744,11 +11573,10 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
-      "vyhlášení zákona",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství",
+      "vyhlášení zákona"
     ]
   },
   {
@@ -11768,11 +11596,10 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
-      "vyhlášení zákona",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství",
+      "vyhlášení zákona"
     ]
   },
   {
@@ -11792,11 +11619,10 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
-      "vyhlášení zákona",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství",
+      "vyhlášení zákona"
     ]
   },
   {
@@ -11816,11 +11642,10 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
-      "vyhlášení zákona",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství",
+      "vyhlášení zákona"
     ]
   },
   {
@@ -11840,11 +11665,10 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
-      "vyhlášení zákona",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství",
+      "vyhlášení zákona"
     ]
   },
   {
@@ -11864,11 +11688,10 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
-      "vyhlášení zákona",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství",
+      "vyhlášení zákona"
     ]
   },
   {
@@ -11888,11 +11711,10 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
-      "vyhlášení zákona",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství",
+      "vyhlášení zákona"
     ]
   },
   {
@@ -11912,11 +11734,10 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
-      "vyhlášení zákona",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství",
+      "vyhlášení zákona"
     ]
   },
   {
@@ -11936,11 +11757,10 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
-      "vyhlášení zákona",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství",
+      "vyhlášení zákona"
     ]
   },
   {
@@ -11960,11 +11780,10 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
-      "vyhlášení zákona",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství",
+      "vyhlášení zákona"
     ]
   },
   {
@@ -11984,11 +11803,10 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
-      "vyhlášení zákona",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství",
+      "vyhlášení zákona"
     ]
   },
   {
@@ -12008,11 +11826,10 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
-      "vyhlášení zákona",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství",
+      "vyhlášení zákona"
     ]
   },
   {
@@ -12032,11 +11849,10 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
-      "vyhlášení zákona",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství",
+      "vyhlášení zákona"
     ]
   },
   {
@@ -12056,11 +11872,10 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
-      "vyhlášení zákona",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství",
+      "vyhlášení zákona"
     ]
   },
   {
@@ -12080,11 +11895,10 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
-      "vyhlášení zákona",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství",
+      "vyhlášení zákona"
     ]
   },
   {
@@ -12104,11 +11918,10 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
-      "vyhlášení zákona",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství",
+      "vyhlášení zákona"
     ]
   },
   {
@@ -12128,11 +11941,10 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
-      "vyhlášení zákona",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství",
+      "vyhlášení zákona"
     ]
   },
   {
@@ -12373,10 +12185,8 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronický obchod",
       "informaèní služba",
-      "informační sluba",
       "internet"
     ]
   },
@@ -12504,10 +12314,8 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronický obchod",
       "informaèní služba",
-      "informační sluba",
       "internet"
     ]
   },
@@ -12525,10 +12333,8 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronický obchod",
       "informaèní služba",
-      "informační sluba",
       "internet"
     ]
   },
@@ -12546,10 +12352,8 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronický obchod",
       "informaèní služba",
-      "informační sluba",
       "internet"
     ]
   },
@@ -12567,10 +12371,8 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronický obchod",
       "informaèní služba",
-      "informační sluba",
       "internet"
     ]
   },
@@ -12588,10 +12390,8 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronický obchod",
       "informaèní služba",
-      "informační sluba",
       "internet"
     ]
   },
@@ -12609,10 +12409,8 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronický obchod",
       "informaèní služba",
-      "informační sluba",
       "internet"
     ]
   },
@@ -12630,10 +12428,8 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronický obchod",
       "informaèní služba",
-      "informační sluba",
       "internet"
     ]
   },
@@ -12651,10 +12447,8 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronický obchod",
       "informaèní služba",
-      "informační sluba",
       "internet"
     ]
   },
@@ -12673,11 +12467,9 @@
     "temata": [
       "farmaceutický výrobek",
       "lék",
-      "lékaøská diagnóza",
       "lékařská diagnóza",
       "organizace zdravotnictví",
       "prostředky zdravotnické techniky",
-      "prostųedky zdravotnické techniky",
       "seznam"
     ]
   },
@@ -12696,11 +12488,9 @@
     "temata": [
       "farmaceutický výrobek",
       "lék",
-      "lékaøská diagnóza",
       "lékařská diagnóza",
       "organizace zdravotnictví",
       "prostředky zdravotnické techniky",
-      "prostųedky zdravotnické techniky",
       "seznam"
     ]
   },
@@ -12719,11 +12509,9 @@
     "temata": [
       "farmaceutický výrobek",
       "lék",
-      "lékaøská diagnóza",
       "lékařská diagnóza",
       "organizace zdravotnictví",
       "prostředky zdravotnické techniky",
-      "prostųedky zdravotnické techniky",
       "seznam"
     ]
   },
@@ -12742,11 +12530,9 @@
     "temata": [
       "farmaceutický výrobek",
       "lék",
-      "lékaøská diagnóza",
       "lékařská diagnóza",
       "organizace zdravotnictví",
       "prostředky zdravotnické techniky",
-      "prostųedky zdravotnické techniky",
       "seznam"
     ]
   },
@@ -12765,11 +12551,9 @@
     "temata": [
       "farmaceutický výrobek",
       "lék",
-      "lékaøská diagnóza",
       "lékařská diagnóza",
       "organizace zdravotnictví",
       "prostředky zdravotnické techniky",
-      "prostųedky zdravotnické techniky",
       "seznam"
     ]
   },
@@ -12843,10 +12627,8 @@
     },
     "temata": [
       "důvěrná informace",
-      "geneticky modifikovaný organismus",
-      "genetické inenýrství",
       "genetické inženýrství",
-      "ochrana rostlinné øíe",
+      "geneticky modifikovaný organismus",
       "ochrana rostlinné říše",
       "zdravotní politika"
     ]
@@ -12868,7 +12650,6 @@
       "elektronická správa dokumentů",
       "elektronický dokument",
       "ukládání dokumentů",
-      "ukládání dokumentų",
       "veřejná správa"
     ]
   },
@@ -12889,7 +12670,6 @@
       "elektronická správa dokumentů",
       "elektronický dokument",
       "ukládání dokumentů",
-      "ukládání dokumentų",
       "veřejná správa"
     ]
   },
@@ -12910,7 +12690,6 @@
       "elektronická správa dokumentů",
       "elektronický dokument",
       "ukládání dokumentů",
-      "ukládání dokumentų",
       "veřejná správa"
     ]
   },
@@ -12931,7 +12710,6 @@
       "elektronická správa dokumentů",
       "elektronický dokument",
       "ukládání dokumentů",
-      "ukládání dokumentų",
       "veřejná správa"
     ]
   },
@@ -14035,7 +13813,6 @@
       "jednací řád parlamentu",
       "kompetence parlamentu",
       "schůze parlamentu",
-      "schųze parlamentu",
       "usnesení parlamentu"
     ]
   },
@@ -14077,7 +13854,6 @@
       "legislativní proces",
       "mezinárodní dohoda",
       "publikace zákona",
-      "úøední list",
       "úřední dokument",
       "úřední list"
     ]
@@ -14174,11 +13950,10 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
-      "vyhlášení zákona",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství",
+      "vyhlášení zákona"
     ]
   },
   {
@@ -14240,11 +14015,10 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
-      "vyhlášení zákona",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství",
+      "vyhlášení zákona"
     ]
   },
   {
@@ -14264,11 +14038,10 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
-      "vyhlášení zákona",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství",
+      "vyhlášení zákona"
     ]
   },
   {
@@ -14288,11 +14061,10 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
-      "vyhlášení zákona",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství",
+      "vyhlášení zákona"
     ]
   },
   {
@@ -14312,11 +14084,10 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
-      "vyhlášení zákona",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství",
+      "vyhlášení zákona"
     ]
   },
   {
@@ -14336,11 +14107,10 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
-      "vyhlášení zákona",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství",
+      "vyhlášení zákona"
     ]
   },
   {
@@ -14360,11 +14130,10 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
-      "vyhlášení zákona",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství",
+      "vyhlášení zákona"
     ]
   },
   {
@@ -14384,11 +14153,10 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
-      "vyhlášení zákona",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství",
+      "vyhlášení zákona"
     ]
   },
   {
@@ -14436,11 +14204,10 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
-      "vyhlášení zákona",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství",
+      "vyhlášení zákona"
     ]
   },
   {
@@ -14460,11 +14227,10 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
-      "vyhlášení zákona",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství",
+      "vyhlášení zákona"
     ]
   },
   {
@@ -14484,11 +14250,10 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
-      "vyhlášení zákona",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství",
+      "vyhlášení zákona"
     ]
   },
   {
@@ -14508,11 +14273,10 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
-      "vyhlášení zákona",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství",
+      "vyhlášení zákona"
     ]
   },
   {
@@ -14532,11 +14296,10 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
-      "vyhlášení zákona",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství",
+      "vyhlášení zákona"
     ]
   },
   {
@@ -14556,11 +14319,10 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
-      "vyhlášení zákona",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství",
+      "vyhlášení zákona"
     ]
   },
   {
@@ -14622,11 +14384,10 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
-      "vyhlášení zákona",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství",
+      "vyhlášení zákona"
     ]
   },
   {
@@ -14649,7 +14410,6 @@
       "energetická politika",
       "obnovitelná energie",
       "obnovitelné zdroje",
-      "pøechodné období (EU)",
       "přechodné období (EU)"
     ]
   },
@@ -15146,13 +14906,12 @@
       "not_logged": 16
     },
     "temata": [
-      "EUTELSAT",
+      "Česká republika",
       "družice",
+      "EUTELSAT",
       "přistoupení k dohodě",
-      "satelitní pøenos",
       "satelitní přenos",
-      "telekomunikace",
-      "Česká republika"
+      "telekomunikace"
     ]
   },
   {
@@ -15168,11 +14927,10 @@
       "not_logged": 13
     },
     "temata": [
-      "Svėtová potovní unie",
-      "Světová poštovní unie",
       "poštovní služba",
       "ratifikace dohody",
-      "specializovaná instituce OSN"
+      "specializovaná instituce OSN",
+      "Světová poštovní unie"
     ]
   },
   {
@@ -15225,12 +14983,11 @@
     },
     "temata": [
       "Austrálie",
+      "Česká republika",
       "ochranná podmínka",
       "soudní spolupráce",
       "trestní stíhání",
-      "vėzeō",
-      "vězeň",
-      "Česká republika"
+      "vězeň"
     ]
   },
   {
@@ -15367,11 +15124,10 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
-      "vyhlášení zákona",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství",
+      "vyhlášení zákona"
     ]
   },
   {
@@ -15388,13 +15144,11 @@
     },
     "temata": [
       "doba øízení",
-      "doba řízení",
       "dopravce",
       "dopravní právo",
       "jízdní personál",
       "pøepravní pøedpisy",
-      "silnièní doprava",
-      "silniční doprava"
+      "silnièní doprava"
     ]
   },
   {
@@ -15414,11 +15168,10 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
-      "vyhlášení zákona",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství",
+      "vyhlášení zákona"
     ]
   },
   {
@@ -15459,11 +15212,10 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
-      "vyhlášení zákona",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství",
+      "vyhlášení zákona"
     ]
   },
   {
@@ -15483,11 +15235,10 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
-      "vyhlášení zákona",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství",
+      "vyhlášení zákona"
     ]
   },
   {
@@ -15507,11 +15258,10 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
-      "vyhlášení zákona",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství",
+      "vyhlášení zákona"
     ]
   },
   {
@@ -15531,11 +15281,10 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
-      "vyhlášení zákona",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství",
+      "vyhlášení zákona"
     ]
   },
   {
@@ -15555,11 +15304,10 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
-      "vyhlášení zákona",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství",
+      "vyhlášení zákona"
     ]
   },
   {
@@ -15579,11 +15327,10 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
-      "vyhlášení zákona",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství",
+      "vyhlášení zákona"
     ]
   },
   {
@@ -15603,11 +15350,10 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
-      "vyhlášení zákona",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství",
+      "vyhlášení zákona"
     ]
   },
   {
@@ -15627,11 +15373,10 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
-      "vyhlášení zákona",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství",
+      "vyhlášení zákona"
     ]
   },
   {
@@ -15651,11 +15396,10 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
-      "vyhlášení zákona",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství",
+      "vyhlášení zákona"
     ]
   },
   {
@@ -15675,11 +15419,10 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
-      "vyhlášení zákona",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství",
+      "vyhlášení zákona"
     ]
   },
   {
@@ -16077,6 +15820,20 @@
     "temata": []
   },
   {
+    "id": 78246,
+    "date": "2022-05-31",
+    "title": "Pořad schůze",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 152,
+      "no": 0,
+      "abstain": 27,
+      "absent": 18,
+      "not_logged": 3
+    },
+    "temata": []
+  },
+  {
     "id": 78247,
     "date": "2022-05-31",
     "title": "Vl.n.z. o někt.opatř. v souv. s ozbroj.konfliktem - Ukrajina",
@@ -16331,7 +16088,6 @@
       "not_logged": 9
     },
     "temata": [
-      "informace pro spotøebitele",
       "informace pro spotřebitele",
       "ochrana spotřebitele",
       "označení původu",
@@ -16374,7 +16130,6 @@
       "dluh",
       "fyzická osoba",
       "pohledávka",
-      "soudní pøíkaz",
       "soudní příkaz",
       "soudní řízení",
       "výkon rozhodnutí"
@@ -16396,7 +16151,6 @@
       "dluh",
       "fyzická osoba",
       "pohledávka",
-      "soudní pøíkaz",
       "soudní příkaz",
       "soudní řízení",
       "výkon rozhodnutí"
@@ -16430,7 +16184,6 @@
     },
     "temata": [
       "financování rozpočtu",
-      "plnėní rozpočtu",
       "plnění rozpočtu",
       "státní rozpočet"
     ]
@@ -16743,7 +16496,6 @@
       "not_logged": 9
     },
     "temata": [
-      "informace pro spotøebitele",
       "informace pro spotřebitele",
       "ochrana spotřebitele",
       "označení původu",
@@ -16763,12 +16515,10 @@
       "not_logged": 7
     },
     "temata": [
-      "nevyuitelný odpad",
       "nevyužitelný odpad",
       "ochrana životního prostředí",
       "plast",
       "průmysl plastů",
-      "prųmysl plastų",
       "recyklovaný výrobek",
       "znečišťování životního prostředí"
     ]
@@ -16790,11 +16540,10 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
-      "vyhlášení zákona",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství",
+      "vyhlášení zákona"
     ]
   },
   {
@@ -16814,11 +16563,10 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
-      "vyhlášení zákona",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství",
+      "vyhlášení zákona"
     ]
   },
   {
@@ -16838,11 +16586,10 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
-      "vyhlášení zákona",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství",
+      "vyhlášení zákona"
     ]
   },
   {
@@ -16862,11 +16609,10 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
-      "vyhlášení zákona",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství",
+      "vyhlášení zákona"
     ]
   },
   {
@@ -16886,11 +16632,10 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
-      "vyhlášení zákona",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství",
+      "vyhlášení zákona"
     ]
   },
   {
@@ -16910,11 +16655,10 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
-      "vyhlášení zákona",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství",
+      "vyhlášení zákona"
     ]
   },
   {
@@ -16933,7 +16677,6 @@
       "daňové orgány",
       "interinstitucionální spolupráce (EU)",
       "podvod",
-      "podvody pokozující EU",
       "podvody poškozující EU",
       "přibližování legislativy",
       "spolupráce mezi institucemi",
@@ -16956,7 +16699,6 @@
       "daňové orgány",
       "interinstitucionální spolupráce (EU)",
       "podvod",
-      "podvody pokozující EU",
       "podvody poškozující EU",
       "přibližování legislativy",
       "spolupráce mezi institucemi",
@@ -16979,7 +16721,6 @@
       "daňové orgány",
       "interinstitucionální spolupráce (EU)",
       "podvod",
-      "podvody pokozující EU",
       "podvody poškozující EU",
       "přibližování legislativy",
       "spolupráce mezi institucemi",
@@ -17002,7 +16743,6 @@
       "daňové orgány",
       "interinstitucionální spolupráce (EU)",
       "podvod",
-      "podvody pokozující EU",
       "podvody poškozující EU",
       "přibližování legislativy",
       "spolupráce mezi institucemi",
@@ -17025,7 +16765,6 @@
       "daňové orgány",
       "interinstitucionální spolupráce (EU)",
       "podvod",
-      "podvody pokozující EU",
       "podvody poškozující EU",
       "přibližování legislativy",
       "spolupráce mezi institucemi",
@@ -17048,7 +16787,6 @@
       "daňové orgány",
       "interinstitucionální spolupráce (EU)",
       "podvod",
-      "podvody pokozující EU",
       "podvody poškozující EU",
       "přibližování legislativy",
       "spolupráce mezi institucemi",
@@ -17345,12 +17083,9 @@
     },
     "temata": [
       "dítì",
-      "dítě",
       "rodièovský pøíspìvek",
-      "rodičovský příspěvek",
       "sociální dávky",
-      "zvlátní dávky",
-      "zvláštní dávky"
+      "zvlátní dávky"
     ]
   },
   {
@@ -17470,12 +17205,9 @@
     },
     "temata": [
       "dítì",
-      "dítě",
       "rodièovský pøíspìvek",
-      "rodičovský příspěvek",
       "sociální dávky",
-      "zvlátní dávky",
-      "zvláštní dávky"
+      "zvlátní dávky"
     ]
   },
   {
@@ -17492,12 +17224,9 @@
     },
     "temata": [
       "dítì",
-      "dítě",
       "rodièovský pøíspìvek",
-      "rodičovský příspěvek",
       "sociální dávky",
-      "zvlátní dávky",
-      "zvláštní dávky"
+      "zvlátní dávky"
     ]
   },
   {
@@ -17514,12 +17243,9 @@
     },
     "temata": [
       "dítì",
-      "dítě",
       "rodièovský pøíspìvek",
-      "rodičovský příspěvek",
       "sociální dávky",
-      "zvlátní dávky",
-      "zvláštní dávky"
+      "zvlátní dávky"
     ]
   },
   {
@@ -17536,12 +17262,9 @@
     },
     "temata": [
       "dítì",
-      "dítě",
       "rodièovský pøíspìvek",
-      "rodičovský příspěvek",
       "sociální dávky",
-      "zvlátní dávky",
-      "zvláštní dávky"
+      "zvlátní dávky"
     ]
   },
   {
@@ -17558,12 +17281,9 @@
     },
     "temata": [
       "dítì",
-      "dítě",
       "rodièovský pøíspìvek",
-      "rodičovský příspěvek",
       "sociální dávky",
-      "zvlátní dávky",
-      "zvláštní dávky"
+      "zvlátní dávky"
     ]
   },
   {
@@ -17580,12 +17300,9 @@
     },
     "temata": [
       "dítì",
-      "dítě",
       "rodièovský pøíspìvek",
-      "rodičovský příspěvek",
       "sociální dávky",
-      "zvlátní dávky",
-      "zvláštní dávky"
+      "zvlátní dávky"
     ]
   },
   {
@@ -17602,12 +17319,9 @@
     },
     "temata": [
       "dítì",
-      "dítě",
       "rodièovský pøíspìvek",
-      "rodičovský příspěvek",
       "sociální dávky",
-      "zvlátní dávky",
-      "zvláštní dávky"
+      "zvlátní dávky"
     ]
   },
   {
@@ -17624,12 +17338,9 @@
     },
     "temata": [
       "dítì",
-      "dítě",
       "rodièovský pøíspìvek",
-      "rodičovský příspěvek",
       "sociální dávky",
-      "zvlátní dávky",
-      "zvláštní dávky"
+      "zvlátní dávky"
     ]
   },
   {
@@ -17646,12 +17357,9 @@
     },
     "temata": [
       "dítì",
-      "dítě",
       "rodièovský pøíspìvek",
-      "rodičovský příspěvek",
       "sociální dávky",
-      "zvlátní dávky",
-      "zvláštní dávky"
+      "zvlátní dávky"
     ]
   },
   {
@@ -17668,12 +17376,9 @@
     },
     "temata": [
       "dítì",
-      "dítě",
       "rodièovský pøíspìvek",
-      "rodičovský příspěvek",
       "sociální dávky",
-      "zvlátní dávky",
-      "zvláštní dávky"
+      "zvlátní dávky"
     ]
   },
   {
@@ -17690,12 +17395,9 @@
     },
     "temata": [
       "dítì",
-      "dítě",
       "rodièovský pøíspìvek",
-      "rodičovský příspěvek",
       "sociální dávky",
-      "zvlátní dávky",
-      "zvláštní dávky"
+      "zvlátní dávky"
     ]
   },
   {
@@ -17832,10 +17534,9 @@
       "not_logged": 10
     },
     "temata": [
-      "Ukrajina",
       "bydlení",
       "pomoc uprchlíkům",
-      "pomoc uprchlíkųm",
+      "Ukrajina",
       "uprchlík",
       "válka"
     ]
@@ -17956,13 +17657,12 @@
       "not_logged": 12
     },
     "temata": [
-      "Ukrajina",
       "nouzová kolonie",
       "pomoc uprchlíkům",
-      "pomoc uprchlíkųm",
       "stavební právo",
-      "válka",
-      "územní plánování"
+      "Ukrajina",
+      "územní plánování",
+      "válka"
     ]
   },
   {
@@ -18024,11 +17724,10 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
-      "vyhlášení zákona",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství",
+      "vyhlášení zákona"
     ]
   },
   {
@@ -18048,11 +17747,10 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
-      "vyhlášení zákona",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství",
+      "vyhlášení zákona"
     ]
   },
   {
@@ -18072,11 +17770,10 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
-      "vyhlášení zákona",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství",
+      "vyhlášení zákona"
     ]
   },
   {
@@ -18096,11 +17793,10 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
-      "vyhlášení zákona",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství",
+      "vyhlášení zákona"
     ]
   },
   {
@@ -18143,11 +17839,10 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
-      "vyhlášení zákona",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství",
+      "vyhlášení zákona"
     ]
   },
   {
@@ -18167,11 +17862,10 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
-      "vyhlášení zákona",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství",
+      "vyhlášení zákona"
     ]
   },
   {
@@ -18219,11 +17913,10 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
-      "vyhlášení zákona",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství",
+      "vyhlášení zákona"
     ]
   },
   {
@@ -18243,11 +17936,10 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
-      "vyhlášení zákona",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství",
+      "vyhlášení zákona"
     ]
   },
   {
@@ -18267,11 +17959,10 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
-      "vyhlášení zákona",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství",
+      "vyhlášení zákona"
     ]
   },
   {
@@ -18291,11 +17982,10 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
-      "vyhlášení zákona",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství",
+      "vyhlášení zákona"
     ]
   },
   {
@@ -18315,11 +18005,10 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
-      "vyhlášení zákona",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství",
+      "vyhlášení zákona"
     ]
   },
   {
@@ -18633,11 +18322,10 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
-      "vyhlášení zákona",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství",
+      "vyhlášení zákona"
     ]
   },
   {
@@ -18657,11 +18345,10 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
-      "vyhlášení zákona",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství",
+      "vyhlášení zákona"
     ]
   },
   {
@@ -18681,11 +18368,10 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
-      "vyhlášení zákona",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství",
+      "vyhlášení zákona"
     ]
   },
   {
@@ -18705,11 +18391,10 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
-      "vyhlášení zákona",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství",
+      "vyhlášení zákona"
     ]
   },
   {
@@ -18729,11 +18414,10 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
-      "vyhlášení zákona",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství",
+      "vyhlášení zákona"
     ]
   },
   {
@@ -18754,7 +18438,6 @@
       "podpora zaměstnanosti",
       "pojistné",
       "sociální zabezpečení",
-      "zamìstnavatel",
       "zaměstnavatel"
     ]
   },
@@ -18881,12 +18564,11 @@
       "not_logged": 14
     },
     "temata": [
-      "Jiní Korea",
-      "Jižní Korea",
+      "Česká republika",
       "dvoustranná dohoda",
+      "Jižní Korea",
       "letecká doprava",
-      "ratifikace dohody",
-      "Česká republika"
+      "ratifikace dohody"
     ]
   },
   {
@@ -18902,9 +18584,7 @@
       "not_logged": 12
     },
     "temata": [
-      "kosmická loï",
       "kosmická loď",
-      "kosmická pøeprava",
       "kosmická přeprava",
       "nosná raketa",
       "ratifikace dohody"
@@ -18961,10 +18641,9 @@
       "not_logged": 14
     },
     "temata": [
+      "Česká republika",
       "ochrana investic",
       "podpora investic",
-      "védsko",
-      "Česká republika",
       "Švédsko"
     ]
   },
@@ -18981,12 +18660,11 @@
       "not_logged": 12
     },
     "temata": [
-      "San Marino",
+      "Česká republika",
       "daňová úmluva",
-      "daōová úmluva",
       "dvojí zdanění",
-      "zkrácení daně",
-      "Česká republika"
+      "San Marino",
+      "zkrácení daně"
     ]
   },
   {
@@ -19268,16 +18946,11 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronická správa",
       "elektronická správa dokumentù",
-      "elektronická správa dokumentů",
-      "informaèní systém",
       "informaèní sí",
-      "informační systém",
-      "informační sí",
-      "poèítaèový systém",
-      "počítačový systém"
+      "informaèní systém",
+      "poèítaèový systém"
     ]
   },
   {
@@ -19294,16 +18967,11 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronická správa",
       "elektronická správa dokumentù",
-      "elektronická správa dokumentů",
-      "informaèní systém",
       "informaèní sí",
-      "informační systém",
-      "informační sí",
-      "poèítaèový systém",
-      "počítačový systém"
+      "informaèní systém",
+      "poèítaèový systém"
     ]
   },
   {
@@ -19320,16 +18988,11 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronická správa",
       "elektronická správa dokumentù",
-      "elektronická správa dokumentů",
-      "informaèní systém",
       "informaèní sí",
-      "informační systém",
-      "informační sí",
-      "poèítaèový systém",
-      "počítačový systém"
+      "informaèní systém",
+      "poèítaèový systém"
     ]
   },
   {
@@ -19346,16 +19009,11 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronická správa",
       "elektronická správa dokumentù",
-      "elektronická správa dokumentů",
-      "informaèní systém",
       "informaèní sí",
-      "informační systém",
-      "informační sí",
-      "poèítaèový systém",
-      "počítačový systém"
+      "informaèní systém",
+      "poèítaèový systém"
     ]
   },
   {
@@ -19372,16 +19030,11 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronická správa",
       "elektronická správa dokumentù",
-      "elektronická správa dokumentů",
-      "informaèní systém",
       "informaèní sí",
-      "informační systém",
-      "informační sí",
-      "poèítaèový systém",
-      "počítačový systém"
+      "informaèní systém",
+      "poèítaèový systém"
     ]
   },
   {
@@ -19975,11 +19628,10 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
-      "vyhlášení zákona",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství",
+      "vyhlášení zákona"
     ]
   },
   {
@@ -19999,11 +19651,10 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
-      "vyhlášení zákona",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství",
+      "vyhlášení zákona"
     ]
   },
   {
@@ -20019,15 +19670,12 @@
       "not_logged": 16
     },
     "temata": [
-      "loï",
       "loď",
-      "plavební sí",
-      "plavební síť",
-      "plavební øád",
       "plavební řád",
+      "plavební síť",
+      "říční plavba",
       "vnitrozemská vodní cesta",
-      "vnitrozemská vodní doprava",
-      "říční plavba"
+      "vnitrozemská vodní doprava"
     ]
   },
   {
@@ -20043,15 +19691,12 @@
       "not_logged": 16
     },
     "temata": [
-      "loï",
       "loď",
-      "plavební sí",
-      "plavební síť",
-      "plavební øád",
       "plavební řád",
+      "plavební síť",
+      "říční plavba",
       "vnitrozemská vodní cesta",
-      "vnitrozemská vodní doprava",
-      "říční plavba"
+      "vnitrozemská vodní doprava"
     ]
   },
   {
@@ -20067,15 +19712,12 @@
       "not_logged": 16
     },
     "temata": [
-      "loï",
       "loď",
-      "plavební sí",
-      "plavební síť",
-      "plavební øád",
       "plavební řád",
+      "plavební síť",
+      "říční plavba",
       "vnitrozemská vodní cesta",
-      "vnitrozemská vodní doprava",
-      "říční plavba"
+      "vnitrozemská vodní doprava"
     ]
   },
   {
@@ -20119,15 +19761,12 @@
       "not_logged": 6
     },
     "temata": [
-      "loï",
       "loď",
-      "plavební sí",
-      "plavební síť",
-      "plavební øád",
       "plavební řád",
+      "plavební síť",
+      "říční plavba",
       "vnitrozemská vodní cesta",
-      "vnitrozemská vodní doprava",
-      "říční plavba"
+      "vnitrozemská vodní doprava"
     ]
   },
   {
@@ -20143,15 +19782,12 @@
       "not_logged": 6
     },
     "temata": [
-      "loï",
       "loď",
-      "plavební sí",
-      "plavební síť",
-      "plavební øád",
       "plavební řád",
+      "plavební síť",
+      "říční plavba",
       "vnitrozemská vodní cesta",
-      "vnitrozemská vodní doprava",
-      "říční plavba"
+      "vnitrozemská vodní doprava"
     ]
   },
   {
@@ -20167,15 +19803,12 @@
       "not_logged": 6
     },
     "temata": [
-      "loï",
       "loď",
-      "plavební sí",
-      "plavební síť",
-      "plavební øád",
       "plavební řád",
+      "plavební síť",
+      "říční plavba",
       "vnitrozemská vodní cesta",
-      "vnitrozemská vodní doprava",
-      "říční plavba"
+      "vnitrozemská vodní doprava"
     ]
   },
   {
@@ -20191,15 +19824,12 @@
       "not_logged": 6
     },
     "temata": [
-      "loï",
       "loď",
-      "plavební sí",
-      "plavební síť",
-      "plavební øád",
       "plavební řád",
+      "plavební síť",
+      "říční plavba",
       "vnitrozemská vodní cesta",
-      "vnitrozemská vodní doprava",
-      "říční plavba"
+      "vnitrozemská vodní doprava"
     ]
   },
   {
@@ -20215,15 +19845,12 @@
       "not_logged": 6
     },
     "temata": [
-      "loï",
       "loď",
-      "plavební sí",
-      "plavební síť",
-      "plavební øád",
       "plavební řád",
+      "plavební síť",
+      "říční plavba",
       "vnitrozemská vodní cesta",
-      "vnitrozemská vodní doprava",
-      "říční plavba"
+      "vnitrozemská vodní doprava"
     ]
   },
   {
@@ -20239,15 +19866,12 @@
       "not_logged": 6
     },
     "temata": [
-      "loï",
       "loď",
-      "plavební sí",
-      "plavební síť",
-      "plavební øád",
       "plavební řád",
+      "plavební síť",
+      "říční plavba",
       "vnitrozemská vodní cesta",
-      "vnitrozemská vodní doprava",
-      "říční plavba"
+      "vnitrozemská vodní doprava"
     ]
   },
   {
@@ -20283,15 +19907,12 @@
       "not_logged": 7
     },
     "temata": [
-      "loï",
       "loď",
-      "plavební sí",
-      "plavební síť",
-      "plavební øád",
       "plavební řád",
+      "plavební síť",
+      "říční plavba",
       "vnitrozemská vodní cesta",
-      "vnitrozemská vodní doprava",
-      "říční plavba"
+      "vnitrozemská vodní doprava"
     ]
   },
   {
@@ -20350,16 +19971,11 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronická správa",
       "elektronická správa dokumentù",
-      "elektronická správa dokumentů",
-      "informaèní systém",
       "informaèní sí",
-      "informační systém",
-      "informační sí",
-      "poèítaèový systém",
-      "počítačový systém"
+      "informaèní systém",
+      "poèítaèový systém"
     ]
   },
   {
@@ -20376,16 +19992,11 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronická správa",
       "elektronická správa dokumentù",
-      "elektronická správa dokumentů",
-      "informaèní systém",
       "informaèní sí",
-      "informační systém",
-      "informační sí",
-      "poèítaèový systém",
-      "počítačový systém"
+      "informaèní systém",
+      "poèítaèový systém"
     ]
   },
   {
@@ -20424,7 +20035,6 @@
     "temata": [
       "jaderný výzkum",
       "mezinárodní dohoda",
-      "vypovėdėní smlouvy",
       "vypovědění smlouvy"
     ]
   },
@@ -20443,7 +20053,6 @@
     "temata": [
       "jaderný výzkum",
       "mezinárodní dohoda",
-      "vypovėdėní smlouvy",
       "vypovědění smlouvy"
     ]
   },
@@ -20462,7 +20071,6 @@
     "temata": [
       "jaderný výzkum",
       "mezinárodní dohoda",
-      "vypovėdėní smlouvy",
       "vypovědění smlouvy"
     ]
   },
@@ -20479,11 +20087,10 @@
       "not_logged": 26
     },
     "temata": [
-      "Katar",
+      "Česká republika",
       "daňová úmluva",
-      "daōová úmluva",
       "dvojí zdanění",
-      "Česká republika"
+      "Katar"
     ]
   },
   {
@@ -20499,11 +20106,10 @@
       "not_logged": 25
     },
     "temata": [
-      "Katar",
+      "Česká republika",
       "daňová úmluva",
-      "daōová úmluva",
       "dvojí zdanění",
-      "Česká republika"
+      "Katar"
     ]
   },
   {
@@ -20596,16 +20202,11 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronická správa",
       "elektronická správa dokumentù",
-      "elektronická správa dokumentů",
-      "informaèní systém",
       "informaèní sí",
-      "informační systém",
-      "informační sí",
-      "poèítaèový systém",
-      "počítačový systém"
+      "informaèní systém",
+      "poèítaèový systém"
     ]
   },
   {
@@ -20622,16 +20223,11 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronická správa",
       "elektronická správa dokumentù",
-      "elektronická správa dokumentů",
-      "informaèní systém",
       "informaèní sí",
-      "informační systém",
-      "informační sí",
-      "poèítaèový systém",
-      "počítačový systém"
+      "informaèní systém",
+      "poèítaèový systém"
     ]
   },
   {
@@ -20648,16 +20244,11 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronická správa",
       "elektronická správa dokumentù",
-      "elektronická správa dokumentů",
-      "informaèní systém",
       "informaèní sí",
-      "informační systém",
-      "informační sí",
-      "poèítaèový systém",
-      "počítačový systém"
+      "informaèní systém",
+      "poèítaèový systém"
     ]
   },
   {
@@ -20674,16 +20265,11 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronická správa",
       "elektronická správa dokumentù",
-      "elektronická správa dokumentů",
-      "informaèní systém",
       "informaèní sí",
-      "informační systém",
-      "informační sí",
-      "poèítaèový systém",
-      "počítačový systém"
+      "informaèní systém",
+      "poèítaèový systém"
     ]
   },
   {
@@ -20700,16 +20286,11 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronická správa",
       "elektronická správa dokumentù",
-      "elektronická správa dokumentů",
-      "informaèní systém",
       "informaèní sí",
-      "informační systém",
-      "informační sí",
-      "poèítaèový systém",
-      "počítačový systém"
+      "informaèní systém",
+      "poèítaèový systém"
     ]
   },
   {
@@ -20725,12 +20306,10 @@
       "not_logged": 38
     },
     "temata": [
-      "hospodáøské sankce",
       "hospodářské sankce",
       "mezinárodní konflikt",
       "mezinárodní sankce",
       "sankce (EU)",
-      "zabavení vėci",
       "zabavení věci"
     ]
   },
@@ -20748,16 +20327,11 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronická správa",
       "elektronická správa dokumentù",
-      "elektronická správa dokumentů",
-      "informaèní systém",
       "informaèní sí",
-      "informační systém",
-      "informační sí",
-      "poèítaèový systém",
-      "počítačový systém"
+      "informaèní systém",
+      "poèítaèový systém"
     ]
   },
   {
@@ -21012,13 +20586,11 @@
     },
     "temata": [
       "doba øízení",
-      "doba řízení",
       "dopravce",
       "dopravní právo",
       "jízdní personál",
       "pøepravní pøedpisy",
-      "silnièní doprava",
-      "silniční doprava"
+      "silnièní doprava"
     ]
   },
   {
@@ -21038,7 +20610,6 @@
       "bytové právo",
       "cena energie",
       "tepelná energie",
-      "vytápėní",
       "vytápění"
     ]
   },
@@ -21059,7 +20630,6 @@
       "bytové právo",
       "cena energie",
       "tepelná energie",
-      "vytápėní",
       "vytápění"
     ]
   },
@@ -21080,7 +20650,6 @@
       "bytové právo",
       "cena energie",
       "tepelná energie",
-      "vytápėní",
       "vytápění"
     ]
   },
@@ -21120,11 +20689,9 @@
     "temata": [
       "farmaceutický výrobek",
       "lék",
-      "lékaøská diagnóza",
       "lékařská diagnóza",
       "organizace zdravotnictví",
       "prostředky zdravotnické techniky",
-      "prostųedky zdravotnické techniky",
       "seznam"
     ]
   },
@@ -21184,16 +20751,11 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronická správa",
       "elektronická správa dokumentù",
-      "elektronická správa dokumentů",
-      "informaèní systém",
       "informaèní sí",
-      "informační systém",
-      "informační sí",
-      "poèítaèový systém",
-      "počítačový systém"
+      "informaèní systém",
+      "poèítaèový systém"
     ]
   },
   {
@@ -21210,16 +20772,11 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronická správa",
       "elektronická správa dokumentù",
-      "elektronická správa dokumentů",
-      "informaèní systém",
       "informaèní sí",
-      "informační systém",
-      "informační sí",
-      "poèítaèový systém",
-      "počítačový systém"
+      "informaèní systém",
+      "poèítaèový systém"
     ]
   },
   {
@@ -21236,16 +20793,11 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronická správa",
       "elektronická správa dokumentù",
-      "elektronická správa dokumentů",
-      "informaèní systém",
       "informaèní sí",
-      "informační systém",
-      "informační sí",
-      "poèítaèový systém",
-      "počítačový systém"
+      "informaèní systém",
+      "poèítaèový systém"
     ]
   },
   {
@@ -21262,16 +20814,11 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronická správa",
       "elektronická správa dokumentù",
-      "elektronická správa dokumentů",
-      "informaèní systém",
       "informaèní sí",
-      "informační systém",
-      "informační sí",
-      "poèítaèový systém",
-      "počítačový systém"
+      "informaèní systém",
+      "poèítaèový systém"
     ]
   },
   {
@@ -21288,16 +20835,11 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronická správa",
       "elektronická správa dokumentù",
-      "elektronická správa dokumentů",
-      "informaèní systém",
       "informaèní sí",
-      "informační systém",
-      "informační sí",
-      "poèítaèový systém",
-      "počítačový systém"
+      "informaèní systém",
+      "poèítaèový systém"
     ]
   },
   {
@@ -21314,16 +20856,11 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronická správa",
       "elektronická správa dokumentù",
-      "elektronická správa dokumentů",
-      "informaèní systém",
       "informaèní sí",
-      "informační systém",
-      "informační sí",
-      "poèítaèový systém",
-      "počítačový systém"
+      "informaèní systém",
+      "poèítaèový systém"
     ]
   },
   {
@@ -21340,16 +20877,11 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronická správa",
       "elektronická správa dokumentù",
-      "elektronická správa dokumentů",
-      "informaèní systém",
       "informaèní sí",
-      "informační systém",
-      "informační sí",
-      "poèítaèový systém",
-      "počítačový systém"
+      "informaèní systém",
+      "poèítaèový systém"
     ]
   },
   {
@@ -21366,16 +20898,11 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronická správa",
       "elektronická správa dokumentù",
-      "elektronická správa dokumentů",
-      "informaèní systém",
       "informaèní sí",
-      "informační systém",
-      "informační sí",
-      "poèítaèový systém",
-      "počítačový systém"
+      "informaèní systém",
+      "poèítaèový systém"
     ]
   },
   {
@@ -21392,16 +20919,11 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronická správa",
       "elektronická správa dokumentù",
-      "elektronická správa dokumentů",
-      "informaèní systém",
       "informaèní sí",
-      "informační systém",
-      "informační sí",
-      "poèítaèový systém",
-      "počítačový systém"
+      "informaèní systém",
+      "poèítaèový systém"
     ]
   },
   {
@@ -21439,15 +20961,12 @@
     "temata": [
       "audiovizuální politika",
       "audiovizuální průmysl",
-      "audiovizuální prųmysl",
       "dezinformace",
       "evropský audiovizuální prostor",
       "kontrola komunikace",
-      "poskytovatel internetových slueb",
       "poskytovatel internetových služeb",
       "svoboda projevu",
       "videokomunikace",
-      "volný pohyb programù",
       "volný pohyb programů"
     ]
   },
@@ -21466,15 +20985,12 @@
     "temata": [
       "audiovizuální politika",
       "audiovizuální průmysl",
-      "audiovizuální prųmysl",
       "dezinformace",
       "evropský audiovizuální prostor",
       "kontrola komunikace",
-      "poskytovatel internetových slueb",
       "poskytovatel internetových služeb",
       "svoboda projevu",
       "videokomunikace",
-      "volný pohyb programù",
       "volný pohyb programů"
     ]
   },
@@ -21493,15 +21009,12 @@
     "temata": [
       "audiovizuální politika",
       "audiovizuální průmysl",
-      "audiovizuální prųmysl",
       "dezinformace",
       "evropský audiovizuální prostor",
       "kontrola komunikace",
-      "poskytovatel internetových slueb",
       "poskytovatel internetových služeb",
       "svoboda projevu",
       "videokomunikace",
-      "volný pohyb programù",
       "volný pohyb programů"
     ]
   },
@@ -21520,15 +21033,12 @@
     "temata": [
       "audiovizuální politika",
       "audiovizuální průmysl",
-      "audiovizuální prųmysl",
       "dezinformace",
       "evropský audiovizuální prostor",
       "kontrola komunikace",
-      "poskytovatel internetových slueb",
       "poskytovatel internetových služeb",
       "svoboda projevu",
       "videokomunikace",
-      "volný pohyb programù",
       "volný pohyb programů"
     ]
   },
@@ -21547,15 +21057,12 @@
     "temata": [
       "audiovizuální politika",
       "audiovizuální průmysl",
-      "audiovizuální prųmysl",
       "dezinformace",
       "evropský audiovizuální prostor",
       "kontrola komunikace",
-      "poskytovatel internetových slueb",
       "poskytovatel internetových služeb",
       "svoboda projevu",
       "videokomunikace",
-      "volný pohyb programù",
       "volný pohyb programů"
     ]
   },
@@ -21574,15 +21081,12 @@
     "temata": [
       "audiovizuální politika",
       "audiovizuální průmysl",
-      "audiovizuální prųmysl",
       "dezinformace",
       "evropský audiovizuální prostor",
       "kontrola komunikace",
-      "poskytovatel internetových slueb",
       "poskytovatel internetových služeb",
       "svoboda projevu",
       "videokomunikace",
-      "volný pohyb programù",
       "volný pohyb programů"
     ]
   },
@@ -21601,15 +21105,12 @@
     "temata": [
       "audiovizuální politika",
       "audiovizuální průmysl",
-      "audiovizuální prųmysl",
       "dezinformace",
       "evropský audiovizuální prostor",
       "kontrola komunikace",
-      "poskytovatel internetových slueb",
       "poskytovatel internetových služeb",
       "svoboda projevu",
       "videokomunikace",
-      "volný pohyb programù",
       "volný pohyb programů"
     ]
   },
@@ -21628,15 +21129,12 @@
     "temata": [
       "audiovizuální politika",
       "audiovizuální průmysl",
-      "audiovizuální prųmysl",
       "dezinformace",
       "evropský audiovizuální prostor",
       "kontrola komunikace",
-      "poskytovatel internetových slueb",
       "poskytovatel internetových služeb",
       "svoboda projevu",
       "videokomunikace",
-      "volný pohyb programù",
       "volný pohyb programů"
     ]
   },
@@ -21655,15 +21153,12 @@
     "temata": [
       "audiovizuální politika",
       "audiovizuální průmysl",
-      "audiovizuální prųmysl",
       "dezinformace",
       "evropský audiovizuální prostor",
       "kontrola komunikace",
-      "poskytovatel internetových slueb",
       "poskytovatel internetových služeb",
       "svoboda projevu",
       "videokomunikace",
-      "volný pohyb programù",
       "volný pohyb programů"
     ]
   },
@@ -21681,16 +21176,11 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronická správa",
       "elektronická správa dokumentù",
-      "elektronická správa dokumentů",
-      "informaèní systém",
       "informaèní sí",
-      "informační systém",
-      "informační sí",
-      "poèítaèový systém",
-      "počítačový systém"
+      "informaèní systém",
+      "poèítaèový systém"
     ]
   },
   {
@@ -21707,16 +21197,11 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronická správa",
       "elektronická správa dokumentù",
-      "elektronická správa dokumentů",
-      "informaèní systém",
       "informaèní sí",
-      "informační systém",
-      "informační sí",
-      "poèítaèový systém",
-      "počítačový systém"
+      "informaèní systém",
+      "poèítaèový systém"
     ]
   },
   {
@@ -21733,16 +21218,11 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronická správa",
       "elektronická správa dokumentù",
-      "elektronická správa dokumentů",
-      "informaèní systém",
       "informaèní sí",
-      "informační systém",
-      "informační sí",
-      "poèítaèový systém",
-      "počítačový systém"
+      "informaèní systém",
+      "poèítaèový systém"
     ]
   },
   {
@@ -21759,16 +21239,11 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronická správa",
       "elektronická správa dokumentù",
-      "elektronická správa dokumentů",
-      "informaèní systém",
       "informaèní sí",
-      "informační systém",
-      "informační sí",
-      "poèítaèový systém",
-      "počítačový systém"
+      "informaèní systém",
+      "poèítaèový systém"
     ]
   },
   {
@@ -21785,16 +21260,11 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronická správa",
       "elektronická správa dokumentù",
-      "elektronická správa dokumentů",
-      "informaèní systém",
       "informaèní sí",
-      "informační systém",
-      "informační sí",
-      "poèítaèový systém",
-      "počítačový systém"
+      "informaèní systém",
+      "poèítaèový systém"
     ]
   },
   {
@@ -21812,11 +21282,8 @@
     "temata": [
       "biopotravina",
       "chov dobytka",
-      "ekologické zemėdėlství",
       "ekologické zemědělství",
-      "kontrola kvality zemėdėlských výrobkų",
       "kontrola kvality zemědělských výrobků",
-      "národní zemėdėlská politika",
       "národní zemědělská politika",
       "osivo",
       "označení výrobku",
@@ -21824,7 +21291,6 @@
       "rozmnožování rostlin",
       "seznam",
       "uplatňování právních předpisů EU",
-      "zemėdėlec",
       "zemědělec"
     ]
   },
@@ -21842,16 +21308,11 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronická správa",
       "elektronická správa dokumentù",
-      "elektronická správa dokumentů",
-      "informaèní systém",
       "informaèní sí",
-      "informační systém",
-      "informační sí",
-      "poèítaèový systém",
-      "počítačový systém"
+      "informaèní systém",
+      "poèítaèový systém"
     ]
   },
   {
@@ -21868,16 +21329,11 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronická správa",
       "elektronická správa dokumentù",
-      "elektronická správa dokumentů",
-      "informaèní systém",
       "informaèní sí",
-      "informační systém",
-      "informační sí",
-      "poèítaèový systém",
-      "počítačový systém"
+      "informaèní systém",
+      "poèítaèový systém"
     ]
   },
   {
@@ -21894,16 +21350,11 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronická správa",
       "elektronická správa dokumentù",
-      "elektronická správa dokumentů",
-      "informaèní systém",
       "informaèní sí",
-      "informační systém",
-      "informační sí",
-      "poèítaèový systém",
-      "počítačový systém"
+      "informaèní systém",
+      "poèítaèový systém"
     ]
   },
   {
@@ -21920,16 +21371,11 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronická správa",
       "elektronická správa dokumentù",
-      "elektronická správa dokumentů",
-      "informaèní systém",
       "informaèní sí",
-      "informační systém",
-      "informační sí",
-      "poèítaèový systém",
-      "počítačový systém"
+      "informaèní systém",
+      "poèítaèový systém"
     ]
   },
   {
@@ -21946,16 +21392,11 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronická správa",
       "elektronická správa dokumentù",
-      "elektronická správa dokumentů",
-      "informaèní systém",
       "informaèní sí",
-      "informační systém",
-      "informační sí",
-      "poèítaèový systém",
-      "počítačový systém"
+      "informaèní systém",
+      "poèítaèový systém"
     ]
   },
   {
@@ -21972,16 +21413,11 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronická správa",
       "elektronická správa dokumentù",
-      "elektronická správa dokumentů",
-      "informaèní systém",
       "informaèní sí",
-      "informační systém",
-      "informační sí",
-      "poèítaèový systém",
-      "počítačový systém"
+      "informaèní systém",
+      "poèítaèový systém"
     ]
   },
   {
@@ -21998,16 +21434,11 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronická správa",
       "elektronická správa dokumentù",
-      "elektronická správa dokumentů",
-      "informaèní systém",
       "informaèní sí",
-      "informační systém",
-      "informační sí",
-      "poèítaèový systém",
-      "počítačový systém"
+      "informaèní systém",
+      "poèítaèový systém"
     ]
   },
   {
@@ -22024,16 +21455,11 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronická správa",
       "elektronická správa dokumentù",
-      "elektronická správa dokumentů",
-      "informaèní systém",
       "informaèní sí",
-      "informační systém",
-      "informační sí",
-      "poèítaèový systém",
-      "počítačový systém"
+      "informaèní systém",
+      "poèítaèový systém"
     ]
   },
   {
@@ -22050,16 +21476,11 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronická správa",
       "elektronická správa dokumentù",
-      "elektronická správa dokumentů",
-      "informaèní systém",
       "informaèní sí",
-      "informační systém",
-      "informační sí",
-      "poèítaèový systém",
-      "počítačový systém"
+      "informaèní systém",
+      "poèítaèový systém"
     ]
   },
   {
@@ -22077,14 +21498,11 @@
     "temata": [
       "ochrana zvířat",
       "prevence nemocí",
-      "společná zemėdėlská politika",
       "společná zemědělská politika",
+      "veterinář",
       "veterinární inspekce",
       "veterinární legislativa",
       "veterinární medicína",
-      "veterináø",
-      "veterinář",
-      "zdraví zvíøat",
       "zdraví zvířat"
     ]
   },
@@ -22104,15 +21522,13 @@
       "chmel",
       "kontrolní moc",
       "osivo",
-      "osvėdčení o pųvodu",
       "osvědčení o původu",
       "průmyslové plodiny",
       "rozmnožování rostlin",
       "sadba",
       "seznam",
-      "zemėdėlská politika",
-      "zemědělská politika",
-      "šlechtění rostlin"
+      "šlechtění rostlin",
+      "zemědělská politika"
     ]
   },
   {
@@ -22129,16 +21545,11 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronická správa",
       "elektronická správa dokumentù",
-      "elektronická správa dokumentů",
-      "informaèní systém",
       "informaèní sí",
-      "informační systém",
-      "informační sí",
-      "poèítaèový systém",
-      "počítačový systém"
+      "informaèní systém",
+      "poèítaèový systém"
     ]
   },
   {
@@ -22189,11 +21600,9 @@
     },
     "temata": [
       "dovozní omezení",
-      "hospodáøské sankce",
       "hospodářské sankce",
       "mezinárodní sankce",
       "obchodní omezení",
-      "zabavení vėci",
       "zabavení věci"
     ]
   },
@@ -22211,11 +21620,9 @@
     },
     "temata": [
       "dovozní omezení",
-      "hospodáøské sankce",
       "hospodářské sankce",
       "mezinárodní sankce",
       "obchodní omezení",
-      "zabavení vėci",
       "zabavení věci"
     ]
   },
@@ -22233,11 +21640,9 @@
     },
     "temata": [
       "dovozní omezení",
-      "hospodáøské sankce",
       "hospodářské sankce",
       "mezinárodní sankce",
       "obchodní omezení",
-      "zabavení vėci",
       "zabavení věci"
     ]
   },
@@ -22255,11 +21660,9 @@
     },
     "temata": [
       "dovozní omezení",
-      "hospodáøské sankce",
       "hospodářské sankce",
       "mezinárodní sankce",
       "obchodní omezení",
-      "zabavení vėci",
       "zabavení věci"
     ]
   },
@@ -22415,17 +21818,14 @@
     "temata": [
       "cena energie",
       "elektrárenský průmysl",
-      "elektrárenský prųmysl",
       "energetická politika",
       "finanční nástroj EU",
       "jednotný trh",
       "plynárenský průmysl",
-      "plynárenský prųmysl",
       "regulace trhu",
       "rozvod elektřiny",
-      "zvýení cen",
-      "zvýšení cen",
-      "zásobování plynem"
+      "zásobování plynem",
+      "zvýšení cen"
     ]
   },
   {
@@ -22559,16 +21959,11 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronická správa",
       "elektronická správa dokumentù",
-      "elektronická správa dokumentů",
-      "informaèní systém",
       "informaèní sí",
-      "informační systém",
-      "informační sí",
-      "poèítaèový systém",
-      "počítačový systém"
+      "informaèní systém",
+      "poèítaèový systém"
     ]
   },
   {
@@ -22585,16 +21980,11 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronická správa",
       "elektronická správa dokumentù",
-      "elektronická správa dokumentů",
-      "informaèní systém",
       "informaèní sí",
-      "informační systém",
-      "informační sí",
-      "poèítaèový systém",
-      "počítačový systém"
+      "informaèní systém",
+      "poèítaèový systém"
     ]
   },
   {
@@ -22611,16 +22001,11 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronická správa",
       "elektronická správa dokumentù",
-      "elektronická správa dokumentů",
-      "informaèní systém",
       "informaèní sí",
-      "informační systém",
-      "informační sí",
-      "poèítaèový systém",
-      "počítačový systém"
+      "informaèní systém",
+      "poèítaèový systém"
     ]
   },
   {
@@ -22637,16 +22022,11 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronická správa",
       "elektronická správa dokumentù",
-      "elektronická správa dokumentů",
-      "informaèní systém",
       "informaèní sí",
-      "informační systém",
-      "informační sí",
-      "poèítaèový systém",
-      "počítačový systém"
+      "informaèní systém",
+      "poèítaèový systém"
     ]
   },
   {
@@ -22663,16 +22043,11 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronická správa",
       "elektronická správa dokumentù",
-      "elektronická správa dokumentů",
-      "informaèní systém",
       "informaèní sí",
-      "informační systém",
-      "informační sí",
-      "poèítaèový systém",
-      "počítačový systém"
+      "informaèní systém",
+      "poèítaèový systém"
     ]
   },
   {
@@ -22689,16 +22064,11 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronická správa",
       "elektronická správa dokumentù",
-      "elektronická správa dokumentů",
-      "informaèní systém",
       "informaèní sí",
-      "informační systém",
-      "informační sí",
-      "poèítaèový systém",
-      "počítačový systém"
+      "informaèní systém",
+      "poèítaèový systém"
     ]
   },
   {
@@ -22715,16 +22085,11 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronická správa",
       "elektronická správa dokumentù",
-      "elektronická správa dokumentů",
-      "informaèní systém",
       "informaèní sí",
-      "informační systém",
-      "informační sí",
-      "poèítaèový systém",
-      "počítačový systém"
+      "informaèní systém",
+      "poèítaèový systém"
     ]
   },
   {
@@ -22760,16 +22125,11 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronická správa",
       "elektronická správa dokumentù",
-      "elektronická správa dokumentů",
-      "informaèní systém",
       "informaèní sí",
-      "informační systém",
-      "informační sí",
-      "poèítaèový systém",
-      "počítačový systém"
+      "informaèní systém",
+      "poèítaèový systém"
     ]
   },
   {
@@ -22786,16 +22146,11 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronická správa",
       "elektronická správa dokumentù",
-      "elektronická správa dokumentů",
-      "informaèní systém",
       "informaèní sí",
-      "informační systém",
-      "informační sí",
-      "poèítaèový systém",
-      "počítačový systém"
+      "informaèní systém",
+      "poèítaèový systém"
     ]
   },
   {
@@ -22812,16 +22167,11 @@
     },
     "temata": [
       "bezpeènost informaèních systémù",
-      "bezpečnost informačních systémų",
       "elektronická správa",
       "elektronická správa dokumentù",
-      "elektronická správa dokumentů",
-      "informaèní systém",
       "informaèní sí",
-      "informační systém",
-      "informační sí",
-      "poèítaèový systém",
-      "počítačový systém"
+      "informaèní systém",
+      "poèítaèový systém"
     ]
   },
   {
@@ -22856,12 +22206,10 @@
       "not_logged": 8
     },
     "temata": [
-      "nevyuitelný odpad",
       "nevyužitelný odpad",
       "ochrana životního prostředí",
       "plast",
       "průmysl plastů",
-      "prųmysl plastų",
       "recyklovaný výrobek",
       "znečišťování životního prostředí"
     ]
@@ -22879,12 +22227,10 @@
       "not_logged": 15
     },
     "temata": [
-      "nevyuitelný odpad",
       "nevyužitelný odpad",
       "ochrana životního prostředí",
       "plast",
       "průmysl plastů",
-      "prųmysl plastų",
       "recyklovaný výrobek",
       "znečišťování životního prostředí"
     ]
@@ -22902,12 +22248,10 @@
       "not_logged": 14
     },
     "temata": [
-      "nevyuitelný odpad",
       "nevyužitelný odpad",
       "ochrana životního prostředí",
       "plast",
       "průmysl plastů",
-      "prųmysl plastų",
       "recyklovaný výrobek",
       "znečišťování životního prostředí"
     ]
@@ -22925,12 +22269,10 @@
       "not_logged": 12
     },
     "temata": [
-      "nevyuitelný odpad",
       "nevyužitelný odpad",
       "ochrana životního prostředí",
       "plast",
       "průmysl plastů",
-      "prųmysl plastų",
       "recyklovaný výrobek",
       "znečišťování životního prostředí"
     ]
@@ -22948,12 +22290,10 @@
       "not_logged": 12
     },
     "temata": [
-      "nevyuitelný odpad",
       "nevyužitelný odpad",
       "ochrana životního prostředí",
       "plast",
       "průmysl plastů",
-      "prųmysl plastų",
       "recyklovaný výrobek",
       "znečišťování životního prostředí"
     ]
@@ -22971,12 +22311,10 @@
       "not_logged": 10
     },
     "temata": [
-      "nevyuitelný odpad",
       "nevyužitelný odpad",
       "ochrana životního prostředí",
       "plast",
       "průmysl plastů",
-      "prųmysl plastų",
       "recyklovaný výrobek",
       "znečišťování životního prostředí"
     ]
@@ -22994,12 +22332,10 @@
       "not_logged": 10
     },
     "temata": [
-      "nevyuitelný odpad",
       "nevyužitelný odpad",
       "ochrana životního prostředí",
       "plast",
       "průmysl plastů",
-      "prųmysl plastų",
       "recyklovaný výrobek",
       "znečišťování životního prostředí"
     ]
@@ -23017,12 +22353,10 @@
       "not_logged": 12
     },
     "temata": [
-      "nevyuitelný odpad",
       "nevyužitelný odpad",
       "ochrana životního prostředí",
       "plast",
       "průmysl plastů",
-      "prųmysl plastų",
       "recyklovaný výrobek",
       "znečišťování životního prostředí"
     ]
@@ -23040,12 +22374,10 @@
       "not_logged": 10
     },
     "temata": [
-      "nevyuitelný odpad",
       "nevyužitelný odpad",
       "ochrana životního prostředí",
       "plast",
       "průmysl plastů",
-      "prųmysl plastų",
       "recyklovaný výrobek",
       "znečišťování životního prostředí"
     ]
@@ -23063,12 +22395,10 @@
       "not_logged": 9
     },
     "temata": [
-      "nevyuitelný odpad",
       "nevyužitelný odpad",
       "ochrana životního prostředí",
       "plast",
       "průmysl plastů",
-      "prųmysl plastų",
       "recyklovaný výrobek",
       "znečišťování životního prostředí"
     ]
@@ -23086,12 +22416,10 @@
       "not_logged": 9
     },
     "temata": [
-      "nevyuitelný odpad",
       "nevyužitelný odpad",
       "ochrana životního prostředí",
       "plast",
       "průmysl plastů",
-      "prųmysl plastų",
       "recyklovaný výrobek",
       "znečišťování životního prostředí"
     ]
@@ -23109,12 +22437,10 @@
       "not_logged": 8
     },
     "temata": [
-      "nevyuitelný odpad",
       "nevyužitelný odpad",
       "ochrana životního prostředí",
       "plast",
       "průmysl plastů",
-      "prųmysl plastų",
       "recyklovaný výrobek",
       "znečišťování životního prostředí"
     ]
@@ -23132,12 +22458,10 @@
       "not_logged": 9
     },
     "temata": [
-      "nevyuitelný odpad",
       "nevyužitelný odpad",
       "ochrana životního prostředí",
       "plast",
       "průmysl plastů",
-      "prųmysl plastų",
       "recyklovaný výrobek",
       "znečišťování životního prostředí",
       "zneškodňování odpadu"
@@ -24772,11 +24096,9 @@
     },
     "temata": [
       "dovozní omezení",
-      "hospodáøské sankce",
       "hospodářské sankce",
       "mezinárodní sankce",
       "obchodní omezení",
-      "zabavení vėci",
       "zabavení věci"
     ]
   },
@@ -24794,11 +24116,9 @@
     },
     "temata": [
       "dovozní omezení",
-      "hospodáøské sankce",
       "hospodářské sankce",
       "mezinárodní sankce",
       "obchodní omezení",
-      "zabavení vėci",
       "zabavení věci"
     ]
   },
@@ -24895,10 +24215,8 @@
       "not_logged": 4
     },
     "temata": [
-      "národní zemėdėlská politika",
       "národní zemědělská politika",
       "podpora podnikání",
-      "podpora zemėdėlství",
       "podpora zemědělství",
       "rozvoj venkova",
       "státní podpora"
@@ -25176,11 +24494,10 @@
     },
     "temata": [
       "Agentura pro evropský GNSS",
+      "Česká republika",
       "dvoustranná dohoda",
       "satelitní navigace",
-      "satelitní pøenos",
-      "satelitní přenos",
-      "Česká republika"
+      "satelitní přenos"
     ]
   },
   {
@@ -25197,12 +24514,11 @@
     },
     "temata": [
       "Austrálie",
+      "Česká republika",
       "ochranná podmínka",
       "soudní spolupráce",
       "trestní stíhání",
-      "vėzeō",
-      "vězeň",
-      "Česká republika"
+      "vězeň"
     ]
   },
   {
@@ -25218,11 +24534,10 @@
       "not_logged": 12
     },
     "temata": [
-      "Katar",
+      "Česká republika",
       "daňová úmluva",
-      "daōová úmluva",
       "dvojí zdanění",
-      "Česká republika"
+      "Katar"
     ]
   },
   {
@@ -25434,15 +24749,13 @@
     "temata": [
       "dodavatel",
       "dohoda o cenách",
-      "dominantní postavení",
       "domácí trh",
+      "dominantní postavení",
       "kontrola restriktivních praktik",
       "maloobchod",
       "omezování soutěže",
       "soutěžní právo",
-      "zemėdėlský výrobek",
       "zemědělský výrobek",
-      "zpracovaný potravináøský výrobek",
       "zpracovaný potravinářský výrobek"
     ]
   },
@@ -25623,15 +24936,12 @@
       "not_logged": 9
     },
     "temata": [
-      "loï",
       "loď",
-      "plavební sí",
-      "plavební síť",
-      "plavební øád",
       "plavební řád",
+      "plavební síť",
+      "říční plavba",
       "vnitrozemská vodní cesta",
-      "vnitrozemská vodní doprava",
-      "říční plavba"
+      "vnitrozemská vodní doprava"
     ]
   },
   {
@@ -25849,7 +25159,6 @@
     "temata": [
       "farmaceutická legislativa",
       "farmaceutický průmysl",
-      "farmaceutický prųmysl",
       "farmaceutický výrobek",
       "genetika",
       "kontrola léčiv",
@@ -25873,11 +25182,9 @@
     "temata": [
       "farmaceutický výrobek",
       "lék",
-      "lékaøská diagnóza",
       "lékařská diagnóza",
       "organizace zdravotnictví",
       "prostředky zdravotnické techniky",
-      "prostųedky zdravotnické techniky",
       "seznam"
     ]
   },
@@ -25896,11 +25203,9 @@
     "temata": [
       "farmaceutický výrobek",
       "lék",
-      "lékaøská diagnóza",
       "lékařská diagnóza",
       "organizace zdravotnictví",
       "prostředky zdravotnické techniky",
-      "prostųedky zdravotnické techniky",
       "seznam"
     ]
   },
@@ -25919,11 +25224,9 @@
     "temata": [
       "farmaceutický výrobek",
       "lék",
-      "lékaøská diagnóza",
       "lékařská diagnóza",
       "organizace zdravotnictví",
       "prostředky zdravotnické techniky",
-      "prostųedky zdravotnické techniky",
       "seznam"
     ]
   },
@@ -25942,11 +25245,9 @@
     "temata": [
       "farmaceutický výrobek",
       "lék",
-      "lékaøská diagnóza",
       "lékařská diagnóza",
       "organizace zdravotnictví",
       "prostředky zdravotnické techniky",
-      "prostųedky zdravotnické techniky",
       "seznam"
     ]
   },
@@ -26091,11 +25392,9 @@
     "temata": [
       "daňová kontrola",
       "daňová úmluva",
-      "daōová úmluva",
       "evropská daňová spolupráce",
       "harmonizace daní",
       "mezinárodní daňové právo",
-      "mezinárodní daōové právo",
       "výměna informací"
     ]
   },
@@ -26114,11 +25413,9 @@
     "temata": [
       "daňová kontrola",
       "daňová úmluva",
-      "daōová úmluva",
       "evropská daňová spolupráce",
       "harmonizace daní",
       "mezinárodní daňové právo",
-      "mezinárodní daōové právo",
       "výměna informací"
     ]
   },
@@ -26137,11 +25434,9 @@
     "temata": [
       "daňová kontrola",
       "daňová úmluva",
-      "daōová úmluva",
       "evropská daňová spolupráce",
       "harmonizace daní",
       "mezinárodní daňové právo",
-      "mezinárodní daōové právo",
       "výměna informací"
     ]
   },
@@ -26180,11 +25475,9 @@
     "temata": [
       "daňová kontrola",
       "daňová úmluva",
-      "daōová úmluva",
       "evropská daňová spolupráce",
       "harmonizace daní",
       "mezinárodní daňové právo",
-      "mezinárodní daōové právo",
       "výměna informací"
     ]
   },
@@ -26203,11 +25496,9 @@
     "temata": [
       "daňová kontrola",
       "daňová úmluva",
-      "daōová úmluva",
       "evropská daňová spolupráce",
       "harmonizace daní",
       "mezinárodní daňové právo",
-      "mezinárodní daōové právo",
       "výměna informací"
     ]
   },
@@ -26226,11 +25517,9 @@
     "temata": [
       "daňová kontrola",
       "daňová úmluva",
-      "daōová úmluva",
       "evropská daňová spolupráce",
       "harmonizace daní",
       "mezinárodní daňové právo",
-      "mezinárodní daōové právo",
       "výměna informací"
     ]
   },
@@ -26249,11 +25538,9 @@
     "temata": [
       "daňová kontrola",
       "daňová úmluva",
-      "daōová úmluva",
       "evropská daňová spolupráce",
       "harmonizace daní",
       "mezinárodní daňové právo",
-      "mezinárodní daōové právo",
       "výměna informací"
     ]
   },
@@ -26277,10 +25564,8 @@
       "energetická bilance",
       "energetická krize",
       "energetické právo",
-      "krizové øízení",
       "krizové řízení",
       "rozvod elektřiny",
-      "spotøeba energie",
       "spotřeba energie",
       "zásobování plynem"
     ]
@@ -26721,15 +26006,13 @@
     "temata": [
       "dodavatel",
       "dohoda o cenách",
-      "dominantní postavení",
       "domácí trh",
+      "dominantní postavení",
       "kontrola restriktivních praktik",
       "maloobchod",
       "omezování soutěže",
       "soutěžní právo",
-      "zemėdėlský výrobek",
       "zemědělský výrobek",
-      "zpracovaný potravináøský výrobek",
       "zpracovaný potravinářský výrobek"
     ]
   },
@@ -26748,15 +26031,13 @@
     "temata": [
       "dodavatel",
       "dohoda o cenách",
-      "dominantní postavení",
       "domácí trh",
+      "dominantní postavení",
       "kontrola restriktivních praktik",
       "maloobchod",
       "omezování soutěže",
       "soutěžní právo",
-      "zemėdėlský výrobek",
       "zemědělský výrobek",
-      "zpracovaný potravináøský výrobek",
       "zpracovaný potravinářský výrobek"
     ]
   },
@@ -26775,15 +26056,13 @@
     "temata": [
       "dodavatel",
       "dohoda o cenách",
-      "dominantní postavení",
       "domácí trh",
+      "dominantní postavení",
       "kontrola restriktivních praktik",
       "maloobchod",
       "omezování soutěže",
       "soutěžní právo",
-      "zemėdėlský výrobek",
       "zemědělský výrobek",
-      "zpracovaný potravináøský výrobek",
       "zpracovaný potravinářský výrobek"
     ]
   },
@@ -26802,15 +26081,13 @@
     "temata": [
       "dodavatel",
       "dohoda o cenách",
-      "dominantní postavení",
       "domácí trh",
+      "dominantní postavení",
       "kontrola restriktivních praktik",
       "maloobchod",
       "omezování soutěže",
       "soutěžní právo",
-      "zemėdėlský výrobek",
       "zemědělský výrobek",
-      "zpracovaný potravináøský výrobek",
       "zpracovaný potravinářský výrobek"
     ]
   },
@@ -26829,15 +26106,13 @@
     "temata": [
       "dodavatel",
       "dohoda o cenách",
-      "dominantní postavení",
       "domácí trh",
+      "dominantní postavení",
       "kontrola restriktivních praktik",
       "maloobchod",
       "omezování soutěže",
       "soutěžní právo",
-      "zemėdėlský výrobek",
       "zemědělský výrobek",
-      "zpracovaný potravináøský výrobek",
       "zpracovaný potravinářský výrobek"
     ]
   },
@@ -26856,15 +26131,13 @@
     "temata": [
       "dodavatel",
       "dohoda o cenách",
-      "dominantní postavení",
       "domácí trh",
+      "dominantní postavení",
       "kontrola restriktivních praktik",
       "maloobchod",
       "omezování soutěže",
       "soutěžní právo",
-      "zemėdėlský výrobek",
       "zemědělský výrobek",
-      "zpracovaný potravináøský výrobek",
       "zpracovaný potravinářský výrobek"
     ]
   },
@@ -26883,15 +26156,13 @@
     "temata": [
       "dodavatel",
       "dohoda o cenách",
-      "dominantní postavení",
       "domácí trh",
+      "dominantní postavení",
       "kontrola restriktivních praktik",
       "maloobchod",
       "omezování soutěže",
       "soutěžní právo",
-      "zemėdėlský výrobek",
       "zemědělský výrobek",
-      "zpracovaný potravináøský výrobek",
       "zpracovaný potravinářský výrobek"
     ]
   },
@@ -26910,15 +26181,13 @@
     "temata": [
       "dodavatel",
       "dohoda o cenách",
-      "dominantní postavení",
       "domácí trh",
+      "dominantní postavení",
       "kontrola restriktivních praktik",
       "maloobchod",
       "omezování soutěže",
       "soutěžní právo",
-      "zemėdėlský výrobek",
       "zemědělský výrobek",
-      "zpracovaný potravináøský výrobek",
       "zpracovaný potravinářský výrobek"
     ]
   },
@@ -26937,15 +26206,13 @@
     "temata": [
       "dodavatel",
       "dohoda o cenách",
-      "dominantní postavení",
       "domácí trh",
+      "dominantní postavení",
       "kontrola restriktivních praktik",
       "maloobchod",
       "omezování soutěže",
       "soutěžní právo",
-      "zemėdėlský výrobek",
       "zemědělský výrobek",
-      "zpracovaný potravináøský výrobek",
       "zpracovaný potravinářský výrobek"
     ]
   },
@@ -26964,15 +26231,13 @@
     "temata": [
       "dodavatel",
       "dohoda o cenách",
-      "dominantní postavení",
       "domácí trh",
+      "dominantní postavení",
       "kontrola restriktivních praktik",
       "maloobchod",
       "omezování soutěže",
       "soutěžní právo",
-      "zemėdėlský výrobek",
       "zemědělský výrobek",
-      "zpracovaný potravináøský výrobek",
       "zpracovaný potravinářský výrobek"
     ]
   },
@@ -26991,15 +26256,13 @@
     "temata": [
       "dodavatel",
       "dohoda o cenách",
-      "dominantní postavení",
       "domácí trh",
+      "dominantní postavení",
       "kontrola restriktivních praktik",
       "maloobchod",
       "omezování soutěže",
       "soutěžní právo",
-      "zemėdėlský výrobek",
       "zemědělský výrobek",
-      "zpracovaný potravináøský výrobek",
       "zpracovaný potravinářský výrobek"
     ]
   },
@@ -27018,15 +26281,13 @@
     "temata": [
       "dodavatel",
       "dohoda o cenách",
-      "dominantní postavení",
       "domácí trh",
+      "dominantní postavení",
       "kontrola restriktivních praktik",
       "maloobchod",
       "omezování soutěže",
       "soutěžní právo",
-      "zemėdėlský výrobek",
       "zemědělský výrobek",
-      "zpracovaný potravináøský výrobek",
       "zpracovaný potravinářský výrobek"
     ]
   },
@@ -27045,15 +26306,13 @@
     "temata": [
       "dodavatel",
       "dohoda o cenách",
-      "dominantní postavení",
       "domácí trh",
+      "dominantní postavení",
       "kontrola restriktivních praktik",
       "maloobchod",
       "omezování soutěže",
       "soutěžní právo",
-      "zemėdėlský výrobek",
       "zemědělský výrobek",
-      "zpracovaný potravináøský výrobek",
       "zpracovaný potravinářský výrobek"
     ]
   },
@@ -27072,15 +26331,13 @@
     "temata": [
       "dodavatel",
       "dohoda o cenách",
-      "dominantní postavení",
       "domácí trh",
+      "dominantní postavení",
       "kontrola restriktivních praktik",
       "maloobchod",
       "omezování soutěže",
       "soutěžní právo",
-      "zemėdėlský výrobek",
       "zemědělský výrobek",
-      "zpracovaný potravináøský výrobek",
       "zpracovaný potravinářský výrobek"
     ]
   },
@@ -27099,15 +26356,13 @@
     "temata": [
       "dodavatel",
       "dohoda o cenách",
-      "dominantní postavení",
       "domácí trh",
+      "dominantní postavení",
       "kontrola restriktivních praktik",
       "maloobchod",
       "omezování soutěže",
       "soutěžní právo",
-      "zemėdėlský výrobek",
       "zemědělský výrobek",
-      "zpracovaný potravináøský výrobek",
       "zpracovaný potravinářský výrobek"
     ]
   },
@@ -27126,15 +26381,13 @@
     "temata": [
       "dodavatel",
       "dohoda o cenách",
-      "dominantní postavení",
       "domácí trh",
+      "dominantní postavení",
       "kontrola restriktivních praktik",
       "maloobchod",
       "omezování soutěže",
       "soutěžní právo",
-      "zemėdėlský výrobek",
       "zemědělský výrobek",
-      "zpracovaný potravináøský výrobek",
       "zpracovaný potravinářský výrobek"
     ]
   },
@@ -27153,15 +26406,13 @@
     "temata": [
       "dodavatel",
       "dohoda o cenách",
-      "dominantní postavení",
       "domácí trh",
+      "dominantní postavení",
       "kontrola restriktivních praktik",
       "maloobchod",
       "omezování soutěže",
       "soutěžní právo",
-      "zemėdėlský výrobek",
       "zemědělský výrobek",
-      "zpracovaný potravináøský výrobek",
       "zpracovaný potravinářský výrobek"
     ]
   },
@@ -27180,15 +26431,13 @@
     "temata": [
       "dodavatel",
       "dohoda o cenách",
-      "dominantní postavení",
       "domácí trh",
+      "dominantní postavení",
       "kontrola restriktivních praktik",
       "maloobchod",
       "omezování soutěže",
       "soutěžní právo",
-      "zemėdėlský výrobek",
       "zemědělský výrobek",
-      "zpracovaný potravináøský výrobek",
       "zpracovaný potravinářský výrobek"
     ]
   },
@@ -27228,15 +26477,13 @@
     "temata": [
       "dodavatel",
       "dohoda o cenách",
-      "dominantní postavení",
       "domácí trh",
+      "dominantní postavení",
       "kontrola restriktivních praktik",
       "maloobchod",
       "omezování soutěže",
       "soutěžní právo",
-      "zemėdėlský výrobek",
       "zemědělský výrobek",
-      "zpracovaný potravináøský výrobek",
       "zpracovaný potravinářský výrobek"
     ]
   },
@@ -27255,15 +26502,13 @@
     "temata": [
       "dodavatel",
       "dohoda o cenách",
-      "dominantní postavení",
       "domácí trh",
+      "dominantní postavení",
       "kontrola restriktivních praktik",
       "maloobchod",
       "omezování soutěže",
       "soutěžní právo",
-      "zemėdėlský výrobek",
       "zemědělský výrobek",
-      "zpracovaný potravináøský výrobek",
       "zpracovaný potravinářský výrobek"
     ]
   },
@@ -27282,15 +26527,13 @@
     "temata": [
       "dodavatel",
       "dohoda o cenách",
-      "dominantní postavení",
       "domácí trh",
+      "dominantní postavení",
       "kontrola restriktivních praktik",
       "maloobchod",
       "omezování soutěže",
       "soutěžní právo",
-      "zemėdėlský výrobek",
       "zemědělský výrobek",
-      "zpracovaný potravináøský výrobek",
       "zpracovaný potravinářský výrobek"
     ]
   },
@@ -27309,15 +26552,13 @@
     "temata": [
       "dodavatel",
       "dohoda o cenách",
-      "dominantní postavení",
       "domácí trh",
+      "dominantní postavení",
       "kontrola restriktivních praktik",
       "maloobchod",
       "omezování soutěže",
       "soutěžní právo",
-      "zemėdėlský výrobek",
       "zemědělský výrobek",
-      "zpracovaný potravináøský výrobek",
       "zpracovaný potravinářský výrobek"
     ]
   },
@@ -27336,15 +26577,13 @@
     "temata": [
       "dodavatel",
       "dohoda o cenách",
-      "dominantní postavení",
       "domácí trh",
+      "dominantní postavení",
       "kontrola restriktivních praktik",
       "maloobchod",
       "omezování soutěže",
       "soutěžní právo",
-      "zemėdėlský výrobek",
       "zemědělský výrobek",
-      "zpracovaný potravináøský výrobek",
       "zpracovaný potravinářský výrobek"
     ]
   },
@@ -27363,15 +26602,13 @@
     "temata": [
       "dodavatel",
       "dohoda o cenách",
-      "dominantní postavení",
       "domácí trh",
+      "dominantní postavení",
       "kontrola restriktivních praktik",
       "maloobchod",
       "omezování soutěže",
       "soutěžní právo",
-      "zemėdėlský výrobek",
       "zemědělský výrobek",
-      "zpracovaný potravináøský výrobek",
       "zpracovaný potravinářský výrobek"
     ]
   },
@@ -27390,15 +26627,13 @@
     "temata": [
       "dodavatel",
       "dohoda o cenách",
-      "dominantní postavení",
       "domácí trh",
+      "dominantní postavení",
       "kontrola restriktivních praktik",
       "maloobchod",
       "omezování soutěže",
       "soutěžní právo",
-      "zemėdėlský výrobek",
       "zemědělský výrobek",
-      "zpracovaný potravináøský výrobek",
       "zpracovaný potravinářský výrobek"
     ]
   },
@@ -27417,11 +26652,9 @@
     "temata": [
       "daňová kontrola",
       "daňová úmluva",
-      "daōová úmluva",
       "evropská daňová spolupráce",
       "harmonizace daní",
       "mezinárodní daňové právo",
-      "mezinárodní daōové právo",
       "výměna informací"
     ]
   },
@@ -27439,7 +26672,6 @@
     },
     "temata": [
       "financování rozpočtu",
-      "plnėní rozpočtu",
       "plnění rozpočtu",
       "státní rozpočet"
     ]
@@ -27458,7 +26690,6 @@
     },
     "temata": [
       "financování rozpočtu",
-      "plnėní rozpočtu",
       "plnění rozpočtu",
       "státní rozpočet"
     ]
@@ -27498,15 +26729,13 @@
     "temata": [
       "dodavatel",
       "dohoda o cenách",
-      "dominantní postavení",
       "domácí trh",
+      "dominantní postavení",
       "kontrola restriktivních praktik",
       "maloobchod",
       "omezování soutěže",
       "soutěžní právo",
-      "zemėdėlský výrobek",
       "zemědělský výrobek",
-      "zpracovaný potravináøský výrobek",
       "zpracovaný potravinářský výrobek"
     ]
   },
@@ -27525,15 +26754,13 @@
     "temata": [
       "dodavatel",
       "dohoda o cenách",
-      "dominantní postavení",
       "domácí trh",
+      "dominantní postavení",
       "kontrola restriktivních praktik",
       "maloobchod",
       "omezování soutěže",
       "soutěžní právo",
-      "zemėdėlský výrobek",
       "zemědělský výrobek",
-      "zpracovaný potravináøský výrobek",
       "zpracovaný potravinářský výrobek"
     ]
   },
@@ -27552,15 +26779,13 @@
     "temata": [
       "dodavatel",
       "dohoda o cenách",
-      "dominantní postavení",
       "domácí trh",
+      "dominantní postavení",
       "kontrola restriktivních praktik",
       "maloobchod",
       "omezování soutěže",
       "soutěžní právo",
-      "zemėdėlský výrobek",
       "zemědělský výrobek",
-      "zpracovaný potravináøský výrobek",
       "zpracovaný potravinářský výrobek"
     ]
   },
@@ -27582,7 +26807,6 @@
       "ochrana spotřebitele",
       "omezování soutěže",
       "přibližování legislativy",
-      "vypovėdėní smlouvy",
       "vypovědění smlouvy"
     ]
   },
@@ -28846,13 +28070,12 @@
       "autorské právo",
       "digitální technologie",
       "dokument",
-      "duevnķ vlastnictvķ",
       "duševní vlastnictví",
       "elektronický dokument",
       "internet",
       "knihovna",
-      "programované vyučování",
       "přibližování legislativy",
+      "programované vyučování",
       "rozhlasové vysílání",
       "televize"
     ]
@@ -29349,7 +28572,6 @@
       "bytové právo",
       "cena energie",
       "tepelná energie",
-      "vytápėní",
       "vytápění"
     ]
   },
@@ -29476,10 +28698,9 @@
       "not_logged": 0
     },
     "temata": [
-      "Evropská agentura pro bezpeènost letectví",
-      "Evropská agentura pro bezpečnost letectví",
       "bezpilotní letoun",
       "civilní letectví",
+      "Evropská agentura pro bezpečnost letectví",
       "letadlo",
       "letecká doprava",
       "letecký provoz",
@@ -29766,11 +28987,10 @@
       "doklady vozidla",
       "motorové vozidlo",
       "pozemní doprava",
-      "pøepravní pøedpisy",
       "přepravní předpisy",
+      "říční plavba",
       "silniční provoz",
-      "technická kontrola",
-      "říční plavba"
+      "technická kontrola"
     ]
   },
   {
@@ -29787,11 +29007,9 @@
     },
     "temata": [
       "dovozní omezení",
-      "hospodáøské sankce",
       "hospodářské sankce",
       "mezinárodní sankce",
       "obchodní omezení",
-      "zabavení vėci",
       "zabavení věci"
     ]
   },
@@ -29809,11 +29027,9 @@
     },
     "temata": [
       "dovozní omezení",
-      "hospodáøské sankce",
       "hospodářské sankce",
       "mezinárodní sankce",
       "obchodní omezení",
-      "zabavení vėci",
       "zabavení věci"
     ]
   },
@@ -30785,15 +30001,13 @@
     "temata": [
       "dodavatel",
       "dohoda o cenách",
-      "dominantní postavení",
       "domácí trh",
+      "dominantní postavení",
       "kontrola restriktivních praktik",
       "maloobchod",
       "omezování soutěže",
       "soutěžní právo",
-      "zemėdėlský výrobek",
       "zemědělský výrobek",
-      "zpracovaný potravináøský výrobek",
       "zpracovaný potravinářský výrobek"
     ]
   },
@@ -30812,15 +30026,13 @@
     "temata": [
       "dodavatel",
       "dohoda o cenách",
-      "dominantní postavení",
       "domácí trh",
+      "dominantní postavení",
       "kontrola restriktivních praktik",
       "maloobchod",
       "omezování soutěže",
       "soutěžní právo",
-      "zemėdėlský výrobek",
       "zemědělský výrobek",
-      "zpracovaný potravináøský výrobek",
       "zpracovaný potravinářský výrobek"
     ]
   },
@@ -30839,15 +30051,13 @@
     "temata": [
       "dodavatel",
       "dohoda o cenách",
-      "dominantní postavení",
       "domácí trh",
+      "dominantní postavení",
       "kontrola restriktivních praktik",
       "maloobchod",
       "omezování soutěže",
       "soutěžní právo",
-      "zemėdėlský výrobek",
       "zemědělský výrobek",
-      "zpracovaný potravináøský výrobek",
       "zpracovaný potravinářský výrobek"
     ]
   },
@@ -30866,15 +30076,13 @@
     "temata": [
       "dodavatel",
       "dohoda o cenách",
-      "dominantní postavení",
       "domácí trh",
+      "dominantní postavení",
       "kontrola restriktivních praktik",
       "maloobchod",
       "omezování soutěže",
       "soutěžní právo",
-      "zemėdėlský výrobek",
       "zemědělský výrobek",
-      "zpracovaný potravináøský výrobek",
       "zpracovaný potravinářský výrobek"
     ]
   },
@@ -30893,15 +30101,13 @@
     "temata": [
       "dodavatel",
       "dohoda o cenách",
-      "dominantní postavení",
       "domácí trh",
+      "dominantní postavení",
       "kontrola restriktivních praktik",
       "maloobchod",
       "omezování soutěže",
       "soutěžní právo",
-      "zemėdėlský výrobek",
       "zemědělský výrobek",
-      "zpracovaný potravináøský výrobek",
       "zpracovaný potravinářský výrobek"
     ]
   },
@@ -30920,15 +30126,13 @@
     "temata": [
       "dodavatel",
       "dohoda o cenách",
-      "dominantní postavení",
       "domácí trh",
+      "dominantní postavení",
       "kontrola restriktivních praktik",
       "maloobchod",
       "omezování soutěže",
       "soutěžní právo",
-      "zemėdėlský výrobek",
       "zemědělský výrobek",
-      "zpracovaný potravináøský výrobek",
       "zpracovaný potravinářský výrobek"
     ]
   },
@@ -30947,15 +30151,13 @@
     "temata": [
       "dodavatel",
       "dohoda o cenách",
-      "dominantní postavení",
       "domácí trh",
+      "dominantní postavení",
       "kontrola restriktivních praktik",
       "maloobchod",
       "omezování soutěže",
       "soutěžní právo",
-      "zemėdėlský výrobek",
       "zemědělský výrobek",
-      "zpracovaný potravináøský výrobek",
       "zpracovaný potravinářský výrobek"
     ]
   },
@@ -30974,15 +30176,13 @@
     "temata": [
       "dodavatel",
       "dohoda o cenách",
-      "dominantní postavení",
       "domácí trh",
+      "dominantní postavení",
       "kontrola restriktivních praktik",
       "maloobchod",
       "omezování soutěže",
       "soutěžní právo",
-      "zemėdėlský výrobek",
       "zemědělský výrobek",
-      "zpracovaný potravináøský výrobek",
       "zpracovaný potravinářský výrobek"
     ]
   },
@@ -31001,15 +30201,13 @@
     "temata": [
       "dodavatel",
       "dohoda o cenách",
-      "dominantní postavení",
       "domácí trh",
+      "dominantní postavení",
       "kontrola restriktivních praktik",
       "maloobchod",
       "omezování soutěže",
       "soutěžní právo",
-      "zemėdėlský výrobek",
       "zemědělský výrobek",
-      "zpracovaný potravináøský výrobek",
       "zpracovaný potravinářský výrobek"
     ]
   },
@@ -31027,10 +30225,9 @@
     },
     "temata": [
       "automobil",
+      "péče o postižené osoby",
       "pomůcky pro postižené osoby",
       "prostředky zdravotnické techniky",
-      "prostųedky zdravotnické techniky",
-      "péče o postižené osoby",
       "sociální dávky",
       "sociální pomoc",
       "zdravotně postižený člověk",
@@ -32385,7 +31582,6 @@
     "temata": [
       "důchodový plán",
       "podmínky pro odchod do důchodu",
-      "podmínky pro odchod do dųchodu",
       "předčasný důchod",
       "zdravotnické povolání"
     ]
@@ -32595,10 +31791,8 @@
       "přidělení zakázky",
       "soutěžní řízení",
       "veřejná zakázka",
-      "vypsání soutėe",
-      "vypsání soutěže",
-      "vítėzná zakázka",
-      "vítězná zakázka"
+      "vítězná zakázka",
+      "vypsání soutěže"
     ]
   },
   {
@@ -32617,10 +31811,8 @@
       "přidělení zakázky",
       "soutěžní řízení",
       "veřejná zakázka",
-      "vypsání soutėe",
-      "vypsání soutěže",
-      "vítėzná zakázka",
-      "vítězná zakázka"
+      "vítězná zakázka",
+      "vypsání soutěže"
     ]
   },
   {
@@ -32639,10 +31831,8 @@
       "přidělení zakázky",
       "soutěžní řízení",
       "veřejná zakázka",
-      "vypsání soutėe",
-      "vypsání soutěže",
-      "vítėzná zakázka",
-      "vítězná zakázka"
+      "vítězná zakázka",
+      "vypsání soutěže"
     ]
   },
   {
@@ -32661,10 +31851,8 @@
       "přidělení zakázky",
       "soutěžní řízení",
       "veřejná zakázka",
-      "vypsání soutėe",
-      "vypsání soutěže",
-      "vítėzná zakázka",
-      "vítězná zakázka"
+      "vítězná zakázka",
+      "vypsání soutěže"
     ]
   },
   {
@@ -32727,10 +31915,8 @@
       "přidělení zakázky",
       "soutěžní řízení",
       "veřejná zakázka",
-      "vypsání soutėe",
-      "vypsání soutěže",
-      "vítėzná zakázka",
-      "vítězná zakázka"
+      "vítězná zakázka",
+      "vypsání soutěže"
     ]
   },
   {
@@ -32749,10 +31935,28 @@
       "přidělení zakázky",
       "soutěžní řízení",
       "veřejná zakázka",
-      "vypsání soutėe",
-      "vypsání soutěže",
-      "vítėzná zakázka",
-      "vítězná zakázka"
+      "vítězná zakázka",
+      "vypsání soutěže"
+    ]
+  },
+  {
+    "id": 79129,
+    "date": "2022-11-15",
+    "title": "Novela státního rozpočtu na rok 2022",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 179,
+      "no": 0,
+      "abstain": 5,
+      "absent": 12,
+      "not_logged": 4
+    },
+    "temata": [
+      "přidělení zakázky",
+      "soutěžní řízení",
+      "veřejná zakázka",
+      "vítězná zakázka",
+      "vypsání soutěže"
     ]
   },
   {
@@ -32843,15 +32047,13 @@
     "temata": [
       "dodavatel",
       "dohoda o cenách",
-      "dominantní postavení",
       "domácí trh",
+      "dominantní postavení",
       "kontrola restriktivních praktik",
       "maloobchod",
       "omezování soutěže",
       "soutěžní právo",
-      "zemėdėlský výrobek",
       "zemědělský výrobek",
-      "zpracovaný potravináøský výrobek",
       "zpracovaný potravinářský výrobek"
     ]
   },
@@ -32870,15 +32072,13 @@
     "temata": [
       "dodavatel",
       "dohoda o cenách",
-      "dominantní postavení",
       "domácí trh",
+      "dominantní postavení",
       "kontrola restriktivních praktik",
       "maloobchod",
       "omezování soutěže",
       "soutěžní právo",
-      "zemėdėlský výrobek",
       "zemědělský výrobek",
-      "zpracovaný potravináøský výrobek",
       "zpracovaný potravinářský výrobek"
     ]
   },
@@ -32897,15 +32097,13 @@
     "temata": [
       "dodavatel",
       "dohoda o cenách",
-      "dominantní postavení",
       "domácí trh",
+      "dominantní postavení",
       "kontrola restriktivních praktik",
       "maloobchod",
       "omezování soutěže",
       "soutěžní právo",
-      "zemėdėlský výrobek",
       "zemědělský výrobek",
-      "zpracovaný potravináøský výrobek",
       "zpracovaný potravinářský výrobek"
     ]
   },
@@ -32924,15 +32122,13 @@
     "temata": [
       "dodavatel",
       "dohoda o cenách",
-      "dominantní postavení",
       "domácí trh",
+      "dominantní postavení",
       "kontrola restriktivních praktik",
       "maloobchod",
       "omezování soutěže",
       "soutěžní právo",
-      "zemėdėlský výrobek",
       "zemědělský výrobek",
-      "zpracovaný potravináøský výrobek",
       "zpracovaný potravinářský výrobek"
     ]
   },
@@ -32951,15 +32147,13 @@
     "temata": [
       "dodavatel",
       "dohoda o cenách",
-      "dominantní postavení",
       "domácí trh",
+      "dominantní postavení",
       "kontrola restriktivních praktik",
       "maloobchod",
       "omezování soutěže",
       "soutěžní právo",
-      "zemėdėlský výrobek",
       "zemědělský výrobek",
-      "zpracovaný potravináøský výrobek",
       "zpracovaný potravinářský výrobek"
     ]
   },
@@ -32978,15 +32172,13 @@
     "temata": [
       "dodavatel",
       "dohoda o cenách",
-      "dominantní postavení",
       "domácí trh",
+      "dominantní postavení",
       "kontrola restriktivních praktik",
       "maloobchod",
       "omezování soutěže",
       "soutěžní právo",
-      "zemėdėlský výrobek",
       "zemědělský výrobek",
-      "zpracovaný potravináøský výrobek",
       "zpracovaný potravinářský výrobek"
     ]
   },
@@ -33005,15 +32197,13 @@
     "temata": [
       "dodavatel",
       "dohoda o cenách",
-      "dominantní postavení",
       "domácí trh",
+      "dominantní postavení",
       "kontrola restriktivních praktik",
       "maloobchod",
       "omezování soutěže",
       "soutěžní právo",
-      "zemėdėlský výrobek",
       "zemědělský výrobek",
-      "zpracovaný potravináøský výrobek",
       "zpracovaný potravinářský výrobek"
     ]
   },
@@ -33032,15 +32222,13 @@
     "temata": [
       "dodavatel",
       "dohoda o cenách",
-      "dominantní postavení",
       "domácí trh",
+      "dominantní postavení",
       "kontrola restriktivních praktik",
       "maloobchod",
       "omezování soutěže",
       "soutěžní právo",
-      "zemėdėlský výrobek",
       "zemědělský výrobek",
-      "zpracovaný potravináøský výrobek",
       "zpracovaný potravinářský výrobek"
     ]
   },
@@ -33059,15 +32247,13 @@
     "temata": [
       "dodavatel",
       "dohoda o cenách",
-      "dominantní postavení",
       "domácí trh",
+      "dominantní postavení",
       "kontrola restriktivních praktik",
       "maloobchod",
       "omezování soutěže",
       "soutěžní právo",
-      "zemėdėlský výrobek",
       "zemědělský výrobek",
-      "zpracovaný potravináøský výrobek",
       "zpracovaný potravinářský výrobek"
     ]
   },
@@ -33086,15 +32272,13 @@
     "temata": [
       "dodavatel",
       "dohoda o cenách",
-      "dominantní postavení",
       "domácí trh",
+      "dominantní postavení",
       "kontrola restriktivních praktik",
       "maloobchod",
       "omezování soutěže",
       "soutěžní právo",
-      "zemėdėlský výrobek",
       "zemědělský výrobek",
-      "zpracovaný potravináøský výrobek",
       "zpracovaný potravinářský výrobek"
     ]
   },
@@ -33113,15 +32297,13 @@
     "temata": [
       "dodavatel",
       "dohoda o cenách",
-      "dominantní postavení",
       "domácí trh",
+      "dominantní postavení",
       "kontrola restriktivních praktik",
       "maloobchod",
       "omezování soutěže",
       "soutěžní právo",
-      "zemėdėlský výrobek",
       "zemědělský výrobek",
-      "zpracovaný potravináøský výrobek",
       "zpracovaný potravinářský výrobek"
     ]
   },
@@ -33140,15 +32322,13 @@
     "temata": [
       "dodavatel",
       "dohoda o cenách",
-      "dominantní postavení",
       "domácí trh",
+      "dominantní postavení",
       "kontrola restriktivních praktik",
       "maloobchod",
       "omezování soutěže",
       "soutěžní právo",
-      "zemėdėlský výrobek",
       "zemědělský výrobek",
-      "zpracovaný potravináøský výrobek",
       "zpracovaný potravinářský výrobek"
     ]
   },
@@ -33167,15 +32347,13 @@
     "temata": [
       "dodavatel",
       "dohoda o cenách",
-      "dominantní postavení",
       "domácí trh",
+      "dominantní postavení",
       "kontrola restriktivních praktik",
       "maloobchod",
       "omezování soutěže",
       "soutěžní právo",
-      "zemėdėlský výrobek",
       "zemědělský výrobek",
-      "zpracovaný potravináøský výrobek",
       "zpracovaný potravinářský výrobek"
     ]
   },
@@ -33194,15 +32372,13 @@
     "temata": [
       "dodavatel",
       "dohoda o cenách",
-      "dominantní postavení",
       "domácí trh",
+      "dominantní postavení",
       "kontrola restriktivních praktik",
       "maloobchod",
       "omezování soutěže",
       "soutěžní právo",
-      "zemėdėlský výrobek",
       "zemědělský výrobek",
-      "zpracovaný potravináøský výrobek",
       "zpracovaný potravinářský výrobek"
     ]
   },
@@ -33220,10 +32396,8 @@
     },
     "temata": [
       "elektronická správa",
-      "informatika a průmysl zpracování dat",
-      "informatika a prųmysl zpracování dat",
       "informační systém",
-      "komunikaèní systém",
+      "informatika a průmysl zpracování dat",
       "komunikační systém",
       "služba ve veřejném zájmu",
       "telekomunikace",
@@ -33247,15 +32421,13 @@
     "temata": [
       "dodavatel",
       "dohoda o cenách",
-      "dominantní postavení",
       "domácí trh",
+      "dominantní postavení",
       "kontrola restriktivních praktik",
       "maloobchod",
       "omezování soutěže",
       "soutěžní právo",
-      "zemėdėlský výrobek",
       "zemědělský výrobek",
-      "zpracovaný potravináøský výrobek",
       "zpracovaný potravinářský výrobek"
     ]
   },
@@ -33274,15 +32446,13 @@
     "temata": [
       "dodavatel",
       "dohoda o cenách",
-      "dominantní postavení",
       "domácí trh",
+      "dominantní postavení",
       "kontrola restriktivních praktik",
       "maloobchod",
       "omezování soutěže",
       "soutěžní právo",
-      "zemėdėlský výrobek",
       "zemědělský výrobek",
-      "zpracovaný potravináøský výrobek",
       "zpracovaný potravinářský výrobek"
     ]
   },
@@ -33301,15 +32471,13 @@
     "temata": [
       "dodavatel",
       "dohoda o cenách",
-      "dominantní postavení",
       "domácí trh",
+      "dominantní postavení",
       "kontrola restriktivních praktik",
       "maloobchod",
       "omezování soutěže",
       "soutěžní právo",
-      "zemėdėlský výrobek",
       "zemědělský výrobek",
-      "zpracovaný potravináøský výrobek",
       "zpracovaný potravinářský výrobek"
     ]
   },
@@ -33328,15 +32496,13 @@
     "temata": [
       "dodavatel",
       "dohoda o cenách",
-      "dominantní postavení",
       "domácí trh",
+      "dominantní postavení",
       "kontrola restriktivních praktik",
       "maloobchod",
       "omezování soutěže",
       "soutěžní právo",
-      "zemėdėlský výrobek",
       "zemědělský výrobek",
-      "zpracovaný potravináøský výrobek",
       "zpracovaný potravinářský výrobek"
     ]
   },
@@ -33372,9 +32538,7 @@
       "intervenční politika",
       "návrh rozpočtu",
       "rozpočet",
-      "společná zemėdėlská politika",
       "společná zemědělská politika",
-      "zemėdėlská politika",
       "zemědělská politika"
     ]
   },
@@ -33396,9 +32560,7 @@
       "intervenční politika",
       "návrh rozpočtu",
       "rozpočet",
-      "společná zemėdėlská politika",
       "společná zemědělská politika",
-      "zemėdėlská politika",
       "zemědělská politika"
     ]
   },
@@ -33437,9 +32599,7 @@
       "intervenční politika",
       "návrh rozpočtu",
       "rozpočet",
-      "společná zemėdėlská politika",
       "společná zemědělská politika",
-      "zemėdėlská politika",
       "zemědělská politika"
     ]
   },
@@ -33461,9 +32621,7 @@
       "intervenční politika",
       "návrh rozpočtu",
       "rozpočet",
-      "společná zemėdėlská politika",
       "společná zemědělská politika",
-      "zemėdėlská politika",
       "zemědělská politika"
     ]
   },
@@ -33482,11 +32640,9 @@
     "temata": [
       "daňová kontrola",
       "daňová úmluva",
-      "daōová úmluva",
       "evropská daňová spolupráce",
       "harmonizace daní",
       "mezinárodní daňové právo",
-      "mezinárodní daōové právo",
       "výměna informací"
     ]
   },
@@ -33508,9 +32664,7 @@
       "intervenční politika",
       "návrh rozpočtu",
       "rozpočet",
-      "společná zemėdėlská politika",
       "společná zemědělská politika",
-      "zemėdėlská politika",
       "zemědělská politika"
     ]
   },
@@ -33641,7 +32795,6 @@
     },
     "temata": [
       "Antarktida",
-      "havarijní znečitėní",
       "havarijní znečištění",
       "nerostné zdroje",
       "ochrana životního prostředí",
@@ -33928,10 +33081,9 @@
       "daňový systém",
       "derogace",
       "maloobchodní prodej",
-      "pøíjem – platba",
       "příjem – platba",
-      "ukládání a vyhledávání informací",
-      "účetnictví"
+      "účetnictví",
+      "ukládání a vyhledávání informací"
     ]
   },
   {
@@ -33964,10 +33116,9 @@
       "daňový systém",
       "derogace",
       "maloobchodní prodej",
-      "pøíjem – platba",
       "příjem – platba",
-      "ukládání a vyhledávání informací",
-      "účetnictví"
+      "účetnictví",
+      "ukládání a vyhledávání informací"
     ]
   },
   {
@@ -33986,10 +33137,9 @@
       "daňový systém",
       "derogace",
       "maloobchodní prodej",
-      "pøíjem – platba",
       "příjem – platba",
-      "ukládání a vyhledávání informací",
-      "účetnictví"
+      "účetnictví",
+      "ukládání a vyhledávání informací"
     ]
   },
   {
@@ -34008,10 +33158,9 @@
       "daňový systém",
       "derogace",
       "maloobchodní prodej",
-      "pøíjem – platba",
       "příjem – platba",
-      "ukládání a vyhledávání informací",
-      "účetnictví"
+      "účetnictví",
+      "ukládání a vyhledávání informací"
     ]
   },
   {
@@ -34030,10 +33179,9 @@
       "daňový systém",
       "derogace",
       "maloobchodní prodej",
-      "pøíjem – platba",
       "příjem – platba",
-      "ukládání a vyhledávání informací",
-      "účetnictví"
+      "účetnictví",
+      "ukládání a vyhledávání informací"
     ]
   },
   {
@@ -34052,10 +33200,9 @@
       "daňový systém",
       "derogace",
       "maloobchodní prodej",
-      "pøíjem – platba",
       "příjem – platba",
-      "ukládání a vyhledávání informací",
-      "účetnictví"
+      "účetnictví",
+      "ukládání a vyhledávání informací"
     ]
   },
   {
@@ -34170,7 +33317,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -34211,7 +33357,6 @@
       "daňové orgány",
       "interinstitucionální spolupráce (EU)",
       "podvod",
-      "podvody pokozující EU",
       "podvody poškozující EU",
       "přibližování legislativy",
       "spolupráce mezi institucemi",
@@ -34234,7 +33379,6 @@
       "daňové orgány",
       "interinstitucionální spolupráce (EU)",
       "podvod",
-      "podvody pokozující EU",
       "podvody poškozující EU",
       "přibližování legislativy",
       "spolupráce mezi institucemi",
@@ -34255,7 +33399,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -34339,7 +33482,6 @@
     },
     "temata": [
       "dálkový průzkum",
-      "dálkový prųzkum",
       "geodézie",
       "kartografie",
       "plán",
@@ -34403,12 +33545,10 @@
     "temata": [
       "financování rozpočtu",
       "investiční politika",
-      "plnėní rozpočtu",
       "plnění rozpočtu",
       "podpora investic",
-      "zpráva o činnosti",
-      "účetní uzávėrka",
-      "účetní uzávěrka"
+      "účetní uzávěrka",
+      "zpráva o činnosti"
     ]
   },
   {
@@ -34426,12 +33566,10 @@
     "temata": [
       "financování rozpočtu",
       "investiční politika",
-      "plnėní rozpočtu",
       "plnění rozpočtu",
       "podpora investic",
-      "zpráva o činnosti",
-      "účetní uzávėrka",
-      "účetní uzávěrka"
+      "účetní uzávěrka",
+      "zpráva o činnosti"
     ]
   },
   {
@@ -35639,12 +34777,10 @@
     "temata": [
       "financování rozpočtu",
       "investiční politika",
-      "plnėní rozpočtu",
       "plnění rozpočtu",
       "podpora investic",
-      "zpráva o činnosti",
-      "účetní uzávėrka",
-      "účetní uzávěrka"
+      "účetní uzávěrka",
+      "zpráva o činnosti"
     ]
   },
   {
@@ -35704,9 +34840,7 @@
       "intervenční politika",
       "návrh rozpočtu",
       "rozpočet",
-      "společná zemėdėlská politika",
       "společná zemědělská politika",
-      "zemėdėlská politika",
       "zemědělská politika"
     ]
   },
@@ -35724,14 +34858,11 @@
     },
     "temata": [
       "agrární sektor",
-      "hospodáøská podpora",
       "hospodářská podpora",
       "ochrana životního prostředí",
-      "podpora zemėdėlství",
       "podpora zemědělství",
       "podpůrná politika",
       "státní podpora",
-      "zemėdėlská politika",
       "zemědělská politika",
       "zemědělská výroba"
     ]
@@ -35750,14 +34881,11 @@
     },
     "temata": [
       "agrární sektor",
-      "hospodáøská podpora",
       "hospodářská podpora",
       "ochrana životního prostředí",
-      "podpora zemėdėlství",
       "podpora zemědělství",
       "podpůrná politika",
       "státní podpora",
-      "zemėdėlská politika",
       "zemědělská politika",
       "zemědělská výroba"
     ]
@@ -35776,14 +34904,11 @@
     },
     "temata": [
       "agrární sektor",
-      "hospodáøská podpora",
       "hospodářská podpora",
       "ochrana životního prostředí",
-      "podpora zemėdėlství",
       "podpora zemědělství",
       "podpůrná politika",
       "státní podpora",
-      "zemėdėlská politika",
       "zemědělská politika",
       "zemědělská výroba"
     ]
@@ -35803,12 +34928,10 @@
     "temata": [
       "financování rozpočtu",
       "investiční politika",
-      "plnėní rozpočtu",
       "plnění rozpočtu",
       "podpora investic",
-      "zpráva o činnosti",
-      "účetní uzávėrka",
-      "účetní uzávěrka"
+      "účetní uzávěrka",
+      "zpráva o činnosti"
     ]
   },
   {
@@ -36100,50 +35223,6 @@
       "yes": 69,
       "no": 64,
       "abstain": 14,
-      "absent": 47,
-      "not_logged": 6
-    },
-    "temata": [
-      "evropský soudní prostor",
-      "evropský zatýkací rozkaz",
-      "politika spolupráce",
-      "přeshraniční spolupráce",
-      "soudní spolupráce",
-      "soudní spolupráce EU v trestních věcech",
-      "trestní právo"
-    ]
-  },
-  {
-    "id": 79304,
-    "date": "2022-12-01",
-    "title": "Novela z. o státní sociální podpoře",
-    "result": "prijato",
-    "vote_summary": {
-      "yes": 147,
-      "no": 0,
-      "abstain": 0,
-      "absent": 47,
-      "not_logged": 6
-    },
-    "temata": [
-      "evropský soudní prostor",
-      "evropský zatýkací rozkaz",
-      "politika spolupráce",
-      "přeshraniční spolupráce",
-      "soudní spolupráce",
-      "soudní spolupráce EU v trestních věcech",
-      "trestní právo"
-    ]
-  },
-  {
-    "id": 79305,
-    "date": "2022-12-01",
-    "title": "Novela z. o státní sociální podpoře",
-    "result": "prijato",
-    "vote_summary": {
-      "yes": 147,
-      "no": 0,
-      "abstain": 0,
       "absent": 47,
       "not_logged": 6
     },

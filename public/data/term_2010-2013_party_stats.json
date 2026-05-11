@@ -1,10 +1,10 @@
-[
+﻿[
   {
     "party_id": "cssd",
     "mps_count": 66,
     "avg_attendance": 74.51,
     "unity_score": 0.839,
-    "total_eligible_votes": 325120,
+    "total_eligible_votes": 325091,
     "total_attended": 242232
   },
   {
@@ -26,25 +26,49 @@
   {
     "party_id": "kscm",
     "mps_count": 26,
-    "avg_attendance": 85.55,
+    "avg_attendance": 85.57,
     "unity_score": 0.906,
-    "total_eligible_votes": 154128,
+    "total_eligible_votes": 154099,
     "total_attended": 131856
   },
   {
     "party_id": "vv",
     "mps_count": 25,
-    "avg_attendance": 75.92,
+    "avg_attendance": 75.93,
     "unity_score": 0.899,
-    "total_eligible_votes": 103786,
+    "total_eligible_votes": 103766,
     "total_attended": 78793
+  },
+  {
+    "party_id": "Poslaneck klub Komunistick strany ech a Moravy",
+    "mps_count": 1,
+    "avg_attendance": 0.0,
+    "unity_score": null,
+    "total_eligible_votes": 29,
+    "total_attended": 0
+  },
+  {
+    "party_id": "Poslaneck klub Vci veejn",
+    "mps_count": 1,
+    "avg_attendance": 0.0,
+    "unity_score": null,
+    "total_eligible_votes": 20,
+    "total_attended": 0
+  },
+  {
+    "party_id": "Poslaneck klub esk strany sociln demokratick",
+    "mps_count": 1,
+    "avg_attendance": 0.0,
+    "unity_score": null,
+    "total_eligible_votes": 29,
+    "total_attended": 0
   },
   {
     "party_id": "Nezařazení",
     "mps_count": 24,
-    "avg_attendance": 65.57,
+    "avg_attendance": 65.58,
     "unity_score": 0.826,
-    "total_eligible_votes": 52531,
+    "total_eligible_votes": 52522,
     "total_attended": 34445
   },
   {
@@ -53,6 +77,14 @@
     "avg_attendance": 0.0,
     "unity_score": null,
     "total_eligible_votes": 145,
+    "total_attended": 0
+  },
+  {
+    "party_id": "Nezaazen",
+    "mps_count": 1,
+    "avg_attendance": 0.0,
+    "unity_score": null,
+    "total_eligible_votes": 9,
     "total_attended": 0
   }
 ]

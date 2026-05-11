@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "id": 86327,
     "date": "2025-11-03",
@@ -25,7 +25,12 @@
       "absent": 2,
       "not_logged": 4
     },
-    "temata": []
+    "temata": [
+      "investiční podpora",
+      "návrh rozpočtu",
+      "ochrana investic",
+      "podpora investic"
+    ]
   },
   {
     "id": 86329,
@@ -39,7 +44,12 @@
       "absent": 7,
       "not_logged": 8
     },
-    "temata": []
+    "temata": [
+      "investiční podpora",
+      "návrh rozpočtu",
+      "ochrana investic",
+      "podpora investic"
+    ]
   },
   {
     "id": 86330,
@@ -53,7 +63,12 @@
       "absent": 5,
       "not_logged": 8
     },
-    "temata": []
+    "temata": [
+      "investiční podpora",
+      "návrh rozpočtu",
+      "ochrana investic",
+      "podpora investic"
+    ]
   },
   {
     "id": 86331,
@@ -67,7 +82,12 @@
       "absent": 5,
       "not_logged": 7
     },
-    "temata": []
+    "temata": [
+      "investiční podpora",
+      "návrh rozpočtu",
+      "ochrana investic",
+      "podpora investic"
+    ]
   },
   {
     "id": 86332,
@@ -95,7 +115,12 @@
       "absent": 4,
       "not_logged": 45
     },
-    "temata": []
+    "temata": [
+      "investiční podpora",
+      "návrh rozpočtu",
+      "ochrana investic",
+      "podpora investic"
+    ]
   },
   {
     "id": 86334,
@@ -109,7 +134,12 @@
       "absent": 3,
       "not_logged": 6
     },
-    "temata": []
+    "temata": [
+      "investiční podpora",
+      "návrh rozpočtu",
+      "ochrana investic",
+      "podpora investic"
+    ]
   },
   {
     "id": 86335,
@@ -123,7 +153,12 @@
       "absent": 4,
       "not_logged": 2
     },
-    "temata": []
+    "temata": [
+      "investiční podpora",
+      "návrh rozpočtu",
+      "ochrana investic",
+      "podpora investic"
+    ]
   },
   {
     "id": 86336,
@@ -137,7 +172,12 @@
       "absent": 4,
       "not_logged": 18
     },
-    "temata": []
+    "temata": [
+      "investiční podpora",
+      "návrh rozpočtu",
+      "ochrana investic",
+      "podpora investic"
+    ]
   },
   {
     "id": 86337,
@@ -151,7 +191,12 @@
       "absent": 3,
       "not_logged": 6
     },
-    "temata": []
+    "temata": [
+      "investiční podpora",
+      "návrh rozpočtu",
+      "ochrana investic",
+      "podpora investic"
+    ]
   },
   {
     "id": 86338,
@@ -165,7 +210,12 @@
       "absent": 3,
       "not_logged": 3
     },
-    "temata": []
+    "temata": [
+      "investiční podpora",
+      "návrh rozpočtu",
+      "ochrana investic",
+      "podpora investic"
+    ]
   },
   {
     "id": 86339,
@@ -179,7 +229,12 @@
       "absent": 3,
       "not_logged": 3
     },
-    "temata": []
+    "temata": [
+      "investiční podpora",
+      "návrh rozpočtu",
+      "ochrana investic",
+      "podpora investic"
+    ]
   },
   {
     "id": 86340,
@@ -193,7 +248,12 @@
       "absent": 3,
       "not_logged": 3
     },
-    "temata": []
+    "temata": [
+      "investiční podpora",
+      "návrh rozpočtu",
+      "ochrana investic",
+      "podpora investic"
+    ]
   },
   {
     "id": 86341,
@@ -207,7 +267,12 @@
       "absent": 3,
       "not_logged": 3
     },
-    "temata": []
+    "temata": [
+      "investiční podpora",
+      "návrh rozpočtu",
+      "ochrana investic",
+      "podpora investic"
+    ]
   },
   {
     "id": 86342,
@@ -221,7 +286,12 @@
       "absent": 3,
       "not_logged": 3
     },
-    "temata": []
+    "temata": [
+      "investiční podpora",
+      "návrh rozpočtu",
+      "ochrana investic",
+      "podpora investic"
+    ]
   },
   {
     "id": 86343,
@@ -235,7 +305,12 @@
       "absent": 3,
       "not_logged": 3
     },
-    "temata": []
+    "temata": [
+      "investiční podpora",
+      "návrh rozpočtu",
+      "ochrana investic",
+      "podpora investic"
+    ]
   },
   {
     "id": 86344,
@@ -249,7 +324,12 @@
       "absent": 3,
       "not_logged": 3
     },
-    "temata": []
+    "temata": [
+      "investiční podpora",
+      "návrh rozpočtu",
+      "ochrana investic",
+      "podpora investic"
+    ]
   },
   {
     "id": 86345,
@@ -10874,6 +10954,3800 @@
       "abstain": 4,
       "absent": 40,
       "not_logged": 46
+    },
+    "temata": []
+  },
+  {
+    "id": 87104,
+    "date": "2026-04-14",
+    "title": "14. schůze, 1. hlasování , 14. dubna 2026, 14:01:00",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 139,
+      "no": 0,
+      "abstain": 2,
+      "absent": 29,
+      "not_logged": 30
+    },
+    "temata": []
+  },
+  {
+    "id": 87105,
+    "date": "2026-04-14",
+    "title": "Potvrzení trvání stavu legislativní nouze",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 87,
+      "no": 40,
+      "abstain": 32,
+      "absent": 29,
+      "not_logged": 12
+    },
+    "temata": []
+  },
+  {
+    "id": 87106,
+    "date": "2026-04-14",
+    "title": "Potvrzení trvání stavu legislativní nouze",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 94,
+      "no": 65,
+      "abstain": 8,
+      "absent": 26,
+      "not_logged": 7
+    },
+    "temata": []
+  },
+  {
+    "id": 87107,
+    "date": "2026-04-14",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 69,
+      "no": 81,
+      "abstain": 2,
+      "absent": 33,
+      "not_logged": 15
+    },
+    "temata": []
+  },
+  {
+    "id": 87108,
+    "date": "2026-04-14",
+    "title": "Pořad schůze",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 151,
+      "no": 0,
+      "abstain": 4,
+      "absent": 33,
+      "not_logged": 12
+    },
+    "temata": []
+  },
+  {
+    "id": 87109,
+    "date": "2026-04-14",
+    "title": "Pořad schůze",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 155,
+      "no": 1,
+      "abstain": 0,
+      "absent": 33,
+      "not_logged": 11
+    },
+    "temata": []
+  },
+  {
+    "id": 87110,
+    "date": "2026-04-14",
+    "title": "Pořad schůze",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 141,
+      "no": 6,
+      "abstain": 12,
+      "absent": 33,
+      "not_logged": 8
+    },
+    "temata": []
+  },
+  {
+    "id": 87111,
+    "date": "2026-04-14",
+    "title": "Pořad schůze",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 86,
+      "no": 30,
+      "abstain": 44,
+      "absent": 33,
+      "not_logged": 7
+    },
+    "temata": []
+  },
+  {
+    "id": 87112,
+    "date": "2026-04-14",
+    "title": "Pořad schůze",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 108,
+      "no": 0,
+      "abstain": 52,
+      "absent": 33,
+      "not_logged": 7
+    },
+    "temata": []
+  },
+  {
+    "id": 87113,
+    "date": "2026-04-14",
+    "title": "Pořad schůze",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 103,
+      "no": 25,
+      "abstain": 32,
+      "absent": 33,
+      "not_logged": 7
+    },
+    "temata": []
+  },
+  {
+    "id": 87114,
+    "date": "2026-04-14",
+    "title": "Pořad schůze",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 87,
+      "no": 67,
+      "abstain": 7,
+      "absent": 33,
+      "not_logged": 6
+    },
+    "temata": []
+  },
+  {
+    "id": 87115,
+    "date": "2026-04-14",
+    "title": "Pořad schůze",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 88,
+      "no": 2,
+      "abstain": 71,
+      "absent": 33,
+      "not_logged": 6
+    },
+    "temata": []
+  },
+  {
+    "id": 87116,
+    "date": "2026-04-14",
+    "title": "Pořad schůze",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 87,
+      "no": 0,
+      "abstain": 74,
+      "absent": 33,
+      "not_logged": 6
+    },
+    "temata": []
+  },
+  {
+    "id": 87117,
+    "date": "2026-04-14",
+    "title": "Pořad schůze",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 87,
+      "no": 34,
+      "abstain": 40,
+      "absent": 33,
+      "not_logged": 6
+    },
+    "temata": []
+  },
+  {
+    "id": 87118,
+    "date": "2026-04-14",
+    "title": "Pořad schůze",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 87,
+      "no": 32,
+      "abstain": 42,
+      "absent": 33,
+      "not_logged": 6
+    },
+    "temata": []
+  },
+  {
+    "id": 87119,
+    "date": "2026-04-14",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 73,
+      "no": 85,
+      "abstain": 3,
+      "absent": 33,
+      "not_logged": 6
+    },
+    "temata": []
+  },
+  {
+    "id": 87120,
+    "date": "2026-04-14",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 73,
+      "no": 86,
+      "abstain": 2,
+      "absent": 33,
+      "not_logged": 6
+    },
+    "temata": []
+  },
+  {
+    "id": 87121,
+    "date": "2026-04-14",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 74,
+      "no": 87,
+      "abstain": 0,
+      "absent": 33,
+      "not_logged": 6
+    },
+    "temata": []
+  },
+  {
+    "id": 87122,
+    "date": "2026-04-14",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 74,
+      "no": 86,
+      "abstain": 1,
+      "absent": 33,
+      "not_logged": 6
+    },
+    "temata": []
+  },
+  {
+    "id": 87123,
+    "date": "2026-04-14",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 71,
+      "no": 86,
+      "abstain": 4,
+      "absent": 33,
+      "not_logged": 6
+    },
+    "temata": []
+  },
+  {
+    "id": 87124,
+    "date": "2026-04-14",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 70,
+      "no": 86,
+      "abstain": 5,
+      "absent": 33,
+      "not_logged": 6
+    },
+    "temata": []
+  },
+  {
+    "id": 87125,
+    "date": "2026-04-14",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 51,
+      "no": 89,
+      "abstain": 21,
+      "absent": 33,
+      "not_logged": 6
+    },
+    "temata": []
+  },
+  {
+    "id": 87126,
+    "date": "2026-04-14",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 73,
+      "no": 87,
+      "abstain": 1,
+      "absent": 33,
+      "not_logged": 6
+    },
+    "temata": []
+  },
+  {
+    "id": 87127,
+    "date": "2026-04-14",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 73,
+      "no": 86,
+      "abstain": 2,
+      "absent": 33,
+      "not_logged": 6
+    },
+    "temata": []
+  },
+  {
+    "id": 87128,
+    "date": "2026-04-14",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 75,
+      "no": 87,
+      "abstain": 0,
+      "absent": 33,
+      "not_logged": 5
+    },
+    "temata": []
+  },
+  {
+    "id": 87129,
+    "date": "2026-04-14",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 74,
+      "no": 85,
+      "abstain": 3,
+      "absent": 33,
+      "not_logged": 5
+    },
+    "temata": []
+  },
+  {
+    "id": 87130,
+    "date": "2026-04-14",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 74,
+      "no": 85,
+      "abstain": 3,
+      "absent": 33,
+      "not_logged": 5
+    },
+    "temata": []
+  },
+  {
+    "id": 87131,
+    "date": "2026-04-14",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 75,
+      "no": 85,
+      "abstain": 2,
+      "absent": 33,
+      "not_logged": 5
+    },
+    "temata": []
+  },
+  {
+    "id": 87132,
+    "date": "2026-04-14",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 53,
+      "no": 83,
+      "abstain": 26,
+      "absent": 33,
+      "not_logged": 5
+    },
+    "temata": []
+  },
+  {
+    "id": 87133,
+    "date": "2026-04-14",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 73,
+      "no": 78,
+      "abstain": 11,
+      "absent": 33,
+      "not_logged": 5
+    },
+    "temata": []
+  },
+  {
+    "id": 87134,
+    "date": "2026-04-14",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 74,
+      "no": 79,
+      "abstain": 9,
+      "absent": 33,
+      "not_logged": 5
+    },
+    "temata": []
+  },
+  {
+    "id": 87135,
+    "date": "2026-04-14",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 74,
+      "no": 87,
+      "abstain": 2,
+      "absent": 33,
+      "not_logged": 4
+    },
+    "temata": []
+  },
+  {
+    "id": 87136,
+    "date": "2026-04-14",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 68,
+      "no": 87,
+      "abstain": 8,
+      "absent": 33,
+      "not_logged": 4
+    },
+    "temata": []
+  },
+  {
+    "id": 87137,
+    "date": "2026-04-14",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 74,
+      "no": 87,
+      "abstain": 2,
+      "absent": 33,
+      "not_logged": 4
+    },
+    "temata": []
+  },
+  {
+    "id": 87138,
+    "date": "2026-04-14",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 73,
+      "no": 76,
+      "abstain": 14,
+      "absent": 33,
+      "not_logged": 4
+    },
+    "temata": []
+  },
+  {
+    "id": 87139,
+    "date": "2026-04-14",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 74,
+      "no": 87,
+      "abstain": 2,
+      "absent": 33,
+      "not_logged": 4
+    },
+    "temata": []
+  },
+  {
+    "id": 87140,
+    "date": "2026-04-14",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 58,
+      "no": 80,
+      "abstain": 24,
+      "absent": 33,
+      "not_logged": 5
+    },
+    "temata": []
+  },
+  {
+    "id": 87141,
+    "date": "2026-04-14",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 70,
+      "no": 82,
+      "abstain": 11,
+      "absent": 33,
+      "not_logged": 4
+    },
+    "temata": []
+  },
+  {
+    "id": 87142,
+    "date": "2026-04-14",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 73,
+      "no": 86,
+      "abstain": 4,
+      "absent": 33,
+      "not_logged": 4
+    },
+    "temata": []
+  },
+  {
+    "id": 87143,
+    "date": "2026-04-14",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 73,
+      "no": 84,
+      "abstain": 6,
+      "absent": 33,
+      "not_logged": 4
+    },
+    "temata": []
+  },
+  {
+    "id": 87144,
+    "date": "2026-04-14",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 74,
+      "no": 86,
+      "abstain": 3,
+      "absent": 33,
+      "not_logged": 4
+    },
+    "temata": []
+  },
+  {
+    "id": 87145,
+    "date": "2026-04-14",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 74,
+      "no": 86,
+      "abstain": 3,
+      "absent": 33,
+      "not_logged": 4
+    },
+    "temata": []
+  },
+  {
+    "id": 87146,
+    "date": "2026-04-14",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 73,
+      "no": 83,
+      "abstain": 7,
+      "absent": 33,
+      "not_logged": 4
+    },
+    "temata": []
+  },
+  {
+    "id": 87147,
+    "date": "2026-04-14",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 75,
+      "no": 87,
+      "abstain": 1,
+      "absent": 33,
+      "not_logged": 4
+    },
+    "temata": []
+  },
+  {
+    "id": 87148,
+    "date": "2026-04-14",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 74,
+      "no": 65,
+      "abstain": 24,
+      "absent": 33,
+      "not_logged": 4
+    },
+    "temata": []
+  },
+  {
+    "id": 87149,
+    "date": "2026-04-14",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 73,
+      "no": 85,
+      "abstain": 5,
+      "absent": 33,
+      "not_logged": 4
+    },
+    "temata": []
+  },
+  {
+    "id": 87150,
+    "date": "2026-04-14",
+    "title": "Pořad schůze",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 88,
+      "no": 37,
+      "abstain": 38,
+      "absent": 33,
+      "not_logged": 4
+    },
+    "temata": []
+  },
+  {
+    "id": 87151,
+    "date": "2026-04-14",
+    "title": "Posouzení podmínek pro projednání ST 163 ve zkráceném jednání",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 79,
+      "no": 51,
+      "abstain": 9,
+      "absent": 36,
+      "not_logged": 25
+    },
+    "temata": []
+  },
+  {
+    "id": 87152,
+    "date": "2026-04-14",
+    "title": "Novela z. o cenách**",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 100,
+      "no": 0,
+      "abstain": 1,
+      "absent": 38,
+      "not_logged": 61
+    },
+    "temata": []
+  },
+  {
+    "id": 87153,
+    "date": "2026-04-14",
+    "title": "Novela z. o cenách**",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 64,
+      "no": 89,
+      "abstain": 1,
+      "absent": 30,
+      "not_logged": 16
+    },
+    "temata": []
+  },
+  {
+    "id": 87154,
+    "date": "2026-04-15",
+    "title": "Novela z. o cenách**",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 160,
+      "no": 0,
+      "abstain": 3,
+      "absent": 30,
+      "not_logged": 7
+    },
+    "temata": []
+  },
+  {
+    "id": 87155,
+    "date": "2026-04-15",
+    "title": "Novela z. o cenách**",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 72,
+      "no": 90,
+      "abstain": 1,
+      "absent": 30,
+      "not_logged": 7
+    },
+    "temata": []
+  },
+  {
+    "id": 87156,
+    "date": "2026-04-15",
+    "title": "Novela z. o cenách**",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 72,
+      "no": 90,
+      "abstain": 1,
+      "absent": 30,
+      "not_logged": 7
+    },
+    "temata": []
+  },
+  {
+    "id": 87157,
+    "date": "2026-04-15",
+    "title": "Novela z. o cenách**",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 69,
+      "no": 91,
+      "abstain": 3,
+      "absent": 30,
+      "not_logged": 7
+    },
+    "temata": []
+  },
+  {
+    "id": 87158,
+    "date": "2026-04-15",
+    "title": "Novela z. o cenách**",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 70,
+      "no": 91,
+      "abstain": 2,
+      "absent": 30,
+      "not_logged": 7
+    },
+    "temata": []
+  },
+  {
+    "id": 87159,
+    "date": "2026-04-15",
+    "title": "Novela z. o cenách**",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 70,
+      "no": 92,
+      "abstain": 1,
+      "absent": 30,
+      "not_logged": 7
+    },
+    "temata": []
+  },
+  {
+    "id": 87160,
+    "date": "2026-04-15",
+    "title": "Novela z. o cenách**",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 72,
+      "no": 91,
+      "abstain": 0,
+      "absent": 30,
+      "not_logged": 7
+    },
+    "temata": []
+  },
+  {
+    "id": 87161,
+    "date": "2026-04-15",
+    "title": "Novela z. o cenách**",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 91,
+      "no": 68,
+      "abstain": 3,
+      "absent": 30,
+      "not_logged": 8
+    },
+    "temata": []
+  },
+  {
+    "id": 87162,
+    "date": "2026-04-15",
+    "title": "Novela z. o cenách**",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 150,
+      "no": 4,
+      "abstain": 8,
+      "absent": 30,
+      "not_logged": 8
+    },
+    "temata": []
+  },
+  {
+    "id": 87163,
+    "date": "2026-04-15",
+    "title": "Novela z. o cenách**",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 90,
+      "no": 67,
+      "abstain": 1,
+      "absent": 30,
+      "not_logged": 12
+    },
+    "temata": []
+  },
+  {
+    "id": 87164,
+    "date": "2026-04-15",
+    "title": "14. schůze, 61. hlasování , 15. dubna 2026, 09:05:00",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 90,
+      "no": 9,
+      "abstain": 30,
+      "absent": 26,
+      "not_logged": 45
+    },
+    "temata": []
+  },
+  {
+    "id": 87165,
+    "date": "2026-04-15",
+    "title": "Pořad schůze",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 111,
+      "no": 5,
+      "abstain": 35,
+      "absent": 25,
+      "not_logged": 24
+    },
+    "temata": []
+  },
+  {
+    "id": 87166,
+    "date": "2026-04-15",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 54,
+      "no": 84,
+      "abstain": 13,
+      "absent": 25,
+      "not_logged": 24
+    },
+    "temata": []
+  },
+  {
+    "id": 87167,
+    "date": "2026-04-15",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 54,
+      "no": 86,
+      "abstain": 11,
+      "absent": 25,
+      "not_logged": 24
+    },
+    "temata": []
+  },
+  {
+    "id": 87168,
+    "date": "2026-04-15",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 57,
+      "no": 86,
+      "abstain": 8,
+      "absent": 25,
+      "not_logged": 24
+    },
+    "temata": []
+  },
+  {
+    "id": 87169,
+    "date": "2026-04-15",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 58,
+      "no": 84,
+      "abstain": 10,
+      "absent": 24,
+      "not_logged": 24
+    },
+    "temata": []
+  },
+  {
+    "id": 87170,
+    "date": "2026-04-15",
+    "title": "Vl.n.z., kt. se mění některé z. v oblasti veřejných rozpočtů",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 66,
+      "no": 88,
+      "abstain": 0,
+      "absent": 22,
+      "not_logged": 24
+    },
+    "temata": []
+  },
+  {
+    "id": 87171,
+    "date": "2026-04-15",
+    "title": "Vl.n.z., kt. se mění některé z. v oblasti veřejných rozpočtů",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 93,
+      "no": 50,
+      "abstain": 0,
+      "absent": 22,
+      "not_logged": 35
+    },
+    "temata": []
+  },
+  {
+    "id": 87172,
+    "date": "2026-04-15",
+    "title": "Vl. n. z. o vstupu a pobytu cizinců**",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 114,
+      "no": 0,
+      "abstain": 3,
+      "absent": 22,
+      "not_logged": 61
+    },
+    "temata": []
+  },
+  {
+    "id": 87173,
+    "date": "2026-04-15",
+    "title": "Novela z. o státních svátcích**",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 54,
+      "no": 103,
+      "abstain": 15,
+      "absent": 18,
+      "not_logged": 10
+    },
+    "temata": []
+  },
+  {
+    "id": 87174,
+    "date": "2026-04-15",
+    "title": "Novela z. o státních svátcích**",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 107,
+      "no": 34,
+      "abstain": 32,
+      "absent": 18,
+      "not_logged": 9
+    },
+    "temata": []
+  },
+  {
+    "id": 87175,
+    "date": "2026-04-16",
+    "title": "15. schůze, 1. hlasování , 16. dubna 2026, 11:01:00",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 124,
+      "no": 2,
+      "abstain": 2,
+      "absent": 33,
+      "not_logged": 39
+    },
+    "temata": []
+  },
+  {
+    "id": 87176,
+    "date": "2026-04-17",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 63,
+      "no": 81,
+      "abstain": 1,
+      "absent": 38,
+      "not_logged": 17
+    },
+    "temata": []
+  },
+  {
+    "id": 87177,
+    "date": "2026-04-17",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 50,
+      "no": 82,
+      "abstain": 13,
+      "absent": 38,
+      "not_logged": 17
+    },
+    "temata": []
+  },
+  {
+    "id": 87178,
+    "date": "2026-04-17",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 63,
+      "no": 82,
+      "abstain": 2,
+      "absent": 38,
+      "not_logged": 15
+    },
+    "temata": []
+  },
+  {
+    "id": 87179,
+    "date": "2026-04-17",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 63,
+      "no": 79,
+      "abstain": 6,
+      "absent": 38,
+      "not_logged": 14
+    },
+    "temata": []
+  },
+  {
+    "id": 87180,
+    "date": "2026-04-17",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 65,
+      "no": 80,
+      "abstain": 3,
+      "absent": 38,
+      "not_logged": 14
+    },
+    "temata": []
+  },
+  {
+    "id": 87181,
+    "date": "2026-04-17",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 31,
+      "no": 44,
+      "abstain": 74,
+      "absent": 38,
+      "not_logged": 13
+    },
+    "temata": []
+  },
+  {
+    "id": 87182,
+    "date": "2026-04-17",
+    "title": "Návrh zákona o státních zaměstnancích**",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 113,
+      "no": 0,
+      "abstain": 2,
+      "absent": 40,
+      "not_logged": 45
+    },
+    "temata": []
+  },
+  {
+    "id": 87183,
+    "date": "2026-04-21",
+    "title": "14. schůze, 79. hlasování , 21. dubna 2026, 14:08:00",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 85,
+      "no": 60,
+      "abstain": 16,
+      "absent": 25,
+      "not_logged": 14
+    },
+    "temata": []
+  },
+  {
+    "id": 87184,
+    "date": "2026-04-21",
+    "title": "Pořad schůze",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 161,
+      "no": 1,
+      "abstain": 0,
+      "absent": 27,
+      "not_logged": 11
+    },
+    "temata": []
+  },
+  {
+    "id": 87185,
+    "date": "2026-04-21",
+    "title": "Pořad schůze",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 107,
+      "no": 4,
+      "abstain": 55,
+      "absent": 27,
+      "not_logged": 7
+    },
+    "temata": []
+  },
+  {
+    "id": 87186,
+    "date": "2026-04-21",
+    "title": "Pořad schůze",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 91,
+      "no": 75,
+      "abstain": 1,
+      "absent": 27,
+      "not_logged": 6
+    },
+    "temata": []
+  },
+  {
+    "id": 87187,
+    "date": "2026-04-21",
+    "title": "Pořad schůze",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 137,
+      "no": 1,
+      "abstain": 32,
+      "absent": 27,
+      "not_logged": 3
+    },
+    "temata": []
+  },
+  {
+    "id": 87188,
+    "date": "2026-04-21",
+    "title": "Pořad schůze",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 134,
+      "no": 1,
+      "abstain": 35,
+      "absent": 27,
+      "not_logged": 3
+    },
+    "temata": []
+  },
+  {
+    "id": 87189,
+    "date": "2026-04-21",
+    "title": "Pořad schůze",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 161,
+      "no": 1,
+      "abstain": 8,
+      "absent": 27,
+      "not_logged": 3
+    },
+    "temata": []
+  },
+  {
+    "id": 87190,
+    "date": "2026-04-21",
+    "title": "Pořad schůze",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 93,
+      "no": 48,
+      "abstain": 29,
+      "absent": 27,
+      "not_logged": 3
+    },
+    "temata": []
+  },
+  {
+    "id": 87191,
+    "date": "2026-04-21",
+    "title": "Pořad schůze",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 151,
+      "no": 0,
+      "abstain": 19,
+      "absent": 27,
+      "not_logged": 3
+    },
+    "temata": []
+  },
+  {
+    "id": 87192,
+    "date": "2026-04-21",
+    "title": "Pořad schůze",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 92,
+      "no": 34,
+      "abstain": 44,
+      "absent": 27,
+      "not_logged": 3
+    },
+    "temata": []
+  },
+  {
+    "id": 87193,
+    "date": "2026-04-21",
+    "title": "Pořad schůze",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 92,
+      "no": 77,
+      "abstain": 1,
+      "absent": 27,
+      "not_logged": 3
+    },
+    "temata": []
+  },
+  {
+    "id": 87194,
+    "date": "2026-04-21",
+    "title": "Pořad schůze",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 168,
+      "no": 0,
+      "abstain": 2,
+      "absent": 27,
+      "not_logged": 3
+    },
+    "temata": []
+  },
+  {
+    "id": 87195,
+    "date": "2026-04-21",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 78,
+      "no": 92,
+      "abstain": 0,
+      "absent": 27,
+      "not_logged": 3
+    },
+    "temata": []
+  },
+  {
+    "id": 87196,
+    "date": "2026-04-21",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 78,
+      "no": 91,
+      "abstain": 1,
+      "absent": 27,
+      "not_logged": 3
+    },
+    "temata": []
+  },
+  {
+    "id": 87197,
+    "date": "2026-04-21",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 78,
+      "no": 92,
+      "abstain": 0,
+      "absent": 27,
+      "not_logged": 3
+    },
+    "temata": []
+  },
+  {
+    "id": 87198,
+    "date": "2026-04-21",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 76,
+      "no": 92,
+      "abstain": 2,
+      "absent": 27,
+      "not_logged": 3
+    },
+    "temata": []
+  },
+  {
+    "id": 87199,
+    "date": "2026-04-21",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 78,
+      "no": 61,
+      "abstain": 31,
+      "absent": 27,
+      "not_logged": 3
+    },
+    "temata": []
+  },
+  {
+    "id": 87200,
+    "date": "2026-04-21",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 77,
+      "no": 92,
+      "abstain": 1,
+      "absent": 27,
+      "not_logged": 3
+    },
+    "temata": []
+  },
+  {
+    "id": 87201,
+    "date": "2026-04-21",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 75,
+      "no": 92,
+      "abstain": 3,
+      "absent": 27,
+      "not_logged": 3
+    },
+    "temata": []
+  },
+  {
+    "id": 87202,
+    "date": "2026-04-21",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 75,
+      "no": 91,
+      "abstain": 3,
+      "absent": 27,
+      "not_logged": 4
+    },
+    "temata": []
+  },
+  {
+    "id": 87203,
+    "date": "2026-04-21",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 76,
+      "no": 91,
+      "abstain": 2,
+      "absent": 27,
+      "not_logged": 4
+    },
+    "temata": []
+  },
+  {
+    "id": 87204,
+    "date": "2026-04-21",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 74,
+      "no": 91,
+      "abstain": 4,
+      "absent": 27,
+      "not_logged": 4
+    },
+    "temata": []
+  },
+  {
+    "id": 87205,
+    "date": "2026-04-21",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 76,
+      "no": 89,
+      "abstain": 4,
+      "absent": 27,
+      "not_logged": 4
+    },
+    "temata": []
+  },
+  {
+    "id": 87206,
+    "date": "2026-04-21",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 76,
+      "no": 88,
+      "abstain": 5,
+      "absent": 27,
+      "not_logged": 4
+    },
+    "temata": []
+  },
+  {
+    "id": 87207,
+    "date": "2026-04-21",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 74,
+      "no": 90,
+      "abstain": 5,
+      "absent": 27,
+      "not_logged": 4
+    },
+    "temata": []
+  },
+  {
+    "id": 87208,
+    "date": "2026-04-21",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 75,
+      "no": 90,
+      "abstain": 4,
+      "absent": 27,
+      "not_logged": 4
+    },
+    "temata": []
+  },
+  {
+    "id": 87209,
+    "date": "2026-04-21",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 77,
+      "no": 87,
+      "abstain": 5,
+      "absent": 27,
+      "not_logged": 4
+    },
+    "temata": []
+  },
+  {
+    "id": 87210,
+    "date": "2026-04-21",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 76,
+      "no": 87,
+      "abstain": 6,
+      "absent": 27,
+      "not_logged": 4
+    },
+    "temata": []
+  },
+  {
+    "id": 87211,
+    "date": "2026-04-21",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 71,
+      "no": 91,
+      "abstain": 7,
+      "absent": 27,
+      "not_logged": 4
+    },
+    "temata": []
+  },
+  {
+    "id": 87212,
+    "date": "2026-04-21",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 77,
+      "no": 91,
+      "abstain": 1,
+      "absent": 27,
+      "not_logged": 4
+    },
+    "temata": []
+  },
+  {
+    "id": 87213,
+    "date": "2026-04-21",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 76,
+      "no": 90,
+      "abstain": 3,
+      "absent": 26,
+      "not_logged": 5
+    },
+    "temata": []
+  },
+  {
+    "id": 87214,
+    "date": "2026-04-21",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 76,
+      "no": 89,
+      "abstain": 4,
+      "absent": 26,
+      "not_logged": 5
+    },
+    "temata": []
+  },
+  {
+    "id": 87215,
+    "date": "2026-04-21",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 74,
+      "no": 90,
+      "abstain": 5,
+      "absent": 26,
+      "not_logged": 5
+    },
+    "temata": []
+  },
+  {
+    "id": 87216,
+    "date": "2026-04-21",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 76,
+      "no": 89,
+      "abstain": 4,
+      "absent": 26,
+      "not_logged": 5
+    },
+    "temata": []
+  },
+  {
+    "id": 87217,
+    "date": "2026-04-21",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 76,
+      "no": 91,
+      "abstain": 4,
+      "absent": 24,
+      "not_logged": 5
+    },
+    "temata": []
+  },
+  {
+    "id": 87218,
+    "date": "2026-04-21",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 77,
+      "no": 90,
+      "abstain": 4,
+      "absent": 24,
+      "not_logged": 5
+    },
+    "temata": []
+  },
+  {
+    "id": 87219,
+    "date": "2026-04-21",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 71,
+      "no": 89,
+      "abstain": 12,
+      "absent": 24,
+      "not_logged": 4
+    },
+    "temata": []
+  },
+  {
+    "id": 87220,
+    "date": "2026-04-21",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 77,
+      "no": 90,
+      "abstain": 5,
+      "absent": 24,
+      "not_logged": 4
+    },
+    "temata": []
+  },
+  {
+    "id": 87221,
+    "date": "2026-04-21",
+    "title": "N. časového harm. projednávání vládního návrhu st. závěrečného účtu ČR",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 142,
+      "no": 0,
+      "abstain": 0,
+      "absent": 28,
+      "not_logged": 30
+    },
+    "temata": []
+  },
+  {
+    "id": 87222,
+    "date": "2026-04-21",
+    "title": "Novela z. - trestní zákoník**",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 57,
+      "no": 89,
+      "abstain": 9,
+      "absent": 26,
+      "not_logged": 19
+    },
+    "temata": []
+  },
+  {
+    "id": 87223,
+    "date": "2026-04-21",
+    "title": "Novela z. - trestní zákoník**",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 154,
+      "no": 0,
+      "abstain": 2,
+      "absent": 26,
+      "not_logged": 18
+    },
+    "temata": []
+  },
+  {
+    "id": 87224,
+    "date": "2026-04-21",
+    "title": "Novela z. - trestní zákoník**",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 67,
+      "no": 0,
+      "abstain": 90,
+      "absent": 26,
+      "not_logged": 17
+    },
+    "temata": []
+  },
+  {
+    "id": 87225,
+    "date": "2026-04-22",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 66,
+      "no": 77,
+      "abstain": 19,
+      "absent": 26,
+      "not_logged": 12
+    },
+    "temata": []
+  },
+  {
+    "id": 87226,
+    "date": "2026-04-22",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 69,
+      "no": 82,
+      "abstain": 13,
+      "absent": 26,
+      "not_logged": 10
+    },
+    "temata": []
+  },
+  {
+    "id": 87227,
+    "date": "2026-04-22",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 68,
+      "no": 84,
+      "abstain": 13,
+      "absent": 26,
+      "not_logged": 9
+    },
+    "temata": []
+  },
+  {
+    "id": 87228,
+    "date": "2026-04-22",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 70,
+      "no": 83,
+      "abstain": 12,
+      "absent": 26,
+      "not_logged": 9
+    },
+    "temata": []
+  },
+  {
+    "id": 87229,
+    "date": "2026-04-22",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 69,
+      "no": 83,
+      "abstain": 13,
+      "absent": 26,
+      "not_logged": 9
+    },
+    "temata": []
+  },
+  {
+    "id": 87230,
+    "date": "2026-04-22",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 66,
+      "no": 83,
+      "abstain": 16,
+      "absent": 26,
+      "not_logged": 9
+    },
+    "temata": []
+  },
+  {
+    "id": 87231,
+    "date": "2026-04-22",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 70,
+      "no": 84,
+      "abstain": 12,
+      "absent": 26,
+      "not_logged": 8
+    },
+    "temata": []
+  },
+  {
+    "id": 87232,
+    "date": "2026-04-22",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 70,
+      "no": 84,
+      "abstain": 12,
+      "absent": 26,
+      "not_logged": 8
+    },
+    "temata": []
+  },
+  {
+    "id": 87233,
+    "date": "2026-04-22",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 66,
+      "no": 83,
+      "abstain": 17,
+      "absent": 26,
+      "not_logged": 8
+    },
+    "temata": []
+  },
+  {
+    "id": 87234,
+    "date": "2026-04-22",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 70,
+      "no": 84,
+      "abstain": 12,
+      "absent": 26,
+      "not_logged": 8
+    },
+    "temata": []
+  },
+  {
+    "id": 87235,
+    "date": "2026-04-22",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 71,
+      "no": 84,
+      "abstain": 11,
+      "absent": 26,
+      "not_logged": 8
+    },
+    "temata": []
+  },
+  {
+    "id": 87236,
+    "date": "2026-04-22",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 70,
+      "no": 83,
+      "abstain": 13,
+      "absent": 26,
+      "not_logged": 8
+    },
+    "temata": []
+  },
+  {
+    "id": 87237,
+    "date": "2026-04-22",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 71,
+      "no": 85,
+      "abstain": 10,
+      "absent": 26,
+      "not_logged": 8
+    },
+    "temata": []
+  },
+  {
+    "id": 87238,
+    "date": "2026-04-22",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 68,
+      "no": 80,
+      "abstain": 18,
+      "absent": 26,
+      "not_logged": 8
+    },
+    "temata": []
+  },
+  {
+    "id": 87239,
+    "date": "2026-04-22",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 70,
+      "no": 82,
+      "abstain": 15,
+      "absent": 26,
+      "not_logged": 7
+    },
+    "temata": []
+  },
+  {
+    "id": 87240,
+    "date": "2026-04-22",
+    "title": "N. z., kterým se zrušuje nominační zákon**",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 72,
+      "no": 88,
+      "abstain": 2,
+      "absent": 27,
+      "not_logged": 11
+    },
+    "temata": []
+  },
+  {
+    "id": 87241,
+    "date": "2026-04-22",
+    "title": "N. z., kterým se zrušuje nominační zákon**",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 74,
+      "no": 88,
+      "abstain": 0,
+      "absent": 27,
+      "not_logged": 11
+    },
+    "temata": []
+  },
+  {
+    "id": 87242,
+    "date": "2026-04-22",
+    "title": "N. z., kterým se zrušuje nominační zákon**",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 139,
+      "no": 22,
+      "abstain": 3,
+      "absent": 27,
+      "not_logged": 9
+    },
+    "temata": []
+  },
+  {
+    "id": 87243,
+    "date": "2026-04-22",
+    "title": "N. z., kterým se zrušuje nominační zákon**",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 66,
+      "no": 88,
+      "abstain": 10,
+      "absent": 27,
+      "not_logged": 9
+    },
+    "temata": []
+  },
+  {
+    "id": 87244,
+    "date": "2026-04-22",
+    "title": "Novela z. o státní sociální podpoře**",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 122,
+      "no": 0,
+      "abstain": 0,
+      "absent": 29,
+      "not_logged": 49
+    },
+    "temata": []
+  },
+  {
+    "id": 87245,
+    "date": "2026-04-22",
+    "title": "Novela z. o státní sociální podpoře**",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 143,
+      "no": 0,
+      "abstain": 1,
+      "absent": 32,
+      "not_logged": 24
+    },
+    "temata": []
+  },
+  {
+    "id": 87246,
+    "date": "2026-04-22",
+    "title": "Novela z. o státní sociální podpoře**",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 116,
+      "no": 0,
+      "abstain": 28,
+      "absent": 32,
+      "not_logged": 24
+    },
+    "temata": []
+  },
+  {
+    "id": 87247,
+    "date": "2026-04-22",
+    "title": "Novela z. o sociálních službách**",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 122,
+      "no": 0,
+      "abstain": 24,
+      "absent": 32,
+      "not_logged": 22
+    },
+    "temata": []
+  },
+  {
+    "id": 87248,
+    "date": "2026-04-22",
+    "title": "Novela z. o sociálních službách**",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 135,
+      "no": 0,
+      "abstain": 15,
+      "absent": 31,
+      "not_logged": 19
+    },
+    "temata": []
+  },
+  {
+    "id": 87249,
+    "date": "2026-04-22",
+    "title": "Novela z. o sociálních službách**",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 114,
+      "no": 0,
+      "abstain": 37,
+      "absent": 31,
+      "not_logged": 18
+    },
+    "temata": []
+  },
+  {
+    "id": 87250,
+    "date": "2026-04-23",
+    "title": "Odpověď na písemnou interpelaci**P. Hladíka na P. Macinku",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 69,
+      "no": 0,
+      "abstain": 16,
+      "absent": 66,
+      "not_logged": 49
+    },
+    "temata": []
+  },
+  {
+    "id": 87251,
+    "date": "2026-04-23",
+    "title": "Odpověď na písemnou interpelaci**P. Hladíka na P. Macinku",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 65,
+      "no": 0,
+      "abstain": 20,
+      "absent": 66,
+      "not_logged": 49
+    },
+    "temata": []
+  },
+  {
+    "id": 87252,
+    "date": "2026-04-23",
+    "title": "Odpověď na písemnou interpelaci**P. Hladíka na P. Macinku",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 67,
+      "no": 0,
+      "abstain": 19,
+      "absent": 66,
+      "not_logged": 48
+    },
+    "temata": []
+  },
+  {
+    "id": 87253,
+    "date": "2026-04-23",
+    "title": "Odpověď na písemnou interpelaci**E. Šrámkové na A. Vojtěcha",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 70,
+      "no": 0,
+      "abstain": 28,
+      "absent": 65,
+      "not_logged": 37
+    },
+    "temata": []
+  },
+  {
+    "id": 87254,
+    "date": "2026-04-23",
+    "title": "Odpověď na písemnou interpelaci**K. Haase na P. Macinku",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 79,
+      "no": 0,
+      "abstain": 21,
+      "absent": 63,
+      "not_logged": 37
+    },
+    "temata": []
+  },
+  {
+    "id": 87255,
+    "date": "2026-04-23",
+    "title": "Odpověď na písemnou interpelaci**M. Jurečky na I. Bednárika",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 65,
+      "no": 1,
+      "abstain": 35,
+      "absent": 63,
+      "not_logged": 36
+    },
+    "temata": []
+  },
+  {
+    "id": 87256,
+    "date": "2026-04-23",
+    "title": "Odpověď na písemnou interpelaci**E. Šrámkové na M. Šebestyána",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 74,
+      "no": 0,
+      "abstain": 26,
+      "absent": 63,
+      "not_logged": 37
+    },
+    "temata": []
+  },
+  {
+    "id": 87257,
+    "date": "2026-04-23",
+    "title": "Pořad schůze",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 99,
+      "no": 15,
+      "abstain": 13,
+      "absent": 52,
+      "not_logged": 21
+    },
+    "temata": []
+  },
+  {
+    "id": 87258,
+    "date": "2026-04-23",
+    "title": "Pořad schůze",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 110,
+      "no": 0,
+      "abstain": 18,
+      "absent": 52,
+      "not_logged": 20
+    },
+    "temata": []
+  },
+  {
+    "id": 87259,
+    "date": "2026-04-23",
+    "title": "Pořad schůze",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 123,
+      "no": 0,
+      "abstain": 3,
+      "absent": 53,
+      "not_logged": 21
+    },
+    "temata": []
+  },
+  {
+    "id": 87260,
+    "date": "2026-04-23",
+    "title": "Pořad schůze",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 105,
+      "no": 13,
+      "abstain": 8,
+      "absent": 53,
+      "not_logged": 21
+    },
+    "temata": []
+  },
+  {
+    "id": 87261,
+    "date": "2026-04-23",
+    "title": "Pořad schůze",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 126,
+      "no": 0,
+      "abstain": 2,
+      "absent": 53,
+      "not_logged": 19
+    },
+    "temata": []
+  },
+  {
+    "id": 87262,
+    "date": "2026-04-23",
+    "title": "Pořad schůze",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 121,
+      "no": 1,
+      "abstain": 6,
+      "absent": 53,
+      "not_logged": 19
+    },
+    "temata": []
+  },
+  {
+    "id": 87263,
+    "date": "2026-04-23",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 57,
+      "no": 71,
+      "abstain": 1,
+      "absent": 53,
+      "not_logged": 18
+    },
+    "temata": []
+  },
+  {
+    "id": 87264,
+    "date": "2026-04-23",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 56,
+      "no": 73,
+      "abstain": 1,
+      "absent": 53,
+      "not_logged": 17
+    },
+    "temata": []
+  },
+  {
+    "id": 87265,
+    "date": "2026-04-23",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 56,
+      "no": 73,
+      "abstain": 1,
+      "absent": 53,
+      "not_logged": 17
+    },
+    "temata": []
+  },
+  {
+    "id": 87266,
+    "date": "2026-04-23",
+    "title": "Novela z. o spotřebitelském úvěru**",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 134,
+      "no": 0,
+      "abstain": 0,
+      "absent": 51,
+      "not_logged": 15
+    },
+    "temata": []
+  },
+  {
+    "id": 87267,
+    "date": "2026-04-23",
+    "title": "Novela z. o spotřebitelském úvěru**",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 82,
+      "no": 34,
+      "abstain": 18,
+      "absent": 51,
+      "not_logged": 15
+    },
+    "temata": []
+  },
+  {
+    "id": 87268,
+    "date": "2026-04-23",
+    "title": "Návrh nařízení Rady - postupy financování**a využívání diverzif. strat",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 111,
+      "no": 0,
+      "abstain": 10,
+      "absent": 52,
+      "not_logged": 27
+    },
+    "temata": []
+  },
+  {
+    "id": 87269,
+    "date": "2026-04-23",
+    "title": "Novela z. o volbách do zastupitelstev obcí**",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 121,
+      "no": 0,
+      "abstain": 12,
+      "absent": 51,
+      "not_logged": 16
+    },
+    "temata": []
+  },
+  {
+    "id": 87270,
+    "date": "2026-04-23",
+    "title": "Novela z. o volbách do zastupitelstev obcí**",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 121,
+      "no": 0,
+      "abstain": 2,
+      "absent": 52,
+      "not_logged": 25
+    },
+    "temata": []
+  },
+  {
+    "id": 87271,
+    "date": "2026-04-23",
+    "title": "Sml. mezi ČR a SR o přeshraniční spol. v oblasti zdravotnické záchrann",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 105,
+      "no": 0,
+      "abstain": 21,
+      "absent": 52,
+      "not_logged": 22
+    },
+    "temata": []
+  },
+  {
+    "id": 87272,
+    "date": "2026-04-24",
+    "title": "Potvrzení trvání stavu legislativní nouze",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 94,
+      "no": 47,
+      "abstain": 0,
+      "absent": 46,
+      "not_logged": 13
+    },
+    "temata": []
+  },
+  {
+    "id": 87273,
+    "date": "2026-04-24",
+    "title": "Pořad schůze",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 94,
+      "no": 50,
+      "abstain": 0,
+      "absent": 42,
+      "not_logged": 14
+    },
+    "temata": []
+  },
+  {
+    "id": 87274,
+    "date": "2026-04-24",
+    "title": "Pořad schůze",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 95,
+      "no": 50,
+      "abstain": 0,
+      "absent": 42,
+      "not_logged": 13
+    },
+    "temata": []
+  },
+  {
+    "id": 87275,
+    "date": "2026-04-24",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 50,
+      "no": 94,
+      "abstain": 3,
+      "absent": 42,
+      "not_logged": 11
+    },
+    "temata": []
+  },
+  {
+    "id": 87276,
+    "date": "2026-04-24",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 29,
+      "no": 99,
+      "abstain": 19,
+      "absent": 42,
+      "not_logged": 11
+    },
+    "temata": []
+  },
+  {
+    "id": 87277,
+    "date": "2026-04-24",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 25,
+      "no": 95,
+      "abstain": 28,
+      "absent": 42,
+      "not_logged": 10
+    },
+    "temata": []
+  },
+  {
+    "id": 87278,
+    "date": "2026-04-24",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 31,
+      "no": 96,
+      "abstain": 21,
+      "absent": 42,
+      "not_logged": 10
+    },
+    "temata": []
+  },
+  {
+    "id": 87279,
+    "date": "2026-04-24",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 52,
+      "no": 98,
+      "abstain": 0,
+      "absent": 42,
+      "not_logged": 8
+    },
+    "temata": []
+  },
+  {
+    "id": 87280,
+    "date": "2026-04-24",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 48,
+      "no": 91,
+      "abstain": 13,
+      "absent": 41,
+      "not_logged": 7
+    },
+    "temata": []
+  },
+  {
+    "id": 87281,
+    "date": "2026-04-24",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 53,
+      "no": 99,
+      "abstain": 0,
+      "absent": 41,
+      "not_logged": 7
+    },
+    "temata": []
+  },
+  {
+    "id": 87282,
+    "date": "2026-04-24",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 53,
+      "no": 100,
+      "abstain": 0,
+      "absent": 41,
+      "not_logged": 6
+    },
+    "temata": []
+  },
+  {
+    "id": 87283,
+    "date": "2026-04-24",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 53,
+      "no": 98,
+      "abstain": 2,
+      "absent": 41,
+      "not_logged": 6
+    },
+    "temata": []
+  },
+  {
+    "id": 87284,
+    "date": "2026-04-24",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 53,
+      "no": 98,
+      "abstain": 2,
+      "absent": 41,
+      "not_logged": 6
+    },
+    "temata": []
+  },
+  {
+    "id": 87285,
+    "date": "2026-04-24",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 53,
+      "no": 98,
+      "abstain": 2,
+      "absent": 41,
+      "not_logged": 6
+    },
+    "temata": []
+  },
+  {
+    "id": 87286,
+    "date": "2026-04-24",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 53,
+      "no": 100,
+      "abstain": 0,
+      "absent": 41,
+      "not_logged": 6
+    },
+    "temata": []
+  },
+  {
+    "id": 87287,
+    "date": "2026-04-24",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 53,
+      "no": 100,
+      "abstain": 2,
+      "absent": 41,
+      "not_logged": 4
+    },
+    "temata": []
+  },
+  {
+    "id": 87288,
+    "date": "2026-04-24",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 54,
+      "no": 100,
+      "abstain": 1,
+      "absent": 41,
+      "not_logged": 4
+    },
+    "temata": []
+  },
+  {
+    "id": 87289,
+    "date": "2026-04-24",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 53,
+      "no": 100,
+      "abstain": 2,
+      "absent": 41,
+      "not_logged": 4
+    },
+    "temata": []
+  },
+  {
+    "id": 87290,
+    "date": "2026-04-24",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 52,
+      "no": 20,
+      "abstain": 83,
+      "absent": 41,
+      "not_logged": 4
+    },
+    "temata": []
+  },
+  {
+    "id": 87291,
+    "date": "2026-04-24",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 53,
+      "no": 101,
+      "abstain": 1,
+      "absent": 41,
+      "not_logged": 4
+    },
+    "temata": []
+  },
+  {
+    "id": 87292,
+    "date": "2026-04-24",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 54,
+      "no": 100,
+      "abstain": 2,
+      "absent": 41,
+      "not_logged": 3
+    },
+    "temata": []
+  },
+  {
+    "id": 87293,
+    "date": "2026-04-24",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 54,
+      "no": 98,
+      "abstain": 4,
+      "absent": 41,
+      "not_logged": 3
+    },
+    "temata": []
+  },
+  {
+    "id": 87294,
+    "date": "2026-04-24",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 54,
+      "no": 99,
+      "abstain": 3,
+      "absent": 41,
+      "not_logged": 3
+    },
+    "temata": []
+  },
+  {
+    "id": 87295,
+    "date": "2026-04-24",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 4,
+      "no": 29,
+      "abstain": 123,
+      "absent": 41,
+      "not_logged": 3
+    },
+    "temata": []
+  },
+  {
+    "id": 87296,
+    "date": "2026-04-24",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 54,
+      "no": 100,
+      "abstain": 2,
+      "absent": 41,
+      "not_logged": 3
+    },
+    "temata": []
+  },
+  {
+    "id": 87297,
+    "date": "2026-04-24",
+    "title": "Novela z. o cenách",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 102,
+      "no": 45,
+      "abstain": 0,
+      "absent": 45,
+      "not_logged": 8
+    },
+    "temata": []
+  },
+  {
+    "id": 87298,
+    "date": "2026-04-24",
+    "title": "Novela z. o cenách",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 112,
+      "no": 2,
+      "abstain": 31,
+      "absent": 45,
+      "not_logged": 10
+    },
+    "temata": []
+  },
+  {
+    "id": 87299,
+    "date": "2026-05-05",
+    "title": "16. schůze, 1. hlasování , 5. května 2026, 14:02:00",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 139,
+      "no": 0,
+      "abstain": 2,
+      "absent": 25,
+      "not_logged": 34
+    },
+    "temata": []
+  },
+  {
+    "id": 87300,
+    "date": "2026-05-05",
+    "title": "Pořad schůze",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 85,
+      "no": 61,
+      "abstain": 5,
+      "absent": 25,
+      "not_logged": 24
+    },
+    "temata": []
+  },
+  {
+    "id": 87301,
+    "date": "2026-05-05",
+    "title": "Pořad schůze",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 140,
+      "no": 1,
+      "abstain": 2,
+      "absent": 32,
+      "not_logged": 25
+    },
+    "temata": []
+  },
+  {
+    "id": 87302,
+    "date": "2026-05-05",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 23,
+      "no": 40,
+      "abstain": 85,
+      "absent": 32,
+      "not_logged": 20
+    },
+    "temata": []
+  },
+  {
+    "id": 87303,
+    "date": "2026-05-05",
+    "title": "Pořad schůze",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 87,
+      "no": 67,
+      "abstain": 1,
+      "absent": 32,
+      "not_logged": 13
+    },
+    "temata": []
+  },
+  {
+    "id": 87304,
+    "date": "2026-05-05",
+    "title": "Pořad schůze",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 88,
+      "no": 67,
+      "abstain": 1,
+      "absent": 32,
+      "not_logged": 12
+    },
+    "temata": []
+  },
+  {
+    "id": 87305,
+    "date": "2026-05-05",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 66,
+      "no": 87,
+      "abstain": 3,
+      "absent": 32,
+      "not_logged": 12
+    },
+    "temata": []
+  },
+  {
+    "id": 87306,
+    "date": "2026-05-05",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 46,
+      "no": 85,
+      "abstain": 26,
+      "absent": 32,
+      "not_logged": 11
+    },
+    "temata": []
+  },
+  {
+    "id": 87307,
+    "date": "2026-05-05",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 68,
+      "no": 88,
+      "abstain": 1,
+      "absent": 32,
+      "not_logged": 11
+    },
+    "temata": []
+  },
+  {
+    "id": 87308,
+    "date": "2026-05-05",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 67,
+      "no": 88,
+      "abstain": 2,
+      "absent": 32,
+      "not_logged": 11
+    },
+    "temata": []
+  },
+  {
+    "id": 87309,
+    "date": "2026-05-05",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 68,
+      "no": 88,
+      "abstain": 1,
+      "absent": 32,
+      "not_logged": 11
+    },
+    "temata": []
+  },
+  {
+    "id": 87310,
+    "date": "2026-05-05",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 67,
+      "no": 87,
+      "abstain": 3,
+      "absent": 32,
+      "not_logged": 11
+    },
+    "temata": []
+  },
+  {
+    "id": 87311,
+    "date": "2026-05-05",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 43,
+      "no": 89,
+      "abstain": 25,
+      "absent": 32,
+      "not_logged": 11
+    },
+    "temata": []
+  },
+  {
+    "id": 87312,
+    "date": "2026-05-05",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 68,
+      "no": 88,
+      "abstain": 1,
+      "absent": 32,
+      "not_logged": 11
+    },
+    "temata": []
+  },
+  {
+    "id": 87313,
+    "date": "2026-05-05",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 68,
+      "no": 87,
+      "abstain": 2,
+      "absent": 32,
+      "not_logged": 11
+    },
+    "temata": []
+  },
+  {
+    "id": 87314,
+    "date": "2026-05-05",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 68,
+      "no": 88,
+      "abstain": 1,
+      "absent": 32,
+      "not_logged": 11
+    },
+    "temata": []
+  },
+  {
+    "id": 87315,
+    "date": "2026-05-05",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 69,
+      "no": 85,
+      "abstain": 3,
+      "absent": 32,
+      "not_logged": 11
+    },
+    "temata": []
+  },
+  {
+    "id": 87316,
+    "date": "2026-05-05",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 69,
+      "no": 86,
+      "abstain": 2,
+      "absent": 32,
+      "not_logged": 11
+    },
+    "temata": []
+  },
+  {
+    "id": 87317,
+    "date": "2026-05-05",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 68,
+      "no": 86,
+      "abstain": 3,
+      "absent": 32,
+      "not_logged": 11
+    },
+    "temata": []
+  },
+  {
+    "id": 87318,
+    "date": "2026-05-05",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 70,
+      "no": 86,
+      "abstain": 2,
+      "absent": 31,
+      "not_logged": 11
+    },
+    "temata": []
+  },
+  {
+    "id": 87319,
+    "date": "2026-05-05",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 69,
+      "no": 87,
+      "abstain": 2,
+      "absent": 31,
+      "not_logged": 11
+    },
+    "temata": []
+  },
+  {
+    "id": 87320,
+    "date": "2026-05-05",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 69,
+      "no": 87,
+      "abstain": 2,
+      "absent": 31,
+      "not_logged": 11
+    },
+    "temata": []
+  },
+  {
+    "id": 87321,
+    "date": "2026-05-05",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 70,
+      "no": 88,
+      "abstain": 0,
+      "absent": 31,
+      "not_logged": 11
+    },
+    "temata": []
+  },
+  {
+    "id": 87322,
+    "date": "2026-05-05",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 69,
+      "no": 87,
+      "abstain": 2,
+      "absent": 31,
+      "not_logged": 11
+    },
+    "temata": []
+  },
+  {
+    "id": 87323,
+    "date": "2026-05-05",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 52,
+      "no": 64,
+      "abstain": 43,
+      "absent": 31,
+      "not_logged": 10
+    },
+    "temata": []
+  },
+  {
+    "id": 87324,
+    "date": "2026-05-05",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 69,
+      "no": 87,
+      "abstain": 3,
+      "absent": 31,
+      "not_logged": 10
+    },
+    "temata": []
+  },
+  {
+    "id": 87325,
+    "date": "2026-05-05",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 71,
+      "no": 83,
+      "abstain": 5,
+      "absent": 31,
+      "not_logged": 10
+    },
+    "temata": []
+  },
+  {
+    "id": 87326,
+    "date": "2026-05-05",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 70,
+      "no": 87,
+      "abstain": 2,
+      "absent": 31,
+      "not_logged": 10
+    },
+    "temata": []
+  },
+  {
+    "id": 87327,
+    "date": "2026-05-05",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 71,
+      "no": 88,
+      "abstain": 0,
+      "absent": 31,
+      "not_logged": 10
+    },
+    "temata": []
+  },
+  {
+    "id": 87328,
+    "date": "2026-05-05",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 70,
+      "no": 86,
+      "abstain": 3,
+      "absent": 31,
+      "not_logged": 10
+    },
+    "temata": []
+  },
+  {
+    "id": 87329,
+    "date": "2026-05-05",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 71,
+      "no": 86,
+      "abstain": 2,
+      "absent": 31,
+      "not_logged": 10
+    },
+    "temata": []
+  },
+  {
+    "id": 87330,
+    "date": "2026-05-05",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 71,
+      "no": 86,
+      "abstain": 2,
+      "absent": 31,
+      "not_logged": 10
+    },
+    "temata": []
+  },
+  {
+    "id": 87331,
+    "date": "2026-05-05",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 57,
+      "no": 88,
+      "abstain": 14,
+      "absent": 31,
+      "not_logged": 10
+    },
+    "temata": []
+  },
+  {
+    "id": 87332,
+    "date": "2026-05-05",
+    "title": "Pořad schůze",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 89,
+      "no": 67,
+      "abstain": 3,
+      "absent": 31,
+      "not_logged": 10
+    },
+    "temata": []
+  },
+  {
+    "id": 87333,
+    "date": "2026-05-05",
+    "title": "Stanovisko vládní koalice ke sjezdu Sudetoněmeckého landsmanšaftu v Br",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 46,
+      "no": 75,
+      "abstain": 19,
+      "absent": 35,
+      "not_logged": 25
+    },
+    "temata": []
+  },
+  {
+    "id": 87334,
+    "date": "2026-05-05",
+    "title": "Stanovisko vládní koalice ke sjezdu Sudetoněmeckého landsmanšaftu v Br",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 43,
+      "no": 76,
+      "abstain": 24,
+      "absent": 35,
+      "not_logged": 22
+    },
+    "temata": []
+  },
+  {
+    "id": 87335,
+    "date": "2026-05-05",
+    "title": "Stanovisko vládní koalice ke sjezdu Sudetoněmeckého landsmanšaftu v Br",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 47,
+      "no": 73,
+      "abstain": 26,
+      "absent": 35,
+      "not_logged": 19
+    },
+    "temata": []
+  },
+  {
+    "id": 87336,
+    "date": "2026-05-05",
+    "title": "Stanovisko vládní koalice ke sjezdu Sudetoněmeckého landsmanšaftu v Br",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 54,
+      "no": 73,
+      "abstain": 19,
+      "absent": 35,
+      "not_logged": 19
+    },
+    "temata": []
+  },
+  {
+    "id": 87337,
+    "date": "2026-05-05",
+    "title": "Stanovisko vládní koalice ke sjezdu Sudetoněmeckého landsmanšaftu v Br",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 21,
+      "no": 78,
+      "abstain": 49,
+      "absent": 35,
+      "not_logged": 17
+    },
+    "temata": []
+  },
+  {
+    "id": 87338,
+    "date": "2026-05-05",
+    "title": "Stanovisko vládní koalice ke sjezdu Sudetoněmeckého landsmanšaftu v Br",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 66,
+      "no": 80,
+      "abstain": 2,
+      "absent": 35,
+      "not_logged": 17
+    },
+    "temata": []
+  },
+  {
+    "id": 87339,
+    "date": "2026-05-05",
+    "title": "Stanovisko vládní koalice ke sjezdu Sudetoněmeckého landsmanšaftu v Br",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 46,
+      "no": 69,
+      "abstain": 15,
+      "absent": 37,
+      "not_logged": 33
+    },
+    "temata": []
+  },
+  {
+    "id": 87340,
+    "date": "2026-05-05",
+    "title": "Stanovisko vládní koalice ke sjezdu Sudetoněmeckého landsmanšaftu v Br",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 47,
+      "no": 76,
+      "abstain": 10,
+      "absent": 37,
+      "not_logged": 30
+    },
+    "temata": []
+  },
+  {
+    "id": 87341,
+    "date": "2026-05-05",
+    "title": "Stanovisko vládní koalice ke sjezdu Sudetoněmeckého landsmanšaftu v Br",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 50,
+      "no": 77,
+      "abstain": 12,
+      "absent": 37,
+      "not_logged": 24
+    },
+    "temata": []
+  },
+  {
+    "id": 87342,
+    "date": "2026-05-05",
+    "title": "Stanovisko vládní koalice ke sjezdu Sudetoněmeckého landsmanšaftu v Br",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 57,
+      "no": 81,
+      "abstain": 2,
+      "absent": 37,
+      "not_logged": 23
+    },
+    "temata": []
+  },
+  {
+    "id": 87343,
+    "date": "2026-05-05",
+    "title": "Stanovisko vládní koalice ke sjezdu Sudetoněmeckého landsmanšaftu v Br",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 44,
+      "no": 76,
+      "abstain": 27,
+      "absent": 37,
+      "not_logged": 16
+    },
+    "temata": []
+  },
+  {
+    "id": 87344,
+    "date": "2026-05-05",
+    "title": "Stanovisko vládní koalice ke sjezdu Sudetoněmeckého landsmanšaftu v Br",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 58,
+      "no": 77,
+      "abstain": 12,
+      "absent": 37,
+      "not_logged": 16
+    },
+    "temata": []
+  },
+  {
+    "id": 87345,
+    "date": "2026-05-05",
+    "title": "Stanovisko vládní koalice ke sjezdu Sudetoněmeckého landsmanšaftu v Br",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 53,
+      "no": 78,
+      "abstain": 16,
+      "absent": 37,
+      "not_logged": 16
+    },
+    "temata": []
+  },
+  {
+    "id": 87346,
+    "date": "2026-05-05",
+    "title": "Stanovisko vládní koalice ke sjezdu Sudetoněmeckého landsmanšaftu v Br",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 62,
+      "no": 82,
+      "abstain": 3,
+      "absent": 37,
+      "not_logged": 16
+    },
+    "temata": []
+  },
+  {
+    "id": 87347,
+    "date": "2026-05-06",
+    "title": "Stanovisko vládní koalice ke sjezdu Sudetoněmeckého landsmanšaftu v Br",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 109,
+      "no": 1,
+      "abstain": 7,
+      "absent": 38,
+      "not_logged": 45
+    },
+    "temata": []
+  },
+  {
+    "id": 87353,
+    "date": "2026-05-06",
+    "title": "Pořad schůze",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 76,
+      "no": 12,
+      "abstain": 42,
+      "absent": 49,
+      "not_logged": 21
+    },
+    "temata": []
+  },
+  {
+    "id": 87354,
+    "date": "2026-05-06",
+    "title": "Pořad schůze",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 127,
+      "no": 0,
+      "abstain": 0,
+      "absent": 55,
+      "not_logged": 18
+    },
+    "temata": []
+  },
+  {
+    "id": 87355,
+    "date": "2026-05-06",
+    "title": "Pořad schůze",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 127,
+      "no": 0,
+      "abstain": 2,
+      "absent": 55,
+      "not_logged": 16
+    },
+    "temata": []
+  },
+  {
+    "id": 87356,
+    "date": "2026-05-06",
+    "title": "Pořad schůze",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 129,
+      "no": 0,
+      "abstain": 0,
+      "absent": 55,
+      "not_logged": 16
+    },
+    "temata": []
+  },
+  {
+    "id": 87357,
+    "date": "2026-05-06",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 51,
+      "no": 30,
+      "abstain": 50,
+      "absent": 55,
+      "not_logged": 14
+    },
+    "temata": []
+  },
+  {
+    "id": 87358,
+    "date": "2026-05-06",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 52,
+      "no": 29,
+      "abstain": 51,
+      "absent": 55,
+      "not_logged": 13
+    },
+    "temata": []
+  },
+  {
+    "id": 87359,
+    "date": "2026-05-06",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 53,
+      "no": 23,
+      "abstain": 57,
+      "absent": 55,
+      "not_logged": 12
+    },
+    "temata": []
+  },
+  {
+    "id": 87360,
+    "date": "2026-05-06",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 53,
+      "no": 73,
+      "abstain": 6,
+      "absent": 55,
+      "not_logged": 13
+    },
+    "temata": []
+  },
+  {
+    "id": 87361,
+    "date": "2026-05-06",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 52,
+      "no": 77,
+      "abstain": 4,
+      "absent": 55,
+      "not_logged": 12
+    },
+    "temata": []
+  },
+  {
+    "id": 87362,
+    "date": "2026-05-06",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 53,
+      "no": 76,
+      "abstain": 4,
+      "absent": 55,
+      "not_logged": 12
+    },
+    "temata": []
+  },
+  {
+    "id": 87363,
+    "date": "2026-05-06",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 52,
+      "no": 73,
+      "abstain": 8,
+      "absent": 55,
+      "not_logged": 12
+    },
+    "temata": []
+  },
+  {
+    "id": 87364,
+    "date": "2026-05-06",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 54,
+      "no": 74,
+      "abstain": 5,
+      "absent": 55,
+      "not_logged": 12
+    },
+    "temata": []
+  },
+  {
+    "id": 87365,
+    "date": "2026-05-06",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 51,
+      "no": 77,
+      "abstain": 5,
+      "absent": 55,
+      "not_logged": 12
+    },
+    "temata": []
+  },
+  {
+    "id": 87366,
+    "date": "2026-05-06",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 54,
+      "no": 78,
+      "abstain": 1,
+      "absent": 55,
+      "not_logged": 12
+    },
+    "temata": []
+  },
+  {
+    "id": 87367,
+    "date": "2026-05-06",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 53,
+      "no": 79,
+      "abstain": 1,
+      "absent": 55,
+      "not_logged": 12
+    },
+    "temata": []
+  },
+  {
+    "id": 87368,
+    "date": "2026-05-06",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 53,
+      "no": 73,
+      "abstain": 7,
+      "absent": 55,
+      "not_logged": 12
+    },
+    "temata": []
+  },
+  {
+    "id": 87369,
+    "date": "2026-05-06",
+    "title": "Novela z. - stavební zákon**",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 110,
+      "no": 0,
+      "abstain": 23,
+      "absent": 55,
+      "not_logged": 12
+    },
+    "temata": []
+  },
+  {
+    "id": 87370,
+    "date": "2026-05-06",
+    "title": "Novela z. - stavební zákon**",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 123,
+      "no": 0,
+      "abstain": 11,
+      "absent": 55,
+      "not_logged": 11
+    },
+    "temata": []
+  },
+  {
+    "id": 87371,
+    "date": "2026-05-06",
+    "title": "Novela z. o státní sociální podpoře",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 63,
+      "no": 0,
+      "abstain": 12,
+      "absent": 63,
+      "not_logged": 62
+    },
+    "temata": []
+  },
+  {
+    "id": 87372,
+    "date": "2026-05-06",
+    "title": "Novela z. o státní sociální podpoře",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 100,
+      "no": 1,
+      "abstain": 2,
+      "absent": 62,
+      "not_logged": 35
+    },
+    "temata": []
+  },
+  {
+    "id": 87373,
+    "date": "2026-05-06",
+    "title": "Novela z. o sociálních službách",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 111,
+      "no": 0,
+      "abstain": 1,
+      "absent": 62,
+      "not_logged": 26
+    },
+    "temata": []
+  },
+  {
+    "id": 87374,
+    "date": "2026-05-06",
+    "title": "16. schůze, 71. hlasování , 6. května 2026, 22:00:00",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 101,
+      "no": 9,
+      "abstain": 3,
+      "absent": 62,
+      "not_logged": 25
+    },
+    "temata": []
+  },
+  {
+    "id": 87348,
+    "date": "2026-05-06",
+    "title": "17. schůze, 1. hlasování, 6. května 2026, 09:03:00",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 64,
+      "no": 0,
+      "abstain": 39,
+      "absent": 41,
+      "not_logged": 56
+    },
+    "temata": []
+  },
+  {
+    "id": 87349,
+    "date": "2026-05-06",
+    "title": "17. schůze, 2. hlasování, 6. května 2026, 09:03:00",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 95,
+      "no": 0,
+      "abstain": 14,
+      "absent": 41,
+      "not_logged": 50
+    },
+    "temata": []
+  },
+  {
+    "id": 87350,
+    "date": "2026-05-06",
+    "title": "17. schůze, 3. hlasování , 6. května 2026, 09:06:00",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 111,
+      "no": 1,
+      "abstain": 1,
+      "absent": 41,
+      "not_logged": 46
+    },
+    "temata": []
+  },
+  {
+    "id": 87351,
+    "date": "2026-05-06",
+    "title": "Pořad schůze",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 80,
+      "no": 61,
+      "abstain": 0,
+      "absent": 41,
+      "not_logged": 18
+    },
+    "temata": []
+  },
+  {
+    "id": 87352,
+    "date": "2026-05-06",
+    "title": "Novela ústav. z. - Ústava ČR**",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 71,
+      "no": 16,
+      "abstain": 31,
+      "absent": 44,
+      "not_logged": 38
     },
     "temata": []
   }

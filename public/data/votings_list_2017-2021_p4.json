@@ -1,4 +1,250 @@
-[
+﻿[
+  {
+    "id": 73020,
+    "date": "2020-05-13",
+    "title": "Vl.n.z. o snížení penále z pojist. na soc. zabezpečení",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 107,
+      "no": 0,
+      "abstain": 0,
+      "absent": 93,
+      "not_logged": 0
+    },
+    "temata": [
+      "epidemie",
+      "sociální příspěvek",
+      "sociální zabezpečení",
+      "zdraví veřejnosti"
+    ]
+  },
+  {
+    "id": 73021,
+    "date": "2020-05-13",
+    "title": "Vl.n.z. o snížení penále z pojist. na soc. zabezpečení",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 48,
+      "no": 0,
+      "abstain": 59,
+      "absent": 93,
+      "not_logged": 0
+    },
+    "temata": [
+      "epidemie",
+      "sociální příspěvek",
+      "sociální zabezpečení",
+      "zdraví veřejnosti"
+    ]
+  },
+  {
+    "id": 73022,
+    "date": "2020-05-13",
+    "title": "Vl.n.z. o snížení penále z pojist. na soc. zabezpečení",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 47,
+      "no": 1,
+      "abstain": 59,
+      "absent": 93,
+      "not_logged": 0
+    },
+    "temata": [
+      "epidemie",
+      "sociální příspěvek",
+      "sociální zabezpečení",
+      "zdraví veřejnosti"
+    ]
+  },
+  {
+    "id": 73023,
+    "date": "2020-05-13",
+    "title": "Vl.n.z.,kterým se stanoví termín předložení z. o SR ČR 2021",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 59,
+      "no": 37,
+      "abstain": 11,
+      "absent": 93,
+      "not_logged": 0
+    },
+    "temata": [
+      "návrh rozpočtu",
+      "státní rozpočet"
+    ]
+  },
+  {
+    "id": 73024,
+    "date": "2020-05-13",
+    "title": "Vl.n.z.,kterým se stanoví termín předložení z. o SR ČR 2021",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 91,
+      "no": 0,
+      "abstain": 16,
+      "absent": 93,
+      "not_logged": 0
+    },
+    "temata": [
+      "návrh rozpočtu",
+      "státní rozpočet"
+    ]
+  },
+  {
+    "id": 73025,
+    "date": "2020-05-13",
+    "title": "Vl.n.z.,kterým se stanoví termín předložení z. o SR ČR 2021",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 102,
+      "no": 0,
+      "abstain": 7,
+      "absent": 91,
+      "not_logged": 0
+    },
+    "temata": [
+      "návrh rozpočtu",
+      "státní rozpočet"
+    ]
+  },
+  {
+    "id": 73026,
+    "date": "2020-05-13",
+    "title": "Vl.n.z.,kterým se stanoví termín předložení z. o SR ČR 2021",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 92,
+      "no": 1,
+      "abstain": 16,
+      "absent": 91,
+      "not_logged": 0
+    },
+    "temata": [
+      "návrh rozpočtu",
+      "státní rozpočet"
+    ]
+  },
+  {
+    "id": 73027,
+    "date": "2020-05-13",
+    "title": "Vl.n.z.,kterým se stanoví termín předložení z. o SR ČR 2021",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 46,
+      "no": 44,
+      "abstain": 19,
+      "absent": 91,
+      "not_logged": 0
+    },
+    "temata": [
+      "návrh rozpočtu",
+      "státní rozpočet"
+    ]
+  },
+  {
+    "id": 73028,
+    "date": "2020-05-13",
+    "title": "Vl.n.z.,kterým se stanoví termín předložení z. o SR ČR 2021",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 45,
+      "no": 44,
+      "abstain": 20,
+      "absent": 91,
+      "not_logged": 0
+    },
+    "temata": [
+      "návrh rozpočtu",
+      "státní rozpočet"
+    ]
+  },
+  {
+    "id": 73029,
+    "date": "2020-05-13",
+    "title": "Vl.n.z.,kterým se stanoví termín předložení z. o SR ČR 2021",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 67,
+      "no": 12,
+      "abstain": 30,
+      "absent": 91,
+      "not_logged": 0
+    },
+    "temata": [
+      "návrh rozpočtu",
+      "státní rozpočet"
+    ]
+  },
+  {
+    "id": 73030,
+    "date": "2020-05-26",
+    "title": "49. schůze, 1. hlasování , 26. května 2020, 14:01:00",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 108,
+      "no": 0,
+      "abstain": 3,
+      "absent": 5,
+      "not_logged": 84
+    },
+    "temata": []
+  },
+  {
+    "id": 73031,
+    "date": "2020-05-26",
+    "title": "Pořad schůze",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 133,
+      "no": 10,
+      "abstain": 16,
+      "absent": 5,
+      "not_logged": 36
+    },
+    "temata": []
+  },
+  {
+    "id": 73032,
+    "date": "2020-05-26",
+    "title": "Pořad schůze",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 185,
+      "no": 0,
+      "abstain": 3,
+      "absent": 3,
+      "not_logged": 9
+    },
+    "temata": []
+  },
+  {
+    "id": 73033,
+    "date": "2020-05-26",
+    "title": "Pořad schůze",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 173,
+      "no": 0,
+      "abstain": 17,
+      "absent": 3,
+      "not_logged": 7
+    },
+    "temata": []
+  },
+  {
+    "id": 73034,
+    "date": "2020-05-26",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 68,
+      "no": 0,
+      "abstain": 122,
+      "absent": 3,
+      "not_logged": 7
+    },
+    "temata": []
+  },
   {
     "id": 73035,
     "date": "2020-05-26",
@@ -662,7 +908,6 @@
       "not_logged": 4
     },
     "temata": [
-      "mėstská policie",
       "městská policie",
       "policie",
       "povinnosti úředníka",
@@ -683,7 +928,6 @@
       "not_logged": 4
     },
     "temata": [
-      "mėstská policie",
       "městská policie",
       "policie",
       "povinnosti úředníka",
@@ -704,7 +948,6 @@
       "not_logged": 5
     },
     "temata": [
-      "mėstská policie",
       "městská policie",
       "policie",
       "povinnosti úředníka",
@@ -725,7 +968,6 @@
       "not_logged": 5
     },
     "temata": [
-      "mėstská policie",
       "městská policie",
       "policie",
       "povinnosti úředníka",
@@ -746,13 +988,12 @@
       "not_logged": 3
     },
     "temata": [
+      "Česká republika",
       "opatření na kontrolu znečištění",
+      "škodliviny",
       "znečišťování atmosféry",
       "znečišťování překračující hranice",
-      "znečišťování životního prostředí",
-      "kodliviny",
-      "Česká republika",
-      "škodliviny"
+      "znečišťování životního prostředí"
     ]
   },
   {
@@ -768,13 +1009,12 @@
       "not_logged": 4
     },
     "temata": [
+      "Česká republika",
       "opatření na kontrolu znečištění",
+      "škodliviny",
       "znečišťování atmosféry",
       "znečišťování překračující hranice",
-      "znečišťování životního prostředí",
-      "kodliviny",
-      "Česká republika",
-      "škodliviny"
+      "znečišťování životního prostředí"
     ]
   },
   {
@@ -790,10 +1030,9 @@
       "not_logged": 12
     },
     "temata": [
-      "NATO",
       "armáda",
       "nadnárodní ozbrojené síly",
-      "udrování míru",
+      "NATO",
       "udržování míru",
       "vojenská spolupráce",
       "vojska v zahraničí"
@@ -854,7 +1093,6 @@
       "not_logged": 33
     },
     "temata": [
-      "mėstská policie",
       "městská policie",
       "policie",
       "povinnosti úředníka",
@@ -1232,7 +1470,6 @@
       "podpora zaměstnanosti",
       "pojistné",
       "sociální zabezpečení",
-      "zamìstnavatel",
       "zaměstnavatel"
     ]
   },
@@ -1254,7 +1491,6 @@
       "podpora zaměstnanosti",
       "pojistné",
       "sociální zabezpečení",
-      "zamìstnavatel",
       "zaměstnavatel"
     ]
   },
@@ -1276,7 +1512,6 @@
       "podpora zaměstnanosti",
       "pojistné",
       "sociální zabezpečení",
-      "zamìstnavatel",
       "zaměstnavatel"
     ]
   },
@@ -1307,15 +1542,10 @@
       "not_logged": 44
     },
     "temata": [
-      "daņ z pųidané hodnoty",
-      "daņ z pųķjmł",
       "daņovį śleva",
       "daņovż systém",
-      "daň z přidané hodnoty",
-      "daň z příjmů",
-      "daňová úleva",
-      "daňový systém",
-      "osvobození od daní",
+      "daņ z pųidané hodnoty",
+      "daņ z pųķjmł",
       "osvobozenķ od danķ"
     ]
   },
@@ -1332,15 +1562,10 @@
       "not_logged": 40
     },
     "temata": [
-      "daņ z pųidané hodnoty",
-      "daņ z pųķjmł",
       "daņovį śleva",
       "daņovż systém",
-      "daň z přidané hodnoty",
-      "daň z příjmů",
-      "daňová úleva",
-      "daňový systém",
-      "osvobození od daní",
+      "daņ z pųidané hodnoty",
+      "daņ z pųķjmł",
       "osvobozenķ od danķ"
     ]
   },
@@ -1376,7 +1601,6 @@
       "podpora zaměstnanosti",
       "pojistné",
       "sociální zabezpečení",
-      "zamìstnavatel",
       "zaměstnavatel"
     ]
   },
@@ -1398,7 +1622,6 @@
       "podpora zaměstnanosti",
       "pojistné",
       "sociální zabezpečení",
-      "zamìstnavatel",
       "zaměstnavatel"
     ]
   },
@@ -1420,7 +1643,6 @@
       "podpora zaměstnanosti",
       "pojistné",
       "sociální zabezpečení",
-      "zamìstnavatel",
       "zaměstnavatel"
     ]
   },
@@ -1442,7 +1664,6 @@
       "podpora zaměstnanosti",
       "pojistné",
       "sociální zabezpečení",
-      "zamìstnavatel",
       "zaměstnavatel"
     ]
   },
@@ -1464,7 +1685,6 @@
       "podpora zaměstnanosti",
       "pojistné",
       "sociální zabezpečení",
-      "zamìstnavatel",
       "zaměstnavatel"
     ]
   },
@@ -1486,7 +1706,6 @@
       "podpora zaměstnanosti",
       "pojistné",
       "sociální zabezpečení",
-      "zamìstnavatel",
       "zaměstnavatel"
     ]
   },
@@ -1508,7 +1727,6 @@
       "podpora zaměstnanosti",
       "pojistné",
       "sociální zabezpečení",
-      "zamìstnavatel",
       "zaměstnavatel"
     ]
   },
@@ -1530,7 +1748,6 @@
       "podpora zaměstnanosti",
       "pojistné",
       "sociální zabezpečení",
-      "zamìstnavatel",
       "zaměstnavatel"
     ]
   },
@@ -1552,7 +1769,6 @@
       "podpora zaměstnanosti",
       "pojistné",
       "sociální zabezpečení",
-      "zamìstnavatel",
       "zaměstnavatel"
     ]
   },
@@ -1574,7 +1790,6 @@
       "podpora zaměstnanosti",
       "pojistné",
       "sociální zabezpečení",
-      "zamìstnavatel",
       "zaměstnavatel"
     ]
   },
@@ -1596,7 +1811,6 @@
       "podpora zaměstnanosti",
       "pojistné",
       "sociální zabezpečení",
-      "zamìstnavatel",
       "zaměstnavatel"
     ]
   },
@@ -1618,7 +1832,6 @@
       "podpora zaměstnanosti",
       "pojistné",
       "sociální zabezpečení",
-      "zamìstnavatel",
       "zaměstnavatel"
     ]
   },
@@ -1640,7 +1853,6 @@
       "podpora zaměstnanosti",
       "pojistné",
       "sociální zabezpečení",
-      "zamìstnavatel",
       "zaměstnavatel"
     ]
   },
@@ -1662,7 +1874,6 @@
       "podpora zaměstnanosti",
       "pojistné",
       "sociální zabezpečení",
-      "zamìstnavatel",
       "zaměstnavatel"
     ]
   },
@@ -1684,7 +1895,6 @@
       "podpora zaměstnanosti",
       "pojistné",
       "sociální zabezpečení",
-      "zamìstnavatel",
       "zaměstnavatel"
     ]
   },
@@ -1701,15 +1911,10 @@
       "not_logged": 6
     },
     "temata": [
-      "daņ z pųidané hodnoty",
-      "daņ z pųķjmł",
       "daņovį śleva",
       "daņovż systém",
-      "daň z přidané hodnoty",
-      "daň z příjmů",
-      "daňová úleva",
-      "daňový systém",
-      "osvobození od daní",
+      "daņ z pųidané hodnoty",
+      "daņ z pųķjmł",
       "osvobozenķ od danķ"
     ]
   },
@@ -1726,15 +1931,10 @@
       "not_logged": 5
     },
     "temata": [
-      "daņ z pųidané hodnoty",
-      "daņ z pųķjmł",
       "daņovį śleva",
       "daņovż systém",
-      "daň z přidané hodnoty",
-      "daň z příjmů",
-      "daňová úleva",
-      "daňový systém",
-      "osvobození od daní",
+      "daņ z pųidané hodnoty",
+      "daņ z pųķjmł",
       "osvobozenķ od danķ"
     ]
   },
@@ -1751,15 +1951,10 @@
       "not_logged": 6
     },
     "temata": [
-      "daņ z pųidané hodnoty",
-      "daņ z pųķjmł",
       "daņovį śleva",
       "daņovż systém",
-      "daň z přidané hodnoty",
-      "daň z příjmů",
-      "daňová úleva",
-      "daňový systém",
-      "osvobození od daní",
+      "daņ z pųidané hodnoty",
+      "daņ z pųķjmł",
       "osvobozenķ od danķ"
     ]
   },
@@ -1776,15 +1971,10 @@
       "not_logged": 6
     },
     "temata": [
-      "daņ z pųidané hodnoty",
-      "daņ z pųķjmł",
       "daņovį śleva",
       "daņovż systém",
-      "daň z přidané hodnoty",
-      "daň z příjmů",
-      "daňová úleva",
-      "daňový systém",
-      "osvobození od daní",
+      "daņ z pųidané hodnoty",
+      "daņ z pųķjmł",
       "osvobozenķ od danķ"
     ]
   },
@@ -1801,15 +1991,10 @@
       "not_logged": 5
     },
     "temata": [
-      "daņ z pųidané hodnoty",
-      "daņ z pųķjmł",
       "daņovį śleva",
       "daņovż systém",
-      "daň z přidané hodnoty",
-      "daň z příjmů",
-      "daňová úleva",
-      "daňový systém",
-      "osvobození od daní",
+      "daņ z pųidané hodnoty",
+      "daņ z pųķjmł",
       "osvobozenķ od danķ"
     ]
   },
@@ -1826,15 +2011,10 @@
       "not_logged": 5
     },
     "temata": [
-      "daņ z pųidané hodnoty",
-      "daņ z pųķjmł",
       "daņovį śleva",
       "daņovż systém",
-      "daň z přidané hodnoty",
-      "daň z příjmů",
-      "daňová úleva",
-      "daňový systém",
-      "osvobození od daní",
+      "daņ z pųidané hodnoty",
+      "daņ z pųķjmł",
       "osvobozenķ od danķ"
     ]
   },
@@ -1851,15 +2031,10 @@
       "not_logged": 5
     },
     "temata": [
-      "daņ z pųidané hodnoty",
-      "daņ z pųķjmł",
       "daņovį śleva",
       "daņovż systém",
-      "daň z přidané hodnoty",
-      "daň z příjmů",
-      "daňová úleva",
-      "daňový systém",
-      "osvobození od daní",
+      "daņ z pųidané hodnoty",
+      "daņ z pųķjmł",
       "osvobozenķ od danķ"
     ]
   },
@@ -1876,15 +2051,10 @@
       "not_logged": 7
     },
     "temata": [
-      "daņ z pųidané hodnoty",
-      "daņ z pųķjmł",
       "daņovį śleva",
       "daņovż systém",
-      "daň z přidané hodnoty",
-      "daň z příjmů",
-      "daňová úleva",
-      "daňový systém",
-      "osvobození od daní",
+      "daņ z pųidané hodnoty",
+      "daņ z pųķjmł",
       "osvobozenķ od danķ"
     ]
   },
@@ -1901,15 +2071,10 @@
       "not_logged": 5
     },
     "temata": [
-      "daņ z pųidané hodnoty",
-      "daņ z pųķjmł",
       "daņovį śleva",
       "daņovż systém",
-      "daň z přidané hodnoty",
-      "daň z příjmů",
-      "daňová úleva",
-      "daňový systém",
-      "osvobození od daní",
+      "daņ z pųidané hodnoty",
+      "daņ z pųķjmł",
       "osvobozenķ od danķ"
     ]
   },
@@ -1926,15 +2091,10 @@
       "not_logged": 6
     },
     "temata": [
-      "daņ z pųidané hodnoty",
-      "daņ z pųķjmł",
       "daņovį śleva",
       "daņovż systém",
-      "daň z přidané hodnoty",
-      "daň z příjmů",
-      "daňová úleva",
-      "daňový systém",
-      "osvobození od daní",
+      "daņ z pųidané hodnoty",
+      "daņ z pųķjmł",
       "osvobozenķ od danķ"
     ]
   },
@@ -1951,15 +2111,10 @@
       "not_logged": 5
     },
     "temata": [
-      "daņ z pųidané hodnoty",
-      "daņ z pųķjmł",
       "daņovį śleva",
       "daņovż systém",
-      "daň z přidané hodnoty",
-      "daň z příjmů",
-      "daňová úleva",
-      "daňový systém",
-      "osvobození od daní",
+      "daņ z pųidané hodnoty",
+      "daņ z pųķjmł",
       "osvobozenķ od danķ"
     ]
   },
@@ -1976,15 +2131,10 @@
       "not_logged": 5
     },
     "temata": [
-      "daņ z pųidané hodnoty",
-      "daņ z pųķjmł",
       "daņovį śleva",
       "daņovż systém",
-      "daň z přidané hodnoty",
-      "daň z příjmů",
-      "daňová úleva",
-      "daňový systém",
-      "osvobození od daní",
+      "daņ z pųidané hodnoty",
+      "daņ z pųķjmł",
       "osvobozenķ od danķ"
     ]
   },
@@ -2001,15 +2151,10 @@
       "not_logged": 5
     },
     "temata": [
-      "daņ z pųidané hodnoty",
-      "daņ z pųķjmł",
       "daņovį śleva",
       "daņovż systém",
-      "daň z přidané hodnoty",
-      "daň z příjmů",
-      "daňová úleva",
-      "daňový systém",
-      "osvobození od daní",
+      "daņ z pųidané hodnoty",
+      "daņ z pųķjmł",
       "osvobozenķ od danķ"
     ]
   },
@@ -2026,15 +2171,10 @@
       "not_logged": 5
     },
     "temata": [
-      "daņ z pųidané hodnoty",
-      "daņ z pųķjmł",
       "daņovį śleva",
       "daņovż systém",
-      "daň z přidané hodnoty",
-      "daň z příjmů",
-      "daňová úleva",
-      "daňový systém",
-      "osvobození od daní",
+      "daņ z pųidané hodnoty",
+      "daņ z pųķjmł",
       "osvobozenķ od danķ"
     ]
   },
@@ -2051,15 +2191,10 @@
       "not_logged": 5
     },
     "temata": [
-      "daņ z pųidané hodnoty",
-      "daņ z pųķjmł",
       "daņovį śleva",
       "daņovż systém",
-      "daň z přidané hodnoty",
-      "daň z příjmů",
-      "daňová úleva",
-      "daňový systém",
-      "osvobození od daní",
+      "daņ z pųidané hodnoty",
+      "daņ z pųķjmł",
       "osvobozenķ od danķ"
     ]
   },
@@ -2076,15 +2211,10 @@
       "not_logged": 6
     },
     "temata": [
-      "daņ z pųidané hodnoty",
-      "daņ z pųķjmł",
       "daņovį śleva",
       "daņovż systém",
-      "daň z přidané hodnoty",
-      "daň z příjmů",
-      "daňová úleva",
-      "daňový systém",
-      "osvobození od daní",
+      "daņ z pųidané hodnoty",
+      "daņ z pųķjmł",
       "osvobozenķ od danķ"
     ]
   },
@@ -2101,15 +2231,10 @@
       "not_logged": 6
     },
     "temata": [
-      "daņ z pųidané hodnoty",
-      "daņ z pųķjmł",
       "daņovį śleva",
       "daņovż systém",
-      "daň z přidané hodnoty",
-      "daň z příjmů",
-      "daňová úleva",
-      "daňový systém",
-      "osvobození od daní",
+      "daņ z pųidané hodnoty",
+      "daņ z pųķjmł",
       "osvobozenķ od danķ"
     ]
   },
@@ -2126,15 +2251,10 @@
       "not_logged": 9
     },
     "temata": [
-      "daņ z pųidané hodnoty",
-      "daņ z pųķjmł",
       "daņovį śleva",
       "daņovż systém",
-      "daň z přidané hodnoty",
-      "daň z příjmů",
-      "daňová úleva",
-      "daňový systém",
-      "osvobození od daní",
+      "daņ z pųidané hodnoty",
+      "daņ z pųķjmł",
       "osvobozenķ od danķ"
     ]
   },
@@ -2151,15 +2271,10 @@
       "not_logged": 10
     },
     "temata": [
-      "daņ z pųidané hodnoty",
-      "daņ z pųķjmł",
       "daņovį śleva",
       "daņovż systém",
-      "daň z přidané hodnoty",
-      "daň z příjmů",
-      "daňová úleva",
-      "daňový systém",
-      "osvobození od daní",
+      "daņ z pųidané hodnoty",
+      "daņ z pųķjmł",
       "osvobozenķ od danķ"
     ]
   },
@@ -2176,15 +2291,10 @@
       "not_logged": 9
     },
     "temata": [
-      "daņ z pųidané hodnoty",
-      "daņ z pųķjmł",
       "daņovį śleva",
       "daņovż systém",
-      "daň z přidané hodnoty",
-      "daň z příjmů",
-      "daňová úleva",
-      "daňový systém",
-      "osvobození od daní",
+      "daņ z pųidané hodnoty",
+      "daņ z pųķjmł",
       "osvobozenķ od danķ"
     ]
   },
@@ -2201,15 +2311,10 @@
       "not_logged": 9
     },
     "temata": [
-      "daņ z pųidané hodnoty",
-      "daņ z pųķjmł",
       "daņovį śleva",
       "daņovż systém",
-      "daň z přidané hodnoty",
-      "daň z příjmů",
-      "daňová úleva",
-      "daňový systém",
-      "osvobození od daní",
+      "daņ z pųidané hodnoty",
+      "daņ z pųķjmł",
       "osvobozenķ od danķ"
     ]
   },
@@ -2226,15 +2331,10 @@
       "not_logged": 6
     },
     "temata": [
-      "daņ z pųidané hodnoty",
-      "daņ z pųķjmł",
       "daņovį śleva",
       "daņovż systém",
-      "daň z přidané hodnoty",
-      "daň z příjmů",
-      "daňová úleva",
-      "daňový systém",
-      "osvobození od daní",
+      "daņ z pųidané hodnoty",
+      "daņ z pųķjmł",
       "osvobozenķ od danķ"
     ]
   },
@@ -2251,15 +2351,10 @@
       "not_logged": 6
     },
     "temata": [
-      "daņ z pųidané hodnoty",
-      "daņ z pųķjmł",
       "daņovį śleva",
       "daņovż systém",
-      "daň z přidané hodnoty",
-      "daň z příjmů",
-      "daňová úleva",
-      "daňový systém",
-      "osvobození od daní",
+      "daņ z pųidané hodnoty",
+      "daņ z pųķjmł",
       "osvobozenķ od danķ"
     ]
   },
@@ -2276,15 +2371,10 @@
       "not_logged": 7
     },
     "temata": [
-      "daņ z pųidané hodnoty",
-      "daņ z pųķjmł",
       "daņovį śleva",
       "daņovż systém",
-      "daň z přidané hodnoty",
-      "daň z příjmů",
-      "daňová úleva",
-      "daňový systém",
-      "osvobození od daní",
+      "daņ z pųidané hodnoty",
+      "daņ z pųķjmł",
       "osvobozenķ od danķ"
     ]
   },
@@ -2301,15 +2391,10 @@
       "not_logged": 7
     },
     "temata": [
-      "daņ z pųidané hodnoty",
-      "daņ z pųķjmł",
       "daņovį śleva",
       "daņovż systém",
-      "daň z přidané hodnoty",
-      "daň z příjmů",
-      "daňová úleva",
-      "daňový systém",
-      "osvobození od daní",
+      "daņ z pųidané hodnoty",
+      "daņ z pųķjmł",
       "osvobozenķ od danķ"
     ]
   },
@@ -2326,15 +2411,10 @@
       "not_logged": 7
     },
     "temata": [
-      "daņ z pųidané hodnoty",
-      "daņ z pųķjmł",
       "daņovį śleva",
       "daņovż systém",
-      "daň z přidané hodnoty",
-      "daň z příjmů",
-      "daňová úleva",
-      "daňový systém",
-      "osvobození od daní",
+      "daņ z pųidané hodnoty",
+      "daņ z pųķjmł",
       "osvobozenķ od danķ"
     ]
   },
@@ -2351,15 +2431,10 @@
       "not_logged": 6
     },
     "temata": [
-      "daņ z pųidané hodnoty",
-      "daņ z pųķjmł",
       "daņovį śleva",
       "daņovż systém",
-      "daň z přidané hodnoty",
-      "daň z příjmů",
-      "daňová úleva",
-      "daňový systém",
-      "osvobození od daní",
+      "daņ z pųidané hodnoty",
+      "daņ z pųķjmł",
       "osvobozenķ od danķ"
     ]
   },
@@ -2376,15 +2451,10 @@
       "not_logged": 7
     },
     "temata": [
-      "daņ z pųidané hodnoty",
-      "daņ z pųķjmł",
       "daņovį śleva",
       "daņovż systém",
-      "daň z přidané hodnoty",
-      "daň z příjmů",
-      "daňová úleva",
-      "daňový systém",
-      "osvobození od daní",
+      "daņ z pųidané hodnoty",
+      "daņ z pųķjmł",
       "osvobozenķ od danķ"
     ]
   },
@@ -2401,15 +2471,10 @@
       "not_logged": 6
     },
     "temata": [
-      "daņ z pųidané hodnoty",
-      "daņ z pųķjmł",
       "daņovį śleva",
       "daņovż systém",
-      "daň z přidané hodnoty",
-      "daň z příjmů",
-      "daňová úleva",
-      "daňový systém",
-      "osvobození od daní",
+      "daņ z pųidané hodnoty",
+      "daņ z pųķjmł",
       "osvobozenķ od danķ"
     ]
   },
@@ -2426,15 +2491,10 @@
       "not_logged": 9
     },
     "temata": [
-      "daņ z pųidané hodnoty",
-      "daņ z pųķjmł",
       "daņovį śleva",
       "daņovż systém",
-      "daň z přidané hodnoty",
-      "daň z příjmů",
-      "daňová úleva",
-      "daňový systém",
-      "osvobození od daní",
+      "daņ z pųidané hodnoty",
+      "daņ z pųķjmł",
       "osvobozenķ od danķ"
     ]
   },
@@ -2689,7 +2749,6 @@
     },
     "temata": [
       "lodní vlajka",
-      "námoøní plavba",
       "námořní doprava",
       "námořní plavba",
       "námořní právo",
@@ -2958,14 +3017,11 @@
     },
     "temata": [
       "bezpeènost silnièního provozu",
-      "bezpečnost silničního provozu",
       "dopravní právo",
       "nákladní doprava",
       "nákladní vozidlo",
       "pravidla silnièního provozu",
-      "pravidla silničního provozu",
-      "silnièní doprava",
-      "silniční doprava"
+      "silnièní doprava"
     ]
   },
   {
@@ -2982,9 +3038,8 @@
     },
     "temata": [
       "inspekce potravin",
-      "potravinová legislativa",
-      "potravináøská výroba",
       "potravinářská výroba",
+      "potravinová legislativa",
       "zdravotní inspekce"
     ]
   },
@@ -3059,7 +3114,6 @@
     },
     "temata": [
       "ochrana odrůd rostlin",
-      "ochrana odrųd rostlin",
       "osivo",
       "přibližování legislativy",
       "rostlinná výroba",
@@ -3080,10 +3134,9 @@
       "not_logged": 13
     },
     "temata": [
-      "NATO",
       "armáda",
       "nadnárodní ozbrojené síly",
-      "udrování míru",
+      "NATO",
       "udržování míru",
       "vojenská spolupráce",
       "vojska v zahraničí"
@@ -4390,17 +4443,14 @@
       "not_logged": 27
     },
     "temata": [
-      "finanèní instituce",
       "finanční instituce",
       "likvidita soukromého sektoru",
       "nekalá reklama",
       "omezování soutěže",
       "peněžní zásoba",
-      "penģnķ zįsoba",
       "propagace",
       "propagační účinek",
       "půjčka",
-      "pųjčka",
       "televize"
     ]
   },
@@ -4417,17 +4467,14 @@
       "not_logged": 24
     },
     "temata": [
-      "finanèní instituce",
       "finanční instituce",
       "likvidita soukromého sektoru",
       "nekalá reklama",
       "omezování soutěže",
       "peněžní zásoba",
-      "penģnķ zįsoba",
       "propagace",
       "propagační účinek",
       "půjčka",
-      "pųjčka",
       "televize"
     ]
   },
@@ -4444,17 +4491,14 @@
       "not_logged": 25
     },
     "temata": [
-      "finanèní instituce",
       "finanční instituce",
       "likvidita soukromého sektoru",
       "nekalá reklama",
       "omezování soutěže",
       "peněžní zásoba",
-      "penģnķ zįsoba",
       "propagace",
       "propagační účinek",
       "půjčka",
-      "pųjčka",
       "televize"
     ]
   },
@@ -4471,17 +4515,14 @@
       "not_logged": 25
     },
     "temata": [
-      "finanèní instituce",
       "finanční instituce",
       "likvidita soukromého sektoru",
       "nekalá reklama",
       "omezování soutěže",
       "peněžní zásoba",
-      "penģnķ zįsoba",
       "propagace",
       "propagační účinek",
       "půjčka",
-      "pųjčka",
       "televize"
     ]
   },
@@ -4498,17 +4539,14 @@
       "not_logged": 25
     },
     "temata": [
-      "finanèní instituce",
       "finanční instituce",
       "likvidita soukromého sektoru",
       "nekalá reklama",
       "omezování soutěže",
       "peněžní zásoba",
-      "penģnķ zįsoba",
       "propagace",
       "propagační účinek",
       "půjčka",
-      "pųjčka",
       "televize"
     ]
   },
@@ -4525,17 +4563,14 @@
       "not_logged": 25
     },
     "temata": [
-      "finanèní instituce",
       "finanční instituce",
       "likvidita soukromého sektoru",
       "nekalá reklama",
       "omezování soutěže",
       "peněžní zásoba",
-      "penģnķ zįsoba",
       "propagace",
       "propagační účinek",
       "půjčka",
-      "pųjčka",
       "televize"
     ]
   },
@@ -4552,17 +4587,14 @@
       "not_logged": 25
     },
     "temata": [
-      "finanèní instituce",
       "finanční instituce",
       "likvidita soukromého sektoru",
       "nekalá reklama",
       "omezování soutěže",
       "peněžní zásoba",
-      "penģnķ zįsoba",
       "propagace",
       "propagační účinek",
       "půjčka",
-      "pųjčka",
       "televize"
     ]
   },
@@ -4579,17 +4611,14 @@
       "not_logged": 24
     },
     "temata": [
-      "finanèní instituce",
       "finanční instituce",
       "likvidita soukromého sektoru",
       "nekalá reklama",
       "omezování soutěže",
       "peněžní zásoba",
-      "penģnķ zįsoba",
       "propagace",
       "propagační účinek",
       "půjčka",
-      "pųjčka",
       "televize"
     ]
   },
@@ -4760,7 +4789,6 @@
       "podpora zaměstnanosti",
       "pojistné",
       "sociální zabezpečení",
-      "zamìstnavatel",
       "zaměstnavatel"
     ]
   },
@@ -4782,7 +4810,6 @@
       "podpora zaměstnanosti",
       "pojistné",
       "sociální zabezpečení",
-      "zamìstnavatel",
       "zaměstnavatel"
     ]
   },
@@ -4973,9 +5000,7 @@
       "bankovní tajemství",
       "daň z příjmů",
       "daň z příjmů právnických osob",
-      "finanèní instituce",
       "finanční instituce",
-      "finanční sluby",
       "finanční služby",
       "spořitelna",
       "úvěrové družstvo"
@@ -4995,7 +5020,6 @@
     },
     "temata": [
       "digitalizace dokumentů",
-      "digitalizace dokumentų",
       "elektronická správa",
       "informační systém",
       "ukládání a vyhledávání informací",
@@ -5112,7 +5136,6 @@
     },
     "temata": [
       "chemická zbraň",
-      "chemická zbraō",
       "chemický výrobek",
       "mezinárodní úmluva",
       "nebezpečná látka"
@@ -5178,7 +5201,6 @@
       "veřejný majetek",
       "vlastnictví",
       "vodní zdroje",
-      "základní ivotní potøeby",
       "základní životní potřeby"
     ]
   },
@@ -5209,13 +5231,11 @@
       "not_logged": 31
     },
     "temata": [
+      "atmosférické podmínky",
       "ochrana vod",
-      "přírodní zdroje",
-      "veřejný majetek",
-      "vlastnictví",
+      "vodní hospodářství",
       "vodní zdroje",
-      "základní ivotní potøeby",
-      "základní životní potřeby"
+      "vodohospodářské stavby"
     ]
   },
   {
@@ -5234,12 +5254,10 @@
       "ochrana vod",
       "povodeň",
       "voda",
-      "vodní hospodáøství",
       "vodní hospodářství",
       "vodní tok",
       "vodní zdroje",
       "vodohospodářské stavby",
-      "vyuití vody",
       "využití vody"
     ]
   },
@@ -5261,7 +5279,6 @@
       "veřejný majetek",
       "vlastnictví",
       "vodní zdroje",
-      "základní ivotní potøeby",
       "základní životní potřeby"
     ]
   },
@@ -6367,12 +6384,11 @@
     },
     "temata": [
       "dopravní infrastruktura",
-      "energetická rozvodná sí",
       "energetická rozvodná síť",
       "správní řízení",
       "stavební povolení",
-      "vodohospodářské stavby",
-      "územní plánování"
+      "územní plánování",
+      "vodohospodářské stavby"
     ]
   },
   {
@@ -6766,7 +6782,6 @@
     "temata": [
       "epidemie",
       "financování rozpočtu",
-      "mimoøádný rozpočet",
       "mimořádný rozpočet",
       "návrh rozpočtu",
       "státní rozpočet"
@@ -6787,7 +6802,6 @@
     "temata": [
       "epidemie",
       "financování rozpočtu",
-      "mimoøádný rozpočet",
       "mimořádný rozpočet",
       "návrh rozpočtu",
       "státní rozpočet"
@@ -6808,7 +6822,6 @@
     "temata": [
       "epidemie",
       "financování rozpočtu",
-      "mimoøádný rozpočet",
       "mimořádný rozpočet",
       "návrh rozpočtu",
       "státní rozpočet"
@@ -6829,7 +6842,6 @@
     "temata": [
       "epidemie",
       "financování rozpočtu",
-      "mimoøádný rozpočet",
       "mimořádný rozpočet",
       "návrh rozpočtu",
       "státní rozpočet"
@@ -7280,12 +7292,10 @@
       "not_logged": 25
     },
     "temata": [
-      "2031 uvádìní na trh",
       "2031 uvádění na trh",
       "dokumentace",
       "normalizace",
       "prostředky zdravotnické techniky",
-      "prostųedky zdravotnické techniky",
       "technická norma"
     ]
   },
@@ -7365,7 +7375,6 @@
     },
     "temata": [
       "chemická zbraň",
-      "chemická zbraō",
       "chemický výrobek",
       "mezinárodní úmluva",
       "nebezpečná látka"
@@ -7385,7 +7394,6 @@
     },
     "temata": [
       "chemická zbraň",
-      "chemická zbraō",
       "chemický výrobek",
       "mezinárodní úmluva",
       "nebezpečná látka"
@@ -7405,7 +7413,6 @@
     },
     "temata": [
       "chemická zbraň",
-      "chemická zbraō",
       "chemický výrobek",
       "mezinárodní úmluva",
       "nebezpečná látka"
@@ -7425,7 +7432,6 @@
     },
     "temata": [
       "chemická zbraň",
-      "chemická zbraō",
       "chemický výrobek",
       "mezinárodní úmluva",
       "nebezpečná látka"
@@ -7445,7 +7451,6 @@
     },
     "temata": [
       "chemická zbraň",
-      "chemická zbraō",
       "chemický výrobek",
       "mezinárodní úmluva",
       "nebezpečná látka"
@@ -7465,7 +7470,6 @@
     },
     "temata": [
       "chemická zbraň",
-      "chemická zbraō",
       "chemický výrobek",
       "mezinárodní úmluva",
       "nebezpečná látka"
@@ -7485,7 +7489,6 @@
     },
     "temata": [
       "chemická zbraň",
-      "chemická zbraō",
       "chemický výrobek",
       "mezinárodní úmluva",
       "nebezpečná látka"
@@ -7505,7 +7508,25 @@
     },
     "temata": [
       "chemická zbraň",
-      "chemická zbraō",
+      "chemický výrobek",
+      "mezinárodní úmluva",
+      "nebezpečná látka"
+    ]
+  },
+  {
+    "id": 73435,
+    "date": "2020-07-08",
+    "title": "Vl.n.z., kterým se ruší zák. opatření Senátu č. 340/2013 Sb.",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 53,
+      "no": 71,
+      "abstain": 66,
+      "absent": 7,
+      "not_logged": 3
+    },
+    "temata": [
+      "chemická zbraň",
       "chemický výrobek",
       "mezinárodní úmluva",
       "nebezpečná látka"
@@ -7525,7 +7546,6 @@
     },
     "temata": [
       "chemická zbraň",
-      "chemická zbraō",
       "chemický výrobek",
       "mezinárodní úmluva",
       "nebezpečná látka"
@@ -7545,7 +7565,6 @@
     },
     "temata": [
       "chemická zbraň",
-      "chemická zbraō",
       "chemický výrobek",
       "mezinárodní úmluva",
       "nebezpečná látka"
@@ -7565,7 +7584,6 @@
     },
     "temata": [
       "chemická zbraň",
-      "chemická zbraō",
       "chemický výrobek",
       "mezinárodní úmluva",
       "nebezpečná látka"
@@ -7585,7 +7603,25 @@
     },
     "temata": [
       "chemická zbraň",
-      "chemická zbraō",
+      "chemický výrobek",
+      "mezinárodní úmluva",
+      "nebezpečná látka"
+    ]
+  },
+  {
+    "id": 73440,
+    "date": "2020-07-08",
+    "title": "Vl.n.z., kterým se ruší zák. opatření Senátu č. 340/2013 Sb.",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 65,
+      "no": 82,
+      "abstain": 43,
+      "absent": 7,
+      "not_logged": 3
+    },
+    "temata": [
+      "chemická zbraň",
       "chemický výrobek",
       "mezinárodní úmluva",
       "nebezpečná látka"
@@ -7605,7 +7641,6 @@
     },
     "temata": [
       "chemická zbraň",
-      "chemická zbraō",
       "chemický výrobek",
       "mezinárodní úmluva",
       "nebezpečná látka"
@@ -7625,7 +7660,6 @@
     },
     "temata": [
       "chemická zbraň",
-      "chemická zbraō",
       "chemický výrobek",
       "mezinárodní úmluva",
       "nebezpečná látka"
@@ -7645,7 +7679,6 @@
     },
     "temata": [
       "chemická zbraň",
-      "chemická zbraō",
       "chemický výrobek",
       "mezinárodní úmluva",
       "nebezpečná látka"
@@ -7665,7 +7698,6 @@
     },
     "temata": [
       "chemická zbraň",
-      "chemická zbraō",
       "chemický výrobek",
       "mezinárodní úmluva",
       "nebezpečná látka"
@@ -7685,7 +7717,6 @@
     },
     "temata": [
       "chemická zbraň",
-      "chemická zbraō",
       "chemický výrobek",
       "mezinárodní úmluva",
       "nebezpečná látka"
@@ -7705,7 +7736,6 @@
     },
     "temata": [
       "chemická zbraň",
-      "chemická zbraō",
       "chemický výrobek",
       "mezinárodní úmluva",
       "nebezpečná látka"
@@ -9847,7 +9877,6 @@
       "hlasování",
       "místní volby",
       "parlamentní volby",
-      "zpùsob hlasování",
       "způsob hlasování"
     ]
   },
@@ -9952,7 +9981,6 @@
       "hlasování",
       "místní volby",
       "parlamentní volby",
-      "zpùsob hlasování",
       "způsob hlasování"
     ]
   },
@@ -9973,7 +10001,6 @@
       "hlasování",
       "místní volby",
       "parlamentní volby",
-      "zpùsob hlasování",
       "způsob hlasování"
     ]
   },
@@ -9994,7 +10021,6 @@
       "hlasování",
       "místní volby",
       "parlamentní volby",
-      "zpùsob hlasování",
       "způsob hlasování"
     ]
   },
@@ -10200,7 +10226,6 @@
       "not_logged": 12
     },
     "temata": [
-      "distanční vzdėlávání",
       "distanční vzdělávání",
       "epidemie",
       "povinná školní docházka",
@@ -10246,7 +10271,6 @@
       "hlasování",
       "místní volby",
       "parlamentní volby",
-      "zpùsob hlasování",
       "způsob hlasování"
     ]
   },
@@ -10512,7 +10536,6 @@
       "hlasování",
       "místní volby",
       "parlamentní volby",
-      "zpùsob hlasování",
       "způsob hlasování"
     ]
   },
@@ -10533,7 +10556,6 @@
       "hlasování",
       "místní volby",
       "parlamentní volby",
-      "zpùsob hlasování",
       "způsob hlasování"
     ]
   },
@@ -10554,7 +10576,6 @@
       "hlasování",
       "místní volby",
       "parlamentní volby",
-      "zpùsob hlasování",
       "způsob hlasování"
     ]
   },
@@ -10575,7 +10596,6 @@
       "hlasování",
       "místní volby",
       "parlamentní volby",
-      "zpùsob hlasování",
       "způsob hlasování"
     ]
   },
@@ -10596,7 +10616,6 @@
       "hlasování",
       "místní volby",
       "parlamentní volby",
-      "zpùsob hlasování",
       "způsob hlasování"
     ]
   },
@@ -10617,7 +10636,6 @@
       "hlasování",
       "místní volby",
       "parlamentní volby",
-      "zpùsob hlasování",
       "způsob hlasování"
     ]
   },
@@ -11830,13 +11848,7 @@
       "absent": 97,
       "not_logged": 1
     },
-    "temata": [
-      "chov zvířat",
-      "implementující opatření státu",
-      "ochrana zvířat",
-      "správní delikt",
-      "zdraví zvíøat"
-    ]
+    "temata": []
   },
   {
     "id": 73685,
@@ -11900,7 +11912,6 @@
       "spodní voda",
       "vodní tok",
       "vodní zdroje",
-      "zmėna klimatu",
       "změna klimatu"
     ]
   },
@@ -11924,7 +11935,6 @@
       "spodní voda",
       "vodní tok",
       "vodní zdroje",
-      "zmėna klimatu",
       "změna klimatu"
     ]
   },
@@ -11948,7 +11958,6 @@
       "spodní voda",
       "vodní tok",
       "vodní zdroje",
-      "zmėna klimatu",
       "změna klimatu"
     ]
   },
@@ -12399,7 +12408,6 @@
       "spodní voda",
       "vodní tok",
       "vodní zdroje",
-      "zmėna klimatu",
       "změna klimatu"
     ]
   },
@@ -12642,6 +12650,20 @@
     "temata": []
   },
   {
+    "id": 73737,
+    "date": "2020-09-18",
+    "title": "Pořad schůze",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 70,
+      "no": 0,
+      "abstain": 20,
+      "absent": 110,
+      "not_logged": 0
+    },
+    "temata": []
+  },
+  {
     "id": 73738,
     "date": "2020-09-18",
     "title": "Pořad schůze",
@@ -12717,7 +12739,6 @@
       "spodní voda",
       "vodní tok",
       "vodní zdroje",
-      "zmėna klimatu",
       "změna klimatu"
     ]
   },
@@ -12741,7 +12762,6 @@
       "spodní voda",
       "vodní tok",
       "vodní zdroje",
-      "zmėna klimatu",
       "změna klimatu"
     ]
   },
@@ -12765,7 +12785,6 @@
       "spodní voda",
       "vodní tok",
       "vodní zdroje",
-      "zmėna klimatu",
       "změna klimatu"
     ]
   },
@@ -12789,7 +12808,6 @@
       "spodní voda",
       "vodní tok",
       "vodní zdroje",
-      "zmėna klimatu",
       "změna klimatu"
     ]
   },
@@ -12813,7 +12831,6 @@
       "spodní voda",
       "vodní tok",
       "vodní zdroje",
-      "zmėna klimatu",
       "změna klimatu"
     ]
   },
@@ -12837,7 +12854,6 @@
       "spodní voda",
       "vodní tok",
       "vodní zdroje",
-      "zmėna klimatu",
       "změna klimatu"
     ]
   },
@@ -12861,7 +12877,6 @@
       "spodní voda",
       "vodní tok",
       "vodní zdroje",
-      "zmėna klimatu",
       "změna klimatu"
     ]
   },
@@ -12885,7 +12900,6 @@
       "spodní voda",
       "vodní tok",
       "vodní zdroje",
-      "zmėna klimatu",
       "změna klimatu"
     ]
   },
@@ -12909,7 +12923,6 @@
       "spodní voda",
       "vodní tok",
       "vodní zdroje",
-      "zmėna klimatu",
       "změna klimatu"
     ]
   },
@@ -12933,7 +12946,6 @@
       "spodní voda",
       "vodní tok",
       "vodní zdroje",
-      "zmėna klimatu",
       "změna klimatu"
     ]
   },
@@ -12957,7 +12969,6 @@
       "spodní voda",
       "vodní tok",
       "vodní zdroje",
-      "zmėna klimatu",
       "změna klimatu"
     ]
   },
@@ -12981,7 +12992,6 @@
       "spodní voda",
       "vodní tok",
       "vodní zdroje",
-      "zmėna klimatu",
       "změna klimatu"
     ]
   },
@@ -13005,7 +13015,6 @@
       "spodní voda",
       "vodní tok",
       "vodní zdroje",
-      "zmėna klimatu",
       "změna klimatu"
     ]
   },
@@ -13029,7 +13038,6 @@
       "spodní voda",
       "vodní tok",
       "vodní zdroje",
-      "zmėna klimatu",
       "změna klimatu"
     ]
   },
@@ -13053,7 +13061,6 @@
       "spodní voda",
       "vodní tok",
       "vodní zdroje",
-      "zmėna klimatu",
       "změna klimatu"
     ]
   },
@@ -13077,7 +13084,6 @@
       "spodní voda",
       "vodní tok",
       "vodní zdroje",
-      "zmėna klimatu",
       "změna klimatu"
     ]
   },
@@ -13101,7 +13107,6 @@
       "spodní voda",
       "vodní tok",
       "vodní zdroje",
-      "zmėna klimatu",
       "změna klimatu"
     ]
   },
@@ -13125,7 +13130,6 @@
       "spodní voda",
       "vodní tok",
       "vodní zdroje",
-      "zmėna klimatu",
       "změna klimatu"
     ]
   },
@@ -13149,7 +13153,6 @@
       "spodní voda",
       "vodní tok",
       "vodní zdroje",
-      "zmėna klimatu",
       "změna klimatu"
     ]
   },
@@ -13173,7 +13176,6 @@
       "spodní voda",
       "vodní tok",
       "vodní zdroje",
-      "zmėna klimatu",
       "změna klimatu"
     ]
   },
@@ -13197,7 +13199,6 @@
       "spodní voda",
       "vodní tok",
       "vodní zdroje",
-      "zmėna klimatu",
       "změna klimatu"
     ]
   },
@@ -13221,7 +13222,6 @@
       "spodní voda",
       "vodní tok",
       "vodní zdroje",
-      "zmėna klimatu",
       "změna klimatu"
     ]
   },
@@ -13245,7 +13245,6 @@
       "spodní voda",
       "vodní tok",
       "vodní zdroje",
-      "zmėna klimatu",
       "změna klimatu"
     ]
   },
@@ -13269,7 +13268,6 @@
       "spodní voda",
       "vodní tok",
       "vodní zdroje",
-      "zmėna klimatu",
       "změna klimatu"
     ]
   },
@@ -13293,7 +13291,6 @@
       "spodní voda",
       "vodní tok",
       "vodní zdroje",
-      "zmėna klimatu",
       "změna klimatu"
     ]
   },
@@ -13317,7 +13314,6 @@
       "spodní voda",
       "vodní tok",
       "vodní zdroje",
-      "zmėna klimatu",
       "změna klimatu"
     ]
   },
@@ -13341,7 +13337,6 @@
       "spodní voda",
       "vodní tok",
       "vodní zdroje",
-      "zmėna klimatu",
       "změna klimatu"
     ]
   },
@@ -13365,7 +13360,6 @@
       "spodní voda",
       "vodní tok",
       "vodní zdroje",
-      "zmėna klimatu",
       "změna klimatu"
     ]
   },
@@ -13389,7 +13383,6 @@
       "spodní voda",
       "vodní tok",
       "vodní zdroje",
-      "zmėna klimatu",
       "změna klimatu"
     ]
   },
@@ -13413,7 +13406,6 @@
       "spodní voda",
       "vodní tok",
       "vodní zdroje",
-      "zmėna klimatu",
       "změna klimatu"
     ]
   },
@@ -13437,7 +13429,6 @@
       "spodní voda",
       "vodní tok",
       "vodní zdroje",
-      "zmėna klimatu",
       "změna klimatu"
     ]
   },
@@ -13461,7 +13452,6 @@
       "spodní voda",
       "vodní tok",
       "vodní zdroje",
-      "zmėna klimatu",
       "změna klimatu"
     ]
   },
@@ -13481,7 +13471,6 @@
       "atmosférické podmínky",
       "ochrana vod",
       "prevence environmentálních rizik",
-      "pøírodní riziko",
       "přírodní riziko",
       "rozvod vody",
       "sucho",
@@ -13501,12 +13490,10 @@
       "not_logged": 0
     },
     "temata": [
-      "2031 uvádìní na trh",
       "2031 uvádění na trh",
       "dokumentace",
       "normalizace",
       "prostředky zdravotnické techniky",
-      "prostųedky zdravotnické techniky",
       "technická norma"
     ]
   },
@@ -14621,7 +14608,6 @@
       "atmosférické podmínky",
       "ochrana vod",
       "prevence environmentálních rizik",
-      "pøírodní riziko",
       "přírodní riziko",
       "rozvod vody",
       "sucho",
@@ -14644,7 +14630,6 @@
       "atmosférické podmínky",
       "ochrana vod",
       "prevence environmentálních rizik",
-      "pøírodní riziko",
       "přírodní riziko",
       "rozvod vody",
       "sucho",
@@ -14667,7 +14652,6 @@
       "atmosférické podmínky",
       "ochrana vod",
       "prevence environmentálních rizik",
-      "pøírodní riziko",
       "přírodní riziko",
       "rozvod vody",
       "sucho",
@@ -14690,7 +14674,6 @@
       "atmosférické podmínky",
       "ochrana vod",
       "prevence environmentálních rizik",
-      "pøírodní riziko",
       "přírodní riziko",
       "rozvod vody",
       "sucho",
@@ -14713,7 +14696,6 @@
       "atmosférické podmínky",
       "ochrana vod",
       "prevence environmentálních rizik",
-      "pøírodní riziko",
       "přírodní riziko",
       "rozvod vody",
       "sucho",
@@ -14736,7 +14718,6 @@
       "atmosférické podmínky",
       "ochrana vod",
       "prevence environmentálních rizik",
-      "pøírodní riziko",
       "přírodní riziko",
       "rozvod vody",
       "sucho",
@@ -14759,7 +14740,6 @@
       "atmosférické podmínky",
       "ochrana vod",
       "prevence environmentálních rizik",
-      "pøírodní riziko",
       "přírodní riziko",
       "rozvod vody",
       "sucho",
@@ -14782,7 +14762,6 @@
       "atmosférické podmínky",
       "ochrana vod",
       "prevence environmentálních rizik",
-      "pøírodní riziko",
       "přírodní riziko",
       "rozvod vody",
       "sucho",
@@ -14805,7 +14784,6 @@
       "atmosférické podmínky",
       "ochrana vod",
       "prevence environmentálních rizik",
-      "pøírodní riziko",
       "přírodní riziko",
       "rozvod vody",
       "sucho",
@@ -14828,7 +14806,6 @@
       "atmosférické podmínky",
       "ochrana vod",
       "prevence environmentálních rizik",
-      "pøírodní riziko",
       "přírodní riziko",
       "rozvod vody",
       "sucho",
@@ -14851,7 +14828,6 @@
       "atmosférické podmínky",
       "ochrana vod",
       "prevence environmentálních rizik",
-      "pøírodní riziko",
       "přírodní riziko",
       "rozvod vody",
       "sucho",
@@ -14874,7 +14850,6 @@
       "atmosférické podmínky",
       "ochrana vod",
       "prevence environmentálních rizik",
-      "pøírodní riziko",
       "přírodní riziko",
       "rozvod vody",
       "sucho",
@@ -14897,7 +14872,6 @@
       "atmosférické podmínky",
       "ochrana vod",
       "prevence environmentálních rizik",
-      "pøírodní riziko",
       "přírodní riziko",
       "rozvod vody",
       "sucho",
@@ -14920,7 +14894,6 @@
       "atmosférické podmínky",
       "ochrana vod",
       "prevence environmentálních rizik",
-      "pøírodní riziko",
       "přírodní riziko",
       "rozvod vody",
       "sucho",
@@ -14964,7 +14937,6 @@
       "atmosférické podmínky",
       "ochrana vod",
       "prevence environmentálních rizik",
-      "pøírodní riziko",
       "přírodní riziko",
       "rozvod vody",
       "sucho",
@@ -14987,7 +14959,6 @@
       "atmosférické podmínky",
       "ochrana vod",
       "prevence environmentálních rizik",
-      "pøírodní riziko",
       "přírodní riziko",
       "rozvod vody",
       "sucho",
@@ -15010,7 +14981,6 @@
       "atmosférické podmínky",
       "ochrana vod",
       "prevence environmentálních rizik",
-      "pøírodní riziko",
       "přírodní riziko",
       "rozvod vody",
       "sucho",
@@ -15033,7 +15003,6 @@
       "atmosférické podmínky",
       "ochrana vod",
       "prevence environmentálních rizik",
-      "pøírodní riziko",
       "přírodní riziko",
       "rozvod vody",
       "sucho",
@@ -15060,7 +15029,6 @@
       "systém vlastnictví půdy",
       "vlastnictví",
       "zhoršování životního prostředí",
-      "zmėna klimatu",
       "změna klimatu"
     ]
   },
@@ -15308,12 +15276,11 @@
     },
     "temata": [
       "dopravní infrastruktura",
-      "energetická rozvodná sí",
       "energetická rozvodná síť",
       "správní řízení",
       "stavební povolení",
-      "vodohospodářské stavby",
-      "územní plánování"
+      "územní plánování",
+      "vodohospodářské stavby"
     ]
   },
   {
@@ -15395,9 +15362,8 @@
     "temata": [
       "cestovní ruch",
       "daň",
-      "daň z přidané hodnoty",
       "daňová asignace",
-      "daōová asignace",
+      "daň z přidané hodnoty",
       "podpora odbytu"
     ]
   },
@@ -15513,10 +15479,9 @@
       "not_logged": 2
     },
     "temata": [
-      "NATO",
       "armáda",
       "nadnárodní ozbrojené síly",
-      "udrování míru",
+      "NATO",
       "udržování míru",
       "vojenská spolupráce",
       "vojska v zahraničí"
@@ -15601,13 +15566,12 @@
       "not_logged": 2
     },
     "temata": [
-      "Organizace Varavské smlouvy",
-      "Organizace Varšavské smlouvy",
+      "Československo",
       "náhrada škody",
       "oběť",
       "odškodnění",
-      "vojenská okupace",
-      "Československo"
+      "Organizace Varšavské smlouvy",
+      "vojenská okupace"
     ]
   },
   {
@@ -15623,13 +15587,12 @@
       "not_logged": 2
     },
     "temata": [
-      "Organizace Varavské smlouvy",
-      "Organizace Varšavské smlouvy",
+      "Československo",
       "náhrada škody",
       "oběť",
       "odškodnění",
-      "vojenská okupace",
-      "Československo"
+      "Organizace Varšavské smlouvy",
+      "vojenská okupace"
     ]
   },
   {
@@ -15681,15 +15644,14 @@
       "not_logged": 2
     },
     "temata": [
+      "čistá technologie",
       "elektrická energie",
       "jaderná elektrárna",
       "jaderná energie",
       "obnovitelná energie",
       "ochrana životního prostředí",
       "zachycování a ukládání oxidu uhličitého",
-      "zaruèená cena",
-      "zaručená cena",
-      "čistá technologie"
+      "zaručená cena"
     ]
   },
   {
@@ -15705,15 +15667,14 @@
       "not_logged": 2
     },
     "temata": [
+      "čistá technologie",
       "elektrická energie",
       "jaderná elektrárna",
       "jaderná energie",
       "obnovitelná energie",
       "ochrana životního prostředí",
       "zachycování a ukládání oxidu uhličitého",
-      "zaruèená cena",
-      "zaručená cena",
-      "čistá technologie"
+      "zaručená cena"
     ]
   },
   {
@@ -15729,15 +15690,14 @@
       "not_logged": 2
     },
     "temata": [
+      "čistá technologie",
       "elektrická energie",
       "jaderná elektrárna",
       "jaderná energie",
       "obnovitelná energie",
       "ochrana životního prostředí",
       "zachycování a ukládání oxidu uhličitého",
-      "zaruèená cena",
-      "zaručená cena",
-      "čistá technologie"
+      "zaručená cena"
     ]
   },
   {
@@ -15753,15 +15713,14 @@
       "not_logged": 2
     },
     "temata": [
+      "čistá technologie",
       "elektrická energie",
       "jaderná elektrárna",
       "jaderná energie",
       "obnovitelná energie",
       "ochrana životního prostředí",
       "zachycování a ukládání oxidu uhličitého",
-      "zaruèená cena",
-      "zaručená cena",
-      "čistá technologie"
+      "zaručená cena"
     ]
   },
   {
@@ -15777,15 +15736,14 @@
       "not_logged": 2
     },
     "temata": [
+      "čistá technologie",
       "elektrická energie",
       "jaderná elektrárna",
       "jaderná energie",
       "obnovitelná energie",
       "ochrana životního prostředí",
       "zachycování a ukládání oxidu uhličitého",
-      "zaruèená cena",
-      "zaručená cena",
-      "čistá technologie"
+      "zaručená cena"
     ]
   },
   {
@@ -16665,7 +16623,6 @@
     "temata": [
       "boj proti zločinu",
       "celní spolupráce",
-      "finanèní instituce",
       "finanční instituce",
       "hospodářský trestný čin",
       "organizovaný zločin",
@@ -17002,7 +16959,6 @@
       "spodní voda",
       "vodní tok",
       "vodní zdroje",
-      "zmėna klimatu",
       "změna klimatu"
     ]
   },
@@ -17026,7 +16982,6 @@
       "spodní voda",
       "vodní tok",
       "vodní zdroje",
-      "zmėna klimatu",
       "změna klimatu"
     ]
   },
@@ -17050,7 +17005,6 @@
       "spodní voda",
       "vodní tok",
       "vodní zdroje",
-      "zmėna klimatu",
       "změna klimatu"
     ]
   },
@@ -17074,7 +17028,6 @@
       "spodní voda",
       "vodní tok",
       "vodní zdroje",
-      "zmėna klimatu",
       "změna klimatu"
     ]
   },
@@ -17098,7 +17051,6 @@
       "spodní voda",
       "vodní tok",
       "vodní zdroje",
-      "zmėna klimatu",
       "změna klimatu"
     ]
   },
@@ -17122,7 +17074,6 @@
       "spodní voda",
       "vodní tok",
       "vodní zdroje",
-      "zmėna klimatu",
       "změna klimatu"
     ]
   },
@@ -17146,7 +17097,6 @@
       "spodní voda",
       "vodní tok",
       "vodní zdroje",
-      "zmėna klimatu",
       "změna klimatu"
     ]
   },
@@ -17170,7 +17120,6 @@
       "spodní voda",
       "vodní tok",
       "vodní zdroje",
-      "zmėna klimatu",
       "změna klimatu"
     ]
   },
@@ -17194,7 +17143,6 @@
       "spodní voda",
       "vodní tok",
       "vodní zdroje",
-      "zmėna klimatu",
       "změna klimatu"
     ]
   },
@@ -17218,7 +17166,6 @@
       "spodní voda",
       "vodní tok",
       "vodní zdroje",
-      "zmėna klimatu",
       "změna klimatu"
     ]
   },
@@ -17242,7 +17189,6 @@
       "spodní voda",
       "vodní tok",
       "vodní zdroje",
-      "zmėna klimatu",
       "změna klimatu"
     ]
   },
@@ -17266,7 +17212,6 @@
       "spodní voda",
       "vodní tok",
       "vodní zdroje",
-      "zmėna klimatu",
       "změna klimatu"
     ]
   },
@@ -17290,7 +17235,6 @@
       "spodní voda",
       "vodní tok",
       "vodní zdroje",
-      "zmėna klimatu",
       "změna klimatu"
     ]
   },
@@ -17804,12 +17748,11 @@
       "not_logged": 1
     },
     "temata": [
-      "NATO",
       "cizí státní občan",
       "epidemie",
       "humanitární pomoc",
       "lékař",
-      "nemocniční zaøízení",
+      "NATO",
       "nemocniční zařízení",
       "vojenská spolupráce"
     ]
@@ -18952,12 +18895,10 @@
       "not_logged": 0
     },
     "temata": [
-      "daň z příjmu fyzických osob",
       "daň z příjmů",
+      "daň z příjmu fyzických osob",
       "osoba samostatně výdělečně činná",
-      "pauální daō",
       "paušální daň",
-      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost",
       "sociální zabezpečení"
     ]
@@ -18975,12 +18916,11 @@
       "not_logged": 0
     },
     "temata": [
+      "činžovní dům",
       "digitální smlouva",
       "družstevní dům",
       "hotelový průmysl",
       "kolaborativní ekonomika",
-      "činovní dųm",
-      "činžovní dům",
       "živnost",
       "živnostník"
     ]
@@ -18998,12 +18938,11 @@
       "not_logged": 0
     },
     "temata": [
+      "činžovní dům",
       "digitální smlouva",
       "družstevní dům",
       "hotelový průmysl",
       "kolaborativní ekonomika",
-      "činovní dųm",
-      "činžovní dům",
       "živnost",
       "živnostník"
     ]
@@ -19021,12 +18960,11 @@
       "not_logged": 0
     },
     "temata": [
+      "činžovní dům",
       "digitální smlouva",
       "družstevní dům",
       "hotelový průmysl",
       "kolaborativní ekonomika",
-      "činovní dųm",
-      "činžovní dům",
       "živnost",
       "živnostník"
     ]
@@ -19044,12 +18982,11 @@
       "not_logged": 0
     },
     "temata": [
+      "činžovní dům",
       "digitální smlouva",
       "družstevní dům",
       "hotelový průmysl",
       "kolaborativní ekonomika",
-      "činovní dųm",
-      "činžovní dům",
       "živnost",
       "živnostník"
     ]
@@ -19093,7 +19030,6 @@
       "odškodnění",
       "osoba samostatně výdělečně činná",
       "podnikatel",
-      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -19114,7 +19050,6 @@
       "odškodnění",
       "osoba samostatně výdělečně činná",
       "podnikatel",
-      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -19135,7 +19070,6 @@
       "odškodnění",
       "osoba samostatně výdělečně činná",
       "podnikatel",
-      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -19282,12 +19216,11 @@
       "not_logged": 1
     },
     "temata": [
+      "činžovní dům",
       "digitální smlouva",
       "družstevní dům",
       "hotelový průmysl",
       "kolaborativní ekonomika",
-      "činovní dųm",
-      "činžovní dům",
       "živnost",
       "živnostník"
     ]
@@ -19305,12 +19238,11 @@
       "not_logged": 1
     },
     "temata": [
+      "činžovní dům",
       "digitální smlouva",
       "družstevní dům",
       "hotelový průmysl",
       "kolaborativní ekonomika",
-      "činovní dųm",
-      "činžovní dům",
       "živnost",
       "živnostník"
     ]
@@ -19328,12 +19260,11 @@
       "not_logged": 1
     },
     "temata": [
+      "činžovní dům",
       "digitální smlouva",
       "družstevní dům",
       "hotelový průmysl",
       "kolaborativní ekonomika",
-      "činovní dųm",
-      "činžovní dům",
       "živnost",
       "živnostník"
     ]
@@ -19351,12 +19282,11 @@
       "not_logged": 1
     },
     "temata": [
+      "činžovní dům",
       "digitální smlouva",
       "družstevní dům",
       "hotelový průmysl",
       "kolaborativní ekonomika",
-      "činovní dųm",
-      "činžovní dům",
       "živnost",
       "živnostník"
     ]
@@ -19374,12 +19304,11 @@
       "not_logged": 1
     },
     "temata": [
+      "činžovní dům",
       "digitální smlouva",
       "družstevní dům",
       "hotelový průmysl",
       "kolaborativní ekonomika",
-      "činovní dųm",
-      "činžovní dům",
       "živnost",
       "živnostník"
     ]
@@ -19397,12 +19326,11 @@
       "not_logged": 1
     },
     "temata": [
+      "činžovní dům",
       "digitální smlouva",
       "družstevní dům",
       "hotelový průmysl",
       "kolaborativní ekonomika",
-      "činovní dųm",
-      "činžovní dům",
       "živnost",
       "živnostník"
     ]
@@ -19420,12 +19348,11 @@
       "not_logged": 1
     },
     "temata": [
+      "činžovní dům",
       "digitální smlouva",
       "družstevní dům",
       "hotelový průmysl",
       "kolaborativní ekonomika",
-      "činovní dųm",
-      "činžovní dům",
       "živnost",
       "živnostník"
     ]
@@ -19443,12 +19370,11 @@
       "not_logged": 1
     },
     "temata": [
+      "činžovní dům",
       "digitální smlouva",
       "družstevní dům",
       "hotelový průmysl",
       "kolaborativní ekonomika",
-      "činovní dųm",
-      "činžovní dům",
       "živnost",
       "živnostník"
     ]
@@ -19466,12 +19392,11 @@
       "not_logged": 1
     },
     "temata": [
+      "činžovní dům",
       "digitální smlouva",
       "družstevní dům",
       "hotelový průmysl",
       "kolaborativní ekonomika",
-      "činovní dųm",
-      "činžovní dům",
       "živnost",
       "živnostník"
     ]
@@ -19489,12 +19414,11 @@
       "not_logged": 1
     },
     "temata": [
+      "činžovní dům",
       "digitální smlouva",
       "družstevní dům",
       "hotelový průmysl",
       "kolaborativní ekonomika",
-      "činovní dųm",
-      "činžovní dům",
       "živnost",
       "živnostník"
     ]
@@ -19512,12 +19436,11 @@
       "not_logged": 1
     },
     "temata": [
+      "činžovní dům",
       "digitální smlouva",
       "družstevní dům",
       "hotelový průmysl",
       "kolaborativní ekonomika",
-      "činovní dųm",
-      "činžovní dům",
       "živnost",
       "živnostník"
     ]
@@ -19604,8 +19527,7 @@
       "kulturní akce",
       "odškodnění",
       "peníze",
-      "zábavní průmysl",
-      "zábavní prųmysl"
+      "zábavní průmysl"
     ]
   },
   {
@@ -19625,7 +19547,6 @@
       "odškodnění",
       "osoba samostatně výdělečně činná",
       "podnikatel",
-      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -19646,7 +19567,6 @@
       "odškodnění",
       "osoba samostatně výdělečně činná",
       "podnikatel",
-      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -19667,7 +19587,6 @@
       "odškodnění",
       "osoba samostatně výdělečně činná",
       "podnikatel",
-      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -19688,7 +19607,6 @@
       "odškodnění",
       "osoba samostatně výdělečně činná",
       "podnikatel",
-      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -19709,7 +19627,6 @@
       "odškodnění",
       "osoba samostatně výdělečně činná",
       "podnikatel",
-      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -19730,7 +19647,6 @@
       "odškodnění",
       "osoba samostatně výdělečně činná",
       "podnikatel",
-      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -19751,7 +19667,6 @@
       "odškodnění",
       "osoba samostatně výdělečně činná",
       "podnikatel",
-      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -19772,7 +19687,6 @@
       "odškodnění",
       "osoba samostatně výdělečně činná",
       "podnikatel",
-      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -19793,7 +19707,6 @@
       "odškodnění",
       "osoba samostatně výdělečně činná",
       "podnikatel",
-      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -19814,7 +19727,6 @@
       "odškodnění",
       "osoba samostatně výdělečně činná",
       "podnikatel",
-      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -19835,7 +19747,6 @@
       "odškodnění",
       "osoba samostatně výdělečně činná",
       "podnikatel",
-      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -19856,7 +19767,6 @@
       "odškodnění",
       "osoba samostatně výdělečně činná",
       "podnikatel",
-      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -19877,7 +19787,6 @@
       "odškodnění",
       "osoba samostatně výdělečně činná",
       "podnikatel",
-      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -19898,7 +19807,6 @@
       "odškodnění",
       "osoba samostatně výdělečně činná",
       "podnikatel",
-      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -20047,15 +19955,12 @@
       "not_logged": 0
     },
     "temata": [
+      "řízená ekonomika",
       "státní podpora",
-      "záruka",
-      "záruka úvěru",
-      "øízená ekonomika",
-      "úvėr",
-      "úvėrová politika",
       "úvěr",
       "úvěrová politika",
-      "řízená ekonomika"
+      "záruka",
+      "záruka úvěru"
     ]
   },
   {
@@ -20094,7 +19999,6 @@
       "odškodnění",
       "osoba samostatně výdělečně činná",
       "podnikatel",
-      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -20115,7 +20019,6 @@
       "odškodnění",
       "osoba samostatně výdělečně činná",
       "podnikatel",
-      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -20136,7 +20039,6 @@
       "odškodnění",
       "osoba samostatně výdělečně činná",
       "podnikatel",
-      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -20157,7 +20059,6 @@
       "odškodnění",
       "osoba samostatně výdělečně činná",
       "podnikatel",
-      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -20178,7 +20079,6 @@
       "odškodnění",
       "osoba samostatně výdělečně činná",
       "podnikatel",
-      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -20199,7 +20099,6 @@
       "odškodnění",
       "osoba samostatně výdělečně činná",
       "podnikatel",
-      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -20386,14 +20285,13 @@
       "not_logged": 0
     },
     "temata": [
-      "Rada Evropy",
       "audiovizuální dokument",
       "audiovizuální koprodukce",
+      "Česká republika",
       "filmová tvorba",
       "filmový průmysl",
-      "filmový prųmysl",
       "financování",
-      "Česká republika"
+      "Rada Evropy"
     ]
   },
   {
@@ -20471,13 +20369,11 @@
       "not_logged": 0
     },
     "temata": [
-      "Svėtová potovní unie",
-      "Světová poštovní unie",
-      "potovní finanční sluby",
+      "Česká republika",
       "poštovní finanční služby",
       "poštovní služba",
       "ratifikace dohody",
-      "Česká republika"
+      "Světová poštovní unie"
     ]
   },
   {
@@ -20495,7 +20391,6 @@
     "temata": [
       "ratifikace dohody",
       "regulace rybolovu",
-      "rybáøská loï",
       "rybářská loď",
       "velryba"
     ]
@@ -20532,11 +20427,10 @@
       "not_logged": 1
     },
     "temata": [
-      "Kyrgyzstán",
+      "Česká republika",
       "daňová úmluva",
-      "daōová úmluva",
       "dvojí zdanění",
-      "Česká republika"
+      "Kyrgyzstán"
     ]
   },
   {
@@ -20699,10 +20593,9 @@
     },
     "temata": [
       "Botswana",
+      "Česká republika",
       "daňová úmluva",
-      "daōová úmluva",
-      "dvojí zdanění",
-      "Česká republika"
+      "dvojí zdanění"
     ]
   },
   {
@@ -20718,12 +20611,10 @@
       "not_logged": 0
     },
     "temata": [
-      "Bangladé",
       "Bangladéš",
+      "Česká republika",
       "daňová úmluva",
-      "daōová úmluva",
-      "dvojí zdanění",
-      "Česká republika"
+      "dvojí zdanění"
     ]
   },
   {
@@ -20760,13 +20651,10 @@
       "not_logged": 0
     },
     "temata": [
-      "Mezinárodní námoøní organizace",
-      "Mezinárodní námořní organizace",
-      "loï",
       "loď",
+      "Mezinárodní námořní organizace",
       "mezinárodní úmluva",
       "nákladní loď",
-      "námoøní bezpečnost",
       "námořní bezpečnost",
       "námořní doprava",
       "ratifikace dohody"
@@ -20929,8 +20817,7 @@
       "kulturní akce",
       "odškodnění",
       "peníze",
-      "zábavní průmysl",
-      "zábavní prųmysl"
+      "zábavní průmysl"
     ]
   },
   {
@@ -20950,8 +20837,7 @@
       "kulturní akce",
       "odškodnění",
       "peníze",
-      "zábavní průmysl",
-      "zábavní prųmysl"
+      "zábavní průmysl"
     ]
   },
   {
@@ -20971,8 +20857,7 @@
       "kulturní akce",
       "odškodnění",
       "peníze",
-      "zábavní průmysl",
-      "zábavní prųmysl"
+      "zábavní průmysl"
     ]
   },
   {
@@ -20992,8 +20877,7 @@
       "kulturní akce",
       "odškodnění",
       "peníze",
-      "zábavní průmysl",
-      "zábavní prųmysl"
+      "zábavní průmysl"
     ]
   },
   {
@@ -21013,8 +20897,7 @@
       "kulturní akce",
       "odškodnění",
       "peníze",
-      "zábavní průmysl",
-      "zábavní prųmysl"
+      "zábavní průmysl"
     ]
   },
   {
@@ -21056,8 +20939,7 @@
       "kulturní akce",
       "odškodnění",
       "peníze",
-      "zábavní průmysl",
-      "zábavní prųmysl"
+      "zábavní průmysl"
     ]
   },
   {
@@ -21077,8 +20959,7 @@
       "kulturní akce",
       "odškodnění",
       "peníze",
-      "zábavní průmysl",
-      "zábavní prųmysl"
+      "zábavní průmysl"
     ]
   },
   {
@@ -21098,8 +20979,7 @@
       "kulturní akce",
       "odškodnění",
       "peníze",
-      "zábavní průmysl",
-      "zábavní prųmysl"
+      "zábavní průmysl"
     ]
   },
   {
@@ -21119,8 +20999,7 @@
       "kulturní akce",
       "odškodnění",
       "peníze",
-      "zábavní průmysl",
-      "zábavní prųmysl"
+      "zábavní průmysl"
     ]
   },
   {
@@ -21140,8 +21019,7 @@
       "kulturní akce",
       "odškodnění",
       "peníze",
-      "zábavní průmysl",
-      "zábavní prųmysl"
+      "zábavní průmysl"
     ]
   },
   {
@@ -21180,8 +21058,7 @@
       "kulturní akce",
       "odškodnění",
       "peníze",
-      "zábavní průmysl",
-      "zábavní prųmysl"
+      "zábavní průmysl"
     ]
   },
   {
@@ -21201,8 +21078,7 @@
       "kulturní akce",
       "odškodnění",
       "peníze",
-      "zábavní průmysl",
-      "zábavní prųmysl"
+      "zábavní průmysl"
     ]
   },
   {
@@ -21222,8 +21098,7 @@
       "kulturní akce",
       "odškodnění",
       "peníze",
-      "zábavní průmysl",
-      "zábavní prųmysl"
+      "zábavní průmysl"
     ]
   },
   {
@@ -21243,8 +21118,7 @@
       "kulturní akce",
       "odškodnění",
       "peníze",
-      "zábavní průmysl",
-      "zábavní prųmysl"
+      "zábavní průmysl"
     ]
   },
   {
@@ -21264,8 +21138,7 @@
       "kulturní akce",
       "odškodnění",
       "peníze",
-      "zábavní průmysl",
-      "zábavní prųmysl"
+      "zábavní průmysl"
     ]
   },
   {
@@ -21285,8 +21158,7 @@
       "kulturní akce",
       "odškodnění",
       "peníze",
-      "zábavní průmysl",
-      "zábavní prųmysl"
+      "zábavní průmysl"
     ]
   },
   {
@@ -21456,12 +21328,11 @@
       "not_logged": 2
     },
     "temata": [
-      "NATO",
       "cizí státní občan",
       "epidemie",
       "humanitární pomoc",
       "lékař",
-      "nemocniční zaøízení",
+      "NATO",
       "nemocniční zařízení",
       "vojenská spolupráce"
     ]
@@ -21665,6 +21536,20 @@
     "temata": []
   },
   {
+    "id": 74199,
+    "date": "2020-10-27",
+    "title": "Usn. Hizballáh",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 67,
+      "no": 7,
+      "abstain": 6,
+      "absent": 117,
+      "not_logged": 3
+    },
+    "temata": []
+  },
+  {
     "id": 74200,
     "date": "2020-10-27",
     "title": "Usn. Hizballáh",
@@ -21747,12 +21632,11 @@
       "not_logged": 2
     },
     "temata": [
-      "NATO",
       "cizí státní občan",
       "epidemie",
       "humanitární pomoc",
       "lékař",
-      "nemocniční zaøízení",
+      "NATO",
       "nemocniční zařízení",
       "vojenská spolupráce"
     ]
@@ -21770,12 +21654,11 @@
       "not_logged": 0
     },
     "temata": [
-      "NATO",
       "cizí státní občan",
       "epidemie",
       "humanitární pomoc",
       "lékař",
-      "nemocniční zaøízení",
+      "NATO",
       "nemocniční zařízení",
       "vojenská spolupráce"
     ]
@@ -21793,12 +21676,11 @@
       "not_logged": 0
     },
     "temata": [
-      "NATO",
       "cizí státní občan",
       "epidemie",
       "humanitární pomoc",
       "lékař",
-      "nemocniční zaøízení",
+      "NATO",
       "nemocniční zařízení",
       "vojenská spolupráce"
     ]
@@ -21816,12 +21698,11 @@
       "not_logged": 0
     },
     "temata": [
-      "NATO",
       "cizí státní občan",
       "epidemie",
       "humanitární pomoc",
       "lékař",
-      "nemocniční zaøízení",
+      "NATO",
       "nemocniční zařízení",
       "vojenská spolupráce"
     ]
@@ -21839,12 +21720,11 @@
       "not_logged": 0
     },
     "temata": [
-      "NATO",
       "cizí státní občan",
       "epidemie",
       "humanitární pomoc",
       "lékař",
-      "nemocniční zaøízení",
+      "NATO",
       "nemocniční zařízení",
       "vojenská spolupráce"
     ]
@@ -21862,12 +21742,11 @@
       "not_logged": 0
     },
     "temata": [
-      "NATO",
       "cizí státní občan",
       "epidemie",
       "humanitární pomoc",
       "lékař",
-      "nemocniční zaøízení",
+      "NATO",
       "nemocniční zařízení",
       "vojenská spolupráce"
     ]
@@ -21885,12 +21764,11 @@
       "not_logged": 0
     },
     "temata": [
-      "NATO",
       "cizí státní občan",
       "epidemie",
       "humanitární pomoc",
       "lékař",
-      "nemocniční zaøízení",
+      "NATO",
       "nemocniční zařízení",
       "vojenská spolupráce"
     ]
@@ -21908,12 +21786,11 @@
       "not_logged": 0
     },
     "temata": [
-      "NATO",
       "cizí státní občan",
       "epidemie",
       "humanitární pomoc",
       "lékař",
-      "nemocniční zaøízení",
+      "NATO",
       "nemocniční zařízení",
       "vojenská spolupráce"
     ]
@@ -21931,12 +21808,11 @@
       "not_logged": 0
     },
     "temata": [
-      "NATO",
       "cizí státní občan",
       "epidemie",
       "humanitární pomoc",
       "lékař",
-      "nemocniční zaøízení",
+      "NATO",
       "nemocniční zařízení",
       "vojenská spolupráce"
     ]
@@ -22850,10 +22726,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -22873,10 +22748,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -22896,10 +22770,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -22919,10 +22792,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -22942,10 +22814,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -22965,10 +22836,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -22988,10 +22858,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -23011,10 +22880,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -23034,10 +22902,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -23057,10 +22924,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -23080,10 +22946,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -23103,10 +22968,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -23133,10 +22997,9 @@
       "ochrana životního prostředí",
       "orgány veřejné správy",
       "průzkum nerostných surovin",
-      "prųzkum nerostných surovin",
+      "říční plavba",
       "stavební právo",
-      "zemědělská půda",
-      "říční plavba"
+      "zemědělská půda"
     ]
   },
   {
@@ -23163,10 +23026,9 @@
       "ochrana životního prostředí",
       "orgány veřejné správy",
       "průzkum nerostných surovin",
-      "prųzkum nerostných surovin",
+      "říční plavba",
       "stavební právo",
-      "zemědělská půda",
-      "říční plavba"
+      "zemědělská půda"
     ]
   },
   {
@@ -23193,10 +23055,9 @@
       "ochrana životního prostředí",
       "orgány veřejné správy",
       "průzkum nerostných surovin",
-      "prųzkum nerostných surovin",
+      "říční plavba",
       "stavební právo",
-      "zemědělská půda",
-      "říční plavba"
+      "zemědělská půda"
     ]
   },
   {
@@ -23223,10 +23084,9 @@
       "ochrana životního prostředí",
       "orgány veřejné správy",
       "průzkum nerostných surovin",
-      "prųzkum nerostných surovin",
+      "říční plavba",
       "stavební právo",
-      "zemědělská půda",
-      "říční plavba"
+      "zemědělská půda"
     ]
   },
   {
@@ -23414,7 +23274,6 @@
       "odškodnění",
       "osoba samostatně výdělečně činná",
       "podnikatel",
-      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -23435,7 +23294,6 @@
       "odškodnění",
       "osoba samostatně výdělečně činná",
       "podnikatel",
-      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -23731,7 +23589,6 @@
       "veřejný majetek",
       "vlastnictví",
       "vodní zdroje",
-      "základní ivotní potøeby",
       "základní životní potřeby"
     ]
   },
@@ -23753,7 +23610,6 @@
       "veřejný majetek",
       "vlastnictví",
       "vodní zdroje",
-      "základní ivotní potøeby",
       "základní životní potřeby"
     ]
   },
@@ -23775,7 +23631,6 @@
       "veřejný majetek",
       "vlastnictví",
       "vodní zdroje",
-      "základní ivotní potøeby",
       "základní životní potřeby"
     ]
   },
@@ -23797,7 +23652,6 @@
       "veřejný majetek",
       "vlastnictví",
       "vodní zdroje",
-      "základní ivotní potøeby",
       "základní životní potřeby"
     ]
   },
@@ -23819,7 +23673,6 @@
       "veřejný majetek",
       "vlastnictví",
       "vodní zdroje",
-      "základní ivotní potøeby",
       "základní životní potřeby"
     ]
   },
@@ -24184,10 +24037,9 @@
       "epidemiologie",
       "nemoc",
       "prostředky zdravotnické techniky",
-      "prostųedky zdravotnické techniky",
       "státní pojištění",
-      "zdravotní pojištění",
-      "zdraví veřejnosti"
+      "zdraví veřejnosti",
+      "zdravotní pojištění"
     ]
   },
   {
@@ -24363,7 +24215,6 @@
       "not_logged": 0
     },
     "temata": [
-      "pøiputėní ke zkouce",
       "připuštění ke zkoušce",
       "student",
       "vysokoškolské vzdělání",
@@ -24790,10 +24641,9 @@
       "epidemiologie",
       "nemoc",
       "prostředky zdravotnické techniky",
-      "prostųedky zdravotnické techniky",
       "státní pojištění",
-      "zdravotní pojištění",
-      "zdraví veřejnosti"
+      "zdraví veřejnosti",
+      "zdravotní pojištění"
     ]
   },
   {
@@ -24813,10 +24663,9 @@
       "epidemiologie",
       "nemoc",
       "prostředky zdravotnické techniky",
-      "prostųedky zdravotnické techniky",
       "státní pojištění",
-      "zdravotní pojištění",
-      "zdraví veřejnosti"
+      "zdraví veřejnosti",
+      "zdravotní pojištění"
     ]
   },
   {
@@ -24836,10 +24685,9 @@
       "epidemiologie",
       "nemoc",
       "prostředky zdravotnické techniky",
-      "prostųedky zdravotnické techniky",
       "státní pojištění",
-      "zdravotní pojištění",
-      "zdraví veřejnosti"
+      "zdraví veřejnosti",
+      "zdravotní pojištění"
     ]
   },
   {
@@ -24859,10 +24707,9 @@
       "epidemiologie",
       "nemoc",
       "prostředky zdravotnické techniky",
-      "prostųedky zdravotnické techniky",
       "státní pojištění",
-      "zdravotní pojištění",
-      "zdraví veřejnosti"
+      "zdraví veřejnosti",
+      "zdravotní pojištění"
     ]
   },
   {
@@ -24882,10 +24729,9 @@
       "epidemiologie",
       "nemoc",
       "prostředky zdravotnické techniky",
-      "prostųedky zdravotnické techniky",
       "státní pojištění",
-      "zdravotní pojištění",
-      "zdraví veřejnosti"
+      "zdraví veřejnosti",
+      "zdravotní pojištění"
     ]
   },
   {
@@ -24905,10 +24751,9 @@
       "epidemiologie",
       "nemoc",
       "prostředky zdravotnické techniky",
-      "prostųedky zdravotnické techniky",
       "státní pojištění",
-      "zdravotní pojištění",
-      "zdraví veřejnosti"
+      "zdraví veřejnosti",
+      "zdravotní pojištění"
     ]
   },
   {
@@ -24928,10 +24773,9 @@
       "epidemiologie",
       "nemoc",
       "prostředky zdravotnické techniky",
-      "prostųedky zdravotnické techniky",
       "státní pojištění",
-      "zdravotní pojištění",
-      "zdraví veřejnosti"
+      "zdraví veřejnosti",
+      "zdravotní pojištění"
     ]
   },
   {
@@ -24951,10 +24795,9 @@
       "epidemiologie",
       "nemoc",
       "prostředky zdravotnické techniky",
-      "prostųedky zdravotnické techniky",
       "státní pojištění",
-      "zdravotní pojištění",
-      "zdraví veřejnosti"
+      "zdraví veřejnosti",
+      "zdravotní pojištění"
     ]
   },
   {
@@ -24974,10 +24817,9 @@
       "epidemiologie",
       "nemoc",
       "prostředky zdravotnické techniky",
-      "prostųedky zdravotnické techniky",
       "státní pojištění",
-      "zdravotní pojištění",
-      "zdraví veřejnosti"
+      "zdraví veřejnosti",
+      "zdravotní pojištění"
     ]
   },
   {
@@ -24997,10 +24839,9 @@
       "epidemiologie",
       "nemoc",
       "prostředky zdravotnické techniky",
-      "prostųedky zdravotnické techniky",
       "státní pojištění",
-      "zdravotní pojištění",
-      "zdraví veřejnosti"
+      "zdraví veřejnosti",
+      "zdravotní pojištění"
     ]
   },
   {
@@ -25040,9 +24881,8 @@
       "informační systém",
       "internet",
       "legislativa",
-      "územní samospráva",
-      "úøední list",
-      "úřední list"
+      "úřední list",
+      "územní samospráva"
     ]
   },
   {
@@ -25061,9 +24901,8 @@
       "informační systém",
       "internet",
       "legislativa",
-      "územní samospráva",
-      "úøední list",
-      "úřední list"
+      "úřední list",
+      "územní samospráva"
     ]
   },
   {
@@ -25082,9 +24921,8 @@
       "informační systém",
       "internet",
       "legislativa",
-      "územní samospráva",
-      "úøední list",
-      "úřední list"
+      "úřední list",
+      "územní samospráva"
     ]
   },
   {
@@ -25103,9 +24941,8 @@
       "informační systém",
       "internet",
       "legislativa",
-      "územní samospráva",
-      "úøední list",
-      "úřední list"
+      "úřední list",
+      "územní samospráva"
     ]
   },
   {
@@ -25124,9 +24961,8 @@
       "informační systém",
       "internet",
       "legislativa",
-      "územní samospráva",
-      "úøední list",
-      "úřední list"
+      "úřední list",
+      "územní samospráva"
     ]
   },
   {
@@ -25145,9 +24981,8 @@
       "informační systém",
       "internet",
       "legislativa",
-      "územní samospráva",
-      "úøední list",
-      "úřední list"
+      "úřední list",
+      "územní samospráva"
     ]
   },
   {
@@ -25166,9 +25001,8 @@
       "informační systém",
       "internet",
       "legislativa",
-      "územní samospráva",
-      "úøední list",
-      "úřední list"
+      "úřední list",
+      "územní samospráva"
     ]
   },
   {
@@ -25187,9 +25021,8 @@
       "informační systém",
       "internet",
       "legislativa",
-      "územní samospráva",
-      "úøední list",
-      "úřední list"
+      "úřední list",
+      "územní samospráva"
     ]
   },
   {
@@ -25208,9 +25041,8 @@
       "informační systém",
       "internet",
       "legislativa",
-      "územní samospráva",
-      "úøední list",
-      "úřední list"
+      "úřední list",
+      "územní samospráva"
     ]
   },
   {
@@ -25229,9 +25061,8 @@
       "informační systém",
       "internet",
       "legislativa",
-      "územní samospráva",
-      "úøední list",
-      "úřední list"
+      "úřední list",
+      "územní samospráva"
     ]
   },
   {
@@ -27460,7 +27291,6 @@
       "obchodní zprostředkovatel",
       "odborná kvalifikace",
       "pojištění",
-      "zajitėní",
       "zajištění",
       "zkouška"
     ]
@@ -27481,7 +27311,6 @@
       "obchodní zprostředkovatel",
       "odborná kvalifikace",
       "pojištění",
-      "zajitėní",
       "zajištění",
       "zkouška"
     ]
@@ -27530,7 +27359,6 @@
       "obchodní zprostředkovatel",
       "odborná kvalifikace",
       "pojištění",
-      "zajitėní",
       "zajištění",
       "zkouška"
     ]
@@ -27551,7 +27379,6 @@
       "obchodní zprostředkovatel",
       "odborná kvalifikace",
       "pojištění",
-      "zajitėní",
       "zajištění",
       "zkouška"
     ]
@@ -27572,7 +27399,6 @@
       "obchodní zprostředkovatel",
       "odborná kvalifikace",
       "pojištění",
-      "zajitėní",
       "zajištění",
       "zkouška"
     ]
@@ -27645,15 +27471,14 @@
       "not_logged": 0
     },
     "temata": [
+      "čistá technologie",
       "elektrická energie",
       "jaderná elektrárna",
       "jaderná energie",
       "obnovitelná energie",
       "ochrana životního prostředí",
       "zachycování a ukládání oxidu uhličitého",
-      "zaruèená cena",
-      "zaručená cena",
-      "čistá technologie"
+      "zaručená cena"
     ]
   },
   {
@@ -27669,15 +27494,14 @@
       "not_logged": 2
     },
     "temata": [
+      "čistá technologie",
       "elektrická energie",
       "jaderná elektrárna",
       "jaderná energie",
       "obnovitelná energie",
       "ochrana životního prostředí",
       "zachycování a ukládání oxidu uhličitého",
-      "zaruèená cena",
-      "zaručená cena",
-      "čistá technologie"
+      "zaručená cena"
     ]
   },
   {
@@ -27763,15 +27587,14 @@
       "not_logged": 0
     },
     "temata": [
+      "čistá technologie",
       "elektrická energie",
       "jaderná elektrárna",
       "jaderná energie",
       "obnovitelná energie",
       "ochrana životního prostředí",
       "zachycování a ukládání oxidu uhličitého",
-      "zaruèená cena",
-      "zaručená cena",
-      "čistá technologie"
+      "zaručená cena"
     ]
   },
   {
@@ -27787,15 +27610,14 @@
       "not_logged": 0
     },
     "temata": [
+      "čistá technologie",
       "elektrická energie",
       "jaderná elektrárna",
       "jaderná energie",
       "obnovitelná energie",
       "ochrana životního prostředí",
       "zachycování a ukládání oxidu uhličitého",
-      "zaruèená cena",
-      "zaručená cena",
-      "čistá technologie"
+      "zaručená cena"
     ]
   },
   {
@@ -27811,15 +27633,14 @@
       "not_logged": 0
     },
     "temata": [
+      "čistá technologie",
       "elektrická energie",
       "jaderná elektrárna",
       "jaderná energie",
       "obnovitelná energie",
       "ochrana životního prostředí",
       "zachycování a ukládání oxidu uhličitého",
-      "zaruèená cena",
-      "zaručená cena",
-      "čistá technologie"
+      "zaručená cena"
     ]
   },
   {
@@ -27835,15 +27656,14 @@
       "not_logged": 0
     },
     "temata": [
+      "čistá technologie",
       "elektrická energie",
       "jaderná elektrárna",
       "jaderná energie",
       "obnovitelná energie",
       "ochrana životního prostředí",
       "zachycování a ukládání oxidu uhličitého",
-      "zaruèená cena",
-      "zaručená cena",
-      "čistá technologie"
+      "zaručená cena"
     ]
   },
   {
@@ -27859,15 +27679,14 @@
       "not_logged": 0
     },
     "temata": [
+      "čistá technologie",
       "elektrická energie",
       "jaderná elektrárna",
       "jaderná energie",
       "obnovitelná energie",
       "ochrana životního prostředí",
       "zachycování a ukládání oxidu uhličitého",
-      "zaruèená cena",
-      "zaručená cena",
-      "čistá technologie"
+      "zaručená cena"
     ]
   },
   {
@@ -27883,15 +27702,14 @@
       "not_logged": 0
     },
     "temata": [
+      "čistá technologie",
       "elektrická energie",
       "jaderná elektrárna",
       "jaderná energie",
       "obnovitelná energie",
       "ochrana životního prostředí",
       "zachycování a ukládání oxidu uhličitého",
-      "zaruèená cena",
-      "zaručená cena",
-      "čistá technologie"
+      "zaručená cena"
     ]
   },
   {
@@ -27907,7 +27725,6 @@
       "not_logged": 0
     },
     "temata": [
-      "pøiputėní ke zkouce",
       "připuštění ke zkoušce",
       "student",
       "vysokoškolské vzdělání",
@@ -27928,7 +27745,6 @@
       "not_logged": 0
     },
     "temata": [
-      "pøiputėní ke zkouce",
       "připuštění ke zkoušce",
       "student",
       "vysokoškolské vzdělání",
@@ -27952,7 +27768,6 @@
       "důvěrná informace",
       "epidemie",
       "nedostatečná kvalifikace",
-      "omezené íøení informací",
       "omezené šíření informací",
       "služební tajemství",
       "státní tajemství"
@@ -28027,7 +27842,6 @@
       "not_logged": 0
     },
     "temata": [
-      "pøiputėní ke zkouce",
       "připuštění ke zkoušce",
       "student",
       "vysokoškolské vzdělání",
@@ -28048,7 +27862,6 @@
       "not_logged": 0
     },
     "temata": [
-      "pøiputėní ke zkouce",
       "připuštění ke zkoušce",
       "student",
       "vysokoškolské vzdělání",
@@ -28069,7 +27882,6 @@
       "not_logged": 0
     },
     "temata": [
-      "pøiputėní ke zkouce",
       "připuštění ke zkoušce",
       "student",
       "vysokoškolské vzdělání",
@@ -28090,7 +27902,6 @@
       "not_logged": 0
     },
     "temata": [
-      "pøiputėní ke zkouce",
       "připuštění ke zkoušce",
       "student",
       "vysokoškolské vzdělání",
@@ -28111,7 +27922,6 @@
       "not_logged": 0
     },
     "temata": [
-      "pøiputėní ke zkouce",
       "připuštění ke zkoušce",
       "student",
       "vysokoškolské vzdělání",
@@ -28132,7 +27942,6 @@
       "not_logged": 0
     },
     "temata": [
-      "pøiputėní ke zkouce",
       "připuštění ke zkoušce",
       "student",
       "vysokoškolské vzdělání",
@@ -28153,7 +27962,6 @@
       "not_logged": 0
     },
     "temata": [
-      "pøiputėní ke zkouce",
       "připuštění ke zkoušce",
       "student",
       "vysokoškolské vzdělání",
@@ -28175,7 +27983,6 @@
     },
     "temata": [
       "daňová asignace",
-      "daōová asignace",
       "epidemie",
       "osvobození od daní",
       "pivo",
@@ -28405,12 +28212,10 @@
       "not_logged": 0
     },
     "temata": [
-      "daň z příjmu fyzických osob",
       "daň z příjmů",
+      "daň z příjmu fyzických osob",
       "osoba samostatně výdělečně činná",
-      "pauální daō",
       "paušální daň",
-      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost",
       "sociální zabezpečení"
     ]
@@ -28450,7 +28255,6 @@
       "atmosférické podmínky",
       "ochrana vod",
       "prevence environmentálních rizik",
-      "pøírodní riziko",
       "přírodní riziko",
       "rozvod vody",
       "sucho",
@@ -28511,9 +28315,8 @@
     },
     "temata": [
       "inspekce potravin",
-      "potravinová legislativa",
-      "potravináøská výroba",
       "potravinářská výroba",
+      "potravinová legislativa",
       "zdravotní inspekce"
     ]
   },
@@ -28556,9 +28359,8 @@
     },
     "temata": [
       "inspekce potravin",
-      "potravinová legislativa",
-      "potravináøská výroba",
       "potravinářská výroba",
+      "potravinová legislativa",
       "zdravotní inspekce"
     ]
   },
@@ -28674,7 +28476,6 @@
     "temata": [
       "boj proti zločinu",
       "celní spolupráce",
-      "finanèní instituce",
       "finanční instituce",
       "hospodářský trestný čin",
       "organizovaný zločin",
@@ -28742,7 +28543,6 @@
       "obchodní zprostředkovatel",
       "odborná kvalifikace",
       "pojištění",
-      "zajitėní",
       "zajištění",
       "zkouška"
     ]
@@ -28763,7 +28563,6 @@
       "obchodní zprostředkovatel",
       "odborná kvalifikace",
       "pojištění",
-      "zajitėní",
       "zajištění",
       "zkouška"
     ]
@@ -28784,7 +28583,6 @@
       "obchodní zprostředkovatel",
       "odborná kvalifikace",
       "pojištění",
-      "zajitėní",
       "zajištění",
       "zkouška"
     ]
@@ -28805,7 +28603,6 @@
       "obchodní zprostředkovatel",
       "odborná kvalifikace",
       "pojištění",
-      "zajitėní",
       "zajištění",
       "zkouška"
     ]
@@ -28826,7 +28623,6 @@
       "obchodní zprostředkovatel",
       "odborná kvalifikace",
       "pojištění",
-      "zajitėní",
       "zajištění",
       "zkouška"
     ]
@@ -28847,7 +28643,6 @@
       "obchodní zprostředkovatel",
       "odborná kvalifikace",
       "pojištění",
-      "zajitėní",
       "zajištění",
       "zkouška"
     ]
@@ -28868,7 +28663,6 @@
       "obchodní zprostředkovatel",
       "odborná kvalifikace",
       "pojištění",
-      "zajitėní",
       "zajištění",
       "zkouška"
     ]
@@ -28889,7 +28683,6 @@
       "obchodní zprostředkovatel",
       "odborná kvalifikace",
       "pojištění",
-      "zajitėní",
       "zajištění",
       "zkouška"
     ]
@@ -28910,7 +28703,6 @@
       "obchodní zprostředkovatel",
       "odborná kvalifikace",
       "pojištění",
-      "zajitėní",
       "zajištění",
       "zkouška"
     ]
@@ -28931,7 +28723,6 @@
       "obchodní zprostředkovatel",
       "odborná kvalifikace",
       "pojištění",
-      "zajitėní",
       "zajištění",
       "zkouška"
     ]
@@ -28952,7 +28743,6 @@
       "obchodní zprostředkovatel",
       "odborná kvalifikace",
       "pojištění",
-      "zajitėní",
       "zajištění",
       "zkouška"
     ]
@@ -28973,7 +28763,6 @@
       "obchodní zprostředkovatel",
       "odborná kvalifikace",
       "pojištění",
-      "zajitėní",
       "zajištění",
       "zkouška"
     ]
@@ -28994,7 +28783,6 @@
       "obchodní zprostředkovatel",
       "odborná kvalifikace",
       "pojištění",
-      "zajitėní",
       "zajištění",
       "zkouška"
     ]
@@ -29015,7 +28803,6 @@
       "obchodní zprostředkovatel",
       "odborná kvalifikace",
       "pojištění",
-      "zajitėní",
       "zajištění",
       "zkouška"
     ]
@@ -29036,7 +28823,6 @@
       "obchodní zprostředkovatel",
       "odborná kvalifikace",
       "pojištění",
-      "zajitėní",
       "zajištění",
       "zkouška"
     ]
@@ -29057,7 +28843,6 @@
       "obchodní zprostředkovatel",
       "odborná kvalifikace",
       "pojištění",
-      "zajitėní",
       "zajištění",
       "zkouška"
     ]
@@ -29078,7 +28863,6 @@
       "obchodní zprostředkovatel",
       "odborná kvalifikace",
       "pojištění",
-      "zajitėní",
       "zajištění",
       "zkouška"
     ]
@@ -29099,7 +28883,6 @@
       "obchodní zprostředkovatel",
       "odborná kvalifikace",
       "pojištění",
-      "zajitėní",
       "zajištění",
       "zkouška"
     ]
@@ -29120,7 +28903,6 @@
       "obchodní zprostředkovatel",
       "odborná kvalifikace",
       "pojištění",
-      "zajitėní",
       "zajištění",
       "zkouška"
     ]
@@ -29141,7 +28923,6 @@
       "obchodní zprostředkovatel",
       "odborná kvalifikace",
       "pojištění",
-      "zajitėní",
       "zajištění",
       "zkouška"
     ]
@@ -29162,7 +28943,6 @@
       "obchodní zprostředkovatel",
       "odborná kvalifikace",
       "pojištění",
-      "zajitėní",
       "zajištění",
       "zkouška"
     ]
@@ -29183,7 +28963,6 @@
       "obchodní zprostředkovatel",
       "odborná kvalifikace",
       "pojištění",
-      "zajitėní",
       "zajištění",
       "zkouška"
     ]
@@ -29204,7 +28983,6 @@
       "obchodní zprostředkovatel",
       "odborná kvalifikace",
       "pojištění",
-      "zajitėní",
       "zajištění",
       "zkouška"
     ]
@@ -29225,7 +29003,6 @@
       "obchodní zprostředkovatel",
       "odborná kvalifikace",
       "pojištění",
-      "zajitėní",
       "zajištění",
       "zkouška"
     ]
@@ -29246,7 +29023,6 @@
       "obchodní zprostředkovatel",
       "odborná kvalifikace",
       "pojištění",
-      "zajitėní",
       "zajištění",
       "zkouška"
     ]
@@ -29267,7 +29043,6 @@
       "obchodní zprostředkovatel",
       "odborná kvalifikace",
       "pojištění",
-      "zajitėní",
       "zajištění",
       "zkouška"
     ]
@@ -29288,7 +29063,6 @@
       "obchodní zprostředkovatel",
       "odborná kvalifikace",
       "pojištění",
-      "zajitėní",
       "zajištění",
       "zkouška"
     ]
@@ -29309,9 +29083,7 @@
       "důlní provoz",
       "nerostné zdroje",
       "produkty důlního dobývání",
-      "produkty dųlního dobývání",
-      "průzkum nerostných surovin",
-      "prųzkum nerostných surovin"
+      "průzkum nerostných surovin"
     ]
   },
   {
@@ -29330,7 +29102,6 @@
       "obchodní zprostředkovatel",
       "odborná kvalifikace",
       "pojištění",
-      "zajitėní",
       "zajištění",
       "zkouška"
     ]
@@ -29351,7 +29122,6 @@
       "obchodní zprostředkovatel",
       "odborná kvalifikace",
       "pojištění",
-      "zajitėní",
       "zajištění",
       "zkouška"
     ]
@@ -29372,7 +29142,6 @@
       "obchodní zprostředkovatel",
       "odborná kvalifikace",
       "pojištění",
-      "zajitėní",
       "zajištění",
       "zkouška"
     ]
@@ -29393,7 +29162,6 @@
       "obchodní zprostředkovatel",
       "odborná kvalifikace",
       "pojištění",
-      "zajitėní",
       "zajištění",
       "zkouška"
     ]
@@ -29414,7 +29182,6 @@
       "obchodní zprostředkovatel",
       "odborná kvalifikace",
       "pojištění",
-      "zajitėní",
       "zajištění",
       "zkouška"
     ]
@@ -29435,7 +29202,6 @@
       "obchodní zprostředkovatel",
       "odborná kvalifikace",
       "pojištění",
-      "zajitėní",
       "zajištění",
       "zkouška"
     ]
@@ -29565,7 +29331,6 @@
       "bezpečnost výrobku",
       "informační systém",
       "prostředky zdravotnické techniky",
-      "prostųedky zdravotnické techniky",
       "správní kontrola",
       "uvedení výrobku na trh"
     ]
@@ -29586,7 +29351,6 @@
       "obchodní zprostředkovatel",
       "odborná kvalifikace",
       "pojištění",
-      "zajitėní",
       "zajištění",
       "zkouška"
     ]
@@ -29607,7 +29371,6 @@
       "obchodní zprostředkovatel",
       "odborná kvalifikace",
       "pojištění",
-      "zajitėní",
       "zajištění",
       "zkouška"
     ]
@@ -29628,7 +29391,6 @@
       "obchodní zprostředkovatel",
       "odborná kvalifikace",
       "pojištění",
-      "zajitėní",
       "zajištění",
       "zkouška"
     ]
@@ -29649,7 +29411,6 @@
       "obchodní zprostředkovatel",
       "odborná kvalifikace",
       "pojištění",
-      "zajitėní",
       "zajištění",
       "zkouška"
     ]
@@ -29668,11 +29429,8 @@
     },
     "temata": [
       "ceník",
-      "lékaøská diagnóza",
       "lékařská diagnóza",
       "prostředky zdravotnické techniky",
-      "prostųedky zdravotnické techniky",
-      "reijní náklady",
       "režijní náklady"
     ]
   },
@@ -29692,7 +29450,6 @@
       "obchodní zprostředkovatel",
       "odborná kvalifikace",
       "pojištění",
-      "zajitėní",
       "zajištění",
       "zkouška"
     ]
@@ -29713,7 +29470,6 @@
       "obchodní zprostředkovatel",
       "odborná kvalifikace",
       "pojištění",
-      "zajitėní",
       "zajištění",
       "zkouška"
     ]
@@ -29734,7 +29490,6 @@
       "obchodní zprostředkovatel",
       "odborná kvalifikace",
       "pojištění",
-      "zajitėní",
       "zajištění",
       "zkouška"
     ]
@@ -29755,7 +29510,6 @@
       "obchodní zprostředkovatel",
       "odborná kvalifikace",
       "pojištění",
-      "zajitėní",
       "zajištění",
       "zkouška"
     ]
@@ -29776,7 +29530,6 @@
       "obchodní zprostředkovatel",
       "odborná kvalifikace",
       "pojištění",
-      "zajitėní",
       "zajištění",
       "zkouška"
     ]
@@ -29794,10 +29547,8 @@
       "not_logged": 1
     },
     "temata": [
-      "soud vyí instance",
-      "soud vyšší instance",
-      "soudní pøezkum",
       "soudní přezkum",
+      "soud vyšší instance",
       "správní odvolání",
       "správní soud"
     ]
@@ -29819,9 +29570,8 @@
       "pracovní právo",
       "předmět podnikání",
       "rovné zacházení",
-      "zamìstnanec",
-      "zaměstnanec",
-      "zákoník práce"
+      "zákoník práce",
+      "zaměstnanec"
     ]
   },
   {
@@ -29840,7 +29590,6 @@
       "obchodní zprostředkovatel",
       "odborná kvalifikace",
       "pojištění",
-      "zajitėní",
       "zajištění",
       "zkouška"
     ]
@@ -29861,7 +29610,6 @@
       "obchodní zprostředkovatel",
       "odborná kvalifikace",
       "pojištění",
-      "zajitėní",
       "zajištění",
       "zkouška"
     ]
@@ -29882,7 +29630,6 @@
       "obchodní zprostředkovatel",
       "odborná kvalifikace",
       "pojištění",
-      "zajitėní",
       "zajištění",
       "zkouška"
     ]
@@ -29903,7 +29650,6 @@
       "obchodní zprostředkovatel",
       "odborná kvalifikace",
       "pojištění",
-      "zajitėní",
       "zajištění",
       "zkouška"
     ]
@@ -29924,7 +29670,6 @@
       "obchodní zprostředkovatel",
       "odborná kvalifikace",
       "pojištění",
-      "zajitėní",
       "zajištění",
       "zkouška"
     ]
@@ -29947,9 +29692,7 @@
       "dárce",
       "epidemie",
       "finanční pomoc",
-      "nevýdėlečný sektor",
       "nevýdělečný sektor",
-      "veøejnė prospėná sluba",
       "veřejně prospěšná služba"
     ]
   },
@@ -30090,7 +29833,6 @@
     "temata": [
       "legislativa",
       "ochrana proti požáru",
-      "poár",
       "požár",
       "zákonodárná iniciativa"
     ]
@@ -30128,13 +29870,11 @@
       "not_logged": 1
     },
     "temata": [
-      "Senegal",
+      "Česká republika",
       "daňová úmluva",
       "daňový trestný čin",
-      "daōová úmluva",
-      "daōový trestný čin",
       "dvojí zdanění",
-      "Česká republika"
+      "Senegal"
     ]
   },
   {
@@ -30150,13 +29890,11 @@
       "not_logged": 1
     },
     "temata": [
-      "Senegal",
+      "Česká republika",
       "daňová úmluva",
       "daňový trestný čin",
-      "daōová úmluva",
-      "daōový trestný čin",
       "dvojí zdanění",
-      "Česká republika"
+      "Senegal"
     ]
   },
   {
@@ -30440,10 +30178,9 @@
       "epidemiologie",
       "nemoc",
       "prostředky zdravotnické techniky",
-      "prostųedky zdravotnické techniky",
       "státní pojištění",
-      "zdravotní pojištění",
-      "zdraví veřejnosti"
+      "zdraví veřejnosti",
+      "zdravotní pojištění"
     ]
   },
   {
@@ -30463,10 +30200,9 @@
       "epidemiologie",
       "nemoc",
       "prostředky zdravotnické techniky",
-      "prostųedky zdravotnické techniky",
       "státní pojištění",
-      "zdravotní pojištění",
-      "zdraví veřejnosti"
+      "zdraví veřejnosti",
+      "zdravotní pojištění"
     ]
   },
   {
@@ -30486,10 +30222,9 @@
       "epidemiologie",
       "nemoc",
       "prostředky zdravotnické techniky",
-      "prostųedky zdravotnické techniky",
       "státní pojištění",
-      "zdravotní pojištění",
-      "zdraví veřejnosti"
+      "zdraví veřejnosti",
+      "zdravotní pojištění"
     ]
   },
   {
@@ -30509,10 +30244,9 @@
       "epidemiologie",
       "nemoc",
       "prostředky zdravotnické techniky",
-      "prostųedky zdravotnické techniky",
       "státní pojištění",
-      "zdravotní pojištění",
-      "zdraví veřejnosti"
+      "zdraví veřejnosti",
+      "zdravotní pojištění"
     ]
   },
   {
@@ -30532,10 +30266,9 @@
       "epidemiologie",
       "nemoc",
       "prostředky zdravotnické techniky",
-      "prostųedky zdravotnické techniky",
       "státní pojištění",
-      "zdravotní pojištění",
-      "zdraví veřejnosti"
+      "zdraví veřejnosti",
+      "zdravotní pojištění"
     ]
   },
   {
@@ -30552,11 +30285,9 @@
     },
     "temata": [
       "odborná kvalifikace",
-      "pomocná lékaøská profese",
       "pomocná lékařská profese",
       "profesní příprava",
       "zdravotnické povolání",
-      "zdravotnické kolství",
       "zdravotnické školství",
       "zdravotní personál"
     ]
@@ -30578,10 +30309,9 @@
       "epidemiologie",
       "nemoc",
       "prostředky zdravotnické techniky",
-      "prostųedky zdravotnické techniky",
       "státní pojištění",
-      "zdravotní pojištění",
-      "zdraví veřejnosti"
+      "zdraví veřejnosti",
+      "zdravotní pojištění"
     ]
   },
   {
@@ -30601,10 +30331,9 @@
       "epidemiologie",
       "nemoc",
       "prostředky zdravotnické techniky",
-      "prostųedky zdravotnické techniky",
       "státní pojištění",
-      "zdravotní pojištění",
-      "zdraví veřejnosti"
+      "zdraví veřejnosti",
+      "zdravotní pojištění"
     ]
   },
   {
@@ -30620,13 +30349,12 @@
       "not_logged": 0
     },
     "temata": [
-      "boj proti nezamėstnanosti",
       "boj proti nezaměstnanosti",
+      "částečný pracovní úvazek",
       "mzda",
       "podpora v nezaměstnanosti",
       "podpora zaměstnanosti",
-      "politika zaměstnanosti",
-      "částečný pracovní úvazek"
+      "politika zaměstnanosti"
     ]
   },
   {
@@ -30660,10 +30388,9 @@
       "epidemiologie",
       "nemoc",
       "prostředky zdravotnické techniky",
-      "prostųedky zdravotnické techniky",
       "státní pojištění",
-      "zdravotní pojištění",
-      "zdraví veřejnosti"
+      "zdraví veřejnosti",
+      "zdravotní pojištění"
     ]
   },
   {
@@ -30681,7 +30408,6 @@
     "temata": [
       "nápravně výchovné zařízení",
       "policie",
-      "vėzeōské právo",
       "vězeňské právo",
       "vězeňský personál"
     ]
@@ -30703,10 +30429,9 @@
       "epidemiologie",
       "nemoc",
       "prostředky zdravotnické techniky",
-      "prostųedky zdravotnické techniky",
       "státní pojištění",
-      "zdravotní pojištění",
-      "zdraví veřejnosti"
+      "zdraví veřejnosti",
+      "zdravotní pojištění"
     ]
   },
   {
@@ -30726,10 +30451,9 @@
       "epidemiologie",
       "nemoc",
       "prostředky zdravotnické techniky",
-      "prostųedky zdravotnické techniky",
       "státní pojištění",
-      "zdravotní pojištění",
-      "zdraví veřejnosti"
+      "zdraví veřejnosti",
+      "zdravotní pojištění"
     ]
   },
   {
@@ -30749,10 +30473,9 @@
       "epidemiologie",
       "nemoc",
       "prostředky zdravotnické techniky",
-      "prostųedky zdravotnické techniky",
       "státní pojištění",
-      "zdravotní pojištění",
-      "zdraví veřejnosti"
+      "zdraví veřejnosti",
+      "zdravotní pojištění"
     ]
   },
   {
@@ -30836,7 +30559,6 @@
       "intervenční politika",
       "návrh rozpočtu",
       "rozpočet",
-      "společná zemėdėlská politika",
       "společná zemědělská politika",
       "účty agrárního sektoru"
     ]
@@ -30859,7 +30581,6 @@
       "intervenční politika",
       "návrh rozpočtu",
       "rozpočet",
-      "společná zemėdėlská politika",
       "společná zemědělská politika",
       "účty agrárního sektoru"
     ]
@@ -30882,7 +30603,6 @@
       "intervenční politika",
       "návrh rozpočtu",
       "rozpočet",
-      "společná zemėdėlská politika",
       "společná zemědělská politika",
       "účty agrárního sektoru"
     ]
@@ -30905,7 +30625,6 @@
       "intervenční politika",
       "návrh rozpočtu",
       "rozpočet",
-      "společná zemėdėlská politika",
       "společná zemědělská politika",
       "účty agrárního sektoru"
     ]
@@ -30928,7 +30647,6 @@
       "intervenční politika",
       "návrh rozpočtu",
       "rozpočet",
-      "společná zemėdėlská politika",
       "společná zemědělská politika",
       "účty agrárního sektoru"
     ]
@@ -30951,7 +30669,6 @@
       "intervenční politika",
       "návrh rozpočtu",
       "rozpočet",
-      "společná zemėdėlská politika",
       "společná zemědělská politika",
       "účty agrárního sektoru"
     ]
@@ -30974,7 +30691,6 @@
       "intervenční politika",
       "návrh rozpočtu",
       "rozpočet",
-      "společná zemėdėlská politika",
       "společná zemědělská politika",
       "účty agrárního sektoru"
     ]
@@ -30997,7 +30713,6 @@
       "intervenční politika",
       "návrh rozpočtu",
       "rozpočet",
-      "společná zemėdėlská politika",
       "společná zemědělská politika",
       "účty agrárního sektoru"
     ]
@@ -31020,7 +30735,6 @@
       "intervenční politika",
       "návrh rozpočtu",
       "rozpočet",
-      "společná zemėdėlská politika",
       "společná zemědělská politika",
       "účty agrárního sektoru"
     ]
@@ -31043,7 +30757,6 @@
       "intervenční politika",
       "návrh rozpočtu",
       "rozpočet",
-      "společná zemėdėlská politika",
       "společná zemědělská politika",
       "účty agrárního sektoru"
     ]
@@ -31066,7 +30779,6 @@
       "intervenční politika",
       "návrh rozpočtu",
       "rozpočet",
-      "společná zemėdėlská politika",
       "společná zemědělská politika",
       "účty agrárního sektoru"
     ]
@@ -31085,11 +30797,9 @@
     },
     "temata": [
       "odborná kvalifikace",
-      "pomocná lékaøská profese",
       "pomocná lékařská profese",
       "profesní příprava",
       "zdravotnické povolání",
-      "zdravotnické kolství",
       "zdravotnické školství",
       "zdravotní personál"
     ]
@@ -31108,11 +30818,9 @@
     },
     "temata": [
       "odborná kvalifikace",
-      "pomocná lékaøská profese",
       "pomocná lékařská profese",
       "profesní příprava",
       "zdravotnické povolání",
-      "zdravotnické kolství",
       "zdravotnické školství",
       "zdravotní personál"
     ]
@@ -31131,11 +30839,9 @@
     },
     "temata": [
       "odborná kvalifikace",
-      "pomocná lékaøská profese",
       "pomocná lékařská profese",
       "profesní příprava",
       "zdravotnické povolání",
-      "zdravotnické kolství",
       "zdravotnické školství",
       "zdravotní personál"
     ]
@@ -31154,11 +30860,9 @@
     },
     "temata": [
       "odborná kvalifikace",
-      "pomocná lékaøská profese",
       "pomocná lékařská profese",
       "profesní příprava",
       "zdravotnické povolání",
-      "zdravotnické kolství",
       "zdravotnické školství",
       "zdravotní personál"
     ]
@@ -31177,11 +30881,9 @@
     },
     "temata": [
       "odborná kvalifikace",
-      "pomocná lékaøská profese",
       "pomocná lékařská profese",
       "profesní příprava",
       "zdravotnické povolání",
-      "zdravotnické kolství",
       "zdravotnické školství",
       "zdravotní personál"
     ]
@@ -31200,11 +30902,9 @@
     },
     "temata": [
       "odborná kvalifikace",
-      "pomocná lékaøská profese",
       "pomocná lékařská profese",
       "profesní příprava",
       "zdravotnické povolání",
-      "zdravotnické kolství",
       "zdravotnické školství",
       "zdravotní personál"
     ]
@@ -31223,11 +30923,9 @@
     },
     "temata": [
       "odborná kvalifikace",
-      "pomocná lékaøská profese",
       "pomocná lékařská profese",
       "profesní příprava",
       "zdravotnické povolání",
-      "zdravotnické kolství",
       "zdravotnické školství",
       "zdravotní personál"
     ]
@@ -31246,11 +30944,9 @@
     },
     "temata": [
       "odborná kvalifikace",
-      "pomocná lékaøská profese",
       "pomocná lékařská profese",
       "profesní příprava",
       "zdravotnické povolání",
-      "zdravotnické kolství",
       "zdravotnické školství",
       "zdravotní personál"
     ]
@@ -31269,11 +30965,9 @@
     },
     "temata": [
       "odborná kvalifikace",
-      "pomocná lékaøská profese",
       "pomocná lékařská profese",
       "profesní příprava",
       "zdravotnické povolání",
-      "zdravotnické kolství",
       "zdravotnické školství",
       "zdravotní personál"
     ]
@@ -31292,11 +30986,9 @@
     },
     "temata": [
       "odborná kvalifikace",
-      "pomocná lékaøská profese",
       "pomocná lékařská profese",
       "profesní příprava",
       "zdravotnické povolání",
-      "zdravotnické kolství",
       "zdravotnické školství",
       "zdravotní personál"
     ]
@@ -31315,11 +31007,9 @@
     },
     "temata": [
       "odborná kvalifikace",
-      "pomocná lékaøská profese",
       "pomocná lékařská profese",
       "profesní příprava",
       "zdravotnické povolání",
-      "zdravotnické kolství",
       "zdravotnické školství",
       "zdravotní personál"
     ]
@@ -31338,11 +31028,9 @@
     },
     "temata": [
       "odborná kvalifikace",
-      "pomocná lékaøská profese",
       "pomocná lékařská profese",
       "profesní příprava",
       "zdravotnické povolání",
-      "zdravotnické kolství",
       "zdravotnické školství",
       "zdravotní personál"
     ]
@@ -31361,14 +31049,13 @@
     },
     "temata": [
       "epidemie",
-      "krizové øízení",
       "krizové řízení",
       "pokuta",
       "policie",
       "pravomoc výkonné moci",
       "trestní sankce",
-      "zdravotní politika",
-      "zdraví veřejnosti"
+      "zdraví veřejnosti",
+      "zdravotní politika"
     ]
   },
   {
@@ -31415,7 +31102,6 @@
       "obchodní zprostředkovatel",
       "odborná kvalifikace",
       "pojištění",
-      "zajitėní",
       "zajištění",
       "zkouška"
     ]
@@ -31604,10 +31290,9 @@
       "ochrana životního prostředí",
       "orgány veřejné správy",
       "průzkum nerostných surovin",
-      "prųzkum nerostných surovin",
+      "říční plavba",
       "stavební právo",
-      "zemědělská půda",
-      "říční plavba"
+      "zemědělská půda"
     ]
   },
   {
@@ -31634,10 +31319,9 @@
       "ochrana životního prostředí",
       "orgány veřejné správy",
       "průzkum nerostných surovin",
-      "prųzkum nerostných surovin",
+      "říční plavba",
       "stavební právo",
-      "zemědělská půda",
-      "říční plavba"
+      "zemědělská půda"
     ]
   },
   {
@@ -31664,10 +31348,9 @@
       "ochrana životního prostředí",
       "orgány veřejné správy",
       "průzkum nerostných surovin",
-      "prųzkum nerostných surovin",
+      "říční plavba",
       "stavební právo",
-      "zemědělská půda",
-      "říční plavba"
+      "zemědělská půda"
     ]
   },
   {
@@ -31686,7 +31369,6 @@
       "obchodní zprostředkovatel",
       "odborná kvalifikace",
       "pojištění",
-      "zajitėní",
       "zajištění",
       "zkouška"
     ]
@@ -31707,7 +31389,6 @@
       "obchodní zprostředkovatel",
       "odborná kvalifikace",
       "pojištění",
-      "zajitėní",
       "zajištění",
       "zkouška"
     ]
@@ -31728,7 +31409,6 @@
       "obchodní zprostředkovatel",
       "odborná kvalifikace",
       "pojištění",
-      "zajitėní",
       "zajištění",
       "zkouška"
     ]
@@ -31749,7 +31429,6 @@
       "obchodní zprostředkovatel",
       "odborná kvalifikace",
       "pojištění",
-      "zajitėní",
       "zajištění",
       "zkouška"
     ]
@@ -31770,7 +31449,6 @@
       "obchodní zprostředkovatel",
       "odborná kvalifikace",
       "pojištění",
-      "zajitėní",
       "zajištění",
       "zkouška"
     ]
@@ -31791,7 +31469,6 @@
       "obchodní zprostředkovatel",
       "odborná kvalifikace",
       "pojištění",
-      "zajitėní",
       "zajištění",
       "zkouška"
     ]
@@ -31868,7 +31545,6 @@
       "obchodní zprostředkovatel",
       "odborná kvalifikace",
       "pojištění",
-      "zajitėní",
       "zajištění",
       "zkouška"
     ]
@@ -31889,7 +31565,6 @@
       "obchodní zprostředkovatel",
       "odborná kvalifikace",
       "pojištění",
-      "zajitėní",
       "zajištění",
       "zkouška"
     ]
@@ -31909,12 +31584,9 @@
     "temata": [
       "epidemie",
       "obì",
-      "oběť",
       "solventnost",
       "soudní øízení",
-      "soudní řízení",
       "trestní øízení",
-      "trestní řízení",
       "výkon rozhodnutí"
     ]
   },
@@ -32254,7 +31926,6 @@
     },
     "temata": [
       "daňová asignace",
-      "daōová asignace",
       "epidemie",
       "osvobození od daní",
       "pivo",
@@ -32275,7 +31946,6 @@
     },
     "temata": [
       "daňová asignace",
-      "daōová asignace",
       "epidemie",
       "osvobození od daní",
       "pivo",
@@ -32296,7 +31966,6 @@
     },
     "temata": [
       "daňová asignace",
-      "daōová asignace",
       "epidemie",
       "osvobození od daní",
       "pivo",
@@ -32317,7 +31986,6 @@
     },
     "temata": [
       "daňová asignace",
-      "daōová asignace",
       "epidemie",
       "osvobození od daní",
       "pivo",
@@ -32338,7 +32006,6 @@
     },
     "temata": [
       "daňová asignace",
-      "daōová asignace",
       "epidemie",
       "osvobození od daní",
       "pivo",
@@ -32359,7 +32026,6 @@
     },
     "temata": [
       "daňová asignace",
-      "daōová asignace",
       "epidemie",
       "osvobození od daní",
       "pivo",
@@ -32672,8 +32338,30 @@
     "temata": [
       "chráněný druh",
       "náhrada škody",
-      "ochrana ivočiné øíe",
       "ochrana živočišné říše"
+    ]
+  },
+  {
+    "id": 74775,
+    "date": "2020-12-17",
+    "title": "Novela z. o poskyt. náhrad škod způsob.chráněnými živočichy",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 89,
+      "no": 0,
+      "abstain": 3,
+      "absent": 106,
+      "not_logged": 2
+    },
+    "temata": [
+      "cizinecké právo",
+      "cizí státní občan",
+      "identifikační průkaz",
+      "povolení k pobytu",
+      "přibližování legislativy",
+      "příbuzenský vztah",
+      "vízová politika",
+      "vystoupení z EU"
     ]
   },
   {
@@ -35547,12 +35235,9 @@
       "not_logged": 0
     },
     "temata": [
-      "hospodáøská podpora",
       "hospodářská podpora",
-      "podpora zemėdėlství",
       "podpora zemědělství",
       "podpůrná politika",
-      "zemėdėlská politika",
       "zemědělská politika"
     ]
   },
@@ -35571,7 +35256,6 @@
     "temata": [
       "film",
       "filmový průmysl",
-      "filmový prųmysl",
       "návrh rozpočtu",
       "rozpočet",
       "střednědobá prognóza",
@@ -35596,7 +35280,6 @@
       "intervenční politika",
       "návrh rozpočtu",
       "rozpočet",
-      "společná zemėdėlská politika",
       "společná zemědělská politika",
       "účty agrárního sektoru"
     ]
@@ -36146,9 +35829,8 @@
       "informační systém",
       "internet",
       "legislativa",
-      "územní samospráva",
-      "úøední list",
-      "úřední list"
+      "úřední list",
+      "územní samospráva"
     ]
   },
   {
@@ -36167,9 +35849,8 @@
       "informační systém",
       "internet",
       "legislativa",
-      "územní samospráva",
-      "úøední list",
-      "úřední list"
+      "úřední list",
+      "územní samospráva"
     ]
   },
   {
@@ -36336,9 +36017,7 @@
       "dárce",
       "epidemie",
       "finanční pomoc",
-      "nevýdėlečný sektor",
       "nevýdělečný sektor",
-      "veøejnė prospėná sluba",
       "veřejně prospěšná služba"
     ]
   },
@@ -36875,9 +36554,8 @@
     },
     "temata": [
       "inspekce potravin",
-      "potravinová legislativa",
-      "potravináøská výroba",
       "potravinářská výroba",
+      "potravinová legislativa",
       "zdravotní inspekce"
     ]
   },
@@ -36897,9 +36575,7 @@
       "důlní provoz",
       "nerostné zdroje",
       "produkty důlního dobývání",
-      "produkty dųlního dobývání",
-      "průzkum nerostných surovin",
-      "prųzkum nerostných surovin"
+      "průzkum nerostných surovin"
     ]
   },
   {
@@ -36918,9 +36594,7 @@
       "důlní provoz",
       "nerostné zdroje",
       "produkty důlního dobývání",
-      "produkty dųlního dobývání",
-      "průzkum nerostných surovin",
-      "prųzkum nerostných surovin"
+      "průzkum nerostných surovin"
     ]
   },
   {
@@ -36939,9 +36613,7 @@
       "důlní provoz",
       "nerostné zdroje",
       "produkty důlního dobývání",
-      "produkty dųlního dobývání",
-      "průzkum nerostných surovin",
-      "prųzkum nerostných surovin"
+      "průzkum nerostných surovin"
     ]
   },
   {
@@ -36960,9 +36632,7 @@
       "důlní provoz",
       "nerostné zdroje",
       "produkty důlního dobývání",
-      "produkty dųlního dobývání",
-      "průzkum nerostných surovin",
-      "prųzkum nerostných surovin"
+      "průzkum nerostných surovin"
     ]
   },
   {
@@ -36981,9 +36651,7 @@
       "důlní provoz",
       "nerostné zdroje",
       "produkty důlního dobývání",
-      "produkty dųlního dobývání",
-      "průzkum nerostných surovin",
-      "prųzkum nerostných surovin"
+      "průzkum nerostných surovin"
     ]
   },
   {
@@ -37002,9 +36670,7 @@
       "důlní provoz",
       "nerostné zdroje",
       "produkty důlního dobývání",
-      "produkty dųlního dobývání",
-      "průzkum nerostných surovin",
-      "prųzkum nerostných surovin"
+      "průzkum nerostných surovin"
     ]
   },
   {
@@ -37023,9 +36689,7 @@
       "důlní provoz",
       "nerostné zdroje",
       "produkty důlního dobývání",
-      "produkty dųlního dobývání",
-      "průzkum nerostných surovin",
-      "prųzkum nerostných surovin"
+      "průzkum nerostných surovin"
     ]
   },
   {
@@ -37041,418 +36705,12 @@
       "not_logged": 0
     },
     "temata": [
-      "kvalita ivota",
       "kvalita života",
-      "kvalita životního prostøedí",
       "kvalita životního prostředí",
       "nezisková organizace",
-      "rodinné hospodaøení",
       "rodinné hospodaření",
-      "sociální hospodáøství",
       "sociální hospodářství",
-      "uitková zahrada",
       "užitková zahrada"
-    ]
-  },
-  {
-    "id": 75020,
-    "date": "2021-01-20",
-    "title": "Novela z. - trestní řád",
-    "result": "prijato",
-    "vote_summary": {
-      "yes": 91,
-      "no": 0,
-      "abstain": 11,
-      "absent": 98,
-      "not_logged": 0
-    },
-    "temata": [
-      "částečný pracovní úvazek",
-      "mzda",
-      "podpora v nezaměstnanosti",
-      "podpora zaměstnanosti",
-      "politika zaměstnanosti"
-    ]
-  },
-  {
-    "id": 75021,
-    "date": "2021-01-20",
-    "title": "Novela z. - trestní řád",
-    "result": "prijato",
-    "vote_summary": {
-      "yes": 93,
-      "no": 0,
-      "abstain": 10,
-      "absent": 97,
-      "not_logged": 0
-    },
-    "temata": [
-      "částečný pracovní úvazek",
-      "mzda",
-      "podpora v nezaměstnanosti",
-      "podpora zaměstnanosti",
-      "politika zaměstnanosti"
-    ]
-  },
-  {
-    "id": 75022,
-    "date": "2021-01-20",
-    "title": "Novela z. - trestní řád",
-    "result": "prijato",
-    "vote_summary": {
-      "yes": 60,
-      "no": 17,
-      "abstain": 17,
-      "absent": 106,
-      "not_logged": 0
-    },
-    "temata": [
-      "částečný pracovní úvazek",
-      "mzda",
-      "podpora v nezaměstnanosti",
-      "podpora zaměstnanosti",
-      "politika zaměstnanosti"
-    ]
-  },
-  {
-    "id": 75023,
-    "date": "2021-01-20",
-    "title": "Novela z. - trestní řád",
-    "result": "prijato",
-    "vote_summary": {
-      "yes": 77,
-      "no": 0,
-      "abstain": 15,
-      "absent": 108,
-      "not_logged": 0
-    },
-    "temata": [
-      "částečný pracovní úvazek",
-      "mzda",
-      "podpora v nezaměstnanosti",
-      "podpora zaměstnanosti",
-      "politika zaměstnanosti"
-    ]
-  },
-  {
-    "id": 75024,
-    "date": "2021-01-20",
-    "title": "Novela z. - trestní řád",
-    "result": "prijato",
-    "vote_summary": {
-      "yes": 78,
-      "no": 2,
-      "abstain": 13,
-      "absent": 107,
-      "not_logged": 0
-    },
-    "temata": [
-      "částečný pracovní úvazek",
-      "mzda",
-      "podpora v nezaměstnanosti",
-      "podpora zaměstnanosti",
-      "politika zaměstnanosti"
-    ]
-  },
-  {
-    "id": 75025,
-    "date": "2021-01-20",
-    "title": "Novela z. - trestní řád",
-    "result": "prijato",
-    "vote_summary": {
-      "yes": 89,
-      "no": 0,
-      "abstain": 6,
-      "absent": 105,
-      "not_logged": 0
-    },
-    "temata": [
-      "částečný pracovní úvazek",
-      "mzda",
-      "podpora v nezaměstnanosti",
-      "podpora zaměstnanosti",
-      "politika zaměstnanosti"
-    ]
-  },
-  {
-    "id": 75026,
-    "date": "2021-01-20",
-    "title": "Novela z. - trestní řád",
-    "result": "prijato",
-    "vote_summary": {
-      "yes": 66,
-      "no": 0,
-      "abstain": 29,
-      "absent": 105,
-      "not_logged": 0
-    },
-    "temata": [
-      "částečný pracovní úvazek",
-      "mzda",
-      "podpora v nezaměstnanosti",
-      "podpora zaměstnanosti",
-      "politika zaměstnanosti"
-    ]
-  },
-  {
-    "id": 75027,
-    "date": "2021-01-20",
-    "title": "Novela z. - trestní řád",
-    "result": "prijato",
-    "vote_summary": {
-      "yes": 94,
-      "no": 0,
-      "abstain": 1,
-      "absent": 105,
-      "not_logged": 0
-    },
-    "temata": [
-      "částečný pracovní úvazek",
-      "mzda",
-      "podpora v nezaměstnanosti",
-      "podpora zaměstnanosti",
-      "politika zaměstnanosti"
-    ]
-  },
-  {
-    "id": 75028,
-    "date": "2021-01-20",
-    "title": "Novela z. - trestní řád",
-    "result": "prijato",
-    "vote_summary": {
-      "yes": 94,
-      "no": 0,
-      "abstain": 1,
-      "absent": 105,
-      "not_logged": 0
-    },
-    "temata": [
-      "částečný pracovní úvazek",
-      "mzda",
-      "podpora v nezaměstnanosti",
-      "podpora zaměstnanosti",
-      "politika zaměstnanosti"
-    ]
-  },
-  {
-    "id": 75029,
-    "date": "2021-01-20",
-    "title": "Novela z. - trestní řád",
-    "result": "prijato",
-    "vote_summary": {
-      "yes": 95,
-      "no": 0,
-      "abstain": 0,
-      "absent": 105,
-      "not_logged": 0
-    },
-    "temata": [
-      "částečný pracovní úvazek",
-      "mzda",
-      "podpora v nezaměstnanosti",
-      "podpora zaměstnanosti",
-      "politika zaměstnanosti"
-    ]
-  },
-  {
-    "id": 75030,
-    "date": "2021-01-20",
-    "title": "Novela z. - trestní řád",
-    "result": "prijato",
-    "vote_summary": {
-      "yes": 96,
-      "no": 0,
-      "abstain": 0,
-      "absent": 104,
-      "not_logged": 0
-    },
-    "temata": [
-      "částečný pracovní úvazek",
-      "mzda",
-      "podpora v nezaměstnanosti",
-      "podpora zaměstnanosti",
-      "politika zaměstnanosti"
-    ]
-  },
-  {
-    "id": 75031,
-    "date": "2021-01-20",
-    "title": "Novela z. - trestní řád",
-    "result": "prijato",
-    "vote_summary": {
-      "yes": 90,
-      "no": 0,
-      "abstain": 6,
-      "absent": 104,
-      "not_logged": 0
-    },
-    "temata": [
-      "částečný pracovní úvazek",
-      "mzda",
-      "podpora v nezaměstnanosti",
-      "podpora zaměstnanosti",
-      "politika zaměstnanosti"
-    ]
-  },
-  {
-    "id": 75032,
-    "date": "2021-01-20",
-    "title": "Novela z. - trestní řád",
-    "result": "prijato",
-    "vote_summary": {
-      "yes": 90,
-      "no": 0,
-      "abstain": 6,
-      "absent": 104,
-      "not_logged": 0
-    },
-    "temata": [
-      "částečný pracovní úvazek",
-      "mzda",
-      "podpora v nezaměstnanosti",
-      "podpora zaměstnanosti",
-      "politika zaměstnanosti"
-    ]
-  },
-  {
-    "id": 75033,
-    "date": "2021-01-20",
-    "title": "Novela z. - trestní řád",
-    "result": "prijato",
-    "vote_summary": {
-      "yes": 96,
-      "no": 0,
-      "abstain": 1,
-      "absent": 103,
-      "not_logged": 0
-    },
-    "temata": [
-      "částečný pracovní úvazek",
-      "mzda",
-      "podpora v nezaměstnanosti",
-      "podpora zaměstnanosti",
-      "politika zaměstnanosti"
-    ]
-  },
-  {
-    "id": 75034,
-    "date": "2021-01-20",
-    "title": "Novela z. - trestní řád",
-    "result": "prijato",
-    "vote_summary": {
-      "yes": 92,
-      "no": 0,
-      "abstain": 5,
-      "absent": 103,
-      "not_logged": 0
-    },
-    "temata": [
-      "částečný pracovní úvazek",
-      "mzda",
-      "podpora v nezaměstnanosti",
-      "podpora zaměstnanosti",
-      "politika zaměstnanosti"
-    ]
-  },
-  {
-    "id": 75035,
-    "date": "2021-01-20",
-    "title": "Novela z. - trestní řád",
-    "result": "prijato",
-    "vote_summary": {
-      "yes": 96,
-      "no": 0,
-      "abstain": 1,
-      "absent": 103,
-      "not_logged": 0
-    },
-    "temata": [
-      "částečný pracovní úvazek",
-      "mzda",
-      "podpora v nezaměstnanosti",
-      "podpora zaměstnanosti",
-      "politika zaměstnanosti"
-    ]
-  },
-  {
-    "id": 75036,
-    "date": "2021-01-20",
-    "title": "Novela z. - trestní řád",
-    "result": "prijato",
-    "vote_summary": {
-      "yes": 90,
-      "no": 0,
-      "abstain": 7,
-      "absent": 103,
-      "not_logged": 0
-    },
-    "temata": [
-      "alternativní trest",
-      "mladý člověk",
-      "podmínečné proputėní",
-      "podmínečné propuštění",
-      "trestní sankce",
-      "trestní řízení"
-    ]
-  },
-  {
-    "id": 75037,
-    "date": "2021-01-20",
-    "title": "Novela z. o ČNB - EU",
-    "result": "prijato",
-    "vote_summary": {
-      "yes": 72,
-      "no": 1,
-      "abstain": 0,
-      "absent": 127,
-      "not_logged": 0
-    },
-    "temata": [
-      "částečný pracovní úvazek",
-      "mzda",
-      "podpora v nezaměstnanosti",
-      "podpora zaměstnanosti",
-      "politika zaměstnanosti"
-    ]
-  },
-  {
-    "id": 75038,
-    "date": "2021-01-20",
-    "title": "Novela z. o ČNB - EU",
-    "result": "zamitnuto",
-    "vote_summary": {
-      "yes": 23,
-      "no": 20,
-      "abstain": 36,
-      "absent": 121,
-      "not_logged": 0
-    },
-    "temata": [
-      "částečný pracovní úvazek",
-      "mzda",
-      "podpora v nezaměstnanosti",
-      "podpora zaměstnanosti",
-      "politika zaměstnanosti"
-    ]
-  },
-  {
-    "id": 75039,
-    "date": "2021-01-20",
-    "title": "Novela z. o zaměstnanosti",
-    "result": "zamitnuto",
-    "vote_summary": {
-      "yes": 30,
-      "no": 4,
-      "abstain": 56,
-      "absent": 110,
-      "not_logged": 0
-    },
-    "temata": [
-      "částečný pracovní úvazek",
-      "mzda",
-      "podpora v nezaměstnanosti",
-      "podpora zaměstnanosti",
-      "politika zaměstnanosti"
     ]
   }
 ]

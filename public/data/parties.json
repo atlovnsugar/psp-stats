@@ -1,4 +1,34 @@
-[
+﻿[
+  {
+    "id": "HSD-SMS",
+    "name": "HSD-SMS",
+    "color": "#CCCCCC"
+  },
+  {
+    "id": "KDS",
+    "name": "KDS",
+    "color": "#CCCCCC"
+  },
+  {
+    "id": "KDS1",
+    "name": "KDS1",
+    "color": "#CCCCCC"
+  },
+  {
+    "id": "LB",
+    "name": "LB",
+    "color": "#CCCCCC"
+  },
+  {
+    "id": "LSNS",
+    "name": "LSNS",
+    "color": "#CCCCCC"
+  },
+  {
+    "id": "LSU",
+    "name": "LSU",
+    "color": "#CCCCCC"
+  },
   {
     "id": "Nezařaz",
     "name": "NEZAŘAZ",
@@ -7,6 +37,11 @@
   {
     "id": "Nezařazení",
     "name": "NEZAŘAZENÍ",
+    "color": "#CCCCCC"
+  },
+  {
+    "id": "ONH",
+    "name": "ONH",
     "color": "#CCCCCC"
   },
   {
@@ -103,5 +138,15 @@
     "id": "vv",
     "name": "VV",
     "color": "#FF0000"
+  },
+  {
+    "id": "ČMSS",
+    "name": "ČMSS",
+    "color": "#CCCCCC"
+  },
+  {
+    "id": "ČMUS",
+    "name": "ČMUS",
+    "color": "#CCCCCC"
   }
 ]

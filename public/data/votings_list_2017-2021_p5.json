@@ -1,4 +1,404 @@
-[
+﻿[
+  {
+    "id": 75020,
+    "date": "2021-01-20",
+    "title": "Novela z. - trestní řád",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 91,
+      "no": 0,
+      "abstain": 11,
+      "absent": 98,
+      "not_logged": 0
+    },
+    "temata": [
+      "částečný pracovní úvazek",
+      "mzda",
+      "podpora v nezaměstnanosti",
+      "podpora zaměstnanosti",
+      "politika zaměstnanosti"
+    ]
+  },
+  {
+    "id": 75021,
+    "date": "2021-01-20",
+    "title": "Novela z. - trestní řád",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 93,
+      "no": 0,
+      "abstain": 10,
+      "absent": 97,
+      "not_logged": 0
+    },
+    "temata": [
+      "částečný pracovní úvazek",
+      "mzda",
+      "podpora v nezaměstnanosti",
+      "podpora zaměstnanosti",
+      "politika zaměstnanosti"
+    ]
+  },
+  {
+    "id": 75022,
+    "date": "2021-01-20",
+    "title": "Novela z. - trestní řád",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 60,
+      "no": 17,
+      "abstain": 17,
+      "absent": 106,
+      "not_logged": 0
+    },
+    "temata": [
+      "částečný pracovní úvazek",
+      "mzda",
+      "podpora v nezaměstnanosti",
+      "podpora zaměstnanosti",
+      "politika zaměstnanosti"
+    ]
+  },
+  {
+    "id": 75023,
+    "date": "2021-01-20",
+    "title": "Novela z. - trestní řád",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 77,
+      "no": 0,
+      "abstain": 15,
+      "absent": 108,
+      "not_logged": 0
+    },
+    "temata": [
+      "částečný pracovní úvazek",
+      "mzda",
+      "podpora v nezaměstnanosti",
+      "podpora zaměstnanosti",
+      "politika zaměstnanosti"
+    ]
+  },
+  {
+    "id": 75024,
+    "date": "2021-01-20",
+    "title": "Novela z. - trestní řád",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 78,
+      "no": 2,
+      "abstain": 13,
+      "absent": 107,
+      "not_logged": 0
+    },
+    "temata": [
+      "částečný pracovní úvazek",
+      "mzda",
+      "podpora v nezaměstnanosti",
+      "podpora zaměstnanosti",
+      "politika zaměstnanosti"
+    ]
+  },
+  {
+    "id": 75025,
+    "date": "2021-01-20",
+    "title": "Novela z. - trestní řád",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 89,
+      "no": 0,
+      "abstain": 6,
+      "absent": 105,
+      "not_logged": 0
+    },
+    "temata": [
+      "částečný pracovní úvazek",
+      "mzda",
+      "podpora v nezaměstnanosti",
+      "podpora zaměstnanosti",
+      "politika zaměstnanosti"
+    ]
+  },
+  {
+    "id": 75026,
+    "date": "2021-01-20",
+    "title": "Novela z. - trestní řád",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 66,
+      "no": 0,
+      "abstain": 29,
+      "absent": 105,
+      "not_logged": 0
+    },
+    "temata": [
+      "částečný pracovní úvazek",
+      "mzda",
+      "podpora v nezaměstnanosti",
+      "podpora zaměstnanosti",
+      "politika zaměstnanosti"
+    ]
+  },
+  {
+    "id": 75027,
+    "date": "2021-01-20",
+    "title": "Novela z. - trestní řád",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 94,
+      "no": 0,
+      "abstain": 1,
+      "absent": 105,
+      "not_logged": 0
+    },
+    "temata": [
+      "částečný pracovní úvazek",
+      "mzda",
+      "podpora v nezaměstnanosti",
+      "podpora zaměstnanosti",
+      "politika zaměstnanosti"
+    ]
+  },
+  {
+    "id": 75028,
+    "date": "2021-01-20",
+    "title": "Novela z. - trestní řád",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 94,
+      "no": 0,
+      "abstain": 1,
+      "absent": 105,
+      "not_logged": 0
+    },
+    "temata": [
+      "částečný pracovní úvazek",
+      "mzda",
+      "podpora v nezaměstnanosti",
+      "podpora zaměstnanosti",
+      "politika zaměstnanosti"
+    ]
+  },
+  {
+    "id": 75029,
+    "date": "2021-01-20",
+    "title": "Novela z. - trestní řád",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 95,
+      "no": 0,
+      "abstain": 0,
+      "absent": 105,
+      "not_logged": 0
+    },
+    "temata": [
+      "částečný pracovní úvazek",
+      "mzda",
+      "podpora v nezaměstnanosti",
+      "podpora zaměstnanosti",
+      "politika zaměstnanosti"
+    ]
+  },
+  {
+    "id": 75030,
+    "date": "2021-01-20",
+    "title": "Novela z. - trestní řád",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 96,
+      "no": 0,
+      "abstain": 0,
+      "absent": 104,
+      "not_logged": 0
+    },
+    "temata": [
+      "částečný pracovní úvazek",
+      "mzda",
+      "podpora v nezaměstnanosti",
+      "podpora zaměstnanosti",
+      "politika zaměstnanosti"
+    ]
+  },
+  {
+    "id": 75031,
+    "date": "2021-01-20",
+    "title": "Novela z. - trestní řád",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 90,
+      "no": 0,
+      "abstain": 6,
+      "absent": 104,
+      "not_logged": 0
+    },
+    "temata": [
+      "částečný pracovní úvazek",
+      "mzda",
+      "podpora v nezaměstnanosti",
+      "podpora zaměstnanosti",
+      "politika zaměstnanosti"
+    ]
+  },
+  {
+    "id": 75032,
+    "date": "2021-01-20",
+    "title": "Novela z. - trestní řád",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 90,
+      "no": 0,
+      "abstain": 6,
+      "absent": 104,
+      "not_logged": 0
+    },
+    "temata": [
+      "částečný pracovní úvazek",
+      "mzda",
+      "podpora v nezaměstnanosti",
+      "podpora zaměstnanosti",
+      "politika zaměstnanosti"
+    ]
+  },
+  {
+    "id": 75033,
+    "date": "2021-01-20",
+    "title": "Novela z. - trestní řád",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 96,
+      "no": 0,
+      "abstain": 1,
+      "absent": 103,
+      "not_logged": 0
+    },
+    "temata": [
+      "částečný pracovní úvazek",
+      "mzda",
+      "podpora v nezaměstnanosti",
+      "podpora zaměstnanosti",
+      "politika zaměstnanosti"
+    ]
+  },
+  {
+    "id": 75034,
+    "date": "2021-01-20",
+    "title": "Novela z. - trestní řád",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 92,
+      "no": 0,
+      "abstain": 5,
+      "absent": 103,
+      "not_logged": 0
+    },
+    "temata": [
+      "částečný pracovní úvazek",
+      "mzda",
+      "podpora v nezaměstnanosti",
+      "podpora zaměstnanosti",
+      "politika zaměstnanosti"
+    ]
+  },
+  {
+    "id": 75035,
+    "date": "2021-01-20",
+    "title": "Novela z. - trestní řád",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 96,
+      "no": 0,
+      "abstain": 1,
+      "absent": 103,
+      "not_logged": 0
+    },
+    "temata": [
+      "částečný pracovní úvazek",
+      "mzda",
+      "podpora v nezaměstnanosti",
+      "podpora zaměstnanosti",
+      "politika zaměstnanosti"
+    ]
+  },
+  {
+    "id": 75036,
+    "date": "2021-01-20",
+    "title": "Novela z. - trestní řád",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 90,
+      "no": 0,
+      "abstain": 7,
+      "absent": 103,
+      "not_logged": 0
+    },
+    "temata": [
+      "alternativní trest",
+      "mladý člověk",
+      "podmínečné propuštění",
+      "trestní řízení",
+      "trestní sankce"
+    ]
+  },
+  {
+    "id": 75037,
+    "date": "2021-01-20",
+    "title": "Novela z. o ČNB - EU",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 72,
+      "no": 1,
+      "abstain": 0,
+      "absent": 127,
+      "not_logged": 0
+    },
+    "temata": [
+      "částečný pracovní úvazek",
+      "mzda",
+      "podpora v nezaměstnanosti",
+      "podpora zaměstnanosti",
+      "politika zaměstnanosti"
+    ]
+  },
+  {
+    "id": 75038,
+    "date": "2021-01-20",
+    "title": "Novela z. o ČNB - EU",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 23,
+      "no": 20,
+      "abstain": 36,
+      "absent": 121,
+      "not_logged": 0
+    },
+    "temata": [
+      "částečný pracovní úvazek",
+      "mzda",
+      "podpora v nezaměstnanosti",
+      "podpora zaměstnanosti",
+      "politika zaměstnanosti"
+    ]
+  },
+  {
+    "id": 75039,
+    "date": "2021-01-20",
+    "title": "Novela z. o zaměstnanosti",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 30,
+      "no": 4,
+      "abstain": 56,
+      "absent": 110,
+      "not_logged": 0
+    },
+    "temata": [
+      "částečný pracovní úvazek",
+      "mzda",
+      "podpora v nezaměstnanosti",
+      "podpora zaměstnanosti",
+      "politika zaměstnanosti"
+    ]
+  },
   {
     "id": 75040,
     "date": "2021-01-20",
@@ -709,7 +1109,6 @@
       "odškodnění",
       "osoba samostatně výdělečně činná",
       "podnikatel",
-      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -1526,17 +1925,12 @@
     },
     "temata": [
       "akvakultura",
-      "biologická diverzita",
       "biologickį diverzita",
-      "invazní druhy",
       "invaznķ druhy",
-      "kontrolní moc",
       "kontrolnķ moc",
-      "rostlinná říše",
       "rostlinnį ųķe",
       "seznam",
-      "ivočinį ųķe",
-      "živočišná říše"
+      "ivočinį ųķe"
     ]
   },
   {
@@ -1553,17 +1947,12 @@
     },
     "temata": [
       "akvakultura",
-      "biologická diverzita",
       "biologickį diverzita",
-      "invazní druhy",
       "invaznķ druhy",
-      "kontrolní moc",
       "kontrolnķ moc",
-      "rostlinná říše",
       "rostlinnį ųķe",
       "seznam",
-      "ivočinį ųķe",
-      "živočišná říše"
+      "ivočinį ųķe"
     ]
   },
   {
@@ -1580,17 +1969,12 @@
     },
     "temata": [
       "akvakultura",
-      "biologická diverzita",
       "biologickį diverzita",
-      "invazní druhy",
       "invaznķ druhy",
-      "kontrolní moc",
       "kontrolnķ moc",
-      "rostlinná říše",
       "rostlinnį ųķe",
       "seznam",
-      "ivočinį ųķe",
-      "živočišná říše"
+      "ivočinį ųķe"
     ]
   },
   {
@@ -1871,7 +2255,6 @@
       "omamná látka",
       "práva jednotlivce",
       "psychotropní látka",
-      "volnė prodejný lék",
       "volně prodejný lék"
     ]
   },
@@ -2231,7 +2614,6 @@
       "not_logged": 0
     },
     "temata": [
-      "celoivotní vzdėlávání",
       "celoživotní vzdělávání",
       "odborná kvalifikace",
       "učitel",
@@ -2255,7 +2637,6 @@
       "kontrola dovozu",
       "obchodní politika",
       "produkty důlního dobývání",
-      "produkty dųlního dobývání",
       "zahraniční obchod"
     ]
   },
@@ -2276,7 +2657,6 @@
       "kontrola dovozu",
       "obchodní politika",
       "produkty důlního dobývání",
-      "produkty dųlního dobývání",
       "zahraniční obchod"
     ]
   },
@@ -2367,7 +2747,6 @@
       "bytová politika",
       "družstevní dům",
       "nedostatek bytů",
-      "nedostatek bytų",
       "nezisková organizace",
       "společnost s ručením omezeným"
     ]
@@ -2390,7 +2769,6 @@
       "bytová politika",
       "družstevní dům",
       "nedostatek bytů",
-      "nedostatek bytų",
       "nezisková organizace",
       "společnost s ručením omezeným"
     ]
@@ -2413,7 +2791,6 @@
       "bytová politika",
       "družstevní dům",
       "nedostatek bytů",
-      "nedostatek bytų",
       "nezisková organizace",
       "společnost s ručením omezeným"
     ]
@@ -2436,7 +2813,6 @@
       "bytová politika",
       "družstevní dům",
       "nedostatek bytů",
-      "nedostatek bytų",
       "nezisková organizace",
       "společnost s ručením omezeným"
     ]
@@ -2459,7 +2835,6 @@
       "bytová politika",
       "družstevní dům",
       "nedostatek bytů",
-      "nedostatek bytų",
       "nezisková organizace",
       "společnost s ručením omezeným"
     ]
@@ -2482,7 +2857,6 @@
       "bytová politika",
       "družstevní dům",
       "nedostatek bytů",
-      "nedostatek bytų",
       "nezisková organizace",
       "společnost s ručením omezeným"
     ]
@@ -2505,7 +2879,6 @@
       "bytová politika",
       "družstevní dům",
       "nedostatek bytů",
-      "nedostatek bytų",
       "nezisková organizace",
       "společnost s ručením omezeným"
     ]
@@ -2528,7 +2901,6 @@
       "bytová politika",
       "družstevní dům",
       "nedostatek bytů",
-      "nedostatek bytų",
       "nezisková organizace",
       "společnost s ručením omezeným"
     ]
@@ -2860,13 +3232,11 @@
       "not_logged": 1
     },
     "temata": [
-      "Senegal",
+      "Česká republika",
       "daňová úmluva",
       "daňový trestný čin",
-      "daōová úmluva",
-      "daōový trestný čin",
       "dvojí zdanění",
-      "Česká republika"
+      "Senegal"
     ]
   },
   {
@@ -3730,7 +4100,6 @@
       "naléhavá pomoc",
       "ochrana proti požáru",
       "polovojenské síly",
-      "signalizační zaøízení",
       "signalizační zařízení",
       "sociální zařízení"
     ]
@@ -3751,7 +4120,6 @@
       "naléhavá pomoc",
       "ochrana proti požáru",
       "polovojenské síly",
-      "signalizační zaøízení",
       "signalizační zařízení",
       "sociální zařízení"
     ]
@@ -3772,7 +4140,6 @@
       "naléhavá pomoc",
       "ochrana proti požáru",
       "polovojenské síly",
-      "signalizační zaøízení",
       "signalizační zařízení",
       "sociální zařízení"
     ]
@@ -3793,7 +4160,6 @@
       "naléhavá pomoc",
       "ochrana proti požáru",
       "polovojenské síly",
-      "signalizační zaøízení",
       "signalizační zařízení",
       "sociální zařízení"
     ]
@@ -3814,7 +4180,6 @@
       "naléhavá pomoc",
       "ochrana proti požáru",
       "polovojenské síly",
-      "signalizační zaøízení",
       "signalizační zařízení",
       "sociální zařízení"
     ]
@@ -3853,7 +4218,6 @@
       "naléhavá pomoc",
       "ochrana proti požáru",
       "polovojenské síly",
-      "signalizační zaøízení",
       "signalizační zařízení",
       "sociální zařízení"
     ]
@@ -3874,7 +4238,6 @@
       "naléhavá pomoc",
       "ochrana proti požáru",
       "polovojenské síly",
-      "signalizační zaøízení",
       "signalizační zařízení",
       "sociální zařízení"
     ]
@@ -3895,7 +4258,6 @@
       "naléhavá pomoc",
       "ochrana proti požáru",
       "polovojenské síly",
-      "signalizační zaøízení",
       "signalizační zařízení",
       "sociální zařízení"
     ]
@@ -3916,7 +4278,6 @@
       "naléhavá pomoc",
       "ochrana proti požáru",
       "polovojenské síly",
-      "signalizační zaøízení",
       "signalizační zařízení",
       "sociální zařízení"
     ]
@@ -3937,7 +4298,6 @@
       "naléhavá pomoc",
       "ochrana proti požáru",
       "polovojenské síly",
-      "signalizační zaøízení",
       "signalizační zařízení",
       "sociální zařízení"
     ]
@@ -3958,7 +4318,6 @@
       "naléhavá pomoc",
       "ochrana proti požáru",
       "polovojenské síly",
-      "signalizační zaøízení",
       "signalizační zařízení",
       "sociální zařízení"
     ]
@@ -3979,7 +4338,6 @@
       "naléhavá pomoc",
       "ochrana proti požáru",
       "polovojenské síly",
-      "signalizační zaøízení",
       "signalizační zařízení",
       "sociální zařízení"
     ]
@@ -3998,7 +4356,6 @@
     },
     "temata": [
       "ceník",
-      "náklady øízení",
       "náklady řízení",
       "soudní řízení"
     ]
@@ -4016,7 +4373,6 @@
       "not_logged": 1
     },
     "temata": [
-      "hromadná aloba",
       "hromadná žaloba",
       "nezisková organizace",
       "ochrana spotřebitele",
@@ -4531,8 +4887,6 @@
       "politika financování",
       "silniční síť",
       "soukromý sektor",
-      "soukromż sektor",
-      "veøejný sektor",
       "veřejný sektor"
     ]
   },
@@ -4554,8 +4908,6 @@
       "politika financování",
       "silniční síť",
       "soukromý sektor",
-      "soukromż sektor",
-      "veøejný sektor",
       "veřejný sektor"
     ]
   },
@@ -4595,9 +4947,7 @@
       "důlní provoz",
       "nerostné zdroje",
       "produkty důlního dobývání",
-      "produkty dųlního dobývání",
-      "průzkum nerostných surovin",
-      "prųzkum nerostných surovin"
+      "průzkum nerostných surovin"
     ]
   },
   {
@@ -4616,7 +4966,6 @@
       "bezpečnost výrobku",
       "informační systém",
       "prostředky zdravotnické techniky",
-      "prostųedky zdravotnické techniky",
       "správní kontrola",
       "uvedení výrobku na trh"
     ]
@@ -4635,11 +4984,8 @@
     },
     "temata": [
       "ceník",
-      "lékaøská diagnóza",
       "lékařská diagnóza",
       "prostředky zdravotnické techniky",
-      "prostųedky zdravotnické techniky",
-      "reijní náklady",
       "režijní náklady"
     ]
   },
@@ -4886,15 +5232,14 @@
       "not_logged": 0
     },
     "temata": [
+      "čistá technologie",
       "elektrická energie",
       "jaderná elektrárna",
       "jaderná energie",
       "obnovitelná energie",
       "ochrana životního prostředí",
       "zachycování a ukládání oxidu uhličitého",
-      "zaruèená cena",
-      "zaručená cena",
-      "čistá technologie"
+      "zaručená cena"
     ]
   },
   {
@@ -4939,7 +5284,6 @@
     },
     "temata": [
       "epidemie",
-      "krizové øízení",
       "krizové řízení",
       "orgány veřejné správy",
       "pokuta",
@@ -4963,7 +5307,6 @@
     },
     "temata": [
       "epidemie",
-      "krizové øízení",
       "krizové řízení",
       "orgány veřejné správy",
       "pokuta",
@@ -4987,7 +5330,6 @@
     },
     "temata": [
       "epidemie",
-      "krizové øízení",
       "krizové řízení",
       "orgány veřejné správy",
       "pokuta",
@@ -5112,7 +5454,6 @@
       "sociální příspěvek",
       "sociální zabezpečení",
       "všeobecné zdravotní pojištění",
-      "zamìstnavatel",
       "zaměstnavatel",
       "zdravotní pojištění"
     ]
@@ -5134,7 +5475,6 @@
       "sociální příspěvek",
       "sociální zabezpečení",
       "všeobecné zdravotní pojištění",
-      "zamìstnavatel",
       "zaměstnavatel",
       "zdravotní pojištění"
     ]
@@ -5156,7 +5496,6 @@
       "sociální příspěvek",
       "sociální zabezpečení",
       "všeobecné zdravotní pojištění",
-      "zamìstnavatel",
       "zaměstnavatel",
       "zdravotní pojištění"
     ]
@@ -5178,7 +5517,6 @@
       "sociální příspěvek",
       "sociální zabezpečení",
       "všeobecné zdravotní pojištění",
-      "zamìstnavatel",
       "zaměstnavatel",
       "zdravotní pojištění"
     ]
@@ -5200,7 +5538,6 @@
       "sociální příspěvek",
       "sociální zabezpečení",
       "všeobecné zdravotní pojištění",
-      "zamìstnavatel",
       "zaměstnavatel",
       "zdravotní pojištění"
     ]
@@ -5222,7 +5559,6 @@
       "sociální příspěvek",
       "sociální zabezpečení",
       "všeobecné zdravotní pojištění",
-      "zamìstnavatel",
       "zaměstnavatel",
       "zdravotní pojištění"
     ]
@@ -5244,7 +5580,6 @@
       "sociální příspěvek",
       "sociální zabezpečení",
       "všeobecné zdravotní pojištění",
-      "zamìstnavatel",
       "zaměstnavatel",
       "zdravotní pojištění"
     ]
@@ -5266,7 +5601,6 @@
       "sociální příspěvek",
       "sociální zabezpečení",
       "všeobecné zdravotní pojištění",
-      "zamìstnavatel",
       "zaměstnavatel",
       "zdravotní pojištění"
     ]
@@ -5288,7 +5622,6 @@
       "sociální příspěvek",
       "sociální zabezpečení",
       "všeobecné zdravotní pojištění",
-      "zamìstnavatel",
       "zaměstnavatel",
       "zdravotní pojištění"
     ]
@@ -5310,7 +5643,6 @@
       "sociální příspěvek",
       "sociální zabezpečení",
       "všeobecné zdravotní pojištění",
-      "zamìstnavatel",
       "zaměstnavatel",
       "zdravotní pojištění"
     ]
@@ -5332,7 +5664,6 @@
       "sociální příspěvek",
       "sociální zabezpečení",
       "všeobecné zdravotní pojištění",
-      "zamìstnavatel",
       "zaměstnavatel",
       "zdravotní pojištění"
     ]
@@ -5354,7 +5685,6 @@
       "sociální příspěvek",
       "sociální zabezpečení",
       "všeobecné zdravotní pojištění",
-      "zamìstnavatel",
       "zaměstnavatel",
       "zdravotní pojištění"
     ]
@@ -5986,7 +6316,6 @@
     "temata": [
       "armáda",
       "bezpečnost informačních systémů",
-      "bezpečnost informačních systémų",
       "informační válka",
       "obranná politika",
       "pravomoc instituce",
@@ -6011,10 +6340,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -6034,10 +6362,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -6057,10 +6384,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -6203,11 +6529,10 @@
     },
     "temata": [
       "epidemie",
-      "ochranné zaøízení",
       "ochranné zařízení",
+      "zdraví veřejnosti",
       "zdravotnické zařízení",
-      "zdravotní politika",
-      "zdraví veřejnosti"
+      "zdravotní politika"
     ]
   },
   {
@@ -6224,11 +6549,10 @@
     },
     "temata": [
       "epidemie",
-      "ochranné zaøízení",
       "ochranné zařízení",
+      "zdraví veřejnosti",
       "zdravotnické zařízení",
-      "zdravotní politika",
-      "zdraví veřejnosti"
+      "zdravotní politika"
     ]
   },
   {
@@ -6245,11 +6569,10 @@
     },
     "temata": [
       "epidemie",
-      "ochranné zaøízení",
       "ochranné zařízení",
+      "zdraví veřejnosti",
       "zdravotnické zařízení",
-      "zdravotní politika",
-      "zdraví veřejnosti"
+      "zdravotní politika"
     ]
   },
   {
@@ -6266,11 +6589,10 @@
     },
     "temata": [
       "epidemie",
-      "ochranné zaøízení",
       "ochranné zařízení",
+      "zdraví veřejnosti",
       "zdravotnické zařízení",
-      "zdravotní politika",
-      "zdraví veřejnosti"
+      "zdravotní politika"
     ]
   },
   {
@@ -6287,11 +6609,10 @@
     },
     "temata": [
       "epidemie",
-      "ochranné zaøízení",
       "ochranné zařízení",
+      "zdraví veřejnosti",
       "zdravotnické zařízení",
-      "zdravotní politika",
-      "zdraví veřejnosti"
+      "zdravotní politika"
     ]
   },
   {
@@ -6308,11 +6629,10 @@
     },
     "temata": [
       "epidemie",
-      "ochranné zaøízení",
       "ochranné zařízení",
+      "zdraví veřejnosti",
       "zdravotnické zařízení",
-      "zdravotní politika",
-      "zdraví veřejnosti"
+      "zdravotní politika"
     ]
   },
   {
@@ -6329,11 +6649,10 @@
     },
     "temata": [
       "epidemie",
-      "ochranné zaøízení",
       "ochranné zařízení",
+      "zdraví veřejnosti",
       "zdravotnické zařízení",
-      "zdravotní politika",
-      "zdraví veřejnosti"
+      "zdravotní politika"
     ]
   },
   {
@@ -6350,11 +6669,10 @@
     },
     "temata": [
       "epidemie",
-      "ochranné zaøízení",
       "ochranné zařízení",
+      "zdraví veřejnosti",
       "zdravotnické zařízení",
-      "zdravotní politika",
-      "zdraví veřejnosti"
+      "zdravotní politika"
     ]
   },
   {
@@ -6371,11 +6689,10 @@
     },
     "temata": [
       "epidemie",
-      "ochranné zaøízení",
       "ochranné zařízení",
+      "zdraví veřejnosti",
       "zdravotnické zařízení",
-      "zdravotní politika",
-      "zdraví veřejnosti"
+      "zdravotní politika"
     ]
   },
   {
@@ -6392,11 +6709,10 @@
     },
     "temata": [
       "epidemie",
-      "ochranné zaøízení",
       "ochranné zařízení",
+      "zdraví veřejnosti",
       "zdravotnické zařízení",
-      "zdravotní politika",
-      "zdraví veřejnosti"
+      "zdravotní politika"
     ]
   },
   {
@@ -6413,11 +6729,10 @@
     },
     "temata": [
       "epidemie",
-      "ochranné zaøízení",
       "ochranné zařízení",
+      "zdraví veřejnosti",
       "zdravotnické zařízení",
-      "zdravotní politika",
-      "zdraví veřejnosti"
+      "zdravotní politika"
     ]
   },
   {
@@ -6434,11 +6749,10 @@
     },
     "temata": [
       "epidemie",
-      "ochranné zaøízení",
       "ochranné zařízení",
+      "zdraví veřejnosti",
       "zdravotnické zařízení",
-      "zdravotní politika",
-      "zdraví veřejnosti"
+      "zdravotní politika"
     ]
   },
   {
@@ -6455,11 +6769,10 @@
     },
     "temata": [
       "epidemie",
-      "ochranné zaøízení",
       "ochranné zařízení",
+      "zdraví veřejnosti",
       "zdravotnické zařízení",
-      "zdravotní politika",
-      "zdraví veřejnosti"
+      "zdravotní politika"
     ]
   },
   {
@@ -6476,11 +6789,10 @@
     },
     "temata": [
       "epidemie",
-      "ochranné zaøízení",
       "ochranné zařízení",
+      "zdraví veřejnosti",
       "zdravotnické zařízení",
-      "zdravotní politika",
-      "zdraví veřejnosti"
+      "zdravotní politika"
     ]
   },
   {
@@ -6497,11 +6809,10 @@
     },
     "temata": [
       "epidemie",
-      "ochranné zaøízení",
       "ochranné zařízení",
+      "zdraví veřejnosti",
       "zdravotnické zařízení",
-      "zdravotní politika",
-      "zdraví veřejnosti"
+      "zdravotní politika"
     ]
   },
   {
@@ -6518,11 +6829,10 @@
     },
     "temata": [
       "epidemie",
-      "ochranné zaøízení",
       "ochranné zařízení",
+      "zdraví veřejnosti",
       "zdravotnické zařízení",
-      "zdravotní politika",
-      "zdraví veřejnosti"
+      "zdravotní politika"
     ]
   },
   {
@@ -6539,11 +6849,10 @@
     },
     "temata": [
       "epidemie",
-      "ochranné zaøízení",
       "ochranné zařízení",
+      "zdraví veřejnosti",
       "zdravotnické zařízení",
-      "zdravotní politika",
-      "zdraví veřejnosti"
+      "zdravotní politika"
     ]
   },
   {
@@ -6560,11 +6869,10 @@
     },
     "temata": [
       "epidemie",
-      "ochranné zaøízení",
       "ochranné zařízení",
+      "zdraví veřejnosti",
       "zdravotnické zařízení",
-      "zdravotní politika",
-      "zdraví veřejnosti"
+      "zdravotní politika"
     ]
   },
   {
@@ -6898,7 +7206,6 @@
       "odškodnění",
       "osoba samostatně výdělečně činná",
       "podnikatel",
-      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -6920,7 +7227,6 @@
       "odškodnění",
       "osoba samostatně výdělečně činná",
       "podnikatel",
-      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -6942,7 +7248,6 @@
       "odškodnění",
       "osoba samostatně výdělečně činná",
       "podnikatel",
-      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -6964,7 +7269,6 @@
       "odškodnění",
       "osoba samostatně výdělečně činná",
       "podnikatel",
-      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -7042,7 +7346,6 @@
       "odškodnění",
       "osoba samostatně výdělečně činná",
       "podnikatel",
-      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -7064,7 +7367,6 @@
       "odškodnění",
       "osoba samostatně výdělečně činná",
       "podnikatel",
-      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -7086,7 +7388,6 @@
       "odškodnění",
       "osoba samostatně výdělečně činná",
       "podnikatel",
-      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -7108,7 +7409,6 @@
       "odškodnění",
       "osoba samostatně výdělečně činná",
       "podnikatel",
-      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -7130,7 +7430,6 @@
       "odškodnění",
       "osoba samostatně výdělečně činná",
       "podnikatel",
-      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -7152,7 +7451,6 @@
       "odškodnění",
       "osoba samostatně výdělečně činná",
       "podnikatel",
-      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -7174,7 +7472,6 @@
       "odškodnění",
       "osoba samostatně výdělečně činná",
       "podnikatel",
-      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -7196,7 +7493,6 @@
       "odškodnění",
       "osoba samostatně výdělečně činná",
       "podnikatel",
-      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -7218,7 +7514,6 @@
       "odškodnění",
       "osoba samostatně výdělečně činná",
       "podnikatel",
-      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -7240,7 +7535,6 @@
       "odškodnění",
       "osoba samostatně výdělečně činná",
       "podnikatel",
-      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -7262,7 +7556,6 @@
       "odškodnění",
       "osoba samostatně výdělečně činná",
       "podnikatel",
-      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -7284,7 +7577,6 @@
       "odškodnění",
       "osoba samostatně výdělečně činná",
       "podnikatel",
-      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -7306,7 +7598,6 @@
       "odškodnění",
       "osoba samostatně výdělečně činná",
       "podnikatel",
-      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -7328,7 +7619,6 @@
       "odškodnění",
       "osoba samostatně výdělečně činná",
       "podnikatel",
-      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -7350,7 +7640,6 @@
       "odškodnění",
       "osoba samostatně výdělečně činná",
       "podnikatel",
-      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -7372,7 +7661,6 @@
       "odškodnění",
       "osoba samostatně výdělečně činná",
       "podnikatel",
-      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -7394,7 +7682,6 @@
       "odškodnění",
       "osoba samostatně výdělečně činná",
       "podnikatel",
-      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -7416,7 +7703,6 @@
       "odškodnění",
       "osoba samostatně výdělečně činná",
       "podnikatel",
-      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -7438,7 +7724,6 @@
       "odškodnění",
       "osoba samostatně výdělečně činná",
       "podnikatel",
-      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -7460,7 +7745,6 @@
       "odškodnění",
       "osoba samostatně výdělečně činná",
       "podnikatel",
-      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -7482,7 +7766,6 @@
       "odškodnění",
       "osoba samostatně výdělečně činná",
       "podnikatel",
-      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -7504,7 +7787,6 @@
       "odškodnění",
       "osoba samostatně výdělečně činná",
       "podnikatel",
-      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -7526,7 +7808,6 @@
       "odškodnění",
       "osoba samostatně výdělečně činná",
       "podnikatel",
-      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -7548,7 +7829,6 @@
       "odškodnění",
       "osoba samostatně výdělečně činná",
       "podnikatel",
-      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -7570,7 +7850,6 @@
       "odškodnění",
       "osoba samostatně výdělečně činná",
       "podnikatel",
-      "samostatná výdėlečná činnost",
       "samostatná výdělečná činnost"
     ]
   },
@@ -7616,11 +7895,10 @@
     },
     "temata": [
       "epidemie",
-      "ochranné zaøízení",
       "ochranné zařízení",
+      "zdraví veřejnosti",
       "zdravotnické zařízení",
-      "zdravotní politika",
-      "zdraví veřejnosti"
+      "zdravotní politika"
     ]
   },
   {
@@ -7637,11 +7915,10 @@
     },
     "temata": [
       "epidemie",
-      "ochranné zaøízení",
       "ochranné zařízení",
+      "zdraví veřejnosti",
       "zdravotnické zařízení",
-      "zdravotní politika",
-      "zdraví veřejnosti"
+      "zdravotní politika"
     ]
   },
   {
@@ -7810,11 +8087,10 @@
     },
     "temata": [
       "epidemie",
-      "ochranné zaøízení",
       "ochranné zařízení",
+      "zdraví veřejnosti",
       "zdravotnické zařízení",
-      "zdravotní politika",
-      "zdraví veřejnosti"
+      "zdravotní politika"
     ]
   },
   {
@@ -7831,11 +8107,10 @@
     },
     "temata": [
       "epidemie",
-      "ochranné zaøízení",
       "ochranné zařízení",
+      "zdraví veřejnosti",
       "zdravotnické zařízení",
-      "zdravotní politika",
-      "zdraví veřejnosti"
+      "zdravotní politika"
     ]
   },
   {
@@ -7939,7 +8214,6 @@
       "sociální příspěvek",
       "sociální zabezpečení",
       "všeobecné zdravotní pojištění",
-      "zamìstnavatel",
       "zaměstnavatel",
       "zdravotní pojištění"
     ]
@@ -7961,7 +8235,6 @@
       "sociální příspěvek",
       "sociální zabezpečení",
       "všeobecné zdravotní pojištění",
-      "zamìstnavatel",
       "zaměstnavatel",
       "zdravotní pojištění"
     ]
@@ -7983,7 +8256,6 @@
       "sociální příspěvek",
       "sociální zabezpečení",
       "všeobecné zdravotní pojištění",
-      "zamìstnavatel",
       "zaměstnavatel",
       "zdravotní pojištění"
     ]
@@ -8005,7 +8277,6 @@
       "sociální příspěvek",
       "sociální zabezpečení",
       "všeobecné zdravotní pojištění",
-      "zamìstnavatel",
       "zaměstnavatel",
       "zdravotní pojištění"
     ]
@@ -8531,10 +8802,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -8920,15 +9190,14 @@
       "not_logged": 0
     },
     "temata": [
+      "čistá technologie",
       "elektrická energie",
       "jaderná elektrárna",
       "jaderná energie",
       "obnovitelná energie",
       "ochrana životního prostředí",
       "zachycování a ukládání oxidu uhličitého",
-      "zaruèená cena",
-      "zaručená cena",
-      "čistá technologie"
+      "zaručená cena"
     ]
   },
   {
@@ -8944,15 +9213,14 @@
       "not_logged": 0
     },
     "temata": [
+      "čistá technologie",
       "elektrická energie",
       "jaderná elektrárna",
       "jaderná energie",
       "obnovitelná energie",
       "ochrana životního prostředí",
       "zachycování a ukládání oxidu uhličitého",
-      "zaruèená cena",
-      "zaručená cena",
-      "čistá technologie"
+      "zaručená cena"
     ]
   },
   {
@@ -8968,15 +9236,14 @@
       "not_logged": 0
     },
     "temata": [
+      "čistá technologie",
       "elektrická energie",
       "jaderná elektrárna",
       "jaderná energie",
       "obnovitelná energie",
       "ochrana životního prostředí",
       "zachycování a ukládání oxidu uhličitého",
-      "zaruèená cena",
-      "zaručená cena",
-      "čistá technologie"
+      "zaručená cena"
     ]
   },
   {
@@ -8992,15 +9259,14 @@
       "not_logged": 0
     },
     "temata": [
+      "čistá technologie",
       "elektrická energie",
       "jaderná elektrárna",
       "jaderná energie",
       "obnovitelná energie",
       "ochrana životního prostředí",
       "zachycování a ukládání oxidu uhličitého",
-      "zaruèená cena",
-      "zaručená cena",
-      "čistá technologie"
+      "zaručená cena"
     ]
   },
   {
@@ -9106,10 +9372,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -9205,10 +9470,9 @@
     "temata": [
       "epidemie",
       "informace",
-      "ochranné zaøízení",
       "ochranné zařízení",
-      "veřejná hygiena",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejná hygiena"
     ]
   },
   {
@@ -9226,10 +9490,9 @@
     "temata": [
       "epidemie",
       "informace",
-      "ochranné zaøízení",
       "ochranné zařízení",
-      "veřejná hygiena",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejná hygiena"
     ]
   },
   {
@@ -9247,10 +9510,9 @@
     "temata": [
       "epidemie",
       "informace",
-      "ochranné zaøízení",
       "ochranné zařízení",
-      "veřejná hygiena",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejná hygiena"
     ]
   },
   {
@@ -9268,10 +9530,9 @@
     "temata": [
       "epidemie",
       "informace",
-      "ochranné zaøízení",
       "ochranné zařízení",
-      "veřejná hygiena",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejná hygiena"
     ]
   },
   {
@@ -9289,10 +9550,9 @@
     "temata": [
       "epidemie",
       "informace",
-      "ochranné zaøízení",
       "ochranné zařízení",
-      "veřejná hygiena",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejná hygiena"
     ]
   },
   {
@@ -9310,10 +9570,9 @@
     "temata": [
       "epidemie",
       "informace",
-      "ochranné zaøízení",
       "ochranné zařízení",
-      "veřejná hygiena",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejná hygiena"
     ]
   },
   {
@@ -9331,10 +9590,9 @@
     "temata": [
       "epidemie",
       "informace",
-      "ochranné zaøízení",
       "ochranné zařízení",
-      "veřejná hygiena",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejná hygiena"
     ]
   },
   {
@@ -9352,10 +9610,9 @@
     "temata": [
       "epidemie",
       "informace",
-      "ochranné zaøízení",
       "ochranné zařízení",
-      "veřejná hygiena",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejná hygiena"
     ]
   },
   {
@@ -9373,10 +9630,9 @@
     "temata": [
       "epidemie",
       "informace",
-      "ochranné zaøízení",
       "ochranné zařízení",
-      "veřejná hygiena",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejná hygiena"
     ]
   },
   {
@@ -9550,7 +9806,6 @@
       "not_logged": 1
     },
     "temata": [
-      "doplnėní kvalifikace",
       "doplnění kvalifikace",
       "epidemie",
       "obchod s nemovitostmi",
@@ -9572,7 +9827,6 @@
       "not_logged": 1
     },
     "temata": [
-      "doplnėní kvalifikace",
       "doplnění kvalifikace",
       "epidemie",
       "obchod s nemovitostmi",
@@ -9594,7 +9848,6 @@
       "not_logged": 1
     },
     "temata": [
-      "doplnėní kvalifikace",
       "doplnění kvalifikace",
       "epidemie",
       "obchod s nemovitostmi",
@@ -9616,7 +9869,6 @@
       "not_logged": 0
     },
     "temata": [
-      "doplnėní kvalifikace",
       "doplnění kvalifikace",
       "epidemie",
       "obchod s nemovitostmi",
@@ -9638,7 +9890,6 @@
       "not_logged": 0
     },
     "temata": [
-      "doplnėní kvalifikace",
       "doplnění kvalifikace",
       "epidemie",
       "obchod s nemovitostmi",
@@ -9660,7 +9911,6 @@
       "not_logged": 0
     },
     "temata": [
-      "doplnėní kvalifikace",
       "doplnění kvalifikace",
       "epidemie",
       "obchod s nemovitostmi",
@@ -9682,7 +9932,6 @@
       "not_logged": 0
     },
     "temata": [
-      "doplnėní kvalifikace",
       "doplnění kvalifikace",
       "epidemie",
       "obchod s nemovitostmi",
@@ -9708,11 +9957,10 @@
       "občanské právo",
       "občanský zákoník",
       "solicitor",
-      "soud pro mladistvé",
       "soudní řízení",
+      "soud pro mladistvé",
       "způsobilost k právním úkonům",
-      "způsobilost k právům",
-      "zpųsobilost k právním úkonųm"
+      "způsobilost k právům"
     ]
   },
   {
@@ -10863,7 +11111,6 @@
     },
     "temata": [
       "digitalizace dokumentů",
-      "digitalizace dokumentų",
       "elektronická správa",
       "informační systém",
       "ukládání a vyhledávání informací",
@@ -10984,6 +11231,20 @@
       "yes": 47,
       "no": 24,
       "abstain": 33,
+      "absent": 95,
+      "not_logged": 1
+    },
+    "temata": []
+  },
+  {
+    "id": 75634,
+    "date": "2021-03-09",
+    "title": "Pořad schůze",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 11,
+      "no": 1,
+      "abstain": 92,
       "absent": 95,
       "not_logged": 1
     },
@@ -11472,17 +11733,14 @@
     },
     "temata": [
       "digitalizace dokumentů",
-      "digitalizace dokumentų",
       "elektronická správa",
-      "lékaøské údaje",
       "lékařské údaje",
       "ochrana komunikací",
       "organizace zdravotnictví",
       "osobní údaje",
       "ukládání a vyhledávání informací",
       "zdravotnická legislativa",
-      "zdravotní průkaz",
-      "zdravotní prųkaz"
+      "zdravotní průkaz"
     ]
   },
   {
@@ -11499,17 +11757,14 @@
     },
     "temata": [
       "digitalizace dokumentů",
-      "digitalizace dokumentų",
       "elektronická správa",
-      "lékaøské údaje",
       "lékařské údaje",
       "ochrana komunikací",
       "organizace zdravotnictví",
       "osobní údaje",
       "ukládání a vyhledávání informací",
       "zdravotnická legislativa",
-      "zdravotní průkaz",
-      "zdravotní prųkaz"
+      "zdravotní průkaz"
     ]
   },
   {
@@ -11526,17 +11781,14 @@
     },
     "temata": [
       "digitalizace dokumentů",
-      "digitalizace dokumentų",
       "elektronická správa",
-      "lékaøské údaje",
       "lékařské údaje",
       "ochrana komunikací",
       "organizace zdravotnictví",
       "osobní údaje",
       "ukládání a vyhledávání informací",
       "zdravotnická legislativa",
-      "zdravotní průkaz",
-      "zdravotní prųkaz"
+      "zdravotní průkaz"
     ]
   },
   {
@@ -11553,17 +11805,14 @@
     },
     "temata": [
       "digitalizace dokumentů",
-      "digitalizace dokumentų",
       "elektronická správa",
-      "lékaøské údaje",
       "lékařské údaje",
       "ochrana komunikací",
       "organizace zdravotnictví",
       "osobní údaje",
       "ukládání a vyhledávání informací",
       "zdravotnická legislativa",
-      "zdravotní průkaz",
-      "zdravotní prųkaz"
+      "zdravotní průkaz"
     ]
   },
   {
@@ -11580,17 +11829,14 @@
     },
     "temata": [
       "digitalizace dokumentů",
-      "digitalizace dokumentų",
       "elektronická správa",
-      "lékaøské údaje",
       "lékařské údaje",
       "ochrana komunikací",
       "organizace zdravotnictví",
       "osobní údaje",
       "ukládání a vyhledávání informací",
       "zdravotnická legislativa",
-      "zdravotní průkaz",
-      "zdravotní prųkaz"
+      "zdravotní průkaz"
     ]
   },
   {
@@ -11738,11 +11984,10 @@
     },
     "temata": [
       "dopravní předpisy",
-      "dopravní kolení",
       "dopravní školení",
       "jednostopé vozidlo",
-      "zkouška",
-      "řidičský průkaz"
+      "řidičský průkaz",
+      "zkouška"
     ]
   },
   {
@@ -12105,9 +12350,7 @@
       "not_logged": 1
     },
     "temata": [
-      "občanskoprávní øízení",
       "občanskoprávní řízení",
-      "soudní pøezkum",
       "soudní přezkum",
       "soudní řízení"
     ]
@@ -12125,9 +12368,7 @@
       "not_logged": 0
     },
     "temata": [
-      "občanskoprávní øízení",
       "občanskoprávní řízení",
-      "soudní pøezkum",
       "soudní přezkum",
       "soudní řízení"
     ]
@@ -12145,9 +12386,7 @@
       "not_logged": 0
     },
     "temata": [
-      "občanskoprávní øízení",
       "občanskoprávní řízení",
-      "soudní pøezkum",
       "soudní přezkum",
       "soudní řízení"
     ]
@@ -12167,7 +12406,6 @@
     "temata": [
       "nakládání s odpadem",
       "nebezpečný odpad",
-      "pøeshraniční doprava",
       "přeshraniční doprava",
       "přeshraniční spolupráce",
       "ratifikace dohody",
@@ -12189,7 +12427,6 @@
     "temata": [
       "nakládání s odpadem",
       "nebezpečný odpad",
-      "pøeshraniční doprava",
       "přeshraniční doprava",
       "přeshraniční spolupráce",
       "ratifikace dohody",
@@ -12275,10 +12512,9 @@
     "temata": [
       "epidemie",
       "informace",
-      "ochranné zaøízení",
       "ochranné zařízení",
-      "veřejná hygiena",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejná hygiena"
     ]
   },
   {
@@ -12322,13 +12558,10 @@
       "not_logged": 2
     },
     "temata": [
-      "osvìdèení o pùvodu",
-      "osvėdčení o pųvodu",
-      "pùvodní výrobek",
-      "pųvodní výrobek",
-      "ratifikace dohody",
       "Èeská republika",
-      "Česká republika"
+      "osvìdèení o pùvodu",
+      "pùvodní výrobek",
+      "ratifikace dohody"
     ]
   },
   {
@@ -12344,13 +12577,10 @@
       "not_logged": 2
     },
     "temata": [
-      "osvìdèení o pùvodu",
-      "osvėdčení o pųvodu",
-      "pùvodní výrobek",
-      "pųvodní výrobek",
-      "ratifikace dohody",
       "Èeská republika",
-      "Česká republika"
+      "osvìdèení o pùvodu",
+      "pùvodní výrobek",
+      "ratifikace dohody"
     ]
   },
   {
@@ -12493,9 +12723,8 @@
     },
     "temata": [
       "sociální dávky",
-      "zdravotní průkaz",
-      "zdravotní prųkaz",
-      "zdravotně postižený člověk"
+      "zdravotně postižený člověk",
+      "zdravotní průkaz"
     ]
   },
   {
@@ -12512,9 +12741,8 @@
     },
     "temata": [
       "sociální dávky",
-      "zdravotní průkaz",
-      "zdravotní prųkaz",
-      "zdravotně postižený člověk"
+      "zdravotně postižený člověk",
+      "zdravotní průkaz"
     ]
   },
   {
@@ -12531,9 +12759,8 @@
     },
     "temata": [
       "sociální dávky",
-      "zdravotní průkaz",
-      "zdravotní prųkaz",
-      "zdravotně postižený člověk"
+      "zdravotně postižený člověk",
+      "zdravotní průkaz"
     ]
   },
   {
@@ -12550,9 +12777,8 @@
     },
     "temata": [
       "sociální dávky",
-      "zdravotní průkaz",
-      "zdravotní prųkaz",
-      "zdravotně postižený člověk"
+      "zdravotně postižený člověk",
+      "zdravotní průkaz"
     ]
   },
   {
@@ -13336,12 +13562,11 @@
       "not_logged": 0
     },
     "temata": [
-      "Evropská centrální banka",
       "centrální banka",
+      "Evropská centrální banka",
       "finanční stabilita",
       "finanční trh",
       "kurzové korekce",
-      "mėnová politika",
       "měnová politika",
       "spotřební úvěr",
       "úrok"
@@ -13360,18 +13585,16 @@
       "not_logged": 0
     },
     "temata": [
-      "Svėtová antidopingová agentura",
-      "Světová antidopingová agentura",
+      "Česká republika",
       "chemický výrobek",
       "dopování",
       "farmaceutický výrobek",
       "hormon",
       "mezinárodní dohoda",
-      "povzbuzující prostøedek",
       "povzbuzující prostředek",
       "ratifikace dohody",
       "sport",
-      "Česká republika"
+      "Světová antidopingová agentura"
     ]
   },
   {
@@ -13387,18 +13610,16 @@
       "not_logged": 0
     },
     "temata": [
-      "Svėtová antidopingová agentura",
-      "Světová antidopingová agentura",
+      "Česká republika",
       "chemický výrobek",
       "dopování",
       "farmaceutický výrobek",
       "hormon",
       "mezinárodní dohoda",
-      "povzbuzující prostøedek",
       "povzbuzující prostředek",
       "ratifikace dohody",
       "sport",
-      "Česká republika"
+      "Světová antidopingová agentura"
     ]
   },
   {
@@ -13893,9 +14114,7 @@
       "not_logged": 1
     },
     "temata": [
-      "občanskoprávní øízení",
       "občanskoprávní řízení",
-      "soudní pøezkum",
       "soudní přezkum",
       "soudní řízení"
     ]
@@ -13941,7 +14160,6 @@
       "not_logged": 3
     },
     "temata": [
-      "doplnėní kvalifikace",
       "doplnění kvalifikace",
       "epidemie",
       "obchod s nemovitostmi",
@@ -13963,7 +14181,6 @@
       "not_logged": 4
     },
     "temata": [
-      "doplnėní kvalifikace",
       "doplnění kvalifikace",
       "epidemie",
       "obchod s nemovitostmi",
@@ -14550,10 +14767,9 @@
       "ochrana zvířat",
       "přemístění stáda",
       "přibližování legislativy",
+      "včelařství",
       "veterinární inspekce",
       "veterinární legislativa",
-      "včelařství",
-      "zdraví zvíøat",
       "zdraví zvířat",
       "živočišný produkt"
     ]
@@ -14604,10 +14820,9 @@
       "ochrana zvířat",
       "přemístění stáda",
       "přibližování legislativy",
+      "včelařství",
       "veterinární inspekce",
       "veterinární legislativa",
-      "včelařství",
-      "zdraví zvíøat",
       "zdraví zvířat",
       "živočišný produkt"
     ]
@@ -14627,11 +14842,9 @@
     "temata": [
       "domácí péče",
       "epidemie",
-      "oetøovatelská péče",
       "ošetřovatelská péče",
-      "vyživovaná osoba",
-      "kolní docházka",
-      "školní docházka"
+      "školní docházka",
+      "vyživovaná osoba"
     ]
   },
   {
@@ -15047,7 +15260,6 @@
       "poslanecký mandát",
       "rozdělení na volební kraje",
       "sčítání hlasů",
-      "sčítání hlasų",
       "volební systém"
     ]
   },
@@ -15704,9 +15916,8 @@
     },
     "temata": [
       "inspekce potravin",
-      "potravinová legislativa",
-      "potravináøská výroba",
       "potravinářská výroba",
+      "potravinová legislativa",
       "zdravotní inspekce"
     ]
   },
@@ -15724,9 +15935,8 @@
     },
     "temata": [
       "inspekce potravin",
-      "potravinová legislativa",
-      "potravináøská výroba",
       "potravinářská výroba",
+      "potravinová legislativa",
       "zdravotní inspekce"
     ]
   },
@@ -16450,7 +16660,6 @@
     },
     "temata": [
       "bezpečnost dopravy",
-      "dopravní pøestupek",
       "dopravní přestupek",
       "dopravní značky",
       "hromadná doprava",
@@ -16611,10 +16820,9 @@
     "temata": [
       "epidemie",
       "informace",
-      "ochranné zaøízení",
       "ochranné zařízení",
-      "veřejná hygiena",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejná hygiena"
     ]
   },
   {
@@ -16632,10 +16840,9 @@
     "temata": [
       "epidemie",
       "informace",
-      "ochranné zaøízení",
       "ochranné zařízení",
-      "veřejná hygiena",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejná hygiena"
     ]
   },
   {
@@ -18494,10 +18701,9 @@
       "ochrana zvířat",
       "přemístění stáda",
       "přibližování legislativy",
+      "včelařství",
       "veterinární inspekce",
       "veterinární legislativa",
-      "včelařství",
-      "zdraví zvíøat",
       "zdraví zvířat",
       "živočišný produkt"
     ]
@@ -18520,10 +18726,9 @@
       "ochrana zvířat",
       "přemístění stáda",
       "přibližování legislativy",
+      "včelařství",
       "veterinární inspekce",
       "veterinární legislativa",
-      "včelařství",
-      "zdraví zvíøat",
       "zdraví zvířat",
       "živočišný produkt"
     ]
@@ -18546,10 +18751,9 @@
       "ochrana zvířat",
       "přemístění stáda",
       "přibližování legislativy",
+      "včelařství",
       "veterinární inspekce",
       "veterinární legislativa",
-      "včelařství",
-      "zdraví zvíøat",
       "zdraví zvířat",
       "živočišný produkt"
     ]
@@ -18608,7 +18812,6 @@
     },
     "temata": [
       "daňový základ",
-      "finanèní instituce",
       "finanční instituce",
       "finanční trh",
       "investiční společnost",
@@ -18660,10 +18863,9 @@
     "temata": [
       "epidemie",
       "informace",
-      "ochranné zaøízení",
       "ochranné zařízení",
-      "veřejná hygiena",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejná hygiena"
     ]
   },
   {
@@ -18834,7 +19036,6 @@
       "not_logged": 0
     },
     "temata": [
-      "doplnėní kvalifikace",
       "doplnění kvalifikace",
       "epidemie",
       "obchod s nemovitostmi",
@@ -18861,8 +19062,6 @@
       "pracovní podmínky",
       "průmyslové ekologické riziko",
       "průmyslové znečišťování",
-      "prųmyslové ekologické riziko",
-      "prųmyslové znečiování",
       "strojní zařízení",
       "technické předpisy a normy"
     ]
@@ -18885,8 +19084,6 @@
       "pracovní podmínky",
       "průmyslové ekologické riziko",
       "průmyslové znečišťování",
-      "prųmyslové ekologické riziko",
-      "prųmyslové znečiování",
       "strojní zařízení",
       "technické předpisy a normy"
     ]
@@ -18909,8 +19106,6 @@
       "pracovní podmínky",
       "průmyslové ekologické riziko",
       "průmyslové znečišťování",
-      "prųmyslové ekologické riziko",
-      "prųmyslové znečiování",
       "strojní zařízení",
       "technické předpisy a normy"
     ]
@@ -18933,8 +19128,6 @@
       "pracovní podmínky",
       "průmyslové ekologické riziko",
       "průmyslové znečišťování",
-      "prųmyslové ekologické riziko",
-      "prųmyslové znečiování",
       "strojní zařízení",
       "technické předpisy a normy"
     ]
@@ -18957,8 +19150,6 @@
       "pracovní podmínky",
       "průmyslové ekologické riziko",
       "průmyslové znečišťování",
-      "prųmyslové ekologické riziko",
-      "prųmyslové znečiování",
       "strojní zařízení",
       "technické předpisy a normy"
     ]
@@ -18981,8 +19172,6 @@
       "pracovní podmínky",
       "průmyslové ekologické riziko",
       "průmyslové znečišťování",
-      "prųmyslové ekologické riziko",
-      "prųmyslové znečiování",
       "strojní zařízení",
       "technické předpisy a normy"
     ]
@@ -19005,8 +19194,6 @@
       "pracovní podmínky",
       "průmyslové ekologické riziko",
       "průmyslové znečišťování",
-      "prųmyslové ekologické riziko",
-      "prųmyslové znečiování",
       "strojní zařízení",
       "technické předpisy a normy"
     ]
@@ -19029,8 +19216,6 @@
       "pracovní podmínky",
       "průmyslové ekologické riziko",
       "průmyslové znečišťování",
-      "prųmyslové ekologické riziko",
-      "prųmyslové znečiování",
       "strojní zařízení",
       "technické předpisy a normy"
     ]
@@ -19053,8 +19238,6 @@
       "pracovní podmínky",
       "průmyslové ekologické riziko",
       "průmyslové znečišťování",
-      "prųmyslové ekologické riziko",
-      "prųmyslové znečiování",
       "strojní zařízení",
       "technické předpisy a normy"
     ]
@@ -19077,8 +19260,6 @@
       "pracovní podmínky",
       "průmyslové ekologické riziko",
       "průmyslové znečišťování",
-      "prųmyslové ekologické riziko",
-      "prųmyslové znečiování",
       "strojní zařízení",
       "technické předpisy a normy"
     ]
@@ -19580,7 +19761,6 @@
       "poslanecký mandát",
       "rozdělení na volební kraje",
       "sčítání hlasů",
-      "sčítání hlasų",
       "volební systém"
     ]
   },
@@ -19601,7 +19781,6 @@
       "poslanecký mandát",
       "rozdělení na volební kraje",
       "sčítání hlasů",
-      "sčítání hlasų",
       "volební systém"
     ]
   },
@@ -19622,7 +19801,6 @@
       "poslanecký mandát",
       "rozdělení na volební kraje",
       "sčítání hlasů",
-      "sčítání hlasų",
       "volební systém"
     ]
   },
@@ -19643,7 +19821,6 @@
       "poslanecký mandát",
       "rozdělení na volební kraje",
       "sčítání hlasů",
-      "sčítání hlasų",
       "volební systém"
     ]
   },
@@ -19744,7 +19921,6 @@
       "poslanecký mandát",
       "rozdělení na volební kraje",
       "sčítání hlasů",
-      "sčítání hlasų",
       "volební systém"
     ]
   },
@@ -19765,7 +19941,6 @@
       "poslanecký mandát",
       "rozdělení na volební kraje",
       "sčítání hlasů",
-      "sčítání hlasų",
       "volební systém"
     ]
   },
@@ -19786,7 +19961,6 @@
       "poslanecký mandát",
       "rozdělení na volební kraje",
       "sčítání hlasů",
-      "sčítání hlasų",
       "volební systém"
     ]
   },
@@ -19807,7 +19981,6 @@
       "poslanecký mandát",
       "rozdělení na volební kraje",
       "sčítání hlasů",
-      "sčítání hlasų",
       "volební systém"
     ]
   },
@@ -19828,7 +20001,6 @@
       "poslanecký mandát",
       "rozdělení na volební kraje",
       "sčítání hlasů",
-      "sčítání hlasų",
       "volební systém"
     ]
   },
@@ -19849,7 +20021,6 @@
       "poslanecký mandát",
       "rozdělení na volební kraje",
       "sčítání hlasů",
-      "sčítání hlasų",
       "volební systém"
     ]
   },
@@ -19870,7 +20041,6 @@
       "poslanecký mandát",
       "rozdělení na volební kraje",
       "sčítání hlasů",
-      "sčítání hlasų",
       "volební systém"
     ]
   },
@@ -20490,7 +20660,6 @@
     },
     "temata": [
       "eurotrh",
-      "finanèní instituce",
       "finanční dohled",
       "finanční instituce",
       "finanční nástroj EU",
@@ -20519,7 +20688,6 @@
     },
     "temata": [
       "eurotrh",
-      "finanèní instituce",
       "finanční dohled",
       "finanční instituce",
       "finanční nástroj EU",
@@ -20548,7 +20716,6 @@
     },
     "temata": [
       "eurotrh",
-      "finanèní instituce",
       "finanční dohled",
       "finanční instituce",
       "finanční nástroj EU",
@@ -20580,9 +20747,7 @@
       "chemický alkohol",
       "daň",
       "daňová asignace",
-      "daōová asignace",
       "dovozní daň",
-      "dovozní daō",
       "nadnárodní ozbrojené síly",
       "osvobození od daní",
       "pivo",
@@ -20607,9 +20772,7 @@
       "chemický alkohol",
       "daň",
       "daňová asignace",
-      "daōová asignace",
       "dovozní daň",
-      "dovozní daō",
       "nadnárodní ozbrojené síly",
       "osvobození od daní",
       "pivo",
@@ -20630,13 +20793,12 @@
       "not_logged": 3
     },
     "temata": [
+      "Česká republika",
+      "členský stát EU",
       "dvoustranná dohoda",
       "ochrana investic",
       "podpora investic",
-      "vypovėdėní smlouvy",
-      "vypovědění smlouvy",
-      "Česká republika",
-      "členský stát EU"
+      "vypovědění smlouvy"
     ]
   },
   {
@@ -20652,13 +20814,12 @@
       "not_logged": 3
     },
     "temata": [
+      "Česká republika",
+      "členský stát EU",
       "dvoustranná dohoda",
       "ochrana investic",
       "podpora investic",
-      "vypovėdėní smlouvy",
-      "vypovědění smlouvy",
-      "Česká republika",
-      "členský stát EU"
+      "vypovědění smlouvy"
     ]
   },
   {
@@ -20674,13 +20835,12 @@
       "not_logged": 3
     },
     "temata": [
+      "Česká republika",
+      "členský stát EU",
       "dvoustranná dohoda",
       "ochrana investic",
       "podpora investic",
-      "vypovėdėní smlouvy",
-      "vypovědění smlouvy",
-      "Česká republika",
-      "členský stát EU"
+      "vypovědění smlouvy"
     ]
   },
   {
@@ -20696,13 +20856,12 @@
       "not_logged": 3
     },
     "temata": [
+      "Česká republika",
+      "členský stát EU",
       "dvoustranná dohoda",
       "ochrana investic",
       "podpora investic",
-      "vypovėdėní smlouvy",
-      "vypovědění smlouvy",
-      "Česká republika",
-      "členský stát EU"
+      "vypovědění smlouvy"
     ]
   },
   {
@@ -20848,10 +21007,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -20884,7 +21042,6 @@
       "naléhavá pomoc",
       "ochrana proti požáru",
       "polovojenské síly",
-      "signalizační zaøízení",
       "signalizační zařízení",
       "sociální zařízení"
     ]
@@ -20905,7 +21062,6 @@
       "naléhavá pomoc",
       "ochrana proti požáru",
       "polovojenské síly",
-      "signalizační zaøízení",
       "signalizační zařízení",
       "sociální zařízení"
     ]
@@ -20926,7 +21082,6 @@
       "naléhavá pomoc",
       "ochrana proti požáru",
       "polovojenské síly",
-      "signalizační zaøízení",
       "signalizační zařízení",
       "sociální zařízení"
     ]
@@ -21356,6 +21511,26 @@
     ]
   },
   {
+    "id": 76235,
+    "date": "2021-05-07",
+    "title": "Novela z. o zaměstnanosti",
+    "result": "zamitnuto",
+    "vote_summary": {
+      "yes": 18,
+      "no": 44,
+      "abstain": 40,
+      "absent": 98,
+      "not_logged": 0
+    },
+    "temata": [
+      "částečný pracovní úvazek",
+      "mzda",
+      "podpora v nezaměstnanosti",
+      "podpora zaměstnanosti",
+      "politika zaměstnanosti"
+    ]
+  },
+  {
     "id": 76236,
     "date": "2021-05-07",
     "title": "Novela z. o zaměstnanosti",
@@ -21408,17 +21583,11 @@
       "not_logged": 0
     },
     "temata": [
-      "ochrana dítěte",
       "ochrana dķtģte",
-      "oputėné dítė",
       "oputģné dķtģ",
-      "práva dítěte",
-      "právo na spravedlnost",
       "prįva dķtģte",
       "prįvo na spravedlnost",
       "sirotek",
-      "sociální politika",
-      "sociální práva",
       "sociįlnķ politika",
       "sociįlnķ prįva"
     ]
@@ -21635,7 +21804,6 @@
       "epidemie",
       "infekční nemoc",
       "maloobchod",
-      "sluby",
       "služby"
     ]
   },
@@ -21652,13 +21820,10 @@
       "not_logged": 51
     },
     "temata": [
-      "ochrana svėdkų",
       "ochrana svědků",
       "pracovní podmínky",
       "trestný čin",
       "whistleblowing",
-      "zamìstnanec",
-      "zamìstnavatel",
       "zaměstnanec",
       "zaměstnavatel"
     ]
@@ -21676,13 +21841,10 @@
       "not_logged": 40
     },
     "temata": [
-      "ochrana svėdkų",
       "ochrana svědků",
       "pracovní podmínky",
       "trestný čin",
       "whistleblowing",
-      "zamìstnanec",
-      "zamìstnavatel",
       "zaměstnanec",
       "zaměstnavatel"
     ]
@@ -21700,13 +21862,10 @@
       "not_logged": 40
     },
     "temata": [
-      "ochrana svėdkų",
       "ochrana svědků",
       "pracovní podmínky",
       "trestný čin",
       "whistleblowing",
-      "zamìstnanec",
-      "zamìstnavatel",
       "zaměstnanec",
       "zaměstnavatel"
     ]
@@ -21724,13 +21883,10 @@
       "not_logged": 39
     },
     "temata": [
-      "ochrana svėdkų",
       "ochrana svědků",
       "pracovní podmínky",
       "trestný čin",
       "whistleblowing",
-      "zamìstnanec",
-      "zamìstnavatel",
       "zaměstnanec",
       "zaměstnavatel"
     ]
@@ -21748,13 +21904,10 @@
       "not_logged": 39
     },
     "temata": [
-      "ochrana svėdkų",
       "ochrana svědků",
       "pracovní podmínky",
       "trestný čin",
       "whistleblowing",
-      "zamìstnanec",
-      "zamìstnavatel",
       "zaměstnanec",
       "zaměstnavatel"
     ]
@@ -21772,13 +21925,10 @@
       "not_logged": 44
     },
     "temata": [
-      "ochrana svėdkų",
       "ochrana svědků",
       "pracovní podmínky",
       "trestný čin",
       "whistleblowing",
-      "zamìstnanec",
-      "zamìstnavatel",
       "zaměstnanec",
       "zaměstnavatel"
     ]
@@ -22282,8 +22432,7 @@
       "očkování",
       "prevence nemocí",
       "zdravotní politika",
-      "zdravotní průkaz",
-      "zdravotní prųkaz"
+      "zdravotní průkaz"
     ]
   },
   {
@@ -22305,8 +22454,7 @@
       "očkování",
       "prevence nemocí",
       "zdravotní politika",
-      "zdravotní průkaz",
-      "zdravotní prųkaz"
+      "zdravotní průkaz"
     ]
   },
   {
@@ -22322,12 +22470,11 @@
       "not_logged": 11
     },
     "temata": [
-      "Evropská centrální banka",
       "centrální banka",
+      "Evropská centrální banka",
       "finanční stabilita",
       "finanční trh",
       "kurzové korekce",
-      "mėnová politika",
       "měnová politika",
       "spotřební úvěr",
       "úrok"
@@ -22352,8 +22499,7 @@
       "očkování",
       "prevence nemocí",
       "zdravotní politika",
-      "zdravotní průkaz",
-      "zdravotní prųkaz"
+      "zdravotní průkaz"
     ]
   },
   {
@@ -22371,10 +22517,9 @@
     "temata": [
       "alternativní trest",
       "mladý člověk",
-      "podmínečné proputėní",
       "podmínečné propuštění",
-      "trestní sankce",
-      "trestní řízení"
+      "trestní řízení",
+      "trestní sankce"
     ]
   },
   {
@@ -22411,16 +22556,11 @@
       "not_logged": 16
     },
     "temata": [
-      "kvalita ivota",
       "kvalita života",
-      "kvalita životního prostøedí",
       "kvalita životního prostředí",
       "nezisková organizace",
-      "rodinné hospodaøení",
       "rodinné hospodaření",
-      "sociální hospodáøství",
       "sociální hospodářství",
-      "uitková zahrada",
       "užitková zahrada"
     ]
   },
@@ -22437,16 +22577,11 @@
       "not_logged": 15
     },
     "temata": [
-      "kvalita ivota",
       "kvalita života",
-      "kvalita životního prostøedí",
       "kvalita životního prostředí",
       "nezisková organizace",
-      "rodinné hospodaøení",
       "rodinné hospodaření",
-      "sociální hospodáøství",
       "sociální hospodářství",
-      "uitková zahrada",
       "užitková zahrada"
     ]
   },
@@ -22677,10 +22812,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -22700,10 +22834,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -22723,10 +22856,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -22746,10 +22878,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -22769,10 +22900,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -22792,10 +22922,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -22815,10 +22944,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -22838,10 +22966,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -22861,10 +22988,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -22884,10 +23010,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -22907,10 +23032,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -22930,10 +23054,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -22953,10 +23076,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -22976,10 +23098,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -22999,10 +23120,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -23022,10 +23142,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -23045,10 +23164,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -23068,10 +23186,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -23091,10 +23208,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -23114,10 +23230,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -23137,10 +23252,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -23160,10 +23274,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -23183,10 +23296,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -23206,10 +23318,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -23229,10 +23340,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -23252,10 +23362,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -23275,10 +23384,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -23298,10 +23406,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -23321,10 +23428,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -23344,10 +23450,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -23367,10 +23472,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -23390,10 +23494,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -23413,10 +23516,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -23436,10 +23538,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -23459,10 +23560,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -23482,10 +23582,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -23505,10 +23604,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -23528,10 +23626,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -23551,10 +23648,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -23574,10 +23670,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -23597,10 +23692,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -23620,10 +23714,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -23643,10 +23736,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -23666,10 +23758,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -23689,10 +23780,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -23712,10 +23802,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -23735,10 +23824,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -23758,10 +23846,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -23781,10 +23868,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -23804,10 +23890,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -23827,10 +23912,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -23850,10 +23934,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -23873,10 +23956,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -23896,10 +23978,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -23919,10 +24000,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -23942,10 +24022,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -23965,10 +24044,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -23988,10 +24066,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -24011,10 +24088,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -24034,10 +24110,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -24057,10 +24132,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -24080,10 +24154,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -24103,10 +24176,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -24126,10 +24198,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -24149,10 +24220,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -24172,10 +24242,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -24195,10 +24264,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -24218,10 +24286,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -24241,10 +24308,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -24264,10 +24330,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -24287,10 +24352,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -24310,10 +24374,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -24333,10 +24396,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -24356,10 +24418,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -24379,10 +24440,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -24402,10 +24462,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -24425,10 +24484,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -24448,10 +24506,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -24471,10 +24528,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -24494,10 +24550,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -24517,10 +24572,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -24540,10 +24594,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -24563,10 +24616,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -24586,10 +24638,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -24609,10 +24660,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -24632,10 +24682,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -24655,10 +24704,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -24685,10 +24733,9 @@
       "ochrana životního prostředí",
       "orgány veřejné správy",
       "průzkum nerostných surovin",
-      "prųzkum nerostných surovin",
+      "říční plavba",
       "stavební právo",
-      "zemědělská půda",
-      "říční plavba"
+      "zemědělská půda"
     ]
   },
   {
@@ -24715,10 +24762,9 @@
       "ochrana životního prostředí",
       "orgány veřejné správy",
       "průzkum nerostných surovin",
-      "prųzkum nerostných surovin",
+      "říční plavba",
       "stavební právo",
-      "zemědělská půda",
-      "říční plavba"
+      "zemědělská půda"
     ]
   },
   {
@@ -24745,10 +24791,9 @@
       "ochrana životního prostředí",
       "orgány veřejné správy",
       "průzkum nerostných surovin",
-      "prųzkum nerostných surovin",
+      "říční plavba",
       "stavební právo",
-      "zemědělská půda",
-      "říční plavba"
+      "zemědělská půda"
     ]
   },
   {
@@ -24775,10 +24820,9 @@
       "ochrana životního prostředí",
       "orgány veřejné správy",
       "průzkum nerostných surovin",
-      "prųzkum nerostných surovin",
+      "říční plavba",
       "stavební právo",
-      "zemědělská půda",
-      "říční plavba"
+      "zemědělská půda"
     ]
   },
   {
@@ -24805,10 +24849,9 @@
       "ochrana životního prostředí",
       "orgány veřejné správy",
       "průzkum nerostných surovin",
-      "prųzkum nerostných surovin",
+      "říční plavba",
       "stavební právo",
-      "zemědělská půda",
-      "říční plavba"
+      "zemědělská půda"
     ]
   },
   {
@@ -24835,10 +24878,9 @@
       "ochrana životního prostředí",
       "orgány veřejné správy",
       "průzkum nerostných surovin",
-      "prųzkum nerostných surovin",
+      "říční plavba",
       "stavební právo",
-      "zemědělská půda",
-      "říční plavba"
+      "zemědělská půda"
     ]
   },
   {
@@ -24865,10 +24907,9 @@
       "ochrana životního prostředí",
       "orgány veřejné správy",
       "průzkum nerostných surovin",
-      "prųzkum nerostných surovin",
+      "říční plavba",
       "stavební právo",
-      "zemědělská půda",
-      "říční plavba"
+      "zemědělská půda"
     ]
   },
   {
@@ -24895,10 +24936,9 @@
       "ochrana životního prostředí",
       "orgány veřejné správy",
       "průzkum nerostných surovin",
-      "prųzkum nerostných surovin",
+      "říční plavba",
       "stavební právo",
-      "zemědělská půda",
-      "říční plavba"
+      "zemědělská půda"
     ]
   },
   {
@@ -24925,10 +24965,9 @@
       "ochrana životního prostředí",
       "orgány veřejné správy",
       "průzkum nerostných surovin",
-      "prųzkum nerostných surovin",
+      "říční plavba",
       "stavební právo",
-      "zemědělská půda",
-      "říční plavba"
+      "zemědělská půda"
     ]
   },
   {
@@ -24955,10 +24994,9 @@
       "ochrana životního prostředí",
       "orgány veřejné správy",
       "průzkum nerostných surovin",
-      "prųzkum nerostných surovin",
+      "říční plavba",
       "stavební právo",
-      "zemědělská půda",
-      "říční plavba"
+      "zemědělská půda"
     ]
   },
   {
@@ -24985,10 +25023,9 @@
       "ochrana životního prostředí",
       "orgány veřejné správy",
       "průzkum nerostných surovin",
-      "prųzkum nerostných surovin",
+      "říční plavba",
       "stavební právo",
-      "zemědělská půda",
-      "říční plavba"
+      "zemědělská půda"
     ]
   },
   {
@@ -25015,10 +25052,9 @@
       "ochrana životního prostředí",
       "orgány veřejné správy",
       "průzkum nerostných surovin",
-      "prųzkum nerostných surovin",
+      "říční plavba",
       "stavební právo",
-      "zemědělská půda",
-      "říční plavba"
+      "zemědělská půda"
     ]
   },
   {
@@ -25045,10 +25081,9 @@
       "ochrana životního prostředí",
       "orgány veřejné správy",
       "průzkum nerostných surovin",
-      "prųzkum nerostných surovin",
+      "říční plavba",
       "stavební právo",
-      "zemědělská půda",
-      "říční plavba"
+      "zemědělská půda"
     ]
   },
   {
@@ -25075,10 +25110,9 @@
       "ochrana životního prostředí",
       "orgány veřejné správy",
       "průzkum nerostných surovin",
-      "prųzkum nerostných surovin",
+      "říční plavba",
       "stavební právo",
-      "zemědělská půda",
-      "říční plavba"
+      "zemědělská půda"
     ]
   },
   {
@@ -25105,10 +25139,9 @@
       "ochrana životního prostředí",
       "orgány veřejné správy",
       "průzkum nerostných surovin",
-      "prųzkum nerostných surovin",
+      "říční plavba",
       "stavební právo",
-      "zemědělská půda",
-      "říční plavba"
+      "zemědělská půda"
     ]
   },
   {
@@ -25135,10 +25168,9 @@
       "ochrana životního prostředí",
       "orgány veřejné správy",
       "průzkum nerostných surovin",
-      "prųzkum nerostných surovin",
+      "říční plavba",
       "stavební právo",
-      "zemědělská půda",
-      "říční plavba"
+      "zemědělská půda"
     ]
   },
   {
@@ -25165,10 +25197,9 @@
       "ochrana životního prostředí",
       "orgány veřejné správy",
       "průzkum nerostných surovin",
-      "prųzkum nerostných surovin",
+      "říční plavba",
       "stavební právo",
-      "zemědělská půda",
-      "říční plavba"
+      "zemědělská půda"
     ]
   },
   {
@@ -25195,10 +25226,9 @@
       "ochrana životního prostředí",
       "orgány veřejné správy",
       "průzkum nerostných surovin",
-      "prųzkum nerostných surovin",
+      "říční plavba",
       "stavební právo",
-      "zemědělská půda",
-      "říční plavba"
+      "zemědělská půda"
     ]
   },
   {
@@ -25225,10 +25255,9 @@
       "ochrana životního prostředí",
       "orgány veřejné správy",
       "průzkum nerostných surovin",
-      "prųzkum nerostných surovin",
+      "říční plavba",
       "stavební právo",
-      "zemědělská půda",
-      "říční plavba"
+      "zemědělská půda"
     ]
   },
   {
@@ -25255,10 +25284,9 @@
       "ochrana životního prostředí",
       "orgány veřejné správy",
       "průzkum nerostných surovin",
-      "prųzkum nerostných surovin",
+      "říční plavba",
       "stavební právo",
-      "zemědělská půda",
-      "říční plavba"
+      "zemědělská půda"
     ]
   },
   {
@@ -25285,10 +25313,9 @@
       "ochrana životního prostředí",
       "orgány veřejné správy",
       "průzkum nerostných surovin",
-      "prųzkum nerostných surovin",
+      "říční plavba",
       "stavební právo",
-      "zemědělská půda",
-      "říční plavba"
+      "zemědělská půda"
     ]
   },
   {
@@ -25315,10 +25342,9 @@
       "ochrana životního prostředí",
       "orgány veřejné správy",
       "průzkum nerostných surovin",
-      "prųzkum nerostných surovin",
+      "říční plavba",
       "stavební právo",
-      "zemědělská půda",
-      "říční plavba"
+      "zemědělská půda"
     ]
   },
   {
@@ -25345,10 +25371,9 @@
       "ochrana životního prostředí",
       "orgány veřejné správy",
       "průzkum nerostných surovin",
-      "prųzkum nerostných surovin",
+      "říční plavba",
       "stavební právo",
-      "zemědělská půda",
-      "říční plavba"
+      "zemědělská půda"
     ]
   },
   {
@@ -25375,10 +25400,9 @@
       "ochrana životního prostředí",
       "orgány veřejné správy",
       "průzkum nerostných surovin",
-      "prųzkum nerostných surovin",
+      "říční plavba",
       "stavební právo",
-      "zemědělská půda",
-      "říční plavba"
+      "zemědělská půda"
     ]
   },
   {
@@ -25405,10 +25429,9 @@
       "ochrana životního prostředí",
       "orgány veřejné správy",
       "průzkum nerostných surovin",
-      "prųzkum nerostných surovin",
+      "říční plavba",
       "stavební právo",
-      "zemědělská půda",
-      "říční plavba"
+      "zemědělská půda"
     ]
   },
   {
@@ -25435,10 +25458,9 @@
       "ochrana životního prostředí",
       "orgány veřejné správy",
       "průzkum nerostných surovin",
-      "prųzkum nerostných surovin",
+      "říční plavba",
       "stavební právo",
-      "zemědělská půda",
-      "říční plavba"
+      "zemědělská půda"
     ]
   },
   {
@@ -25465,10 +25487,9 @@
       "ochrana životního prostředí",
       "orgány veřejné správy",
       "průzkum nerostných surovin",
-      "prųzkum nerostných surovin",
+      "říční plavba",
       "stavební právo",
-      "zemědělská půda",
-      "říční plavba"
+      "zemědělská půda"
     ]
   },
   {
@@ -25495,10 +25516,9 @@
       "ochrana životního prostředí",
       "orgány veřejné správy",
       "průzkum nerostných surovin",
-      "prųzkum nerostných surovin",
+      "říční plavba",
       "stavební právo",
-      "zemědělská půda",
-      "říční plavba"
+      "zemědělská půda"
     ]
   },
   {
@@ -25525,10 +25545,9 @@
       "ochrana životního prostředí",
       "orgány veřejné správy",
       "průzkum nerostných surovin",
-      "prųzkum nerostných surovin",
+      "říční plavba",
       "stavební právo",
-      "zemědělská půda",
-      "říční plavba"
+      "zemědělská půda"
     ]
   },
   {
@@ -25555,10 +25574,9 @@
       "ochrana životního prostředí",
       "orgány veřejné správy",
       "průzkum nerostných surovin",
-      "prųzkum nerostných surovin",
+      "říční plavba",
       "stavební právo",
-      "zemědělská půda",
-      "říční plavba"
+      "zemědělská půda"
     ]
   },
   {
@@ -25585,10 +25603,9 @@
       "ochrana životního prostředí",
       "orgány veřejné správy",
       "průzkum nerostných surovin",
-      "prųzkum nerostných surovin",
+      "říční plavba",
       "stavební právo",
-      "zemědělská půda",
-      "říční plavba"
+      "zemědělská půda"
     ]
   },
   {
@@ -25615,10 +25632,9 @@
       "ochrana životního prostředí",
       "orgány veřejné správy",
       "průzkum nerostných surovin",
-      "prųzkum nerostných surovin",
+      "říční plavba",
       "stavební právo",
-      "zemědělská půda",
-      "říční plavba"
+      "zemědělská půda"
     ]
   },
   {
@@ -25645,10 +25661,9 @@
       "ochrana životního prostředí",
       "orgány veřejné správy",
       "průzkum nerostných surovin",
-      "prųzkum nerostných surovin",
+      "říční plavba",
       "stavební právo",
-      "zemědělská půda",
-      "říční plavba"
+      "zemědělská půda"
     ]
   },
   {
@@ -25675,10 +25690,9 @@
       "ochrana životního prostředí",
       "orgány veřejné správy",
       "průzkum nerostných surovin",
-      "prųzkum nerostných surovin",
+      "říční plavba",
       "stavební právo",
-      "zemědělská půda",
-      "říční plavba"
+      "zemědělská půda"
     ]
   },
   {
@@ -25705,10 +25719,9 @@
       "ochrana životního prostředí",
       "orgány veřejné správy",
       "průzkum nerostných surovin",
-      "prųzkum nerostných surovin",
+      "říční plavba",
       "stavební právo",
-      "zemědělská půda",
-      "říční plavba"
+      "zemědělská půda"
     ]
   },
   {
@@ -25735,10 +25748,9 @@
       "ochrana životního prostředí",
       "orgány veřejné správy",
       "průzkum nerostných surovin",
-      "prųzkum nerostných surovin",
+      "říční plavba",
       "stavební právo",
-      "zemědělská půda",
-      "říční plavba"
+      "zemědělská půda"
     ]
   },
   {
@@ -25765,10 +25777,9 @@
       "ochrana životního prostředí",
       "orgány veřejné správy",
       "průzkum nerostných surovin",
-      "prųzkum nerostných surovin",
+      "říční plavba",
       "stavební právo",
-      "zemědělská půda",
-      "říční plavba"
+      "zemědělská půda"
     ]
   },
   {
@@ -25795,10 +25806,9 @@
       "ochrana životního prostředí",
       "orgány veřejné správy",
       "průzkum nerostných surovin",
-      "prųzkum nerostných surovin",
+      "říční plavba",
       "stavební právo",
-      "zemědělská půda",
-      "říční plavba"
+      "zemědělská půda"
     ]
   },
   {
@@ -25825,10 +25835,9 @@
       "ochrana životního prostředí",
       "orgány veřejné správy",
       "průzkum nerostných surovin",
-      "prųzkum nerostných surovin",
+      "říční plavba",
       "stavební právo",
-      "zemědělská půda",
-      "říční plavba"
+      "zemědělská půda"
     ]
   },
   {
@@ -25855,10 +25864,9 @@
       "ochrana životního prostředí",
       "orgány veřejné správy",
       "průzkum nerostných surovin",
-      "prųzkum nerostných surovin",
+      "říční plavba",
       "stavební právo",
-      "zemědělská půda",
-      "říční plavba"
+      "zemědělská půda"
     ]
   },
   {
@@ -25916,9 +25924,7 @@
       "not_logged": 24
     },
     "temata": [
-      "informační sí",
       "informační síť",
-      "komunikaèní systém",
       "komunikační systém",
       "poštovní služba",
       "přenos dat",
@@ -25942,9 +25948,7 @@
       "not_logged": 19
     },
     "temata": [
-      "informační sí",
       "informační síť",
-      "komunikaèní systém",
       "komunikační systém",
       "poštovní služba",
       "přenos dat",
@@ -25997,10 +26001,8 @@
     },
     "temata": [
       "daň",
-      "manelské právo",
-      "manelé",
-      "manželské právo",
-      "manželé"
+      "manželé",
+      "manželské právo"
     ]
   },
   {
@@ -26031,10 +26033,8 @@
     },
     "temata": [
       "daň",
-      "manelské právo",
-      "manelé",
-      "manželské právo",
-      "manželé"
+      "manželé",
+      "manželské právo"
     ]
   },
   {
@@ -26359,7 +26359,6 @@
     },
     "temata": [
       "digitalizace dokumentů",
-      "digitalizace dokumentų",
       "elektronická správa",
       "informační systém",
       "ukládání a vyhledávání informací",
@@ -26380,7 +26379,6 @@
     },
     "temata": [
       "digitalizace dokumentů",
-      "digitalizace dokumentų",
       "elektronická správa",
       "informační systém",
       "ukládání a vyhledávání informací",
@@ -26421,9 +26419,8 @@
     },
     "temata": [
       "sociální dávky",
-      "zdravotní průkaz",
-      "zdravotní prųkaz",
-      "zdravotně postižený člověk"
+      "zdravotně postižený člověk",
+      "zdravotní průkaz"
     ]
   },
   {
@@ -27011,17 +27008,12 @@
     },
     "temata": [
       "akvakultura",
-      "biologická diverzita",
       "biologickį diverzita",
-      "invazní druhy",
       "invaznķ druhy",
-      "kontrolní moc",
       "kontrolnķ moc",
-      "rostlinná říše",
       "rostlinnį ųķe",
       "seznam",
-      "ivočinį ųķe",
-      "živočišná říše"
+      "ivočinį ųķe"
     ]
   },
   {
@@ -27038,17 +27030,12 @@
     },
     "temata": [
       "akvakultura",
-      "biologická diverzita",
       "biologickį diverzita",
-      "invazní druhy",
       "invaznķ druhy",
-      "kontrolní moc",
       "kontrolnķ moc",
-      "rostlinná říše",
       "rostlinnį ųķe",
       "seznam",
-      "ivočinį ųķe",
-      "živočišná říše"
+      "ivočinį ųķe"
     ]
   },
   {
@@ -27065,17 +27052,12 @@
     },
     "temata": [
       "akvakultura",
-      "biologická diverzita",
       "biologickį diverzita",
-      "invazní druhy",
       "invaznķ druhy",
-      "kontrolní moc",
       "kontrolnķ moc",
-      "rostlinná říše",
       "rostlinnį ųķe",
       "seznam",
-      "ivočinį ųķe",
-      "živočišná říše"
+      "ivočinį ųķe"
     ]
   },
   {
@@ -27092,17 +27074,12 @@
     },
     "temata": [
       "akvakultura",
-      "biologická diverzita",
       "biologickį diverzita",
-      "invazní druhy",
       "invaznķ druhy",
-      "kontrolní moc",
       "kontrolnķ moc",
-      "rostlinná říše",
       "rostlinnį ųķe",
       "seznam",
-      "ivočinį ųķe",
-      "živočišná říše"
+      "ivočinį ųķe"
     ]
   },
   {
@@ -27119,17 +27096,12 @@
     },
     "temata": [
       "akvakultura",
-      "biologická diverzita",
       "biologickį diverzita",
-      "invazní druhy",
       "invaznķ druhy",
-      "kontrolní moc",
       "kontrolnķ moc",
-      "rostlinná říše",
       "rostlinnį ųķe",
       "seznam",
-      "ivočinį ųķe",
-      "živočišná říše"
+      "ivočinį ųķe"
     ]
   },
   {
@@ -27146,17 +27118,12 @@
     },
     "temata": [
       "akvakultura",
-      "biologická diverzita",
       "biologickį diverzita",
-      "invazní druhy",
       "invaznķ druhy",
-      "kontrolní moc",
       "kontrolnķ moc",
-      "rostlinná říše",
       "rostlinnį ųķe",
       "seznam",
-      "ivočinį ųķe",
-      "živočišná říše"
+      "ivočinį ųķe"
     ]
   },
   {
@@ -27173,17 +27140,12 @@
     },
     "temata": [
       "akvakultura",
-      "biologická diverzita",
       "biologickį diverzita",
-      "invazní druhy",
       "invaznķ druhy",
-      "kontrolní moc",
       "kontrolnķ moc",
-      "rostlinná říše",
       "rostlinnį ųķe",
       "seznam",
-      "ivočinį ųķe",
-      "živočišná říše"
+      "ivočinį ųķe"
     ]
   },
   {
@@ -27200,17 +27162,12 @@
     },
     "temata": [
       "akvakultura",
-      "biologická diverzita",
       "biologickį diverzita",
-      "invazní druhy",
       "invaznķ druhy",
-      "kontrolní moc",
       "kontrolnķ moc",
-      "rostlinná říše",
       "rostlinnį ųķe",
       "seznam",
-      "ivočinį ųķe",
-      "živočišná říše"
+      "ivočinį ųķe"
     ]
   },
   {
@@ -27227,17 +27184,12 @@
     },
     "temata": [
       "akvakultura",
-      "biologická diverzita",
       "biologickį diverzita",
-      "invazní druhy",
       "invaznķ druhy",
-      "kontrolní moc",
       "kontrolnķ moc",
-      "rostlinná říše",
       "rostlinnį ųķe",
       "seznam",
-      "ivočinį ųķe",
-      "živočišná říše"
+      "ivočinį ųķe"
     ]
   },
   {
@@ -27254,17 +27206,12 @@
     },
     "temata": [
       "akvakultura",
-      "biologická diverzita",
       "biologickį diverzita",
-      "invazní druhy",
       "invaznķ druhy",
-      "kontrolní moc",
       "kontrolnķ moc",
-      "rostlinná říše",
       "rostlinnį ųķe",
       "seznam",
-      "ivočinį ųķe",
-      "živočišná říše"
+      "ivočinį ųķe"
     ]
   },
   {
@@ -27281,17 +27228,12 @@
     },
     "temata": [
       "akvakultura",
-      "biologická diverzita",
       "biologickį diverzita",
-      "invazní druhy",
       "invaznķ druhy",
-      "kontrolní moc",
       "kontrolnķ moc",
-      "rostlinná říše",
       "rostlinnį ųķe",
       "seznam",
-      "ivočinį ųķe",
-      "živočišná říše"
+      "ivočinį ųķe"
     ]
   },
   {
@@ -27308,17 +27250,12 @@
     },
     "temata": [
       "akvakultura",
-      "biologická diverzita",
       "biologickį diverzita",
-      "invazní druhy",
       "invaznķ druhy",
-      "kontrolní moc",
       "kontrolnķ moc",
-      "rostlinná říše",
       "rostlinnį ųķe",
       "seznam",
-      "ivočinį ųķe",
-      "živočišná říše"
+      "ivočinį ųķe"
     ]
   },
   {
@@ -27335,17 +27272,12 @@
     },
     "temata": [
       "akvakultura",
-      "biologická diverzita",
       "biologickį diverzita",
-      "invazní druhy",
       "invaznķ druhy",
-      "kontrolní moc",
       "kontrolnķ moc",
-      "rostlinná říše",
       "rostlinnį ųķe",
       "seznam",
-      "ivočinį ųķe",
-      "živočišná říše"
+      "ivočinį ųķe"
     ]
   },
   {
@@ -27362,17 +27294,12 @@
     },
     "temata": [
       "akvakultura",
-      "biologická diverzita",
       "biologickį diverzita",
-      "invazní druhy",
       "invaznķ druhy",
-      "kontrolní moc",
       "kontrolnķ moc",
-      "rostlinná říše",
       "rostlinnį ųķe",
       "seznam",
-      "ivočinį ųķe",
-      "živočišná říše"
+      "ivočinį ųķe"
     ]
   },
   {
@@ -27389,17 +27316,12 @@
     },
     "temata": [
       "akvakultura",
-      "biologická diverzita",
       "biologickį diverzita",
-      "invazní druhy",
       "invaznķ druhy",
-      "kontrolní moc",
       "kontrolnķ moc",
-      "rostlinná říše",
       "rostlinnį ųķe",
       "seznam",
-      "ivočinį ųķe",
-      "živočišná říše"
+      "ivočinį ųķe"
     ]
   },
   {
@@ -27416,17 +27338,12 @@
     },
     "temata": [
       "akvakultura",
-      "biologická diverzita",
       "biologickį diverzita",
-      "invazní druhy",
       "invaznķ druhy",
-      "kontrolní moc",
       "kontrolnķ moc",
-      "rostlinná říše",
       "rostlinnį ųķe",
       "seznam",
-      "ivočinį ųķe",
-      "živočišná říše"
+      "ivočinį ųķe"
     ]
   },
   {
@@ -27443,17 +27360,12 @@
     },
     "temata": [
       "akvakultura",
-      "biologická diverzita",
       "biologickį diverzita",
-      "invazní druhy",
       "invaznķ druhy",
-      "kontrolní moc",
       "kontrolnķ moc",
-      "rostlinná říše",
       "rostlinnį ųķe",
       "seznam",
-      "ivočinį ųķe",
-      "živočišná říše"
+      "ivočinį ųķe"
     ]
   },
   {
@@ -27470,17 +27382,12 @@
     },
     "temata": [
       "akvakultura",
-      "biologická diverzita",
       "biologickį diverzita",
-      "invazní druhy",
       "invaznķ druhy",
-      "kontrolní moc",
       "kontrolnķ moc",
-      "rostlinná říše",
       "rostlinnį ųķe",
       "seznam",
-      "ivočinį ųķe",
-      "živočišná říše"
+      "ivočinį ųķe"
     ]
   },
   {
@@ -27497,17 +27404,12 @@
     },
     "temata": [
       "akvakultura",
-      "biologická diverzita",
       "biologickį diverzita",
-      "invazní druhy",
       "invaznķ druhy",
-      "kontrolní moc",
       "kontrolnķ moc",
-      "rostlinná říše",
       "rostlinnį ųķe",
       "seznam",
-      "ivočinį ųķe",
-      "živočišná říše"
+      "ivočinį ųķe"
     ]
   },
   {
@@ -27623,7 +27525,6 @@
       "not_logged": 17
     },
     "temata": [
-      "ekologické zemėdėlství",
       "ekologické zemědělství",
       "orná půda",
       "příprava půdy",
@@ -28287,11 +28188,9 @@
     },
     "temata": [
       "daò z pøidané hodnoty",
-      "daň z přidané hodnoty",
       "dovoz",
       "elektronický obchod",
-      "pøibližování legislativy",
-      "přibližování legislativy"
+      "pøibližování legislativy"
     ]
   },
   {
@@ -29283,10 +29182,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -29306,10 +29204,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -29329,10 +29226,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -29431,7 +29327,6 @@
     },
     "temata": [
       "financování rozpočtu",
-      "plnėní rozpočtu",
       "plnění rozpočtu",
       "státní rozpočet"
     ]
@@ -29450,7 +29345,6 @@
     },
     "temata": [
       "financování rozpočtu",
-      "plnėní rozpočtu",
       "plnění rozpočtu",
       "státní rozpočet"
     ]
@@ -29469,7 +29363,6 @@
     },
     "temata": [
       "financování rozpočtu",
-      "plnėní rozpočtu",
       "plnění rozpočtu",
       "státní rozpočet"
     ]
@@ -29488,7 +29381,6 @@
     },
     "temata": [
       "financování rozpočtu",
-      "plnėní rozpočtu",
       "plnění rozpočtu",
       "státní rozpočet"
     ]
@@ -29747,7 +29639,6 @@
     "temata": [
       "elektronický podpis",
       "jmenování pracovníků",
-      "notáø",
       "notář"
     ]
   },
@@ -30076,7 +29967,6 @@
       "not_logged": 6
     },
     "temata": [
-      "celoivotní vzdėlávání",
       "celoživotní vzdělávání",
       "odborná kvalifikace",
       "učitel",
@@ -30644,15 +30534,14 @@
       "not_logged": 8
     },
     "temata": [
+      "čistá technologie",
       "elektrická energie",
       "jaderná elektrárna",
       "jaderná energie",
       "obnovitelná energie",
       "ochrana životního prostředí",
       "zachycování a ukládání oxidu uhličitého",
-      "zaruèená cena",
-      "zaručená cena",
-      "čistá technologie"
+      "zaručená cena"
     ]
   },
   {
@@ -30668,15 +30557,14 @@
       "not_logged": 7
     },
     "temata": [
+      "čistá technologie",
       "elektrická energie",
       "jaderná elektrárna",
       "jaderná energie",
       "obnovitelná energie",
       "ochrana životního prostředí",
       "zachycování a ukládání oxidu uhličitého",
-      "zaruèená cena",
-      "zaručená cena",
-      "čistá technologie"
+      "zaručená cena"
     ]
   },
   {
@@ -30692,15 +30580,14 @@
       "not_logged": 5
     },
     "temata": [
+      "čistá technologie",
       "elektrická energie",
       "jaderná elektrárna",
       "jaderná energie",
       "obnovitelná energie",
       "ochrana životního prostředí",
       "zachycování a ukládání oxidu uhličitého",
-      "zaruèená cena",
-      "zaručená cena",
-      "čistá technologie"
+      "zaručená cena"
     ]
   },
   {
@@ -30716,15 +30603,14 @@
       "not_logged": 5
     },
     "temata": [
+      "čistá technologie",
       "elektrická energie",
       "jaderná elektrárna",
       "jaderná energie",
       "obnovitelná energie",
       "ochrana životního prostředí",
       "zachycování a ukládání oxidu uhličitého",
-      "zaruèená cena",
-      "zaručená cena",
-      "čistá technologie"
+      "zaručená cena"
     ]
   },
   {
@@ -30740,15 +30626,14 @@
       "not_logged": 5
     },
     "temata": [
+      "čistá technologie",
       "elektrická energie",
       "jaderná elektrárna",
       "jaderná energie",
       "obnovitelná energie",
       "ochrana životního prostředí",
       "zachycování a ukládání oxidu uhličitého",
-      "zaruèená cena",
-      "zaručená cena",
-      "čistá technologie"
+      "zaručená cena"
     ]
   },
   {
@@ -30764,15 +30649,14 @@
       "not_logged": 5
     },
     "temata": [
+      "čistá technologie",
       "elektrická energie",
       "jaderná elektrárna",
       "jaderná energie",
       "obnovitelná energie",
       "ochrana životního prostředí",
       "zachycování a ukládání oxidu uhličitého",
-      "zaruèená cena",
-      "zaručená cena",
-      "čistá technologie"
+      "zaručená cena"
     ]
   },
   {
@@ -30788,15 +30672,14 @@
       "not_logged": 5
     },
     "temata": [
+      "čistá technologie",
       "elektrická energie",
       "jaderná elektrárna",
       "jaderná energie",
       "obnovitelná energie",
       "ochrana životního prostředí",
       "zachycování a ukládání oxidu uhličitého",
-      "zaruèená cena",
-      "zaručená cena",
-      "čistá technologie"
+      "zaručená cena"
     ]
   },
   {
@@ -30812,15 +30695,14 @@
       "not_logged": 4
     },
     "temata": [
+      "čistá technologie",
       "elektrická energie",
       "jaderná elektrárna",
       "jaderná energie",
       "obnovitelná energie",
       "ochrana životního prostředí",
       "zachycování a ukládání oxidu uhličitého",
-      "zaruèená cena",
-      "zaručená cena",
-      "čistá technologie"
+      "zaručená cena"
     ]
   },
   {
@@ -30836,15 +30718,14 @@
       "not_logged": 2
     },
     "temata": [
+      "čistá technologie",
       "elektrická energie",
       "jaderná elektrárna",
       "jaderná energie",
       "obnovitelná energie",
       "ochrana životního prostředí",
       "zachycování a ukládání oxidu uhličitého",
-      "zaruèená cena",
-      "zaručená cena",
-      "čistá technologie"
+      "zaručená cena"
     ]
   },
   {
@@ -30860,15 +30741,14 @@
       "not_logged": 3
     },
     "temata": [
+      "čistá technologie",
       "elektrická energie",
       "jaderná elektrárna",
       "jaderná energie",
       "obnovitelná energie",
       "ochrana životního prostředí",
       "zachycování a ukládání oxidu uhličitého",
-      "zaruèená cena",
-      "zaručená cena",
-      "čistá technologie"
+      "zaručená cena"
     ]
   },
   {
@@ -30884,15 +30764,14 @@
       "not_logged": 3
     },
     "temata": [
+      "čistá technologie",
       "elektrická energie",
       "jaderná elektrárna",
       "jaderná energie",
       "obnovitelná energie",
       "ochrana životního prostředí",
       "zachycování a ukládání oxidu uhličitého",
-      "zaruèená cena",
-      "zaručená cena",
-      "čistá technologie"
+      "zaručená cena"
     ]
   },
   {
@@ -30908,15 +30787,14 @@
       "not_logged": 3
     },
     "temata": [
+      "čistá technologie",
       "elektrická energie",
       "jaderná elektrárna",
       "jaderná energie",
       "obnovitelná energie",
       "ochrana životního prostředí",
       "zachycování a ukládání oxidu uhličitého",
-      "zaruèená cena",
-      "zaručená cena",
-      "čistá technologie"
+      "zaručená cena"
     ]
   },
   {
@@ -30932,15 +30810,14 @@
       "not_logged": 3
     },
     "temata": [
+      "čistá technologie",
       "elektrická energie",
       "jaderná elektrárna",
       "jaderná energie",
       "obnovitelná energie",
       "ochrana životního prostředí",
       "zachycování a ukládání oxidu uhličitého",
-      "zaruèená cena",
-      "zaručená cena",
-      "čistá technologie"
+      "zaručená cena"
     ]
   },
   {
@@ -30956,15 +30833,14 @@
       "not_logged": 3
     },
     "temata": [
+      "čistá technologie",
       "elektrická energie",
       "jaderná elektrárna",
       "jaderná energie",
       "obnovitelná energie",
       "ochrana životního prostředí",
       "zachycování a ukládání oxidu uhličitého",
-      "zaruèená cena",
-      "zaručená cena",
-      "čistá technologie"
+      "zaručená cena"
     ]
   },
   {
@@ -30980,15 +30856,14 @@
       "not_logged": 3
     },
     "temata": [
+      "čistá technologie",
       "elektrická energie",
       "jaderná elektrárna",
       "jaderná energie",
       "obnovitelná energie",
       "ochrana životního prostředí",
       "zachycování a ukládání oxidu uhličitého",
-      "zaruèená cena",
-      "zaručená cena",
-      "čistá technologie"
+      "zaručená cena"
     ]
   },
   {
@@ -31004,15 +30879,14 @@
       "not_logged": 3
     },
     "temata": [
+      "čistá technologie",
       "elektrická energie",
       "jaderná elektrárna",
       "jaderná energie",
       "obnovitelná energie",
       "ochrana životního prostředí",
       "zachycování a ukládání oxidu uhličitého",
-      "zaruèená cena",
-      "zaručená cena",
-      "čistá technologie"
+      "zaručená cena"
     ]
   },
   {
@@ -31028,15 +30902,14 @@
       "not_logged": 3
     },
     "temata": [
+      "čistá technologie",
       "elektrická energie",
       "jaderná elektrárna",
       "jaderná energie",
       "obnovitelná energie",
       "ochrana životního prostředí",
       "zachycování a ukládání oxidu uhličitého",
-      "zaruèená cena",
-      "zaručená cena",
-      "čistá technologie"
+      "zaručená cena"
     ]
   },
   {
@@ -31101,10 +30974,8 @@
       "banka",
       "bankovní dohled",
       "centrální banka",
-      "finanèní instituce",
       "finanční instituce",
       "finanční trh",
-      "mėnová krize",
       "měnová krize",
       "přibližování legislativy",
       "úvěrová instituce"
@@ -31233,17 +31104,14 @@
     },
     "temata": [
       "digitalizace dokumentů",
-      "digitalizace dokumentų",
       "elektronická správa",
-      "lékaøské údaje",
       "lékařské údaje",
       "ochrana komunikací",
       "organizace zdravotnictví",
       "osobní údaje",
       "ukládání a vyhledávání informací",
       "zdravotnická legislativa",
-      "zdravotní průkaz",
-      "zdravotní prųkaz"
+      "zdravotní průkaz"
     ]
   },
   {
@@ -31340,10 +31208,9 @@
     "temata": [
       "epidemie",
       "informace",
-      "ochranné zaøízení",
       "ochranné zařízení",
-      "veřejná hygiena",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejná hygiena"
     ]
   },
   {
@@ -31361,10 +31228,9 @@
     "temata": [
       "epidemie",
       "informace",
-      "ochranné zaøízení",
       "ochranné zařízení",
-      "veřejná hygiena",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejná hygiena"
     ]
   },
   {
@@ -31382,10 +31248,9 @@
     "temata": [
       "epidemie",
       "informace",
-      "ochranné zaøízení",
       "ochranné zařízení",
-      "veřejná hygiena",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejná hygiena"
     ]
   },
   {
@@ -31403,10 +31268,9 @@
     "temata": [
       "epidemie",
       "informace",
-      "ochranné zaøízení",
       "ochranné zařízení",
-      "veřejná hygiena",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejná hygiena"
     ]
   },
   {
@@ -32042,25 +31906,16 @@
       "not_logged": 2
     },
     "temata": [
-      "farmaceutické náklady",
       "farmaceutické nįklady",
-      "farmaceutický výrobek",
       "farmaceutickż vżrobek",
       "pojistné",
       "pojiovna",
-      "pojišťovna",
       "veobecné zdravotnķ pojitģnķ",
-      "výdaje na zdraví",
-      "všeobecné zdravotní pojištění",
       "vżdaje na zdravķ",
-      "zdravotnická služba",
       "zdravotnickį sluba",
-      "zdravotní pojištění",
-      "zdravotní politika",
-      "zdravotní péče",
+      "zdravotnķ péče",
       "zdravotnķ pojitģnķ",
       "zdravotnķ politika",
-      "zdravotnķ péče",
       "zubnķ lékaųstvķ"
     ]
   },
@@ -32074,6 +31929,26 @@
       "no": 36,
       "abstain": 7,
       "absent": 43,
+      "not_logged": 17
+    },
+    "temata": [
+      "částečný pracovní úvazek",
+      "mzda",
+      "podpora v nezaměstnanosti",
+      "podpora zaměstnanosti",
+      "politika zaměstnanosti"
+    ]
+  },
+  {
+    "id": 76762,
+    "date": "2021-06-18",
+    "title": "Novela z. o myslivosti",
+    "result": "prijato",
+    "vote_summary": {
+      "yes": 111,
+      "no": 6,
+      "abstain": 26,
+      "absent": 40,
       "not_logged": 17
     },
     "temata": [
@@ -33141,17 +33016,14 @@
     },
     "temata": [
       "digitalizace dokumentů",
-      "digitalizace dokumentų",
       "elektronická správa",
-      "lékaøské údaje",
       "lékařské údaje",
       "ochrana komunikací",
       "organizace zdravotnictví",
       "osobní údaje",
       "ukládání a vyhledávání informací",
       "zdravotnická legislativa",
-      "zdravotní průkaz",
-      "zdravotní prųkaz"
+      "zdravotní průkaz"
     ]
   },
   {
@@ -33168,17 +33040,14 @@
     },
     "temata": [
       "digitalizace dokumentů",
-      "digitalizace dokumentų",
       "elektronická správa",
-      "lékaøské údaje",
       "lékařské údaje",
       "ochrana komunikací",
       "organizace zdravotnictví",
       "osobní údaje",
       "ukládání a vyhledávání informací",
       "zdravotnická legislativa",
-      "zdravotní průkaz",
-      "zdravotní prųkaz"
+      "zdravotní průkaz"
     ]
   },
   {
@@ -33195,17 +33064,14 @@
     },
     "temata": [
       "digitalizace dokumentů",
-      "digitalizace dokumentų",
       "elektronická správa",
-      "lékaøské údaje",
       "lékařské údaje",
       "ochrana komunikací",
       "organizace zdravotnictví",
       "osobní údaje",
       "ukládání a vyhledávání informací",
       "zdravotnická legislativa",
-      "zdravotní průkaz",
-      "zdravotní prųkaz"
+      "zdravotní průkaz"
     ]
   },
   {
@@ -33222,17 +33088,14 @@
     },
     "temata": [
       "digitalizace dokumentů",
-      "digitalizace dokumentų",
       "elektronická správa",
-      "lékaøské údaje",
       "lékařské údaje",
       "ochrana komunikací",
       "organizace zdravotnictví",
       "osobní údaje",
       "ukládání a vyhledávání informací",
       "zdravotnická legislativa",
-      "zdravotní průkaz",
-      "zdravotní prųkaz"
+      "zdravotní průkaz"
     ]
   },
   {
@@ -33249,17 +33112,14 @@
     },
     "temata": [
       "digitalizace dokumentů",
-      "digitalizace dokumentų",
       "elektronická správa",
-      "lékaøské údaje",
       "lékařské údaje",
       "ochrana komunikací",
       "organizace zdravotnictví",
       "osobní údaje",
       "ukládání a vyhledávání informací",
       "zdravotnická legislativa",
-      "zdravotní průkaz",
-      "zdravotní prųkaz"
+      "zdravotní průkaz"
     ]
   },
   {
@@ -33276,17 +33136,14 @@
     },
     "temata": [
       "digitalizace dokumentů",
-      "digitalizace dokumentų",
       "elektronická správa",
-      "lékaøské údaje",
       "lékařské údaje",
       "ochrana komunikací",
       "organizace zdravotnictví",
       "osobní údaje",
       "ukládání a vyhledávání informací",
       "zdravotnická legislativa",
-      "zdravotní průkaz",
-      "zdravotní prųkaz"
+      "zdravotní průkaz"
     ]
   },
   {
@@ -33303,17 +33160,14 @@
     },
     "temata": [
       "digitalizace dokumentů",
-      "digitalizace dokumentų",
       "elektronická správa",
-      "lékaøské údaje",
       "lékařské údaje",
       "ochrana komunikací",
       "organizace zdravotnictví",
       "osobní údaje",
       "ukládání a vyhledávání informací",
       "zdravotnická legislativa",
-      "zdravotní průkaz",
-      "zdravotní prųkaz"
+      "zdravotní průkaz"
     ]
   },
   {
@@ -33330,17 +33184,14 @@
     },
     "temata": [
       "digitalizace dokumentů",
-      "digitalizace dokumentų",
       "elektronická správa",
-      "lékaøské údaje",
       "lékařské údaje",
       "ochrana komunikací",
       "organizace zdravotnictví",
       "osobní údaje",
       "ukládání a vyhledávání informací",
       "zdravotnická legislativa",
-      "zdravotní průkaz",
-      "zdravotní prųkaz"
+      "zdravotní průkaz"
     ]
   },
   {
@@ -33357,17 +33208,14 @@
     },
     "temata": [
       "digitalizace dokumentů",
-      "digitalizace dokumentų",
       "elektronická správa",
-      "lékaøské údaje",
       "lékařské údaje",
       "ochrana komunikací",
       "organizace zdravotnictví",
       "osobní údaje",
       "ukládání a vyhledávání informací",
       "zdravotnická legislativa",
-      "zdravotní průkaz",
-      "zdravotní prųkaz"
+      "zdravotní průkaz"
     ]
   },
   {
@@ -33670,12 +33518,10 @@
     },
     "temata": [
       "financování rozpočtu",
-      "plnėní rozpočtu",
       "plnění rozpočtu",
       "tisková agentura",
-      "zpráva o činnosti",
-      "účetní uzávėrka",
-      "účetní uzávěrka"
+      "účetní uzávěrka",
+      "zpráva o činnosti"
     ]
   },
   {
@@ -33692,9 +33538,8 @@
     },
     "temata": [
       "dopravní infrastruktura",
-      "zpráva o činnosti",
-      "účetní uzávėrka",
-      "účetní uzávěrka"
+      "účetní uzávěrka",
+      "zpráva o činnosti"
     ]
   },
   {
@@ -33712,7 +33557,6 @@
     "temata": [
       "Agentura Evropské unie pro základní práva",
       "lidská práva",
-      "naøízení (EU)",
       "nařízení (EU)",
       "práva jednotlivce",
       "ratifikace dohody"
@@ -33733,7 +33577,6 @@
     "temata": [
       "Agentura Evropské unie pro základní práva",
       "lidská práva",
-      "naøízení (EU)",
       "nařízení (EU)",
       "práva jednotlivce",
       "ratifikace dohody"
@@ -33754,10 +33597,9 @@
     "temata": [
       "epidemie",
       "informace",
-      "ochranné zaøízení",
       "ochranné zařízení",
-      "veřejná hygiena",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejná hygiena"
     ]
   },
   {
@@ -33775,10 +33617,9 @@
     "temata": [
       "epidemie",
       "informace",
-      "ochranné zaøízení",
       "ochranné zařízení",
-      "veřejná hygiena",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejná hygiena"
     ]
   },
   {
@@ -33928,11 +33769,9 @@
     "temata": [
       "horní komora",
       "parlamentní volby",
-      "pøedčasné volby",
       "předčasné volby",
       "regionální volby",
       "rozdělení na volební kraje",
-      "rozputėní parlamentu",
       "rozpuštění parlamentu",
       "volební právo"
     ]
@@ -33950,11 +33789,8 @@
       "not_logged": 38
     },
     "temata": [
-      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "ochrana půdy",
-      "ochrana pųdy",
-      "zemėdėlské vyuívání pųdy",
       "zemědělská půda",
       "zemědělské využívání půdy"
     ]
@@ -34010,11 +33846,8 @@
       "not_logged": 29
     },
     "temata": [
-      "cena zemėdėlské pųdy",
       "cena zemědělské půdy",
       "ochrana půdy",
-      "ochrana pųdy",
-      "zemėdėlské vyuívání pųdy",
       "zemědělská půda",
       "zemědělské využívání půdy"
     ]
@@ -34823,10 +34656,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -34846,10 +34678,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -34869,10 +34700,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -34892,10 +34722,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -34915,10 +34744,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -34945,10 +34773,9 @@
       "ochrana životního prostředí",
       "orgány veřejné správy",
       "průzkum nerostných surovin",
-      "prųzkum nerostných surovin",
+      "říční plavba",
       "stavební právo",
-      "zemědělská půda",
-      "říční plavba"
+      "zemědělská půda"
     ]
   },
   {
@@ -36218,7 +36045,6 @@
       "obnovitelná energie",
       "obnovitelné zdroje",
       "podpůrná cena",
-      "podpųrná cena",
       "státní podpora"
     ]
   },
@@ -36583,10 +36409,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -36606,10 +36431,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -36629,10 +36453,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -36652,10 +36475,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -36675,10 +36497,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -36698,10 +36519,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -36721,10 +36541,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -36744,10 +36563,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -36767,10 +36585,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -36790,10 +36607,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -36813,10 +36629,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -36836,10 +36651,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -36859,10 +36673,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -36882,10 +36695,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -36905,10 +36717,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -36928,10 +36739,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -36951,10 +36761,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -36974,10 +36783,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -36997,10 +36805,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -37020,10 +36827,9 @@
       "stavebnictví",
       "stavební povolení",
       "stavební právo",
-      "veøejné stavitelství",
-      "veřejné stavitelství",
       "územní plánování",
-      "územní samospráva"
+      "územní samospráva",
+      "veřejné stavitelství"
     ]
   },
   {
@@ -37045,376 +36851,7 @@
       "energetické právo",
       "obchodní zprostředkovatel",
       "plynárenský průmysl",
-      "plynárenský prųmysl",
       "výroba energie"
-    ]
-  },
-  {
-    "id": 77031,
-    "date": "2021-07-28",
-    "title": "Ověřovatelé 113. schůze",
-    "result": "prijato",
-    "vote_summary": {
-      "yes": 83,
-      "no": 0,
-      "abstain": 6,
-      "absent": 83,
-      "not_logged": 28
-    },
-    "temata": []
-  },
-  {
-    "id": 77032,
-    "date": "2021-07-28",
-    "title": "Pořad 113. schůze",
-    "result": "prijato",
-    "vote_summary": {
-      "yes": 96,
-      "no": 0,
-      "abstain": 2,
-      "absent": 84,
-      "not_logged": 18
-    },
-    "temata": []
-  },
-  {
-    "id": 77033,
-    "date": "2021-07-28",
-    "title": "Vládní návrh zákona, kterým se mění zákon č. 247/2014 Sb., o poskytová",
-    "result": "prijato",
-    "vote_summary": {
-      "yes": 105,
-      "no": 0,
-      "abstain": 5,
-      "absent": 83,
-      "not_logged": 7
-    },
-    "temata": [
-      "inflace",
-      "práva dítěte",
-      "rodinné právo",
-      "sociální dávky",
-      "vyživovací povinnost"
-    ]
-  },
-  {
-    "id": 77034,
-    "date": "2021-07-28",
-    "title": "Vládní návrh zákona, kterým se mění zákon č. 247/2014 Sb., o poskytová",
-    "result": "prijato",
-    "vote_summary": {
-      "yes": 99,
-      "no": 0,
-      "abstain": 11,
-      "absent": 83,
-      "not_logged": 7
-    },
-    "temata": [
-      "inflace",
-      "práva dítěte",
-      "rodinné právo",
-      "sociální dávky",
-      "vyživovací povinnost"
-    ]
-  },
-  {
-    "id": 77035,
-    "date": "2021-07-28",
-    "title": "Vládní návrh zákona, kterým se mění zákon č. 247/2014 Sb., o poskytová",
-    "result": "prijato",
-    "vote_summary": {
-      "yes": 105,
-      "no": 0,
-      "abstain": 5,
-      "absent": 83,
-      "not_logged": 7
-    },
-    "temata": [
-      "dítě",
-      "hlídání dětí",
-      "mateřská škola",
-      "neformální výuka",
-      "předškolní výchova",
-      "rodinná politika",
-      "služba ve veřejném zájmu",
-      "sociální služby"
-    ]
-  },
-  {
-    "id": 77036,
-    "date": "2021-07-28",
-    "title": "Návrh poslanců Aleny Gajdůškové, Jana Chvojky, Kateřiny Valachové, Rom",
-    "result": "prijato",
-    "vote_summary": {
-      "yes": 94,
-      "no": 0,
-      "abstain": 13,
-      "absent": 84,
-      "not_logged": 9
-    },
-    "temata": []
-  },
-  {
-    "id": 77037,
-    "date": "2021-07-28",
-    "title": "Návrh poslanců Aleny Gajdůškové, Jana Chvojky, Kateřiny Valachové, Rom",
-    "result": "prijato",
-    "vote_summary": {
-      "yes": 94,
-      "no": 0,
-      "abstain": 15,
-      "absent": 84,
-      "not_logged": 7
-    },
-    "temata": []
-  },
-  {
-    "id": 77038,
-    "date": "2021-07-28",
-    "title": "Návrh poslanců Aleny Gajdůškové, Jana Chvojky, Kateřiny Valachové, Rom",
-    "result": "prijato",
-    "vote_summary": {
-      "yes": 104,
-      "no": 0,
-      "abstain": 5,
-      "absent": 84,
-      "not_logged": 7
-    },
-    "temata": []
-  },
-  {
-    "id": 77039,
-    "date": "2021-07-28",
-    "title": "Návrh poslanců Aleny Gajdůškové, Jana Chvojky, Kateřiny Valachové, Rom",
-    "result": "prijato",
-    "vote_summary": {
-      "yes": 99,
-      "no": 0,
-      "abstain": 9,
-      "absent": 84,
-      "not_logged": 8
-    },
-    "temata": []
-  },
-  {
-    "id": 77040,
-    "date": "2021-07-28",
-    "title": "Návrh poslanců Aleny Gajdůškové, Jana Chvojky, Kateřiny Valachové, Rom",
-    "result": "prijato",
-    "vote_summary": {
-      "yes": 105,
-      "no": 0,
-      "abstain": 4,
-      "absent": 84,
-      "not_logged": 7
-    },
-    "temata": [
-      "otcovská dovolená",
-      "oetøovatelská péče",
-      "ošetřovatelská péče",
-      "péče o postižené osoby",
-      "sociální dávky",
-      "zdravotní pojištění"
-    ]
-  },
-  {
-    "id": 77041,
-    "date": "2021-07-28",
-    "title": "Vládní návrh zákona, kterým se mění zákon č. 359/1999 Sb., o sociálně-",
-    "result": "prijato",
-    "vote_summary": {
-      "yes": 65,
-      "no": 15,
-      "abstain": 29,
-      "absent": 84,
-      "not_logged": 7
-    },
-    "temata": [
-      "inflace",
-      "práva dítěte",
-      "rodinné právo",
-      "sociální dávky",
-      "vyživovací povinnost"
-    ]
-  },
-  {
-    "id": 77042,
-    "date": "2021-07-28",
-    "title": "Ověřovatelé 114. schůze",
-    "result": "prijato",
-    "vote_summary": {
-      "yes": 66,
-      "no": 5,
-      "abstain": 39,
-      "absent": 86,
-      "not_logged": 4
-    },
-    "temata": []
-  },
-  {
-    "id": 77043,
-    "date": "2021-07-28",
-    "title": "Pořad 114. schůze",
-    "result": "zamitnuto",
-    "vote_summary": {
-      "yes": 53,
-      "no": 22,
-      "abstain": 34,
-      "absent": 86,
-      "not_logged": 5
-    },
-    "temata": []
-  },
-  {
-    "id": 77044,
-    "date": "2021-07-28",
-    "title": "Pořad 114. schůze",
-    "result": "prijato",
-    "vote_summary": {
-      "yes": 71,
-      "no": 24,
-      "abstain": 6,
-      "absent": 86,
-      "not_logged": 13
-    },
-    "temata": []
-  },
-  {
-    "id": 77045,
-    "date": "2021-07-28",
-    "title": "Pořad 114. schůze",
-    "result": "prijato",
-    "vote_summary": {
-      "yes": 85,
-      "no": 6,
-      "abstain": 7,
-      "absent": 87,
-      "not_logged": 15
-    },
-    "temata": []
-  },
-  {
-    "id": 77046,
-    "date": "2021-07-28",
-    "title": "114. schůze",
-    "result": "zamitnuto",
-    "vote_summary": {
-      "yes": 26,
-      "no": 28,
-      "abstain": 46,
-      "absent": 87,
-      "not_logged": 13
-    },
-    "temata": []
-  },
-  {
-    "id": 77047,
-    "date": "2021-07-28",
-    "title": "114. schůze",
-    "result": "zamitnuto",
-    "vote_summary": {
-      "yes": 32,
-      "no": 26,
-      "abstain": 42,
-      "absent": 86,
-      "not_logged": 14
-    },
-    "temata": []
-  },
-  {
-    "id": 77048,
-    "date": "2021-07-30",
-    "title": "Ověřovatelé 115. schůze",
-    "result": "prijato",
-    "vote_summary": {
-      "yes": 83,
-      "no": 0,
-      "abstain": 9,
-      "absent": 74,
-      "not_logged": 34
-    },
-    "temata": []
-  },
-  {
-    "id": 77049,
-    "date": "2021-07-30",
-    "title": "Pořad 115. schůze",
-    "result": "prijato",
-    "vote_summary": {
-      "yes": 99,
-      "no": 0,
-      "abstain": 8,
-      "absent": 73,
-      "not_logged": 20
-    },
-    "temata": []
-  },
-  {
-    "id": 77050,
-    "date": "2021-07-30",
-    "title": "Vládní návrh zákona, kterým se mění zákon č. 155/1995 Sb., o důchodové",
-    "result": "zamitnuto",
-    "vote_summary": {
-      "yes": 14,
-      "no": 6,
-      "abstain": 100,
-      "absent": 73,
-      "not_logged": 7
-    },
-    "temata": [
-      "důchodový plán",
-      "sociální dávky"
-    ]
-  },
-  {
-    "id": 77051,
-    "date": "2021-07-30",
-    "title": "Vládní návrh zákona, kterým se mění zákon č. 155/1995 Sb., o důchodové",
-    "result": "prijato",
-    "vote_summary": {
-      "yes": 72,
-      "no": 1,
-      "abstain": 48,
-      "absent": 73,
-      "not_logged": 6
-    },
-    "temata": [
-      "důchodový plán",
-      "sociální dávky"
-    ]
-  },
-  {
-    "id": 77052,
-    "date": "2021-07-30",
-    "title": "Vládní návrh zákona, kterým se mění zákon č. 155/1995 Sb., o důchodové",
-    "result": "zamitnuto",
-    "vote_summary": {
-      "yes": 33,
-      "no": 5,
-      "abstain": 84,
-      "absent": 73,
-      "not_logged": 5
-    },
-    "temata": [
-      "důchodový plán",
-      "sociální dávky"
-    ]
-  },
-  {
-    "id": 77053,
-    "date": "2021-07-30",
-    "title": "Vládní návrh zákona, kterým se mění zákon č. 155/1995 Sb., o důchodové",
-    "result": "zamitnuto",
-    "vote_summary": {
-      "yes": 47,
-      "no": 6,
-      "abstain": 70,
-      "absent": 73,
-      "not_logged": 4
-    },
-    "temata": [
-      "důchodový plán",
-      "sociální dávky"
     ]
   }
 ]

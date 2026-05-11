@@ -1,66 +1,90 @@
-[
+﻿[
   {
     "party_id": "ano",
     "mps_count": 83,
-    "avg_attendance": 90.67,
-    "unity_score": 0.954,
-    "total_eligible_votes": 62166,
-    "total_attended": 56369
+    "avg_attendance": 88.67,
+    "unity_score": 0.956,
+    "total_eligible_votes": 83840,
+    "total_attended": 74339
   },
   {
     "party_id": "ods",
     "mps_count": 27,
-    "avg_attendance": 79.58,
-    "unity_score": 0.919,
-    "total_eligible_votes": 20979,
-    "total_attended": 16696
+    "avg_attendance": 76.83,
+    "unity_score": 0.926,
+    "total_eligible_votes": 28296,
+    "total_attended": 21740
   },
   {
     "party_id": "stan",
     "mps_count": 22,
-    "avg_attendance": 80.71,
-    "unity_score": 0.945,
-    "total_eligible_votes": 17094,
-    "total_attended": 13796
+    "avg_attendance": 79.42,
+    "unity_score": 0.948,
+    "total_eligible_votes": 23056,
+    "total_attended": 18310
   },
   {
     "party_id": "pirati",
     "mps_count": 19,
-    "avg_attendance": 87.65,
-    "unity_score": 0.951,
-    "total_eligible_votes": 14004,
-    "total_attended": 12274
+    "avg_attendance": 81.86,
+    "unity_score": 0.953,
+    "total_eligible_votes": 18864,
+    "total_attended": 15443
   },
   {
     "party_id": "kdu-csl",
     "mps_count": 16,
-    "avg_attendance": 85.26,
-    "unity_score": 0.931,
-    "total_eligible_votes": 12432,
-    "total_attended": 10600
+    "avg_attendance": 80.86,
+    "unity_score": 0.928,
+    "total_eligible_votes": 16768,
+    "total_attended": 13559
   },
   {
     "party_id": "spd",
     "mps_count": 16,
-    "avg_attendance": 87.96,
-    "unity_score": 0.945,
-    "total_eligible_votes": 11798,
-    "total_attended": 10378
+    "avg_attendance": 84.56,
+    "unity_score": 0.951,
+    "total_eligible_votes": 15720,
+    "total_attended": 13293
   },
   {
     "party_id": "ms",
     "mps_count": 13,
-    "avg_attendance": 85.36,
-    "unity_score": 0.956,
-    "total_eligible_votes": 10101,
-    "total_attended": 8622
+    "avg_attendance": 81.48,
+    "unity_score": 0.952,
+    "total_eligible_votes": 13624,
+    "total_attended": 11101
   },
   {
     "party_id": "top09",
     "mps_count": 9,
-    "avg_attendance": 76.85,
+    "avg_attendance": 75.89,
     "unity_score": 0.938,
-    "total_eligible_votes": 6993,
-    "total_attended": 5374
+    "total_eligible_votes": 9432,
+    "total_attended": 7158
+  },
+  {
+    "party_id": "Poslaneck klub ANO 2011",
+    "mps_count": 3,
+    "avg_attendance": 0.0,
+    "unity_score": null,
+    "total_eligible_votes": 6,
+    "total_attended": 0
+  },
+  {
+    "party_id": "Poslaneck klub Pirti",
+    "mps_count": 1,
+    "avg_attendance": 0.0,
+    "unity_score": null,
+    "total_eligible_votes": 18,
+    "total_attended": 0
+  },
+  {
+    "party_id": "Poslaneck klub Svoboda a pm demokracie",
+    "mps_count": 1,
+    "avg_attendance": 0.0,
+    "unity_score": null,
+    "total_eligible_votes": 143,
+    "total_attended": 0
   }
 ]
