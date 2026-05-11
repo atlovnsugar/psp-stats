@@ -11,7 +11,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Obansk demokratick strany",
+        "party_id": "ods",
         "from": "1992-06-06",
         "to": "1996-06-06"
       },
@@ -34,7 +34,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Obansk demokratick strany",
+        "party_id": "ods",
         "from": "1992-06-06",
         "to": "1996-06-06"
       },
@@ -57,7 +57,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Obansk demokratick strany",
+        "party_id": "ods",
         "from": "1992-06-06",
         "to": "1996-06-06"
       },
@@ -135,7 +135,7 @@
         "to": "2026-05-06"
       },
       {
-        "party_id": "Poslaneck klub ODS",
+        "party_id": "ods",
         "from": "2025-10-08",
         "to": null
       },
@@ -8913,12 +8913,12 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Obansk demokratick strany",
+        "party_id": "ods",
         "from": "1996-06-11",
         "to": "1998-01-19"
       },
       {
-        "party_id": "Poslaneck klub Unie svobody",
+        "party_id": "us",
         "from": "1998-01-20",
         "to": "1998-06-19"
       },
@@ -8946,12 +8946,12 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Obansk demokratick strany",
+        "party_id": "ods",
         "from": "1996-06-11",
         "to": "1998-01-19"
       },
       {
-        "party_id": "Poslaneck klub Unie svobody",
+        "party_id": "us",
         "from": "1998-01-20",
         "to": "1998-06-19"
       },
@@ -10173,22 +10173,22 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Kesansk a demokratick unie - eskoslovensk strany lidov",
+        "party_id": "kdu-csl",
         "from": "1996-06-06",
         "to": "1998-06-19"
       },
       {
-        "party_id": "Poslaneck klub Kesansk a demokratick unie - eskoslovensk strany lidov",
+        "party_id": "kdu-csl",
         "from": "1998-06-25",
         "to": "2002-06-20"
       },
       {
-        "party_id": "Poslaneck klub Kesansk a demokratick unie-eskoslovensk strany lidov",
+        "party_id": "kdu-csl",
         "from": "2002-06-19",
         "to": "2006-06-15"
       },
       {
-        "party_id": "Poslaneck klub Kesansk a demokratick unie-eskoslovensk strany lidov",
+        "party_id": "kdu-csl",
         "from": "2006-06-16",
         "to": "2010-06-03"
       },
@@ -11735,17 +11735,17 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub esk strany sociln demokratick",
+        "party_id": "cssd",
         "from": "1998-06-24",
         "to": "2002-06-20"
       },
       {
-        "party_id": "Poslaneck klub esk strany sociln demokratick",
+        "party_id": "cssd",
         "from": "2002-06-21",
         "to": "2006-06-15"
       },
       {
-        "party_id": "Poslaneck klub esk strany sociln demokratick",
+        "party_id": "cssd",
         "from": "2006-06-05",
         "to": "2010-06-03"
       },
@@ -11783,7 +11783,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Obansk demokratick strany",
+        "party_id": "ods",
         "from": "1998-06-30",
         "to": "2002-06-20"
       },
@@ -11851,7 +11851,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ODS",
+        "party_id": "ods",
         "from": "2025-10-08",
         "to": null
       },
@@ -15052,12 +15052,12 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ODS",
+        "party_id": "ods",
         "from": "2025-10-08",
         "to": null
       },
       {
-        "party_id": "Poslaneck klub ODS",
+        "party_id": "ods",
         "from": "2026-02-04",
         "to": null
       },
@@ -15799,7 +15799,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub TOP 09",
+        "party_id": "top09",
         "from": "2025-10-07",
         "to": null
       },
@@ -17096,7 +17096,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Komunistick strany ech a Moravy",
+        "party_id": "kscm",
         "from": "2002-06-19",
         "to": "2006-06-15"
       },
@@ -17868,12 +17868,12 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ODS",
+        "party_id": "ods",
         "from": "2025-10-08",
         "to": null
       },
       {
-        "party_id": "Poslaneck klub ODS",
+        "party_id": "ods",
         "from": "2025-10-08",
         "to": "2026-02-04"
       },
@@ -18838,7 +18838,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Svoboda a pm demokracie",
+        "party_id": "spd",
         "from": "2025-10-07",
         "to": null
       },
@@ -20227,7 +20227,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Motorist sob",
+        "party_id": "ms",
         "from": "2025-10-07",
         "to": null
       },
@@ -20629,37 +20629,37 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ODS",
+        "party_id": "ods",
         "from": "2025-10-08",
         "to": null
       },
       {
-        "party_id": "Poslaneck klub ODS",
+        "party_id": "ods",
         "from": "2025-10-08",
         "to": "2026-02-04"
       },
       {
-        "party_id": "Poslaneck klub Obansk demokratick strany",
+        "party_id": "ods",
         "from": "2013-10-30",
         "to": "2017-10-26"
       },
       {
-        "party_id": "Poslaneck klub Obansk demokratick strany",
+        "party_id": "ods",
         "from": "2013-11-06",
         "to": "2017-10-26"
       },
       {
-        "party_id": "Poslaneck klub Obansk demokratick strany",
+        "party_id": "ods",
         "from": "2014-12-09",
         "to": "2017-10-26"
       },
       {
-        "party_id": "Poslaneck klub Obansk demokratick strany",
+        "party_id": "ods",
         "from": "2017-10-24",
         "to": "2021-10-20"
       },
       {
-        "party_id": "Poslaneck klub Obansk demokratick strany",
+        "party_id": "ods",
         "from": "2021-10-12",
         "to": "2025-10-08"
       },
@@ -20774,17 +20774,17 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Komunistick strany ech a Moravy",
+        "party_id": "kscm",
         "from": "2008-10-25",
         "to": "2010-06-03"
       },
       {
-        "party_id": "Poslaneck klub Komunistick strany ech a Moravy",
+        "party_id": "kscm",
         "from": "2010-06-02",
         "to": "2013-08-28"
       },
       {
-        "party_id": "Poslaneck klub Komunistick strany ech a Moravy",
+        "party_id": "kscm",
         "from": "2013-10-27",
         "to": "2017-10-26"
       },
@@ -21178,7 +21178,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Vci veejn",
+        "party_id": "vv",
         "from": "2010-05-31",
         "to": "2012-04-18"
       },
@@ -21216,7 +21216,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub esk strany sociln demokratick",
+        "party_id": "cssd",
         "from": "2010-06-04",
         "to": "2013-08-28"
       },
@@ -21430,7 +21430,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ODS",
+        "party_id": "ods",
         "from": "2025-10-08",
         "to": null
       },
@@ -21562,7 +21562,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ODS",
+        "party_id": "ods",
         "from": "2025-10-08",
         "to": null
       },
@@ -21821,7 +21821,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Svoboda a pm demokracie",
+        "party_id": "spd",
         "from": "2025-10-07",
         "to": null
       },
@@ -22712,7 +22712,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub TOP 09",
+        "party_id": "top09",
         "from": "2025-10-07",
         "to": null
       },
@@ -24160,7 +24160,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Svoboda a pm demokracie",
+        "party_id": "spd",
         "from": "2025-10-07",
         "to": null
       },
@@ -24198,7 +24198,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ODS",
+        "party_id": "ods",
         "from": "2025-10-08",
         "to": null
       },
@@ -24756,17 +24756,17 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub svit - Nrodn Koalice",
+        "party_id": "usvit",
         "from": "2013-11-05",
         "to": "2015-09-15"
       },
       {
-        "party_id": "Poslaneck klub svit - Nrodn Koalice",
+        "party_id": "usvit",
         "from": "2013-12-10",
         "to": "2015-01-19"
       },
       {
-        "party_id": "Poslaneck klub svit - Nrodn Koalice",
+        "party_id": "usvit",
         "from": "2015-01-19",
         "to": "2015-09-15"
       },
@@ -24865,12 +24865,12 @@
         "to": "2021-10-05"
       },
       {
-        "party_id": "Poslaneck klub Komunistick strany ech a Moravy",
+        "party_id": "kscm",
         "from": "2017-10-24",
         "to": "2021-10-20"
       },
       {
-        "party_id": "Poslaneck klub Komunistick strany ech a Moravy",
+        "party_id": "kscm",
         "from": "2017-10-27",
         "to": "2021-10-20"
       }
@@ -24903,7 +24903,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -24918,7 +24918,7 @@
         "to": "2021-10-20"
       },
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2021-10-12",
         "to": "2025-10-08"
       }
@@ -25000,7 +25000,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub TOP 09",
+        "party_id": "top09",
         "from": "2025-10-07",
         "to": null
       },
@@ -25273,7 +25273,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -25382,7 +25382,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -25509,7 +25509,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -25682,7 +25682,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub KDU-SL",
+        "party_id": "kdu-csl",
         "from": "2025-10-07",
         "to": null
       },
@@ -25860,7 +25860,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": "2025-11-03"
       },
@@ -25918,7 +25918,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -26048,7 +26048,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -26331,7 +26331,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -26453,17 +26453,17 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub KDU-SL",
+        "party_id": "kdu-csl",
         "from": "2025-10-07",
         "to": null
       },
       {
-        "party_id": "Poslaneck klub KDU-SL",
+        "party_id": "kdu-csl",
         "from": "2026-03-04",
         "to": "2026-05-06"
       },
       {
-        "party_id": "Poslaneck klub KDU-SL",
+        "party_id": "kdu-csl",
         "from": "2026-05-06",
         "to": null
       },
@@ -26595,7 +26595,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -26666,7 +26666,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -26750,7 +26750,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Starostov a nezvisl",
+        "party_id": "stan",
         "from": "2025-10-10",
         "to": null
       },
@@ -26803,7 +26803,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -26851,7 +26851,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub TOP 09",
+        "party_id": "top09",
         "from": "2025-10-07",
         "to": null
       },
@@ -27098,7 +27098,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -27448,7 +27448,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -27529,7 +27529,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -27572,17 +27572,17 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2017-10-24",
         "to": "2021-10-20"
       },
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2021-10-12",
         "to": "2025-10-08"
       },
@@ -27896,7 +27896,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -27962,12 +27962,12 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ODS",
+        "party_id": "ods",
         "from": "2025-10-08",
         "to": null
       },
       {
-        "party_id": "Poslaneck klub ODS",
+        "party_id": "ods",
         "from": "2025-10-08",
         "to": "2026-02-04"
       },
@@ -28130,7 +28130,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -28186,7 +28186,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Pirti",
+        "party_id": "pirati",
         "from": "2025-10-05",
         "to": null
       },
@@ -28247,7 +28247,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ODS",
+        "party_id": "ods",
         "from": "2025-10-08",
         "to": null
       },
@@ -28553,7 +28553,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -28670,7 +28670,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -28762,7 +28762,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Svoboda a pm demokracie",
+        "party_id": "spd",
         "from": "2025-10-07",
         "to": null
       },
@@ -28828,7 +28828,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -28894,7 +28894,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ODS",
+        "party_id": "ods",
         "from": "2025-10-08",
         "to": null
       },
@@ -28991,7 +28991,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -29075,7 +29075,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Starostov a nezvisl",
+        "party_id": "stan",
         "from": "2025-10-10",
         "to": null
       },
@@ -29108,7 +29108,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Svoboda a pm demokracie",
+        "party_id": "spd",
         "from": "2025-10-07",
         "to": null
       },
@@ -29156,7 +29156,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -29291,7 +29291,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Pirti",
+        "party_id": "pirati",
         "from": "2025-10-05",
         "to": null
       },
@@ -29334,7 +29334,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -29372,7 +29372,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -29484,7 +29484,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Svoboda a pm demokracie",
+        "party_id": "spd",
         "from": "2025-10-07",
         "to": null
       },
@@ -29568,7 +29568,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub TOP 09",
+        "party_id": "top09",
         "from": "2025-10-07",
         "to": null
       },
@@ -29629,7 +29629,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -29685,7 +29685,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ODS",
+        "party_id": "ods",
         "from": "2025-10-08",
         "to": null
       },
@@ -29723,7 +29723,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -29802,7 +29802,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -29835,7 +29835,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -30057,7 +30057,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -30205,7 +30205,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -30271,7 +30271,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Svoboda a pm demokracie",
+        "party_id": "spd",
         "from": "2025-10-07",
         "to": null
       },
@@ -30309,7 +30309,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -30426,7 +30426,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub KDU-SL",
+        "party_id": "kdu-csl",
         "from": "2025-10-07",
         "to": null
       },
@@ -30487,7 +30487,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -30561,7 +30561,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -30617,7 +30617,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -30701,7 +30701,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -30739,7 +30739,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Starostov a nezvisl",
+        "party_id": "stan",
         "from": "2025-10-10",
         "to": null
       },
@@ -30818,7 +30818,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -30951,7 +30951,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -30989,7 +30989,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -31058,7 +31058,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ODS",
+        "party_id": "ods",
         "from": "2025-10-08",
         "to": null
       },
@@ -31111,7 +31111,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ODS",
+        "party_id": "ods",
         "from": "2025-10-08",
         "to": null
       },
@@ -31198,7 +31198,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -31226,7 +31226,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -31249,7 +31249,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -31272,7 +31272,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Pirti",
+        "party_id": "pirati",
         "from": "2025-10-05",
         "to": null
       },
@@ -31300,17 +31300,17 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub KDU-SL",
+        "party_id": "kdu-csl",
         "from": "2025-10-07",
         "to": null
       },
       {
-        "party_id": "Poslaneck klub KDU-SL",
+        "party_id": "kdu-csl",
         "from": "2025-10-07",
         "to": "2026-05-06"
       },
       {
-        "party_id": "Poslaneck klub KDU-SL",
+        "party_id": "kdu-csl",
         "from": "2026-05-06",
         "to": null
       },
@@ -31369,7 +31369,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ODS",
+        "party_id": "ods",
         "from": "2025-10-08",
         "to": null
       },
@@ -31415,7 +31415,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -31448,7 +31448,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -31512,7 +31512,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Svoboda a pm demokracie",
+        "party_id": "spd",
         "from": "2026-03-11",
         "to": null
       },
@@ -31581,7 +31581,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub TOP 09",
+        "party_id": "top09",
         "from": "2025-10-07",
         "to": null
       },
@@ -31624,7 +31624,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -31675,7 +31675,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ODS",
+        "party_id": "ods",
         "from": "2025-10-08",
         "to": null
       },
@@ -31739,7 +31739,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ODS",
+        "party_id": "ods",
         "from": "2025-10-08",
         "to": null
       },
@@ -31803,7 +31803,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Starostov a nezvisl",
+        "party_id": "stan",
         "from": "2025-10-10",
         "to": null
       },
@@ -31836,7 +31836,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -31918,7 +31918,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ODS",
+        "party_id": "ods",
         "from": "2025-10-08",
         "to": null
       },
@@ -31992,7 +31992,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -32038,7 +32038,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -32166,7 +32166,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -32271,7 +32271,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -32317,7 +32317,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Svoboda a pm demokracie",
+        "party_id": "spd",
         "from": "2025-10-07",
         "to": null
       },
@@ -32417,7 +32417,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Starostov a nezvisl",
+        "party_id": "stan",
         "from": "2025-10-10",
         "to": null
       },
@@ -32445,7 +32445,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ODS",
+        "party_id": "ods",
         "from": "2025-10-08",
         "to": null
       },
@@ -32491,7 +32491,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -32519,7 +32519,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub TOP 09",
+        "party_id": "top09",
         "from": "2025-10-07",
         "to": null
       },
@@ -32547,12 +32547,12 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ODS",
+        "party_id": "ods",
         "from": "2025-10-08",
         "to": null
       },
       {
-        "party_id": "Poslaneck klub ODS",
+        "party_id": "ods",
         "from": "2026-02-04",
         "to": null
       },
@@ -32580,7 +32580,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -32626,7 +32626,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -32708,7 +32708,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Starostov a nezvisl",
+        "party_id": "stan",
         "from": "2025-10-10",
         "to": null
       },
@@ -32741,7 +32741,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Starostov a nezvisl",
+        "party_id": "stan",
         "from": "2025-10-10",
         "to": null
       },
@@ -32805,7 +32805,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Starostov a nezvisl",
+        "party_id": "stan",
         "from": "2025-10-10",
         "to": null
       },
@@ -32833,7 +32833,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Starostov a nezvisl",
+        "party_id": "stan",
         "from": "2025-10-10",
         "to": null
       },
@@ -32889,7 +32889,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub KDU-SL",
+        "party_id": "kdu-csl",
         "from": "2025-10-07",
         "to": null
       },
@@ -32917,7 +32917,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -33127,7 +33127,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -33173,7 +33173,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -33201,7 +33201,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Svoboda a pm demokracie",
+        "party_id": "spd",
         "from": "2025-10-07",
         "to": null
       },
@@ -33265,7 +33265,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub KDU-SL",
+        "party_id": "kdu-csl",
         "from": "2025-10-07",
         "to": null
       },
@@ -33293,12 +33293,12 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ODS",
+        "party_id": "ods",
         "from": "2025-10-08",
         "to": null
       },
       {
-        "party_id": "Poslaneck klub ODS",
+        "party_id": "ods",
         "from": "2025-10-08",
         "to": "2026-02-04"
       },
@@ -33331,7 +33331,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Starostov a nezvisl",
+        "party_id": "stan",
         "from": "2025-10-10",
         "to": null
       },
@@ -33359,7 +33359,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Starostov a nezvisl",
+        "party_id": "stan",
         "from": "2025-10-10",
         "to": null
       },
@@ -33451,7 +33451,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ODS",
+        "party_id": "ods",
         "from": "2025-10-08",
         "to": null
       },
@@ -33515,7 +33515,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub TOP 09",
+        "party_id": "top09",
         "from": "2025-10-07",
         "to": null
       },
@@ -33656,7 +33656,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub KDU-SL",
+        "party_id": "kdu-csl",
         "from": "2025-10-07",
         "to": null
       },
@@ -33684,7 +33684,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ODS",
+        "party_id": "ods",
         "from": "2025-10-08",
         "to": null
       },
@@ -33725,12 +33725,12 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub KDU-SL",
+        "party_id": "kdu-csl",
         "from": "2025-10-07",
         "to": null
       },
       {
-        "party_id": "Poslaneck klub KDU-SL",
+        "party_id": "kdu-csl",
         "from": "2026-03-04",
         "to": null
       },
@@ -33753,7 +33753,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Pirti",
+        "party_id": "pirati",
         "from": "2025-10-05",
         "to": null
       },
@@ -33853,7 +33853,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -33912,7 +33912,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Pirti",
+        "party_id": "pirati",
         "from": "2025-10-05",
         "to": null
       },
@@ -33935,7 +33935,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Motorist sob",
+        "party_id": "ms",
         "from": "2025-10-07",
         "to": null
       },
@@ -33958,7 +33958,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -33981,12 +33981,12 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ODS",
+        "party_id": "ods",
         "from": "2025-10-08",
         "to": null
       },
       {
-        "party_id": "Poslaneck klub ODS",
+        "party_id": "ods",
         "from": "2026-02-04",
         "to": null
       },
@@ -34009,7 +34009,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Motorist sob",
+        "party_id": "ms",
         "from": "2025-10-07",
         "to": null
       },
@@ -34032,7 +34032,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -34055,7 +34055,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub TOP 09",
+        "party_id": "top09",
         "from": "2025-10-07",
         "to": null
       },
@@ -34078,7 +34078,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -34101,7 +34101,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub KDU-SL",
+        "party_id": "kdu-csl",
         "from": "2025-10-07",
         "to": null
       },
@@ -34124,7 +34124,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -34147,7 +34147,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Motorist sob",
+        "party_id": "ms",
         "from": "2025-10-07",
         "to": null
       },
@@ -34170,7 +34170,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Starostov a nezvisl",
+        "party_id": "stan",
         "from": "2025-10-10",
         "to": null
       },
@@ -34193,12 +34193,12 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub KDU-SL",
+        "party_id": "kdu-csl",
         "from": "2025-10-07",
         "to": null
       },
       {
-        "party_id": "Poslaneck klub KDU-SL",
+        "party_id": "kdu-csl",
         "from": "2026-05-06",
         "to": null
       },
@@ -34221,7 +34221,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Pirti",
+        "party_id": "pirati",
         "from": "2025-10-05",
         "to": null
       },
@@ -34244,7 +34244,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -34267,7 +34267,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Svoboda a pm demokracie",
+        "party_id": "spd",
         "from": "2025-10-07",
         "to": null
       },
@@ -34290,7 +34290,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Starostov a nezvisl",
+        "party_id": "stan",
         "from": "2025-10-10",
         "to": null
       },
@@ -34313,7 +34313,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Pirti",
+        "party_id": "pirati",
         "from": "2025-10-05",
         "to": null
       },
@@ -34336,7 +34336,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub KDU-SL",
+        "party_id": "kdu-csl",
         "from": "2025-10-07",
         "to": null
       },
@@ -34359,7 +34359,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -34382,7 +34382,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Motorist sob",
+        "party_id": "ms",
         "from": "2025-10-07",
         "to": null
       },
@@ -34405,7 +34405,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -34428,7 +34428,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Starostov a nezvisl",
+        "party_id": "stan",
         "from": "2025-10-10",
         "to": null
       },
@@ -34451,7 +34451,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -34474,7 +34474,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Motorist sob",
+        "party_id": "ms",
         "from": "2025-10-07",
         "to": null
       },
@@ -34497,7 +34497,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Starostov a nezvisl",
+        "party_id": "stan",
         "from": "2025-10-10",
         "to": null
       },
@@ -34520,7 +34520,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -34543,7 +34543,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Pirti",
+        "party_id": "pirati",
         "from": "2025-10-05",
         "to": null
       },
@@ -34566,7 +34566,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -34589,7 +34589,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Starostov a nezvisl",
+        "party_id": "stan",
         "from": "2025-10-10",
         "to": null
       },
@@ -34612,7 +34612,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Motorist sob",
+        "party_id": "ms",
         "from": "2025-10-07",
         "to": null
       },
@@ -34635,7 +34635,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Motorist sob",
+        "party_id": "ms",
         "from": "2025-10-07",
         "to": null
       },
@@ -34658,7 +34658,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub KDU-SL",
+        "party_id": "kdu-csl",
         "from": "2025-10-07",
         "to": null
       },
@@ -34681,7 +34681,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": "2025-11-03"
       },
@@ -34704,7 +34704,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Pirti",
+        "party_id": "pirati",
         "from": "2025-10-05",
         "to": "2025-11-05"
       },
@@ -34727,7 +34727,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -34750,7 +34750,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Motorist sob",
+        "party_id": "ms",
         "from": "2025-10-07",
         "to": null
       },
@@ -34773,7 +34773,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Pirti",
+        "party_id": "pirati",
         "from": "2025-10-05",
         "to": null
       },
@@ -34796,7 +34796,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Pirti",
+        "party_id": "pirati",
         "from": "2025-10-05",
         "to": null
       },
@@ -34819,7 +34819,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -34842,7 +34842,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Starostov a nezvisl",
+        "party_id": "stan",
         "from": "2025-10-10",
         "to": null
       },
@@ -34865,7 +34865,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Svoboda a pm demokracie",
+        "party_id": "spd",
         "from": "2025-10-07",
         "to": null
       },
@@ -34888,7 +34888,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub KDU-SL",
+        "party_id": "kdu-csl",
         "from": "2025-10-07",
         "to": null
       },
@@ -34911,7 +34911,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -34934,7 +34934,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Starostov a nezvisl",
+        "party_id": "stan",
         "from": "2025-10-10",
         "to": null
       },
@@ -34957,7 +34957,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -34980,7 +34980,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Pirti",
+        "party_id": "pirati",
         "from": "2025-10-05",
         "to": null
       },
@@ -35003,7 +35003,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -35026,7 +35026,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Motorist sob",
+        "party_id": "ms",
         "from": "2025-10-07",
         "to": null
       },
@@ -35049,7 +35049,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Pirti",
+        "party_id": "pirati",
         "from": "2025-10-05",
         "to": null
       },
@@ -35072,12 +35072,12 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub KDU-SL",
+        "party_id": "kdu-csl",
         "from": "2025-10-07",
         "to": null
       },
       {
-        "party_id": "Poslaneck klub KDU-SL",
+        "party_id": "kdu-csl",
         "from": "2026-03-04",
         "to": null
       },
@@ -35100,7 +35100,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Svoboda a pm demokracie",
+        "party_id": "spd",
         "from": "2025-10-07",
         "to": null
       },
@@ -35123,7 +35123,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -35146,7 +35146,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ODS",
+        "party_id": "ods",
         "from": "2025-10-08",
         "to": null
       },
@@ -35169,7 +35169,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -35192,12 +35192,12 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Motorist sob",
+        "party_id": "ms",
         "from": "2025-10-07",
         "to": null
       },
       {
-        "party_id": "Poslaneck klub Motorist sob",
+        "party_id": "ms",
         "from": "2026-03-24",
         "to": null
       },
@@ -35220,7 +35220,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Starostov a nezvisl",
+        "party_id": "stan",
         "from": "2025-10-10",
         "to": null
       },
@@ -35243,12 +35243,12 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ODS",
+        "party_id": "ods",
         "from": "2025-10-08",
         "to": null
       },
       {
-        "party_id": "Poslaneck klub ODS",
+        "party_id": "ods",
         "from": "2026-02-04",
         "to": null
       },
@@ -35271,7 +35271,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Starostov a nezvisl",
+        "party_id": "stan",
         "from": "2025-10-10",
         "to": null
       },
@@ -35294,12 +35294,12 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ODS",
+        "party_id": "ods",
         "from": "2025-10-08",
         "to": null
       },
       {
-        "party_id": "Poslaneck klub ODS",
+        "party_id": "ods",
         "from": "2026-02-04",
         "to": null
       },
@@ -35322,7 +35322,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Pirti",
+        "party_id": "pirati",
         "from": "2025-10-05",
         "to": null
       },
@@ -35345,7 +35345,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Svoboda a pm demokracie",
+        "party_id": "spd",
         "from": "2025-10-07",
         "to": "2026-03-11"
       },
@@ -35368,7 +35368,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Pirti",
+        "party_id": "pirati",
         "from": "2025-10-05",
         "to": null
       },
@@ -35391,7 +35391,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Pirti",
+        "party_id": "pirati",
         "from": "2025-10-05",
         "to": null
       },
@@ -35414,7 +35414,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Starostov a nezvisl",
+        "party_id": "stan",
         "from": "2025-10-10",
         "to": null
       },
@@ -35437,7 +35437,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Pirti",
+        "party_id": "pirati",
         "from": "2025-10-05",
         "to": null
       },
@@ -35460,7 +35460,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub KDU-SL",
+        "party_id": "kdu-csl",
         "from": "2025-10-07",
         "to": null
       },
@@ -35483,7 +35483,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -35506,7 +35506,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Motorist sob",
+        "party_id": "ms",
         "from": "2025-10-07",
         "to": null
       },
@@ -35529,7 +35529,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub KDU-SL",
+        "party_id": "kdu-csl",
         "from": "2025-10-07",
         "to": null
       },
@@ -35552,7 +35552,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -35575,7 +35575,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Pirti",
+        "party_id": "pirati",
         "from": "2025-10-05",
         "to": null
       },
@@ -35598,7 +35598,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Svoboda a pm demokracie",
+        "party_id": "spd",
         "from": "2025-10-07",
         "to": null
       },
@@ -35621,7 +35621,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Motorist sob",
+        "party_id": "ms",
         "from": "2025-10-07",
         "to": null
       },
@@ -35644,7 +35644,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -35667,7 +35667,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Starostov a nezvisl",
+        "party_id": "stan",
         "from": "2025-10-10",
         "to": null
       },
@@ -35690,7 +35690,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -35713,7 +35713,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": "2025-11-03"
       },
@@ -35736,7 +35736,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-10-08",
         "to": null
       },
@@ -35759,7 +35759,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub Pirti",
+        "party_id": "pirati",
         "from": "2025-11-05",
         "to": null
       },
@@ -35782,7 +35782,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-11-03",
         "to": null
       },
@@ -35805,7 +35805,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-11-03",
         "to": null
       },
@@ -35828,7 +35828,7 @@
     ],
     "party_timeline": [
       {
-        "party_id": "Poslaneck klub ANO 2011",
+        "party_id": "ano",
         "from": "2025-11-03",
         "to": null
       },
